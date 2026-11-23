@@ -87,7 +87,7 @@ function evRegion(e){
   return r || 'europe';
 }
 function regionLabel(r){
-  const known = {europe:'Europe', uae:'UAE', gulf:'Gulf', north_america:'North America'};
+  const known = {europe:'Europe', uae:'UAE', middle_east:'Middle East', gulf:'Gulf', north_america:'North America', south_america:'South America', oceania:'Oceania', asia:'Asia', africa:'Africa'};
   if(known[r]) return known[r];
   return String(r||'').split(/[_-]+/).filter(Boolean).map(w => w.charAt(0).toUpperCase()+w.slice(1)).join(' ') || r;
 }
@@ -98,7 +98,7 @@ function regionList(){
     if(r) counts.set(r, (counts.get(r)||0)+1);
   });
   const fromData = (D.regions||[]).filter(r => counts.has(r));
-  const preferred = ['europe','uae','gulf','north_america'];
+  const preferred = ['europe','uae','middle_east','gulf','north_america','south_america','oceania','asia','africa'];
   const ordered = [];
   preferred.forEach(r => { if(counts.has(r)) ordered.push(r); });
   fromData.forEach(r => { if(!ordered.includes(r)) ordered.push(r); });
@@ -381,7 +381,7 @@ function popEvent(e){
   const ph = e.photos && e.photos[0];
   return `<div class="pop">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
-function popupPad(){
+function mapChromePad(){
   const desk = innerWidth>860;
   const inset = 14;
   if(!desk){
@@ -390,20 +390,26 @@ function popupPad(){
   const layoutW = (el) => {
     if(!el) return 0;
     const s = getComputedStyle(el);
-    if(s.display==='none') return 0;
-    return el.offsetWidth||0;
+    if(s.display==='none' || s.visibility==='hidden') return 0;
+    const box = el.getBoundingClientRect();
+    if(box.right<=8 || box.left>=innerWidth-8) return 0;
+    return box.width||0;
   };
   const det = $('#detail');
   const open = det && det.classList.contains('open');
-  const strip = $('#timeline');
-  const side = $('#sidebar');
-  const leftEl = (strip && getComputedStyle(strip).display!=='none') ? strip : side;
+  const wrap = $('#mapwrap');
+  const onTimeline = wrap && wrap.classList.contains('timeline-on');
+  const leftEl = onTimeline ? $('#timeline') : $('#sidebar');
   const Lw = layoutW(leftEl);
   const Rw = open ? layoutW(det) : 0;
   return {
     topLeft: L.point(Math.round((Lw?inset+Lw:0)+16), 88),
     bottomRight: L.point(Math.round((Rw?inset+Rw:0)+16), 48)
   };
+}
+function popupPad(){
+  const p = mapChromePad();
+  return {topLeft:p.topLeft, bottomRight:p.bottomRight};
 }
 function panForOpenPopup(){
   const popup = map._popup;
@@ -565,18 +571,21 @@ function setRegion(r, opts){
 }
 
 function regionBoundsOf(r){
+  /* Bounds always come from pins in the data, so a new region
+     (South America, Oceania, Asia, Africa, …) frames itself
+     with no further code changes. */
   const ptsFor = (pred) => EV.filter(e => hasPin(e) && pred(e)).map(e => [e.lat, e.lng]);
+  const fromPts = (pts, pad) => {
+    if(!pts.length) return null;
+    const b = L.latLngBounds(pts);
+    return b.pad(pts.length===1 ? (pad==null?0.6:pad) : (pad==null?0.22:pad));
+  };
   if(!r || r==='all'){
-    const pts = ptsFor(() => true);
-    if(pts.length) return L.latLngBounds(pts).pad(0.18);
-    return L.latLngBounds([[21,-12],[71,58]]);
+    return fromPts(ptsFor(() => true), 0.18) || L.latLngBounds([[-55,-170],[72,180]]);
   }
-  const pts = ptsFor(e => evRegion(e)===r);
-  if(pts.length>=2) return L.latLngBounds(pts).pad(0.2);
-  if(pts.length===1) return L.latLngBounds(pts).pad(0.6);
-  if(r==='europe') return L.latLngBounds([[34,-12],[71,32]]);
-  if(r==='uae') return L.latLngBounds([[22.6,51.5],[26.6,56.6]]);
-  return regionBoundsOf('all');
+  return fromPts(ptsFor(e => evRegion(e)===r))
+    || fromPts(ptsFor(() => true), 0.18)
+    || L.latLngBounds([[-55,-170],[72,180]]);
 }
 function renderRegionChips(){
   const regions = regionList();
@@ -594,11 +603,12 @@ function renderRegionChips(){
 }
 function fitToVisible(){
   const pins = visibleEvents().map(e => markers[e.slug]).filter(Boolean);
-  const pad = innerWidth>860 ? {paddingTopLeft:[20,40], paddingBottomRight:[40,20]} : {padding:[60,24,40,24]};
+  const chrome = mapChromePad();
+  const pad = {paddingTopLeft:[chrome.topLeft.x, chrome.topLeft.y], paddingBottomRight:[chrome.bottomRight.x, chrome.bottomRight.y]};
   try{
     if(pins.length){
       const group = L.featureGroup(pins);
-      map.fitBounds(group.getBounds().pad(0.14), Object.assign({maxZoom: pins.length<4?8:6, animate:true}, pad));
+      map.fitBounds(group.getBounds().pad(0.12), Object.assign({maxZoom: pins.length<4?8:6, animate:true}, pad));
     }else{
       const b = regionBoundsOf(st.region);
       map.fitBounds(b, Object.assign({maxZoom: st.region!=='all' && pins.length<4?8:4, animate:true}, pad));
