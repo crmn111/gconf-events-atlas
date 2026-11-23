@@ -1,15 +1,19 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>GConf Events Atlas · AI, tech and crypto in Europe</title>
 <meta name="description" content="A map of upcoming AI, tech and crypto/Web3 events in Europe. Every fact is cited. Built by GConf AI.">
-<meta name="theme-color" content="#0A0E12">
+<meta name="theme-color" content="#F3F5F7" id="theme-color">
+<script>(function(){try{var t=localStorage.getItem('gconf-atlas-theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://basemaps.cartocdn.com">
+<link rel="preconnect" href="https://tiles.basemaps.cartocdn.com" crossorigin>
 <link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
 <link rel="stylesheet" href="style.css">
@@ -127,11 +131,25 @@
   <main id="mapwrap">
     <div id="map" role="application" aria-label="Map of events in Europe"></div>
     <div id="mapecho" class="mapecho" hidden></div>
-    <div class="basemaps" id="basemaps">
-      <button type="button" data-b="dark" class="on">Map</button>
-      <button type="button" data-b="light">Light</button>
-      <button type="button" data-b="osm">Street</button>
-      <button type="button" data-b="imagery">Satellite</button>
+    <div id="timeline" aria-hidden="true">
+      <div class="tl-scroll" id="tlbody"></div>
+    </div>
+    <nav class="viewbar" id="viewbar" aria-label="Views">
+      <button type="button" data-v="map" class="on">Map</button>
+      <button type="button" data-v="timeline">Timeline</button>
+      <button type="button" data-v="swipe">Swipe</button>
+    </nav>
+    <div class="chrome-right">
+      <div class="theme" id="theme" role="group" aria-label="Colour theme">
+        <button type="button" data-t="light" class="on">Light</button>
+        <button type="button" data-t="dark">Dark</button>
+      </div>
+      <div class="basemaps" id="basemaps" aria-label="Basemap">
+        <button type="button" data-b="voyager" class="on" title="CARTO Voyager">Voyager</button>
+        <button type="button" data-b="positron" title="CARTO Positron">Positron</button>
+        <button type="button" data-b="darkmatter" title="CARTO Dark Matter">Dark Matter</button>
+        <button type="button" data-b="satellite" title="Esri World Imagery">Satellite</button>
+      </div>
     </div>
     <div class="legend" id="legend">
       <button class="lgx" type="button" onclick="this.parentNode.classList.toggle('min')" aria-label="Collapse legend">–</button>
@@ -142,7 +160,6 @@
       <div class="muted">Dashed pin ring = approximate location</div>
     </div>
     <button id="mobtoggle" type="button" aria-label="Toggle list">☰ List</button>
-    <button id="swbtn" type="button" aria-label="Swipe through events"><span>⇆</span> Swipe</button>
   </main>
   <section id="swipe" aria-hidden="true" role="dialog" aria-label="Swipe events">
     <header class="swhead">
@@ -178,6 +195,8 @@
 </div>
 <script src="vendor/leaflet.js"></script>
 <script src="vendor/leaflet.markercluster.js"></script>
+<script src="vendor/maplibre-gl.js"></script>
+<script src="vendor/leaflet-maplibre-gl.js"></script>
 <script src="config.js"></script>
 <script src="data.js"></script>
 <script src="app.js"></script>

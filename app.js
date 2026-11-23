@@ -1,6 +1,6 @@
 /* GConf Events Atlas */
 const D = window.ATLASDATA || {events:[], updated:'', eurRates:{}, eurRatesNote:''};
-const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', viewsEnabled:false, viewsFn:'', claimEmail:''}, window.ATLASCONFIG||{});
+const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', viewsEnabled:false, viewsFn:'', claimEmail:'', cartoKey:''}, window.ATLASCONFIG||{});
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -33,6 +33,15 @@ function fmtPrice(e){
   return 'Price not published';
 }
 function hasPrice(e){ return !!(e.has_price || e.ticket_price_min!=null || e.ticket_price_max!=null || (e.ticket_price_text && !/unknown|not published|tbc|tba|on request/i.test(e.ticket_price_text))); }
+function pillText(e){
+  if(!hasPrice(e)) return 'TBA';
+  const t = fmtPrice(e).replace(/\s+/g,' ').trim();
+  if(/^(free|gratis)$/i.test(t) || /^free\b/i.test(t)) return 'Free';
+  const m = t.match(/(?:from\s+)?(?:[€$£]|EUR|USD|GBP|CHF)\s?[\d.,]+(?:\s?[–-]\s?(?:[€$£]|EUR|USD|GBP|CHF)?\s?[\d.,]+)?/i);
+  if(m){ const s=m[0].replace(/\s+/g,' '); return s.length>18?s.slice(0,16)+'…':s; }
+  if(/^[€$£]\s?\d/.test(t) && t.length<=18) return t;
+  return 'Priced';
+}
 function hasPin(e){ return e.lat!=null && e.lng!=null; }
 function isApprox(e){ return hasPin(e) && e.precise!==true; }
 function where(e){ return [e.venue, [e.city, e.country].filter(Boolean).join(', ')].filter(Boolean).join(' · '); }
@@ -46,24 +55,152 @@ const CITIES = [...new Map(EV.map(e => {
 CITIES.forEach(c => { c.n = EV.filter(e => (e.city||'Unknown')+'|'+(e.country||'')===c.key).length; });
 const TOPICS = [...new Set(EV.flatMap(e => e.topics||[]))].sort((a,b)=>a.localeCompare(b));
 
+/* ---------- theme + flags ---------- */
+const THEME_KEY = 'gconf-atlas-theme';
+const BASE_KEY = 'gconf-atlas-basemap';
+function currentTheme(){
+  return document.documentElement.getAttribute('data-theme')==='dark' ? 'dark' : 'light';
+}
+const ISO = {
+  Austria:'AT', Belgium:'BE', 'Czech Republic':'CZ', Czechia:'CZ', Estonia:'EE',
+  France:'FR', Germany:'DE', Greece:'GR', Italy:'IT', Latvia:'LV',
+  Luxembourg:'LU', Malta:'MT', Netherlands:'NL', 'The Netherlands':'NL',
+  Portugal:'PT', Spain:'ES', Switzerland:'CH', 'United Kingdom':'GB', UK:'GB',
+  'Great Britain':'GB', Ireland:'IE', Sweden:'SE', Norway:'NO', Denmark:'DK',
+  Finland:'FI', Poland:'PL', Hungary:'HU', Romania:'RO', Slovakia:'SK',
+  Slovenia:'SI', Croatia:'HR', Bulgaria:'BG', Lithuania:'LT', Iceland:'IS'
+};
+function flagOf(country){
+  const iso = ISO[country];
+  if(!iso) return '';
+  return String.fromCodePoint(...[...iso].map(c => 127397 + c.charCodeAt(0)));
+}
+
 /* ---------- map ---------- */
 const map = L.map('map', {zoomControl:false, minZoom:3, maxZoom:18, worldCopyJump:true}).setView([50.2, 8.5], 4);
 L.control.zoom({position:'bottomleft'}).addTo(map);
-const attrEsri = 'Tiles &copy; Esri — Esri, HERE, Garmin, FAO, NOAA, USGS, &copy; OpenStreetMap contributors';
+
+const CARTO_KEY = String(CFG.cartoKey||'').trim();
+const attrCarto = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>';
+const attrEsri = 'Tiles &copy; Esri — Esri, TomTom, Garmin, FAO, NOAA, USGS, &copy; OpenStreetMap contributors';
+const attrEsriImg = 'Tiles &copy; Esri — Esri, Maxar, Earthstar Geographics, and the GIS User Community';
 const esri = (p,o) => L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/'+p+'/MapServer/tile/{z}/{y}/{x}', Object.assign({maxZoom:19, attribution:attrEsri}, o||{}));
-const bases = {
-  dark: L.layerGroup([esri('Canvas/World_Dark_Gray_Base'), esri('Canvas/World_Dark_Gray_Reference')]),
-  light: L.layerGroup([esri('Canvas/World_Light_Gray_Base'), esri('Canvas/World_Light_Gray_Reference')]),
-  osm: L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}),
-  imagery: esri('World_Imagery')
+
+const CARTO_STYLES = {
+  voyager: 'voyager-gl-style',
+  positron: 'positron-gl-style',
+  darkmatter: 'dark-matter-gl-style'
 };
-let curBase = bases.dark.addTo(map);
-$$('#basemaps button').forEach(b => b.onclick = () => {
-  const k = b.dataset.b;
-  if(bases[k]===curBase) return;
-  map.removeLayer(curBase); curBase = bases[k].addTo(map);
-  $$('#basemaps button').forEach(x => x.classList.toggle('on', x===b));
-});
+function esriStandIn(id){
+  if(id==='positron') return L.layerGroup([esri('Canvas/World_Light_Gray_Base'), esri('Canvas/World_Light_Gray_Reference')]);
+  if(id==='darkmatter') return L.layerGroup([esri('Canvas/World_Dark_Gray_Base'), esri('Canvas/World_Dark_Gray_Reference')]);
+  if(id==='satellite') return esri('World_Imagery', {attribution:attrEsriImg});
+  return esri('World_Topo_Map'); /* Voyager-like colourful stand-in */
+}
+function cartoStyleUrl(id){
+  const slug = CARTO_STYLES[id];
+  let url = 'https://basemaps.cartocdn.com/gl/'+slug+'/style.json';
+  if(CARTO_KEY) url += '?key='+encodeURIComponent(CARTO_KEY);
+  return url;
+}
+function makeCartoLayer(id){
+  if(id==='satellite') return esriStandIn('satellite');
+  if(!(window.maplibregl && L.maplibreGL) || !CARTO_STYLES[id]) return esriStandIn(id);
+  return L.maplibreGL({
+    style: cartoStyleUrl(id),
+    attribution: attrCarto,
+    interactive: false
+  });
+}
+function hookCartoFallback(layer, id){
+  if(!layer || !layer.getMaplibreMap) return;
+  const attach = () => {
+    const gl = layer.getMaplibreMap && layer.getMaplibreMap();
+    if(!gl || layer._fellBack) return;
+    gl.on('error', () => {
+      if(layer._fellBack) return;
+      const loaded = gl.isStyleLoaded && gl.isStyleLoaded();
+      if(loaded) return;
+      layer._fellBack = true;
+      if(baseId===id && curBase===layer){
+        map.removeLayer(layer);
+        curBase = esriStandIn(id).addTo(map);
+      }
+    });
+  };
+  setTimeout(attach, 0);
+}
+
+const baseCache = {};
+let curBase = null;
+let baseId = 'voyager';
+let lastLightBase = 'voyager';
+let autoBase = false;
+
+function setBasemap(id, opts){
+  opts = opts||{};
+  if(!id || id===baseId && curBase && !opts.force) {
+    $$('#basemaps button').forEach(x => x.classList.toggle('on', x.dataset.b===baseId));
+    return;
+  }
+  if(id!=='voyager' && id!=='positron' && id!=='darkmatter' && id!=='satellite') id='voyager';
+  if(curBase){ try{ map.removeLayer(curBase); }catch(_){ } curBase=null; }
+  if(!baseCache[id]) baseCache[id] = makeCartoLayer(id);
+  curBase = baseCache[id].addTo(map);
+  hookCartoFallback(curBase, id);
+  baseId = id;
+  const wrap = $('#mapwrap');
+  if(wrap) wrap.dataset.base = id;
+  $$('#basemaps button').forEach(x => x.classList.toggle('on', x.dataset.b===id));
+  if(!opts.auto){
+    autoBase = false;
+    if(id!=='darkmatter') lastLightBase = id;
+    try{ localStorage.setItem(BASE_KEY, id); }catch(_){}
+  }else{
+    autoBase = true;
+  }
+}
+
+function applyTheme(t, opts){
+  opts = opts||{};
+  if(t!=='dark' && t!=='light') t='light';
+  document.documentElement.setAttribute('data-theme', t);
+  const meta = $('#theme-color');
+  if(meta) meta.content = t==='dark' ? '#0A0E12' : '#F3F5F7';
+  $$('#theme button').forEach(b => b.classList.toggle('on', b.dataset.t===t));
+  if(opts.persist!==false){ try{ localStorage.setItem(THEME_KEY, t); }catch(_){ } }
+  if(opts.swapBasemap!==false){
+    if(t==='dark' && (baseId==='voyager' || baseId==='positron')){
+      lastLightBase = baseId;
+      setBasemap('darkmatter', {auto:true});
+    }else if(t==='light' && baseId==='darkmatter' && autoBase){
+      setBasemap(lastLightBase||'voyager', {auto:true});
+    }
+  }
+}
+
+(function initChromePrefs(){
+  try{
+    const saved = localStorage.getItem(BASE_KEY);
+    if(saved==='voyager'||saved==='positron'||saved==='darkmatter'||saved==='satellite'){
+      baseId = saved;
+      if(saved!=='darkmatter') lastLightBase = saved;
+    }
+  }catch(_){}
+  let start = baseId;
+  if(currentTheme()==='dark' && (start==='voyager'||start==='positron')){
+    lastLightBase = start;
+    start = 'darkmatter';
+    autoBase = true;
+  }
+  baseId = ''; /* force first add */
+  setBasemap(start, {auto:autoBase, persist:false});
+  applyTheme(currentTheme(), {persist:false, swapBasemap:false});
+})();
+
+$$('#theme button').forEach(b => b.onclick = () => applyTheme(b.dataset.t, {fromUserClick:true}));
+$$('#basemaps button').forEach(b => b.onclick = () => setBasemap(b.dataset.b));
+
 
 const clusters = L.markerClusterGroup({
   showCoverageOnHover:false,
@@ -79,7 +216,7 @@ function popEvent(e){
   return `<div class="pop go" role="link" tabindex="0" onclick="if(!event.target.closest('a'))location.hash='#/event/${esc(e.slug)}'">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div><div class="pbtn"><a class="btn primary vd" href="#/event/${esc(e.slug)}">View details →</a></div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function evIcon(e){
-  return L.divIcon({className:'', html:`<div class="mk ${e.category||'tech'} ${isApprox(e)?'approx':''}"><div class="pill">${esc(hasPrice(e)?fmtPrice(e):'TBA')}</div></div>`, iconSize:[0,0], iconAnchor:[0,0]});
+  return L.divIcon({className:'', html:`<div class="mk ${e.category||'tech'} ${isApprox(e)?'approx':''}"><div class="pill">${esc(pillText(e))}</div></div>`, iconSize:[0,0], iconAnchor:[0,0]});
 }
 
 EV.forEach(e => {
@@ -298,6 +435,7 @@ function render(){
     else echo.hidden=true;
   }
   updateAlertPrefs(vis.length);
+  if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')) renderTimeline();
 }
 
 /* ---------- detail ---------- */
@@ -328,7 +466,8 @@ function viewEvent(e){
   const cat = catLabel(e);
   const topicTags = (e.topics||[]).filter(t => t.toLowerCase()!==cat.toLowerCase() && t.toLowerCase()!==(e.category||''));
   const tags = [cat].concat(topicTags).map(t=>`<span>${esc(t)}</span>`).join('');
-  const close = `<button class="close" type="button" aria-label="Close" onclick="location.hash='#/'">✕</button>`;
+  const closeTo = /^#\/timeline/.test(location.hash||'') ? '#/timeline' : '#/';
+  const close = `<button class="close" type="button" aria-label="Close" onclick="location.hash='${closeTo}'">✕</button>`;
   const gal = galHtml(ph, credit);
   const hero = `<div class="dhero ${esc(e.category||'')}">
     <div class="crumbs">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div>
@@ -360,7 +499,7 @@ function viewEvent(e){
       <label class="flab" for="claim-email">Your work email</label>
       <input id="claim-email" type="email" disabled placeholder="you@organiser.com">
       <label class="flab" for="claim-note">What should we correct?</label>
-      <textarea id="claim-note" rows="3" disabled placeholder="Dates, venue, ticket price, photos…" style="width:100%;margin:6px 0 10px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#0c1116;color:var(--ink);font:inherit"></textarea>
+      <textarea id="claim-note" rows="3" disabled placeholder="Dates, venue, ticket price, photos…" style="width:100%;margin:6px 0 10px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--input);color:var(--ink);font:inherit"></textarea>
       <button type="button" class="btn primary" disabled>Submit claim (not yet active)</button>
     </div>
   </div>`;
@@ -407,16 +546,106 @@ function stubViews(e){
   fetch(CFG.viewsFn, {method:'POST', headers:{'content-type':'application/json'}, body:JSON.stringify({slug:e.slug})}).catch(()=>{});
 }
 
+
+/* ---------- views + timeline ---------- */
+let lastMainView = 'map';
+function setMainView(v){
+  const wrap = $('#mapwrap');
+  const was = lastMainView;
+  lastMainView = v;
+  if(wrap){
+    wrap.classList.toggle('timeline-on', v==='timeline');
+  }
+  const tl = $('#timeline');
+  if(tl) tl.setAttribute('aria-hidden', v==='timeline' ? 'false' : 'true');
+  $$('#viewbar button').forEach(b => b.classList.toggle('on', b.dataset.v===v));
+  if(v==='timeline') renderTimeline();
+  if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
+  if(was==='timeline' && v==='map'){
+    setTimeout(() => { try{ map.invalidateSize(); }catch(_){ } }, 60);
+  }
+}
+function monthKey(e){
+  const d = parseDay(e.start_date);
+  if(!d) return 'tbc';
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
+}
+function monthLabel(key){
+  if(key==='tbc') return 'Dates to be announced';
+  const [y,m] = key.split('-').map(Number);
+  return new Date(y, m-1, 1).toLocaleDateString('en-GB', {month:'long', year:'numeric'});
+}
+function renderTimeline(){
+  const body = $('#tlbody');
+  if(!body) return;
+  const list = visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+  if(!list.length){
+    body.innerHTML = `<div class="tl-empty">${EV.length?'No events match the current filters.':'No upcoming events have been published yet.'}</div>`;
+    return;
+  }
+  const months = [];
+  const gmap = new Map();
+  list.forEach(e => {
+    const k = monthKey(e);
+    if(!gmap.has(k)){ const g={key:k, items:[]}; gmap.set(k,g); months.push(g); }
+    gmap.get(k).items.push(e);
+  });
+  body.innerHTML = months.map(m => {
+    const n = m.items.length;
+    const items = m.items.map(e => {
+      const d = parseDay(e.start_date);
+      const day = d ? String(d.getDate()) : '—';
+      const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
+      const ph = e.photos && e.photos[0];
+      const thumb = ph
+        ? `<div class="tl-thumb" style="background-image:url('${esc(ph.thumb||ph.src)}')"></div>`
+        : `<div class="tl-thumb ph">${esc(catLabel(e))}</div>`;
+      const flag = flagOf(e.country);
+      const loc = [e.city, e.country].filter(Boolean).join(', ');
+      return `<li class="tl-item ${esc(e.category||'')}">
+        <div class="tl-date"><b>${esc(day)}</b>${esc(wd)}</div>
+        <span class="tl-dot" aria-hidden="true"></span>
+        <article class="tl-card" data-slug="${esc(e.slug)}" tabindex="0" role="link" aria-label="${esc(e.name)}">
+          ${thumb}
+          <div class="tl-body">
+            <div class="tl-meta"><span class="tl-cat ${esc(e.category||'')}">${esc(catLabel(e))}</span><span>${esc(fmtRange(e.start_date,e.end_date))}</span></div>
+            <h3>${esc(e.name)}</h3>
+            <div class="tl-where">${flag?`<span class="flag" aria-hidden="true">${flag}</span>`:''}<span>${esc(loc||where(e))}</span></div>
+            <div class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</div>
+          </div>
+        </article>
+      </li>`;
+    }).join('');
+    return `<section class="tl-month">
+      <div class="tl-month-h"><b>${esc(monthLabel(m.key))}</b><span>${n} ${n===1?'event':'events'}</span></div>
+      <ol class="tl-list">${items}</ol>
+    </section>`;
+  }).join('');
+  $$('#tlbody .tl-card[data-slug]').forEach(c => {
+    const go = () => { location.hash = '#/timeline/event/'+c.dataset.slug; };
+    c.onclick = ev => { if(!ev.target.closest('a')) go(); };
+    c.onkeydown = ev => { if(ev.key==='Enter' || ev.key===' '){ ev.preventDefault(); go(); } };
+  });
+}
+$$('#viewbar button').forEach(b => b.onclick = () => {
+  const v = b.dataset.v;
+  location.hash = v==='map' ? '#/' : '#/'+v;
+});
+
 function route(){
   const hash = location.hash||'#/';
-  if(/^#\/swipe/.test(hash)){ $('#detail').classList.remove('open'); $('#detail').setAttribute('aria-hidden','true'); openSwipe(); closePrivacy(); return; }
+  const onTimeline = /^#\/timeline/.test(hash);
+  const onSwipe = /^#\/swipe/.test(hash);
+  setMainView(onSwipe ? 'swipe' : onTimeline ? 'timeline' : 'map');
+  if(onSwipe){ $('#detail').classList.remove('open'); $('#detail').setAttribute('aria-hidden','true'); openSwipe(); closePrivacy(); return; }
   else closeSwipe(true);
   if(/^#\/privacy/.test(hash)){ $('#privacy').classList.add('open'); $('#privacy').setAttribute('aria-hidden','false'); $('#detail').classList.remove('open'); return; }
   else closePrivacy();
   if(/^#\/alerts\/confirmed/.test(hash)){
-    $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
+    const n = $('#alert-confirmed');
+    if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
   }
-  const m = hash.match(/^#\/event\/([^/]+)(\/claim)?/);
+  const m = hash.match(/^#\/(?:timeline\/)?event\/([^/]+)(\/claim)?/);
   const det = $('#detail');
   if(!m){
     det.classList.remove('open'); det.setAttribute('aria-hidden','true'); det.querySelector('#dbody').innerHTML='';
@@ -426,14 +655,14 @@ function route(){
   }
   const slug = decodeURIComponent(m[1]);
   const e = EV.find(x => x.slug===slug);
-  if(!e){ location.hash='#/'; return; }
+  if(!e){ location.hash = onTimeline ? '#/timeline' : '#/'; return; }
   $('#dbody').innerHTML = viewEvent(e);
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
   if(m[2]){ const box=$('#claim-box'); if(box) box.hidden=false; }
   bindGallery(e);
   updateAlertPrefs(undefined, e);
   const ll = (e.lat!=null && e.lng!=null) ? L.latLng(e.lat, e.lng) : null;
-  if(ll){
+  if(ll && !onTimeline){
     const z = Math.max(map.getZoom(), 10);
     const off = innerWidth>860 ? Math.round(det.getBoundingClientRect().width/2) : 0;
     const pt = map.project(ll,z).subtract([off,0]);
@@ -517,7 +746,6 @@ function closeSwipe(fromRoute){
   document.body.classList.remove('swiping');
   if(!fromRoute && /^#\/swipe/.test(location.hash)) location.hash='#/';
 }
-$('#swbtn').onclick = () => { location.hash='#/swipe'; };
 $('#swclose').onclick = () => { location.hash='#/'; };
 $('#swprev').onclick = () => swStep(-1);
 $('#swnext').onclick = () => swStep(1);
@@ -736,7 +964,8 @@ window.addEventListener('hashchange', route);
 document.addEventListener('keydown', e => {
   if(e.key==='Escape'){
     if(LB.open) return;
-    if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash='#/';
+    if(/^#\/timeline\/event/.test(location.hash)) location.hash='#/timeline';
+    else if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash='#/';
   }
 });
 
