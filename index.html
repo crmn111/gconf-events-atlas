@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GConf Events Atlas · AI, tech and crypto in Europe</title>
+<meta name="description" content="A map of upcoming AI, tech and crypto/Web3 events in Europe. Every fact is cited. Built by GConf AI.">
+<meta name="theme-color" content="#0A0E12">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="vendor/MarkerCluster.css">
+<link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <header class="brand">
+      <a class="logo" href="https://gconf.ai" target="_blank" rel="noopener" aria-label="GConf.ai">
+        <img src="img/brand/gconf-mark-lime.svg" alt="" width="32" height="30">
+      </a>
+      <div>
+        <div class="eyebrow">↳ GConf.ai · Europe</div>
+        <h1>Events Atlas</h1>
+      </div>
+    </header>
+    <div class="stats" id="stats"></div>
+    <div class="sidetop">
+    <div class="search">
+      <input id="q" type="search" placeholder="Search events, cities, organisers…" autocomplete="off">
+    </div>
+    <section class="filters">
+      <div class="frow">
+        <label>Category</label>
+        <div class="chips" id="f-cat"></div>
+      </div>
+      <div class="frow">
+        <label>When</label>
+        <div class="chips presets" id="f-when"></div>
+        <div class="daterow" id="f-custom" hidden>
+          <label class="sr-only" for="f-from">From</label>
+          <input type="date" id="f-from" aria-label="From date">
+          <span class="dash">–</span>
+          <label class="sr-only" for="f-to">To</label>
+          <input type="date" id="f-to" aria-label="To date">
+        </div>
+      </div>
+      <div class="frow">
+        <label>City</label>
+        <div class="citybox">
+          <input id="f-cityq" type="search" placeholder="Filter cities…" autocomplete="off" aria-label="Filter cities">
+          <div class="chips cities" id="f-city"></div>
+        </div>
+      </div>
+      <div class="frow" id="f-topic-row" hidden>
+        <label>Topics</label>
+        <div class="chips" id="f-topic"></div>
+      </div>
+      <div class="frow pricebox">
+        <label>Ticket price (indicative €) <span id="pval" class="rv"></span></label>
+        <div class="chips presets" id="f-preset">
+          <button type="button" data-p="0,150">≤ €150</button>
+          <button type="button" data-p="0,500">≤ €500</button>
+          <button type="button" data-p="500,1500">€500–1,500</button>
+          <button type="button" data-p="1500,999999">€1,500+</button>
+          <button type="button" data-p="0,999999" class="on">Any</button>
+        </div>
+        <div class="dual" id="dual">
+          <div class="dtrack"><i id="dfill"></i></div>
+          <input type="range" id="f-pmin" min="0" max="16" step="1" value="0" aria-label="Minimum ticket price">
+          <input type="range" id="f-pmax" min="0" max="16" step="1" value="16" aria-label="Maximum ticket price">
+        </div>
+        <div class="dticks"><span>€0</span><span>€250</span><span>€1k</span><span>€3k+</span></div>
+        <label class="check"><input type="checkbox" id="f-unknown" checked> Include events with unknown price <span class="rv" id="uval"></span></label>
+        <p class="note" id="prate-note" hidden></p>
+      </div>
+    </section>
+    </div>
+    <div class="listhead">
+      <span id="count"></span>
+      <select id="sort" aria-label="Sort events">
+        <option value="date">Date: soonest</option>
+        <option value="date-desc">Date: latest</option>
+        <option value="price">Price: low to high</option>
+        <option value="price-desc">Price: high to low</option>
+        <option value="name">Name</option>
+        <option value="city">City</option>
+      </select>
+    </div>
+    <div id="list"></div>
+    <section class="alerts" id="alerts">
+      <h2>Alerts</h2>
+      <div class="soon" id="alerts-soon">
+        <strong>Alerts coming soon.</strong>
+        Addresses are not collected until double opt-in email is live.
+      </div>
+      <form id="alert-form" novalidate>
+        <label class="flab" for="alert-email">Email</label>
+        <input id="alert-email" name="email" type="email" autocomplete="email" placeholder="you@company.com" disabled>
+        <fieldset class="prefs">
+          <legend>Notify me about</legend>
+          <p class="note" id="alert-prefs">Uses the filters currently set on the map.</p>
+        </fieldset>
+        <label class="check">
+          <input type="checkbox" id="alert-consent" name="alert_consent" disabled>
+          Email me when matching events are added or ticket prices change
+        </label>
+        <label class="check">
+          <input type="checkbox" id="org-consent" name="organiser_share" disabled>
+          Share my details with this event’s organiser <span id="org-event-label"></span>
+        </label>
+        <button type="submit" class="btn primary" id="alert-submit" disabled>Sign up for alerts</button>
+        <p class="note" id="alert-msg" role="status"></p>
+      </form>
+    </section>
+    <footer class="foot">
+      A <a href="https://gconf.ai" target="_blank" rel="noopener">GConf.ai</a> map of upcoming AI, tech and crypto events in Europe.
+      Research as of <span id="upd"></span>. Every fact is cited on its event page.
+      ◌ marks an approximate pin. Ticket-price comparisons in euro are indicative.
+      Basemaps © Esri and OpenStreetMap contributors. Photos © their publishers, credited on each page.
+      <span class="priv">Controller: GConf AI Limited. <a href="#/privacy">Privacy notice</a> and official company details to follow.</span>
+    </footer>
+  </aside>
+  <main id="mapwrap">
+    <div id="map" role="application" aria-label="Map of events in Europe"></div>
+    <div id="mapecho" class="mapecho" hidden></div>
+    <div class="basemaps" id="basemaps">
+      <button type="button" data-b="dark" class="on">Map</button>
+      <button type="button" data-b="light">Light</button>
+      <button type="button" data-b="osm">Street</button>
+      <button type="button" data-b="imagery">Satellite</button>
+    </div>
+    <div class="legend" id="legend">
+      <button class="lgx" type="button" onclick="this.parentNode.classList.toggle('min')" aria-label="Collapse legend">–</button>
+      <div class="lg-title">Legend</div>
+      <div><i class="pin-s ai"></i>AI</div>
+      <div><i class="pin-s tech"></i>Tech</div>
+      <div><i class="pin-s crypto"></i>Crypto / Web3</div>
+      <div class="muted">Dashed pin ring = approximate location</div>
+    </div>
+    <button id="mobtoggle" type="button" aria-label="Toggle list">☰ List</button>
+    <button id="swbtn" type="button" aria-label="Swipe through events"><span>⇆</span> Swipe</button>
+  </main>
+  <section id="swipe" aria-hidden="true" role="dialog" aria-label="Swipe events">
+    <header class="swhead">
+      <div class="swt"><b>Swipe events</b><span id="swpos">–</span></div>
+      <div class="swctl">
+        <div class="seg sm" id="swsort">
+          <button type="button" data-s="date" class="on">Date</button>
+          <button type="button" data-s="price">Price ↑</button>
+          <button type="button" data-s="price-desc">Price ↓</button>
+        </div>
+        <button id="swclose" class="swx" type="button" aria-label="Close (Esc)">✕</button>
+      </div>
+    </header>
+    <div class="swmain">
+      <button id="swprev" class="swarr l" type="button" aria-label="Previous">‹</button>
+      <div id="swview"><div id="swtrack"></div></div>
+      <button id="swnext" class="swarr r" type="button" aria-label="Next">›</button>
+    </div>
+    <div class="swfoot">← / → keys or swipe · Esc to close · follows the active filters</div>
+  </section>
+  <section id="detail" aria-hidden="true"><div class="dscroll" id="dbody"></div></section>
+  <section id="privacy" class="sheet" aria-hidden="true" role="dialog" aria-label="Privacy notice">
+    <div class="sheetbody">
+      <button class="close" type="button" id="privclose" aria-label="Close">✕</button>
+      <h2>Privacy notice</h2>
+      <p>This is a placeholder. A full privacy policy will be published before any email addresses are collected.</p>
+      <p>Controller: <strong>GConf AI Limited</strong>. Official company details (registered office, company number) will be taken from the GConf fact sheet and are not listed here yet.</p>
+      <p>The atlas itself is a static map. It does not set advertising cookies and does not collect emails while alerts are marked “coming soon”.</p>
+      <p>When alerts launch, sign-up will use double opt-in, a one-click unsubscribe link, and a separate consent for sharing details with an event organiser. Organiser outreach is not sent from this site.</p>
+      <p>A privacy-friendly view counter (counts only, no IP or device identifiers) may be added once the backend exists. It is not active on this version.</p>
+    </div>
+  </section>
+</div>
+<script src="vendor/leaflet.js"></script>
+<script src="vendor/leaflet.markercluster.js"></script>
+<script src="config.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

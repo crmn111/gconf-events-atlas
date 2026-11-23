@@ -1,0 +1,17 @@
+# Generated for a project that does not exist yet.
+# After `supabase init` / linking a project, check this file in or replace it.
+
+[api]
+enabled = true
+
+[functions.subscribe]
+verify_jwt = false
+
+[functions.confirm]
+verify_jwt = false
+
+[functions.unsubscribe]
+verify_jwt = false
+
+[functions.send-alerts]
+verify_jwt = false
