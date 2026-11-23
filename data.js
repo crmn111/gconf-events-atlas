@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-23",
- "generated": "2026-11-23T22:25:31Z",
+ "generated": "2026-11-23T22:38:08Z",
  "scope": "Conferences and festivals in Europe, the UAE, and the Middle East",
  "regions": [
   "europe",

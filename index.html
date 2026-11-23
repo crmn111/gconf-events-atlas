@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611232325">
+<link rel="stylesheet" href="style.css?v=202611232338">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -31,6 +31,13 @@
         <div class="eyebrow">↳ GConf.ai · Europe &amp; the UAE</div>
         <h1>Events Atlas</h1>
       </div>
+      <button type="button" id="grid-collapse" class="grid-collapse" aria-label="Minimise filters" title="Minimise filters">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <rect x="3.5" y="4.5" width="17" height="15" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.7"/>
+          <path d="M9.5 4.5v15" fill="none" stroke="currentColor" stroke-width="1.7"/>
+          <path d="M14 12h5.2M14 12l2.2-2.2M14 12l2.2 2.2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
     </header>
     <div class="kindbar" id="kindbar" role="tablist" aria-label="Event type">
       <button type="button" role="tab" data-k="conference" class="on" aria-selected="true">Conferences <small id="kind-n-conference"></small></button>
@@ -99,9 +106,10 @@
       <select id="sort" aria-label="Sort events">
         <option value="date">Date: soonest</option>
         <option value="date-desc">Date: latest</option>
+        <option value="attendance">Largest: attendance</option>
         <option value="price">Price: low to high</option>
         <option value="price-desc">Price: high to low</option>
-        <option value="name">Name</option>
+        <option value="name">Name: A–Z</option>
         <option value="city">City</option>
       </select>
     </div>
@@ -158,9 +166,14 @@
       </div>
       <div class="tl-scroll" id="tlbody"></div>
     </div>
+    <section id="grid" aria-hidden="true" aria-label="Event grid">
+      <div id="gridbody" class="gridbody"></div>
+    </section>
+    <button type="button" id="grid-expand" class="grid-expand" hidden>Filters</button>
     <nav class="viewbar" id="viewbar" aria-label="Views">
       <button type="button" data-v="timeline" class="on">Timeline</button>
       <button type="button" data-v="map">Map</button>
+      <button type="button" data-v="grid">Grid</button>
       <button type="button" data-v="swipe">Swipe</button>
     </nav>
     <div class="regions" id="regions" aria-label="Jump to region"></div>
@@ -268,8 +281,8 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611232325"></script>
-<script src="data.js?v=202611232325"></script>
-<script src="app.js?v=202611232325"></script>
+<script src="config.js?v=202611232338"></script>
+<script src="data.js?v=202611232338"></script>
+<script src="app.js?v=202611232338"></script>
 </body>
 </html>

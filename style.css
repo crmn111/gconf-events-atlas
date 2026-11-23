@@ -536,7 +536,7 @@ body.lbopen,body.swiping{overflow:hidden}
   .gal .gi.lead .cs{transition:opacity .15s}
   .cs.kb0,.cs.kb1,.cs.kb2,.cs.kb3{animation:none}
   .cdot{transition:none}
-  #detail,#sidebar,#swtrack,.playbar,#playfill,.tl-card{transition:none}
+  #detail,#sidebar,#swtrack,.playbar,#playfill,.tl-card,#grid,.viewbar,.grid-expand{transition:none}
 }
 
 .mapecho{position:absolute;left:50%;top:70px;transform:translateX(-50%);z-index:640;background:var(--overlay);border:1px solid var(--overlay-border);color:var(--ink);padding:8px 14px;border-radius:10px;font-size:13px;max-width:min(420px,calc(100% - 40px));text-align:center;box-shadow:var(--shadow);pointer-events:none}
@@ -1439,4 +1439,189 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 }
 @media (max-width:860px){
   .panel-resizer{display:none!important}
+}
+
+
+/* ---------- Grid view ---------- */
+#grid{display:none;position:absolute;inset:0;z-index:600;overflow:auto;background:var(--bg);-webkit-overflow-scrolling:touch}
+#gridbody.gridbody{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;align-content:start;padding:64px 16px 28px}
+#mapwrap.grid-on #grid{display:block}
+#mapwrap.grid-on #map{visibility:hidden;pointer-events:none}
+#mapwrap.grid-on #timeline{display:none}
+#mapwrap.grid-on .legend,
+#mapwrap.grid-on .mapecho,
+#mapwrap.grid-on .basemaps,
+#mapwrap.grid-on .regions{display:none}
+#app.grid-on #list{display:none}
+#app.grid-on #sidebar{display:flex;flex-direction:column}
+#app.grid-on #sidebar .brand{order:0}
+#app.grid-on #sidebar .kindbar{order:1}
+#app.grid-on #sidebar .stats{order:2}
+#app.grid-on #sidebar .listhead{
+  order:3;
+  position:sticky;top:0;z-index:3;
+  background:var(--panel-float, var(--panel));
+  backdrop-filter:blur(12px);
+  -webkit-backdrop-filter:blur(12px);
+  border-top:0;
+  border-bottom:1px solid var(--line);
+  flex:none;
+}
+#app.grid-on #sidebar .sidetop{order:4}
+#app.grid-on #sidebar .alerts{order:5}
+#app.grid-on #sidebar .foot{order:6}
+#app.grid-on #sidebar #list{order:7}
+
+.grid-collapse{
+  display:none;
+  margin-left:auto;
+  flex:none;
+  width:36px;height:36px;
+  border:1px solid var(--line);
+  background:var(--input);
+  color:var(--ink);
+  border-radius:10px;
+  align-items:center;justify-content:center;
+  cursor:pointer;
+  padding:0;
+}
+.grid-collapse:hover{background:var(--ghost);border-color:var(--cyan)}
+.grid-collapse:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+#app.grid-on .grid-collapse{display:inline-flex}
+
+.grid-expand{
+  display:none;
+  position:absolute;
+  top:14px;left:14px;
+  z-index:740;
+  border:1px solid var(--overlay-border);
+  background:var(--overlay);
+  color:var(--ink);
+  border-radius:10px;
+  padding:8px 14px;
+  font:600 12px var(--sans);
+  letter-spacing:.01em;
+  box-shadow:var(--shadow);
+  backdrop-filter:blur(8px);
+  cursor:pointer;
+}
+.grid-expand:hover{background:var(--ink);color:var(--on-ink)}
+.grid-expand:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+#app.grid-on.grid-min .grid-expand{display:inline-flex}
+
+.gcard{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:16px;
+  overflow:hidden;
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  min-width:0;
+  transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.gcard:hover{transform:translateY(-2px);box-shadow:var(--shadow);border-color:var(--cyan)}
+.gcard:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+.gcard.on{border-color:var(--cyan);box-shadow:0 0 0 2px color-mix(in srgb,var(--cyan) 35%,transparent), var(--shadow)}
+.gcard-photo{
+  position:relative;
+  aspect-ratio:16/10;
+  background:var(--input);
+  overflow:hidden;
+}
+.gcard-photo img{width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity .2s ease}
+.gcard-photo img.ld{opacity:1}
+.gcard-photo.ph{display:grid;place-items:center;font:700 12px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:#fff;text-align:center;padding:12px}
+.gcard-photo.ph span{max-width:90%}
+.gcard-photo.ph.ai{background:linear-gradient(135deg,#082830,#1FA9C6)}
+.gcard-photo.ph.tech{background:linear-gradient(135deg,#1a2408,#8AA61A)}
+.gcard-photo.ph.crypto{background:linear-gradient(135deg,#12181F,#1FA9C6)}
+.gcard-photo.ph.education{background:url('img/placeholders/education.svg') center 46%/36% no-repeat,linear-gradient(135deg,#151836,#5B6FE8)}
+.gcard-photo.ph.music{background:linear-gradient(135deg,#1a1238,#6B4DE8)}
+.gcard-photo.ph.arts{background:linear-gradient(135deg,#2a1018,#D44B78)}
+.gcard-photo.ph.film{background:linear-gradient(135deg,#2a1a08,#E08A2A)}
+.gcard-photo.ph.food{background:linear-gradient(135deg,#2a100c,#C94A38)}
+.gcard-photo.ph.culture{background:linear-gradient(135deg,#082420,#1F8A7A)}
+.gcard-photo.ph.other{background:linear-gradient(135deg,#1a1e22,#5C6570)}
+.gcard-body{display:flex;flex-direction:column;gap:4px;padding:12px 14px 14px;min-width:0;flex:1}
+.gcard-tags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:4px}
+.gcard-tags .tag.kind{text-transform:none;letter-spacing:.02em;font-weight:600;color:var(--muted)}
+.gcard-body h3{margin:0;font-size:16px;font-weight:600;letter-spacing:-.02em;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.gcard-when,.gcard-where{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gcard-foot{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-top:auto;padding-top:8px}
+.gcard-foot .price{font-weight:600;font-size:13.5px;color:var(--price);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.gcard-foot .price.unk{color:var(--muted);font-weight:500}
+.gcard-att{font-size:11.5px;color:var(--dim);font-weight:500;white-space:nowrap}
+
+@media (min-width:861px){
+  #app.grid-on #sidebar{
+    transition:transform .28s ease, opacity .28s ease;
+  }
+  #grid{
+    background:transparent;
+    inset:auto;
+    top:var(--inset);
+    bottom:var(--inset);
+    right:var(--inset);
+    left:calc(var(--inset) + var(--sbw) + 10px);
+    overflow:auto;
+    transition:left .28s ease, right .28s ease;
+  }
+  #app.grid-on .viewbar{transition:left .28s ease}
+  #app.grid-on:has(#detail.open) #grid{
+    right:calc(var(--inset) + var(--dw) + 10px);
+  }
+  #app.grid-on.grid-min #sidebar{
+    transform:translateX(calc(-100% - var(--inset) - 8px));
+    pointer-events:none;
+    opacity:.4;
+  }
+  #app.grid-on.grid-min #grid{left:var(--inset)}
+  #app.grid-on.grid-min .viewbar{
+    left:calc(var(--inset) + 108px);
+  }
+  #app.grid-on.grid-min .grid-expand{
+    display:inline-flex;
+    top:var(--inset);
+    left:var(--inset);
+  }
+  #app.grid-on.grid-min > .panel-resizer[data-side="left"]{display:none}
+  #app.grid-on.grid-min .chrome-right{max-width:calc(100vw - var(--inset)*2 - 280px)}
+  #app.grid-on.grid-min:has(#detail.open) .chrome-right{
+    right:calc(var(--inset) + var(--dw) + 10px);
+    max-width:calc(100vw - var(--dw) - var(--inset)*2 - 280px);
+  }
+  /* Both side panels open leaves a narrow grid band; keep the view
+     switcher clear by parking the theme control at the bottom. */
+  #app.grid-on:not(.grid-min):has(#detail.open) .chrome-right{
+    top:auto;
+    bottom:var(--inset);
+    right:calc(var(--inset) + var(--dw) + 10px);
+    max-width:calc(100vw - var(--sbw) - var(--dw) - var(--inset)*2 - 24px);
+  }
+  #app.grid-on #mobtoggle{display:none}
+}
+
+@media (max-width:860px){
+  #app.grid-on #mobtoggle{display:none}
+  #grid{
+    inset:0;
+    bottom:52vh;
+    background:var(--bg);
+    transition:bottom .25s ease;
+  }
+  #app.grid-on.grid-min #grid,
+  #app.grid-on:has(#sidebar.collapsed) #grid{bottom:0}
+  #app.grid-on:has(#detail.open) #grid{pointer-events:none}
+  #gridbody.gridbody{padding:62px 12px 18px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+  #app.grid-on .viewbar{left:14px;top:14px;z-index:730}
+  #app.grid-on.grid-min .viewbar{left:116px}
+  #app.grid-on.grid-min .grid-expand{display:inline-flex;top:14px;left:14px}
+}
+
+@media (prefers-reduced-motion: reduce){
+  #app.grid-on #sidebar,
+  #grid,
+  #app.grid-on .viewbar{transition:none}
+  .gcard{transition:none}
 }

@@ -56,6 +56,18 @@ function fmtPrice(e){
   if(e.ticket_price_text) return e.ticket_price_text;
   return 'Price not published';
 }
+function attendanceValue(e){
+  const raw = e && e.expected_attendance;
+  if(raw==null || raw==='') return -1;
+  const n = Number(String(raw).replace(/[^0-9.]/g,''));
+  return isFinite(n) && n>0 ? n : -1;
+}
+function fmtAttendance(e){
+  const n = attendanceValue(e);
+  if(n<0) return '';
+  const s = n.toLocaleString('en-GB');
+  return s + (n===1 ? ' attendee' : ' attendees');
+}
 function hasPrice(e){ return !!(e.has_price || e.ticket_price_min!=null || e.ticket_price_max!=null || (e.ticket_price_text && !/unknown|not published|tbc|tba|on request/i.test(e.ticket_price_text))); }
 function pillText(e){
   if(!hasPrice(e)) return 'TBA';
@@ -403,8 +415,7 @@ function panForOpenPopup(){
   try{ if(popup._adjustPan) popup._adjustPan(); }catch(_){}
 }
 function openEventFromPin(e){
-  const onTimeline = /^#\/timeline/.test(location.hash||'');
-  const h = (onTimeline ? '#/timeline/event/' : '#/event/') + e.slug;
+  const h = eventHash(e.slug);
   if((location.hash||'')!==h) location.hash = h;
   setTimeout(panForOpenPopup, 50);
   setTimeout(panForOpenPopup, 320);
@@ -537,7 +548,7 @@ function setKind(k){
   if(m){
     const ev = EV.find(x => x.slug===decodeURIComponent(m[1]));
     if(ev && evKind(ev)!==k){
-      const next = /^#\/timeline/.test(location.hash) ? '#/timeline' : (/^#\/swipe/.test(location.hash) ? '#/swipe' : '#/');
+      const next = viewHomeHash();
       if(location.hash!==next) location.hash = next;
     }
   }
@@ -768,6 +779,11 @@ function sortEvents(a){
     if(s==='city') return (x.city||'').localeCompare(y.city||'') || (x.name||'').localeCompare(y.name||'');
     if(s==='price') return minP(x)-minP(y);
     if(s==='price-desc') return maxP(y)-maxP(x);
+    if(s==='attendance'){
+      const ay = attendanceValue(y), ax = attendanceValue(x);
+      if(ay!==ax) return ay-ax;
+      return (x.name||'').localeCompare(y.name||'');
+    }
     if(s==='date-desc') return (y.start_date||'0000').localeCompare(x.start_date||'0000') || (x.name||'').localeCompare(y.name||'');
     return (x.start_date||'9999').localeCompare(y.start_date||'9999') || (x.name||'').localeCompare(y.name||'');
   });
@@ -845,7 +861,7 @@ function bindMediaFallback(sel){
         return;
       }
       img.removeEventListener('error', onerr);
-      const hero = img.closest('.tl-hero, .th, .swimg');
+      const hero = img.closest('.tl-hero, .th, .swimg, .gcard-photo');
       if(hero){ hero.classList.add('ph'); hero.classList.remove('hasphoto'); }
       img.remove();
     });
@@ -906,6 +922,7 @@ function render(){
   updateAlertPrefs(vis.length);
   if(PLAY.on && !PLAY.paused) playPause();
   if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')){ renderTimeline(); bindMediaFallback('#tlbody img'); }
+  if($('#mapwrap') && $('#mapwrap').classList.contains('grid-on')) renderGrid();
   if(PLAY.on) playReconcile();
 }
 
@@ -1038,6 +1055,62 @@ function stubViews(e){
 
 
 /* ---------- views + timeline ---------- */
+function currentView(){
+  const h = location.hash||'';
+  if(/^#\/timeline/.test(h)) return 'timeline';
+  if(/^#\/grid/.test(h)) return 'grid';
+  if(/^#\/swipe/.test(h)) return 'swipe';
+  if(/^#\/privacy/.test(h)) return 'privacy';
+  return 'map';
+}
+function viewHomeHash(v){
+  v = v || currentView();
+  if(v==='timeline') return '#/timeline';
+  if(v==='grid') return '#/grid';
+  if(v==='swipe') return '#/swipe';
+  return '#/';
+}
+function eventHash(slug, v){
+  v = v || currentView();
+  if(v==='timeline') return '#/timeline/event/'+slug;
+  if(v==='grid') return '#/grid/event/'+slug;
+  return '#/event/'+slug;
+}
+
+const GRID_MIN_KEY = 'gconf-atlas-grid-min';
+const GRID = {min:false};
+try{ GRID.min = localStorage.getItem(GRID_MIN_KEY)==='1'; }catch(_){}
+
+function setGridMin(on, opts){
+  opts = opts||{};
+  GRID.min = !!on;
+  const inGrid = (opts.view || lastMainView) === 'grid';
+  const appEl = $('#app');
+  if(appEl) appEl.classList.toggle('grid-min', !!(GRID.min && inGrid));
+  const side = $('#sidebar');
+  if(side){
+    if(inGrid && innerWidth<=860) side.classList.toggle('collapsed', GRID.min);
+    if(inGrid){
+      if(GRID.min) side.setAttribute('inert','');
+      else side.removeAttribute('inert');
+    }else{
+      side.removeAttribute('inert');
+    }
+  }
+  const expand = $('#grid-expand');
+  if(expand){
+    expand.hidden = !(GRID.min && inGrid);
+    expand.setAttribute('aria-hidden', expand.hidden ? 'true' : 'false');
+  }
+  const col = $('#grid-collapse');
+  if(col) col.setAttribute('aria-expanded', GRID.min ? 'false' : 'true');
+  if(opts.persist!==false){
+    try{ localStorage.setItem(GRID_MIN_KEY, GRID.min ? '1' : '0'); }catch(_){}
+  }
+  if(opts.focus==='expand' && expand && !expand.hidden) expand.focus();
+  if(opts.focus==='collapse' && col && inGrid && !GRID.min) col.focus();
+}
+
 let lastMainView = 'map';
 function setMainView(v){
   const wrap = $('#mapwrap');
@@ -1045,15 +1118,23 @@ function setMainView(v){
   lastMainView = v;
   if(wrap){
     wrap.classList.toggle('timeline-on', v==='timeline');
+    wrap.classList.toggle('grid-on', v==='grid');
   }
   const appEl = $('#app');
-  if(appEl) appEl.classList.toggle('timeline-on', v==='timeline');
+  if(appEl){
+    appEl.classList.toggle('timeline-on', v==='timeline');
+    appEl.classList.toggle('grid-on', v==='grid');
+  }
   const tl = $('#timeline');
   if(tl) tl.setAttribute('aria-hidden', v==='timeline' ? 'false' : 'true');
+  const grid = $('#grid');
+  if(grid) grid.setAttribute('aria-hidden', v==='grid' ? 'false' : 'true');
   $$('#viewbar button').forEach(b => b.classList.toggle('on', b.dataset.v===v));
+  setGridMin(GRID.min, {view:v, persist:false});
   if(v==='timeline') renderTimeline();
+  if(v==='grid') renderGrid();
   if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
-  if(v==='timeline' || (was==='timeline' && v!=='timeline')){
+  if(v==='timeline' || (was==='timeline' && v!=='timeline') || v==='grid' || (was==='grid' && v!=='grid')){
     try{ map.invalidateSize({animate:false}); }catch(_){}
     setTimeout(() => {
       try{
@@ -1068,8 +1149,112 @@ function setMainView(v){
   if(was==='timeline' && v!=='timeline'){
     if(PLAY.on) playExit({silent:true});
   }
+  /* Leaving grid on mobile should not leave the map list sheet stuck shut. */
+  if(was==='grid' && v!=='grid' && innerWidth<=860){
+    const side = $('#sidebar');
+    if(side && !GRID.min) side.classList.remove('collapsed');
+  }
   return was!==v;
 }
+let gridThumbObs = null;
+function bindGridThumbs(){
+  if(gridThumbObs){ gridThumbObs.disconnect(); gridThumbObs=null; }
+  const root = $('#grid');
+  const fail = (img) => {
+    const wrap = img.closest('.gcard-photo');
+    const card = img.closest('.gcard');
+    const ev = EV.find(x => x.slug===((card && card.dataset.slug) || ''));
+    if(wrap){
+      wrap.classList.add('ph');
+      if(ev) wrap.classList.add(ev.category||'');
+      if(!wrap.querySelector('span')){
+        const s=document.createElement('span');
+        s.textContent = ev ? catLabel(ev) : 'Event';
+        wrap.appendChild(s);
+      }
+    }
+    img.remove();
+  };
+  const load = (img) => {
+    if(!img || img.dataset.ok || img.dataset.busy) return;
+    img.dataset.busy = '1';
+    const thumb = img.dataset.src;
+    const full = img.dataset.full || thumb;
+    const apply = (url, last) => {
+      img.onload = () => { img.dataset.ok='1'; img.classList.add('ld'); delete img.dataset.busy; };
+      img.onerror = () => {
+        if(!last && full && full!==url) apply(full, true);
+        else fail(img);
+      };
+      img.loading = 'eager';
+      img.src = url;
+    };
+    if(!thumb){ fail(img); return; }
+    apply(thumb, !full || full===thumb);
+  };
+  const imgs = $$('#gridbody .gcard-photo img[data-src]');
+  if(!imgs.length) return;
+  if(typeof IntersectionObserver==='function' && root){
+    gridThumbObs = new IntersectionObserver((entries) => {
+      entries.forEach(en => {
+        if(en.isIntersecting){ load(en.target); gridThumbObs.unobserve(en.target); }
+      });
+    }, {root, rootMargin:'280px 0px', threshold:0.01});
+    imgs.forEach((img,i) => {
+      if(i<12) load(img);
+      else gridThumbObs.observe(img);
+    });
+  }else{
+    imgs.forEach(load);
+  }
+}
+function gridCardHtml(e){
+  const ph = leadPhoto(e);
+  const attend = fmtAttendance(e);
+  const place = [e.city, e.country].filter(Boolean).join(', ');
+  const kind = evKind(e)==='festival' ? 'Festival' : 'Conference';
+  const photo = ph
+    ? `<div class="gcard-photo ${esc(e.category||'')}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`
+    : `<div class="gcard-photo ph ${esc(e.category||'')}" aria-hidden="true"><span>${esc(catLabel(e))}</span></div>`;
+  return `<article class="gcard" data-slug="${esc(e.slug)}" tabindex="0" role="button" aria-label="${esc(e.name)}">
+    ${photo}
+    <div class="gcard-body">
+      <div class="gcard-tags">
+        <span class="tag kind">${esc(kind)}</span>
+        <span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>
+        ${statusBadge(e)}
+      </div>
+      <h3>${esc(e.name)}</h3>
+      <div class="gcard-when">${esc(fmtEventDates(e))}</div>
+      <div class="gcard-where">${esc(place)}</div>
+      <div class="gcard-foot">
+        <span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>
+        ${attend?`<span class="gcard-att">${esc(attend)}</span>`:''}
+      </div>
+    </div>
+  </article>`;
+}
+function gridOpenSlug(){
+  const m = (location.hash||'').match(/^#\/grid\/event\/([^/]+)/);
+  return m ? decodeURIComponent(m[1]) : '';
+}
+function gridMarkOpen(slug){
+  $$('#gridbody .gcard').forEach(c => c.classList.toggle('on', !!(slug && c.dataset.slug===slug)));
+}
+function renderGrid(){
+  const box = $('#gridbody');
+  if(!box) return;
+  const vis = sortEvents(visibleEvents());
+  box.innerHTML = vis.length ? vis.map(gridCardHtml).join('') : `<div class="empty">${emptyMessage()}</div>`;
+  $$('#gridbody .gcard[data-slug]').forEach(c => {
+    const go = () => { location.hash = eventHash(c.dataset.slug, 'grid'); };
+    c.onclick = ev => { if(!ev.target.closest('a')) go(); };
+    c.onkeydown = ev => { if(ev.key==='Enter' || ev.key===' '){ ev.preventDefault(); go(); } };
+  });
+  bindGridThumbs();
+  gridMarkOpen(gridOpenSlug());
+}
+
 function monthKey(e){
   const d = parseDay(e.start_date);
   if(!d) return 'tbc';
@@ -1900,7 +2085,7 @@ function atlasCloseDetail(){
     carStop();
     return;
   }
-  location.hash = /^#\/timeline/.test(location.hash||'') ? '#/timeline' : '#/';
+  location.hash = viewHomeHash();
 }
 window.atlasCloseDetail = atlasCloseDetail;
 
@@ -2284,9 +2469,10 @@ function route(){
     hash = '#/timeline';
   }
   const onTimeline = /^#\/timeline/.test(hash);
+  const onGrid = /^#\/grid/.test(hash);
   const onSwipe = /^#\/swipe/.test(hash);
   const playMatch = hash.match(/^#\/timeline\/play(?:\/([^/]+))?\/?$/);
-  const entered = setMainView(onSwipe ? 'swipe' : onTimeline ? 'timeline' : 'map');
+  const entered = setMainView(onSwipe ? 'swipe' : onTimeline ? 'timeline' : onGrid ? 'grid' : 'map');
   if(onSwipe){ if(PLAY.on) playExit({silent:true, keepHash:true}); $('#detail').classList.remove('open'); $('#detail').setAttribute('aria-hidden','true'); openSwipe(); closePrivacy(); return; }
   else closeSwipe(true);
   if(/^#\/privacy/.test(hash)){ if(PLAY.on) playExit({silent:true, keepHash:true}); $('#privacy').classList.add('open'); $('#privacy').setAttribute('aria-hidden','false'); $('#detail').classList.remove('open'); return; }
@@ -2312,24 +2498,26 @@ function route(){
     const n = $('#alert-confirmed');
     if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
   }
-  const m = hash.match(/^#\/(?:timeline\/)?event\/([^/]+)(\/claim)?/);
+  const m = hash.match(/^#\/(?:(?:timeline|grid)\/)?event\/([^/]+)(\/claim)?/);
   const det = $('#detail');
   if(!m){
     det.classList.remove('open'); det.setAttribute('aria-hidden','true'); det.querySelector('#dbody').innerHTML='';
     carStop();
     updateAlertPrefs();
+    gridMarkOpen('');
     return;
   }
   const slug = decodeURIComponent(m[1]);
   const e = EV.find(x => x.slug===slug);
-  if(!e){ location.hash = onTimeline ? '#/timeline' : '#/'; return; }
+  if(!e){ location.hash = viewHomeHash(); return; }
   $('#dbody').innerHTML = viewEvent(e);
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
   if(m[2]){ const box=$('#claim-box'); if(box) box.hidden=false; }
   bindGallery(e);
   updateAlertPrefs(undefined, e);
+  if(onGrid) gridMarkOpen(slug);
   const ll = (e.lat!=null && e.lng!=null) ? L.latLng(e.lat, e.lng) : null;
-  if(ll && !onTimeline){
+  if(ll && !onTimeline && !onGrid){
     const z = Math.max(map.getZoom(), 10);
     const dest = (typeof tourFocus==='function') ? tourFocus(ll, z) : ll;
     map.flyTo(dest, z, {duration:.7});
@@ -2638,12 +2826,17 @@ setupAlerts();
 
 /* ---------- chrome ---------- */
 $('#mobtoggle').onclick = () => $('#sidebar').classList.toggle('collapsed');
+const gridCollapseBtn = $('#grid-collapse');
+if(gridCollapseBtn) gridCollapseBtn.onclick = () => setGridMin(true, {focus:'expand'});
+const gridExpandBtn = $('#grid-expand');
+if(gridExpandBtn) gridExpandBtn.onclick = () => setGridMin(false, {focus:'collapse'});
 window.addEventListener('hashchange', route);
 document.addEventListener('keydown', e => {
   if(e.key==='Escape'){
     if(LB.open) return;
     if(PLAY.on) return;
     if(/^#\/timeline\/event/.test(location.hash)) location.hash='#/timeline';
+    else if(/^#\/grid\/event/.test(location.hash)) location.hash='#/grid';
     else if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash='#/';
   }
 });
