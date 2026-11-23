@@ -779,7 +779,8 @@ function viewEvent(e){
   }).join('');
   const srcSec = `<div class="dsec"><h4>Sources</h4>${srcs?`<ul class="src-list">${srcs}</ul>`:'<p>No source URLs were attached to this record.</p>'}${e.website_url?`<p style="margin-top:10px"><a class="btn cyan block" href="${esc(e.website_url)}" target="_blank" rel="noopener">Visit event website ↗</a></p>`:''}</div>`;
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
-  return close + gal + hero + facts + about + claim + srcSec + views;
+  const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt=""> <img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""> <span>Powered by GConf</span></a></p>`;
+  return close + gal + hero + facts + about + claim + srcSec + views + powered;
 }
 
 function bindGallery(e){
@@ -1623,7 +1624,7 @@ function playMarkCard(){
   card.classList.add('tl-now');
   const item = card.closest('.tl-item');
   if(item) item.classList.add('tl-now');
-  PLAY.prog = true;
+  playArmProg(playReduced() ? 80 : 900);
   const reduce = playReduced();
   const scroller = $('#timeline');
   if(scroller && item){
@@ -1632,8 +1633,6 @@ function playMarkCard(){
     const top = scroller.scrollTop + (r.top + r.height/2) - (s.top + s.height/2);
     try{ scroller.scrollTo({top, behavior: reduce?'auto':'smooth'}); }catch(_){ scroller.scrollTop = top; }
   }
-  clearTimeout(PLAY.progT);
-  PLAY.progT = setTimeout(() => { PLAY.prog = false; }, reduce ? 80 : 750);
 }
 
 function playOpenPanel(e){
@@ -1809,10 +1808,31 @@ function playReconcile(){
   playPause();
 }
 
+function playArmProg(ms){
+  PLAY.prog = true;
+  clearTimeout(PLAY.progT);
+  const settle = Math.max(80, ms||200);
+  const bump = () => {
+    clearTimeout(PLAY.progT);
+    PLAY.progT = setTimeout(() => { PLAY.prog = false; }, settle);
+  };
+  bump();
+  const tl = $('#timeline');
+  if(tl && !tl._progBound){
+    tl._progBound = true;
+    const onScroll = () => { if(PLAY.prog) bump(); };
+    tl.addEventListener('scroll', onScroll, {passive:true, capture:true});
+    tl.addEventListener('scrollend', () => { if(PLAY.prog) bump(); }, {passive:true});
+  }
+}
 function playUserInteract(ev){
   if(!PLAY.on || PLAY.paused) return;
   if(PLAY.prog) return;
-  if(ev && ev.target && ev.target.closest && ev.target.closest('#playbar,#tlplay,.playbar')) return;
+  if(ev && ev.target && ev.target.closest && ev.target.closest('#playbar,#tlplay,.playbar,.panel-resizer,.brand-logo')) return;
+  /* Programmatic scrollTo in playMarkCard also fires 'scroll'. Ignore those
+     leftovers (they outlast a fixed timeout on Safari / macOS) so autoplay
+     and the airplane tour keep running. Wheel, pointer and touch still pause. */
+  if(ev && ev.type==='scroll') return;
   playPause();
 }
 
@@ -1828,9 +1848,11 @@ function playUserInteract(ev){
   $$('#playbar .play-speeds button').forEach(b => b.onclick = () => playSetSpeed(b.dataset.sp));
   const tl = $('#timeline');
   if(tl){
-    tl.addEventListener('scroll', ev => playUserInteract(ev), {passive:true, capture:true});
     tl.addEventListener('wheel', ev => playUserInteract(ev), {passive:true});
     tl.addEventListener('touchmove', ev => playUserInteract(ev), {passive:true});
+    tl.addEventListener('pointerdown', ev => {
+      if(ev.target && ev.target.closest && ev.target.closest('.tl-card, .tl-scrub, .tl-scroll')) playUserInteract(ev);
+    });
   }
   const det = $('#detail');
   if(det) det.addEventListener('scroll', ev => playUserInteract(ev), {passive:true});
@@ -2005,6 +2027,7 @@ document.addEventListener('keydown', e => {
   else if(e.key==='ArrowLeft'){ e.preventDefault(); swStep(-1); }
 });
 window.addEventListener('resize', () => {
+  if(typeof applyPanelWidths==='function') applyPanelWidths({});
   if(SW.open) swLayout(false);
   if(PLAY.on){
     try{ map.invalidateSize({animate:false}); }catch(_){}
@@ -2223,4 +2246,138 @@ document.addEventListener('keydown', e => {
 render();
 if(!location.hash || location.hash==='#/') fitToVisible();
 
+
+/* Desktop floating-panel widths: shared default, drag to resize, persist. */
+const PANEL_KEY_L = 'gconf-atlas-left-width';
+const PANEL_KEY_R = 'gconf-atlas-right-width';
+const PANEL_MIN = 320;
+const MAP_MIN = 280;
+
+function panelInset(){
+  const v = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--inset'));
+  return isFinite(v) && v>=0 ? v : 14;
+}
+function panelDefault(){
+  const vw = innerWidth;
+  const inset = panelInset();
+  const raw = Math.min(560, Math.max(320, vw * 0.36));
+  const maxBoth = Math.floor((vw - inset*2 - MAP_MIN) / 2);
+  return Math.round(Math.max(200, Math.min(raw, maxBoth)));
+}
+function panelMaxFor(otherW){
+  const inset = panelInset();
+  return Math.max(200, Math.floor(innerWidth - inset*2 - MAP_MIN - (otherW||0)));
+}
+function readStoredPanel(key){
+  try{
+    const n = parseFloat(localStorage.getItem(key));
+    if(isFinite(n) && n>=200) return n;
+  }catch(_){}
+  return null;
+}
+function applyPanelWidths(opts){
+  opts = opts||{};
+  const app = $('#app');
+  if(!app) return null;
+  if(innerWidth<=860){
+    ['--leftw','--rightw','--sbw','--tourstrip','--dw','--playdw'].forEach(k => app.style.removeProperty(k));
+    return null;
+  }
+  const def = panelDefault();
+  let L = opts.left!=null ? opts.left : (opts.resetLeft ? def : (readStoredPanel(PANEL_KEY_L) ?? def));
+  let R = opts.right!=null ? opts.right : (opts.resetRight ? def : (readStoredPanel(PANEL_KEY_R) ?? def));
+  L = Math.round(Math.max(Math.min(PANEL_MIN, panelMaxFor(R)), Math.min(L, panelMaxFor(R))));
+  R = Math.round(Math.max(Math.min(PANEL_MIN, panelMaxFor(L)), Math.min(R, panelMaxFor(L))));
+  L = Math.round(Math.max(Math.min(PANEL_MIN, panelMaxFor(R)), Math.min(L, panelMaxFor(R))));
+  app.style.setProperty('--leftw', L+'px');
+  app.style.setProperty('--rightw', R+'px');
+  /* --sbw/--dw/--playdw are defined on :root as var(--leftw/--rightw); setting
+     only --leftw on #app would leave :root's --sbw resolving the default. */
+  app.style.setProperty('--sbw', L+'px');
+  app.style.setProperty('--tourstrip', L+'px');
+  app.style.setProperty('--dw', R+'px');
+  app.style.setProperty('--playdw', R+'px');
+  if(opts.persist){
+    try{
+      if(opts.left!=null) localStorage.setItem(PANEL_KEY_L, String(L));
+      if(opts.right!=null) localStorage.setItem(PANEL_KEY_R, String(R));
+    }catch(_){}
+  }
+  if(opts.resetLeft){ try{ localStorage.removeItem(PANEL_KEY_L); }catch(_){} }
+  if(opts.resetRight){ try{ localStorage.removeItem(PANEL_KEY_R); }catch(_){} }
+  if(typeof map!=='undefined' && map && opts.invalidate!==false){
+    try{ map.invalidateSize({animate:false}); }catch(_){}
+  }
+  return {L, R};
+}
+
+function bindPanelResizers(){
+  applyPanelWidths({invalidate:false});
+  $$('.panel-resizer').forEach(h => {
+    let dragging=false, startX=0, startW=0, side='left';
+    const widthOf = (s) => {
+      const el = s==='left'
+        ? (($('#timeline') && getComputedStyle($('#timeline')).display!=='none') ? $('#timeline') : $('#sidebar'))
+        : $('#detail');
+      return el && el.getBoundingClientRect().width || panelDefault();
+    };
+    const onDown = ev => {
+      if(innerWidth<=860) return;
+      if(ev.pointerType==='mouse' && ev.button!==0) return;
+      ev.preventDefault();
+      side = h.dataset.side==='right' ? 'right' : 'left';
+      startW = widthOf(side);
+      startX = ev.clientX;
+      dragging = true;
+      document.body.classList.add('resizing-panels');
+      h.classList.add('on');
+      try{ h.setPointerCapture(ev.pointerId); }catch(_){}
+    };
+    const onMove = ev => {
+      if(!dragging) return;
+      const dx = ev.clientX - startX;
+      const w = side==='left' ? startW + dx : startW - dx;
+      if(side==='left') applyPanelWidths({left:w, invalidate:false});
+      else applyPanelWidths({right:w, invalidate:false});
+    };
+    const endDrag = ev => {
+      if(!dragging) return;
+      dragging=false;
+      document.body.classList.remove('resizing-panels');
+      h.classList.remove('on');
+      const cur = getComputedStyle($('#app'));
+      const L = parseFloat(cur.getPropertyValue('--leftw'));
+      const R = parseFloat(cur.getPropertyValue('--rightw'));
+      if(side==='left') applyPanelWidths({left:L, persist:true});
+      else applyPanelWidths({right:R, persist:true});
+    };
+    h.addEventListener('pointerdown', onDown);
+    h.addEventListener('pointermove', onMove);
+    h.addEventListener('pointerup', endDrag);
+    h.addEventListener('pointercancel', endDrag);
+    h.addEventListener('dblclick', ev => {
+      ev.preventDefault();
+      if(h.dataset.side==='right') applyPanelWidths({resetRight:true, persist:false});
+      else applyPanelWidths({resetLeft:true, persist:false});
+    });
+    h.addEventListener('keydown', ev => {
+      if(ev.key!=='ArrowLeft' && ev.key!=='ArrowRight' && ev.key!=='Enter') return;
+      ev.preventDefault();
+      if(ev.key==='Enter'){
+        if(h.dataset.side==='right') applyPanelWidths({resetRight:true});
+        else applyPanelWidths({resetLeft:true});
+        return;
+      }
+      const dir = ev.key==='ArrowRight' ? 1 : -1;
+      const step = ev.shiftKey ? 40 : 16;
+      const w = widthOf(h.dataset.side==='right'?'right':'left');
+      const next = w + (h.dataset.side==='right' ? -dir : dir)*step;
+      if(h.dataset.side==='right') applyPanelWidths({right:next, persist:true});
+      else applyPanelWidths({left:next, persist:true});
+    });
+  });
+}
+
+
+bindPanelResizers();
 route();
