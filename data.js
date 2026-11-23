@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-23",
- "generated": "2026-11-23T17:11:03Z",
+ "generated": "2026-11-23T17:24:49Z",
  "scope": "AI, tech and crypto/Web3 events in Europe",
  "eurRates": {
   "EUR": 1.0,

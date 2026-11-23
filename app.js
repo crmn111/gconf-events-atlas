@@ -202,11 +202,26 @@ $$('#theme button').forEach(b => b.onclick = () => applyTheme(b.dataset.t, {from
 $$('#basemaps button').forEach(b => b.onclick = () => setBasemap(b.dataset.b));
 
 
+function clusterIcon(cluster){
+  const n = cluster.getChildCount();
+  const s = String(n);
+  const d = s.length;
+  const size = d<=1 ? 36 : d===2 ? 44 : d===3 ? 54 : 64;
+  const kind = n<10 ? 'small' : n<50 ? 'medium' : 'large';
+  const fs = d<=2 ? 13 : d===3 ? 12 : 11;
+  return L.divIcon({
+    html: `<div class="mkc-inner" style="font-size:${fs}px"><span>${s}</span></div>`,
+    className: `marker-cluster marker-cluster-${kind} mkc mkc-${d}`,
+    iconSize: L.point(size, size),
+    iconAnchor: L.point(size/2, size/2)
+  });
+}
 const clusters = L.markerClusterGroup({
   showCoverageOnHover:false,
-  maxClusterRadius:48,
+  maxClusterRadius:52,
   spiderfyOnMaxZoom:true,
-  disableClusteringAtZoom:12
+  disableClusteringAtZoom:12,
+  iconCreateFunction: clusterIcon
 });
 map.addLayer(clusters);
 
@@ -216,7 +231,15 @@ function popEvent(e){
   return `<div class="pop go" role="link" tabindex="0" onclick="if(!event.target.closest('a'))location.hash='#/event/${esc(e.slug)}'">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div><div class="pbtn"><a class="btn primary vd" href="#/event/${esc(e.slug)}">View details →</a></div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function evIcon(e){
-  return L.divIcon({className:'', html:`<div class="mk ${e.category||'tech'} ${isApprox(e)?'approx':''}"><div class="pill">${esc(pillText(e))}</div></div>`, iconSize:[0,0], iconAnchor:[0,0]});
+  const label = pillText(e);
+  const w = Math.ceil(Math.max(40, 22 + [...String(label)].length * 7.6));
+  const h = 36;
+  return L.divIcon({
+    className:'mk-icon',
+    html:`<div class="mk ${e.category||'tech'} ${isApprox(e)?'approx':''}"><div class="pill">${esc(label)}</div></div>`,
+    iconSize:L.point(w,h),
+    iconAnchor:L.point(Math.round(w/2), h)
+  });
 }
 
 EV.forEach(e => {
@@ -231,7 +254,7 @@ EV.forEach(e => {
 const PS = [0,50,100,150,200,250,350,500,750,1000,1500,2000,2500,3000,5000,10000,Infinity];
 const PT = PS.length-1;
 const addDays = (n) => { const d=new Date(TODAY); d.setDate(d.getDate()+n); return d; };
-const iso = d => d.toISOString().slice(0,10);
+const iso = d => d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 const WHEN = [
   {id:'any', label:'Any dates', from:null, to:null},
   {id:'30', label:'Next 30 days', from:iso(TODAY), to:iso(addDays(30))},
@@ -570,17 +593,82 @@ function monthKey(e){
   if(!d) return 'tbc';
   return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
 }
-function monthLabel(key){
-  if(key==='tbc') return 'Dates to be announced';
+function monthParts(key){
+  if(key==='tbc') return {name:'Dates to be announced', year:'', short:'TBC', kicker:'Schedule'};
   const [y,m] = key.split('-').map(Number);
-  return new Date(y, m-1, 1).toLocaleDateString('en-GB', {month:'long', year:'numeric'});
+  const d = new Date(y, m-1, 1);
+  return {
+    name: d.toLocaleDateString('en-GB', {month:'long'}),
+    year: String(y),
+    short: d.toLocaleDateString('en-GB', {month:'short'}),
+    kicker: 'Month'
+  };
+}
+function tlIcon(cat){
+  if(cat==='crypto') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#CFF55A" stroke-width="2.2" d="M24 6 40 16v16L24 42 8 32V16L24 6z"/><path fill="none" stroke="#1FA9C6" stroke-width="2" d="M24 16 34 22v12l-10 6-10-6V22l10-6z"/></svg>`;
+  if(cat==='tech') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="14" width="20" height="20" rx="3" fill="none" stroke="#CFF55A" stroke-width="2.2"/><path stroke="#CFF55A" stroke-width="2" d="M24 8v6M24 34v6M8 24h6M34 24h6"/><circle cx="24" cy="24" r="3.5" fill="#CFF55A"/></svg>`;
+  return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#8FE3F2" d="M24 6l3.2 10.2L37 16.8 29.8 23l2.7 10.4L24 28.2 15.5 33.4 18.2 23 11 16.8l9.8-0.6z"/></svg>`;
+}
+function startsOnOrAfterToday(e){
+  const a = parseDay(e.start_date);
+  return !a || a.getTime() >= TODAY.getTime();
+}
+function eventCoversToday(e){
+  const a = parseDay(e.start_date), b = parseDay(e.end_date)||a;
+  return !!(a && b && a.getTime()<=TODAY.getTime() && TODAY.getTime()<=b.getTime());
+}
+
+let tlRevealObs = null, tlMonthObs = null;
+function tlDisconnect(){
+  if(tlRevealObs){ tlRevealObs.disconnect(); tlRevealObs=null; }
+  if(tlMonthObs){ tlMonthObs.disconnect(); tlMonthObs=null; }
+}
+function todayMarkerHtml(){
+  return `<li class="tl-item tl-today">
+    <span class="tl-dot" aria-hidden="true"></span>
+    <div class="tl-today-label"><span>Today</span><time datetime="${esc(iso(TODAY))}">${esc(fmtDay(iso(TODAY)))}</time></div>
+  </li>`;
+}
+function eventCardHtml(e, side, imgPri){
+  const d = parseDay(e.start_date);
+  const day = d ? String(d.getDate()) : '—';
+  const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
+  const mon = d ? d.toLocaleDateString('en-GB', {month:'short'}) : '';
+  const ph = e.photos && e.photos[0];
+  const cat = e.category||'tech';
+  const flag = flagOf(e.country);
+  const loc = [e.city, e.country].filter(Boolean).join(', ');
+  const attend = e.expected_attendance ? String(e.expected_attendance).trim() : '';
+  const img = ph
+    ? `<img src="${esc(ph.thumb||ph.src)}" alt="" loading="${imgPri?'eager':'lazy'}" decoding="async">`
+    : tlIcon(cat);
+  const dateBlock = `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
+  const chips = [
+    `<span class="tl-chip price ${hasPrice(e)?'':'unk'}">${esc(pillText(e))}</span>`,
+    attend ? `<span class="tl-chip attend">${esc(attend)}</span>` : ''
+  ].filter(Boolean).join('');
+  return `<li class="tl-item tl-card-item ${esc(cat)} side-${side}">
+    <span class="tl-dot" aria-hidden="true"></span>
+    <article class="tl-card" data-slug="${esc(e.slug)}" tabindex="0" role="link" aria-label="${esc(e.name)}">
+      <div class="tl-hero ${ph?'hasphoto':'ph'} ${esc(cat)}">${img}${ph?'<div class="tl-hero-shade"></div>':''}${dateBlock}<span class="tl-cat ${esc(cat)}">${esc(catLabel(e))}</span></div>
+      <div class="tl-body">
+        <div class="tl-range">${esc(fmtRange(e.start_date,e.end_date))}</div>
+        <h3>${esc(e.name)}</h3>
+        <div class="tl-where">${flag?`<span class="flag" aria-hidden="true">${flag}</span>`:''}<span>${esc(loc||where(e))}</span></div>
+        <div class="tl-chips">${chips}</div>
+      </div>
+    </article>
+  </li>`;
 }
 function renderTimeline(){
   const body = $('#tlbody');
+  const scrub = $('#tlscrub');
   if(!body) return;
+  tlDisconnect();
   const list = visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
   if(!list.length){
     body.innerHTML = `<div class="tl-empty">${EV.length?'No events match the current filters.':'No upcoming events have been published yet.'}</div>`;
+    if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
     return;
   }
   const months = [];
@@ -590,37 +678,79 @@ function renderTimeline(){
     if(!gmap.has(k)){ const g={key:k, items:[]}; gmap.set(k,g); months.push(g); }
     gmap.get(k).items.push(e);
   });
-  body.innerHTML = months.map(m => {
+  let todayPlaced = false;
+  const todayMonth = TODAY.getFullYear()+'-'+String(TODAY.getMonth()+1).padStart(2,'0');
+  let side = 'l';
+  let imgLeft = 4;
+  const html = months.map(m => {
     const n = m.items.length;
-    const items = m.items.map(e => {
-      const d = parseDay(e.start_date);
-      const day = d ? String(d.getDate()) : '—';
-      const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
-      const ph = e.photos && e.photos[0];
-      const thumb = ph
-        ? `<div class="tl-thumb" style="background-image:url('${esc(ph.thumb||ph.src)}')"></div>`
-        : `<div class="tl-thumb ph">${esc(catLabel(e))}</div>`;
-      const flag = flagOf(e.country);
-      const loc = [e.city, e.country].filter(Boolean).join(', ');
-      return `<li class="tl-item ${esc(e.category||'')}">
-        <div class="tl-date"><b>${esc(day)}</b>${esc(wd)}</div>
-        <span class="tl-dot" aria-hidden="true"></span>
-        <article class="tl-card" data-slug="${esc(e.slug)}" tabindex="0" role="link" aria-label="${esc(e.name)}">
-          ${thumb}
-          <div class="tl-body">
-            <div class="tl-meta"><span class="tl-cat ${esc(e.category||'')}">${esc(catLabel(e))}</span><span>${esc(fmtRange(e.start_date,e.end_date))}</span></div>
-            <h3>${esc(e.name)}</h3>
-            <div class="tl-where">${flag?`<span class="flag" aria-hidden="true">${flag}</span>`:''}<span>${esc(loc||where(e))}</span></div>
-            <div class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</div>
-          </div>
-        </article>
-      </li>`;
-    }).join('');
-    return `<section class="tl-month">
-      <div class="tl-month-h"><b>${esc(monthLabel(m.key))}</b><span>${n} ${n===1?'event':'events'}</span></div>
+    const parts = monthParts(m.key);
+    let items = '';
+    if(!todayPlaced && m.key!=='tbc' && m.key > todayMonth){
+      items += todayMarkerHtml();
+      todayPlaced = true;
+    }
+    m.items.forEach(e => {
+      if(!todayPlaced && (eventCoversToday(e) || startsOnOrAfterToday(e))){
+        items += todayMarkerHtml();
+        todayPlaced = true;
+      }
+      items += eventCardHtml(e, side, imgLeft>0);
+      if(imgLeft>0) imgLeft--;
+      side = side==='l' ? 'r' : 'l';
+    });
+    const year = parts.year ? `<div class="tl-year">${esc(parts.year)}</div>` : '';
+    return `<section class="tl-month" id="tl-m-${esc(m.key)}" data-m="${esc(m.key)}">
+      <header class="tl-month-h">
+        <div><div class="tl-kicker">${esc(parts.kicker)}</div><h2 class="tl-name">${esc(parts.name)}</h2>${year}</div>
+        <div class="tl-count"><b>${n}</b> ${n===1?'event':'events'}</div>
+      </header>
       <ol class="tl-list">${items}</ol>
     </section>`;
   }).join('');
+  if(!todayPlaced){
+    body.innerHTML = html + `<ol class="tl-list tl-list-end">${todayMarkerHtml()}</ol>`;
+  } else body.innerHTML = html;
+
+  if(scrub){
+    scrub.hidden = false;
+    scrub.innerHTML = months.map((m,i) => {
+      const p = monthParts(m.key);
+      const lab = p.year ? `${p.short} ${p.year.slice(2)}` : p.short;
+      return `<button type="button" data-m="${esc(m.key)}" class="${i===0?'on':''}" aria-current="${i===0?'true':'false'}"><span>${esc(lab)}</span><small>${m.items.length}</small></button>`;
+    }).join('');
+  }
+
+  const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const root = $('#timeline');
+  if(!reduce){
+    tlRevealObs = new IntersectionObserver(entries => {
+      entries.forEach(en => {
+        if(en.isIntersecting){ en.target.classList.add('tl-in'); tlRevealObs.unobserve(en.target); }
+      });
+    }, {root, threshold:0.08, rootMargin:'0px 0px -6% 0px'});
+    $$('#tlbody .tl-item.tl-card-item').forEach(el => tlRevealObs.observe(el));
+  }else{
+    $$('#tlbody .tl-item.tl-card-item').forEach(el => el.classList.add('tl-in'));
+  }
+
+  const buttons = $$('#tlscrub [data-m]');
+  const setOn = key => buttons.forEach(b => {
+    const on = b.dataset.m===key;
+    b.classList.toggle('on', on);
+    b.setAttribute('aria-current', on?'true':'false');
+  });
+  if(months.length){
+    tlMonthObs = new IntersectionObserver(entries => {
+      const vis = entries.filter(e => e.isIntersecting).sort((a,b) => Math.abs(a.boundingClientRect.top) - Math.abs(b.boundingClientRect.top));
+      if(vis[0]) setOn(vis[0].target.dataset.m);
+    }, {root, threshold:[0.15,0.35], rootMargin:'-15% 0px -50% 0px'});
+    $$('#tlbody .tl-month').forEach(sec => tlMonthObs.observe(sec));
+  }
+  buttons.forEach(b => b.onclick = () => {
+    const el = document.getElementById('tl-m-'+b.dataset.m);
+    if(el) el.scrollIntoView({behavior: reduce?'auto':'smooth', block:'start'});
+  });
   $$('#tlbody .tl-card[data-slug]').forEach(c => {
     const go = () => { location.hash = '#/timeline/event/'+c.dataset.slug; };
     c.onclick = ev => { if(!ev.target.closest('a')) go(); };
