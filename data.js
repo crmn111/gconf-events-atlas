@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-23",
- "generated": "2026-11-23T16:47:36Z",
+ "generated": "2026-11-23T16:57:34Z",
  "scope": "AI, tech and crypto/Web3 events in Europe",
  "eurRates": {
   "EUR": 1.0,
@@ -42,16 +42,38 @@ window.ATLASDATA={
    "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 35.8986524,
+   "lng": 14.513084,
+   "precise": true,
    "category": "tech",
    "topics": [
     "iGaming",
     "technology",
     "regulation"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gaming-pulse-2026-1.jpg",
+     "thumb": "img/events/gaming-pulse-2026-1-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pcb-gi3-alert-1920x880-4:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gaming-pulse-2026-2.jpg",
+     "thumb": "img/events/gaming-pulse-2026-2-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-bmc-1920x880:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gaming-pulse-2026-3.jpg",
+     "thumb": "img/events/gaming-pulse-2026-3-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-gaming-pulse-1920x880-1:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -61,7 +83,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Casino Maltese, 247, Triq ir-Repubblika, Il-Kamrata, Il-Belt Valletta, Reġjun Port, VLT 1113, Malta (query: Casino Maltese, Valletta).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -99,15 +121,58 @@ window.ATLASDATA={
    "source_url": "https://www.algopreneurship.org/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5263708,
+   "lng": -0.1326179,
+   "precise": true,
    "category": "ai",
    "topics": [
     "AI",
     "entrepreneurship"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ae-global-summit-2026-1.jpg",
+     "thumb": "img/events/ae-global-summit-2026-1-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/blur-crowd.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ae-global-summit-2026-2.jpg",
+     "thumb": "img/events/ae-global-summit-2026-2-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/band-rome.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ae-global-summit-2026-3.jpg",
+     "thumb": "img/events/ae-global-summit-2026-3-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/summit-stage.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ae-global-summit-2026-4.jpg",
+     "thumb": "img/events/ae-global-summit-2026-4-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/blur-room.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ae-global-summit-2026-5.jpg",
+     "thumb": "img/events/ae-global-summit-2026-5-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/blur-posters.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ae-global-summit-2026-6.jpg",
+     "thumb": "img/events/ae-global-summit-2026-6-t.jpg",
+     "orig": "https://www.algopreneurship.org/photos/past-boston-2023.jpg",
+     "page": "https://www.algopreneurship.org/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -117,7 +182,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Friends House, 173-177, Euston Road, St Pancras, London Borough of Camden, Greater London, England, WC1H 0AN, United Kingdom (query: Friends House, 173 Euston Road, London).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -155,8 +220,8 @@ window.ATLASDATA={
    "source_url": "https://deaisummit.org/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 35.8989979,
+   "lng": 14.5136607,
    "precise": false,
    "category": "ai",
    "topics": [
@@ -173,7 +238,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official site names Valletta but not a venue building; pin is city-level.",
+   "geo_note": "Official site names Valletta but not a venue building; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Il-Belt Valletta, Reġjun Port, Malta (query: Valletta, Malta).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@DeaiSummit",
    "last_verified_at": "2026-11-23",
@@ -211,8 +276,8 @@ window.ATLASDATA={
    "source_url": "https://techxpo.eu/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 35.9311442,
+   "lng": 14.3951627,
    "precise": false,
    "category": "tech",
    "topics": [
@@ -230,7 +295,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": "Official homepage does not name a city or venue; pin is a country-level Malta location.",
+   "geo_note": "Official homepage does not name a city or venue; pin is a country-level Malta location. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Malta (query: Malta).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@techxpoeu",
    "last_verified_at": "2026-11-23",
@@ -268,8 +333,8 @@ window.ATLASDATA={
    "source_url": "https://www.blockchain4eu.eu/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 50.8467372,
+   "lng": 4.352493,
    "precise": false,
    "category": "crypto",
    "topics": [
@@ -287,7 +352,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Venue named only as 'Sparks, Brussels' on the official homepage; geocode is for that venue name if uniquely resolved, otherwise city-level.",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Brussels city-level pin. Nominatim's only 'Sparks, Brussels' match was a cafe on Rue Ravenstein, which is probably not the event venue, so a precise pin was not used. (query: Brussels, Belgium).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@BlockchainforEU",
    "last_verified_at": "2026-11-23",
@@ -325,16 +390,59 @@ window.ATLASDATA={
    "source_url": "https://www.fintechconnect.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5081127,
+   "lng": 0.0297071,
+   "precise": true,
    "category": "tech",
    "topics": [
     "fintech",
     "payments",
     "digital finance"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/fintech-connect-2026-1.jpg",
+     "thumb": "img/events/fintech-connect-2026-1-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/79914007-6.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fintech-connect-2026-2.jpg",
+     "thumb": "img/events/fintech-connect-2026-2-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/0DD7C11D-20.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fintech-connect-2026-3.jpg",
+     "thumb": "img/events/fintech-connect-2026-3-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/0DD99A9B-6.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fintech-connect-2026-4.jpg",
+     "thumb": "img/events/fintech-connect-2026-4-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/7990DA35-9.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fintech-connect-2026-5.jpg",
+     "thumb": "img/events/fintech-connect-2026-5-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/0DD6CF40-28.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fintech-connect-2026-6.jpg",
+     "thumb": "img/events/fintech-connect-2026-6-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_IQPC_Exh_56F166E0_C8F0_2E02_353ADF4A9FCDF817/sites/fintech-connect-2025/media/galleries/visitors-i16i/0DDA171B-30.png/fit-in/500x9999/filters:no_upscale()",
+     "page": "https://www.fintechconnect.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -344,7 +452,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Excel, 1, Western Gateway, Custom House, London E16 1XL, United Kingdom (Nominatim type: conference_centre) (query: ExCeL, 1 Western Gateway, London E16).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@fintech_connect",
    "last_verified_at": "2026-11-23",
@@ -382,15 +490,30 @@ window.ATLASDATA={
    "source_url": "https://blockchainconfluence.pt/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 39.5485549,
+   "lng": -8.9774881,
+   "precise": true,
    "category": "crypto",
    "topics": [
     "blockchain",
     "distributed ledger"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ieee-icdlt-2026-1.jpg",
+     "thumb": "img/events/ieee-icdlt-2026-1-t.jpg",
+     "orig": "https://center-portugal.transforms.svdcdn.com/production/images/alcobaca-1.jpg?w=1920&h=720&q=100&auto=format&fit=min&dm=1691594984&s=d78f1a158c3929e8131ef4c3e8a85906",
+     "page": "https://blockchainconfluence.pt/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ieee-icdlt-2026-2.jpg",
+     "thumb": "img/events/ieee-icdlt-2026-2-t.jpg",
+     "orig": "https://blockchainconfluence.pt/PRR.png",
+     "page": "https://blockchainconfluence.pt/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -400,7 +523,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Montebelo Mosteiro de Alcobaça Historic Hotel, 2, Rua Silvério Raposo, Alcobaça e Vestiaria, Alcobaça, Leiria, 2460-075, Portugal (query: Mosteiro de Alcobaça, Alcobaça, Portugal).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -438,9 +561,9 @@ window.ATLASDATA={
    "source_url": "https://blackhat.com/europe/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5081127,
+   "lng": 0.0297071,
+   "precise": true,
    "category": "tech",
    "topics": [
     "cybersecurity",
@@ -466,7 +589,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Excel, 1, Western Gateway, Custom House, London E16 1XL, United Kingdom (Nominatim type: conference_centre) (query: ExCeL, 1 Western Gateway, London E16).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@BlackHatEvents",
    "last_verified_at": "2026-11-23",
@@ -504,15 +627,58 @@ window.ATLASDATA={
    "source_url": "https://luxembourgblockchainweek.lu/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 49.6336893,
+   "lng": 6.1727503,
    "precise": true,
    "category": "crypto",
    "topics": [
     "blockchain",
     "digital assets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-1.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-1-t.jpg",
+     "orig": "https://luxembourgblockchainweek.lu/og.jpg",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-2.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-2-t.jpg",
+     "orig": "https://lbw-img.thedots.lu/2026/2023-gilles-roth-2cb4abe3-900.webp",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-3.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-3-t.jpg",
+     "orig": "https://lbw-img.thedots.lu/2026/mark-kepeneghian-94155c7a-900.webp",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-4.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-4-t.jpg",
+     "orig": "https://lbw-img.thedots.lu/2026/20-b22608e3-900.webp",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-5.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-5-t.jpg",
+     "orig": "https://lbw-img.thedots.lu/2026/21-98c987a7-900.webp",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/luxembourg-blockchain-week-2026-6.jpg",
+     "thumb": "img/events/luxembourg-blockchain-week-2026-6-t.jpg",
+     "orig": "https://lbw-img.thedots.lu/2026/sebastien-schmitt-pwc-luxembourg-7b1e277b-600.webp",
+     "page": "https://luxembourgblockchainweek.lu/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -522,7 +688,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kinepolis Kirchberg, 45, Avenue John F. Kennedy, Kiem, Kirchberg, Luxembourg, Canton Luxembourg, 1855, Lëtzebuerg (query: Kinepolis Kirchberg, 45 Avenue John F. Kennedy, Luxembourg).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -560,9 +726,9 @@ window.ATLASDATA={
    "source_url": "https://neurips.cc/Conferences/2026",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "This record is the Paris (Europe) site of the multi-site NeurIPS 2026 edition. Official homepage lists Paris 9–13 Dec 2026 (Sydney main 6–12 Dec; Atlanta also listed). Official venue page names Palais des Congrès de Paris; exhibitor lease dates for Paris are 9–11 Dec 2026.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.87845,
+   "lng": 2.28376,
+   "precise": true,
    "category": "ai",
    "topics": [
     "machine learning",
@@ -583,7 +749,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Congrès, Place de la Porte Maillot, Paris 17e, 75017, France (query: Palais des Congrès de Paris, Porte Maillot, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@NeurIPSConf",
    "last_verified_at": "2026-11-23",
@@ -621,15 +787,58 @@ window.ATLASDATA={
    "source_url": "https://www.opensource-experience.com/en/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.8287212,
+   "lng": 2.2889813,
+   "precise": true,
    "category": "tech",
    "topics": [
     "open source",
     "software"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/open-source-experience-2026-1.jpg",
+     "thumb": "img/events/open-source-experience-2026-1-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/69a589faac025bba21610c2f/assets-folder69c26186f504727b750bc798/Opensource_Experience_2025_Exposants_20251210-164600_OHE_William_JEZEQUEL_e6ebdcb3-99db-4ee6-8262-9150b90c6a81_1920x_850ea9fa-aa62-4027-b70f-9a2eeb411279.jpeg",
+     "page": "https://www.opensource-experience.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/open-source-experience-2026-2.jpg",
+     "thumb": "img/events/open-source-experience-2026-2-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/69a589faac025bba21610c2f/assets-folder69c26186f504727b750bc798/bigbanner-RS_754e09dd-79fe-4dd8-860b-b61b08593acb.jpg",
+     "page": "https://www.opensource-experience.com/en/pratical-informations",
+     "credit": ""
+    },
+    {
+     "src": "img/events/open-source-experience-2026-3.jpg",
+     "thumb": "img/events/open-source-experience-2026-3-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/69a589faac025bba21610c2f/assets-folder69c26186f504727b750bc798/Opensource_Experience_2025_Conferences_20251210-103520_OHE_William_JEZEQUEL_e46e728e-99af-4f30-bed8-cc6b4fe986af_1920x_3436bb81-13de-4814-b718-cf9227acc84b.jpeg",
+     "page": "https://www.opensource-experience.com/en/pratical-informations",
+     "credit": ""
+    },
+    {
+     "src": "img/events/open-source-experience-2026-4.jpg",
+     "thumb": "img/events/open-source-experience-2026-4-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/69a589faac025bba21610c2f/assets-folder69c26186f504727b750bc798/Visuelhome2026_4b3e61a9-c209-4733-9127-c6cb01f6c53f.jpg",
+     "page": "https://www.opensource-experience.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/open-source-experience-2026-5.jpg",
+     "thumb": "img/events/open-source-experience-2026-5-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/69a589faac025bba21610c2f//ENSYSTEMATIC_3d28ab0d-1ef6-4b61-9276-9211429e247d.png",
+     "page": "https://www.opensource-experience.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/open-source-experience-2026-6.jpg",
+     "thumb": "img/events/open-source-experience-2026-6-t.jpg",
+     "orig": "https://mobicheckin-assets.s3.eu-west-1.amazonaws.com/uploads/events/661808031b198a6f267eb755/website/OpenSourceExperience_2eb5eef3-9bd7-4968-b686-4f5de48ef342.png",
+     "page": "https://www.opensource-experience.com/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -644,7 +853,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Paris Expo Porte de Versailles, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France (query: Paris Expo Porte de Versailles, 75015 Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@OSXP_Paris",
    "last_verified_at": "2026-11-23",
@@ -682,9 +891,9 @@ window.ATLASDATA={
    "source_url": "https://events.ccc.de/congress/2026/infos/startpage.html",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.5601562,
+   "lng": 9.9784432,
+   "precise": true,
    "category": "tech",
    "topics": [
     "hacking",
@@ -702,7 +911,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Hamburg Messe, St. Pauli, Hamburg-Mitte, Hamburg, Deutschland (query: Hamburg Messe, Hamburg).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@chaosupdates",
    "last_verified_at": "2026-11-23",
@@ -740,9 +949,9 @@ window.ATLASDATA={
    "source_url": "https://www.dld-conference.com/conference/dld27",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.1275499,
+   "lng": 11.6093703,
+   "precise": true,
    "category": "tech",
    "topics": [
     "digital",
@@ -759,7 +968,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Serviceplan - House Of Communication, 24, Friedenstraße, 81671 München, Deutschland (query: Friedenstraße 24, 81671 München).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -797,9 +1006,9 @@ window.ATLASDATA={
    "source_url": "https://fosdem.org/2027/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.8134719,
+   "lng": 4.3812534,
+   "precise": true,
    "category": "tech",
    "topics": [
     "open source",
@@ -816,7 +1025,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Université libre de Bruxelles (Campus du Solbosch), Brussels (Nominatim type: university) (query: Université libre de Bruxelles Campus du Solbosch).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -854,16 +1063,24 @@ window.ATLASDATA={
    "source_url": "https://www.ai-expo.net/global/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Co-located TechEx Global events include AI & Big Data, Physical AI, Cyber Security & Cloud, IoT, Intelligent Automation & Robotics, Digital Transformation, Edge Computing and Data Centre. Official FAQ and Olympia listing cite 9,000+ attendees, 200+ speakers, 150+ exhibitors. Direct fetch of ai-expo.net returned 403; facts from official FAQ/travel pages and Olympia listing, 23 Nov 2026.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.4962885,
+   "lng": -0.2105797,
+   "precise": true,
    "category": "ai",
    "topics": [
     "AI",
     "big data",
     "enterprise tech"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/techex-global-london-2027-1.jpg",
+     "thumb": "img/events/techex-global-london-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68925780feb92eaa28ace23a/6ab63b406febecf0d09c0fe1_040226_TEX_242.webp",
+     "page": "https://www.olympia.co.uk/events/techex--global",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -893,7 +1110,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Olympia London, West Kensington, London W14 8UX, United Kingdom (query: Olympia London W14 8UX).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -931,15 +1148,37 @@ window.ATLASDATA={
    "source_url": "https://waicf.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 43.5506848,
+   "lng": 7.017658,
+   "precise": true,
    "category": "ai",
    "topics": [
     "enterprise AI",
     "artificial intelligence"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/waicf-2027-1.jpg",
+     "thumb": "img/events/waicf-2027-1-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/9365bf9f-7eb1-4510-9ff9-e2806bcb7aef-15a666e01861dcb9e409bd962474511e.JPG?auto=format&fit=max",
+     "page": "https://waicf.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/waicf-2027-2.jpg",
+     "thumb": "img/events/waicf-2027-2-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/fca6e7e9-6b9b-4004-b6a5-80bb1f199675-db6a8ba4cafb30b42e1b8ae616eb03db.JPG?auto=format&fit=max",
+     "page": "https://waicf.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/waicf-2027-3.jpg",
+     "thumb": "img/events/waicf-2027-3-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/81fdef13-2ad8-4cdd-ba10-67f3eac9808b-ffea6a4ebea26a1784401117af075be8.JPG?auto=format&fit=max",
+     "page": "https://waicf.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -949,7 +1188,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Festivals et des Congrès, 1, Boulevard de la Croisette, La Lepre, Cannes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06400, France (query: Palais des Festivals, 1 Boulevard de la Croisette, Cannes).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -987,9 +1226,9 @@ window.ATLASDATA={
    "source_url": "https://www.mwcbarcelona.com/about/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 41.3546222,
+   "lng": 2.1280404,
+   "precise": true,
    "category": "tech",
    "topics": [
     "mobile",
@@ -997,7 +1236,43 @@ window.ATLASDATA={
     "connectivity",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/mwc-barcelona-2027-2.jpg",
+     "thumb": "img/events/mwc-barcelona-2027-2-t.jpg",
+     "orig": "https://www.mwcbarcelona.com/cdn-cgi/image/f=auto/https://event-assets.gsma.com/MWC26-Exhibition-Hall.png",
+     "page": "https://www.mwcbarcelona.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/mwc-barcelona-2027-3.jpg",
+     "thumb": "img/events/mwc-barcelona-2027-3-t.jpg",
+     "orig": "https://www.mwcbarcelona.com/cdn-cgi/image/f=auto/https://event-assets.gsma.com/Barcelona/mwc26_aaron_paul_keynote_3x2.jpg",
+     "page": "https://www.mwcbarcelona.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/mwc-barcelona-2027-4.jpg",
+     "thumb": "img/events/mwc-barcelona-2027-4-t.jpg",
+     "orig": "https://www.mwcbarcelona.com/cdn-cgi/image/f=auto/https://i.vimeocdn.com/video/2129990417-04db91245f2b19eeec2637bc52feeb15ae769de401053542073d69a0201a1296-d_1920x1080?&r=pad&region=us",
+     "page": "https://www.mwcbarcelona.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/mwc-barcelona-2027-5.jpg",
+     "thumb": "img/events/mwc-barcelona-2027-5-t.jpg",
+     "orig": "https://www.mwcbarcelona.com/cdn-cgi/image/f=auto/https://event-assets.gsma.com/Barcelona/MWCB26_Highlights_Global_Change_Gwynne.webp",
+     "page": "https://www.mwcbarcelona.com/about/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/mwc-barcelona-2027-6.jpg",
+     "thumb": "img/events/mwc-barcelona-2027-6-t.jpg",
+     "orig": "https://www.mwcbarcelona.com/cdn-cgi/image/f=auto/https://event-assets.gsma.com/Barcelona/MWCB26_Highlights_Latest_Tech_4YFN.webp",
+     "page": "https://www.mwcbarcelona.com/about/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1012,7 +1287,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Fira Gran Vía, Avinguda de Joan Carles I, l'Hospitalet de Llobregat, Catalunya (Nominatim type: conference_centre) (query: Fira Gran Vía, Avinguda de Joan Carles I).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1050,15 +1325,58 @@ window.ATLASDATA={
    "source_url": "https://www.appliedmldays.org/amld/2027/overview",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 46.523049,
+   "lng": 6.5646449,
+   "precise": true,
    "category": "ai",
    "topics": [
     "machine learning",
     "applied AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/amld-2027-1.jpg",
+     "thumb": "img/events/amld-2027-1-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/stock-photo/stage-1-f085db95.jpg",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    },
+    {
+     "src": "img/events/amld-2027-2.jpg",
+     "thumb": "img/events/amld-2027-2-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/stock-photo/audience-1-1e8438ea.jpg",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    },
+    {
+     "src": "img/events/amld-2027-3.jpg",
+     "thumb": "img/events/amld-2027-3-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/stock-photo/workshop-1-cc24a3d6.jpg",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    },
+    {
+     "src": "img/events/amld-2027-4.jpg",
+     "thumb": "img/events/amld-2027-4-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/foyer-openstage-side-zoom-1500-8e0f860d.webp",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    },
+    {
+     "src": "img/events/amld-2027-5.jpg",
+     "thumb": "img/events/amld-2027-5-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/og/default-4884f05e.jpg",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    },
+    {
+     "src": "img/events/amld-2027-6.jpg",
+     "thumb": "img/events/amld-2027-6-t.jpg",
+     "orig": "https://www.appliedmldays.org/assets/graphics/discs-05-905d12e5.webp",
+     "page": "https://www.appliedmldays.org/amld/2027/overview",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1068,7 +1386,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: SwissTech Convention Center, 2, Route Louis Favre, Le Motty, Quartier Sorge, Renges, Lausanne, District de l'Ouest lausannois, Vaud, 1015, Schweiz / Suisse / Svizzera / Svizra (query: SwissTech Convention Center, Lausanne).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1106,16 +1424,45 @@ window.ATLASDATA={
    "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Search snippets: 15 Mar pre-event programming; main conference 16–18 Mar 2027. Confirm on official page.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 41.3550034,
+   "lng": 2.132638,
+   "precise": true,
    "category": "tech",
    "topics": [
     "Kubernetes",
     "cloud native",
     "open source"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/kubecon-eu-2027-1.jpg",
+     "thumb": "img/events/kubecon-eu-2027-1-t.jpg",
+     "orig": "https://events.linuxfoundation.org/wp-content/uploads/2025/07/home-KCCNC_EU_250402_Keynotes_DK_085.jpg",
+     "page": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kubecon-eu-2027-4.jpg",
+     "thumb": "img/events/kubecon-eu-2027-4-t.jpg",
+     "orig": "https://live.staticflickr.com/65535/55168973832_cc6efaa655_z.jpg",
+     "page": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kubecon-eu-2027-5.jpg",
+     "thumb": "img/events/kubecon-eu-2027-5-t.jpg",
+     "orig": "https://live.staticflickr.com/65535/55170264300_8971fda9e7_z.jpg",
+     "page": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kubecon-eu-2027-6.jpg",
+     "thumb": "img/events/kubecon-eu-2027-6-t.jpg",
+     "orig": "https://live.staticflickr.com/65535/55169871701_c147fd0dda_z.jpg",
+     "page": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1125,7 +1472,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Fira de Barcelona - Gran Via, Carrer del Platí, Sants-Montjuïc / Hospitalet area (Nominatim type: exhibition_centre). Official address is Carrer del Foc, 37, on this campus. (query: Fira de Barcelona Gran Via).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1163,9 +1510,9 @@ window.ATLASDATA={
    "source_url": "https://www.embedded-world.de/en",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 49.4192472,
+   "lng": 11.1185412,
+   "precise": true,
    "category": "tech",
    "topics": [
     "embedded systems",
@@ -1182,7 +1529,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messezentrum Nürnberg, Otto-Bärnreuther-Straße, 90471 Nürnberg, Deutschland (Nominatim type: exhibition_centre) (query: Messezentrum Nürnberg).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1220,9 +1567,9 @@ window.ATLASDATA={
    "source_url": "https://www.hannovermesse.de/en/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.3246223,
+   "lng": 9.8056327,
+   "precise": true,
    "category": "tech",
    "topics": [
     "industrial tech",
@@ -1250,7 +1597,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messegelände Hannover, Mittelfeld, Döhren-Wülfel, Hannover, Region Hannover, Niedersachsen, 30521, Deutschland (query: Messegelände Hannover, 30521 Hannover).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1288,16 +1635,59 @@ window.ATLASDATA={
    "source_url": "https://www.devoxx.fr/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.8784493,
+   "lng": 2.2837635,
+   "precise": true,
    "category": "tech",
    "topics": [
     "software development",
     "Java",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/devoxx-france-2027-1.jpg",
+     "thumb": "img/events/devoxx-france-2027-1-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/hall-exposition-2026.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-france-2027-2.jpg",
+     "thumb": "img/events/devoxx-france-2027-2-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/amphi-bleu-devoxx-fr-2026.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-france-2027-3.jpg",
+     "thumb": "img/events/devoxx-france-2027-3-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/nous-trois-2026.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-france-2027-4.jpg",
+     "thumb": "img/events/devoxx-france-2027-4-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/zoom-amphi-bleu.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-france-2027-5.jpg",
+     "thumb": "img/events/devoxx-france-2027-5-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/hands-on-lab-devoxx-2026.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-france-2027-6.jpg",
+     "thumb": "img/events/devoxx-france-2027-6-t.jpg",
+     "orig": "https://www.devoxx.fr/static/img/meet-and-greet-2026.jpg",
+     "page": "https://www.devoxx.fr/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1307,7 +1697,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Congrès, Place de la Porte Maillot, Quartier des Ternes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France (query: Palais des Congrès de Paris, Porte Maillot, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1345,8 +1735,8 @@ window.ATLASDATA={
    "source_url": "https://unblockeurope.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 56.9493977,
+   "lng": 24.1051846,
    "precise": false,
    "category": "crypto",
    "topics": [
@@ -1354,7 +1744,50 @@ window.ATLASDATA={
     "blockchain",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/unblock-2027-1.jpg",
+     "thumb": "img/events/unblock-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876d47/6a312b90c035c4d8499ab3da_perfekti.png",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/unblock-2027-2.jpg",
+     "thumb": "img/events/unblock-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876d47/6a302ac0408a5b9d4fc035e2_UNBLOCK-day2-14%203.jpg.jpeg",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/unblock-2027-3.jpg",
+     "thumb": "img/events/unblock-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876d47/6a302a6e9a325ed3765a821f_UNBLOCK-day2-61%201.jpg.jpeg",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/unblock-2027-4.jpg",
+     "thumb": "img/events/unblock-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876d47/6a13f565452be5be068bea16_Themes%20WEB%20Gara%20Bilde%20(1).jpg",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/unblock-2027-5.jpg",
+     "thumb": "img/events/unblock-2027-5-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876dfe/69adda1fa41e7683f67d7ffb_PvEh9x9ENAtthkoSCUg2gc31DMpZRCCrvhY6Zo5BeFk.avif",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/unblock-2027-6.jpg",
+     "thumb": "img/events/unblock-2027-6-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876dfe/69adda25e4329bcea7880b60_OGweOs6L71-hbgU5B5aZsFjPdktg2a97dCijiHrZUQU.avif",
+     "page": "https://unblockeurope.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1364,7 +1797,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official site names Riga but not a venue; pin is city-level.",
+   "geo_note": "Official site names Riga but not a venue; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Rīga, Latvija (query: Riga, Latvia).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1402,16 +1835,24 @@ window.ATLASDATA={
    "source_url": "https://ethcc.io/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 43.5506848,
+   "lng": 7.017658,
+   "precise": true,
    "category": "crypto",
    "topics": [
     "Ethereum",
     "DeFi",
     "Web3"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ethcc-10-2027-1.jpg",
+     "thumb": "img/events/ethcc-10-2027-1-t.jpg",
+     "orig": "https://ethcc.io/ethcc-10-og.png",
+     "page": "https://ethcc.io/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1421,7 +1862,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Festivals et des Congrès, 1, Boulevard de la Croisette, La Lepre, Cannes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06400, France (query: Palais des Festivals, 1 Boulevard de la Croisette, Cannes).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1459,16 +1900,52 @@ window.ATLASDATA={
    "source_url": "https://qconlondon.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Official site: conference 13–15 April 2027; ICSAET certification training on 16 April 2027. This record uses the 3-day conference dates.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5004972,
+   "lng": -0.129156,
+   "precise": true,
    "category": "tech",
    "topics": [
     "software engineering",
     "architecture",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/qcon-london-2027-1.jpg",
+     "thumb": "img/events/qcon-london-2027-1-t.jpg",
+     "orig": "https://qconlondon.com/modules/custom/qcon_home/images/experience-ln.webp",
+     "page": "https://qconlondon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/qcon-london-2027-2.jpg",
+     "thumb": "img/events/qcon-london-2027-2-t.jpg",
+     "orig": "https://qconlondon.com/modules/custom/qcon_home/images/qcon-we-care-right.webp",
+     "page": "https://qconlondon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/qcon-london-2027-3.jpg",
+     "thumb": "img/events/qcon-london-2027-3-t.jpg",
+     "orig": "https://qconlondon.com/modules/custom/qcon_home/images/venue1.webp",
+     "page": "https://qconlondon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/qcon-london-2027-4.jpg",
+     "thumb": "img/events/qcon-london-2027-4-t.jpg",
+     "orig": "https://qconlondon.com/modules/custom/qcon_home/images/venue2.webp",
+     "page": "https://qconlondon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/qcon-london-2027-5.jpg",
+     "thumb": "img/events/qcon-london-2027-5-t.jpg",
+     "orig": "https://qconlondon.com/modules/custom/qcon_home/images/venue3.webp",
+     "page": "https://qconlondon.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1478,7 +1955,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Queen Elizabeth II Conference Centre, 56, Broad Sanctuary, Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3EE, United Kingdom (query: Queen Elizabeth II Conference Centre, Broad Sanctuary, London).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1516,8 +1993,8 @@ window.ATLASDATA={
    "source_url": "https://aibc.world/news/aibc-2027-event-calendar/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 35.8923492,
+   "lng": 14.4196785,
    "precise": false,
    "category": "ai",
    "topics": [
@@ -1526,7 +2003,50 @@ window.ATLASDATA={
     "gaming",
     "EU AI Act"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/aibc-malta-2027-1.jpg",
+     "thumb": "img/events/aibc-malta-2027-1-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/10/transamerica-expo-venue.webp",
+     "page": "https://aibc.world/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aibc-malta-2027-2.jpg",
+     "thumb": "img/events/aibc-malta-2027-2-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/01/EXPO_WEB_GALLERY_ROME-0276-scaled.jpg",
+     "page": "https://aibc.world/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aibc-malta-2027-3.jpg",
+     "thumb": "img/events/aibc-malta-2027-3-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/01/EXPO_WEB_GALLERY_ROME-0454-scaled.jpg",
+     "page": "https://aibc.world/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aibc-malta-2027-4.jpg",
+     "thumb": "img/events/aibc-malta-2027-4-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/01/AIBC_WEB_GALLERY_ROME-8221-scaled.jpg",
+     "page": "https://aibc.world/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aibc-malta-2027-5.jpg",
+     "thumb": "img/events/aibc-malta-2027-5-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/01/AIBC_WEB_GALLERY_ROME-02580-scaled.jpg",
+     "page": "https://aibc.world/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aibc-malta-2027-6.jpg",
+     "thumb": "img/events/aibc-malta-2027-6-t.jpg",
+     "orig": "https://aibc.world/app/uploads/2026/01/EXPO_WEB_GALLERY_ROME-2-scaled.jpg",
+     "page": "https://aibc.world/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1536,7 +2056,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official calendar names Ta' Qali but not a venue building; pin is locality-level.",
+   "geo_note": "Official calendar names Ta' Qali but not a venue building; pin is locality-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Ta' Qali, Ħ'Attard, Reġjun Tramuntana, ATD 4000, Malta (query: Ta' Qali, Malta).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": "@aibcsummit",
    "last_verified_at": "2026-11-23",
@@ -1574,16 +2094,59 @@ window.ATLASDATA={
    "source_url": "https://omr.com/en/events/festival/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.5624595,
+   "lng": 9.975362,
+   "precise": true,
    "category": "tech",
    "topics": [
     "digital marketing",
     "tech",
     "media"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/omr-festival-2027-1.jpg",
+     "thumb": "img/events/omr-festival-2027-1-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/cmovkpt0t0ou107urfc8lzjby",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/omr-festival-2027-2.jpg",
+     "thumb": "img/events/omr-festival-2027-2-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/resize=fit:clip,height:1200,width:1600/quality=value:90/auto_image/GcKD7Qy0RJ6sRk4TUmyW",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/omr-festival-2027-3.jpg",
+     "thumb": "img/events/omr-festival-2027-3-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/resize=fit:clip,height:1200,width:1600/quality=value:90/auto_image/IssmpSKjQZ27EjbBaFVz",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/omr-festival-2027-4.jpg",
+     "thumb": "img/events/omr-festival-2027-4-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/resize=fit:clip,height:1200,width:1600/quality=value:90/auto_image/q6OME8TCR4m5dyKk646Y",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/omr-festival-2027-5.jpg",
+     "thumb": "img/events/omr-festival-2027-5-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/resize=fit:clip,height:1200,width:1600/quality=value:90/auto_image/tLEh3WmfTmW3C7c7KOGf",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/omr-festival-2027-6.jpg",
+     "thumb": "img/events/omr-festival-2027-6-t.jpg",
+     "orig": "https://eu-central-1.graphassets.com/AsRf3v2DvRQu1XduiUV52z/resize=fit:clip,height:1200,width:1600/quality=value:90/auto_image/cmngzcdw9clzd08usp9094i4j",
+     "page": "https://omr.com/en/events/festival/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1593,7 +2156,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Hamburg Messe und Congress GmbH, 1, Messeplatz, Hamburg Messe, St. Pauli, Hamburg-Mitte, Hamburg, 20357, Deutschland (query: Hamburg Messe, Messeplatz 1, Hamburg).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1631,14 +2194,57 @@ window.ATLASDATA={
    "source_url": "https://btcprague.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 50.0874654,
+   "lng": 14.4212535,
    "precise": false,
    "category": "crypto",
    "topics": [
     "Bitcoin"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/btc-prague-2027-1.jpg",
+     "thumb": "img/events/btc-prague-2027-1-t.jpg",
+     "orig": "https://btcprague.com/wp-content/uploads/2026/11/festival-speakers.jpg",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/btc-prague-2027-2.jpg",
+     "thumb": "img/events/btc-prague-2027-2-t.jpg",
+     "orig": "https://btcprague.com/wp-content/uploads/2026/11/festival-opportunities.jpg",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/btc-prague-2027-3.jpg",
+     "thumb": "img/events/btc-prague-2027-3-t.jpg",
+     "orig": "https://btcprague.com/wp-content/uploads/2026/11/festival-experience.jpg",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/btc-prague-2027-4.jpg",
+     "thumb": "img/events/btc-prague-2027-4-t.jpg",
+     "orig": "https://btcprague.com/wp-content/uploads/2026/11/festival-community.jpg",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/btc-prague-2027-5.jpg",
+     "thumb": "img/events/btc-prague-2027-5-t.jpg",
+     "orig": "https://btcprague.com/wp-content/uploads/2026/11/btcprague-gallery-stage.jpg",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/btc-prague-2027-6.jpg",
+     "thumb": "img/events/btc-prague-2027-6-t.jpg",
+     "orig": "https://btcprague.com/wp-content/themes/fns_template/assets/img/popup/popup-audience.webp",
+     "page": "https://btcprague.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1648,7 +2254,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": "Official site says the venue will be announced soon; pin is city-level Prague.",
+   "geo_note": "Official site says the venue will be announced soon; pin is city-level Prague. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Praha, Česko (query: Prague, Czech Republic).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1686,9 +2292,9 @@ window.ATLASDATA={
    "source_url": "https://re-publica.com/en/news/save-date-republica-27-10-12-may-2027",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.4986836,
+   "lng": 13.3748143,
+   "precise": true,
    "category": "tech",
    "topics": [
     "digital society",
@@ -1696,7 +2302,50 @@ window.ATLASDATA={
     "culture",
     "tech"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/republica-2027-1.jpg",
+     "thumb": "img/events/republica-2027-1-t.jpg",
+     "orig": "https://www.re-publica.com/sites/default/files/styles/rp_169_700/public/2026-11/rp27_CFP_1920x1080_plain.png.webp?itok=5HcVe1tQ",
+     "page": "https://www.re-publica.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/republica-2027-2.jpg",
+     "thumb": "img/events/republica-2027-2-t.jpg",
+     "orig": "https://www.re-publica.com/sites/default/files/2026-04/rp26_OnScreen_Web-Header_1920x1080-1_0.png",
+     "page": "https://www.re-publica.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/republica-2027-3.jpg",
+     "thumb": "img/events/republica-2027-3-t.jpg",
+     "orig": "https://re-publica.com/sites/default/files/2026-10/rp27_Keyvisual_HD.png",
+     "page": "https://www.re-publica.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/republica-2027-4.jpg",
+     "thumb": "img/events/republica-2027-4-t.jpg",
+     "orig": "https://re-publica.com/sites/default/files/2026-05/20260520_19-03_JZ__P_R0018.jpg",
+     "page": "https://re-publica.com/en/news/save-date-republica-27-10-12-may-2027",
+     "credit": ""
+    },
+    {
+     "src": "img/events/republica-2027-5.jpg",
+     "thumb": "img/events/republica-2027-5-t.jpg",
+     "orig": "https://www.re-publica.com/sites/default/files/2026-09/rpla_keyvisual.png",
+     "page": "https://www.re-publica.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/republica-2027-6.jpg",
+     "thumb": "img/events/republica-2027-6-t.jpg",
+     "orig": "https://www.re-publica.com/sites/default/files/styles/rp_169_700/public/2026-10/Keyvisual%2016%209%20%E2%80%93%20ohne%20Shirts%2C%20schwarze%20Schrift%401x%20%281%29.png.webp?itok=cD4SoiSU",
+     "page": "https://www.re-publica.com/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1711,7 +2360,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: STATION Berlin, 4-6, Luckenwalder Straße, 10963 Berlin, Deutschland (Nominatim type: conference_centre) (query: STATION-Berlin, Luckenwalder Straße).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1749,15 +2398,58 @@ window.ATLASDATA={
    "source_url": "https://riseof.ai/conference-2027/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 52.5173885,
+   "lng": 13.3951309,
    "precise": false,
    "category": "ai",
    "topics": [
     "artificial intelligence",
     "AI ecosystem"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/rise-of-ai-2027-1.jpg",
+     "thumb": "img/events/rise-of-ai-2027-1-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2024/08/Larissa-Holzki-768x767-1.png",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rise-of-ai-2027-2.jpg",
+     "thumb": "img/events/rise-of-ai-2027-2-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2024/08/Feiyu-Xu-768x751-1.webp",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rise-of-ai-2027-3.jpg",
+     "thumb": "img/events/rise-of-ai-2027-3-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2024/08/Portrait_Francielly-768x715-1.jpg",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rise-of-ai-2027-4.jpg",
+     "thumb": "img/events/rise-of-ai-2027-4-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2025/05/Rise-of-AI-Conference-2025-Konferenztag-thomastiefseetaucher116-scaled.jpg",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rise-of-ai-2027-5.jpg",
+     "thumb": "img/events/rise-of-ai-2027-5-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2024/07/Assadollahi_Ramin-e1539676462506.jpg",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rise-of-ai-2027-6.jpg",
+     "thumb": "img/events/rise-of-ai-2027-6-t.jpg",
+     "orig": "https://riseof.ai/wp-content/uploads/2026/05/RiseOfAI_by_www.introduce-productions.de_dominik-tryba_INT03963.jpg",
+     "page": "https://riseof.ai/conference-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1767,7 +2459,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official site names Berlin but not a venue building; pin is city-level.",
+   "geo_note": "Official site names Berlin but not a venue building; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Berlin, Deutschland (query: Berlin, Germany).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1805,15 +2497,58 @@ window.ATLASDATA={
    "source_url": "https://latitude59.ee/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 59.4442823,
+   "lng": 24.7512399,
+   "precise": true,
    "category": "tech",
    "topics": [
     "startups",
     "technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/latitude59-2027-1.jpg",
+     "thumb": "img/events/latitude59-2027-1-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/L59-cover-1024x576.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude59-2027-2.jpg",
+     "thumb": "img/events/latitude59-2027-2-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/Value-2.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude59-2027-3.jpg",
+     "thumb": "img/events/latitude59-2027-3-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/Group-206.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude59-2027-4.jpg",
+     "thumb": "img/events/latitude59-2027-4-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/Frame-6-1.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude59-2027-5.jpg",
+     "thumb": "img/events/latitude59-2027-5-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/st-app.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude59-2027-6.jpg",
+     "thumb": "img/events/latitude59-2027-6-t.jpg",
+     "orig": "https://93d3a998.delivery.rocketcdn.me/wp-content/uploads/blog.png",
+     "page": "https://latitude59.ee/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1823,7 +2558,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kultuurikatel, 27a, Põhja pst, Kalamaja, Põhja-Tallinna linnaosa, Tallinn, Harju maakond, 15065, Eesti (query: Kultuurikatel, Tallinn).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1861,9 +2596,9 @@ window.ATLASDATA={
    "source_url": "https://www.cyberseceurope.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.8998743,
+   "lng": 4.3378542,
+   "precise": true,
    "category": "tech",
    "topics": [
     "cybersecurity"
@@ -1878,7 +2613,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Brussels Expo, Place de Belgique - Belgiëplein, Heysel - Heizel, Laeken - Laken, Mutsaard, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1020, België / Belgique / Belgien (query: Brussels Expo, Belgium).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1916,8 +2651,8 @@ window.ATLASDATA={
    "source_url": "https://viennablockchainweek.org/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Official site said venue announced with the programme.",
-   "lat": null,
-   "lng": null,
+   "lat": 48.2083537,
+   "lng": 16.3725042,
    "precise": false,
    "category": "crypto",
    "topics": [
@@ -1925,7 +2660,50 @@ window.ATLASDATA={
     "institutional crypto",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/vienna-blockchain-week-2027-1.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-1-t.jpg",
+     "orig": "https://viennablockchainweek.org/media/vbw-panel.jpg",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/vienna-blockchain-week-2027-2.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-2-t.jpg",
+     "orig": "https://viennablockchainweek.org/media/vbw-audience.jpg",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/vienna-blockchain-week-2027-3.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-3-t.jpg",
+     "orig": "https://viennablockchainweek.org/preview-vbw27.jpg",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/vienna-blockchain-week-2027-4.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-4-t.jpg",
+     "orig": "https://viennablockchainweek.org/media/hero-wide.webp",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/vienna-blockchain-week-2027-5.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-5-t.jpg",
+     "orig": "https://viennablockchainweek.org/partners/pwc.png",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/vienna-blockchain-week-2027-6.jpg",
+     "thumb": "img/events/vienna-blockchain-week-2027-6-t.jpg",
+     "orig": "https://viennablockchainweek.org/partners/EY.png",
+     "page": "https://viennablockchainweek.org/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1935,7 +2713,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official site has not yet announced a venue; pin is city-level Vienna.",
+   "geo_note": "Official site has not yet announced a venue; pin is city-level Vienna. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Wien, Österreich (query: Vienna, Austria).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -1973,16 +2751,59 @@ window.ATLASDATA={
    "source_url": "https://londontechweek.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Official site/JSON-LD: 7–11 June 2027. The Olympia London expo is stated as 7–9 June; a fringe programme runs alongside the published 7–11 June window.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.4962885,
+   "lng": -0.2105797,
+   "precise": true,
    "category": "tech",
    "topics": [
     "technology",
     "startups",
     "innovation"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/london-tech-week-2027-1.jpg",
+     "thumb": "img/events/london-tech-week-2027-1-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/LTW365-SEM-1200-x-628-2-.png",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/london-tech-week-2027-2.jpg",
+     "thumb": "img/events/london-tech-week-2027-2-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/Impact-report.png",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/london-tech-week-2027-3.jpg",
+     "thumb": "img/events/london-tech-week-2027-3-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/HMicrosoft.png",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/london-tech-week-2027-4.jpg",
+     "thumb": "img/events/london-tech-week-2027-4-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/Accenture.png",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/london-tech-week-2027-5.jpg",
+     "thumb": "img/events/london-tech-week-2027-5-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/Ollo-homepage.png",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/london-tech-week-2027-6.jpg",
+     "thumb": "img/events/london-tech-week-2027-6-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Informa__AADDE28D_5056_B739_5481D63BF875B0DF/sites/london-tech-week-2024/media/galleries/ltw-2026/C3676B18-ASV20665-1-.jpg/fit-in/500x500/filters:no_upscale()",
+     "page": "https://londontechweek.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1992,7 +2813,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Olympia London, West Kensington, London W14 8UX, United Kingdom (query: Olympia London W14 8UX).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2030,9 +2851,9 @@ window.ATLASDATA={
    "source_url": "https://www.infosecurityeurope.com/en-gb.html",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5081127,
+   "lng": 0.0297071,
+   "precise": true,
    "category": "tech",
    "topics": [
     "cybersecurity",
@@ -2048,7 +2869,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Excel, 1, Western Gateway, Custom House, London E16 1XL, United Kingdom (Nominatim type: conference_centre) (query: ExCeL, 1 Western Gateway, London E16).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2086,16 +2907,59 @@ window.ATLASDATA={
    "source_url": "https://europe.money2020.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.3412264,
+   "lng": 4.8899065,
+   "precise": true,
    "category": "tech",
    "topics": [
     "fintech",
     "payments",
     "financial services"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/money2020-europe-2027-1.jpg",
+     "thumb": "img/events/money2020-europe-2027-1-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/5lzBIfSCht7K107M7Yep5o/cd5210c09b16d3341b02e29bb7ab640c/MN1R1037.jpg",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/money2020-europe-2027-2.jpg",
+     "thumb": "img/events/money2020-europe-2027-2-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/1KnSSHE0NOhNEgCeN78FN3/3699a7b6c50ff9d2a0345e15032debe5/image.png?w=1200&q=75&fm=webp",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/money2020-europe-2027-3.jpg",
+     "thumb": "img/events/money2020-europe-2027-3-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/5bBNWzYpCETSttlF4siZzQ/2db5d46c0710494c832bea19436cef7f/USE_e6661013536d-citi_blue_redarc_rgb.png?w=1200&q=75&fm=webp",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/money2020-europe-2027-4.jpg",
+     "thumb": "img/events/money2020-europe-2027-4-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/50F8Qkiii3HexmJBEcM2VB/cef7bd7c9bd8820a3125623c889694c3/blue_cab.png?w=1200&q=75&fm=webp",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/money2020-europe-2027-5.jpg",
+     "thumb": "img/events/money2020-europe-2027-5-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/2yKsNIu13Q4pnllUDhkymW/72f3fd2c3017591e83000cc832da3f2a/Ripple.png?w=1200&q=75&fm=webp",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/money2020-europe-2027-6.jpg",
+     "thumb": "img/events/money2020-europe-2027-6-t.jpg",
+     "orig": "https://images.ctfassets.net/ksgcgp3n790m/1ViDRL42FdW7pduUo29qgZ/6c0262c5e20517a656dc7512d7f1dfb5/sc_lock-up_english_grey_rgb__2_.png?w=1200&q=75&fm=webp",
+     "page": "https://europe.money2020.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2105,7 +2969,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: RAI Amsterdam, 24, Europaplein, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 GZ, Nederland (query: RAI Amsterdam).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2143,15 +3007,58 @@ window.ATLASDATA={
    "source_url": "https://london.theaisummit.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.5093605,
+   "lng": -0.0588607,
+   "precise": true,
    "category": "ai",
    "topics": [
     "enterprise AI",
     "commercial AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ai-summit-london-2027-1.jpg",
+     "thumb": "img/events/ai-summit-london-2027-1-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/AISummitLondon-2025-4301-662bcafef0958574f69195d5b5b1df73.jpg?auto=format&fit=max",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ai-summit-london-2027-2.jpg",
+     "thumb": "img/events/ai-summit-london-2027-2-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/AISummitLondon-2025-930-6f0fd2ffa4373017fe166e30bba99dcc.jpg?auto=format&fit=max",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ai-summit-london-2027-3.jpg",
+     "thumb": "img/events/ai-summit-london-2027-3-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/home-04-b93fc3567eec172c6e2e4c4d55d6f0d8.jpg?auto=format&fit=max",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ai-summit-london-2027-4.jpg",
+     "thumb": "img/events/ai-summit-london-2027-4-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/AISummitLondon-2025-2919-1aac9cfa10d367f98fb5c1b8591dd454.jpg?auto=format&fit=max",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ai-summit-london-2027-5.jpg",
+     "thumb": "img/events/ai-summit-london-2027-5-t.jpg",
+     "orig": "https://img.youtube.com/vi/FZjrXfscvkE/maxresdefault.jpg",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ai-summit-london-2027-6.jpg",
+     "thumb": "img/events/ai-summit-london-2027-6-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/Benedict-Macon-Cooney-c4d785b828a6e6f0290ad0d51856a968.jpg?auto=format&fit=max",
+     "page": "https://london.theaisummit.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2161,7 +3068,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Tobacco Dock, Wapping Lane, St. George in the East, Wapping, London Borough of Tower Hamlets, Greater London, England, E1W 3DD, United Kingdom (query: Tobacco Dock, Wapping Lane, London).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2199,16 +3106,24 @@ window.ATLASDATA={
    "source_url": "https://en.wemakefuture.it/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 44.5121218,
+   "lng": 11.3652435,
+   "precise": true,
    "category": "tech",
    "topics": [
     "digital innovation",
     "technology",
     "startups"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/wmf-2027-1.jpg",
+     "thumb": "img/events/wmf-2027-1-t.jpg",
+     "orig": "https://en.wemakefuture.it/cdn/?url=storage.ibrida.io/public/621cb4059ac564637c14d848_settings/uploader/fa4221b2-709d-4a76-856f-0e6e685926d5.jpg&w=1280&h=628",
+     "page": "https://en.wemakefuture.it/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2218,7 +3133,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Fiera di Bologna, San Donato, Bologna, Italia (Nominatim type: exhibition_centre) (query: Fiera di Bologna).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2256,9 +3171,9 @@ window.ATLASDATA={
    "source_url": "https://vivatech.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "The June 2026 edition (official wrap-up press release) recorded 200,000 visitors; that is a prior-edition figure, not a 2027 forecast. Saturday 19 June 2027 is General Public Day.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.8287212,
+   "lng": 2.2889813,
+   "precise": true,
    "category": "tech",
    "topics": [
     "startups",
@@ -2286,7 +3201,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Paris Expo Porte de Versailles, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France (query: Paris Expo Porte de Versailles, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2324,15 +3239,23 @@ window.ATLASDATA={
    "source_url": "https://www.signalweek.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Dates taken from the co-located Signal Week official site (7–8 July). Confirm on RAISE's own site.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.87845,
+   "lng": 2.28376,
+   "precise": true,
    "category": "ai",
    "topics": [
     "AI",
     "enterprise AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/raise-summit-2027-2.jpg",
+     "thumb": "img/events/raise-summit-2027-2-t.jpg",
+     "orig": "https://www.raisesummit.com/_next/image?url=%2Fimages%2Fraise-2026%2Fcxo-summit-2026.jpeg&w=3840&q=75&dpl=dpl_7xnEJJ63WCwXSHYA6CTt8ZmTNN4a",
+     "page": "https://www.raisesummit.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2347,7 +3270,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Congrès, Place de la Porte Maillot, Paris 17e, 75017, France (main summit venue; 6 July session is also listed at Château de Versailles) (query: Palais des Congrès de Paris, Porte Maillot, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2385,16 +3308,59 @@ window.ATLASDATA={
    "source_url": "https://www.signalweek.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.87845,
+   "lng": 2.28376,
+   "precise": true,
    "category": "crypto",
    "topics": [
     "digital assets",
     "institutional crypto",
     "blockchain"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/signal-week-2027-1.jpg",
+     "thumb": "img/events/signal-week-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0badae9848f3ebb04df6b_cgs4-2.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/signal-week-2027-2.jpg",
+     "thumb": "img/events/signal-week-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0bad9231ffb9543fc9158_cgs5-2.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/signal-week-2027-3.jpg",
+     "thumb": "img/events/signal-week-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0bad716eec43ba11ee9c6_cgs5-4.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/signal-week-2027-4.jpg",
+     "thumb": "img/events/signal-week-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0bacff6ee5a53a0c0ec68_cgs7-2.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/signal-week-2027-5.jpg",
+     "thumb": "img/events/signal-week-2027-5-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0baceec85d63f94938d0f_cgs8-2.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/signal-week-2027-6.jpg",
+     "thumb": "img/events/signal-week-2027-6-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6a8e6c17bc08d2a43f608adf/6ad0bacb250a0da3dbaf3758_cgs9-3.webp",
+     "page": "https://www.signalweek.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2404,7 +3370,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Congrès, Place de la Porte Maillot, Paris 17e, 75017, France (query: Palais des Congrès de Paris, Porte Maillot, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2442,15 +3408,23 @@ window.ATLASDATA={
    "source_url": "https://machinasummit.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "A MACHINA Gala is listed on 8 July 2027 at Château de Versailles; that is a related evening event, not a change of the summit venue.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.87845,
+   "lng": 2.28376,
+   "precise": true,
    "category": "ai",
    "topics": [
     "physical AI",
     "robotics"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/machina-summit-2027-1.jpg",
+     "thumb": "img/events/machina-summit-2027-1-t.jpg",
+     "orig": "https://machinasummit.com/_next/image?url=%2Fimages%2Fvenues%2Fversailles-gala-fireworks.jpg&w=3840&q=75&dpl=dpl_5udoy7TsspBU91GG6UC7546pWrjy",
+     "page": "https://machinasummit.com/tickets",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2465,7 +3439,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Congrès, Place de la Porte Maillot, Paris 17e, 75017, France (query: Palais des Congrès de Paris, Porte Maillot, Paris).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2503,15 +3477,37 @@ window.ATLASDATA={
    "source_url": "https://www.wearedevelopers.com/world-congress",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.5001203,
+   "lng": 13.2707936,
+   "precise": true,
    "category": "tech",
    "topics": [
     "software development",
     "developers"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/wearedevelopers-2027-1.jpg",
+     "thumb": "img/events/wearedevelopers-2027-1-t.jpg",
+     "orig": "https://imagedelivery.net/p2Gwf4g3bNtyXUmnEu9Kdw/main-stage/main-stage-panorama/og?format=auto",
+     "page": "https://www.wearedevelopers.com/world-congress",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wearedevelopers-2027-2.jpg",
+     "thumb": "img/events/wearedevelopers-2027-2-t.jpg",
+     "orig": "https://www.wearedevelopers.com/_web/images/event-hero/world-congress-europe/hero-poster.jpg",
+     "page": "https://www.wearedevelopers.com/world-congress",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wearedevelopers-2027-3.jpg",
+     "thumb": "img/events/wearedevelopers-2027-3-t.jpg",
+     "orig": "https://imagedelivery.net/p2Gwf4g3bNtyXUmnEu9Kdw/speakers/world-congress-europe/manual-derya-matras-2027-original/card?format=auto",
+     "page": "https://www.wearedevelopers.com/world-congress",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2526,7 +3522,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: CityCube Berlin, 26, Messedamm, 14055 Berlin, Deutschland (Nominatim type: exhibition_centre) (query: CityCube Berlin).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2564,9 +3560,9 @@ window.ATLASDATA={
    "source_url": "https://www.ifa-berlin.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.5034485,
+   "lng": 13.2721989,
+   "precise": true,
    "category": "tech",
    "topics": [
     "consumer electronics",
@@ -2582,7 +3578,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messe Berlin, Westend, Charlottenburg-Wilmersdorf, Berlin, Deutschland (Nominatim type: exhibition_centre) (query: Messe Berlin).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2620,8 +3616,8 @@ window.ATLASDATA={
    "source_url": "https://events.linuxfoundation.org/open-source-summit-europe-2027/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 55.861155,
+   "lng": -4.2501687,
    "precise": false,
    "category": "tech",
    "topics": [
@@ -2640,7 +3636,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official page names Glasgow but not a venue building; pin is city-level.",
+   "geo_note": "Official page names Glasgow but not a venue building; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Glasgow, Glasgow City, Alba / Scotland, G2 1AR, United Kingdom (query: Glasgow, United Kingdom).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2678,16 +3674,59 @@ window.ATLASDATA={
    "source_url": "https://dmexco.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.9457637,
+   "lng": 6.9797221,
+   "precise": true,
    "category": "tech",
    "topics": [
     "digital marketing",
     "tech",
     "media"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dmexco-2027-1.jpg",
+     "thumb": "img/events/dmexco-2027-1-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/08/02091533/dmexco_anfahrt_1920x640.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dmexco-2027-2.jpg",
+     "thumb": "img/events/dmexco-2027-2-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2025/07/21101107/250717_Podcast-Relaunch_1200x1200.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dmexco-2027-3.jpg",
+     "thumb": "img/events/dmexco-2027-3-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2024/05/02103109/Website_Carousel_DigitalDigest_2560x1463_DMEXCO24.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dmexco-2027-4.jpg",
+     "thumb": "img/events/dmexco-2027-4-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/07/02123251/go-live_Agenda_desktop_260702-1-1.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dmexco-2027-5.jpg",
+     "thumb": "img/events/dmexco-2027-5-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2025/09/23132945/Large-250918_CS2_02_004-1.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dmexco-2027-6.jpg",
+     "thumb": "img/events/dmexco-2027-6-t.jpg",
+     "orig": "https://dmexco-lightsails-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/03/04110642/Banner_Worlds_LP_Commerce_Start_260225-scaled.jpg",
+     "page": "https://dmexco.com/plan-your-visit-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2702,7 +3741,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messe Köln, Auenweg, Deutz, Köln, Deutschland (Nominatim type: exhibition_centre) (query: Messe Köln Deutz).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2740,8 +3779,8 @@ window.ATLASDATA={
    "source_url": "https://eblockchainconvention.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 41.3825802,
+   "lng": 2.177073,
    "precise": false,
    "category": "crypto",
    "topics": [
@@ -2749,7 +3788,15 @@ window.ATLASDATA={
     "Web3",
     "digital assets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ebc-2027-1.jpg",
+     "thumb": "img/events/ebc-2027-1-t.jpg",
+     "orig": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+     "page": "https://eblockchainconvention.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2759,7 +3806,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official homepage names Barcelona but not a venue; pin is city-level.",
+   "geo_note": "Official homepage names Barcelona but not a venue; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Barcelona, Barcelonès, Barcelona, Catalunya, España (query: Barcelona, Spain).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2797,8 +3844,8 @@ window.ATLASDATA={
    "source_url": "https://www.bitsandpretzels.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Official site describes a third day of table-captain networking at the real Oktoberfest. The main conference venue building is not named on the homepage.",
-   "lat": null,
-   "lng": null,
+   "lat": 48.1371079,
+   "lng": 11.5753822,
    "precise": false,
    "category": "tech",
    "topics": [
@@ -2806,7 +3853,50 @@ window.ATLASDATA={
     "founders",
     "venture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/bits-and-pretzels-2027-1.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/67e53d1a9e236baaeceab6bd_54037452084_2d373ec937_c.webp",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bits-and-pretzels-2027-2.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/67c02c163278e50f25b23a6a_captain_gallery_1.webp",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bits-and-pretzels-2027-3.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/6acf4e5a188ecd42f2360e1c_b74401dc422b9f5ef72120ad60bca4cf_Munich%2C%2027%20-%2029%20September%202027.png",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bits-and-pretzels-2027-4.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/6a86a53b5e0e062a7e83c0c2_founder.png",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bits-and-pretzels-2027-5.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-5-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/69e62bc1a4073afe2f922b70_2%20(1).avif",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bits-and-pretzels-2027-6.jpg",
+     "thumb": "img/events/bits-and-pretzels-2027-6-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/65a699b9cbf436f3d7fd1318/69e635003e97d1fe62c59934_3%20(2).avif",
+     "page": "https://www.bitsandpretzels.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2816,7 +3906,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official site names Munich but not the main conference venue; pin is city-level.",
+   "geo_note": "Official site names Munich but not the main conference venue; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: München, Bayern, Deutschland (query: Munich, Germany).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2854,9 +3944,9 @@ window.ATLASDATA={
    "source_url": "https://ecai2027.org/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Search snippets: pre-conference 2–3 Oct; main conference 4–7 Oct 2027. Confirm official range.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 37.9805874,
+   "lng": 23.7540192,
+   "precise": true,
    "category": "ai",
    "topics": [
     "artificial intelligence",
@@ -2872,7 +3962,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Μέγαρο Διεθνές Συνεδριακό Κέντρο Αθηνών, Βασιλίσσης Σοφίας, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 28, Ελλάς (query: Megaron Athens International Conference Centre, Athens).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2910,16 +4000,59 @@ window.ATLASDATA={
    "source_url": "https://devoxx.be/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.2457755,
+   "lng": 4.4173203,
+   "precise": true,
    "category": "tech",
    "topics": [
     "software development",
     "Java",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/devoxx-belgium-2027-1.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-1-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55572770015.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-belgium-2027-2.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-2-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55572770860.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-belgium-2027-3.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-3-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55578348351.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-belgium-2027-4.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-4-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55575272780.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-belgium-2027-5.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-5-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55574964163.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/devoxx-belgium-2027-6.jpg",
+     "thumb": "img/events/devoxx-belgium-2027-6-t.jpg",
+     "orig": "https://devoxx.be/assets/img/gallery/devoxx-2026-55574963328.jpg",
+     "page": "https://devoxx.be/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2929,7 +4062,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kinepolis Antwerpen, 394, Groenendaallaan, Antwerpen, Vlaanderen, 2030, België / Belgique / Belgien (query: Kinepolis Antwerp, Groenendaallaan 394, Antwerp).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -2967,8 +4100,8 @@ window.ATLASDATA={
    "source_url": "https://wavebyvento.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": "Formerly Italian Tech Week. Official 2027 page names Turin, 6–8 October 2027. Page JSON-LD still showed 2026 dates at OGR Torino and was not used for the 2027 venue.",
-   "lat": null,
-   "lng": null,
+   "lat": 45.0677551,
+   "lng": 7.6824892,
    "precise": false,
    "category": "tech",
    "topics": [
@@ -2986,7 +4119,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": "Official 2027 text names Turin but not a venue building; pin is city-level.",
+   "geo_note": "Official 2027 text names Turin but not a venue building; pin is city-level. Geocoded via OpenStreetMap Nominatim on 2026-11-23: Torino, Piemonte, Italia (query: Turin, Italy).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -3024,15 +4157,51 @@ window.ATLASDATA={
    "source_url": "https://worldsummit.ai/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.4233937,
+   "lng": 4.8321054,
+   "precise": true,
    "category": "ai",
    "topics": [
     "artificial intelligence",
     "enterprise AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-summit-ai-2027-1.jpg",
+     "thumb": "img/events/world-summit-ai-2027-1-t.jpg",
+     "orig": "https://worldsummit.ai/wp-content/uploads/sites/4/2026/03/1.png",
+     "page": "https://worldsummit.ai/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-summit-ai-2027-2.jpg",
+     "thumb": "img/events/world-summit-ai-2027-2-t.jpg",
+     "orig": "https://worldsummit.ai/wp-content/uploads/sites/4/2026/03/2.png",
+     "page": "https://worldsummit.ai/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-summit-ai-2027-3.jpg",
+     "thumb": "img/events/world-summit-ai-2027-3-t.jpg",
+     "orig": "https://worldsummit.ai/wp-content/uploads/sites/4/2026/03/3.png",
+     "page": "https://worldsummit.ai/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-summit-ai-2027-4.jpg",
+     "thumb": "img/events/world-summit-ai-2027-4-t.jpg",
+     "orig": "https://worldsummit.ai/wp-content/uploads/sites/4/2026/03/4.png",
+     "page": "https://worldsummit.ai/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-summit-ai-2027-6.jpg",
+     "thumb": "img/events/world-summit-ai-2027-6-t.jpg",
+     "orig": "https://worldsummit.ai/wp-content/uploads/sites/4/2026/03/12-1.png",
+     "page": "https://worldsummit.ai/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3042,7 +4211,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Hembrugterrein, Zaandam, Zaanstad, Nederland — the industrial campus that contains Taets Art & Event Park (Nominatim had no named 'Taets' polygon). (query: Hembrugterrein Zaandam).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
@@ -3080,16 +4249,45 @@ window.ATLASDATA={
    "source_url": "https://websummit.com/",
    "last_scraped_at": "2026-11-23T18:30:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 38.7684689,
+   "lng": -9.0939002,
+   "precise": true,
    "category": "tech",
    "topics": [
     "technology",
     "startups",
     "AI"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/web-summit-2027-1.jpg",
+     "thumb": "img/events/web-summit-2027-1-t.jpg",
+     "orig": "https://websummit.com/wp-media/2026/03/two-attendees-posing-for-selfie-at-web-summit-lisbon-2025.png",
+     "page": "https://websummit.com/web-summit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/web-summit-2027-2.jpg",
+     "thumb": "img/events/web-summit-2027-2-t.jpg",
+     "orig": "https://websummit.com/wp-media/2026/06/Mada-Seghete-Co-founder-VP-of-Marketing-Branch-on-PandaConf-stage-during-day-three-of-Web-Summit-2022-at-the-Altice-Arena-in-Lisbon-Portugal-aspect-ratio-652-590.jpg",
+     "page": "https://websummit.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/web-summit-2027-3.jpg",
+     "thumb": "img/events/web-summit-2027-3-t.jpg",
+     "orig": "https://websummit.com/wp-media/2026/10/54915213913_14e6de5f96_c-1.jpg",
+     "page": "https://websummit.com/web-summit-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/web-summit-2027-4.jpg",
+     "thumb": "img/events/web-summit-2027-4-t.jpg",
+     "orig": "https://websummit.com/wp-media/2024/11/54133374805_c24a6cbeb2_o-scaled.jpg",
+     "page": "https://websummit.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3104,7 +4302,7 @@ window.ATLASDATA={
    ],
    "status": "upcoming",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: MEO Arena, Rossio dos Olivais, Parque das Nações, Lisboa, 1990-193, Portugal (query: MEO Arena, Rossio dos Olivais, Lisbon).",
    "source_accessed_at": "2026-11-23T18:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-23",
