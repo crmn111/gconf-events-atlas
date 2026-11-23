@@ -4,7 +4,9 @@ const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const CAT = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3'};
+const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3'};
+const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:'Culture', other:'Other'};
+const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 
 function parseDay(s){
@@ -37,7 +39,7 @@ function pillText(e){
   if(!hasPrice(e)) return 'TBA';
   const t = fmtPrice(e).replace(/\s+/g,' ').trim();
   if(/^(free|gratis)$/i.test(t) || /^free\b/i.test(t)) return 'Free';
-  const m = t.match(/(?:from\s+)?(?:[€$£]|EUR|USD|GBP|CHF)\s?[\d.,]+(?:\s?[–-]\s?(?:[€$£]|EUR|USD|GBP|CHF)?\s?[\d.,]+)?/i);
+  const m = t.match(/(?:from\s+)?(?:[€$£]|EUR|USD|GBP|CHF|AED|Dhs)\s?[\d.,]+(?:\s?[–-]\s?(?:[€$£]|EUR|USD|GBP|CHF|AED|Dhs)?\s?[\d.,]+)?/i);
   if(m){ const s=m[0].replace(/\s+/g,' '); return s.length>18?s.slice(0,16)+'…':s; }
   if(/^[€$£]\s?\d/.test(t) && t.length<=18) return t;
   return 'Priced';
@@ -45,15 +47,23 @@ function pillText(e){
 function hasPin(e){ return e.lat!=null && e.lng!=null; }
 function isApprox(e){ return hasPin(e) && e.precise!==true; }
 function where(e){ return [e.venue, [e.city, e.country].filter(Boolean).join(', ')].filter(Boolean).join(' · '); }
-function catLabel(e){ return CAT[e.category] || e.category || 'Event'; }
+function evKind(e){ return e && e.kind==='festival' ? 'festival' : 'conference'; }
+function evRegion(e){
+  const r = String((e && e.region) || '').toLowerCase();
+  return r==='uae' ? 'uae' : 'europe';
+}
+function catLabel(e){ return CAT[e.category] || (e.category ? e.category.charAt(0).toUpperCase()+e.category.slice(1) : 'Event'); }
+function catDict(kind){ return (kind||st.kind)==='festival' ? CAT_FEST : CAT_CONF; }
+function catKeys(kind){
+  kind = kind||st.kind;
+  const d = catDict(kind);
+  const present = new Set(EV.filter(e => evKind(e)===kind).map(e => e.category));
+  const keys = Object.keys(d).filter(k => !present.size || present.has(k));
+  present.forEach(k => { if(!keys.includes(k)) keys.push(k); });
+  return keys;
+}
 
 const EV = (D.events||[]).slice();
-const CITIES = [...new Map(EV.map(e => {
-  const key = (e.city||'Unknown') + '|' + (e.country||'');
-  return [key, {key, city:e.city||'Unknown', country:e.country||'', n:0}];
-})).values()].sort((a,b)=>a.city.localeCompare(b.city));
-CITIES.forEach(c => { c.n = EV.filter(e => (e.city||'Unknown')+'|'+(e.country||'')===c.key).length; });
-const TOPICS = [...new Set(EV.flatMap(e => e.topics||[]))].sort((a,b)=>a.localeCompare(b));
 
 /* ---------- theme + flags ---------- */
 const THEME_KEY = 'gconf-atlas-theme';
@@ -68,7 +78,8 @@ const ISO = {
   Portugal:'PT', Spain:'ES', Switzerland:'CH', 'United Kingdom':'GB', UK:'GB',
   'Great Britain':'GB', Ireland:'IE', Sweden:'SE', Norway:'NO', Denmark:'DK',
   Finland:'FI', Poland:'PL', Hungary:'HU', Romania:'RO', Slovakia:'SK',
-  Slovenia:'SI', Croatia:'HR', Bulgaria:'BG', Lithuania:'LT', Iceland:'IS'
+  Slovenia:'SI', Croatia:'HR', Bulgaria:'BG', Lithuania:'LT', Iceland:'IS',
+  Serbia:'RS', 'United Arab Emirates':'AE', UAE:'AE'
 };
 function flagOf(country){
   const iso = ISO[country];
@@ -266,6 +277,8 @@ const WHEN = [
 ];
 
 const st = {
+  kind:'conference',
+  region:'all',
   cats: {ai:true, tech:true, crypto:true},
   when:'any', from:null, to:null,
   cities: new Set(),
@@ -273,18 +286,131 @@ const st = {
   pmin:0, pmax:PT, unknown:true,
   q:'', sort:'date', cityq:''
 };
+try{
+  const k = localStorage.getItem('gconf-atlas-kind');
+  if(k==='festival'||k==='conference') st.kind = k;
+}catch(_){}
 
-$('#f-cat').innerHTML = ['ai','tech','crypto'].map(c => {
-  const n = EV.filter(e => e.category===c).length;
-  return `<button type="button" data-v="${c}" class="on ${c}"><i class="dot ${c}"></i>${esc(CAT[c])} <small>${n}</small></button>`;
-}).join('');
-$$('#f-cat button').forEach(b => b.onclick = () => {
-  const k = b.dataset.v;
-  st.cats[k] = !st.cats[k];
-  if(!st.cats.ai && !st.cats.tech && !st.cats.crypto){ st.cats[k] = true; }
-  b.classList.toggle('on', st.cats[k]);
+function kindPool(){
+  return EV.filter(e => evKind(e)===st.kind && (st.region==='all' || evRegion(e)===st.region));
+}
+function cityList(){
+  const pool = kindPool();
+  const map = new Map();
+  pool.forEach(e => {
+    const key = (e.city||'Unknown')+'|'+(e.country||'');
+    if(!map.has(key)) map.set(key, {key, city:e.city||'Unknown', country:e.country||'', n:0});
+    map.get(key).n++;
+  });
+  return [...map.values()].sort((a,b)=>a.city.localeCompare(b.city));
+}
+function topicList(){
+  return [...new Set(kindPool().flatMap(e => e.topics||[]))].sort((a,b)=>a.localeCompare(b));
+}
+
+function renderCatChips(){
+  const keys = catKeys(st.kind);
+  if(!keys.some(k => st.cats[k])) keys.forEach(k => st.cats[k] = true);
+  const pool = EV.filter(e => evKind(e)===st.kind);
+  $('#f-cat').innerHTML = keys.map(c => {
+    const n = pool.filter(e => e.category===c).length;
+    const lab = catDict()[c] || (c.charAt(0).toUpperCase()+c.slice(1));
+    return `<button type="button" data-v="${esc(c)}" class="${st.cats[c]?'on':''} ${esc(c)}"><i class="dot ${esc(c)}"></i>${esc(lab)} <small>${n}</small></button>`;
+  }).join('');
+  $$('#f-cat button').forEach(b => b.onclick = () => {
+    const k = b.dataset.v;
+    st.cats[k] = !st.cats[k];
+    if(!catKeys().some(c => st.cats[c])) st.cats[k] = true;
+    b.classList.toggle('on', st.cats[k]);
+    render();
+  });
+}
+
+function updateKindbar(){
+  const bar = $('#kindbar');
+  if(!bar) return;
+  $$('#kindbar button').forEach(b => {
+    const on = b.dataset.k===st.kind;
+    b.classList.toggle('on', on);
+    b.setAttribute('aria-selected', on?'true':'false');
+  });
+  const nc = $('#kind-n-conference'), nf = $('#kind-n-festival');
+  if(nc) nc.textContent = EV.filter(e => evKind(e)==='conference').length;
+  if(nf) nf.textContent = EV.filter(e => evKind(e)==='festival').length;
+}
+function updateRegionChrome(){
+  $$('#f-region button').forEach(b => b.classList.toggle('on', b.dataset.r===st.region));
+  $$('#regions button').forEach(b => b.classList.toggle('on', st.region!=='all' && b.dataset.r===st.region));
+}
+function setKind(k){
+  if(k!=='festival') k='conference';
+  if(st.kind===k) return;
+  st.kind = k;
+  st.cities.clear();
+  st.topics.clear();
+  st.cityq = '';
+  const q = $('#f-cityq'); if(q) q.value='';
+  st.cats = Object.fromEntries(catKeys(k).map(c => [c, true]));
+  if(st.region!=='all' && !EV.some(e => evKind(e)===k && evRegion(e)===st.region)){
+    st.region = 'all';
+  }
+  try{ localStorage.setItem('gconf-atlas-kind', k); }catch(_){}
+  updateKindbar();
+  updateRegionChrome();
+  renderCatChips();
+  renderTopics();
+  renderCities();
+  renderLegend();
   render();
-});
+  fitToVisible();
+  const m = (location.hash||'').match(/event\/([^/]+)/);
+  if(m){
+    const ev = EV.find(x => x.slug===decodeURIComponent(m[1]));
+    if(ev && evKind(ev)!==k){
+      const next = /^#\/timeline/.test(location.hash) ? '#/timeline' : (/^#\/swipe/.test(location.hash) ? '#/swipe' : '#/');
+      if(location.hash!==next) location.hash = next;
+    }
+  }
+}
+function setRegion(r, opts){
+  opts = opts||{};
+  if(r!=='europe' && r!=='uae') r='all';
+  const changed = st.region!==r;
+  st.region = r;
+  if(changed){ st.cities.clear(); st.topics.clear(); }
+  updateRegionChrome();
+  if(changed){ renderCities(); renderTopics(); render(); }
+  if(opts.fit!==false) fitToVisible();
+}
+
+const REGION_BOUNDS = {
+  europe: [[34,-12],[71,32]],
+  uae: [[22.6,51.5],[26.6,56.6]],
+  all: [[12,-15],[71,60]]
+};
+function fitToVisible(){
+  const pins = visibleEvents().map(e => markers[e.slug]).filter(Boolean);
+  const pad = innerWidth>860 ? {paddingTopLeft:[20,40], paddingBottomRight:[40,20]} : {padding:[60,24,40,24]};
+  try{
+    if(pins.length){
+      const group = L.featureGroup(pins);
+      map.fitBounds(group.getBounds().pad(0.14), Object.assign({maxZoom: pins.length<4?8:6, animate:true}, pad));
+    }else{
+      map.fitBounds(REGION_BOUNDS[st.region] || REGION_BOUNDS.all, Object.assign({maxZoom: st.region==='uae'?8:4, animate:true}, pad));
+    }
+  }catch(_){}
+}
+
+function renderLegend(){
+  const box = $('#legend');
+  if(!box) return;
+  const keys = catKeys();
+  const d = catDict();
+  box.innerHTML = `<button class="lgx" type="button" onclick="this.parentNode.classList.toggle('min')" aria-label="Collapse legend">–</button>
+    <div class="lg-title">Legend</div>
+    ${keys.map(k => `<div><i class="pin-s ${esc(k)}"></i>${esc(d[k]||k)}</div>`).join('')}
+    <div class="muted">Dashed pin ring = approximate location</div>`;
+}
 
 $('#f-when').innerHTML = WHEN.map(w => `<button type="button" data-v="${w.id}" class="${w.id==='any'?'on':''}">${w.label}</button>`).join('');
 function applyWhen(id){
@@ -306,7 +432,7 @@ function cityChip(c){
 }
 function renderCities(){
   const q = st.cityq;
-  const list = CITIES.filter(c => !q || (c.city+' '+c.country).toLowerCase().includes(q));
+  const list = cityList().filter(c => !q || (c.city+' '+c.country).toLowerCase().includes(q));
   const allOn = st.cities.size===0;
   $('#f-city').innerHTML = `<button type="button" data-v="" class="${allOn?'on':''}">All cities</button>` + list.map(cityChip).join('');
   $$('#f-city button').forEach(b => b.onclick = () => {
@@ -318,29 +444,42 @@ function renderCities(){
   });
 }
 $('#f-cityq').oninput = e => { st.cityq = e.target.value.trim().toLowerCase(); renderCities(); };
-renderCities();
 
-if(TOPICS.length){
-  $('#f-topic-row').hidden = false;
+st.cats = Object.fromEntries(catKeys(st.kind).map(c => [c, true]));
+updateKindbar();
+updateRegionChrome();
+renderCatChips();
+renderLegend();
+$$('#kindbar button').forEach(b => b.onclick = () => setKind(b.dataset.k));
+$$('#f-region button').forEach(b => b.onclick = () => setRegion(b.dataset.r, {fit:true}));
+$$('#regions button').forEach(b => b.onclick = () => setRegion(b.dataset.r, {fit:true}));
+
+let topicsExpanded = false;
+function renderTopics(){
+  const TOPICS = topicList();
+  const row = $('#f-topic-row');
   const box = $('#f-topic');
+  if(!row || !box) return;
+  if(!TOPICS.length){ row.hidden = true; box.innerHTML=''; return; }
+  row.hidden = false;
   box.classList.add('topics');
-  const renderTopics = (expanded) => {
-    const shown = expanded ? TOPICS : TOPICS.slice(0, 10);
-    const rest = Math.max(0, TOPICS.length - shown.length);
-    box.classList.toggle('expanded', !!expanded);
-    box.innerHTML = shown.map(t => `<button type="button" data-v="${esc(t)}" class="${st.topics.has(t)?'on':''}">${esc(t)}</button>`).join('')
-      + (rest?`<button type="button" class="morebtn" data-more="1">+${rest} more</button>`:'')
-      + (expanded && TOPICS.length>10?`<button type="button" class="morebtn" data-more="0">Show fewer</button>`:'');
-    $$('#f-topic button').forEach(b => b.onclick = () => {
-      if(b.dataset.more){ renderTopics(b.dataset.more==='1'); return; }
-      const t = b.dataset.v;
-      if(st.topics.has(t)) st.topics.delete(t); else st.topics.add(t);
-      b.classList.toggle('on', st.topics.has(t));
-      render();
-    });
-  };
-  renderTopics(false);
+  const shown = topicsExpanded ? TOPICS : TOPICS.slice(0, 10);
+  const rest = Math.max(0, TOPICS.length - shown.length);
+  box.classList.toggle('expanded', !!topicsExpanded);
+  box.innerHTML = shown.map(t => `<button type="button" data-v="${esc(t)}" class="${st.topics.has(t)?'on':''}">${esc(t)}</button>`).join('')
+    + (rest?`<button type="button" class="morebtn" data-more="1">+${rest} more</button>`:'')
+    + (topicsExpanded && TOPICS.length>10?`<button type="button" class="morebtn" data-more="0">Show fewer</button>`:'');
+  $$('#f-topic button').forEach(b => b.onclick = () => {
+    if(b.dataset.more){ topicsExpanded = b.dataset.more==='1'; renderTopics(); return; }
+    const t = b.dataset.v;
+    if(st.topics.has(t)) st.topics.delete(t); else st.topics.add(t);
+    b.classList.toggle('on', st.topics.has(t));
+    render();
+  });
 }
+
+renderCities();
+renderTopics();
 
 const pmn = $('#f-pmin'), pmx = $('#f-pmax');
 function fmtEur(n){ return n===Infinity ? '€3k+' : n>=1000 ? '€'+(n/1000).toString().replace(/\.0$/,'')+'k' : '€'+n; }
@@ -397,6 +536,8 @@ function priceOk(e){
 function visibleEvents(){
   const q = st.q;
   return EV.filter(e => {
+    if(evKind(e)!==st.kind) return false;
+    if(st.region!=='all' && evRegion(e)!==st.region) return false;
     if(!st.cats[e.category]) return false;
     if(!overlapsDate(e)) return false;
     if(st.cities.size){
@@ -440,7 +581,7 @@ function cardHtml(e){
 function render(){
   const vis = sortEvents(visibleEvents());
   $('#count').textContent = vis.length + (vis.length===1?' event':' events');
-  $('#list').innerHTML = vis.length ? vis.map(cardHtml).join('') : `<div class="empty">${EV.length?'No events match the current filters.':'No upcoming events have been published yet. The research feed is still being compiled.'}</div>`;
+  $('#list').innerHTML = vis.length ? vis.map(cardHtml).join('') : `<div class="empty">${kindPool().length?'No events match the current filters.':(st.kind==='festival'?'Festival listings are still being compiled.':'No upcoming events have been published yet. The research feed is still being compiled.')}</div>`;
   $$('#list .card[data-r]').forEach(c => c.onclick = () => { location.hash = '#/'+c.dataset.r; });
 
   clusters.clearLayers();
@@ -457,8 +598,12 @@ function render(){
     if(vis.length && !pinned){ echo.hidden=false; echo.textContent='These events are in the list. Pins appear once a location has been published.'; }
     else echo.hidden=true;
   }
+  const u = $('#uval');
+  if(u) u.textContent = '('+kindPool().filter(e=>!hasPrice(e)).length+')';
   updateAlertPrefs(vis.length);
+  if(PLAY.on && !PLAY.paused) playPause();
   if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')) renderTimeline();
+  if(PLAY.on) playReconcile();
 }
 
 /* ---------- detail ---------- */
@@ -489,8 +634,7 @@ function viewEvent(e){
   const cat = catLabel(e);
   const topicTags = (e.topics||[]).filter(t => t.toLowerCase()!==cat.toLowerCase() && t.toLowerCase()!==(e.category||''));
   const tags = [cat].concat(topicTags).map(t=>`<span>${esc(t)}</span>`).join('');
-  const closeTo = /^#\/timeline/.test(location.hash||'') ? '#/timeline' : '#/';
-  const close = `<button class="close" type="button" aria-label="Close" onclick="location.hash='${closeTo}'">✕</button>`;
+  const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
   const gal = galHtml(ph, credit);
   const hero = `<div class="dhero ${esc(e.category||'')}">
     <div class="crumbs">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div>
@@ -584,9 +728,11 @@ function setMainView(v){
   $$('#viewbar button').forEach(b => b.classList.toggle('on', b.dataset.v===v));
   if(v==='timeline') renderTimeline();
   if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
-  if(was==='timeline' && v==='map'){
-    setTimeout(() => { try{ map.invalidateSize(); }catch(_){ } }, 60);
+  if(was==='timeline' && v!=='timeline'){
+    if(PLAY.on) playExit({silent:true});
+    if(v==='map') setTimeout(() => { try{ map.invalidateSize(); }catch(_){ } }, 60);
   }
+  return was!==v;
 }
 function monthKey(e){
   const d = parseDay(e.start_date);
@@ -607,7 +753,8 @@ function monthParts(key){
 function tlIcon(cat){
   if(cat==='crypto') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#CFF55A" stroke-width="2.2" d="M24 6 40 16v16L24 42 8 32V16L24 6z"/><path fill="none" stroke="#1FA9C6" stroke-width="2" d="M24 16 34 22v12l-10 6-10-6V22l10-6z"/></svg>`;
   if(cat==='tech') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="14" width="20" height="20" rx="3" fill="none" stroke="#CFF55A" stroke-width="2.2"/><path stroke="#CFF55A" stroke-width="2" d="M24 8v6M24 34v6M8 24h6M34 24h6"/><circle cx="24" cy="24" r="3.5" fill="#CFF55A"/></svg>`;
-  return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#8FE3F2" d="M24 6l3.2 10.2L37 16.8 29.8 23l2.7 10.4L24 28.2 15.5 33.4 18.2 23 11 16.8l9.8-0.6z"/></svg>`;
+  if(cat==='ai') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#8FE3F2" d="M24 6l3.2 10.2L37 16.8 29.8 23l2.7 10.4L24 28.2 15.5 33.4 18.2 23 11 16.8l9.8-0.6z"/></svg>`;
+  return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#fff" stroke-width="2.2" d="M10 34c6-14 22-14 28 0"/><circle cx="18" cy="18" r="3" fill="#fff"/><circle cx="30" cy="16" r="3" fill="#fff"/><circle cx="24" cy="22" r="2.5" fill="#fff"/></svg>`;
 }
 function startsOnOrAfterToday(e){
   const a = parseDay(e.start_date);
@@ -667,7 +814,7 @@ function renderTimeline(){
   tlDisconnect();
   const list = visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
   if(!list.length){
-    body.innerHTML = `<div class="tl-empty">${EV.length?'No events match the current filters.':'No upcoming events have been published yet.'}</div>`;
+    body.innerHTML = `<div class="tl-empty">${kindPool().length?'No events match the current filters.':(st.kind==='festival'?'Festival listings are still being compiled.':'No upcoming events have been published yet.')}</div>`;
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
     return;
   }
@@ -752,25 +899,354 @@ function renderTimeline(){
     if(el) el.scrollIntoView({behavior: reduce?'auto':'smooth', block:'start'});
   });
   $$('#tlbody .tl-card[data-slug]').forEach(c => {
-    const go = () => { location.hash = '#/timeline/event/'+c.dataset.slug; };
+    const go = () => {
+      if(PLAY.on){
+        playPause();
+        const idx = PLAY.list.findIndex(x => x.slug===c.dataset.slug);
+        if(idx>=0) playShow(idx, {replace:true});
+        return;
+      }
+      location.hash = '#/timeline/event/'+c.dataset.slug;
+    };
     c.onclick = ev => { if(!ev.target.closest('a')) go(); };
-    c.onkeydown = ev => { if(ev.key==='Enter' || ev.key===' '){ ev.preventDefault(); go(); } };
+    c.onkeydown = ev => { if(ev.key==='Enter' || (ev.key===' ' && !PLAY.on)){ ev.preventDefault(); go(); } };
   });
+  if(PLAY.on) playMarkCard();
 }
 $$('#viewbar button').forEach(b => b.onclick = () => {
   const v = b.dataset.v;
+  if(v==='timeline' && /^#\/timeline/.test(location.hash||'')) return;
   location.hash = v==='map' ? '#/' : '#/'+v;
 });
+
+
+/* ---------- timeline presentation ---------- */
+const PLAY_BASE = 7000;
+const PLAY = {
+  on:false, paused:true, i:0, list:[], speed:1,
+  t0:0, elapsed:0, dur:PLAY_BASE, raf:0,
+  prog:false, navigating:false, suppressAuto:false
+};
+try{
+  const sp = parseFloat(localStorage.getItem('gconf-atlas-play-speed')||'');
+  if(sp===0.5||sp===1||sp===1.5||sp===2) PLAY.speed = sp;
+}catch(_){}
+function playReduced(){
+  return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+}
+function playEvents(){
+  return visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+}
+function playMapVisible(){
+  const wrap = $('#mapwrap');
+  return !!(wrap && !wrap.classList.contains('timeline-on') && $('#map') && $('#map').offsetParent!==null);
+}
+function atlasCloseDetail(){
+  if(PLAY.on){
+    playPause();
+    const e = PLAY.list[PLAY.i];
+    playSetHash(e ? e.slug : '', true);
+    const det=$('#detail');
+    det.classList.remove('open'); det.setAttribute('aria-hidden','true');
+    const body=$('#dbody'); if(body) body.innerHTML='';
+    carStop();
+    return;
+  }
+  location.hash = /^#\/timeline/.test(location.hash||'') ? '#/timeline' : '#/';
+}
+window.atlasCloseDetail = atlasCloseDetail;
+
+function playSetHash(slug, replace){
+  const h = slug ? '#/timeline/play/'+slug : '#/timeline/play';
+  if((location.hash||'')===h) return;
+  PLAY.navigating = true;
+  if(replace) history.replaceState(null, '', h);
+  else location.hash = h;
+  setTimeout(() => { PLAY.navigating = false; }, 40);
+}
+
+function playFill(p){
+  const el = $('#playfill');
+  if(el) el.style.width = (Math.max(0, Math.min(1, p))*100)+'%';
+}
+function playUpdateChrome(){
+  const e = PLAY.list[PLAY.i];
+  const pos = $('#playpos'), title = $('#playtitle'), tog = $('#playtoggle');
+  if(pos) pos.textContent = PLAY.list.length ? (PLAY.i+1)+' / '+PLAY.list.length : '–';
+  if(title) title.textContent = e ? e.name : '';
+  const playing = PLAY.on && !PLAY.paused;
+  if(tog){
+    tog.textContent = playing ? '❚❚' : '▶';
+    tog.setAttribute('aria-label', playing ? 'Pause presentation' : 'Play presentation');
+    tog.setAttribute('aria-pressed', playing ? 'true' : 'false');
+  }
+  $$('#playbar .play-speeds button').forEach(b => b.classList.toggle('on', parseFloat(b.dataset.sp)===PLAY.speed));
+  const bar = $('#playbar'), btn = $('#tlplay'), app = $('#app');
+  if(app) app.classList.toggle('play-on', PLAY.on);
+  if(bar) bar.hidden = !PLAY.on;
+  if(btn) btn.hidden = PLAY.on;
+}
+
+function playMarkCard(){
+  $$('#tlbody .tl-now').forEach(el => el.classList.remove('tl-now'));
+  const e = PLAY.list[PLAY.i];
+  if(!e || !PLAY.on) return;
+  const card = document.querySelector('#tlbody .tl-card[data-slug="'+CSS.escape(e.slug)+'"]');
+  if(!card) return;
+  card.classList.add('tl-now');
+  const item = card.closest('.tl-item');
+  if(item) item.classList.add('tl-now');
+  PLAY.prog = true;
+  const reduce = playReduced();
+  try{ card.scrollIntoView({behavior: reduce?'auto':'smooth', block:'center', inline:'nearest'}); }catch(_){}
+  clearTimeout(PLAY.progT);
+  PLAY.progT = setTimeout(() => { PLAY.prog = false; }, reduce ? 80 : 750);
+}
+
+function playOpenPanel(e){
+  const det = $('#detail');
+  $('#dbody').innerHTML = viewEvent(e);
+  det.classList.add('open'); det.setAttribute('aria-hidden','false');
+  bindGallery(e);
+  updateAlertPrefs(undefined, e);
+  if(playMapVisible() && e.lat!=null && e.lng!=null){
+    const z = Math.max(map.getZoom(), 10);
+    const off = innerWidth>860 ? Math.round(det.getBoundingClientRect().width/2) : 0;
+    const ll = L.latLng(e.lat, e.lng);
+    const pt = map.project(ll,z).subtract([off,0]);
+    map.flyTo(map.unproject(pt,z), z, {duration: playReduced()?0:.7});
+  }
+  if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
+}
+
+function playShow(i, opts){
+  opts = opts||{};
+  if(!PLAY.list.length){ playExit({silent:true}); return; }
+  i = Math.max(0, Math.min(PLAY.list.length-1, i));
+  PLAY.i = i;
+  PLAY.elapsed = 0;
+  PLAY.dur = PLAY_BASE / (PLAY.speed||1);
+  PLAY.t0 = 0;
+  const e = PLAY.list[i];
+  playOpenPanel(e);
+  playMarkCard();
+  playUpdateChrome();
+  playFill(0);
+  playSetHash(e.slug, opts.replace!==false);
+}
+
+function playSyncGallery(){
+  if(playReduced() || !PLAY.on || PLAY.paused) return;
+  const n = (CAR.list||[]).length;
+  if(n<2 || !CAR.el) return;
+  const step = Math.max(1800, Math.min(3000, PLAY.dur / n));
+  const idx = Math.floor(PLAY.elapsed / step) % n;
+  if(idx!==CAR.i) carGo(idx, true);
+}
+
+function playTick(now){
+  if(!PLAY.on || PLAY.paused){ PLAY.raf=0; return; }
+  if(!PLAY.t0) PLAY.t0 = now - PLAY.elapsed;
+  PLAY.elapsed = now - PLAY.t0;
+  const p = Math.min(1, PLAY.elapsed / PLAY.dur);
+  playFill(p);
+  playSyncGallery();
+  if(p>=1){
+    if(PLAY.i >= PLAY.list.length-1){
+      playPause();
+      playFill(1);
+      return;
+    }
+    playShow(PLAY.i+1, {replace:true});
+    PLAY.t0 = performance.now();
+    PLAY.elapsed = 0;
+  }
+  PLAY.raf = requestAnimationFrame(playTick);
+}
+
+function playResume(){
+  if(!PLAY.on || !PLAY.list.length) return;
+  PLAY.paused = false;
+  PLAY.dur = PLAY_BASE / (PLAY.speed||1);
+  PLAY.t0 = performance.now() - PLAY.elapsed;
+  playUpdateChrome();
+  if(!PLAY.raf) PLAY.raf = requestAnimationFrame(playTick);
+}
+function playPause(){
+  if(!PLAY.on) return;
+  if(PLAY.raf){ cancelAnimationFrame(PLAY.raf); PLAY.raf=0; }
+  if(!PLAY.paused && PLAY.t0) PLAY.elapsed = performance.now() - PLAY.t0;
+  PLAY.paused = true;
+  playUpdateChrome();
+}
+function playToggle(){
+  if(!PLAY.on){ playEnter({auto:true}); return; }
+  if(PLAY.paused) playResume(); else playPause();
+}
+function playStep(d){
+  if(!PLAY.on) return;
+  const ni = PLAY.i + d;
+  if(ni<0 || ni>=PLAY.list.length) return;
+  const wasPaused = PLAY.paused;
+  playShow(ni, {replace:true});
+  if(!wasPaused) playResume();
+}
+function playSetSpeed(s){
+  s = parseFloat(s);
+  if(!(s===0.5||s===1||s===1.5||s===2)) return;
+  const frac = PLAY.dur ? (PLAY.elapsed / PLAY.dur) : 0;
+  PLAY.speed = s;
+  PLAY.dur = PLAY_BASE / s;
+  PLAY.elapsed = frac * PLAY.dur;
+  if(!PLAY.paused) PLAY.t0 = performance.now() - PLAY.elapsed;
+  try{ localStorage.setItem('gconf-atlas-play-speed', String(s)); }catch(_){}
+  playUpdateChrome();
+}
+
+function playEnter(opts){
+  opts = opts||{};
+  if(PLAY.navigating && PLAY.on && !opts.force) return;
+  PLAY.list = playEvents();
+  if(!PLAY.list.length) return;
+  let i = 0;
+  if(opts.slug){
+    const j = PLAY.list.findIndex(e => e.slug===opts.slug);
+    if(j>=0) i=j;
+  }
+  const already = PLAY.on && PLAY.i===i && $('#detail') && $('#detail').classList.contains('open');
+  PLAY.on = true;
+  PLAY.suppressAuto = false;
+  document.getElementById('app').classList.add('play-on');
+  if(!already) playShow(i, {replace:true});
+  else playUpdateChrome();
+  const shouldPlay = opts.auto!==false && !playReduced() && !opts.paused;
+  if(shouldPlay) playResume();
+  else playPause();
+}
+
+function playExit(opts){
+  opts = opts||{};
+  if(!PLAY.on && !document.getElementById('app').classList.contains('play-on')) return;
+  if(PLAY.raf){ cancelAnimationFrame(PLAY.raf); PLAY.raf=0; }
+  PLAY.on = false;
+  PLAY.paused = true;
+  PLAY.elapsed = 0;
+  PLAY.t0 = 0;
+  PLAY.suppressAuto = true;
+  playFill(0);
+  $$('#tlbody .tl-now').forEach(el => el.classList.remove('tl-now'));
+  document.getElementById('app').classList.remove('play-on');
+  playUpdateChrome();
+  const bar=$('#playbar'); if(bar) bar.hidden=true;
+  const btn=$('#tlplay'); if(btn) btn.hidden=false;
+  if(!opts.keepDetail){
+    const det=$('#detail');
+    if(det && !opts.silent){
+      /* keep open only if asked */
+    }
+    if(!opts.keepDetail && det){
+      det.classList.remove('open'); det.setAttribute('aria-hidden','true');
+      const body=$('#dbody'); if(body && !opts.keepDetail) body.innerHTML='';
+      carStop();
+    }
+  }
+  if(!opts.silent && !opts.keepHash){
+    const h = location.hash||'';
+    if(/^#\/timeline\/play/.test(h)){
+      PLAY.navigating = true;
+      const e = PLAY.list[PLAY.i];
+      history.replaceState(null, '', opts.keepDetail && e ? '#/timeline/event/'+e.slug : '#/timeline');
+      setTimeout(() => { PLAY.navigating = false; }, 40);
+    }
+  }
+}
+
+function playReconcile(){
+  if(!PLAY.on) return;
+  const slug = (PLAY.list[PLAY.i]||{}).slug;
+  PLAY.list = playEvents();
+  if(!PLAY.list.length){ playExit({silent:true}); return; }
+  const j = slug ? PLAY.list.findIndex(e => e.slug===slug) : 0;
+  PLAY.i = j>=0 ? j : 0;
+  playShow(PLAY.i, {replace:true});
+  playPause();
+}
+
+function playUserInteract(ev){
+  if(!PLAY.on || PLAY.paused) return;
+  if(PLAY.prog) return;
+  if(ev && ev.target && ev.target.closest && ev.target.closest('#playbar,#tlplay,.playbar')) return;
+  playPause();
+}
+
+(function bindPlayChrome(){
+  const playBtn = $('#tlplay');
+  if(playBtn) playBtn.onclick = () => playEnter({auto:true, force:true});
+  $('#playtoggle').onclick = () => playToggle();
+  $('#playprev').onclick = () => playStep(-1);
+  $('#playnext').onclick = () => playStep(1);
+  $('#playstop').onclick = () => playExit({});
+  $$('#playbar .play-speeds button').forEach(b => b.onclick = () => playSetSpeed(b.dataset.sp));
+  const tl = $('#timeline');
+  if(tl){
+    tl.addEventListener('scroll', ev => playUserInteract(ev), {passive:true, capture:true});
+    tl.addEventListener('wheel', ev => playUserInteract(ev), {passive:true});
+    tl.addEventListener('touchmove', ev => playUserInteract(ev), {passive:true});
+  }
+  const det = $('#detail');
+  if(det) det.addEventListener('scroll', ev => playUserInteract(ev), {passive:true});
+  const side = $('#sidebar');
+  if(side){
+    side.addEventListener('scroll', ev => playUserInteract(ev), {passive:true});
+    side.addEventListener('click', ev => {
+      if(ev.target.closest('button,input,a,label,.chip,.card')) playUserInteract(ev);
+    });
+  }
+  const mob = $('#mobtoggle');
+  if(mob) mob.addEventListener('click', () => { if(PLAY.on && !PLAY.paused) playPause(); });
+  document.addEventListener('keydown', ev => {
+    if(!PLAY.on) return;
+    const tag = (ev.target && ev.target.tagName || '').toLowerCase();
+    if(tag==='input' || tag==='textarea' || ev.target.isContentEditable) return;
+    if(LB.open) return;
+    if(ev.key===' ' || ev.code==='Space'){ ev.preventDefault(); playToggle(); }
+    else if(ev.key==='ArrowRight'){ ev.preventDefault(); playStep(1); }
+    else if(ev.key==='ArrowLeft'){ ev.preventDefault(); playStep(-1); }
+    else if(ev.key==='Escape'){
+      ev.preventDefault();
+      if(!PLAY.paused) playPause();
+      else playExit({});
+    }
+  });
+})();
 
 function route(){
   const hash = location.hash||'#/';
   const onTimeline = /^#\/timeline/.test(hash);
   const onSwipe = /^#\/swipe/.test(hash);
-  setMainView(onSwipe ? 'swipe' : onTimeline ? 'timeline' : 'map');
-  if(onSwipe){ $('#detail').classList.remove('open'); $('#detail').setAttribute('aria-hidden','true'); openSwipe(); closePrivacy(); return; }
+  const playMatch = hash.match(/^#\/timeline\/play(?:\/([^/]+))?\/?$/);
+  const entered = setMainView(onSwipe ? 'swipe' : onTimeline ? 'timeline' : 'map');
+  if(onSwipe){ if(PLAY.on) playExit({silent:true, keepHash:true}); $('#detail').classList.remove('open'); $('#detail').setAttribute('aria-hidden','true'); openSwipe(); closePrivacy(); return; }
   else closeSwipe(true);
-  if(/^#\/privacy/.test(hash)){ $('#privacy').classList.add('open'); $('#privacy').setAttribute('aria-hidden','false'); $('#detail').classList.remove('open'); return; }
+  if(/^#\/privacy/.test(hash)){ if(PLAY.on) playExit({silent:true, keepHash:true}); $('#privacy').classList.add('open'); $('#privacy').setAttribute('aria-hidden','false'); $('#detail').classList.remove('open'); return; }
   else closePrivacy();
+  if(playMatch){
+    if(PLAY.navigating && PLAY.on) return;
+    playEnter({slug: playMatch[1] ? decodeURIComponent(playMatch[1]) : '', auto: !playReduced(), force: !PLAY.on});
+    return;
+  }
+  if(PLAY.on && !PLAY.navigating){
+    if(/^#\/timeline\/event\//.test(hash)){
+      playExit({keepDetail:true, keepHash:true, silent:true});
+    }else{
+      playExit({silent:true, keepHash:true});
+    }
+  }
+  if(entered && onTimeline && !playMatch && !/^#\/timeline\/event/.test(hash) && !playReduced() && !PLAY.suppressAuto){
+    playEnter({auto:true});
+    return;
+  }
+  if(!onTimeline) PLAY.suppressAuto = false;
   if(/^#\/alerts\/confirmed/.test(hash)){
     const n = $('#alert-confirmed');
     if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
@@ -978,7 +1454,7 @@ const CAR_MS=3000, CAR_TICK=100;
 function carStop(){ if(CAR.t){ clearInterval(CAR.t); CAR.t=null; } CAR.el=null; CAR.list=[]; CAR.busy=false; }
 function carPaused(){
   const det=document.getElementById('detail');
-  return RM.matches||CAR.hover||LB.open||document.hidden||!det||!det.classList.contains('open')||!CAR.el||!document.body.contains(CAR.el);
+  return RM.matches||CAR.hover||LB.open||document.hidden||!det||!det.classList.contains('open')||!CAR.el||!document.body.contains(CAR.el)||PLAY.on;
 }
 function carInit(list,title,credit){
   carStop();
@@ -1094,16 +1570,13 @@ window.addEventListener('hashchange', route);
 document.addEventListener('keydown', e => {
   if(e.key==='Escape'){
     if(LB.open) return;
+    if(PLAY.on) return;
     if(/^#\/timeline\/event/.test(location.hash)) location.hash='#/timeline';
     else if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash='#/';
   }
 });
 
 render();
-if(EV.some(e => e.lat!=null)){
-  try{
-    const group = L.featureGroup(Object.values(markers));
-    if(!location.hash || location.hash==='#/') map.fitBounds(group.getBounds().pad(0.12), {maxZoom:6, paddingTopLeft:[0,20]});
-  }catch(_){}
-}
+if(!location.hash || location.hash==='#/') fitToVisible();
+
 route();

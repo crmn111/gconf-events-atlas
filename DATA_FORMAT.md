@@ -1,12 +1,20 @@
 # Data format
 
 The atlas is a static site. The public dataset is `data.js`
-(`window.ATLASDATA`), built from `_build/events.json`.
+(`window.ATLASDATA`), built from the research files in `_build/`.
 
-## Source: `_build/events.json`
+## Sources
 
-Produced by the research pipeline. Do not hand-edit it from the site
-build. The file is either an array of events or an object:
+`build.py` merges, when present:
+
+| File | Default `kind` | Default `region` |
+| --- | --- | --- |
+| `_build/events.json` | `conference` | `europe` |
+| `_build/events_uae.json` | `conference` | `uae` |
+| `_build/festivals.json` | `festival` | `europe` |
+
+Missing files are skipped. Do not hand-edit these from the site build.
+Each file is either an array of events or an object:
 
 ```json
 { "updated": "2026-11-23", "events": [ /* ... */ ] }
@@ -25,7 +33,9 @@ Sheet columns (passed through if present):
 | `name` | Event name |
 | `website_url` | Official site |
 | `start_date`, `end_date` | ISO `YYYY-MM-DD` |
-| `city`, `country`, `region`, `venue` | Location |
+| `city`, `country`, `venue` | Location |
+| `region` | `europe` \| `uae`. Legacy values such as `"Europe"` or `"United Arab Emirates"` are normalised. |
+| `kind` | `conference` \| `festival`. Omitted rows pick up the default for their source file. |
 | `industry`, `format`, `organizer` | As published |
 | `expected_attendance` | Only when sourced |
 | `sponsor_page_url`, `sponsorship_prospectus_url` | Optional |
@@ -38,7 +48,7 @@ Atlas fields added by the research worker:
 | `slug` | Used in `#/event/{slug}` and as `id` |
 | `lat`, `lng` | WGS84. Events without coordinates appear in the list only |
 | `precise` | `true` when the pin is a verified venue/listing point; `false` for an approximate city or area pin |
-| `category` | `ai` \| `tech` \| `crypto` |
+| `category` | Conferences: `ai` \| `tech` \| `crypto`. Festivals: `music` \| `arts` \| `film` \| `food` \| `culture` \| `other`. Festival categories are not coerced to the conference set. |
 | `topics` | Array of short topic strings |
 | `ticket_price_min`, `ticket_price_max` | Numbers, in `currency` |
 | `currency` | ISO code, e.g. `EUR` |
@@ -56,10 +66,12 @@ Extra sheet columns are preserved in `data.js`.
 window.ATLASDATA = {
   updated: "2026-11-23",
   generated: "2026-11-23T16:40:53Z",
-  scope: "AI, tech and crypto/Web3 events in Europe",
-  eurRates: { EUR: 1, GBP: 1.16 /* ... */ },
+  scope: "Conferences and festivals in Europe and the UAE",
+  eurRates: { EUR: 1, GBP: 1.16, AED: 0.25 /* ... */ },
   eurRatesNote: "Indicative mid-market rates used only to compare ticket prices on the slider.",
-  events: [ /* upcoming only */ ]
+  events: [ /* upcoming only */ ],
+  sourceMissing: [ /* names of source files that were absent */ ],
+  counts: { conference: 0, festival: 0, europe: 0, uae: 0 }
 };
 ```
 
@@ -73,4 +85,4 @@ Rebuild:
 python3 _build/build.py
 ```
 
-`build.py` never writes to `events.json` or `img/events/`.
+`build.py` never writes to the source JSON files or `img/events/`. Duplicate slugs are dropped (first wins). Tickets in AED use an indicative euro rate of 0.25 for the slider only.

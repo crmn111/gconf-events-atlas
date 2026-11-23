@@ -1,13 +1,22 @@
 # GConf Events Atlas
 
-A map of upcoming AI, tech and crypto/Web3 events in Europe, published
-by [GConf.ai](https://gconf.ai). Modelled on the Marbella New-Build
-Atlas: a static Leaflet site, self-hosted photos, and a cited source
-for every fact.
+A map of upcoming conferences and festivals in Europe and the UAE,
+published by [GConf.ai](https://gconf.ai). Modelled on the Marbella
+New-Build Atlas: a static Leaflet site, self-hosted photos, and a
+cited source for every fact.
 
 Live: https://crmn111.github.io/gconf-events-atlas/
 
-- Hash routes, e.g. `#/event/{slug}`, `#/timeline` and `#/swipe`.
+- Hash routes, e.g. `#/event/{slug}`, `#/timeline`, `#/timeline/play`
+  and `#/swipe`. The timeline opens in a presentation that steps
+  through filtered events (pause, speed and Stop in the play bar;
+  Space, arrows and Esc; autoplay is skipped when
+  `prefers-reduced-motion` is set).
+- A Conferences / Festivals toggle switches the map, timeline, swipe
+  and play lists. Category chips follow the selected kind (AI / tech /
+  crypto for conferences; music, arts, film, food, culture or other
+  for festivals). Region filters and a Europe / UAE map jump fit the
+  map to the visible pins.
 - Filters for city, date range, category/topic and ticket price, with
   an “unknown price” toggle so unpriced events can still be shown.
 - Detail panel with a self-hosted photo gallery, lightbox, credits and
@@ -20,11 +29,12 @@ Live: https://crmn111.github.io/gconf-events-atlas/
 
 This repository’s public copy is the slim GitHub Pages tree. The
 working tree on the build machine keeps the research pipeline in
-`_build/` (`events.json`, photos staging, `build.py`) and the
+`_build/` (`events.json`, `events_uae.json`, `festivals.json`, photos
+staging, `build.py`) and the
 unpublished-until-ready backend in `backend/`.
 
 ```bash
-python3 _build/build.py          # events.json → data.js (upcoming only)
+python3 _build/build.py          # events.json + events_uae.json + festivals.json → data.js (upcoming only)
 ./publish.sh                     # rebuild, copy the slim tree, push Pages
 ```
 

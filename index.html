@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>GConf Events Atlas · AI, tech and crypto in Europe</title>
-<meta name="description" content="A map of upcoming AI, tech and crypto/Web3 events in Europe. Every fact is cited. Built by GConf AI.">
+<title>GConf Events Atlas · Conferences and festivals in Europe and the UAE</title>
+<meta name="description" content="A map of upcoming conferences and festivals in Europe and the UAE. Every fact is cited. Built by GConf AI.">
 <meta name="theme-color" content="#F3F5F7" id="theme-color">
 <script>(function(){try{var t=localStorage.getItem('gconf-atlas-theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,16 +27,28 @@
         <img src="img/brand/gconf-mark-lime.svg" alt="" width="32" height="30">
       </a>
       <div>
-        <div class="eyebrow">↳ GConf.ai · Europe</div>
+        <div class="eyebrow">↳ GConf.ai · Europe &amp; the UAE</div>
         <h1>Events Atlas</h1>
       </div>
     </header>
+    <div class="kindbar" id="kindbar" role="tablist" aria-label="Event type">
+      <button type="button" role="tab" data-k="conference" class="on" aria-selected="true">Conferences <small id="kind-n-conference"></small></button>
+      <button type="button" role="tab" data-k="festival" aria-selected="false">Festivals <small id="kind-n-festival"></small></button>
+    </div>
     <div class="stats" id="stats"></div>
     <div class="sidetop">
     <div class="search">
       <input id="q" type="search" placeholder="Search events, cities, organisers…" autocomplete="off">
     </div>
     <section class="filters">
+      <div class="frow">
+        <label>Region</label>
+        <div class="chips" id="f-region">
+          <button type="button" data-r="all" class="on">All regions</button>
+          <button type="button" data-r="europe">Europe</button>
+          <button type="button" data-r="uae">UAE</button>
+        </div>
+      </div>
       <div class="frow">
         <label>Category</label>
         <div class="chips" id="f-cat"></div>
@@ -121,7 +133,7 @@
       </form>
     </section>
     <footer class="foot">
-      A <a href="https://gconf.ai" target="_blank" rel="noopener">GConf.ai</a> map of upcoming AI, tech and crypto events in Europe.
+      A <a href="https://gconf.ai" target="_blank" rel="noopener">GConf.ai</a> map of upcoming conferences and festivals in Europe and the UAE.
       Research as of <span id="upd"></span>. Every fact is cited on its event page.
       ◌ marks an approximate pin. Ticket-price comparisons in euro are indicative.
       Basemaps © Esri and OpenStreetMap contributors. Photos © their publishers, credited on each page.
@@ -129,10 +141,13 @@
     </footer>
   </aside>
   <main id="mapwrap">
-    <div id="map" role="application" aria-label="Map of events in Europe"></div>
+    <div id="map" role="application" aria-label="Map of events in Europe and the UAE"></div>
     <div id="mapecho" class="mapecho" hidden></div>
     <div id="timeline" aria-hidden="true">
-      <nav class="tl-scrub" id="tlscrub" aria-label="Jump to month" hidden></nav>
+      <div class="tl-top" id="tltop">
+        <button type="button" id="tlplay" class="tl-playbtn" aria-label="Play timeline presentation">▶ Play</button>
+        <nav class="tl-scrub" id="tlscrub" aria-label="Jump to month" hidden></nav>
+      </div>
       <div class="tl-scroll" id="tlbody"></div>
     </div>
     <nav class="viewbar" id="viewbar" aria-label="Views">
@@ -144,6 +159,10 @@
       <div class="theme" id="theme" role="group" aria-label="Colour theme">
         <button type="button" data-t="light" class="on">Light</button>
         <button type="button" data-t="dark">Dark</button>
+      </div>
+      <div class="regions" id="regions" aria-label="Jump to region">
+        <button type="button" data-r="europe">Europe</button>
+        <button type="button" data-r="uae">UAE</button>
       </div>
       <div class="basemaps" id="basemaps" aria-label="Basemap">
         <button type="button" data-b="voyager" class="on" title="CARTO Voyager">Voyager</button>
@@ -182,6 +201,25 @@
     <div class="swfoot">← / → keys or swipe · Esc to close · follows the active filters</div>
   </section>
   <section id="detail" aria-hidden="true"><div class="dscroll" id="dbody"></div></section>
+    <div id="playbar" class="playbar" hidden role="region" aria-label="Timeline presentation">
+      <div class="play-progress" aria-hidden="true"><i id="playfill"></i></div>
+      <div class="play-controls">
+        <button type="button" id="playprev" class="play-btn" aria-label="Previous event">‹</button>
+        <button type="button" id="playtoggle" class="play-btn play-toggle" aria-label="Pause presentation" aria-pressed="false">❚❚</button>
+        <button type="button" id="playnext" class="play-btn" aria-label="Next event">›</button>
+      </div>
+      <div class="play-meta">
+        <span id="playpos">–</span>
+        <b id="playtitle"></b>
+      </div>
+      <div class="play-speeds" role="group" aria-label="Playback speed">
+        <button type="button" data-sp="0.5">0.5×</button>
+        <button type="button" data-sp="1" class="on">1×</button>
+        <button type="button" data-sp="1.5">1.5×</button>
+        <button type="button" data-sp="2">2×</button>
+      </div>
+      <button type="button" id="playstop" class="play-stop">Stop</button>
+    </div>
   <section id="privacy" class="sheet" aria-hidden="true" role="dialog" aria-label="Privacy notice">
     <div class="sheetbody">
       <button class="close" type="button" id="privclose" aria-label="Close">✕</button>
