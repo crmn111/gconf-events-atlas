@@ -22,7 +22,7 @@ function fmtDay(s){
 }
 function fmtRange(a,b){
   const A = parseDay(a), B = parseDay(b);
-  if(!A && !B) return 'Dates to be announced';
+  if(!A && !B) return 'Dates TBA';
   if(A && B && A.getTime()===B.getTime()) return fmtDay(a);
   if(A && B && A.getMonth()===B.getMonth() && A.getFullYear()===B.getFullYear()){
     return A.getDate() + '–' + fmtDay(b);
@@ -30,6 +30,13 @@ function fmtRange(a,b){
   if(A && B) return fmtDay(a) + ' – ' + fmtDay(b);
   return fmtDay(a||b);
 }
+function datesTba(e){
+  const status = String(e && e.status || '').trim().toLowerCase();
+  if(status === 'dates tba' || status === 'dates tbc') return true;
+  return !parseDay(e && e.start_date) && !parseDay(e && e.end_date);
+}
+function hasDates(e){ return !datesTba(e); }
+function fmtEventDates(e){ return datesTba(e) ? 'Dates TBA' : fmtRange(e.start_date, e.end_date); }
 function fmtPrice(e){
   if(e.ticket_price_text) return e.ticket_price_text;
   return 'Price not published';
@@ -156,9 +163,15 @@ function setBasemap(id, opts){
   }
   if(id!=='voyager' && id!=='positron' && id!=='darkmatter' && id!=='satellite') id='voyager';
   if(curBase){ try{ map.removeLayer(curBase); }catch(_){ } curBase=null; }
-  if(!baseCache[id]) baseCache[id] = makeCartoLayer(id);
-  curBase = baseCache[id].addTo(map);
-  hookCartoFallback(curBase, id);
+  try{
+    if(!baseCache[id]) baseCache[id] = makeCartoLayer(id);
+    curBase = baseCache[id].addTo(map);
+    hookCartoFallback(curBase, id);
+  }catch(err){
+    try{ console.warn('Basemap failed to load', id, err); }catch(_){}
+    curBase = null;
+    delete baseCache[id];
+  }
   baseId = id;
   const wrap = $('#mapwrap');
   if(wrap) wrap.dataset.base = id;
@@ -239,7 +252,7 @@ map.addLayer(clusters);
 const markers = {};
 function popEvent(e){
   const ph = e.photos && e.photos[0];
-  return `<div class="pop go" role="link" tabindex="0" onclick="if(!event.target.closest('a'))location.hash='#/event/${esc(e.slug)}'">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div><div class="pbtn"><a class="btn primary vd" href="#/event/${esc(e.slug)}">View details →</a></div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+  return `<div class="pop go" role="link" tabindex="0" onclick="if(!event.target.closest('a'))location.hash='#/event/${esc(e.slug)}'">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div><div class="pbtn"><a class="btn primary vd" href="#/event/${esc(e.slug)}">View details →</a></div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function evIcon(e){
   const label = pillText(e);
@@ -515,9 +528,10 @@ $('#sort').onchange = e => { st.sort=e.target.value; render(); };
 
 function overlapsDate(e){
   if(!st.from && !st.to) return true;
+  if(datesTba(e)) return false;
   const a = parseDay(e.start_date) || parseDay(e.end_date);
   const b = parseDay(e.end_date) || parseDay(e.start_date);
-  if(!a && !b) return true;
+  if(!a && !b) return false;
   const from = st.from ? parseDay(st.from) : null;
   const to = st.to ? parseDay(st.to) : null;
   if(from && b && b < from) return false;
@@ -566,7 +580,7 @@ function sortEvents(a){
     if(s==='city') return (x.city||'').localeCompare(y.city||'') || (x.name||'').localeCompare(y.name||'');
     if(s==='price') return minP(x)-minP(y);
     if(s==='price-desc') return maxP(y)-maxP(x);
-    if(s==='date-desc') return (y.start_date||'').localeCompare(x.start_date||'') || (x.name||'').localeCompare(y.name||'');
+    if(s==='date-desc') return (y.start_date||'0000').localeCompare(x.start_date||'0000') || (x.name||'').localeCompare(y.name||'');
     return (x.start_date||'9999').localeCompare(y.start_date||'9999') || (x.name||'').localeCompare(y.name||'');
   });
   return copy;
@@ -588,7 +602,8 @@ function cardThumbHtml(e){
   return `<div class="th ${cat}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`;
 }
 function cardHtml(e){
-  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span><h3>${esc(e.name)}</h3><div class="where">${esc(fmtRange(e.start_date,e.end_date))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+  const tba = datesTba(e);
+  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${tba?`<span class="tag tba">Dates TBA</span>`:''}<h3>${esc(e.name)}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
 }
 
 let listThumbObs = null;
@@ -724,7 +739,7 @@ function viewEvent(e){
   const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
   const gal = galHtml(ph, credit);
   const hero = `<div class="dhero ${esc(e.category||'')}">
-    <div class="crumbs">${esc(catLabel(e))} · ${esc(fmtRange(e.start_date,e.end_date))}</div>
+    <div class="crumbs">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}${datesTba(e)?` <span class="tag tba">Dates TBA</span>`:''}</div>
     <h2>${esc(e.name)}</h2>
     <div class="loc">${esc(locBits)}${isApprox(e)?' · ◌ approximate pin':(!hasPin(e)?' · pin not yet placed':'')}</div>
     <div class="bigprice">${esc(fmtPrice(e))}${e.currency && hasPrice(e)?`<small>${esc(e.currency)}${e.ticket_url?' · tickets on the organiser site':''}</small>`: (hasPrice(e)?'': '<small>No verified ticket price yet</small>')}</div>
@@ -734,7 +749,7 @@ function viewEvent(e){
   const about = e.notes ? `<div class="dsec"><h4>Notes</h4><p>${esc(e.notes)}</p></div>` : '';
   const attend = e.expected_attendance ? fact('Attendance', e.expected_attendance) : '';
   const facts = `<div class="dsec"><h4>Facts</h4><dl class="facts">
-    ${fact('Dates', fmtRange(e.start_date,e.end_date))}
+    ${fact('Dates', fmtEventDates(e))}
     ${fact('City', [e.city,e.country].filter(Boolean).join(', '))}
     ${fact('Venue', e.venue)}
     ${fact('Organiser', e.organizer)}
@@ -827,7 +842,7 @@ function monthKey(e){
   return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
 }
 function monthParts(key){
-  if(key==='tbc') return {name:'Dates to be announced', year:'', short:'TBC', kicker:'Schedule'};
+  if(key==='tbc') return {name:'Dates TBA', year:'', short:'TBA', kicker:'Schedule'};
   const [y,m] = key.split('-').map(Number);
   const d = new Date(y, m-1, 1);
   return {
@@ -864,8 +879,9 @@ function todayMarkerHtml(){
   </li>`;
 }
 function eventCardHtml(e, side, imgPri){
+  const tba = datesTba(e);
   const d = parseDay(e.start_date);
-  const day = d ? String(d.getDate()) : '—';
+  const day = d ? String(d.getDate()) : (tba ? 'TBA' : '—');
   const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
   const mon = d ? d.toLocaleDateString('en-GB', {month:'short'}) : '';
   const ph = e.photos && e.photos[0];
@@ -876,8 +892,11 @@ function eventCardHtml(e, side, imgPri){
   const img = ph
     ? `<img src="${esc(ph.thumb||ph.src)}" alt="" loading="${imgPri?'eager':'lazy'}" decoding="async">`
     : tlIcon(cat);
-  const dateBlock = `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
+  const dateBlock = tba
+    ? `<div class="tl-dateblock tba"><b>TBA</b><span>Dates</span></div>`
+    : `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
   const chips = [
+    tba ? `<span class="tl-chip tba">Dates TBA</span>` : '',
     `<span class="tl-chip price ${hasPrice(e)?'':'unk'}">${esc(pillText(e))}</span>`,
     attend ? `<span class="tl-chip attend">${esc(attend)}</span>` : ''
   ].filter(Boolean).join('');
@@ -886,7 +905,7 @@ function eventCardHtml(e, side, imgPri){
     <article class="tl-card" data-slug="${esc(e.slug)}" tabindex="0" role="link" aria-label="${esc(e.name)}">
       <div class="tl-hero ${ph?'hasphoto':'ph'} ${esc(cat)}">${img}${ph?'<div class="tl-hero-shade"></div>':''}${dateBlock}<span class="tl-cat ${esc(cat)}">${esc(catLabel(e))}</span></div>
       <div class="tl-body">
-        <div class="tl-range">${esc(fmtRange(e.start_date,e.end_date))}</div>
+        <div class="tl-range">${esc(fmtEventDates(e))}</div>
         <h3>${esc(e.name)}</h3>
         <div class="tl-where">${flag?`<span class="flag" aria-hidden="true">${flag}</span>`:''}<span>${esc(loc||where(e))}</span></div>
         <div class="tl-chips">${chips}</div>
@@ -920,12 +939,16 @@ function renderTimeline(){
     const n = m.items.length;
     const parts = monthParts(m.key);
     let items = '';
+    if(!todayPlaced && m.key==='tbc'){
+      items += todayMarkerHtml();
+      todayPlaced = true;
+    }
     if(!todayPlaced && m.key!=='tbc' && m.key > todayMonth){
       items += todayMarkerHtml();
       todayPlaced = true;
     }
     m.items.forEach(e => {
-      if(!todayPlaced && (eventCoversToday(e) || startsOnOrAfterToday(e))){
+      if(!todayPlaced && m.key!=='tbc' && (eventCoversToday(e) || startsOnOrAfterToday(e))){
         items += todayMarkerHtml();
         todayPlaced = true;
       }
@@ -991,6 +1014,10 @@ function renderTimeline(){
         playPause();
         const idx = PLAY.list.findIndex(x => x.slug===c.dataset.slug);
         if(idx>=0) playShow(idx, {replace:true});
+        else {
+          const ev = EV.find(x => x.slug===c.dataset.slug);
+          if(ev) playOpenPanel(ev);
+        }
         return;
       }
       location.hash = '#/timeline/event/'+c.dataset.slug;
@@ -1022,7 +1049,7 @@ function playReduced(){
   return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
 }
 function playEvents(){
-  return visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+  return visibleEvents().filter(hasDates).slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
 }
 function playMapVisible(){
   return !!(PLAY.on && $('#map'));
@@ -1062,6 +1089,7 @@ function tourClearGraphics(){
   if(TOUR.growing){ try{ map.removeLayer(TOUR.growing); }catch(_){} TOUR.growing=null; }
   if(TOUR.ripple){ try{ map.removeLayer(TOUR.ripple); }catch(_){} TOUR.ripple=null; }
   if(TOUR.pin){ try{ map.removeLayer(TOUR.pin); }catch(_){} TOUR.pin=null; }
+  if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
   TOUR.path = null;
   TOUR.prev = null;
 }
@@ -1083,12 +1111,13 @@ function tourPrep(){
 function tourPadding(){
   const desk = innerWidth>860;
   const det = $('#detail');
-  const strip = desk ? (parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--tourstrip')) || 300) : 0;
+  const stripEl = $('#timeline');
+  const strip = desk && stripEl && getComputedStyle(stripEl).display!=='none' ? stripEl.getBoundingClientRect().width : 0;
   return {
     left: desk ? ((det && det.classList.contains('open') ? det.offsetWidth : 0) || 0) : 0,
     right: desk ? strip + 16 : 12,
     top: 70,
-    bottom: desk ? 100 : ((det && det.classList.contains('open') ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86)
+    bottom: desk ? 108 : ((det && det.classList.contains('open') ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86)
   };
 }
 function tourFocus(ll, z){
@@ -1128,7 +1157,7 @@ function tourCaption(e){
   const k = $('#tourkicker'), c = $('#tourcity'), d = $('#tourdate'), n = $('#tourname');
   if(k) k.textContent = kicker + (e.lat==null ? ' · Pin not published' : '');
   if(c) c.textContent = (flag ? flag+' ' : '') + loc;
-  if(d) d.textContent = fmtRange(e.start_date, e.end_date) || '';
+  if(d) d.textContent = e ? fmtEventDates(e) : '';
   if(n) n.textContent = e.name || '';
   cap.hidden = false;
   cap.setAttribute('aria-hidden','false');
@@ -1192,28 +1221,108 @@ function tourDrawPast(pts, reduce){
     try{ map.removeLayer(old); }catch(_){}
   }
 }
-function tourGrowArc(pts, duration){
+function tourEase(t){
+  return t<0.5 ? 4*t*t*t : 1-Math.pow(-2*t+2,3)/2;
+}
+function tourSameHop(a, b){
+  if(!a || !b) return true;
+  try{ return map.distance(a, b) < 45000; }catch(_){ return false; }
+}
+function tourPointOnPath(pts, t){
+  if(!pts || !pts.length) return null;
+  if(t<=0) return { ll:pts[0], i:0 };
+  if(t>=1) return { ll:pts[pts.length-1], i:pts.length-1 };
+  const dists=[0];
+  let total=0;
+  for(let i=1;i<pts.length;i++){
+    total += map.distance(pts[i-1], pts[i]);
+    dists.push(total);
+  }
+  if(total<=0) return { ll:pts[0], i:0 };
+  const target=t*total;
+  for(let i=1;i<pts.length;i++){
+    if(dists[i]>=target){
+      const span=dists[i]-dists[i-1]||1;
+      const f=(target-dists[i-1])/span;
+      const a=pts[i-1], b=pts[i];
+      return { ll:L.latLng(a.lat+(b.lat-a.lat)*f, a.lng+(b.lng-a.lng)*f), i, a, b };
+    }
+  }
+  return { ll:pts[pts.length-1], i:pts.length-1 };
+}
+const TOUR_PLANE_SVG = '<svg viewBox="0 0 64 64" aria-hidden="true"><path fill="#CFF55A" stroke="#12181F" stroke-width="2.2" stroke-linejoin="round" d="M32 4c1.6 0 2.7 1.2 3.1 3.6L39 28l18 7.2v4.2L39 36.2 36.6 52l8 5.2V61L32 57.2 19.4 61v-3.8l8-5.2L25 36.2 7 39.4v-4.2L25 28l3.9-20.4C29.3 5.2 30.4 4 32 4z"/></svg>';
+
+function tourFramePath(pts, duration){
+  const bounds = L.latLngBounds(pts);
+  const pad = tourPadding();
+  map.fitBounds(bounds.pad(0.2), {
+    paddingTopLeft:[pad.left+20, pad.top+16],
+    paddingBottomRight:[pad.right+20, pad.bottom+24],
+    maxZoom:8,
+    animate:true,
+    duration:(duration||600)/1000,
+    easeLinearity:0.35
+  });
+}
+function tourFlyPlane(pts, duration, done){
+  if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
   if(TOUR.growing){ try{ map.removeLayer(TOUR.growing); }catch(_){} TOUR.growing=null; }
-  if(!pts || pts.length<2) return;
-  const line = L.polyline([pts[0], pts[0]], tourArcStyle({animate:true})).addTo(map);
+  if(!pts || pts.length<2){ if(done) done(); return; }
+  const line = L.polyline([pts[0]], tourArcStyle({animate:true})).addTo(map);
   TOUR.growing = line;
+  const plane = L.marker(pts[0], {
+    pane:'tour',
+    interactive:false,
+    keyboard:false,
+    zIndexOffset:3000,
+    icon: L.divIcon({
+      className:'tour-plane-wrap',
+      html:'<div class="tour-plane">'+TOUR_PLANE_SVG+'</div>',
+      iconSize:[52,52],
+      iconAnchor:[26,26]
+    })
+  }).addTo(map);
+  TOUR.plane = plane;
   const t0 = performance.now();
+  let lastAng = null;
   const step = (now) => {
-    const t = Math.min(1, (now-t0)/Math.max(160, duration));
+    const raw = Math.min(1, (now-t0)/Math.max(240, duration));
+    const t = tourEase(raw);
+    const pos = tourPointOnPath(pts, t);
+    const ahead = tourPointOnPath(pts, Math.min(1, t+0.03));
+    plane.setLatLng(pos.ll);
+    const p1 = map.latLngToLayerPoint(pos.ll);
+    const p2 = map.latLngToLayerPoint(ahead.ll);
+    let ang = Math.atan2(p2.y-p1.y, p2.x-p1.x)*180/Math.PI + 90;
+    if(lastAng!=null){
+      while(ang-lastAng>180) ang-=360;
+      while(ang-lastAng<-180) ang+=360;
+      ang = lastAng + (ang-lastAng)*0.4;
+    }
+    lastAng = ang;
+    const el = plane.getElement && plane.getElement();
+    const inner = el && el.querySelector('.tour-plane');
+    if(inner) inner.style.transform = 'rotate('+ang+'deg)';
     const n = Math.max(2, Math.floor(t*(pts.length-1))+1);
     line.setLatLngs(pts.slice(0, n));
-    if(t<1 && PLAY.on){ TOUR.raf = requestAnimationFrame(step); }
+    if(raw<1 && PLAY.on){ TOUR.raf = requestAnimationFrame(step); }
     else {
       TOUR.raf = 0;
       line.setLatLngs(pts);
       TOUR.arcs.push(line);
       TOUR.growing = null;
+      if(inner) inner.classList.add('landed');
+      tourLater(() => {
+        if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
+        if(done) done();
+      }, 160);
     }
   };
   TOUR.raf = requestAnimationFrame(step);
 }
 function tourTo(e){
   tourClearTimers();
+  if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
   tourCaption(e);
   const reduce = playReduced();
   const has = e && e.lat!=null && e.lng!=null;
@@ -1227,43 +1336,44 @@ function tourTo(e){
   const z = tourZoom(e);
   const dest = tourFocus(ll, z);
   let path = null;
+  let dist = 0;
   if(prev && (prev.lat!==ll.lat || prev.lng!==ll.lng)){
-    const dist = map.distance(prev, ll);
-    const steps = Math.max(16, Math.min(64, Math.round(dist/40000)));
+    dist = map.distance(prev, ll);
+    const steps = Math.max(20, Math.min(80, Math.round(dist/30000)));
     path = lerpGc(prev, ll, steps);
     tourDrawPast(path, reduce);
-    if(reduce){
-      const line = L.polyline(path, tourArcStyle({animate:false})).addTo(map);
-      TOUR.arcs.push(line);
-    }else{
-      const dur = Math.max(700, Math.min(1800, 600 + dist/900)) / (PLAY.speed||1);
-      tourGrowArc(path, dur);
-    }
   }
   const finish = () => { tourDropPin(e, reduce); TOUR.prev = ll; };
   try{ map.stop(); }catch(_){}
   if(reduce){
+    if(path && path.length>1){
+      const line = L.polyline(path, tourArcStyle({animate:false, opacity:0.55})).addTo(map);
+      TOUR.arcs.push(line);
+    }
     map.setView(dest, z, {animate:false});
     finish();
     return;
   }
-  const durIn = Math.max(800, Math.min(1600, 900 / (PLAY.speed||1)));
-  if(path && path.length>2){
-    const mid = path[Math.floor(path.length/2)];
-    const bounds = L.latLngBounds(path);
-    let zOut = 5;
-    try{ zOut = Math.max(4, Math.min(map.getBoundsZoom(bounds.pad(0.35))||5, 7)); }catch(_){}
-    const midFocus = tourFocus(mid, zOut);
-    const durOut = Math.max(380, Math.min(700, 520 / (PLAY.speed||1)));
-    map.flyTo(midFocus, zOut, {duration: durOut/1000, easeLinearity:0.35});
-    tourLater(() => {
-      map.flyTo(dest, z, {duration: durIn/1000, easeLinearity:0.25});
-      tourLater(finish, durIn);
-    }, durOut);
-  }else{
-    map.flyTo(dest, z, {duration: Math.max(700, durIn*0.9)/1000, easeLinearity:0.25});
-    tourLater(finish, durIn);
+  const zoomDur = Math.max(700, Math.min(1200, 900/(PLAY.speed||1)));
+  const hop = !path || path.length<2 || tourSameHop(prev, ll);
+  if(hop){
+    if(path && path.length>1){
+      const line = L.polyline(path, tourArcStyle({animate:false, opacity:0.5, weight:2})).addTo(map);
+      TOUR.arcs.push(line);
+    }
+    map.flyTo(dest, z, {duration: Math.max(500, zoomDur*0.7)/1000, easeLinearity:0.3});
+    tourLater(finish, Math.max(500, zoomDur*0.7));
+    return;
   }
+  const frameDur = Math.max(420, Math.min(720, 560/(PLAY.speed||1)));
+  const flyDur = Math.max(1200, Math.min(2400, 900+dist/650)) / (PLAY.speed||1);
+  tourFramePath(path, frameDur);
+  tourLater(() => {
+    tourFlyPlane(path, flyDur, () => {
+      map.flyTo(dest, z, {duration: zoomDur/1000, easeLinearity:0.25});
+      tourLater(finish, zoomDur);
+    });
+  }, frameDur);
 }
 
 function atlasCloseDetail(){
@@ -1323,7 +1433,13 @@ function playMarkCard(){
   if(item) item.classList.add('tl-now');
   PLAY.prog = true;
   const reduce = playReduced();
-  try{ card.scrollIntoView({behavior: reduce?'auto':'smooth', block:'center', inline:'nearest'}); }catch(_){}
+  const scroller = $('#timeline');
+  if(scroller && item){
+    const s = scroller.getBoundingClientRect();
+    const r = item.getBoundingClientRect();
+    const top = scroller.scrollTop + (r.top + r.height/2) - (s.top + s.height/2);
+    try{ scroller.scrollTo({top, behavior: reduce?'auto':'smooth'}); }catch(_){ scroller.scrollTop = top; }
+  }
   clearTimeout(PLAY.progT);
   PLAY.progT = setTimeout(() => { PLAY.prog = false; }, reduce ? 80 : 750);
 }
@@ -1623,7 +1739,7 @@ function swCard(e,k){
     </div>
     <div class="swb">
       <h3>${esc(e.name)}</h3>
-      <div class="swa">${esc(fmtRange(e.start_date,e.end_date))} · ${esc(where(e))}</div>
+      <div class="swa">${esc(fmtEventDates(e))} · ${esc(where(e))}</div>
       <div class="swp">${esc(fmtPrice(e))}</div>
       <dl>
         <div><dt>Organiser</dt><dd>${esc(e.organizer||'—')}</dd></div>

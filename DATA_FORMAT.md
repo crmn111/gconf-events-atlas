@@ -20,8 +20,12 @@ Each file is either an array of events or an object:
 { "updated": "2026-11-23", "events": [ /* ... */ ] }
 ```
 
-Only records with `"status": "upcoming"` are published. Anything else
-(past, cancelled, draft, missing status) is skipped.
+Records with `"status": "upcoming"` or `"status": "dates TBA"` are
+published. Anything else (past, cancelled, draft, missing status) is
+skipped. Festivals marked dates TBA (no start/end date) appear on the
+map and in the list with a Dates TBA badge, and in a Dates TBA group at
+the end of the timeline. They are left out of play mode so sorting and
+playback stay intact.
 
 ### Event fields
 
@@ -32,7 +36,7 @@ Sheet columns (passed through if present):
 | `event_id` | Stable id from the conference sheet (e.g. `EVT-0008`) |
 | `name` | Event name |
 | `website_url` | Official site |
-| `start_date`, `end_date` | ISO `YYYY-MM-DD` |
+| `start_date`, `end_date` | ISO `YYYY-MM-DD`. Blank when `status` is `dates TBA`. |
 | `city`, `country`, `venue` | Location |
 | `region` | `europe` \| `uae`. Legacy values such as `"Europe"` or `"United Arab Emirates"` are normalised. |
 | `kind` | `conference` \| `festival`. Omitted rows pick up the default for their source file. |
@@ -54,9 +58,9 @@ Atlas fields added by the research worker:
 | `currency` | ISO code, e.g. `EUR` |
 | `ticket_price_text` | Display string; built from min/max if omitted |
 | `ticket_url`, `price_source_url` | Where the price was published |
-| `photos` | Array of `{ src, thumb, orig, page, credit? }`. Paths are self-hosted, usually under `img/events/` |
+| `photos` | Array of `{ src, thumb, orig, page, credit? }`. Paths are self-hosted, usually under `img/events/`. Optional `_build/photo_drop.txt` lists srcs omitted at build time (logos, typographic cards, blanks). Source files are not deleted. |
 | `sources` | Array of `{ label, url, field? }`. Every displayed fact should be able to point at a source |
-| `status` | `upcoming` to publish |
+| `status` | `upcoming` or `dates TBA` to publish |
 
 Extra sheet columns are preserved in `data.js`.
 
@@ -69,7 +73,7 @@ window.ATLASDATA = {
   scope: "Conferences and festivals in Europe and the UAE",
   eurRates: { EUR: 1, GBP: 1.16, AED: 0.25 /* ... */ },
   eurRatesNote: "Indicative mid-market rates used only to compare ticket prices on the slider.",
-  events: [ /* upcoming only */ ],
+  events: [ /* upcoming and dates TBA */ ],
   sourceMissing: [ /* names of source files that were absent */ ],
   counts: { conference: 0, festival: 0, europe: 0, uae: 0 }
 };

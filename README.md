@@ -1,6 +1,6 @@
 # GConf Events Atlas
 
-A map of upcoming conferences and festivals in Europe and the UAE,
+A map of conferences and festivals in Europe and the UAE,
 published by [GConf.ai](https://gconf.ai). Modelled on the Marbella
 New-Build Atlas: a static Leaflet site, self-hosted photos, and a
 cited source for every fact.
@@ -21,6 +21,9 @@ Live: https://crmn111.github.io/gconf-events-atlas/
   map to the visible pins.
 - Filters for city, date range, category/topic and ticket price, with
   an “unknown price” toggle so unpriced events can still be shown.
+  Festivals whose dates are still to be announced stay on the map and
+  in the list (Dates TBA badge) and in a Dates TBA group at the end of
+  the timeline; play mode skips them.
 - Detail panel with a self-hosted photo gallery, lightbox, credits and
   sources. Each event has an “Organisers: claim this listing” placeholder
   (nothing is sent).
@@ -36,7 +39,7 @@ staging, `build.py`) and the
 unpublished-until-ready backend in `backend/`.
 
 ```bash
-python3 _build/build.py          # events.json + events_uae.json + festivals.json → data.js (upcoming only)
+python3 _build/build.py          # events.json + events_uae.json + festivals.json → data.js (upcoming + dates TBA)
 ./publish.sh                     # rebuild, copy the slim tree, push Pages
 ```
 

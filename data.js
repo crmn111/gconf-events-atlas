@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-23",
- "generated": "2026-11-23T17:50:44Z",
+ "generated": "2026-11-23T18:23:26Z",
  "scope": "Conferences and festivals in Europe and the UAE",
  "eurRates": {
   "EUR": 1.0,
@@ -52,7 +52,15 @@ window.ATLASDATA={
     "building",
     "urban development"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/big-5-global-2026-1.jpg",
+     "thumb": "img/events/big-5-global-2026-1-t.jpg",
+     "orig": "https://www.big5global.com/wp-content/uploads/2025/11/Untitled-design-2025-11-11T092647.424.png",
+     "page": "https://www.big5global.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -113,7 +121,36 @@ window.ATLASDATA={
    "topics": [
     "Building"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/geoworld-future-fm-2026-1.jpg",
+     "thumb": "img/events/geoworld-future-fm-2026-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/koudqc3b/1.png",
+     "page": "https://www.dwtc.com/en/events/geoworld-future-fm-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/geoworld-future-fm-2026-2.jpg",
+     "thumb": "img/events/geoworld-future-fm-2026-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/u4bddrkp/2.png",
+     "page": "https://www.dwtc.com/en/events/geoworld-future-fm-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/geoworld-future-fm-2026-3.jpg",
+     "thumb": "img/events/geoworld-future-fm-2026-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/kheo0sdr/3.png",
+     "page": "https://www.dwtc.com/en/events/geoworld-future-fm-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/geoworld-future-fm-2026-4.jpg",
+     "thumb": "img/events/geoworld-future-fm-2026-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/sf5htev5/4.png",
+     "page": "https://www.dwtc.com/en/events/geoworld-future-fm-2026/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -564,7 +601,50 @@ window.ATLASDATA={
     "furniture",
     "interiors"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hive-furniture-show-2026-1.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hive-furniture-show-2026-2.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hive-furniture-show-2026-3.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hive-furniture-show-2026-4.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hive-furniture-show-2026-5.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hive-furniture-show-2026-6.jpg",
+     "thumb": "img/events/hive-furniture-show-2026-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -724,7 +804,15 @@ window.ATLASDATA={
     "Web3",
     "digital assets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/blockchain-life-2026-1.jpg",
+     "thumb": "img/events/blockchain-life-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -947,7 +1035,15 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026-1.jpg",
+     "thumb": "img/events/13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1075,7 +1171,50 @@ window.ATLASDATA={
    "topics": [
     "Beauty"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-1.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/5hrbku3g/image-7.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-2.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/e5zckwey/image-1.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-3.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/4grbsdq3/image-2.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-4.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/zhzkl1gc/image-3.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-5.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/uz1gwvg4/image-4.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/jewellery-and-bride-arabia-2026-6.jpg",
+     "thumb": "img/events/jewellery-and-bride-arabia-2026-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ry1l514q/image-5.png",
+     "page": "https://www.dwtc.com/en/events/jewellery-and-bride-arabia-2026/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1133,7 +1272,15 @@ window.ATLASDATA={
     "investment",
     "capital markets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/abu-dhabi-finance-week-2026-1.jpg",
+     "thumb": "img/events/abu-dhabi-finance-week-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1267,7 +1414,50 @@ window.ATLASDATA={
     "startups",
     "telecom"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gitex-global-2026-1.jpg",
+     "thumb": "img/events/gitex-global-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gitex-global-2026-2.jpg",
+     "thumb": "img/events/gitex-global-2026-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gitex-global-2026-3.jpg",
+     "thumb": "img/events/gitex-global-2026-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gitex-global-2026-4.jpg",
+     "thumb": "img/events/gitex-global-2026-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gitex-global-2026-5.jpg",
+     "thumb": "img/events/gitex-global-2026-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gitex-global-2026-6.jpg",
+     "thumb": "img/events/gitex-global-2026-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1402,7 +1592,50 @@ window.ATLASDATA={
    "topics": [
     "Advertising and Media"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-1.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/jbuj3aw0/sgi_additional-image-06.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-2.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/j4pkgoon/sign-and-graphics-imaging-hero.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-3.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/440lb4w3/sgi_additional-image-03.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-4.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/zaxbput1/sgi_additional-image-02.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-5.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/vugfp2or/sgi_additional-image-05.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sign-graphic-imaging-me-exhibition-2026-6.jpg",
+     "thumb": "img/events/sign-graphic-imaging-me-exhibition-2026-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/a13foc2g/sgi_additional-image-04.jpg",
+     "page": "https://www.dwtc.com/en/events/sign-graphic-imaging-me-exhibition-2026/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1461,7 +1694,50 @@ window.ATLASDATA={
     "technology",
     "artificial intelligence"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/expand-north-star-2026-1.jpg",
+     "thumb": "img/events/expand-north-star-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/expand-north-star-2026-2.jpg",
+     "thumb": "img/events/expand-north-star-2026-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/expand-north-star-2026-3.jpg",
+     "thumb": "img/events/expand-north-star-2026-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/expand-north-star-2026-4.jpg",
+     "thumb": "img/events/expand-north-star-2026-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/expand-north-star-2026-5.jpg",
+     "thumb": "img/events/expand-north-star-2026-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/expand-north-star-2026-6.jpg",
+     "thumb": "img/events/expand-north-star-2026-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1520,7 +1796,15 @@ window.ATLASDATA={
     "fintech",
     "banking"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gitex-future-digital-assets-2026-1.jpg",
+     "thumb": "img/events/gitex-future-digital-assets-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1677,7 +1961,50 @@ window.ATLASDATA={
     "coatings",
     "surface technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/surfex-2026-1.jpg",
+     "thumb": "img/events/surfex-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2026-2.jpg",
+     "thumb": "img/events/surfex-2026-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2026-3.jpg",
+     "thumb": "img/events/surfex-2026-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2026-4.jpg",
+     "thumb": "img/events/surfex-2026-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2026-5.jpg",
+     "thumb": "img/events/surfex-2026-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2026-6.jpg",
+     "thumb": "img/events/surfex-2026-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1735,7 +2062,22 @@ window.ATLASDATA={
     "sustainability",
     "policy"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/un-water-conference-2026-1.jpg",
+     "thumb": "img/events/un-water-conference-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/un-water-conference-2026-2.jpg",
+     "thumb": "img/events/un-water-conference-2026-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2022,7 +2364,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/asia-baby-children-maternity-exhibition-2026-1.jpg",
+     "thumb": "img/events/asia-baby-children-maternity-exhibition-2026-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2078,7 +2428,50 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/china-home-life-2026-1-1.jpg",
+     "thumb": "img/events/china-home-life-2026-1-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ltihm503/1-1.jpg",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/china-home-life-2026-1-2.jpg",
+     "thumb": "img/events/china-home-life-2026-1-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/pp4d1oxq/2-1.jpg",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/china-home-life-2026-1-3.jpg",
+     "thumb": "img/events/china-home-life-2026-1-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/i2wa3hfo/3.png",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/china-home-life-2026-1-4.jpg",
+     "thumb": "img/events/china-home-life-2026-1-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/243boej5/4.png",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/china-home-life-2026-1-5.jpg",
+     "thumb": "img/events/china-home-life-2026-1-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/mxtpp5wa/5.png",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/china-home-life-2026-1-6.jpg",
+     "thumb": "img/events/china-home-life-2026-1-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/g53dazcg/6.png",
+     "page": "https://www.dwtc.com/en/events/china-home-life-2026-1/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2134,7 +2527,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/international-appliance-and-electronics-show-2026-1-1.jpg",
+     "thumb": "img/events/international-appliance-and-electronics-show-2026-1-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2250,7 +2651,29 @@ window.ATLASDATA={
     "gifts",
     "consumer exhibition"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ataya-exhibition-2027-1.jpg",
+     "thumb": "img/events/ataya-exhibition-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ataya-exhibition-2027-2.jpg",
+     "thumb": "img/events/ataya-exhibition-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ataya-exhibition-2027-3.jpg",
+     "thumb": "img/events/ataya-exhibition-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2308,7 +2731,15 @@ window.ATLASDATA={
     "clean energy",
     "climate"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/abu-dhabi-sustainability-week-2027-1.jpg",
+     "thumb": "img/events/abu-dhabi-sustainability-week-2027-1-t.jpg",
+     "orig": "https://www.abudhabisustainabilityweek.com/-/media/adsw-revamp-new/events/adsw-2027/adsw-oc.jpg",
+     "page": "https://www.abudhabisustainabilityweek.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2366,7 +2797,50 @@ window.ATLASDATA={
     "metalworking",
     "fabrication"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/steelfab-2027-1.jpg",
+     "thumb": "img/events/steelfab-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/steelfab-2027-2.jpg",
+     "thumb": "img/events/steelfab-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/steelfab-2027-3.jpg",
+     "thumb": "img/events/steelfab-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/steelfab-2027-4.jpg",
+     "thumb": "img/events/steelfab-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/steelfab-2027-5.jpg",
+     "thumb": "img/events/steelfab-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/steelfab-2027-6.jpg",
+     "thumb": "img/events/steelfab-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2422,7 +2896,50 @@ window.ATLASDATA={
    "topics": [
     "Paper"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-1.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/xtylkhq2/print-pack-1.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-2.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/umdjzqdj/print-pack-2.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-3.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/gzkcgqwk/print-pack-3.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-4.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/5yibwmg4/print-pack-4.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-5.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ncgngajl/prini-pack-5.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulf-pack-gulf-print-2027-6.jpg",
+     "thumb": "img/events/gulf-pack-gulf-print-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/axdek530/print-pack-5.jpg",
+     "page": "https://www.dwtc.com/en/events/gulf-pack-gulf-print-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2540,7 +3057,22 @@ window.ATLASDATA={
     "fire",
     "homeland security"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/intersec-global-2027-1.jpg",
+     "thumb": "img/events/intersec-global-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/szlj1ryf/intersec-hero-image-1.jpg",
+     "page": "https://www.dwtc.com/en/events/intersec-global-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/intersec-global-2027-2.jpg",
+     "thumb": "img/events/intersec-global-2027-2-t.jpg",
+     "orig": "https://intersec.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/intersec/2026/ISGL27-security-integration-2.jpg",
+     "page": "https://intersec.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2601,7 +3133,50 @@ window.ATLASDATA={
    "topics": [
     "technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-1.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/3xbncfec/image-3.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-2.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/zwvhtym3/image-2.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-3.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/dv3jaykv/1st-image.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-4.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/oxog1pdb/image-5.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-5.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/rxzfeznt/image-4.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/light-intelligent-building-middle-east-2027-6.jpg",
+     "thumb": "img/events/light-intelligent-building-middle-east-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/lkho2arr/bluewaters-light-middle-east.jpg",
+     "page": "https://www.dwtc.com/en/events/light-intelligent-building-middle-east-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2766,16 +3341,59 @@ window.ATLASDATA={
    "source_url": "https://www.gruenewoche.de/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.5012426,
+   "lng": 13.2742108,
+   "precise": true,
    "category": "food",
    "topics": [
     "food",
     "agriculture",
     "trade fair"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gruene-woche-2027-1.jpg",
+     "thumb": "img/events/gruene-woche-2027-1-t.jpg",
+     "orig": "https://messe-berlinprod-media.e-spirit.cloud/36b01921-e247-4b4d-87d4-f20914a19134/gruene-woche/layout/images/opengraph/gw_falgs.jpg",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gruene-woche-2027-2.jpg",
+     "thumb": "img/events/gruene-woche-2027-2-t.jpg",
+     "orig": "https://www.gruenewoche.de/_next/image?url=%2Fapi%2Fimage-without-cache-control%3Furl%3Dhttps%253A%252F%252Fmesse-berlinprod-media.e-spirit.cloud%252F36b01921-e247-4b4d-87d4-f20914a19134%252Fgruene-woche%252Fbilder%252Fueber-uns%252Fthemenwelten%252Fworld%252Fworld-tour_xxxldesk43.jpg&w=3840&q=75",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gruene-woche-2027-3.jpg",
+     "thumb": "img/events/gruene-woche-2027-3-t.jpg",
+     "orig": "https://www.gruenewoche.de/_next/image?url=%2Fapi%2Fimage-without-cache-control%3Furl%3Dhttps%253A%252F%252Fmesse-berlinprod-media.e-spirit.cloud%252F36b01921-e247-4b4d-87d4-f20914a19134%252Fgruene-woche%252Fbilder%252Fstartseite%252Fausstellerverzeichnis_xxxldesk43.png&w=3840&q=75",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gruene-woche-2027-4.jpg",
+     "thumb": "img/events/gruene-woche-2027-4-t.jpg",
+     "orig": "https://www.gruenewoche.de/_next/image?url=%2Fapi%2Fimage-without-cache-control%3Furl%3Dhttps%253A%252F%252Fmesse-berlinprod-media.e-spirit.cloud%252F36b01921-e247-4b4d-87d4-f20914a19134%252Fgruene-woche%252Fbilder%252Fstartseite%252Fprogramm_xxxldesk43.png&w=3840&q=75",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gruene-woche-2027-5.jpg",
+     "thumb": "img/events/gruene-woche-2027-5-t.jpg",
+     "orig": "https://www.gruenewoche.de/_next/image?url=%2Fapi%2Fimage-without-cache-control%3Furl%3Dhttps%253A%252F%252Fmesse-berlinprod-media.e-spirit.cloud%252F36b01921-e247-4b4d-87d4-f20914a19134%252Fgruene-woche%252Fbilder%252Fbesuchen%252Fdein-besuch%252Ftouren%252Ftouren_xxxldesk43.png&w=3840&q=75",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gruene-woche-2027-6.jpg",
+     "thumb": "img/events/gruene-woche-2027-6-t.jpg",
+     "orig": "https://www.gruenewoche.de/_next/image?url=%2Fapi%2Fimage-without-cache-control%3Furl%3Dhttps%253A%252F%252Fmesse-berlinprod-media.e-spirit.cloud%252F36b01921-e247-4b4d-87d4-f20914a19134%252Fgruene-woche%252Fbilder%252Fbesuchen%252Fyoung-generation%252Fhub%252Fdachdecker-in2_xxxldesk43.jpg&w=3840&q=75",
+     "page": "https://www.gruenewoche.de/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2791,7 +3409,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messe Berlin Verwaltungsgebäude, 22, Messedamm, Westend, Charlottenburg-Wilmersdorf, Berlin, 14055, Deutschland (query: Messe Berlin, Messedamm 22, Berlin, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -2895,7 +3513,50 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-1.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/vk3ig0ww/aeedc-21-exhibition-1.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-2.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/nk4c5jmq/aeedc-21-exhibition-2.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-3.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/obcpvzwi/aeedc-21-exhibition-3.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-4.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/dumnzbbp/aeedc2.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-5.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/luqdsw54/aeedc3.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-6.jpg",
+     "thumb": "img/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/kuuffped/aeedc1.jpg",
+     "page": "https://www.dwtc.com/en/events/uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2944,8 +3605,8 @@ window.ATLASDATA={
    "source_url": "https://www.carnevale.venezia.it/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 45.4342571,
+   "lng": 12.3386717,
    "precise": false,
    "category": "culture",
    "topics": [
@@ -2953,7 +3614,50 @@ window.ATLASDATA={
     "masks",
     "costume"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/venice-carnival-2027-1.jpg",
+     "thumb": "img/events/venice-carnival-2027-1-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2025/03/Scoppio-pantegana-1024x576.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-carnival-2027-2.jpg",
+     "thumb": "img/events/venice-carnival-2027-2-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2024/01/13.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-carnival-2027-3.jpg",
+     "thumb": "img/events/venice-carnival-2027-3-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/11/terra-bridgerton-san-marco-low-46-1024x684.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-carnival-2027-4.jpg",
+     "thumb": "img/events/venice-carnival-2027-4-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/02/Carnevale-01-1024x683.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-carnival-2027-5.jpg",
+     "thumb": "img/events/venice-carnival-2027-5-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/02/Dinner-Show-09-1024x683.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-carnival-2027-6.jpg",
+     "thumb": "img/events/venice-carnival-2027-6-t.jpg",
+     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/03/carri-marghera-01-2025-1024x684.jpg",
+     "page": "https://www.carnevale.venezia.it/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -2969,7 +3673,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Piazza San Marco, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia (query: Piazza San Marco, Venice, Italy).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -3084,7 +3788,43 @@ window.ATLASDATA={
     "security",
     "military technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/idex-2027-1.jpg",
+     "thumb": "img/events/idex-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idex-2027-2.jpg",
+     "thumb": "img/events/idex-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idex-2027-3.jpg",
+     "thumb": "img/events/idex-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idex-2027-4.jpg",
+     "thumb": "img/events/idex-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idex-2027-5.jpg",
+     "thumb": "img/events/idex-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3141,7 +3881,22 @@ window.ATLASDATA={
     "naval defence",
     "maritime security"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/navdex-2027-1.jpg",
+     "thumb": "img/events/navdex-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/navdex-2027-2.jpg",
+     "thumb": "img/events/navdex-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3277,7 +4032,50 @@ window.ATLASDATA={
     "healthcare",
     "medical technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-1.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-2.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-3.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-4.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-5.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-dubai-whx-2027-6.jpg",
+     "thumb": "img/events/world-health-expo-dubai-whx-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Venue",
@@ -3338,7 +4136,50 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-1.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/cyjh13vz/5d_r3679-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-2.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/k0qhh2bq/5d_c2668-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-3.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/xuxdyn0r/5d_r2604-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-4.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ay0bzaca/5d_c2598-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-5.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/i0votugw/5d_c2664-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-health-expo-labs-dubai-2027-6.jpg",
+     "thumb": "img/events/world-health-expo-labs-dubai-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/5zvpfyst/5d_r3705-715x350.jpg",
+     "page": "https://www.dwtc.com/en/events/world-health-expo-labs-dubai-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3394,7 +4235,15 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-health-expo-tech-whx-2027-1.jpg",
+     "thumb": "img/events/world-health-expo-tech-whx-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3450,7 +4299,29 @@ window.ATLASDATA={
    "topics": [
     "Food"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-of-coffee-dubai-2027-1.jpg",
+     "thumb": "img/events/world-of-coffee-dubai-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/nbsduodk/_ari8213.jpg",
+     "page": "https://www.dwtc.com/en/events/world-of-coffee-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-of-coffee-dubai-2027-2.jpg",
+     "thumb": "img/events/world-of-coffee-dubai-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/tnyhm4ae/_iva5809.jpg",
+     "page": "https://www.dwtc.com/en/events/world-of-coffee-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-of-coffee-dubai-2027-3.jpg",
+     "thumb": "img/events/world-of-coffee-dubai-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/g5qlumbv/hari6969.jpg",
+     "page": "https://www.dwtc.com/en/events/world-of-coffee-dubai-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3556,15 +4427,58 @@ window.ATLASDATA={
    "source_url": "https://iffr.com/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 51.9244424,
+   "lng": 4.47775,
    "precise": false,
    "category": "film",
    "topics": [
     "film festival",
     "cinema"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/iffr-2027-1.jpg",
+     "thumb": "img/events/iffr-2027-1-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2026/11/Pepijn4-scaled-1296x729.jpeg?image-crop-positioner-ts=1795433854",
+     "page": "https://iffr.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iffr-2027-2.jpg",
+     "thumb": "img/events/iffr-2027-2-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2026/10/2-832x468.jpg?image-crop-positioner-ts=1793281804",
+     "page": "https://iffr.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iffr-2027-3.jpg",
+     "thumb": "img/events/iffr-2027-3-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2026/10/jdg_02-02-26_IFFR2026_HBF_1I6A9579-1-832x468.jpeg?image-crop-positioner-ts=1793353884",
+     "page": "https://iffr.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iffr-2027-4.jpg",
+     "thumb": "img/events/iffr-2027-4-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2026/09/1-832x468.png?image-crop-positioner-ts=1788882149",
+     "page": "https://iffr.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iffr-2027-5.jpg",
+     "thumb": "img/events/iffr-2027-5-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2024/09/32862d81-d0ff-4695-8aba-6c65d0083bb5-832x468.jpg?image-crop-positioner-ts=1725357630",
+     "page": "https://iffr.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iffr-2027-6.jpg",
+     "thumb": "img/events/iffr-2027-6-t.jpg",
+     "orig": "https://iffr.com/nl/wp-content/uploads/2026/10/Exoplanets-832x468.png?image-crop-positioner-ts=1792150439",
+     "page": "https://iffr.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3580,7 +4494,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Rotterdam, Zuid-Holland, Nederland (query: Rotterdam, Netherlands).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -3589,6 +4503,73 @@ window.ATLASDATA={
    "attendance_source_url": null,
    "attendance_note": null,
    "id": "iffr-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-goteborg-film-2027",
+   "slug": "goteborg-film-2027",
+   "name": "Göteborg Film Festival 2027",
+   "website_url": "https://goteborgfilmfestival.se/en/",
+   "start_date": "2027-01-29",
+   "end_date": "2027-02-07",
+   "city": "Gothenburg",
+   "country": "Sweden",
+   "region": "europe",
+   "venue": null,
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "Göteborg Film Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://goteborgfilmfestival.se/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 50th-edition typographic card on the official site announces 29 January–7 February 2027. The typographic image itself was not kept as a festival photo.",
+   "lat": 57.7072326,
+   "lng": 11.9670171,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "film festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/goteborg-film-2027-2.jpg",
+     "thumb": "img/events/goteborg-film-2027-2-t.jpg",
+     "orig": "https://sitemedia.goteborgfilmfestival.se/Drakenthomai-utan-datumjpg-2-1024x683.jpg",
+     "page": "https://goteborgfilmfestival.se/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://goteborgfilmfestival.se/en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Göteborg, Göteborgs Stad, Västra Götalands län, 411 10, Sverige (query: Gothenburg, Sweden).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Dates 29 January–7 February 2027 confirmed from official Göteborg Film Festival site artwork/copy fetched 23 Nov 2026 (50th edition card: “Jan 29–Feb 7 2027”).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "goteborg-film-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -3694,16 +4675,59 @@ window.ATLASDATA={
    "source_url": "https://www.madridfusion.net/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 40.4663707,
+   "lng": -3.617214,
+   "precise": true,
    "category": "food",
    "topics": [
     "gastronomy",
     "chefs",
     "congress"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/madrid-fusion-2027-1.jpg",
+     "thumb": "img/events/madrid-fusion-2027-1-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/apertura2027/slide-1-1280.webp",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/madrid-fusion-2027-2.jpg",
+     "thumb": "img/events/madrid-fusion-2027-2-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/apertura2027/slide-2-1280.webp",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/madrid-fusion-2027-3.jpg",
+     "thumb": "img/events/madrid-fusion-2027-3-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/apertura2027/slide-3-1280.webp",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/madrid-fusion-2027-4.jpg",
+     "thumb": "img/events/madrid-fusion-2027-4-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/cocineroRevelacion2027/2008.jpg",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/madrid-fusion-2027-5.jpg",
+     "thumb": "img/events/madrid-fusion-2027-5-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/cocineroRevelacion2027/2009.jpg",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/madrid-fusion-2027-6.jpg",
+     "thumb": "img/events/madrid-fusion-2027-6-t.jpg",
+     "orig": "https://www.madridfusion.net/Content/2027/img/cocineroRevelacion2027/2010.jpg",
+     "page": "https://www.madridfusion.net/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3719,7 +4743,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Recinto Ferial de IFEMA, Corralejos, Barajas, Madrid, Comunidad de Madrid, España (query: IFEMA, Madrid, Spain).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -3769,7 +4793,15 @@ window.ATLASDATA={
     "public policy",
     "innovation"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-governments-summit-2027-1.jpg",
+     "thumb": "img/events/world-governments-summit-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -3881,7 +4913,43 @@ window.ATLASDATA={
    "topics": [
     "business"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/breakbulk-middle-east-2027-1.jpg",
+     "thumb": "img/events/breakbulk-middle-east-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ylyargdk/breakbulk-middle-east_3.jpg",
+     "page": "https://www.dwtc.com/en/events/breakbulk-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/breakbulk-middle-east-2027-2.jpg",
+     "thumb": "img/events/breakbulk-middle-east-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/5pbnwoy0/breakbulk-middle-east_2.jpg",
+     "page": "https://www.dwtc.com/en/events/breakbulk-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/breakbulk-middle-east-2027-3.jpg",
+     "thumb": "img/events/breakbulk-middle-east-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/10vj1gj2/breakbulk-middle-east-hero-image.jpg",
+     "page": "https://www.dwtc.com/en/events/breakbulk-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/breakbulk-middle-east-2027-4.jpg",
+     "thumb": "img/events/breakbulk-middle-east-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/p2whyyj5/breakbulk-middle-east-1.jpg",
+     "page": "https://www.dwtc.com/en/events/breakbulk-middle-east-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/breakbulk-middle-east-2027-5.jpg",
+     "thumb": "img/events/breakbulk-middle-east-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/sucfu2o4/breakbulk-middle-east_4.jpg",
+     "page": "https://www.dwtc.com/en/events/breakbulk-middle-east-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -4084,7 +5152,50 @@ window.ATLASDATA={
     "artificial intelligence",
     "fintech"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/step-dubai-2027-1.jpg",
+     "thumb": "img/events/step-dubai-2027-1-t.jpg",
+     "orig": "https://stepconference.com/images/dubai/gallery-1.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/step-dubai-2027-2.jpg",
+     "thumb": "img/events/step-dubai-2027-2-t.jpg",
+     "orig": "https://stepconference.com/images/dubai/gallery-2.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/step-dubai-2027-3.jpg",
+     "thumb": "img/events/step-dubai-2027-3-t.jpg",
+     "orig": "https://stepconference.com/images/dubai/gallery-3.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/step-dubai-2027-4.jpg",
+     "thumb": "img/events/step-dubai-2027-4-t.jpg",
+     "orig": "https://stepconference.com/images/WEB5-p-1600.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/step-dubai-2027-5.jpg",
+     "thumb": "img/events/step-dubai-2027-5-t.jpg",
+     "orig": "https://stepconference.com/images/dubai/speakers-bg.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/step-dubai-2027-6.jpg",
+     "thumb": "img/events/step-dubai-2027-6-t.jpg",
+     "orig": "https://stepconference.com/images/speakers/khalfan-belhoul.jpg",
+     "page": "https://stepconference.com/dubai/2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -4198,15 +5309,44 @@ window.ATLASDATA={
    "source_url": "https://www.nicecarnaval.com/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 43.6969486,
+   "lng": 7.2703241,
    "precise": false,
    "category": "culture",
    "topics": [
     "carnival",
     "parade"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/nice-carnival-2027-3.jpg",
+     "thumb": "img/events/nice-carnival-2027-3-t.jpg",
+     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2026/01/01-REINE-CONCEPT-EVENEMENTIEL-500x500.png",
+     "page": "https://www.nicecarnaval.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/nice-carnival-2027-4.jpg",
+     "thumb": "img/events/nice-carnival-2027-4-t.jpg",
+     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2025/01/fragonard-500x500.jpg",
+     "page": "https://www.nicecarnaval.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/nice-carnival-2027-5.jpg",
+     "thumb": "img/events/nice-carnival-2027-5-t.jpg",
+     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2024/01/carnaval-illustration-500x500.jpg",
+     "page": "https://www.nicecarnaval.com/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/nice-carnival-2027-6.jpg",
+     "thumb": "img/events/nice-carnival-2027-6-t.jpg",
+     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2026/01/01-REINE-CONCEPT-EVENEMENTIEL.png",
+     "page": "https://www.nicecarnaval.com/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -4222,7 +5362,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Place Masséna, Quartier Jean-Médecin, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06000, France (query: Place Masséna, Nice, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -4263,15 +5403,58 @@ window.ATLASDATA={
    "source_url": "https://www.berlinale.de/en/home.html",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "77th Berlinale, 10–21 February 2027. Official side dates on the same festival-dates page: European Film Market 10–16 Feb; Berlinale Co-Production Market 13–16 Feb; Berlinale Talents 12–17 Feb; programme press conference 20 January 2027.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.5098014,
+   "lng": 13.3755898,
+   "precise": true,
    "category": "film",
    "topics": [
     "film festival",
     "cinema"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/berlinale-2027-1.jpg",
+     "thumb": "img/events/berlinale-2027-1-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/2027/pressefotos/oedland_RWD_860.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/berlinale-2027-2.jpg",
+     "thumb": "img/events/berlinale-2027-2-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/2027/pressefotos/efm-country-in-focus-2027_RWD_860.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/berlinale-2027-3.jpg",
+     "thumb": "img/events/berlinale-2027-3-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/allgemeines/illustration-allgemein/linkinbio/link-in-bio_accreditation_RWD_1600.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/berlinale-2027-4.jpg",
+     "thumb": "img/events/berlinale-2027-4-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/allgemeines/illustration-allgemein/linkinbio/link-in-bio_accreditation-sq_RWD_545x727.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/berlinale-2027-5.jpg",
+     "thumb": "img/events/berlinale-2027-5-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/2027/teaser/bowie_teaser_RWD_860.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/berlinale-2027-6.jpg",
+     "thumb": "img/events/berlinale-2027-6-t.jpg",
+     "orig": "https://www.berlinale.de/media/bilder/2027/teaser/robocop-teaser_RWD_860.jpg",
+     "page": "https://www.berlinale.de/en/home.html",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -4292,7 +5475,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Potsdamer Platz, Tiergarten, Mitte, Berlin, 10785, Deutschland (query: Potsdamer Platz, Berlin, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -5493,8 +6676,8 @@ window.ATLASDATA={
    "source_url": "https://www.stpatricksfestival.ie/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 53.3517776,
+   "lng": -6.2614672,
    "precise": false,
    "category": "culture",
    "topics": [
@@ -5502,7 +6685,50 @@ window.ATLASDATA={
     "parade",
     "Irish culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/st-patricks-festival-2027-1.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-1-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2026/01/St-Patricks-Fest.webp",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/st-patricks-festival-2027-2.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-2-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2025/12/Explore-Dublin-City-1024x884.webp",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/st-patricks-festival-2027-3.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-3-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2026/02/st-Patricks-Dundrum-012-1024x683.jpg",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/st-patricks-festival-2027-4.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-4-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2026/02/Vogue-Williams-St-Patricks-Grand-Marshal-002-Edited-1024x829.jpg",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/st-patricks-festival-2027-5.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-5-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2026/01/Dublin-City-Council-SPF-Treasure-Hunt-1-1.webp",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/st-patricks-festival-2027-6.jpg",
+     "thumb": "img/events/st-patricks-festival-2027-6-t.jpg",
+     "orig": "https://stpatricksfestival.ie/wp-content/uploads/2026/02/6059-0011-1-1024x683.jpg",
+     "page": "https://www.stpatricksfestival.ie/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -5513,7 +6739,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: O'Connell Street, O'Connell Street Upper, North City Ward 1986, Dublin, County Dublin, Leinster, D01 E796, Éire / Ireland (query: O'Connell Street, Dublin, Ireland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -5643,7 +6869,22 @@ window.ATLASDATA={
     "hospitality",
     "food trade"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gulfood-exhibition-2027-1.jpg",
+     "thumb": "img/events/gulfood-exhibition-2027-1-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Dubai_Wo_4B15F265_5056_B739_54F3125D47F0BC95/sites/gulfood-2027/media/Red-Tinted-Trade-Show-Crowd.png",
+     "page": "https://www.gulfood.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-exhibition-2027-2.jpg",
+     "thumb": "img/events/gulfood-exhibition-2027-2-t.jpg",
+     "orig": "https://cdn.asp.events/CLIENT_Dubai_Wo_4B15F265_5056_B739_54F3125D47F0BC95/sites/gulfood-2027/media/1987-Monochrome-Culinary-Expo.png",
+     "page": "https://www.gulfood.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -5969,16 +7210,59 @@ window.ATLASDATA={
    "source_url": "https://winter.tomorrowland.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official tomorrowland.com: Tomorrowland Winter 2027 in Alpe d'Huez from 20 to 27 March 2027, with a published lineup announcement on the same official site.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 45.092401,
+   "lng": 6.0699443,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "EDM",
     "ski festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/tomorrowland-winter-2027-1.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-1-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/GkfYvqthei1CQ_kr_1784285411289_2bf2ab4e-c423-4f42-9573-3eb426e231bb.jpg_0_554559390070347944.jpg?auto=format,compress&rect=0,205,4096,2150&w=2400&h=1260",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-winter-2027-2.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-2-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/mX8IKhbR3UaQoH71_AviciiTML2011.jpg?auto=format,compress",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-winter-2027-3.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-3-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/uNTdgyVixOCgwR1L_260324-180355-TL26FR-FR.jpg?auto=format%2Ccompress&rect=0%2C1316%2C5047%2C3785&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-winter-2027-4.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-4-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/XJd_3MrQav8_oDeO_TL27FR_KEYVISUAL_MAILING-1-.png?auto=format%2Ccompress&rect=439%2C284%2C717%2C538&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-winter-2027-5.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-5-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/9GzfgC1PQbQwhRjg_LANDSCAPE-3-.png?auto=format,compress&rect=0,28,1920,1024&w=600&h=320",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-winter-2027-6.jpg",
+     "thumb": "img/events/tomorrowland-winter-2027-6-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/acp62JGXnQHGZGNH_1774578703828_999621bb-87f8-492d-b0c2-2a9c8306b95f.jpg_0_11811441623110657785.jpg?auto=format%2Ccompress&rect=227%2C0%2C3643%2C2732&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -5994,7 +7278,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: L'Alpe d'Huez, Huez, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38750, France (query: Alpe d'Huez, France).",
    "lineup_url": "https://www.tomorrowland.com/",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -6098,7 +7382,36 @@ window.ATLASDATA={
    "topics": [
     "Industrial and Manufacturing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/arabplast-2027-1.jpg",
+     "thumb": "img/events/arabplast-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/lt3fitrm/800a7959.jpg",
+     "page": "https://www.dwtc.com/en/events/arabplast-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabplast-2027-2.jpg",
+     "thumb": "img/events/arabplast-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/fpzhfy0u/800a7951.jpg",
+     "page": "https://www.dwtc.com/en/events/arabplast-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabplast-2027-3.jpg",
+     "thumb": "img/events/arabplast-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ybgbwqzt/h5kl0720.jpg",
+     "page": "https://www.dwtc.com/en/events/arabplast-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabplast-2027-4.jpg",
+     "thumb": "img/events/arabplast-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/v0igdcij/800a5965.jpg",
+     "page": "https://www.dwtc.com/en/events/arabplast-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6155,7 +7468,50 @@ window.ATLASDATA={
     "crypto",
     "digital assets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ifx-exhibition-2027-1.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/c2vpvd5j/52665206935_3cc6acf2a7_o.jpg",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ifx-exhibition-2027-2.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/maxodhxj/52664237257_ddd152e07a_o.jpg",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ifx-exhibition-2027-3.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/m4jb0r25/52664200547_1a28cc4821_o.png",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ifx-exhibition-2027-4.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/hemn1lim/52664711166_54cf188360_o.png",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ifx-exhibition-2027-5.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/blgjqpqj/52665135230_2d929facde_o.png",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ifx-exhibition-2027-6.jpg",
+     "thumb": "img/events/ifx-exhibition-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/lcnl3uau/52665207695_50b0b2b9ae_o.jpg",
+     "page": "https://www.dwtc.com/en/events/ifx-exhibition-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6213,7 +7569,50 @@ window.ATLASDATA={
     "children",
     "education"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-1.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-2.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-3.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-4.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-5.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-childrens-reading-festival-2027-6.jpg",
+     "thumb": "img/events/sharjah-childrens-reading-festival-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6519,7 +7918,29 @@ window.ATLASDATA={
    "topics": [
     "Agriculture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dubai-international-horse-championsip-2027-1.jpg",
+     "thumb": "img/events/dubai-international-horse-championsip-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/1zbou053/b41i6891-copia-1.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-horse-championsip-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-horse-championsip-2027-2.jpg",
+     "thumb": "img/events/dubai-international-horse-championsip-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/pyedc4sr/b41i6991-copia-1.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-horse-championsip-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-horse-championsip-2027-3.jpg",
+     "thumb": "img/events/dubai-international-horse-championsip-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/kdxhd5dt/b41i4597-copia-1.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-horse-championsip-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6568,15 +7989,44 @@ window.ATLASDATA={
    "source_url": "https://time-warp.de/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site: Time Warp Germany 2027, 3 April 2027, 17 hours, 5 floors, Maimarkt Mannheim. Lineup announced and tickets on sale (prices not copied from the fetched homepage).",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 49.4683637,
+   "lng": 8.5239462,
+   "precise": true,
    "category": "music",
    "topics": [
     "techno",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/time-warp-2027-3.jpg",
+     "thumb": "img/events/time-warp-2027-3-t.jpg",
+     "orig": "https://time-warp.de/zope50/timewarp_2025/content/e829/sliderElements6354/1000H-2025-11-07TimeWarp-StefvanOosterhout-bestof-highres-98.jpeg",
+     "page": "https://time-warp.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/time-warp-2027-4.jpg",
+     "thumb": "img/events/time-warp-2027-4-t.jpg",
+     "orig": "https://time-warp.de/zope50/timewarp_2025/content/e829/sliderElements6371/1000H-1122-24_Experiential_time_warp_official_teksupport_offbrandproject_bymarginwalk3r-8.jpg",
+     "page": "https://time-warp.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/time-warp-2027-5.jpg",
+     "thumb": "img/events/time-warp-2027-5-t.jpg",
+     "orig": "https://time-warp.de/zope50/timewarp_2025/content/e829/sliderElements6270/1000H-Marko_Edge_Time_Warp7.jpeg",
+     "page": "https://time-warp.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/time-warp-2027-6.jpg",
+     "thumb": "img/events/time-warp-2027-6-t.jpg",
+     "orig": "https://time-warp.de/zope50/timewarp_2025/content/e829/sliderElements6393/1000H-togis-2934.jpg",
+     "page": "https://time-warp.de/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6592,7 +8042,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Maimarkthalle, 113, Xaver-Fuhr-Straße, Neuostheim, Neuostheim/Neuhermsheim, Mannheim, Baden-Württemberg, 68163, Deutschland (query: Maimarkthalle, Mannheim, Germany).",
    "lineup_url": "https://time-warp.de/",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -6731,7 +8181,50 @@ window.ATLASDATA={
    "topics": [
     "Industrial and Manufacturing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-1.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/y04jytyv/additional-images-1.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-2.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/c3hdrtwc/additional-images-2.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-3.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ojbpmc1t/additional-images-3.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-4.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/v1vm3sg4/additional-images-4.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-5.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/xwxfurmo/additional-images-5.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-wood-wood-machinery-show-2027-6.jpg",
+     "thumb": "img/events/dubai-international-wood-wood-machinery-show-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/tv1osdvu/additional-images-6.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-wood-wood-machinery-show-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6844,7 +8337,43 @@ window.ATLASDATA={
     "contemporary art",
     "art market"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/art-dubai-2027-1.jpg",
+     "thumb": "img/events/art-dubai-2027-1-t.jpg",
+     "orig": "https://www.artdubai.ae/wp-content/uploads/2026/09/Tomas-Dauksa-with-a-cat-photo-byGintare-Grigenaite-768x512.jpg",
+     "page": "https://www.artdubai.ae/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/art-dubai-2027-2.jpg",
+     "thumb": "img/events/art-dubai-2027-2-t.jpg",
+     "orig": "https://www.artdubai.ae/wp-content/uploads/2026/08/ADSE_Efie-Gallery_Photo-by-ZIMA-2-768x483.jpg",
+     "page": "https://www.artdubai.ae/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/art-dubai-2027-3.jpg",
+     "thumb": "img/events/art-dubai-2027-3-t.jpg",
+     "orig": "https://www.artdubai.ae/wp-content/uploads/2026/08/Art-Dubai-Special-Edition_Gallery-OPEN-CALL-20271-scaled.jpg",
+     "page": "https://www.artdubai.ae/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/art-dubai-2027-4.jpg",
+     "thumb": "img/events/art-dubai-2027-4-t.jpg",
+     "orig": "https://www.artdubai.ae/wp-content/uploads/2026/06/CR1_1712_Credit-Cedric-Ribero-scaled-970x1383.jpg",
+     "page": "https://www.artdubai.ae/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/art-dubai-2027-5.jpg",
+     "thumb": "img/events/art-dubai-2027-5-t.jpg",
+     "orig": "https://www.artdubai.ae/wp-content/uploads/2026/02/Art-Dubai-2025-Credit-Spark-Media_44-1-scaled-e1769175063353-2048x867-1.jpeg",
+     "page": "https://www.artdubai.ae/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -7366,7 +8895,22 @@ window.ATLASDATA={
     "trade",
     "economic development"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/aim-congress-2027-1.jpg",
+     "thumb": "img/events/aim-congress-2027-1-t.jpg",
+     "orig": "https://assets-us-01.kc-usercontent.com:443/615577b9-4e2b-0074-b4f8-20f11d30f5ae/6485123b-f511-431e-919b-bc74618ab672/aimcongress-2025.webp",
+     "page": "https://www.aimcongress.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aim-congress-2027-2.jpg",
+     "thumb": "img/events/aim-congress-2027-2-t.jpg",
+     "orig": "https://assets-us-01.kc-usercontent.com:443/615577b9-4e2b-0074-b4f8-20f11d30f5ae/4ab6024b-5b03-4f3c-835f-b0713a254894/SHA_4889.webp",
+     "page": "https://www.aimcongress.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -7881,7 +9425,15 @@ window.ATLASDATA={
    "topics": [
     "Agriculture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/petworld-arabia-2027-1.jpg",
+     "thumb": "img/events/petworld-arabia-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -8099,7 +9651,43 @@ window.ATLASDATA={
     "digital assets",
     "blockchain"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/token2049-dubai-2027-1.jpg",
+     "thumb": "img/events/token2049-dubai-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/token2049-dubai-2027-2.jpg",
+     "thumb": "img/events/token2049-dubai-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/token2049-dubai-2027-3.jpg",
+     "thumb": "img/events/token2049-dubai-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/token2049-dubai-2027-4.jpg",
+     "thumb": "img/events/token2049-dubai-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/token2049-dubai-2027-5.jpg",
+     "thumb": "img/events/token2049-dubai-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -8160,7 +9748,15 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/visionplus-expo-2027-1.jpg",
+     "thumb": "img/events/visionplus-expo-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -8752,7 +10348,43 @@ window.ATLASDATA={
     "tourism",
     "hospitality"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/arabian-travel-market-2027-1.jpg",
+     "thumb": "img/events/arabian-travel-market-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/i2jpawro/atm_1.jpg",
+     "page": "https://www.dwtc.com/en/events/arabian-travel-market-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabian-travel-market-2027-2.jpg",
+     "thumb": "img/events/arabian-travel-market-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/mkplply5/atm_2.jpg",
+     "page": "https://www.dwtc.com/en/events/arabian-travel-market-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabian-travel-market-2027-3.jpg",
+     "thumb": "img/events/arabian-travel-market-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/uduj1pt2/atm_3.jpg",
+     "page": "https://www.dwtc.com/en/events/arabian-travel-market-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabian-travel-market-2027-4.jpg",
+     "thumb": "img/events/arabian-travel-market-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/apzlqcjo/atm_4.jpg",
+     "page": "https://www.dwtc.com/en/events/arabian-travel-market-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arabian-travel-market-2027-5.jpg",
+     "thumb": "img/events/arabian-travel-market-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/wyth4d0j/atm_5.jpg",
+     "page": "https://www.dwtc.com/en/events/arabian-travel-market-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -8973,7 +10605,43 @@ window.ATLASDATA={
    "topics": [
     "Healthcare"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-1.jpg",
+     "thumb": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/bhkfvbdh/dihad-5.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-2.jpg",
+     "thumb": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/3iadqgax/dihad-2.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-3.jpg",
+     "thumb": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/1scmo2ey/dihad-1.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-4.jpg",
+     "thumb": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/3y1pcbn4/dihad-3.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-5.jpg",
+     "thumb": "img/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/r2ebojdt/dihad-4.jpg",
+     "page": "https://www.dwtc.com/en/events/dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -9031,7 +10699,15 @@ window.ATLASDATA={
     "information security",
     "technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gisec-global-2027-1.jpg",
+     "thumb": "img/events/gisec-global-2027-1-t.jpg",
+     "orig": "https://gisec.ae/contents/theme-3/images/gallery/galleryimg243.jpg",
+     "page": "https://gisec.ae/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -9477,15 +11153,23 @@ window.ATLASDATA={
    "source_url": "https://www.festival-cannes.com/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "80th edition. Official pages: Tuesday 11 to Saturday 22 May 2027.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 43.5506848,
+   "lng": 7.017658,
+   "precise": true,
    "category": "film",
    "topics": [
     "film festival",
     "cinema"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/cannes-2027-1.jpg",
+     "thumb": "img/events/cannes-2027-1-t.jpg",
+     "orig": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMjZcLzExXC9ubF9hYmlkamFuLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAxLCJoZWlnaHQiOjY1MywiZml0IjoiY292ZXIifX19",
+     "page": "https://www.festival-cannes.com/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -9506,7 +11190,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Palais des Festivals et des Congrès, 1, Boulevard de la Croisette, La Lepre, Cannes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06400, France (query: Palais des Festivals, 1 Boulevard de la Croisette, Cannes, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -9556,7 +11240,50 @@ window.ATLASDATA={
     "power",
     "utilities"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/middle-east-energy-2027-1.jpg",
+     "thumb": "img/events/middle-east-energy-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-energy-2027-2.jpg",
+     "thumb": "img/events/middle-east-energy-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-energy-2027-3.jpg",
+     "thumb": "img/events/middle-east-energy-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-energy-2027-4.jpg",
+     "thumb": "img/events/middle-east-energy-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-energy-2027-5.jpg",
+     "thumb": "img/events/middle-east-energy-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-energy-2027-6.jpg",
+     "thumb": "img/events/middle-east-energy-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -10932,7 +12659,50 @@ window.ATLASDATA={
     "careers",
     "employment"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/national-service-career-fair-2027-1.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/national-service-career-fair-2027-2.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/national-service-career-fair-2027-3.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/national-service-career-fair-2027-4.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/national-service-career-fair-2027-5.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/national-service-career-fair-2027-6.jpg",
+     "thumb": "img/events/national-service-career-fair-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -11055,7 +12825,36 @@ window.ATLASDATA={
     "water",
     "energy"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-utilities-congress-2027-1.jpg",
+     "thumb": "img/events/world-utilities-congress-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-utilities-congress-2027-2.jpg",
+     "thumb": "img/events/world-utilities-congress-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-utilities-congress-2027-3.jpg",
+     "thumb": "img/events/world-utilities-congress-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-utilities-congress-2027-4.jpg",
+     "thumb": "img/events/world-utilities-congress-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -12086,9 +13885,9 @@ window.ATLASDATA={
    "source_url": "https://www.rock-am-ring.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.3309196,
+   "lng": 6.9406742,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
@@ -12110,7 +13909,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Nürburgring, Otto-Flimm-Straße, Nürburg, Adenau, Landkreis Ahrweiler, Rheinland-Pfalz, 53520, Deutschland (query: Nürburgring, Nürburg, Germany).",
    "lineup_url": "https://www.rock-am-ring.com/",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -12151,9 +13950,9 @@ window.ATLASDATA={
    "source_url": "https://www.rock-im-park.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 49.4250988,
+   "lng": 11.1300166,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
@@ -12170,7 +13969,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kleingartenverein Zeppelinfeld, Dutzendteich, Südöstliche Außenstadt, Nürnberg, Schwanstetten, Bayern, Deutschland (query: Zeppelinfeld, Nuremberg, Germany).",
    "lineup_url": "https://www.rock-im-park.com/",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -12437,7 +14236,50 @@ window.ATLASDATA={
     "education",
     "training"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/metas-2027-1.jpg",
+     "thumb": "img/events/metas-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/metas-2027-2.jpg",
+     "thumb": "img/events/metas-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/metas-2027-3.jpg",
+     "thumb": "img/events/metas-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/metas-2027-4.jpg",
+     "thumb": "img/events/metas-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/metas-2027-5.jpg",
+     "thumb": "img/events/metas-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/metas-2027-6.jpg",
+     "thumb": "img/events/metas-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -12863,9 +14705,9 @@ window.ATLASDATA={
    "source_url": "https://downloadfestival.co.uk/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.8283519,
+   "lng": -1.379287,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
@@ -12882,7 +14724,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Donington Park, Walton Hill, Isley cum Langley, Isley Walton, Derby, Leicestershire, England, DE74 2RP, United Kingdom (query: Donington Park, Castle Donington, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -12923,15 +14765,58 @@ window.ATLASDATA={
    "source_url": "https://www.swedenrock.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 56.122104,
+   "lng": 14.6687451,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "metal"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sweden-rock-2027-1.jpg",
+     "thumb": "img/events/sweden-rock-2027-1-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/Motley-Crue.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sweden-rock-2027-2.jpg",
+     "thumb": "img/events/sweden-rock-2027-2-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/queens-of-stone-age-1.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sweden-rock-2027-3.jpg",
+     "thumb": "img/events/sweden-rock-2027-3-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/parkway-drive.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sweden-rock-2027-4.jpg",
+     "thumb": "img/events/sweden-rock-2027-4-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/alice-cooper.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sweden-rock-2027-5.jpg",
+     "thumb": "img/events/sweden-rock-2027-5-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/europe-leading-pressphoto-credit-andy-ford.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sweden-rock-2027-6.jpg",
+     "thumb": "img/events/sweden-rock-2027-6-t.jpg",
+     "orig": "https://swedenrock-prod.storage.googleapis.com/wp-content/uploads/2026/10/amon-amarth.jpg",
+     "page": "https://www.swedenrock.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -12942,7 +14827,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Norje, Sölvesborgs kommun, Blekinge län, 294 76, Sverige (query: Norje, Sweden).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -13213,7 +15098,43 @@ window.ATLASDATA={
    "topics": [
     "Art"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/world-art-dubai-2027-1.jpg",
+     "thumb": "img/events/world-art-dubai-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/ckvpcjb3/arts-04-1440x500px.jpg",
+     "page": "https://www.dwtc.com/en/events/world-art-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-art-dubai-2027-2.jpg",
+     "thumb": "img/events/world-art-dubai-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/j2powpsm/worldartdubai_4.jpg",
+     "page": "https://www.dwtc.com/en/events/world-art-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-art-dubai-2027-3.jpg",
+     "thumb": "img/events/world-art-dubai-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/etymramp/worldartdubai_3.jpg",
+     "page": "https://www.dwtc.com/en/events/world-art-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-art-dubai-2027-4.jpg",
+     "thumb": "img/events/world-art-dubai-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/fnaeawoo/worldartdubai_2.jpg",
+     "page": "https://www.dwtc.com/en/events/world-art-dubai-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/world-art-dubai-2027-5.jpg",
+     "thumb": "img/events/world-art-dubai-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/2dgljlqe/worldartdubai_1.jpg",
+     "page": "https://www.dwtc.com/en/events/world-art-dubai-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13262,15 +15183,58 @@ window.ATLASDATA={
    "source_url": "https://www.arena.it/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 45.439021,
+   "lng": 10.9949316,
+   "precise": true,
    "category": "arts",
    "topics": [
     "opera",
     "classical music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/arena-verona-2027-1.jpg",
+     "thumb": "img/events/arena-verona-2027-1-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184500/av_aida_1913_628x628.png",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arena-verona-2027-2.jpg",
+     "thumb": "img/events/arena-verona-2027-2-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184468/file_00000000c58881f4b40e83c3b3c8bde1.png",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arena-verona-2027-3.jpg",
+     "thumb": "img/events/arena-verona-2027-3-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184532/av_la_traviata_628x628.png",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arena-verona-2027-4.jpg",
+     "thumb": "img/events/arena-verona-2027-4-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184564/av_carmen_628x628.png",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arena-verona-2027-5.jpg",
+     "thumb": "img/events/arena-verona-2027-5-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184820/628x628-10_bolle-1.jpg",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/arena-verona-2027-6.jpg",
+     "thumb": "img/events/arena-verona-2027-6-t.jpg",
+     "orig": "https://www.arena.it/site/assets/files/184596/av_nabucco_628x628.png",
+     "page": "https://www.arena.it/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13286,7 +15250,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Arena di Verona, Via Anfiteatro, Città antica, Centro storico, Verona, Veneto, 37121, Italia (query: Arena di Verona, Verona, Italy).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -13327,15 +15291,51 @@ window.ATLASDATA={
    "source_url": "https://www.documenta.de/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official documenta homepage: 'DOCUMENTA SIXTEEN OPENS IN 12 June 2027' and 'DOCUMENTA SIXTEEN 12.06.–19.09.2027, KASSEL, DE'.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.3134566,
+   "lng": 9.4963748,
+   "precise": true,
    "category": "arts",
    "topics": [
     "contemporary art",
     "exhibition"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/documenta-16-2.jpg",
+     "thumb": "img/events/documenta-16-2-t.jpg",
+     "orig": "https://documenta.de/media/pages/news/d16-gibt-erweitertes-kuratorisches-team-bekannt/87986698a8-1793182297/d16_cd_2026_09_18_photo_nicolas_wefers_007_mid-3840x.webp",
+     "page": "https://www.documenta.de/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/documenta-16-3.jpg",
+     "thumb": "img/events/documenta-16-3-t.jpg",
+     "orig": "https://documenta.de/media/pages/news/documenta-16-nimmt-gestalt-an/76bb389a9b-1789404841/d16_plakat_2026_09_14_photo_nicolas_wefers_011_mid-3840x.webp",
+     "page": "https://www.documenta.de/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/documenta-16-4.jpg",
+     "thumb": "img/events/documenta-16-4-t.jpg",
+     "orig": "https://documenta.de/media/pages/news/rune-mields-1935-2026/d71074fb9c-1783065998/kuenstlernekropole_mields_photo_dieter_schwerdtle_9130_4370330-3840x.webp",
+     "page": "https://www.documenta.de/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/documenta-16-5.jpg",
+     "thumb": "img/events/documenta-16-5-t.jpg",
+     "orig": "https://documenta.de/media/pages/events/f-wie-feierabend-rundgang-mit-prof-dr-ruediger-splitter/479b974a3c-1795429968/fridericianum_charles_ray_opening_2026_photo_nicolas_wefers_093_hi-3840x.webp",
+     "page": "https://www.documenta.de/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/documenta-16-6.jpg",
+     "thumb": "img/events/documenta-16-6-t.jpg",
+     "orig": "https://documenta.de/media/pages/events/studiowerkstatt-9/ba99db3dc7-1743587660/fridericianum_lee_kit_opening_photo_nicolas_wefers_029-3840x.webp",
+     "page": "https://www.documenta.de/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13351,7 +15351,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Friedrichsplatz, Mitte, Kassel, Hessen, Deutschland (query: Friedrichsplatz, Kassel, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -13392,15 +15392,58 @@ window.ATLASDATA={
    "source_url": "https://www.annecyfestival.com/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official pages also mention a 15–18 June window; 13–19 June is the broader official date range found on the fetched site and is used here. Re-check if a trade/public split is later published.",
-   "lat": null,
-   "lng": null,
+   "lat": 45.8992348,
+   "lng": 6.1288847,
    "precise": false,
    "category": "film",
    "topics": [
     "animation",
     "film festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/annecy-2027-1.jpg",
+     "thumb": "img/events/annecy-2027-1-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/pleine_air.jpg?h=e1354ddf&itok=A5f-Lwyi",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/annecy-2027-2.jpg",
+     "thumb": "img/events/annecy-2027-2-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/pop---Home.jpg?h=e1354ddf&itok=oJaViZUf",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/annecy-2027-3.jpg",
+     "thumb": "img/events/annecy-2027-3-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/2026_festi_seance_wtf_04_%C2%A9ANNECY-FESTIVAL_T-Jaffre.jpg?h=e1354ddf&itok=PZmYVUtj",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/annecy-2027-4.jpg",
+     "thumb": "img/events/annecy-2027-4-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/2026_cite_concert_arrietty_%C2%A9ANNECY-FESTIVAL_B_2048px_0.jpg?h=e1354ddf&itok=6p6QllUK",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/annecy-2027-5.jpg",
+     "thumb": "img/events/annecy-2027-5-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/public_in_waves.jpg?h=e1354ddf&itok=0HowWgwM",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/annecy-2027-6.jpg",
+     "thumb": "img/events/annecy-2027-6-t.jpg",
+     "orig": "https://www.annecyfestival.com/sites/default/files/styles/entete_large/public/2026-06/2026_festi_bonlieu_quay_brothers_20_%C2%A9ANNECY-FESTIVAL_E-Perdu_2048px.jpg?h=e1354ddf&itok=k1gp5wF0",
+     "page": "https://www.annecyfestival.com/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13416,7 +15459,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France (query: Annecy, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -13579,7 +15622,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/international-appliance-and-electronic-show-2027-1.jpg",
+     "thumb": "img/events/international-appliance-and-electronic-show-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13871,9 +15922,9 @@ window.ATLASDATA={
    "source_url": "https://www.artbasel.com/basel",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.5643136,
+   "lng": 7.5997196,
+   "precise": true,
    "category": "arts",
    "topics": [
     "art fair",
@@ -13890,7 +15941,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Messe Basel, Isteinerstrasse, Messe, Rosental, Kleinbasel, Basel, Basel-Stadt, 4058, Schweiz / Suisse / Svizzera / Svizra (query: Messe Basel, Basel, Switzerland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -13931,15 +15982,23 @@ window.ATLASDATA={
    "source_url": "https://hellfest.fr/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site/ticket shop: 17–20 June 2027. Ticket shop pages described the edition as sold out when fetched; no current public price was stored.",
-   "lat": null,
-   "lng": null,
+   "lat": 47.0877218,
+   "lng": -1.2817422,
    "precise": false,
    "category": "music",
    "topics": [
     "metal",
     "hard rock"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hellfest-2027-2.jpg",
+     "thumb": "img/events/hellfest-2027-2-t.jpg",
+     "orig": "https://hellfest-bucket.fra1.digitaloceanspaces.com/small_PARVIS_JEUDI_HELLFEST_MATTHIS_VANDERMEULEN_0f411bf0b3.jpg",
+     "page": "https://hellfest.fr/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -13960,7 +16019,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Clisson, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44190, France (query: Clisson, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14001,9 +16060,9 @@ window.ATLASDATA={
    "source_url": "https://isleofwightfestival.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.7081313,
+   "lng": -1.2863455,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
@@ -14020,7 +16079,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Seaclose Park, Seaclose, Newport, Isle of Wight, England, United Kingdom (query: Seaclose Park, Newport, Isle of Wight, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14061,16 +16120,31 @@ window.ATLASDATA={
    "source_url": "https://sonar.es/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site: Sónar 17.18.19 June 2027, Barcelona. SonarPass covers Sónar by Day on 17–19 June 2027 and Sónar by Night on 18–19 June 2027.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 41.3519228,
+   "lng": 2.130679,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "experimental",
     "digital culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sonar-barcelona-2027-1.jpg",
+     "thumb": "img/events/sonar-barcelona-2027-1-t.jpg",
+     "orig": "https://sonar.es/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpro-cms-bucket%2FHero_BF_6b10672258%2FHero_BF_6b10672258.png&w=3840&q=75",
+     "page": "https://sonar.es/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sonar-barcelona-2027-2.jpg",
+     "thumb": "img/events/sonar-barcelona-2027-2-t.jpg",
+     "orig": "https://sonar.es/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpro-cms-bucket%2Fcaja_2412715c85%2Fcaja_2412715c85.gif&w=3840&q=75",
+     "page": "https://sonar.es/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14081,7 +16155,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Fira, Carrer de la Botànica, Granvia Sud, Districte III, l'Hospitalet de Llobregat, Barcelonès, Barcelona, Catalunya, 08908, España (query: Fira de Barcelona, Barcelona, Spain).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14122,16 +16196,59 @@ window.ATLASDATA={
    "source_url": "https://www.hurricane.de/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.1592117,
+   "lng": 9.5223734,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "indie",
     "pop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hurricane-2027-1.jpg",
+     "thumb": "img/events/hurricane-2027-1-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/3/6/csm_HU_26_Atmo_Anna_Vis-1415_1e426094e4.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hurricane-2027-2.jpg",
+     "thumb": "img/events/hurricane-2027-2-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/4/3/csm_HU_26_Alexisonfire_Christian_Hedel-6082_77098d052e.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hurricane-2027-3.jpg",
+     "thumb": "img/events/hurricane-2027-3-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/f/a/csm_HU_26_Yungblud_Christoph_Eisenmenger_-10_d6256f2012.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hurricane-2027-4.jpg",
+     "thumb": "img/events/hurricane-2027-4-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/d/9/csm_HU_26_Florence___The_Machine_Christoph_Eisenmenger_-5_4b2a19e893.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hurricane-2027-5.jpg",
+     "thumb": "img/events/hurricane-2027-5-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/a/1/csm_HU_26_Atmo_Line_Tsoj_LT_00360_bf906b44be.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/hurricane-2027-6.jpg",
+     "thumb": "img/events/hurricane-2027-6-t.jpg",
+     "orig": "https://www.hurricane.de/fileadmin/_processed_/e/3/csm_HU_26_Anreise_Line_Tsoj_LT_09302_ee12323412.jpg",
+     "page": "https://www.hurricane.de/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14142,7 +16259,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Eichenring Scheeßel, Westerveseder Landstraße, Westervesede, Scheeßel, Landkreis Rotenburg (Wümme), Niedersachsen, 27383, Deutschland (query: Eichenring, Scheeßel, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14183,15 +16300,51 @@ window.ATLASDATA={
    "source_url": "https://www.pinkpop.nl/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official homepage: 18 • 19 • 20 juni 2027, Megaland Landgraaf.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.8798654,
+   "lng": 6.0226844,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "pop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/pinkpop-2027-2.jpg",
+     "thumb": "img/events/pinkpop-2027-2-t.jpg",
+     "orig": "https://www.pinkpop.nl/wp-content/uploads/2026/10/Pinkpopfestival_202606191403_BartHeemskerk__K9I2666-046_Socials-900x1350.jpg",
+     "page": "https://www.pinkpop.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pinkpop-2027-3.jpg",
+     "thumb": "img/events/pinkpop-2027-3-t.jpg",
+     "orig": "https://www.pinkpop.nl/wp-content/uploads/2026/09/1Header-Overons-900x600.jpg",
+     "page": "https://www.pinkpop.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pinkpop-2027-4.jpg",
+     "thumb": "img/events/pinkpop-2027-4-t.jpg",
+     "orig": "https://www.pinkpop.nl/wp-content/uploads/2026/10/Pinkpopfestival_202606212221_FooFighters_BartHeemskerk__K9I6664-023_Socials-900x600.jpg",
+     "page": "https://www.pinkpop.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pinkpop-2027-5.jpg",
+     "thumb": "img/events/pinkpop-2027-5-t.jpg",
+     "orig": "https://www.pinkpop.nl/wp-content/uploads/2026/10/Pinkpopfestival_202606211729_BartHeemskerk__K9I4102-020_Socials-1-900x600.jpg",
+     "page": "https://www.pinkpop.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pinkpop-2027-6.jpg",
+     "thumb": "img/events/pinkpop-2027-6-t.jpg",
+     "orig": "https://www.pinkpop.nl/wp-content/uploads/2026/10/Pinkpopfestival_202606212012_EmmaPot_A7R04810_Socials-900x600.jpg",
+     "page": "https://www.pinkpop.nl/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14202,7 +16355,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Megaland, Landgraaf, Limburg, Nederland (query: Megaland, Landgraaf, Netherlands).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14243,16 +16396,59 @@ window.ATLASDATA={
    "source_url": "https://www.southside.de/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.9809626,
+   "lng": 8.9095314,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "indie",
     "pop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/southside-2027-1.jpg",
+     "thumb": "img/events/southside-2027-1-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/8/0/csm_So_26_0_Atmo_Philipp_Kratzer_20107_0a50982ab1.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/southside-2027-2.jpg",
+     "thumb": "img/events/southside-2027-2-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/9/f/csm_So_26_1_People_Philipp_Kratzer_10283_6c2105f147.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/southside-2027-3.jpg",
+     "thumb": "img/events/southside-2027-3-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/d/2/csm_So_26_1_Unpeople_Philipp_Kratzer_20015_b3a9d0df5d.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/southside-2027-4.jpg",
+     "thumb": "img/events/southside-2027-4-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/a/4/csm_So_26_1_People_Philipp_Kratzer_20949_1e89751417.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/southside-2027-5.jpg",
+     "thumb": "img/events/southside-2027-5-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/e/b/csm_So_26_1_People_Philipp_Kratzer_10369_3be08c3f64.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/southside-2027-6.jpg",
+     "thumb": "img/events/southside-2027-6-t.jpg",
+     "orig": "https://www.southside.de/fileadmin/_processed_/7/d/csm_So_26_8_Yungblud_Philipp_Kratzer_21234_48c164b69a.jpg",
+     "page": "https://www.southside.de/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14263,7 +16459,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Take-Off Gewerbepark, Neuhausen, Neuhausen ob Eck, VVG der Stadt Tuttlingen, Landkreis Tuttlingen, Baden-Württemberg, 78579, Deutschland (query: Take-Off Gewerbepark, Neuhausen ob Eck, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14501,16 +16697,31 @@ window.ATLASDATA={
    "source_url": "https://www.glastonburyfestivals.co.uk/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.1583651,
+   "lng": -2.582562,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "performing arts",
     "camping"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/glastonbury-2027-1.jpg",
+     "thumb": "img/events/glastonbury-2027-1-t.jpg",
+     "orig": "https://www.glastonburyfestivals.co.uk/wp-content/uploads/2026/09/27-Glastofest24-AndrewAllcock-240626-8906-Andrew-Allcock-1-1024x317.jpg",
+     "page": "https://www.glastonburyfestivals.co.uk/news/glastonbury-2027-ticket-information-confirmed/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glastonbury-2027-2.jpg",
+     "thumb": "img/events/glastonbury-2027-2-t.jpg",
+     "orig": "https://www.glastonburyfestivals.co.uk/wp-content/uploads/2026/10/traders_thumb-660x660.jpg",
+     "page": "https://www.glastonburyfestivals.co.uk/news/glastonbury-2027-ticket-information-confirmed/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14526,7 +16737,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Worthy Farm, East Town, Pilton, Somerset, England, United Kingdom (query: Worthy Farm, Pilton, Somerset, United Kingdom).",
    "lineup_url": "https://www.glastonburyfestivals.co.uk/",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14567,9 +16778,9 @@ window.ATLASDATA={
    "source_url": "https://donauinselfest.at/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official FAQ: the festival takes place 25–27 June 2027 on the Donauinsel in Vienna; admission is free every day.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.2266108,
+   "lng": 16.4122376,
+   "precise": true,
    "category": "music",
    "topics": [
     "open-air",
@@ -14593,7 +16804,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Donauinsel, Donaustadt, Wien, Bezirk Tulln, Niederösterreich, Österreich (query: Donauinsel, Vienna, Austria).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14634,16 +16845,59 @@ window.ATLASDATA={
    "source_url": "https://www.roskilde-festival.dk/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official homepage heading: 26/6–3/7 2027.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 55.6302813,
+   "lng": 12.0835129,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "camping",
     "non-profit"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/roskilde-2027-1.jpg",
+     "thumb": "img/events/roskilde-2027-1-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Fqjnhjrdu%2F20250703_stormzy_orange_photosmaltheivarsson_0964-1600px.jpg%3Frxy%3D0.4974937343358396%2C0.7385052503401259&w=1200&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/roskilde-2027-2.jpg",
+     "thumb": "img/events/roskilde-2027-2-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Fevon4yxs%2Fdji_20260701210431_0026_d-2-3x4.jpg%3Frxy%3D0.5%2C0.5&w=3840&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/roskilde-2027-3.jpg",
+     "thumb": "img/events/roskilde-2027-3-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Fi5ucydby%2Fbillie-live.jpg%3Frxy%3D0.46%2C0.44000562667041776&w=3840&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/roskilde-2027-4.jpg",
+     "thumb": "img/events/roskilde-2027-4-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Ffo4l1go1%2Fdji_20260701210431_0026_d.jpg%3Frxy%3D0.5%2C0.5&w=3840&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/roskilde-2027-5.jpg",
+     "thumb": "img/events/roskilde-2027-5-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Fx52b2zfr%2F20260627_orangefoto_orange_nicolai_hegelund-11012-1600px.jpg%3Frxy%3D0.5%2C0.5&w=3840&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/roskilde-2027-6.jpg",
+     "thumb": "img/events/roskilde-2027-6-t.jpg",
+     "orig": "https://www.roskilde-festival.dk/_next/image?url=https%3A%2F%2Fcms.roskilde-festival.dk%2Fmedia%2Fwdwmrckb%2F2026_06_29_frivilige_emillyders_0861.jpg%3Frxy%3D0.48246490692566774%2C0.25479757351193805&w=3840&q=75",
+     "page": "https://www.roskilde-festival.dk/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14669,7 +16923,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Roskilde Festival Administration, Havsteensvej, Musicon, Roskilde, Roskilde Kommune, Region Sjælland, 4000, Danmark (query: Roskilde Festival, Roskilde, Denmark).",
    "lineup_url": "https://www.roskilde-festival.dk/en",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14767,15 +17021,44 @@ window.ATLASDATA={
    "source_url": "https://festival-aix.com/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 43.5316109,
+   "lng": 5.4481883,
+   "precise": true,
    "category": "arts",
    "topics": [
     "opera",
     "classical music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/aix-en-provence-2027-2.jpg",
+     "thumb": "img/events/aix-en-provence-2027-2-t.jpg",
+     "orig": "https://festival-aix.com/_next/image?url=https%3A%2F%2Fmedias.festival-aix.com%2Fsites%2Fdefault%2Ffiles%2F2026-11%2FPublic_Festival%2520d%2527Aix-en-Provence%25202026%2520%25C2%25A9%2520Vincent%2520Beaume_4_0.jpg&w=3840&q=75",
+     "page": "https://festival-aix.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aix-en-provence-2027-3.jpg",
+     "thumb": "img/events/aix-en-provence-2027-3-t.jpg",
+     "orig": "https://festival-aix.com/_next/image?url=https%3A%2F%2Fmedias.festival-aix.com%2Fsites%2Fdefault%2Ffiles%2F2026-10%2FOdysse%25CC%2581es.13juin26.ptt_.42.jpg&w=3840&q=75",
+     "page": "https://festival-aix.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aix-en-provence-2027-4.jpg",
+     "thumb": "img/events/aix-en-provence-2027-4-t.jpg",
+     "orig": "https://festival-aix.com/_next/image?url=https%3A%2F%2Fmedias.festival-aix.com%2Fsites%2Fdefault%2Ffiles%2F2026-11%2FArcheve%25CC%2582che%25CC%2581FluteEnchante%25CC%2581e.2juillet26.ptt_.14.jpg&w=3840&q=75",
+     "page": "https://festival-aix.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/aix-en-provence-2027-6.jpg",
+     "thumb": "img/events/aix-en-provence-2027-6-t.jpg",
+     "orig": "https://festival-aix.com/_next/image?url=https%3A%2F%2Fmedias.festival-aix.com%2Fsites%2Fdefault%2Ffiles%2F2026-10%2FOJM.20juillet26.ptt_.35.jpg&w=3840&q=75",
+     "page": "https://festival-aix.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14791,7 +17074,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Théâtre de l'Archevêché, Impasse des Eyguesiers, Saint-Eutrope, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13626, France (query: Théâtre de l'Archevêché, Aix-en-Provence, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14832,16 +17115,24 @@ window.ATLASDATA={
    "source_url": "https://www.openairsg.ch/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.4847348,
+   "lng": 9.3307415,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "pop",
     "indie"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/openair-st-gallen-2027-2.jpg",
+     "thumb": "img/events/openair-st-gallen-2027-2-t.jpg",
+     "orig": "https://www.openairsg.ch/wp-content/uploads/2026/11/oasg27-home-hero-poster.jpg",
+     "page": "https://www.openairsg.ch/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14852,7 +17143,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Sittertobelstrasse, Eggen, Häggenschwil, Wahlkreis St. Gallen, St. Gallen, 9312, Schweiz / Suisse / Svizzera / Svizra (query: Sittertobel, St. Gallen, Switzerland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14893,16 +17184,59 @@ window.ATLASDATA={
    "source_url": "https://www.rockwerchter.be/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official title: 'Rock Werchter 2027 – from Thursday 1 to Sunday 4 July' and '1-2-3-4 July 2027, Festivalpark Werchter, Belgium'.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 50.9683083,
+   "lng": 4.6842701,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "pop",
     "indie"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/rock-werchter-2027-1.jpg",
+     "thumb": "img/events/rock-werchter-2027-1-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/ogimage/upload/media/default/8108/81/03ebc97a6c555b2ec3aa6b7be390294b67951db7.jpg",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rock-werchter-2027-2.jpg",
+     "thumb": "img/events/rock-werchter-2027-2-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/resolve/default_slide/upload/media/default/c8a6/aa/05b7b3b2c9d99706647fd8cebd0034174614c0e9.jpg",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rock-werchter-2027-3.jpg",
+     "thumb": "img/events/rock-werchter-2027-3-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/resolve/default_slide/upload/media/default/ae78/fa/67e174c60f0bb3c24437b7c6df9578d9786ac967.jpg",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rock-werchter-2027-4.jpg",
+     "thumb": "img/events/rock-werchter-2027-4-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/resolve/default_slide/upload/media/default/94c5/30/54918b6f418ec4d2eb490657aac851b62e0c3813.png",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rock-werchter-2027-5.jpg",
+     "thumb": "img/events/rock-werchter-2027-5-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/resolve/default_slide/upload/media/default/d19b/7f/c1c8fda24f9db5b2089bfd9f48c6107e7a6a2e2a.jpg",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/rock-werchter-2027-6.jpg",
+     "thumb": "img/events/rock-werchter-2027-6-t.jpg",
+     "orig": "https://www.rockwerchter.be/media/cache/resolve/default_slide/upload/media/default/588f/91/54936814e7f71fb07042b3708dd23780669ab0c4.png",
+     "page": "https://www.rockwerchter.be/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14918,7 +17252,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Festivalpark Werchter, Kraneveldhoevepad, Werchter, Rotselaar, Leuven, Vlaams-Brabant, Vlaanderen, 3118, België / Belgique / Belgien (query: Festivalpark Werchter, Werchter, Belgium).",
    "lineup_url": "https://www.rockwerchter.be/en",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -14959,15 +17293,58 @@ window.ATLASDATA={
    "source_url": "https://www.kappafuturfestival.it/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 45.0897221,
+   "lng": 7.6666862,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "techno"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/kappa-futur-2027-1.jpg",
+     "thumb": "img/events/kappa-futur-2027-1-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/2+(1).jpg",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kappa-futur-2027-2.jpg",
+     "thumb": "img/events/kappa-futur-2027-2-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/3+(1).jpg",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kappa-futur-2027-3.jpg",
+     "thumb": "img/events/kappa-futur-2027-3-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/city.webp",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kappa-futur-2027-4.jpg",
+     "thumb": "img/events/kappa-futur-2027-4-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/8+(1).jpg",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kappa-futur-2027-5.jpg",
+     "thumb": "img/events/kappa-futur-2027-5-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/9+(1).png",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kappa-futur-2027-6.jpg",
+     "thumb": "img/events/kappa-futur-2027-6-t.jpg",
+     "orig": "https://howler-marketing.s3.eu-west-1.amazonaws.com/leroux/grapes-kappa-assets/home-page/hero.webp",
+     "page": "https://www.kappafuturfestival.it/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -14978,7 +17355,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Parco Dora (area Michelin), Circoscrizione 4, Torino, Piemonte, Italia (query: Parco Dora, Turin, Italy).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15019,15 +17396,58 @@ window.ATLASDATA={
    "source_url": "https://www.montreuxjazzfestival.com/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 46.4310831,
+   "lng": 6.9129921,
    "precise": false,
    "category": "music",
    "topics": [
     "jazz",
     "multi-genre"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/montreux-jazz-2027-1.jpg",
+     "thumb": "img/events/montreux-jazz-2027-1-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2023/01/ambiance_horiz_voile.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/montreux-jazz-2027-2.jpg",
+     "thumb": "img/events/montreux-jazz-2027-2-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2026/10/NYE26-RS-Web-cover-1440-x-1440.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/montreux-jazz-2027-3.jpg",
+     "thumb": "img/events/montreux-jazz-2027-3-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2026/09/MJF26-Live-Cover-03-RAYE-1.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/montreux-jazz-2027-4.jpg",
+     "thumb": "img/events/montreux-jazz-2027-4-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2026/09/MJF26-Live-Cover-11-Ezra.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/montreux-jazz-2027-5.jpg",
+     "thumb": "img/events/montreux-jazz-2027-5-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2026/09/MJF26-Live-Cover-06-Sienna.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/montreux-jazz-2027-6.jpg",
+     "thumb": "img/events/montreux-jazz-2027-6-t.jpg",
+     "orig": "https://www.montreuxjazzfestival.com/wp-content/uploads/2026/09/MJF26-Live-Cover-10-Giveon.jpg",
+     "page": "https://www.montreuxjazzfestival.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15043,7 +17463,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Montreux, District de la Riviera-Pays-d'Enhaut, Vaud, Schweiz / Suisse / Svizzera / Svizra (query: Montreux, Switzerland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15084,15 +17504,58 @@ window.ATLASDATA={
    "source_url": "https://www.hannover.de/schuetzenfest",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.3628375,
+   "lng": 9.7288799,
+   "precise": true,
    "category": "culture",
    "topics": [
     "folk festival",
     "marksmen's festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-1.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-1-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/full/1/0/8/4/29444801-44-ger-DE/8a52fbb1d36f-hero_2025_07_09_SPATA_OLE55823.jpg.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    },
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-2.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-2-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/image_full/8/2/7/1/30631728-34-ger-DE/b1da3bb4e707-2026_07_08_SPATA_OLE63457.JPG.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    },
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-3.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-3-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/image_full/6/2/6/0/30610626-21-ger-DE/ff09f0aaff86-OLE61413.jpg.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    },
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-4.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-4-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/image_full/3/7/1/8/30608173-7-ger-DE/d0f2b4bc4e4f-VH6_0062.JPG.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    },
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-5.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-5-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/hde_gallery_desktop/8/2/7/1/30631728-34-ger-DE/b1da3bb4e707-2026_07_08_SPATA_OLE63457.JPG.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    },
+    {
+     "src": "img/events/schuetzenfest-hannover-2027-6.jpg",
+     "thumb": "img/events/schuetzenfest-hannover-2027-6-t.jpg",
+     "orig": "https://www.hannover.de/var/storage/images/_aliases/hde_gallery_desktop/6/9/5/1/30631596-33-ger-DE/0b116347198c-2026_07_05_SPATA_OLE62181.JPG.webp",
+     "page": "https://www.hannover.de/schuetzenfest",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15108,7 +17571,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Schützenplatz, Robert-Enke-Straße, Calenberger Neustadt, Mitte, Hannover, Region Hannover, Niedersachsen, 30169, Deutschland (query: Schützenplatz, Hannover, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15149,8 +17612,8 @@ window.ATLASDATA={
    "source_url": "https://www.lesardentes.be/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Only 3–4 July 2027 was clearly published on the fetched official pages. The festival has previously run longer; extra days are left blank until officially listed.",
-   "lat": null,
-   "lng": null,
+   "lat": 50.6450944,
+   "lng": 5.5736112,
    "precise": false,
    "category": "music",
    "topics": [
@@ -15169,7 +17632,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Liège, Wallonie, 4000, België / Belgique / Belgien (query: Liège, Belgium).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15381,8 +17844,8 @@ window.ATLASDATA={
    "source_url": "https://beach-please.ro/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 43.9469694,
+   "lng": 28.6124117,
    "precise": false,
    "category": "music",
    "topics": [
@@ -15401,7 +17864,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Costinești, Zona Metropolitană Constanța, Constanța, România (query: Costinești, Romania).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15512,15 +17975,37 @@ window.ATLASDATA={
    "source_url": "https://www.electriclove.at/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.8224907,
+   "lng": 13.1560556,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "EDM"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/electric-love-2027-1.jpg",
+     "thumb": "img/events/electric-love-2027-1-t.jpg",
+     "orig": "https://www.electriclove.at/en/wp-content/uploads/sites/2/2026/07/ELF26-Mainstage-1024x576.png",
+     "page": "https://www.electriclove.at/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/electric-love-2027-2.jpg",
+     "thumb": "img/events/electric-love-2027-2-t.jpg",
+     "orig": "https://www.electriclove.at/en/wp-content/uploads/sites/2/fly-images/14520/ELF27-LU-11-Post-16-9-1000x9999.png",
+     "page": "https://www.electriclove.at/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/electric-love-2027-3.jpg",
+     "thumb": "img/events/electric-love-2027-3-t.jpg",
+     "orig": "https://www.electriclove.at/en/wp-content/uploads/sites/2/fly-images/12346/Electric-Love-WhatsApp-520x9999.jpg",
+     "page": "https://www.electriclove.at/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15531,7 +18016,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Salzburgring, 1, LKW Zufahrt, Rettenbachschwand, Katastralgemeinde Koppl, Habach, Koppl, Bezirk Salzburg-Umgebung, Salzburg, 5325, Österreich (query: Salzburgring, Austria).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15572,9 +18057,9 @@ window.ATLASDATA={
    "source_url": "https://www.openair-frauenfeld.ch/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.5561915,
+   "lng": 8.8963347,
+   "precise": true,
    "category": "music",
    "topics": [
     "hip-hop",
@@ -15591,7 +18076,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Frauenfeld, Bezirk Frauenfeld, Thurgau, Schweiz / Suisse / Svizzera / Svizra (query: Frauenfeld, Switzerland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15632,16 +18117,31 @@ window.ATLASDATA={
    "source_url": "https://ruisrock.fi/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 60.425618,
+   "lng": 22.13086,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "pop",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ruisrock-2027-2.jpg",
+     "thumb": "img/events/ruisrock-2027-2-t.jpg",
+     "orig": "https://ruisrock.fi/wp-content/uploads/2025/10/ruisrock-video-kuva-01-scaled.jpg",
+     "page": "https://ruisrock.fi/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ruisrock-2027-3.jpg",
+     "thumb": "img/events/ruisrock-2027-3-t.jpg",
+     "orig": "https://ruisrock.fi/wp-content/uploads/2025/10/ruisrock-video-kuva-02-scaled.jpg",
+     "page": "https://ruisrock.fi/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15657,7 +18157,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Ruissalo, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland (query: Ruissalo, Turku, Finland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15698,15 +18198,58 @@ window.ATLASDATA={
    "source_url": "https://ultraeurope.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site title and footer: July 9, 10, 11 — 2027, Park Mladeži, Split, Croatia. Ticket page warns that listed availability does not guarantee purchase-page availability and that prices are subject to availability and exclude service charges; no numeric price was stored.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 43.5191547,
+   "lng": 16.4387,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "EDM"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ultra-europe-2027-1.jpg",
+     "thumb": "img/events/ultra-europe-2027-1-t.jpg",
+     "orig": "https://ultraeurope.com/wp-content/uploads/2019/07/europe-og-2020.jpg",
+     "page": "https://ultraeurope.com/tickets/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ultra-europe-2027-2.jpg",
+     "thumb": "img/events/ultra-europe-2027-2-t.jpg",
+     "orig": "https://ultraeurope.com/wp-content/uploads/2019/07/europe-bg-2020-3.jpg",
+     "page": "https://ultraeurope.com/tickets/2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ultra-europe-2027-3.jpg",
+     "thumb": "img/events/ultra-europe-2027-3-t.jpg",
+     "orig": "https://ultraeurope.com/wp-content/uploads/2026/10/ULTRA_Europe_27TH_WEBBANNER.png",
+     "page": "https://ultraeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ultra-europe-2027-4.jpg",
+     "thumb": "img/events/ultra-europe-2027-4-t.jpg",
+     "orig": "https://umfworldwide.com/wp-content/uploads/2026/02/resistanceibizapostportrait1080x1440.png",
+     "page": "https://ultraeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ultra-europe-2027-5.jpg",
+     "thumb": "img/events/ultra-europe-2027-5-t.jpg",
+     "orig": "https://umfworldwide.com/wp-content/uploads/2026/02/umf_miami_26th_ph3_v5-scaled.jpg",
+     "page": "https://ultraeurope.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ultra-europe-2027-6.jpg",
+     "thumb": "img/events/ultra-europe-2027-6-t.jpg",
+     "orig": "https://umfworldwide.com/wp-content/uploads/2026/02/image3.jpg",
+     "page": "https://ultraeurope.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15722,7 +18265,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Park mladeži, Skalice, Gradski kotar Lovret, Split, Grad Split, Splitsko-dalmatinska županija, 21106, Hrvatska (query: Park Mladeži, Split, Croatia).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15763,9 +18306,9 @@ window.ATLASDATA={
    "source_url": "https://electriccastle.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 46.9102532,
+   "lng": 23.8103208,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
@@ -15788,7 +18331,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Castelul Bánffy, Strada Mihai Eminescu, Bărc, Bonțida, Zona Metropolitană Cluj, Cluj, 407105, România (query: Bánffy Castle, Bonțida, Romania).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15913,16 +18456,24 @@ window.ATLASDATA={
    "source_url": "https://fiberfib.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 40.0554183,
+   "lng": 0.0644655,
+   "precise": true,
    "category": "music",
    "topics": [
     "indie",
     "pop",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/fib-2027-1.jpg",
+     "thumb": "img/events/fib-2027-1-t.jpg",
+     "orig": "https://fiberfib.com/wp-content/uploads/2023/07/FIB2024-WEB.jpg",
+     "page": "https://fiberfib.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15933,7 +18484,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Benicàssim / Benicasim, la Plana Alta, Castelló / Castellón, Comunitat Valenciana, 12560, España (query: Benicàssim, Spain).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -15974,16 +18525,59 @@ window.ATLASDATA={
    "source_url": "https://www.salzburgerfestspiele.at/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Main summer festival dates 16 July–29 August 2027 on the official site. A separate 14–17 May 2027 window also appeared (likely the Whitsun/Pfingsten festival) and is not merged into these dates.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.7987295,
+   "lng": 13.0409822,
+   "precise": true,
    "category": "arts",
    "topics": [
     "opera",
     "classical music",
     "theatre"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/salzburg-festival-2027-1.jpg",
+     "thumb": "img/events/salzburg-festival-2027-1-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2019/03/salzburger-festspiele-salzburg-panorama-mit-logo-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salzburg-festival-2027-2.jpg",
+     "thumb": "img/events/salzburg-festival-2027-2-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2026/11/pk-fabasoft-wird-hauptsponsor-der-sf_c_sf_jan-friese-scaled-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salzburg-festival-2027-3.jpg",
+     "thumb": "img/events/salzburg-festival-2027-3-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2026/11/009_ysp-welcome_c_sf_guenter-freund3e6a2777-1-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salzburg-festival-2027-4.jpg",
+     "thumb": "img/events/salzburg-festival-2027-4-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2026/11/reinhold_wuerth_direktorium-sf_c_sf_marco_borrelli-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salzburg-festival-2027-5.jpg",
+     "thumb": "img/events/salzburg-festival-2027-5-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2026/09/005_peter-de-caluwe_kristina-hammer_c_sf_jan-friese_jff0200-e1789753870904-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salzburg-festival-2027-6.jpg",
+     "thumb": "img/events/salzburg-festival-2027-6-t.jpg",
+     "orig": "https://www.salzburgerfestspiele.at/wp-content/uploads/2026/07/schlussapplaus-premiere-carmen-2026-c-sf-marco-borrelli-02-840x472.jpg",
+     "page": "https://www.salzburgerfestspiele.at/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15999,7 +18593,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Großes Festspielhaus, Hofstallgasse, Altstadt, Salzburg, 5020, Österreich (query: Großes Festspielhaus, Hofstallgasse, Salzburg, Austria).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16040,16 +18634,59 @@ window.ATLASDATA={
    "source_url": "https://belgium.tomorrowland.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Two official weekends at De Schorre: 16–18 July and 23–25 July 2027. Pre-registration opens 2 December 2026 at 15:00 CET. start_date/end_date span both weekends.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.0897779,
+   "lng": 4.3842969,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "EDM",
     "dance"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/tomorrowland-belgium-2027-1.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-1-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/GkfYvqthei1CQ_kr_1784285411289_2bf2ab4e-c423-4f42-9573-3eb426e231bb.jpg_0_554559390070347944.jpg?auto=format,compress&rect=0,205,4096,2150&w=2400&h=1260",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-belgium-2027-2.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-2-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/mX8IKhbR3UaQoH71_AviciiTML2011.jpg?auto=format,compress",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-belgium-2027-3.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-3-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/uNTdgyVixOCgwR1L_260324-180355-TL26FR-FR.jpg?auto=format%2Ccompress&rect=0%2C1316%2C5047%2C3785&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-belgium-2027-4.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-4-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/XJd_3MrQav8_oDeO_TL27FR_KEYVISUAL_MAILING-1-.png?auto=format%2Ccompress&rect=439%2C284%2C717%2C538&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-belgium-2027-5.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-5-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/9GzfgC1PQbQwhRjg_LANDSCAPE-3-.png?auto=format,compress&rect=0,28,1920,1024&w=600&h=320",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tomorrowland-belgium-2027-6.jpg",
+     "thumb": "img/events/tomorrowland-belgium-2027-6-t.jpg",
+     "orig": "https://www.tomorrowland.com/home/media/acp62JGXnQHGZGNH_1774578703828_999621bb-87f8-492d-b0c2-2a9c8306b95f.jpg_0_11811441623110657785.jpg?auto=format%2Ccompress&rect=227%2C0%2C3643%2C2732&w=1440&h=1080",
+     "page": "https://www.tomorrowland.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16070,7 +18707,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Provinciaal Domein De Schorre, 1, De Hoek, Boom, Antwerpen, Vlaanderen, België / Belgique / Belgien (query: De Schorre, Boom, Belgium).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16111,9 +18748,9 @@ window.ATLASDATA={
    "source_url": "https://www.lollapaloozade.com/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site: 17 & 18 July 2027 at Olympiastadion / Olympiapark, Berlin. Ticket shop waitlist was open when checked.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 52.5145846,
+   "lng": 13.2398144,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
@@ -16121,7 +18758,50 @@ window.ATLASDATA={
     "rock",
     "hip-hop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/lollapalooza-berlin-2027-1.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6914af0736276d2bdcb638d8/6ad1f91c3a7072c1bf92d9dc_LP27_ogimage_drone.jpg",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lollapalooza-berlin-2027-2.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6914af0736276d2bdcb638d8/6ac4dcfd95194c97c7e5311e_Abstract%20shape%20oben%404x.avif",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lollapalooza-berlin-2027-3.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/6914af0736276d2bdcb638d8/6920972026f9790ae6a5ab0f_fe56c542ecd55e19a930678bde0068e8_Vector.avif",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lollapalooza-berlin-2027-4.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/691610c72a8595550c48579c/6ae44aeda00d2eb8ea385d80_LP27_Newscard_TrickorTreat.png",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lollapalooza-berlin-2027-5.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-5-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/691610c72a8595550c48579c/6ac77ad3203ae939c6f17e22_LP27_Newscard_VIP-Comfort.avif",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lollapalooza-berlin-2027-6.jpg",
+     "thumb": "img/events/lollapalooza-berlin-2027-6-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/691610c72a8595550c48579c/6ac5def735d0e64cc592ef79_LP27%20%E2%80%93%20PayPal%20Ticketoffer%20Website-3.avif",
+     "page": "https://www.lollapaloozade.com/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16142,7 +18822,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Olympiastadion Berlin, 3, Olympischer Platz, Ostpreußenviertel, Westend, Charlottenburg-Wilmersdorf, Berlin, 14053, Deutschland (query: Olympiastadion, Berlin, Germany).",
    "lineup_url": "https://www.lollapaloozade.com/en",
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16183,15 +18863,58 @@ window.ATLASDATA={
    "source_url": "https://www.parookaville.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official fetched pages clearly stated 17–18 July 2027. The festival has previously run longer; only the officially published 2027 dates are stored.",
-   "lat": null,
-   "lng": null,
+   "lat": 51.6267298,
+   "lng": 6.2011559,
    "precise": false,
    "category": "music",
    "topics": [
     "electronic",
     "EDM"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/parookaville-2027-1.jpg",
+     "thumb": "img/events/parookaville-2027-1-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/6/8/csm_Hero-Image_1920x1080px-2_bccd19fe4b.jpg",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/parookaville-2027-2.jpg",
+     "thumb": "img/events/parookaville-2027-2-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/9/4/csm_PV25-Slider-5_19e41a8edc.webp",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/parookaville-2027-3.jpg",
+     "thumb": "img/events/parookaville-2027-3-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/4/a/csm_PV25-Slider-7_dd325e3a60.webp",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/parookaville-2027-4.jpg",
+     "thumb": "img/events/parookaville-2027-4-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/6/e/csm_PV25-Slider-9_5d3a245436.webp",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/parookaville-2027-5.jpg",
+     "thumb": "img/events/parookaville-2027-5-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/f/0/csm_PV27-Slider-1_511737a72d.webp",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/parookaville-2027-6.jpg",
+     "thumb": "img/events/parookaville-2027-6-t.jpg",
+     "orig": "https://www.parookaville.com/files/_processed_/e/c/csm_PV27-Slider-2_b29c15bd41.webp",
+     "page": "https://www.parookaville.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16202,7 +18925,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Weeze, Bedburg-Hau, Kreis Kleve, Nordrhein-Westfalen, 47652, Deutschland (query: Weeze, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16243,15 +18966,51 @@ window.ATLASDATA={
    "source_url": "https://yeah.paleo.ch/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "50th edition. Official pages give 19–25 July 2027 as the festival dates.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 46.4017675,
+   "lng": 6.2118482,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "open-air"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/paleo-2027-2.jpg",
+     "thumb": "img/events/paleo-2027-2-t.jpg",
+     "orig": "https://yeah.paleo.ch/sites/default/files/styles/news_teaser_2x/public/2026-08/thk_di2026_theamoser-12.jpg.webp?itok=mTHc1eyt",
+     "page": "https://yeah.paleo.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/paleo-2027-3.jpg",
+     "thumb": "img/events/paleo-2027-3-t.jpg",
+     "orig": "https://yeah.paleo.ch/sites/default/files/styles/news_teaser_2x/public/2026-07/ambiance_sa26_marc_amiguet_z6_3436.jpg.webp?itok=lIyRruss",
+     "page": "https://yeah.paleo.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/paleo-2027-4.jpg",
+     "thumb": "img/events/paleo-2027-4-t.jpg",
+     "orig": "https://yeah.paleo.ch/sites/default/files/styles/news_teaser_2x/public/2026-07/tuktuk_ambiance_avant2026_basile_barbey_02_0.jpg.webp?itok=Zku2hPUQ",
+     "page": "https://yeah.paleo.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/paleo-2027-5.jpg",
+     "thumb": "img/events/paleo-2027-5-t.jpg",
+     "orig": "https://yeah.paleo.ch/sites/default/files/styles/nav_reco_card_2x/public/2026-07/ambiance_di2026_lauriane_vega_097_0.jpg.webp?itok=lCDHAN-A",
+     "page": "https://yeah.paleo.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/paleo-2027-6.jpg",
+     "thumb": "img/events/paleo-2027-6-t.jpg",
+     "orig": "https://yeah.paleo.ch/sites/default/files/styles/nav_reco_card_2x/public/2026-07/ambiance_di26_marc_amiguet_z8_4779.jpg.webp?h=f654c4a8&itok=Qp_BqNge",
+     "page": "https://yeah.paleo.ch/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16272,7 +19031,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: L'Asse, Route de Gingins, Nyon, District de Nyon, Vaud, 1260, Schweiz / Suisse / Svizzera / Svizra (query: L'Asse, Nyon, Switzerland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16313,15 +19072,58 @@ window.ATLASDATA={
    "source_url": "https://www.colours.cz/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official Czech homepage title: Colours of Ostrava | 21–24/07/2027.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 49.8181787,
+   "lng": 18.2754395,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "world music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/colours-ostrava-2027-1.jpg",
+     "thumb": "img/events/colours-ostrava-2027-1-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/08/coo27_pozadi_sirka_RGB-1-2-750x680-c-center.png",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/colours-ostrava-2027-2.jpg",
+     "thumb": "img/events/colours-ostrava-2027-2-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/08/coo27_pozadi_sirka_RGB-1-2-1920x1080-c-center.png",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/colours-ostrava-2027-3.jpg",
+     "thumb": "img/events/colours-ostrava-2027-3-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/11/UVODKnov-640x480-c-center.png",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/colours-ostrava-2027-4.jpg",
+     "thumb": "img/events/colours-ostrava-2027-4-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/11/Event-PMW-2026-Awards-Photo-by-Filip-Kustka-@filip_kustka-2152-e1794472041998-640x480-c-center.jpg",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/colours-ostrava-2027-5.jpg",
+     "thumb": "img/events/colours-ostrava-2027-5-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/10/198A6923-scaled-e1793284423132-640x480-c-center.jpg",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/colours-ostrava-2027-6.jpg",
+     "thumb": "img/events/colours-ostrava-2027-6-t.jpg",
+     "orig": "https://www.colours.cz/wp-content/uploads/2026/10/EG-RockOnRio-QuickEdits-JenniferMcCord-Edits-12-1-1-scaled-e1792412929798-640x480-c-center.jpg",
+     "page": "https://www.colours.cz/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16332,7 +19134,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Dolní Vítkovice, Místecká, Vítkovice, Ostrava, okres Ostrava-město, Moravskoslezský kraj, 706 02, Česko (query: Dolní Vítkovice, Ostrava, Czech Republic).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16373,8 +19175,8 @@ window.ATLASDATA={
    "source_url": "https://www.latitudefestival.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 52.3260841,
+   "lng": 1.6793095,
    "precise": false,
    "category": "music",
    "topics": [
@@ -16382,7 +19184,50 @@ window.ATLASDATA={
     "arts",
     "family festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/latitude-2027-1.jpg",
+     "thumb": "img/events/latitude-2027-1-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2019/04/latitude-social-master.jpg",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude-2027-2.jpg",
+     "thumb": "img/events/latitude-2027-2-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2026/07/bxilhjokrgps-900x600.jpg",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude-2027-3.jpg",
+     "thumb": "img/events/latitude-2027-3-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2026/07/rlhkxesqtgbw-900x600.jpg",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude-2027-4.jpg",
+     "thumb": "img/events/latitude-2027-4-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2026/07/menzfslvuciw-900x600.jpg",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude-2027-5.jpg",
+     "thumb": "img/events/latitude-2027-5-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2026/07/LAT26_Loyalty_Onsale_1067x600-900x600.png",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/latitude-2027-6.jpg",
+     "thumb": "img/events/latitude-2027-6-t.jpg",
+     "orig": "https://www.latitudefestival.com/wp-content/uploads/2019/05/2018_Latitude_Sarah-Koury63-4-900x600.jpg",
+     "page": "https://www.latitudefestival.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16393,7 +19238,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Southwold, East Suffolk, Suffolk, England, United Kingdom (query: Southwold, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16434,16 +19279,24 @@ window.ATLASDATA={
    "source_url": "https://www.untold.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official homepage and ticket shop: 5–8 August 2027, Cluj-Napoca / Cluj Arena, billed as the Star Edition. Ticket shop prices are listed in lei across several pass types; a single comparable GA figure was not copied here without a clear EUR checkout total.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 46.7685779,
+   "lng": 23.5724532,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "pop",
     "EDM"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/untold-2027-3.jpg",
+     "thumb": "img/events/untold-2027-3-t.jpg",
+     "orig": "https://untold-universe-public-resources-prod.s3.eu-west-1.amazonaws.com/a1ed8593-2745-416a-95fd-660ed9fbba16/119501b6-cd33-486a-aaaa-facd5a1a9658.png",
+     "page": "https://www.untold.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16459,7 +19312,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Cluj Arena, Aleea Stadionului, Plopilor, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400376, România (query: Cluj Arena, Cluj-Napoca, Romania).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16500,8 +19353,8 @@ window.ATLASDATA={
    "source_url": "https://www.edfringe.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "80th edition.",
-   "lat": null,
-   "lng": null,
+   "lat": 55.9533456,
+   "lng": -3.1883749,
    "precise": false,
    "category": "arts",
    "topics": [
@@ -16510,7 +19363,36 @@ window.ATLASDATA={
     "performing arts",
     "fringe"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/edinburgh-fringe-2027-2.jpg",
+     "thumb": "img/events/edinburgh-fringe-2027-2-t.jpg",
+     "orig": "https://www.edfringe.com/media/q1upsk3r/welcome-to-the-new-weebsite-home.jpg?width=1600&height=900&v=1dd75de2aa48f00&format=webp&autoorient=true&quality=90",
+     "page": "https://www.edfringe.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-fringe-2027-3.jpg",
+     "thumb": "img/events/edinburgh-fringe-2027-3-t.jpg",
+     "orig": "https://www.edfringe.com/media/w1tnvttc/fringe-street-events-people_02.jpg?width=1600&height=900&v=1dd75e97f73ace0&format=webp&autoorient=true&quality=90",
+     "page": "https://www.edfringe.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-fringe-2027-4.jpg",
+     "thumb": "img/events/edinburgh-fringe-2027-4-t.jpg",
+     "orig": "https://www.edfringe.com/media/bemlqynn/home_carousel02.webp?rxy=0.4787999267578125,0.22764442274305555&width=1600&height=900&v=1dd735ff7b56310&format=webp&autoorient=true&quality=90",
+     "page": "https://www.edfringe.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-fringe-2027-5.jpg",
+     "thumb": "img/events/edinburgh-fringe-2027-5-t.jpg",
+     "orig": "https://www.edfringe.com/media/y55cvzl2/home-help-us.jpg?width=1600&height=900&v=1dd75de0d75db00&format=webp&autoorient=true&quality=90",
+     "page": "https://www.edfringe.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16531,7 +19413,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: City of Edinburgh, Alba / Scotland, United Kingdom (query: Edinburgh, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16572,16 +19454,45 @@ window.ATLASDATA={
    "source_url": "https://www.edintattoo.co.uk/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 55.9486762,
+   "lng": -3.197356,
+   "precise": true,
    "category": "arts",
    "topics": [
     "military tattoo",
     "music",
     "performance"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/edinburgh-tattoo-2027-1.jpg",
+     "thumb": "img/events/edinburgh-tattoo-2027-1-t.jpg",
+     "orig": "https://remtmedia-hmaxa0cfafh0guf4.a02.azurefd.net/zokpjntk/2027herothumbnail.jpg?width=1920&height=1080&v=1dd5581d41faa10",
+     "page": "https://www.edintattoo.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-tattoo-2027-2.jpg",
+     "thumb": "img/events/edinburgh-tattoo-2027-2-t.jpg",
+     "orig": "https://remtmedia-hmaxa0cfafh0guf4.a02.azurefd.net/zokpjntk/2027herothumbnail.jpg?width=1600&height=977&v=1dd5581d41faa10",
+     "page": "https://www.edintattoo.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-tattoo-2027-3.jpg",
+     "thumb": "img/events/edinburgh-tattoo-2027-3-t.jpg",
+     "orig": "https://remtmedia-hmaxa0cfafh0guf4.a02.azurefd.net/zokpjntk/2027herothumbnail.jpg?width=1300&height=875&v=1dd5581d41faa10",
+     "page": "https://www.edintattoo.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-tattoo-2027-4.jpg",
+     "thumb": "img/events/edinburgh-tattoo-2027-4-t.jpg",
+     "orig": "https://remtmedia-hmaxa0cfafh0guf4.a02.azurefd.net/zokpjntk/2027herothumbnail.jpg?width=960&height=670&v=1dd5581d41faa10",
+     "page": "https://www.edintattoo.co.uk/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16592,7 +19503,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Esplanade, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NH, United Kingdom (query: Edinburgh Castle Esplanade, Edinburgh, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16633,16 +19544,31 @@ window.ATLASDATA={
    "source_url": "https://szigetfestival.com/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official: 'Sziget Festival will be back in 2027. Mark your calendars: 10–14 August.' FAQ confirms the same dates.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 47.5491037,
+   "lng": 19.053424,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "island festival",
     "camping"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sziget-2027-2.jpg",
+     "thumb": "img/events/sziget-2027-2-t.jpg",
+     "orig": "https://szigetfestival.com/wp-content/uploads/2025/10/all-the-news.jpg",
+     "page": "https://szigetfestival.com/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sziget-2027-3.jpg",
+     "thumb": "img/events/sziget-2027-3-t.jpg",
+     "orig": "https://szigetfestival.com/wp-content/uploads/2025/10/all-the-news-683x1024.jpg",
+     "page": "https://szigetfestival.com/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16658,7 +19584,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Óbudai-sziget, III. kerület, Budapest, 1033, Magyarország (query: Óbudai-sziget, Budapest, Hungary).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16699,8 +19625,8 @@ window.ATLASDATA={
    "source_url": "https://www.boomtownfair.co.uk/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 51.0612766,
+   "lng": -1.3131692,
    "precise": false,
    "category": "music",
    "topics": [
@@ -16708,7 +19634,29 @@ window.ATLASDATA={
     "immersive",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/boomtown-2027-2.jpg",
+     "thumb": "img/events/boomtown-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/66fbea41b5ef08dc592dbf06/68dcfdae7bacce536933ffe6_41bcc6d08a05bf94754ab12fcda06c51_Boomtown2025_Sunday_GiuliaSpadafora_094_2388.webp",
+     "page": "https://www.boomtownfair.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/boomtown-2027-3.jpg",
+     "thumb": "img/events/boomtown-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/66fbea41b5ef08dc592dbf06/68db98fd39caed5d2fb8040f_Boomtown2025_Saturday_Eljay-80.webp",
+     "page": "https://www.boomtownfair.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/boomtown-2027-4.jpg",
+     "thumb": "img/events/boomtown-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/66fbea41b5ef08dc592dbf06/69a986e9cf5423120cd61d34_untitled%209%20small.jpg",
+     "page": "https://www.boomtownfair.co.uk/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16719,7 +19667,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Winchester, Hampshire, England, SO23 9LF, United Kingdom (query: Winchester, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16760,16 +19708,38 @@ window.ATLASDATA={
    "source_url": "https://oyafestivalen.no/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site: Oslo, 11.–14. august 2027. Festival passes already on sale.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 59.9199446,
+   "lng": 10.7776971,
+   "precise": true,
    "category": "music",
    "topics": [
     "indie",
     "rock",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/oya-2027-4.jpg",
+     "thumb": "img/events/oya-2027-4-t.jpg",
+     "orig": "https://oyafestivalen.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fsehba7v8%2Fproduction%2Faffb8846c0202c8024c954d8bc0bb22d2d0af1d2-3400x1440.jpg%3Ffm%3Dwebp%26fit%3Dmax&w=3840&q=75",
+     "page": "https://oyafestivalen.no/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oya-2027-5.jpg",
+     "thumb": "img/events/oya-2027-5-t.jpg",
+     "orig": "https://oyafestivalen.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fsehba7v8%2Fproduction%2Fda7cfbb1a338404d2120cbadb51439db0669c15a-5540x7805.jpg%3Ffm%3Dwebp%26fit%3Dmax&w=3840&q=75",
+     "page": "https://oyafestivalen.no/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oya-2027-6.jpg",
+     "thumb": "img/events/oya-2027-6-t.jpg",
+     "orig": "https://oyafestivalen.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fsehba7v8%2Fproduction%2F234b13941f2bb6c1178cb91f013f5f598e1eb8e8-6294x4216.webp%3Ffm%3Dwebp%26fit%3Dmax&w=3840&q=75",
+     "page": "https://oyafestivalen.no/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16780,7 +19750,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Tøyenparken, Grünerløkka, Oslo, Norge (query: Tøyenparken, Oslo, Norway).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16879,9 +19849,9 @@ window.ATLASDATA={
    "source_url": "https://www.frequency.at/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official site title: Frequency Festival | 19.–21. August 2027 – Green Park St.Pölten, Austria.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.1909973,
+   "lng": 15.6321928,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
@@ -16899,7 +19869,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: GREEN PARK St. Pölten, Katastralgemeinde St. Pölten, St. Pölten, Niederösterreich, 3100, Österreich (query: Green Park, St. Pölten, Austria).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -16940,8 +19910,8 @@ window.ATLASDATA={
    "source_url": "https://www.pukkelpop.be/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Only 21–22 August 2027 was clearly extractable from the official pages fetched on 23 Nov 2026. Pukkelpop usually runs more than two days; start/end left as the officially visible range only.",
-   "lat": null,
-   "lng": null,
+   "lat": 50.954463,
+   "lng": 5.3490946,
    "precise": false,
    "category": "music",
    "topics": [
@@ -16950,7 +19920,50 @@ window.ATLASDATA={
     "rock",
     "hip-hop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/pukkelpop-2027-1.jpg",
+     "thumb": "img/events/pukkelpop-2027-1-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/ogimage/upload/media/default/b9f4/e5/fe502e7d1b302b0a2e0c82fa8f2e62fae28b603d.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pukkelpop-2027-2.jpg",
+     "thumb": "img/events/pukkelpop-2027-2-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/default_promo_header/upload/media/default/c298/25/53eeef0d8be798a84a8c1fe513a127fd267ec987.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pukkelpop-2027-3.jpg",
+     "thumb": "img/events/pukkelpop-2027-3-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/default_card/upload/media/default/6dcc/ba/d45a9cd9524a3589a36932bc67359c9848832bbf.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pukkelpop-2027-4.jpg",
+     "thumb": "img/events/pukkelpop-2027-4-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/default_card/upload/media/default/1caa/e7/6b2c0d794f44b433f48603373c89580aa3a650e7.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pukkelpop-2027-5.jpg",
+     "thumb": "img/events/pukkelpop-2027-5-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/default_card/upload/media/default/8467/dc/4a32ebb7632bde48da25f14a546d1bacf81f518d.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pukkelpop-2027-6.jpg",
+     "thumb": "img/events/pukkelpop-2027-6-t.jpg",
+     "orig": "https://www.pukkelpop.be/media/cache/default_card/upload/media/default/a792/a4/e97f00bcaf22afcf801ec1d82f50235e7df6b56a.jpg",
+     "page": "https://www.pukkelpop.be/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16961,7 +19974,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kiewit, Kempische Steenweg, Heksenberg, Banneux, Hasselt, Heusden-Zolder, Hasselt, Limburg, Vlaanderen, 3500, België / Belgique / Belgien (query: Kiewit, Belgium).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17067,15 +20080,51 @@ window.ATLASDATA={
    "source_url": "https://www.creamfields.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.3502034,
+   "lng": -2.6549013,
+   "precise": true,
    "category": "music",
    "topics": [
     "electronic",
     "dance"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/creamfields-2027-2.jpg",
+     "thumb": "img/events/creamfields-2027-2-t.jpg",
+     "orig": "https://creamfields.com/wp-content/uploads/2026/11/BICEP-Press-045-by-Brennan-Bucannan-1200x675.jpg",
+     "page": "https://www.creamfields.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/creamfields-2027-3.jpg",
+     "thumb": "img/events/creamfields-2027-3-t.jpg",
+     "orig": "https://creamfields.com/wp-content/uploads/2026/11/2025-10-11-16.39.46-e1794573860802-1200x675.jpg",
+     "page": "https://www.creamfields.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/creamfields-2027-4.jpg",
+     "thumb": "img/events/creamfields-2027-4-t.jpg",
+     "orig": "https://creamfields.com/wp-content/uploads/2026/11/Seb5-scaled-e1794506475597-1200x675.jpg",
+     "page": "https://www.creamfields.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/creamfields-2027-5.jpg",
+     "thumb": "img/events/creamfields-2027-5-t.jpg",
+     "orig": "https://creamfields.com/wp-content/uploads/2026/11/000046340002-scaled-e1793966555236-1200x675.jpg",
+     "page": "https://www.creamfields.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/creamfields-2027-6.jpg",
+     "thumb": "img/events/creamfields-2027-6-t.jpg",
+     "orig": "https://creamfields.com/wp-content/uploads/2026/10/CF26-Sun-Anthony-Mooney-191-Ewan-Mcvicar-Apex-1200x675.jpg",
+     "page": "https://www.creamfields.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17086,7 +20135,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Daresbury Point, Greenwood Drive, Runcorn, Halton, Liverpool City Region, England, WA7 1UP, United Kingdom (query: Daresbury, Cheshire, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17127,16 +20176,59 @@ window.ATLASDATA={
    "source_url": "https://www.leedsfestival.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.8657259,
+   "lng": -1.3788464,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "indie",
     "pop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/leeds-2027-1.jpg",
+     "thumb": "img/events/leeds-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/6a96e5cfaf60f59670b17a6a_Frame%201.jpg",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/leeds-2027-2.jpg",
+     "thumb": "img/events/leeds-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/692856585bac36a9a3119668_cbaadc3717014c3cb4e3f76ed74df5f2_Leeds%20-%204x5%2057png.png",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/leeds-2027-3.jpg",
+     "thumb": "img/events/leeds-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/6928595e1b4e51533117bdb6_fc587ec9aecf496d89604fa2dae2e9a7_Leeds%20-%204x5%20%281%29%201.png",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/leeds-2027-4.jpg",
+     "thumb": "img/events/leeds-2027-4-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/692856585bac36a9a3119668_cbaadc3717014c3cb4e3f76ed74df5f2_Leeds%20-%204x5%2057png-p-800.png",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/leeds-2027-5.jpg",
+     "thumb": "img/events/leeds-2027-5-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/692856585bac36a9a3119668_cbaadc3717014c3cb4e3f76ed74df5f2_Leeds%20-%204x5%2057png-p-1080.png",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/leeds-2027-6.jpg",
+     "thumb": "img/events/leeds-2027-6-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68fa05ec4b2e6fa1ff78fe0f/6928595e1b4e51533117bdb6_fc587ec9aecf496d89604fa2dae2e9a7_Leeds%20-%204x5%20%281%29%201-p-800.png",
+     "page": "https://www.leedsfestival.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17147,7 +20239,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Bramham Park, Bramham cum Oglethorpe, Bramham, Leeds, West Yorkshire, England, United Kingdom (query: Bramham Park, Leeds, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17245,16 +20337,38 @@ window.ATLASDATA={
    "source_url": "https://www.readingfestival.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 51.4642074,
+   "lng": -0.9842984,
+   "precise": true,
    "category": "music",
    "topics": [
     "rock",
     "indie",
     "pop"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/reading-2027-1.jpg",
+     "thumb": "img/events/reading-2027-1-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68ecdba86cff0bbfd0835410/68f62c8e5a5d10d0cacb8d35_22e06b58e089f162a621c20c4cdd1854_open-graph-image-reading-festival.jpg",
+     "page": "https://www.readingfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/reading-2027-2.jpg",
+     "thumb": "img/events/reading-2027-2-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68ecdba86cff0bbfd0835410/6928600c485bf8acb8f71747_a92ab9f064b15ab6973cd92ac7d18b51_Reading%20-%204x5%20%281%29123123%201.png",
+     "page": "https://www.readingfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/reading-2027-3.jpg",
+     "thumb": "img/events/reading-2027-3-t.jpg",
+     "orig": "https://cdn.prod.website-files.com/68ecdba86cff0bbfd0835410/6928600cea031c6d86c722bf_b3df4313b10c77479be3db9d0b8c9d70_Reading%20-%204x5%2012123123%201.png",
+     "page": "https://www.readingfestival.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17265,7 +20379,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Richfield Avenue, Caversham, Reading, England, RG1 8NS, United Kingdom (query: Richfield Avenue, Reading, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17306,16 +20420,45 @@ window.ATLASDATA={
    "source_url": "https://www.electricpicnic.ie/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Dates 27–29 August 2027 were the official range visible on the fetched homepage. Confirm if a Thursday opening is later added.",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 53.0105367,
+   "lng": -7.1555816,
+   "precise": true,
    "category": "music",
    "topics": [
     "multi-genre",
     "arts",
     "camping"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/electric-picnic-2027-3.jpg",
+     "thumb": "img/events/electric-picnic-2027-3-t.jpg",
+     "orig": "https://www.electricpicnic.ie/wp-content/uploads/2024/04/2023_EP_Saturday_by-Anamaria-Meiu@AMPhotoStar_0238-1-800x800.jpg",
+     "page": "https://www.electricpicnic.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/electric-picnic-2027-4.jpg",
+     "thumb": "img/events/electric-picnic-2027-4-t.jpg",
+     "orig": "https://www.electricpicnic.ie/wp-content/uploads/2024/04/2023_EP_Friday_by-Anamaria-Meiu@AMPhotoStar_0077-e1714046112546-800x800.jpg",
+     "page": "https://www.electricpicnic.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/electric-picnic-2027-5.jpg",
+     "thumb": "img/events/electric-picnic-2027-5-t.jpg",
+     "orig": "https://www.electricpicnic.ie/wp-content/uploads/2024/08/EP-Aerial-Stills-208-900x600.jpg",
+     "page": "https://www.electricpicnic.ie/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/electric-picnic-2027-6.jpg",
+     "thumb": "img/events/electric-picnic-2027-6-t.jpg",
+     "orig": "https://www.electricpicnic.ie/wp-content/uploads/2026/08/Fargos_Photos-2077-900x600.jpg",
+     "page": "https://www.electricpicnic.ie/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17326,7 +20469,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Stradbally Hall, L3837, Stradbally ED, The Municipal District of Graiguecullen — Portarlington, County Laois, Leinster, Éire / Ireland (query: Stradbally Hall, County Laois, Ireland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17367,8 +20510,8 @@ window.ATLASDATA={
    "source_url": "https://nhcarnival.org/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "Official carnival days are Sunday 29 and Monday 30 August 2027. A Steel Band Competition Day is listed for Saturday 28 August 2027 (tickets only).",
-   "lat": null,
-   "lng": null,
+   "lat": 51.5109995,
+   "lng": -0.2055267,
    "precise": false,
    "category": "culture",
    "topics": [
@@ -17393,7 +20536,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Notting Hill, Royal Borough of Kensington and Chelsea, Greater London, England, W11 2PA, United Kingdom (query: Notting Hill, London, United Kingdom).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -17657,7 +20800,36 @@ window.ATLASDATA={
    "topics": [
     "technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ev-live-2027-1.jpg",
+     "thumb": "img/events/ev-live-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/w3mmdy0b/5-1.png",
+     "page": "https://www.dwtc.com/en/events/ev-live-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ev-live-2027-2.jpg",
+     "thumb": "img/events/ev-live-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/utqlskbd/6-1.png",
+     "page": "https://www.dwtc.com/en/events/ev-live-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ev-live-2027-3.jpg",
+     "thumb": "img/events/ev-live-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/bljbwukr/4-2.png",
+     "page": "https://www.dwtc.com/en/events/ev-live-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ev-live-2027-4.jpg",
+     "thumb": "img/events/ev-live-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/3xlhixa1/3-4.png",
+     "page": "https://www.dwtc.com/en/events/ev-live-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17713,7 +20885,15 @@ window.ATLASDATA={
    "topics": [
     "Automotive and Transport"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/move-middle-east-2027-1.jpg",
+     "thumb": "img/events/move-middle-east-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17930,16 +21110,59 @@ window.ATLASDATA={
    "source_url": "https://ars.electronica.art/festival/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.3098861,
+   "lng": 14.2845997,
+   "precise": true,
    "category": "arts",
    "topics": [
     "media art",
     "technology",
     "digital arts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ars-electronica-2027-1.jpg",
+     "thumb": "img/events/ars-electronica-2027-1-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2026/09/samsara.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ars-electronica-2027-2.jpg",
+     "thumb": "img/events/ars-electronica-2027-2-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2022/12/cryptid-edited-1600x1000.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ars-electronica-2027-3.jpg",
+     "thumb": "img/events/ars-electronica-2027-3-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2022/12/52342687096_7d582640d6_k-750x1000.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ars-electronica-2027-4.jpg",
+     "thumb": "img/events/ars-electronica-2027-4-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2022/12/52341112413_680da95c9d_k-edited.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ars-electronica-2027-5.jpg",
+     "thumb": "img/events/ars-electronica-2027-5-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2023/03/52340622161_b81c9e7509_k-1499x1000.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ars-electronica-2027-6.jpg",
+     "thumb": "img/events/ars-electronica-2027-6-t.jpg",
+     "orig": "https://ars.electronica.art/festival/files/2022/12/intherain.jpg",
+     "page": "https://ars.electronica.art/festival/en/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -17955,7 +21178,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Ars Electronica Center, 2, Hauptstraße, Alt-Urfahr, Harbach, Urfahr, Linz, Oberösterreich, 4040, Österreich (query: Ars Electronica Center, Linz, Austria).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -18221,7 +21444,50 @@ window.ATLASDATA={
    "topics": [
     "Food"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ism-2027-1.jpg",
+     "thumb": "img/events/ism-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/vbhn2a1x/ism2023-google-permaxres-images_1200x12008.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ism-2027-2.jpg",
+     "thumb": "img/events/ism-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/4gydfcos/ism2023-google-permaxres-images_1200x12007.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ism-2027-3.jpg",
+     "thumb": "img/events/ism-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/q5yay4pe/ism2023-google-permaxres-images_1200x12006.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ism-2027-4.jpg",
+     "thumb": "img/events/ism-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/rnpdwk5y/ism2023-google-permaxres-images_1200x12005.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ism-2027-5.jpg",
+     "thumb": "img/events/ism-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/0x3frvry/ism2023-google-permaxres-images_1200x12004.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ism-2027-6.jpg",
+     "thumb": "img/events/ism-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/vueft30w/ism2023-google-permaxres-images_1200x12003.png",
+     "page": "https://www.dwtc.com/en/events/ism-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -18277,7 +21543,43 @@ window.ATLASDATA={
    "topics": [
     "Food"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/private-label-2027-1.jpg",
+     "thumb": "img/events/private-label-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/u2rhgbqu/dx3_1041.jpg",
+     "page": "https://www.dwtc.com/en/events/private-label-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/private-label-2027-2.jpg",
+     "thumb": "img/events/private-label-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/qgud4hes/_al_7462.jpg",
+     "page": "https://www.dwtc.com/en/events/private-label-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/private-label-2027-3.jpg",
+     "thumb": "img/events/private-label-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/cgtljfcy/_r3_3184.jpg",
+     "page": "https://www.dwtc.com/en/events/private-label-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/private-label-2027-4.jpg",
+     "thumb": "img/events/private-label-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/coqexvxm/art_1640.jpg",
+     "page": "https://www.dwtc.com/en/events/private-label-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/private-label-2027-5.jpg",
+     "thumb": "img/events/private-label-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/z0pd0kkc/_r3_9941.jpg",
+     "page": "https://www.dwtc.com/en/events/private-label-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -18392,16 +21694,59 @@ window.ATLASDATA={
    "source_url": "https://www.oktoberfest.de/en",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": "192nd Oktoberfest. Official key facts: Saturday 18 September to Sunday 3 October 2027. First tap Saturday 18 September at 12 noon in the Schottenhamel tent (muenchen.de).",
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.135672,
+   "lng": 11.5522316,
+   "precise": true,
    "category": "culture",
    "topics": [
     "folk festival",
     "beer",
     "Bavaria"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/oktoberfest-munich-2027-1.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-1-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/facebook/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg?h=0f8e848e",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oktoberfest-munich-2027-2.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-2-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/intro_full_width/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg.webp",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oktoberfest-munich-2027-3.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-3-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/aspect_ratio_1_1_w1008/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg?h=0f8e848e",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oktoberfest-munich-2027-4.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-4-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w520/public/2023-10/wiesnhero_1200x900.jpg?h=e8e56e48",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oktoberfest-munich-2027-5.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-5-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w1216/public/2023-10/wiesnhero_1200x900.jpg?h=e8e56e48",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/oktoberfest-munich-2027-6.jpg",
+     "thumb": "img/events/oktoberfest-munich-2027-6-t.jpg",
+     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w520/public/2026-10/mr_b3a8930.jpg?h=9855f42d",
+     "page": "https://www.oktoberfest.de/en",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -18427,7 +21772,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": "2026-11-23",
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Theresienwiese, Sankt-Pauls-Platz, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland (query: Theresienwiese, Munich, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -18605,7 +21950,15 @@ window.ATLASDATA={
    "topics": [
     "Industrial and Manufacturing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/middle-east-composites-advanced-materials-expo-2027-1.jpg",
+     "thumb": "img/events/middle-east-composites-advanced-materials-expo-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -18661,7 +22014,15 @@ window.ATLASDATA={
    "topics": [
     "Industrial and Manufacturing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/middle-east-foam-polyurethane-adhesives-sealants-and-bonding-expo-2027-1.jpg",
+     "thumb": "img/events/middle-east-foam-polyurethane-adhesives-sealants-and-bonding-expo-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -18773,7 +22134,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sleep-expo-2027-1.jpg",
+     "thumb": "img/events/sleep-expo-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -19074,16 +22443,59 @@ window.ATLASDATA={
    "source_url": "https://www.cannstatter-volksfest.de/en/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.7970974,
+   "lng": 9.2170996,
+   "precise": true,
    "category": "culture",
    "topics": [
     "folk festival",
     "beer",
     "funfair"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/cannstatter-volksfest-2027-1.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-1-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/7/8/csm_128_-_20230506111302_R62_9640_fb0dc12b17.jpg",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cannstatter-volksfest-2027-2.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-2-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/7/e/csm_17_09_22_Fassanstisch_172._Cannstatter_Volksfest_DDC_Thomas_Niedermueller_420ce1b23c.jpeg",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cannstatter-volksfest-2027-3.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-3-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/4/7/csm_24p_WASEN23_0495_93218609be.jpg",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cannstatter-volksfest-2027-4.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-4-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/8/e/csm_Wasen-Shop_854d03b15a.png",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cannstatter-volksfest-2027-5.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-5-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/f/a/csm_1_1_Onlinegrafik_inStuttgart_Winter2026_9b566ba87d.jpg",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cannstatter-volksfest-2027-6.jpg",
+     "thumb": "img/events/cannstatter-volksfest-2027-6-t.jpg",
+     "orig": "https://www.cannstatter-volksfest.de/fileadmin/_processed_/1/8/csm_Volksfest2026_Festplatz_Fruchtsaeule_Foto_in.Stuttgart_ThomasNiedermueller_fd7a6c7a66.jpg",
+     "page": "https://www.cannstatter-volksfest.de/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -19099,7 +22511,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Cannstatter Wasen, Wasen, Bad Cannstatt, Stuttgart, Baden-Württemberg, Deutschland (query: Cannstatter Wasen, Stuttgart, Germany).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -19248,7 +22660,15 @@ window.ATLASDATA={
    "topics": [
     "Paper"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/paperworld-middle-east-gifts-lifestyle-middle-east-2027-1.jpg",
+     "thumb": "img/events/paperworld-middle-east-gifts-lifestyle-middle-east-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -19304,7 +22724,36 @@ window.ATLASDATA={
    "topics": [
     "business"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ruya-careers-uae-2027-1.jpg",
+     "thumb": "img/events/ruya-careers-uae-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/5vclpd0a/1.png",
+     "page": "https://www.dwtc.com/en/events/ruya-careers-uae-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ruya-careers-uae-2027-2.jpg",
+     "thumb": "img/events/ruya-careers-uae-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/s2ypelkz/3.png",
+     "page": "https://www.dwtc.com/en/events/ruya-careers-uae-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ruya-careers-uae-2027-3.jpg",
+     "thumb": "img/events/ruya-careers-uae-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/apul5wpe/2.png",
+     "page": "https://www.dwtc.com/en/events/ruya-careers-uae-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ruya-careers-uae-2027-4.jpg",
+     "thumb": "img/events/ruya-careers-uae-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/fkqbeysp/5.png",
+     "page": "https://www.dwtc.com/en/events/ruya-careers-uae-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20087,7 +23536,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/baby-kids-expo-2027-1.jpg",
+     "thumb": "img/events/baby-kids-expo-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20144,7 +23601,50 @@ window.ATLASDATA={
     "cosmetics",
     "beauty"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-1.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-2.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-3.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-4.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-5.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/middle-east-cosmetics-show-2027-6.jpg",
+     "thumb": "img/events/middle-east-cosmetics-show-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20200,7 +23700,50 @@ window.ATLASDATA={
    "topics": [
     "education"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sharjah-education-week-2027-1.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-education-week-2027-2.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-education-week-2027-3.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-education-week-2027-4.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-education-week-2027-5.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-education-week-2027-6.jpg",
+     "thumb": "img/events/sharjah-education-week-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20322,7 +23865,50 @@ window.ATLASDATA={
     "crypto",
     "digital assets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/the-forex-expo-2027-1.jpg",
+     "thumb": "img/events/the-forex-expo-2027-1-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/oxcg2m4l/fed-photo-3.jpg",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/the-forex-expo-2027-2.jpg",
+     "thumb": "img/events/the-forex-expo-2027-2-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/uhaj5ynn/fed-photo-1.jpg",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/the-forex-expo-2027-3.jpg",
+     "thumb": "img/events/the-forex-expo-2027-3-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/vullapdc/forexexpo.jpg",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/the-forex-expo-2027-4.jpg",
+     "thumb": "img/events/the-forex-expo-2027-4-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/w4nkamic/previous-event-images-dwtc_img-03.jpg",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/the-forex-expo-2027-5.jpg",
+     "thumb": "img/events/the-forex-expo-2027-5-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/tjunxejn/img-1.png",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/the-forex-expo-2027-6.jpg",
+     "thumb": "img/events/the-forex-expo-2027-6-t.jpg",
+     "orig": "https://media.umbraco.io/dwtc-new/cd2fkbh4/img-5.png",
+     "page": "https://www.dwtc.com/en/events/the-forex-expo-2027/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20438,7 +24024,15 @@ window.ATLASDATA={
     "cosmetics",
     "personal care"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/beautyworld-dubai-2027-1.jpg",
+     "thumb": "img/events/beautyworld-dubai-2027-1-t.jpg",
+     "orig": "https://beautyworld-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/beautyworld-dubai/2027/stage/large/awards-winners.jpg",
+     "page": "https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20768,7 +24362,15 @@ window.ATLASDATA={
    "topics": [
     "Consumer Goods"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/euroshop-middle-east-2027-1.jpg",
+     "thumb": "img/events/euroshop-middle-east-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20817,15 +24419,44 @@ window.ATLASDATA={
    "source_url": "https://www.salon-du-chocolat.com/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
-   "precise": false,
+   "lat": 48.8287212,
+   "lng": 2.2889813,
+   "precise": true,
    "category": "food",
    "topics": [
     "chocolate",
     "food fair"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/salon-du-chocolat-paris-2027-1.jpg",
+     "thumb": "img/events/salon-du-chocolat-paris-2027-1-t.jpg",
+     "orig": "https://www.salon-du-chocolat.com/-/media/Project/Comexposium-Master1/Master1-Chocolat/_banner-paris/patisserie-jordan-talbot.jpg?rev=90fd6253cda14e89b2573d93b97c7f93&w=2000&hash=7C9DBFB7BC7E82416579F493F725A7FE",
+     "page": "https://www.salon-du-chocolat.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salon-du-chocolat-paris-2027-2.jpg",
+     "thumb": "img/events/salon-du-chocolat-paris-2027-2-t.jpg",
+     "orig": "https://www.salon-du-chocolat.com/-/media/Project/Comexposium-Master1/Master1-Chocolat/home-globale/bann-matiere-chocolat.jpg?rev=f44f663ba05c462eaaa6b433d181c563&w=2000&hash=763908184DB228EBEDD4D6CABA828960",
+     "page": "https://www.salon-du-chocolat.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salon-du-chocolat-paris-2027-3.jpg",
+     "thumb": "img/events/salon-du-chocolat-paris-2027-3-t.jpg",
+     "orig": "https://www.salon-du-chocolat.com/-/media/Project/Comexposium-Master1/Master1-Chocolat/home-globale/Pastry-Show_24-Nina-Metayer-et-Jeffrey-Cagnes_0024-icb.jpg?rev=6b9edffb911546e5b3e6b0c6b8863bd5&w=685&hash=8B20D3C2760F2E171353B19E3A0BE07A",
+     "page": "https://www.salon-du-chocolat.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/salon-du-chocolat-paris-2027-4.jpg",
+     "thumb": "img/events/salon-du-chocolat-paris-2027-4-t.jpg",
+     "orig": "https://www.salon-du-chocolat.com/-/media/Project/Comexposium-Master1/Master1-Chocolat/home-globale/show-musical-salon-du-chocolat.jpg?rev=4c120f04f40f4d4d8a950a5725b4fe97&w=685&hash=F9B2331785AB1F00945F2AA38B305029",
+     "page": "https://www.salon-du-chocolat.com/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20841,7 +24472,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Paris Expo Porte de Versailles, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France (query: Paris Expo Porte de Versailles, Paris, France).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -20891,7 +24522,29 @@ window.ATLASDATA={
     "energy",
     "decarbonisation"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/adipec-2027-1.jpg",
+     "thumb": "img/events/adipec-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/adipec-2027-2.jpg",
+     "thumb": "img/events/adipec-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/adipec-2027-3.jpg",
+     "thumb": "img/events/adipec-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -20949,7 +24602,50 @@ window.ATLASDATA={
     "packaging",
     "manufacturing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gulfood-manufacturing-2027-1.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-manufacturing-2027-2.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-manufacturing-2027-3.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-manufacturing-2027-4.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-manufacturing-2027-5.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gulfood-manufacturing-2027-6.jpg",
+     "thumb": "img/events/gulfood-manufacturing-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21006,7 +24702,50 @@ window.ATLASDATA={
     "books",
     "publishing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-1.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-2.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-3.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-4.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-5.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/sharjah-international-book-fair-2027-6.jpg",
+     "thumb": "img/events/sharjah-international-book-fair-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21328,7 +25067,43 @@ window.ATLASDATA={
     "automotive aftermarket",
     "mobility"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/automechanika-dubai-2027-1.jpg",
+     "thumb": "img/events/automechanika-dubai-2027-1-t.jpg",
+     "orig": "https://automechanika-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/automechanika-dubai/2025/gallery-2025/business-general/large-crowd-2048x13651.png",
+     "page": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/automechanika-dubai-2027-2.jpg",
+     "thumb": "img/events/automechanika-dubai-2027-2-t.jpg",
+     "orig": "https://automechanika-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/automechanika-dubai/2025/gallery-2025/business-general/business-2048x13654.png",
+     "page": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/automechanika-dubai-2027-3.jpg",
+     "thumb": "img/events/automechanika-dubai-2027-3-t.jpg",
+     "orig": "https://automechanika-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/automechanika-dubai/2025/gallery-2025/press/business-2048x136578.png",
+     "page": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/automechanika-dubai-2027-4.jpg",
+     "thumb": "img/events/automechanika-dubai-2027-4-t.jpg",
+     "orig": "https://automechanika-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/automechanika-dubai/2025/gallery-2025/press/cv-2048x1365-8.png",
+     "page": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    },
+    {
+     "src": "img/events/automechanika-dubai-2027-5.jpg",
+     "thumb": "img/events/automechanika-dubai-2027-5-t.jpg",
+     "orig": "https://automechanika-dubai.ae.messefrankfurt.com/content/dam/messefrankfurt-dubai/automechanika-dubai/2025/gallery-2025/business-general/business-2048x136516.png",
+     "page": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21377,15 +25152,58 @@ window.ATLASDATA={
    "source_url": "https://icelandairwaves.is/",
    "last_scraped_at": "2026-11-23T18:45:00+01:00",
    "notes": null,
-   "lat": null,
-   "lng": null,
+   "lat": 64.145981,
+   "lng": -21.9422367,
    "precise": false,
    "category": "music",
    "topics": [
     "indie",
     "showcase festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/iceland-airwaves-2027-1.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-1-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2025/10/Soaking-at-SkyLagoon2-scaled-e1760108267236-1024x1024.jpg",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iceland-airwaves-2027-2.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-2-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2026/06/Conference-header-simple-1024x576.png",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iceland-airwaves-2027-3.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-3-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2026/09/Website-SQ-3rd-Wave-1024x1024.png",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iceland-airwaves-2027-4.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-4-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2022/11/nmelele.png",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iceland-airwaves-2027-5.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-5-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2022/11/clash.png",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/iceland-airwaves-2027-6.jpg",
+     "thumb": "img/events/iceland-airwaves-2027-6-t.jpg",
+     "orig": "https://icelandairwaves.is/wp-content/uploads/2026/03/Ontwerp-zonder-titel-9.png",
+     "page": "https://icelandairwaves.is/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21396,7 +25214,7 @@ window.ATLASDATA={
    "status": "upcoming",
    "kind": "festival",
    "price_checked_at": null,
-   "geo_note": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Reykjavíkurborg, Höfuðborgarsvæðið, Ísland (query: Reykjavík, Iceland).",
    "lineup_url": null,
    "source_accessed_at": "2026-11-23T18:45:00+01:00",
    "x_handle": null,
@@ -21447,7 +25265,43 @@ window.ATLASDATA={
     "defence",
     "space"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dubai-airshow-2027-1.jpg",
+     "thumb": "img/events/dubai-airshow-2027-1-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/das25-gallery-1-e0e72a674676cff707a7e79d2105831a.webp?auto=format&amp;fit=max",
+     "page": "https://www.dubaiairshow.aero/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-airshow-2027-2.jpg",
+     "thumb": "img/events/dubai-airshow-2027-2-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/das25-gallery-2-7ddd704f9413ea116d3eff89886de57e.jpeg?auto=format&amp;fit=max",
+     "page": "https://www.dubaiairshow.aero/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-airshow-2027-3.jpg",
+     "thumb": "img/events/dubai-airshow-2027-3-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/das25-gallery-3-897b658cd760fd9aaa7d247e830535e9.webp?auto=format&amp;fit=max",
+     "page": "https://www.dubaiairshow.aero/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-airshow-2027-4.jpg",
+     "thumb": "img/events/dubai-airshow-2027-4-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/das25-gallery-5-6c68dc9fecb8af582c73f6834b95c544.webp?auto=format&amp;fit=max",
+     "page": "https://www.dubaiairshow.aero/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-airshow-2027-5.jpg",
+     "thumb": "img/events/dubai-airshow-2027-5-t.jpg",
+     "orig": "https://knect365.imgix.net/uploads/das25-gallery-4-a5edddd54fd4fb171ccedc4bf45ecdbd.webp?auto=format&amp;fit=max",
+     "page": "https://www.dubaiairshow.aero/",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21564,7 +25418,50 @@ window.ATLASDATA={
     "innovation",
     "policy"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/dubai-future-week-2027-1.jpg",
+     "thumb": "img/events/dubai-future-week-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-future-week-2027-2.jpg",
+     "thumb": "img/events/dubai-future-week-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-future-week-2027-3.jpg",
+     "thumb": "img/events/dubai-future-week-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-future-week-2027-4.jpg",
+     "thumb": "img/events/dubai-future-week-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-future-week-2027-5.jpg",
+     "thumb": "img/events/dubai-future-week-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dubai-future-week-2027-6.jpg",
+     "thumb": "img/events/dubai-future-week-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21622,7 +25519,50 @@ window.ATLASDATA={
     "electric vehicles",
     "automotive"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-1.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-2.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-3.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-4.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-5.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/evolve-future-mobility-show-2027-6.jpg",
+     "thumb": "img/events/evolve-future-mobility-show-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21679,7 +25619,50 @@ window.ATLASDATA={
     "coatings",
     "surface technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/surfex-2027-1.jpg",
+     "thumb": "img/events/surfex-2027-1-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2027-2.jpg",
+     "thumb": "img/events/surfex-2027-2-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2027-3.jpg",
+     "thumb": "img/events/surfex-2027-3-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2027-4.jpg",
+     "thumb": "img/events/surfex-2027-4-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2027-5.jpg",
+     "thumb": "img/events/surfex-2027-5-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    },
+    {
+     "src": "img/events/surfex-2027-6.jpg",
+     "thumb": "img/events/surfex-2027-6-t.jpg",
+     "orig": "",
+     "page": "",
+     "credit": ""
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21700,13 +25683,6025 @@ window.ATLASDATA={
    "price_eur_max": null,
    "has_price": false,
    "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-ade-2027",
+   "slug": "ade-2027",
+   "name": "Amsterdam Dance Event 2027",
+   "website_url": "https://www.amsterdam-dance-event.nl/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Amsterdam Dance Event",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.amsterdam-dance-event.nl/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site offered pre-registration for ADE 2027 after the 2026 edition. The homepage still showed '21–––25/10' without a 2027 year, so those days were not stored as 2027 dates.",
+   "lat": 52.3730796,
+   "lng": 4.8924534,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "conference",
+    "club festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.amsterdam-dance-event.nl/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Amsterdam, Noord-Holland, Nederland (query: Amsterdam, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "ADE 2027 is officially acknowledged (pre-registration) but 2027 dates were not clearly announced on the official homepage fetched 23 Nov 2026.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "ade-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-awakenings-festival-2027",
+   "slug": "awakenings-festival-2027",
+   "name": "Awakenings Festival 2027",
+   "website_url": "https://awakenings.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Hilvarenbeek",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": "Beekse Bergen, Hilvarenbeek",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Awakenings",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://awakenings.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 51.5250552,
+   "lng": 5.1197983,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "techno",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/awakenings-festival-2027-5.jpg",
+     "thumb": "img/events/awakenings-festival-2027-5-t.jpg",
+     "orig": "https://assets.awakenings.com/images/transforms/homepage/_682x484_crop_center-center_none/Screenshot-2026-07-13-at-12.12.41.png",
+     "page": "https://awakenings.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/awakenings-festival-2027-6.jpg",
+     "thumb": "img/events/awakenings-festival-2027-6-t.jpg",
+     "orig": "https://assets.awakenings.com/images/transforms/homepage/_682x484_crop_center-center_none/2026-05-16-Awakenings-UPCLOSE-Stef-van-Oosterhout-live-97.jpg",
+     "page": "https://awakenings.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://awakenings.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Beekse Bergen, Hilvarenbeek, Noord-Brabant, Nederland, 5081 NJ, Nederland (query: Beekse Bergen, Hilvarenbeek, Hilvarenbeek, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "awakenings-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-bbc-proms-2027",
+   "slug": "bbc-proms-2027",
+   "name": "BBC Proms 2027",
+   "website_url": "https://www.bbc.co.uk/proms",
+   "start_date": null,
+   "end_date": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Royal Albert Hall, London",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "BBC",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.bbc.co.uk/proms",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 51.501007,
+   "lng": -0.1774058,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "classical music",
+    "concert series"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.bbc.co.uk/proms",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Royal Albert Hall, 4, Kensington Gore, Knightsbridge, City of Westminster, Greater London, England, SW7 2AP, United Kingdom (query: Royal Albert Hall, London, London, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "bbc-proms-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-balaton-sound-2027",
+   "slug": "balaton-sound-2027",
+   "name": "Balaton Sound 2027",
+   "website_url": "https://balatonsound.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Zamárdi",
+   "country": "Hungary",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Sziget Cultural Management / Balaton Sound",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://balatonsound.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 46.880099,
+   "lng": 17.9459459,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "beach festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/balaton-sound-2027-1.jpg",
+     "thumb": "img/events/balaton-sound-2027-1-t.jpg",
+     "orig": "https://balatonsound.com/wp-content/uploads/2024/07/day2_0020_attilagunduz_20240704_2211__AG68648.jpg",
+     "page": "https://balatonsound.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/balaton-sound-2027-2.jpg",
+     "thumb": "img/events/balaton-sound-2027-2-t.jpg",
+     "orig": "https://balatonsound.com/wp-content/uploads/2024/02/marksomay_20230630_1857_DSC7205-1-scaled.jpg",
+     "page": "https://balatonsound.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://balatonsound.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Zamárdi, Siófoki járás, Somogy megye, Dunántúl, 8621, Magyarország (query: Zamárdi, Hungary).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "balaton-sound-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-basel-fasnacht-2027",
+   "slug": "basel-fasnacht-2027",
+   "name": "Basel Fasnacht 2027",
+   "website_url": "https://www.fasnacht.ch/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Basel",
+   "country": "Switzerland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Comité Central Fasnacht (CCF)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.fasnacht.ch/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 47.5581077,
+   "lng": 7.5878261,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "carnival",
+    "Fasnacht"
+   ],
+   "photos": [
+    {
+     "src": "img/events/basel-fasnacht-2027-2.jpg",
+     "thumb": "img/events/basel-fasnacht-2027-2-t.jpg",
+     "orig": "https://fasnacht.ch/wp-content/uploads/2026/01/DSC_3016-1200x630.jpg",
+     "page": "https://www.fasnacht.ch/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/basel-fasnacht-2027-3.jpg",
+     "thumb": "img/events/basel-fasnacht-2027-3-t.jpg",
+     "orig": "https://fasnacht.ch/wp-content/uploads/2026/02/DSC_6547-600x300.jpg",
+     "page": "https://www.fasnacht.ch/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/basel-fasnacht-2027-4.jpg",
+     "thumb": "img/events/basel-fasnacht-2027-4-t.jpg",
+     "orig": "https://fasnacht.ch/wp-content/uploads/2026/11/glaeggs-3-600x300.jpeg",
+     "page": "https://www.fasnacht.ch/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/basel-fasnacht-2027-5.jpg",
+     "thumb": "img/events/basel-fasnacht-2027-5-t.jpg",
+     "orig": "https://fasnacht.ch/wp-content/uploads/2011/11/kellergut.jpg",
+     "page": "https://www.fasnacht.ch/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/basel-fasnacht-2027-6.jpg",
+     "thumb": "img/events/basel-fasnacht-2027-6-t.jpg",
+     "orig": "https://fasnacht.ch/wp-content/uploads/2025/11/DSC_1147-600x300.jpg",
+     "page": "https://www.fasnacht.ch/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.fasnacht.ch/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Basel, Basel-Stadt, Schweiz / Suisse / Svizzera / Svizra (query: Basel, Switzerland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "basel-fasnacht-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-bayreuth-2027",
+   "slug": "bayreuth-2027",
+   "name": "Bayreuth Festival 2027",
+   "website_url": "https://www.bayreuther-festspiele.de/en/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Bayreuth",
+   "country": "Germany",
+   "region": "europe",
+   "venue": "Festspielhaus Bayreuth",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Bayreuther Festspiele",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.bayreuther-festspiele.de/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 49.9599081,
+   "lng": 11.5796605,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "opera",
+    "Wagner"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.bayreuther-festspiele.de/en/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Festspielhaus, 1-2, Festspielhügel, Bürgerreuth, Festspielhügel, Grüner Baum, Bayreuth, Bayern, 95445, Deutschland (query: Festspielhaus Bayreuth, Bayreuth, Germany).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "bayreuth-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-best-kept-secret-2027",
+   "slug": "best-kept-secret-2027",
+   "name": "Best Kept Secret 2027",
+   "website_url": "https://bestkeptsecret.nl/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Hilvarenbeek",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": "Beekse Bergen",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Best Kept Secret",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://bestkeptsecret.nl/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 51.5250552,
+   "lng": 5.1197983,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "rock"
+   ],
+   "photos": [
+    {
+     "src": "img/events/best-kept-secret-2027-1.jpg",
+     "thumb": "img/events/best-kept-secret-2027-1-t.jpg",
+     "orig": "https://www.bestkeptsecret.nl/media/cache/ogimage/upload/media/default/b827/8d/a08b922df0628b9f9e296e2ebaaee7f9464b33dd.jpg",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/best-kept-secret-2027-2.jpg",
+     "thumb": "img/events/best-kept-secret-2027-2-t.jpg",
+     "orig": "https://bestkeptsecret.nl/assets/website/images/menu.cbe69627.webp",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/best-kept-secret-2027-3.jpg",
+     "thumb": "img/events/best-kept-secret-2027-3-t.jpg",
+     "orig": "https://www.bestkeptsecret.nl/media/cache/default_promo_header/upload/media/default/0178/1f/62bc1f3ebfbe0fbaa9d33ca96bcbaf21bd15e687.jpg",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/best-kept-secret-2027-4.jpg",
+     "thumb": "img/events/best-kept-secret-2027-4-t.jpg",
+     "orig": "https://www.bestkeptsecret.nl/media/cache/default_act_item/upload/media/default/f1a8/be/9d9d6558808afa137a4e30383c8ef4287de861b9.jpg",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/best-kept-secret-2027-5.jpg",
+     "thumb": "img/events/best-kept-secret-2027-5-t.jpg",
+     "orig": "https://www.bestkeptsecret.nl/media/cache/default_act_item/upload/media/default/7675/fc/8514274c8878ab921ce6dd1f94162c994b9a3fb2.jpg",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/best-kept-secret-2027-6.jpg",
+     "thumb": "img/events/best-kept-secret-2027-6-t.jpg",
+     "orig": "https://www.bestkeptsecret.nl/media/cache/default_act_item/upload/media/default/c605/11/eb03c5ed8a4e2bc2d916438f0ce8aae1657e9eea.jpg",
+     "page": "https://bestkeptsecret.nl/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://bestkeptsecret.nl/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Beekse Bergen, Hilvarenbeek, Noord-Brabant, Nederland, 5081 NV, Nederland (query: Beekse Bergen, Hilvarenbeek, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "best-kept-secret-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-bbk-live-2027",
+   "slug": "bbk-live-2027",
+   "name": "Bilbao BBK Live 2027",
+   "website_url": "https://bilbaobbklive.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Bilbao",
+   "country": "Spain",
+   "region": "europe",
+   "venue": "Kobetamendi, Bilbao",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Last.fm / Last Tour / BBK Live",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://bilbaobbklive.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 43.2583554,
+   "lng": -2.9635148,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "rock",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/bbk-live-2027-4.jpg",
+     "thumb": "img/events/bbk-live-2027-4-t.jpg",
+     "orig": "https://bilbaobbklive.com/wp-content/uploads/2024/02/BBL22_Camping-1.jpg",
+     "page": "https://bilbaobbklive.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bbk-live-2027-6.jpg",
+     "thumb": "img/events/bbk-live-2027-6-t.jpg",
+     "orig": "https://bilbaobbklive.com/wp-content/uploads/2024/12/BB24_CAMPING_MAITANE-096-scaled.jpg",
+     "page": "https://bilbaobbklive.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://bilbaobbklive.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Kobetamendi parkea, Basurtu-Zorrotza, Bilbao, Bizkaia, Euskadi, España (query: Kobetamendi, Bilbao, Bilbao, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "bbk-live-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-boardmasters-2027",
+   "slug": "boardmasters-2027",
+   "name": "Boardmasters 2027",
+   "website_url": "https://www.boardmasters.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Newquay",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Boardmasters",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.boardmasters.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 50.4134414,
+   "lng": -5.0848836,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "surf",
+    "pop",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/boardmasters-2027-3.jpg",
+     "thumb": "img/events/boardmasters-2027-3-t.jpg",
+     "orig": "https://boardmasters.com/wp-content/uploads/2026/11/102970050005_RT-2-760x626.jpg",
+     "page": "https://www.boardmasters.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/boardmasters-2027-4.jpg",
+     "thumb": "img/events/boardmasters-2027-4-t.jpg",
+     "orig": "https://boardmasters.com/wp-content/uploads/2026/10/260808_BOARDMASTERS_2026_DaisyDenham_@daisydenham_@khromacollective-7122-Web-2-760x1140.jpeg",
+     "page": "https://www.boardmasters.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/boardmasters-2027-5.jpg",
+     "thumb": "img/events/boardmasters-2027-5-t.jpg",
+     "orig": "https://boardmasters.com/wp-content/uploads/2026/10/260805_BOARDMASTERS_2026_JakeDavis_@jakephilipdavis_@khromacollective-0268-Web-760x1140.jpeg",
+     "page": "https://www.boardmasters.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/boardmasters-2027-6.jpg",
+     "thumb": "img/events/boardmasters-2027-6-t.jpg",
+     "orig": "https://boardmasters.com/wp-content/uploads/2026/10/260806_BOARDMASTERS_RobJones_@hirobjones_@khromacollective-0X6A5678-Web-760x507.jpeg",
+     "page": "https://www.boardmasters.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.boardmasters.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Newquay, Kernow / Cornwall, England, United Kingdom (query: Newquay, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "boardmasters-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-boom-festival-2027",
+   "slug": "boom-festival-2027",
+   "name": "Boom Festival 2027",
+   "website_url": "https://www.boomfestival.org/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Idanha-a-Nova",
+   "country": "Portugal",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Boom Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.boomfestival.org/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 39.9260883,
+   "lng": -7.2436356,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "psytrance",
+    "transformational",
+    "art"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.boomfestival.org/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Idanha-a-Nova, Castelo Branco, Portugal (query: Idanha-a-Nova, Portugal).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "boom-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-tenerife-carnival-2027",
+   "slug": "tenerife-carnival-2027",
+   "name": "Carnival of Santa Cruz de Tenerife 2027",
+   "website_url": "https://www.carnavaldetenerife.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Santa Cruz de Tenerife",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Ayuntamiento de Santa Cruz de Tenerife",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.carnavaldetenerife.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 28.467178,
+   "lng": -16.2507843,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "carnival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/tenerife-carnival-2027-1.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-1-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2025/01/N3A3825-scaled-uai-2064x1377_11zon.webp",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tenerife-carnival-2027-2.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-2-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2025/02/Cuadra-del-Palmero.jpg",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tenerife-carnival-2027-3.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-3-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-comienza-las-visitas-institucionales-a-los-grupos-y-colectivos-del-carnaval-uai-1280x1280.jpg",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tenerife-carnival-2027-4.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-4-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-ya-tiene-cartel-del-carnaval-2027-el-legado-de-un-imperio-de-nareme-melian-uai-1280x1280.jpg",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tenerife-carnival-2027-5.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-5-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-dara-a-conocer-este-viernes-el-cartel-del-carnaval-2027-en-la-plaza-del-principe-uai-853x853.jpg",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/tenerife-carnival-2027-6.jpg",
+     "thumb": "img/events/tenerife-carnival-2027-6-t.jpg",
+     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-comienza-las-visitas-institucionales-a-los-grupos-y-colectivos-del-carnaval.jpg",
+     "page": "https://www.carnavaldetenerife.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.carnavaldetenerife.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Santa Cruz de Tenerife, Canarias, España (query: Santa Cruz de Tenerife, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "tenerife-carnival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-cologne-carnival-2027",
+   "slug": "cologne-carnival-2027",
+   "name": "Cologne Carnival 2027",
+   "website_url": "https://www.koelnerkarneval.de/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Cologne",
+   "country": "Germany",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Festkomitee Kölner Karneval",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.koelnerkarneval.de/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 50.938361,
+   "lng": 6.959974,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "carnival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/cologne-carnival-2027-1.jpg",
+     "thumb": "img/events/cologne-carnival-2027-1-t.jpg",
+     "orig": "https://koelnerkarneval.de/fileadmin/_processed_/3/1/csm_2027_FK-Mottologo_181ce20072.png",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cologne-carnival-2027-2.jpg",
+     "thumb": "img/events/cologne-carnival-2027-2-t.jpg",
+     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/f/8/csm_FK_Karnevalsmarkt_1_f6a38f7183.png",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cologne-carnival-2027-3.jpg",
+     "thumb": "img/events/cologne-carnival-2027-3-t.jpg",
+     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/6/4/csm_PM_WGKAMPAGNE_2_3cb5bb8609.png",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cologne-carnival-2027-4.jpg",
+     "thumb": "img/events/cologne-carnival-2027-4-t.jpg",
+     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/9/9/csm_FK_PM-Podcast_8badac304c.png",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cologne-carnival-2027-5.jpg",
+     "thumb": "img/events/cologne-carnival-2027-5-t.jpg",
+     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/f/2/csm_WEBSITE-Men%C3%BC-Inhalte-LK_f9b1fb316d.png",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cologne-carnival-2027-6.jpg",
+     "thumb": "img/events/cologne-carnival-2027-6-t.jpg",
+     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/6/b/csm_FK_Thumbnail_DG_f6b38fe058.jpg",
+     "page": "https://www.koelnerkarneval.de/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.koelnerkarneval.de/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Köln, Nordrhein-Westfalen, Deutschland (query: Cologne, Germany).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "cologne-carnival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-copenhagen-jazz-2027",
+   "slug": "copenhagen-jazz-2027",
+   "name": "Copenhagen Jazz Festival 2027",
+   "website_url": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Copenhagen Jazz Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 55.6867243,
+   "lng": 12.5700724,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "jazz"
+   ],
+   "photos": [
+    {
+     "src": "img/events/copenhagen-jazz-2027-3.jpg",
+     "thumb": "img/events/copenhagen-jazz-2027-3-t.jpg",
+     "orig": "https://jazz.dk/wp-content/uploads/2026/11/747513287_1529188995573175_2670499545984363097_n-3-1466x942.png",
+     "page": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/copenhagen-jazz-2027-4.jpg",
+     "thumb": "img/events/copenhagen-jazz-2027-4-t.jpg",
+     "orig": "https://jazz.dk/wp-content/uploads/2026/09/481342325_1139907227834689_6495415897231980810_n-3-1-1466x942.jpg",
+     "page": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/copenhagen-jazz-2027-5.jpg",
+     "thumb": "img/events/copenhagen-jazz-2027-5-t.jpg",
+     "orig": "https://jazz.dk/wp-content/uploads/2026/10/JL2_Aquapio_-Films_Ltd-1466x942.jpg",
+     "page": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.jazz.dk/en/copenhagen-jazz-festival/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: København, Københavns Kommune, Region Hovedstaden, 1357, Danmark (query: Copenhagen, Denmark).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "copenhagen-jazz-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-defqon1-2027",
+   "slug": "defqon1-2027",
+   "name": "Defqon.1 Weekend Festival 2027",
+   "website_url": "https://defqon1.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Biddinghuizen",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Q-dance",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://defqon1.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 52.4552216,
+   "lng": 5.6921598,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "hardstyle",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/defqon1-2027-1.jpg",
+     "thumb": "img/events/defqon1-2027-1-t.jpg",
+     "orig": "https://cdn.q-dance.com/l6hfsc63q612/4oxwDBXDVUkF52FpDAu4js/8f96c52729df68a657b330e137745006/Defqon.jpg",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/defqon1-2027-2.jpg",
+     "thumb": "img/events/defqon1-2027-2-t.jpg",
+     "orig": "https://q-dance-network-images.akamaized.net/41347/1782996132-260627_224139_delio_201020.jpg?auto=compress&fit=max?w=1200",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/defqon1-2027-3.jpg",
+     "thumb": "img/events/defqon1-2027-3-t.jpg",
+     "orig": "https://q-dance-network-images.akamaized.net/41347/1790689755-260627_181814_delio_200150.jpg?auto=compress&fit=max?w=600",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/defqon1-2027-4.jpg",
+     "thumb": "img/events/defqon1-2027-4-t.jpg",
+     "orig": "https://q-dance-network-images.akamaized.net/41347/1790689701-20260625150918_rutger_r3a_1816.jpg?auto=compress&fit=max?w=600",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/defqon1-2027-5.jpg",
+     "thumb": "img/events/defqon1-2027-5-t.jpg",
+     "orig": "https://q-dance-network-images.akamaized.net/41347/1790689706-20260625152031_rutger_r3b_4251.jpg?auto=compress&fit=max?w=600",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/defqon1-2027-6.jpg",
+     "thumb": "img/events/defqon1-2027-6-t.jpg",
+     "orig": "https://q-dance-network-images.akamaized.net/41347/1790870219-43kdanpl-ck-hd.jpg?auto=compress&fit=max?w=600",
+     "page": "https://defqon1.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://defqon1.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Biddinghuizen, Dronten, Flevoland, Nederland (query: Biddinghuizen, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "defqon1-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-dekmantel-2027",
+   "slug": "dekmantel-2027",
+   "name": "Dekmantel Festival 2027",
+   "website_url": "https://www.dekmantelfestival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Dekmantel",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.dekmantelfestival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 52.3730796,
+   "lng": 4.8924534,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "experimental"
+   ],
+   "photos": [
+    {
+     "src": "img/events/dekmantel-2027-1.jpg",
+     "thumb": "img/events/dekmantel-2027-1-t.jpg",
+     "orig": "https://dekmantelfestival.com/videos/background-poster.jpg",
+     "page": "https://www.dekmantelfestival.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.dekmantelfestival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Amsterdam, Noord-Holland, Nederland (query: Amsterdam, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "dekmantel-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-delta-festival-2027",
+   "slug": "delta-festival-2027",
+   "name": "Delta Festival 2027",
+   "website_url": "https://www.delta-festival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Marseille",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Delta Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.delta-festival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 43.2963986,
+   "lng": 5.3777888,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "hip-hop",
+    "beach festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.delta-festival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France (query: Marseille, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "delta-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-dour-2027",
+   "slug": "dour-2027",
+   "name": "Dour Festival 2027",
+   "website_url": "https://www.dourfestival.eu/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Dour",
+   "country": "Belgium",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Dour Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.dourfestival.eu/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 50.3963781,
+   "lng": 3.7786762,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "indie",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/dour-2027-1.jpg",
+     "thumb": "img/events/dour-2027-1-t.jpg",
+     "orig": "https://www.dourfestival.eu/wp-content/uploads/2025/10/stormzy.jpg",
+     "page": "https://www.dourfestival.eu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dour-2027-2.jpg",
+     "thumb": "img/events/dour-2027-2-t.jpg",
+     "orig": "https://www.dourfestival.eu/wp-content/uploads/2025/08/jupiler2-1024x1024.png",
+     "page": "https://www.dourfestival.eu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dour-2027-3.jpg",
+     "thumb": "img/events/dour-2027-3-t.jpg",
+     "orig": "https://www.dourfestival.eu/wp-content/uploads/2025/08/redbull-1024x1024.png",
+     "page": "https://www.dourfestival.eu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dour-2027-4.jpg",
+     "thumb": "img/events/dour-2027-4-t.jpg",
+     "orig": "https://www.dourfestival.eu/wp-content/uploads/2025/08/coca-cola-1024x1024.png",
+     "page": "https://www.dourfestival.eu/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/dour-2027-5.jpg",
+     "thumb": "img/events/dour-2027-5-t.jpg",
+     "orig": "https://www.dourfestival.eu/wp-content/uploads/2025/08/win-for-life-1024x1024.png",
+     "page": "https://www.dourfestival.eu/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.dourfestival.eu/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Dour, Mons, Hainaut, Wallonie, 7370, België / Belgique / Belgien (query: Dour, Belgium).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "dour-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-exit-2027",
+   "slug": "exit-2027",
+   "name": "EXIT Festival 2027",
+   "website_url": "https://www.exitfest.org/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Novi Sad",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Petrovaradin Fortress, Novi Sad",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "EXIT Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.exitfest.org/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official pages announce 'EXIT 2027 – next year at the fortress / EXIT is coming home' (29 Oct 2026 news). No official 2027 calendar dates were published in the fetched HTML (headers still showed 10–13 July 2025). Dates left blank.",
+   "lat": 45.2521551,
+   "lng": 19.8638279,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "rock",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/exit-2027-2.jpg",
+     "thumb": "img/events/exit-2027-2-t.jpg",
+     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/exit-is-coming-home-750x422.jpg",
+     "page": "https://www.exitfest.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/exit-2027-3.jpg",
+     "thumb": "img/events/exit-2027-3-t.jpg",
+     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/Naslovna-750x500.jpg",
+     "page": "https://www.exitfest.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/exit-2027-4.jpg",
+     "thumb": "img/events/exit-2027-4-t.jpg",
+     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/gala-exit-festival-750x422.jpg",
+     "page": "https://www.exitfest.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/exit-2027-5.jpg",
+     "thumb": "img/events/exit-2027-5-t.jpg",
+     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/Starlight-Festival-1-750x422.jpg",
+     "page": "https://www.exitfest.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/exit-2027-6.jpg",
+     "thumb": "img/events/exit-2027-6-t.jpg",
+     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/Starlight-Festival-750x422.jpg",
+     "page": "https://www.exitfest.org/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.exitfest.org/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.exitfest.org/exit-2027",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.exitfest.org/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Петроварадинска тврђава, Београдска, Подграђе, Стари Мајур, МЗ Петроварадин, Петроварадин, Град Нови Сад, Јужнобачки управни округ, Војводина, 21111, Србија (query: Petrovaradin Fortress, Novi Sad, Serbia).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "A 2027 homecoming at Petrovaradin Fortress is officially announced, but exact 2027 dates were not present on the official pages fetched 23 Nov 2026. Status: dates TBA. Third-party date reports were not used.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "exit-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-edinburgh-international-2027",
+   "slug": "edinburgh-international-2027",
+   "name": "Edinburgh International Festival 2027",
+   "website_url": "https://www.eif.co.uk/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": null,
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Edinburgh International Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.eif.co.uk/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site mentions several 2027 performance dates but did not clearly state a single festival-wide start and end in the fetched HTML. Dates left blank pending a clear official festival window.",
+   "lat": 55.9533456,
+   "lng": -3.1883749,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "performing arts",
+    "classical music",
+    "theatre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/edinburgh-international-2027-2.jpg",
+     "thumb": "img/events/edinburgh-international-2027-2-t.jpg",
+     "orig": "https://edinburgh-festival.transforms.svdcdn.com/production/First-Night-at-The-Hub-11.08.26-c-Tommy-Ga-Ken-Wan-4-2.jpg?w=760&h=460&q=100&auto=format&fit=crop&dm=1795099867&s=92daa97f5823ffb15574a47ce1cef77e",
+     "page": "https://www.eif.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-international-2027-3.jpg",
+     "thumb": "img/events/edinburgh-international-2027-3-t.jpg",
+     "orig": "https://edinburgh-festival.transforms.svdcdn.com/production/Images/2026/Alan-and-Ewan-McGregor.jpeg?w=600&h=360&q=100&auto=format&fit=crop&crop=focalpoint&fp-x=0.5178&fp-y=0.4673&dm=1795003807&s=f7a13ed36cd2f7537d34f5f8bf4f94a1",
+     "page": "https://www.eif.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-international-2027-4.jpg",
+     "thumb": "img/events/edinburgh-international-2027-4-t.jpg",
+     "orig": "https://edinburgh-festival.transforms.svdcdn.com/production/Images/2026/2026-Festival-photography/Together-We-Rise-09.08.2026-c-Tommy-Ga-Ken-Wan-1.jpg?w=600&h=360&q=100&auto=format&fit=crop&dm=1788177220&s=892f14b66814fa906ae7ed5cdcac4773",
+     "page": "https://www.eif.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-international-2027-5.jpg",
+     "thumb": "img/events/edinburgh-international-2027-5-t.jpg",
+     "orig": "https://edinburgh-festival.transforms.svdcdn.com/production/Images/About-us/Home-page/Scottish-Ballet-Calton-Hill_2019_Ryan-Buchanan_1400x933.jpg?w=1920&h=480&q=100&auto=format&fit=crop&crop=focalpoint&fp-x=0.7221&fp-y=0.4179&dm=1703086633&s=b2143aa5b9ff9adb01849fa146eb510f",
+     "page": "https://www.eif.co.uk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/edinburgh-international-2027-6.jpg",
+     "thumb": "img/events/edinburgh-international-2027-6-t.jpg",
+     "orig": "https://edinburgh-festival.transforms.svdcdn.com/production/Images/2027/2027-Event-Images/SB_2026-11-17-172653_ttrf.jpeg?w=1920&h=576&q=100&auto=format&fit=crop&dm=1794936413&s=67bda0b7c7f640594dc7134da8e28916",
+     "page": "https://www.eif.co.uk/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.eif.co.uk/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: City of Edinburgh, Alba / Scotland, United Kingdom (query: Edinburgh, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official site mentions several 2027 performance dates but did not clearly state a single festival-wide start and end in the fetched HTML. Dates left blank pending a clear official festival window.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "edinburgh-international-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-edinburgh-hogmanay-2026",
+   "slug": "edinburgh-hogmanay-2026",
+   "name": "Edinburgh's Hogmanay 2026/27",
+   "website_url": "https://www.edinburghshogmanay.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Unique Assembly / Edinburgh's Hogmanay",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.edinburghshogmanay.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official pages mention events on 29, 30 and 31 December 2026, but a single official festival start/end was not stored as a clean range from the fetched text alone. Re-check the official programme page before publishing dates.",
+   "lat": 55.9533456,
+   "lng": -3.1883749,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "New Year",
+    "street party"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.edinburghshogmanay.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: City of Edinburgh, Alba / Scotland, United Kingdom (query: Edinburgh, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official pages mention events on 29, 30 and 31 December 2026, but a single official festival start/end was not stored as a clean range from the fetched text alone. Re-check the official programme page before publishing dates.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "edinburgh-hogmanay-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-eurockeennes-2027",
+   "slug": "eurockeennes-2027",
+   "name": "Eurockéennes de Belfort 2027",
+   "website_url": "https://www.eurockeennes.fr/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Belfort",
+   "country": "France",
+   "region": "europe",
+   "venue": "Malsaucy, Belfort",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Eurockéennes",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.eurockeennes.fr/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 47.6812788,
+   "lng": 6.8046844,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "rock",
+    "indie"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.eurockeennes.fr/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Malsaucy, Rue du Malsaucy, Bas-Évette, Évette-Salbert, Belfort, Territoire-de-Belfort, Bourgogne-Franche-Comté, France métropolitaine, 90350, France (query: Malsaucy, Belfort, Belfort, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "eurockeennes-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-festival-interceltique-2027",
+   "slug": "festival-interceltique-2027",
+   "name": "Festival Interceltique de Lorient 2027",
+   "website_url": "https://www.festival-interceltique.bzh/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Lorient",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Festival Interceltique de Lorient",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.festival-interceltique.bzh/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 47.7477336,
+   "lng": -3.3660907,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "Celtic",
+    "folk",
+    "world music"
+   ],
+   "photos": [
+    {
+     "src": "img/events/festival-interceltique-2027-5.jpg",
+     "thumb": "img/events/festival-interceltique-2027-5-t.jpg",
+     "orig": "https://www.festival-interceltique.bzh/wp-content/uploads/2026/11/2026-08-10-OFF-12-JM-5-scaled.jpg",
+     "page": "https://www.festival-interceltique.bzh/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-interceltique-2027-6.jpg",
+     "thumb": "img/events/festival-interceltique-2027-6-t.jpg",
+     "orig": "https://www.festival-interceltique.bzh/wp-content/uploads/2026/10/Jack-Fossard-Fete-entre-Celtes-03082014-24-Donal-Lunny-scaled.jpg",
+     "page": "https://www.festival-interceltique.bzh/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.festival-interceltique.bzh/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France (query: Lorient, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "festival-interceltique-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-festival-avignon-2027",
+   "slug": "festival-avignon-2027",
+   "name": "Festival d'Avignon 2027",
+   "website_url": "https://festival-avignon.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Avignon",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Festival d'Avignon",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://festival-avignon.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 43.9492493,
+   "lng": 4.8059012,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "theatre",
+    "performing arts"
+   ],
+   "photos": [
+    {
+     "src": "img/events/festival-avignon-2027-2.jpg",
+     "thumb": "img/events/festival-avignon-2027-2-t.jpg",
+     "orig": "https://festival-avignon.com/storage/image/3/3_6a6767a5ec59b.jpeg",
+     "page": "https://festival-avignon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-avignon-2027-3.jpg",
+     "thumb": "img/events/festival-avignon-2027-3-t.jpg",
+     "orig": "https://festival-avignon.com/storage/image/3/3_6a6767a5e8b84.jpeg",
+     "page": "https://festival-avignon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-avignon-2027-4.jpg",
+     "thumb": "img/events/festival-avignon-2027-4-t.jpg",
+     "orig": "https://festival-avignon.com/storage/image/6/357806_6a673086b1b47.jpeg",
+     "page": "https://festival-avignon.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-avignon-2027-5.jpg",
+     "thumb": "img/events/festival-avignon-2027-5-t.jpg",
+     "orig": "https://festival-avignon.com/storage/image/27/356527_6a1d581c26de9.jpeg",
+     "page": "https://festival-avignon.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://festival-avignon.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84000, France (query: Avignon, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "festival-avignon-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-vieilles-charrues-2027",
+   "slug": "vieilles-charrues-2027",
+   "name": "Festival des Vieilles Charrues 2027",
+   "website_url": "https://www.vieillescharrues.asso.fr/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Carhaix-Plouguer",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Association les Vieilles Charrues",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.vieillescharrues.asso.fr/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 48.2764997,
+   "lng": -3.5711477,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "French festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/vieilles-charrues-2027-2.jpg",
+     "thumb": "img/events/vieilles-charrues-2027-2-t.jpg",
+     "orig": "https://www.vieillescharrues.asso.fr/wp-content/themes/nc/static/img/2027-buisson1.png",
+     "page": "https://www.vieillescharrues.asso.fr/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.vieillescharrues.asso.fr/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Carhaix-Plouguer, Châteaulin, Finistère, Bretagne, France métropolitaine, 29270, France (query: Carhaix-Plouguer, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "vieilles-charrues-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-flow-2027",
+   "slug": "flow-2027",
+   "name": "Flow Festival 2027",
+   "website_url": "https://www.flowfestival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Helsinki",
+   "country": "Finland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Flow Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.flowfestival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 60.1666204,
+   "lng": 24.9435408,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "indie",
+    "electronic",
+    "urban festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/flow-2027-1.jpg",
+     "thumb": "img/events/flow-2027-1-t.jpg",
+     "orig": "https://www.flowfestival.com/assets/images/fb-share.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/flow-2027-2.jpg",
+     "thumb": "img/events/flow-2027-2-t.jpg",
+     "orig": "https://www.flowfestival.com/uploads/2026/11/Flow_Festival_2026_c_Petri_Anttila__KoptercamDJI_20260815222259_0374_D-website-landscape.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/flow-2027-3.jpg",
+     "thumb": "img/events/flow-2027-3-t.jpg",
+     "orig": "https://www.flowfestival.com/uploads/2026/11/website-landscape-Flow_Festival_2026_Saturday_c_Konstantin_Kondrukhov-5244.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/flow-2027-4.jpg",
+     "thumb": "img/events/flow-2027-4-t.jpg",
+     "orig": "https://www.flowfestival.com/uploads/2026/08/etusivu-ebs-640x391.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/flow-2027-5.jpg",
+     "thumb": "img/events/flow-2027-5-t.jpg",
+     "orig": "https://www.flowfestival.com/uploads/2025/06/Flow_Festival_2025_Saturday_c_Konstantin_Kondrukhov_-0652-640x427.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/flow-2027-6.jpg",
+     "thumb": "img/events/flow-2027-6-t.jpg",
+     "orig": "https://www.flowfestival.com/uploads/2026/06/n4ku-ramen-flow-website-landscape-640x360.jpg",
+     "page": "https://www.flowfestival.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.flowfestival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland (query: Helsinki, Finland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "flow-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-fete-des-lumieres-2026",
+   "slug": "fete-des-lumieres-2026",
+   "name": "Fête des Lumières Lyon 2026",
+   "website_url": "https://www.fetedeslumieres.lyon.fr/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Lyon",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Ville de Lyon",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.fetedeslumieres.lyon.fr/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official pages fetched 23 Nov 2026 mentioned 8 December 2026 but did not clearly publish a full official date range in the extractable text. Dates left blank rather than assuming the usual four-night span.",
+   "lat": 45.7578137,
+   "lng": 4.8320114,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "light festival",
+    "art"
+   ],
+   "photos": [
+    {
+     "src": "img/events/fete-des-lumieres-2026-3.jpg",
+     "thumb": "img/events/fete-des-lumieres-2026-3-t.jpg",
+     "orig": "https://www.fetedeslumieres.lyon.fr/sites/fdl/files/2025-12/fdl2025_nouvelle%20vague_gare%20saint%20paul_2.jpg",
+     "page": "https://www.fetedeslumieres.lyon.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fete-des-lumieres-2026-4.jpg",
+     "thumb": "img/events/fete-des-lumieres-2026-4-t.jpg",
+     "orig": "https://www.fetedeslumieres.lyon.fr/sites/fdl/files/2025-12/fdl2025_les%20malles%20persannes_Thierry%20Pierras_quais%20de%20sa%C3%B4ne_2.webp",
+     "page": "https://www.fetedeslumieres.lyon.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fete-des-lumieres-2026-5.jpg",
+     "thumb": "img/events/fete-des-lumieres-2026-5-t.jpg",
+     "orig": "https://www.fetedeslumieres.lyon.fr/sites/fdl/files/2025-12/fdl2025_Lumina_L%C3%A1sz%C3%B3_cath%C3%A9drale%20st%20jean_2.webp",
+     "page": "https://www.fetedeslumieres.lyon.fr/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/fete-des-lumieres-2026-6.jpg",
+     "thumb": "img/events/fete-des-lumieres-2026-6-t.jpg",
+     "orig": "https://www.fetedeslumieres.lyon.fr/sites/fdl/files/2025-12/fdl2025_Skate%20lyon_number%208_place%20louis%20pradel_2.webp",
+     "page": "https://www.fetedeslumieres.lyon.fr/en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.fetedeslumieres.lyon.fr/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France (query: Lyon, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official pages fetched 23 Nov 2026 mentioned 8 December 2026 but did not clearly publish a full official date range in the extractable text. Dates left blank rather than assuming the usual four-night span.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "fete-des-lumieres-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-garorock-2027",
+   "slug": "garorock-2027",
+   "name": "Garorock 2027",
+   "website_url": "https://www.garorock.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Marmande",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Garorock",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.garorock.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 44.5007939,
+   "lng": 0.164274,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "pop",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/garorock-2027-2.jpg",
+     "thumb": "img/events/garorock-2027-2-t.jpg",
+     "orig": "https://www.garorock.com/assets/images/landing-2027/hero-home-01-98hQPrr.avif",
+     "page": "https://www.garorock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/garorock-2027-3.jpg",
+     "thumb": "img/events/garorock-2027-3-t.jpg",
+     "orig": "https://www.garorock.com/assets/images/landing-2027/artistes/placebo-HwRALs_.jpg",
+     "page": "https://www.garorock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/garorock-2027-4.jpg",
+     "thumb": "img/events/garorock-2027-4-t.jpg",
+     "orig": "https://www.garorock.com/assets/images/landing-2027/artistes/angele-9TYAfIT.jpg",
+     "page": "https://www.garorock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/garorock-2027-5.jpg",
+     "thumb": "img/events/garorock-2027-5-t.jpg",
+     "orig": "https://www.garorock.com/assets/images/landing-2027/artistes/vvct-ke_y3ed.jpg",
+     "page": "https://www.garorock.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/garorock-2027-6.jpg",
+     "thumb": "img/events/garorock-2027-6-t.jpg",
+     "orig": "https://www.garorock.com/assets/images/landing-2027/artistes/theodora-Nlsr8Ab.jpg",
+     "page": "https://www.garorock.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.garorock.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Marmande, Lot-et-Garonne, Nouvelle-Aquitaine, France métropolitaine, 47200, France (query: Marmande, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "garorock-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-gentse-feesten-2027",
+   "slug": "gentse-feesten-2027",
+   "name": "Gentse Feesten 2027",
+   "website_url": "https://gentsefeesten.stad.gent/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Ghent",
+   "country": "Belgium",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Stad Gent",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://gentsefeesten.stad.gent/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 51.0538286,
+   "lng": 3.7250121,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "city festival",
+    "music",
+    "street festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/gentse-feesten-2027-1.jpg",
+     "thumb": "img/events/gentse-feesten-2027-1-t.jpg",
+     "orig": "https://gentsefeesten.stad.gent/sites/default/files/styles/news_teaser_large/public/2026-07/Emma%20Ostyn_260722_Dag6_030.jpg?itok=rMZZDLRh",
+     "page": "https://gentsefeesten.stad.gent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gentse-feesten-2027-2.jpg",
+     "thumb": "img/events/gentse-feesten-2027-2-t.jpg",
+     "orig": "https://gentsefeesten.stad.gent/sites/default/files/styles/news_teaser_large/public/2026-07/Emma%20Ostyn_260722_Dag6_010.jpg?itok=7dq7UiTO",
+     "page": "https://gentsefeesten.stad.gent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gentse-feesten-2027-3.jpg",
+     "thumb": "img/events/gentse-feesten-2027-3-t.jpg",
+     "orig": "https://gentsefeesten.stad.gent/sites/default/files/styles/news_teaser_large/public/2026-07/2407_GF_Gianni-Vanlangendonck-03.jpg?itok=qDPGFIaR",
+     "page": "https://gentsefeesten.stad.gent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gentse-feesten-2027-4.jpg",
+     "thumb": "img/events/gentse-feesten-2027-4-t.jpg",
+     "orig": "https://gentsefeesten.stad.gent/modules/custom/gf_core/img/photo_video.jpeg",
+     "page": "https://gentsefeesten.stad.gent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gentse-feesten-2027-5.jpg",
+     "thumb": "img/events/gentse-feesten-2027-5-t.jpg",
+     "orig": "https://visit.gent.be/sites/default/files/styles/social_media/public/img/article/hero/VisitReeks01-DT003520.jpg?itok=gyDyIPBX",
+     "page": "https://visit.gent.be/en/events/ghent-festivities-gentse-feesten",
+     "credit": ""
+    },
+    {
+     "src": "img/events/gentse-feesten-2027-6.jpg",
+     "thumb": "img/events/gentse-feesten-2027-6-t.jpg",
+     "orig": "https://visit.gent.be/sites/default/files/styles/header_mobile/public/img/article/hero/VisitReeks01-DT003520.jpg?itok=JTJQnQNd",
+     "page": "https://visit.gent.be/en/events/ghent-festivities-gentse-feesten",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://gentsefeesten.stad.gent/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Gent, Oost-Vlaanderen, Vlaanderen, België / Belgique / Belgien (query: Ghent, Belgium).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "gentse-feesten-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-glyndebourne-2027",
+   "slug": "glyndebourne-2027",
+   "name": "Glyndebourne Festival 2027",
+   "website_url": "https://www.glyndebourne.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Lewes",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Glyndebourne, East Sussex",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Glyndebourne",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.glyndebourne.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 50.8777566,
+   "lng": 0.0635412,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "opera"
+   ],
+   "photos": [
+    {
+     "src": "img/events/glyndebourne-2027-1.jpg",
+     "thumb": "img/events/glyndebourne-2027-1-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2019/01/28174449/House-2-Lucy-E-1-e1548844584601.jpg?auto=format&q=75",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glyndebourne-2027-2.jpg",
+     "thumb": "img/events/glyndebourne-2027-2-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2024/05/22143654/picnic-green-3-800x589.jpg?auto=format&fit=crop&h=800&q=75&w=800",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glyndebourne-2027-3.jpg",
+     "thumb": "img/events/glyndebourne-2027-3-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2018/08/28173801/161012_0418-butterfly-adj-800x800.jpg?auto=format&fit=crop&h=800&q=75&w=800",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glyndebourne-2027-4.jpg",
+     "thumb": "img/events/glyndebourne-2027-4-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2022/02/22171620/D3S6651-scaled-hp-800x800.jpg?auto=format&fit=crop&h=800&q=75&w=800",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glyndebourne-2027-5.jpg",
+     "thumb": "img/events/glyndebourne-2027-5-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2026/08/27125549/A26-homepage-banner-left.jpg?auto=format&fit=crop&h=656&q=75&w=1920",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/glyndebourne-2027-6.jpg",
+     "thumb": "img/events/glyndebourne-2027-6-t.jpg",
+     "orig": "https://glyndebourne-prod-assets.imgix.net/wp-content/uploads/2026/08/27125559/MBR-homepage-banner-middle.jpg?auto=format&fit=crop&h=656&q=75&w=1920",
+     "page": "https://www.glyndebourne.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.glyndebourne.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Glyndebourne, New Road, Glyndeside Cottages, Glynde, Ringmer, Lewes, East Sussex, England, BN8 5UU, United Kingdom (query: Glyndebourne, East Sussex, Lewes, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "glyndebourne-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-graspop-2027",
+   "slug": "graspop-2027",
+   "name": "Graspop Metal Meeting 2027",
+   "website_url": "https://www.graspop.be/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Dessel",
+   "country": "Belgium",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Graspop Metal Meeting",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.graspop.be/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 51.2390765,
+   "lng": 5.1128221,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "metal"
+   ],
+   "photos": [
+    {
+     "src": "img/events/graspop-2027-2.jpg",
+     "thumb": "img/events/graspop-2027-2-t.jpg",
+     "orig": "https://www.graspop.be/media/cache/default_jumbotron/upload/media/default/b4a7/3b/8acb8bb22fb7d6358e074c093ea95dcd7f24dff0.webp",
+     "page": "https://www.graspop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/graspop-2027-3.jpg",
+     "thumb": "img/events/graspop-2027-3-t.jpg",
+     "orig": "https://www.graspop.be/media/cache/default_jumbotron/upload/media/default/7109/f6/0ef89b79ff847fbb5138d0e789ff5fc33721b644.webp",
+     "page": "https://www.graspop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/graspop-2027-4.jpg",
+     "thumb": "img/events/graspop-2027-4-t.jpg",
+     "orig": "https://www.graspop.be/media/cache/default_artist/upload/media/default/b6b9/fc/6484178ca5ce28f6eb0b047a59f19647928432f0.webp",
+     "page": "https://www.graspop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/graspop-2027-5.jpg",
+     "thumb": "img/events/graspop-2027-5-t.jpg",
+     "orig": "https://www.graspop.be/media/cache/default_artist/upload/media/default/bd77/d7/a8aab2665274e69773f643105811fd0bc9e4ace0.webp",
+     "page": "https://www.graspop.be/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/graspop-2027-6.jpg",
+     "thumb": "img/events/graspop-2027-6-t.jpg",
+     "orig": "https://www.graspop.be/media/cache/default_artist/upload/media/default/5353/c4/d6053452a9ddba51d12c4b632197449624bba5ff.webp",
+     "page": "https://www.graspop.be/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.graspop.be/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Dessel, Turnhout, Antwerpen, Vlaanderen, België / Belgique / Belgien (query: Dessel, Belgium).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "graspop-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-holland-festival-2027",
+   "slug": "holland-festival-2027",
+   "name": "Holland Festival 2027",
+   "website_url": "https://www.hollandfestival.nl/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Holland Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.hollandfestival.nl/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 52.3730796,
+   "lng": 4.8924534,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "performing arts"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.hollandfestival.nl/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Amsterdam, Noord-Holland, Nederland (query: Amsterdam, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "holland-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-idfa-2027",
+   "slug": "idfa-2027",
+   "name": "IDFA 2027",
+   "website_url": "https://www.idfa.nl/en/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "International Documentary Film Festival Amsterdam",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.idfa.nl/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 52.3730796,
+   "lng": 4.8924534,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "documentary",
+    "film festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/idfa-2027-1.jpg",
+     "thumb": "img/events/idfa-2027-1-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/Still_2026_09_26_215245_1.268.2.jpg?w=3832&h=2007&auto=compress%2Cformat&fit=crop&dm=1795425574&s=eaf3b331403e5807304f08a0e1fd00eb",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idfa-2027-2.jpg",
+     "thumb": "img/events/idfa-2027-2-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/CD20261119-IDFA-Awards-Ceremony-winners-06.jpg?w=1200&h=800&auto=compress%2Cformat&fit=crop&dm=1795124600&s=74b8022f98e0d053098ee4872a9ab505",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idfa-2027-3.jpg",
+     "thumb": "img/events/idfa-2027-3-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/CD20261119-IDFA-Awards-Ceremony-winners-03.jpg?w=1200&h=800&auto=compress%2Cformat&fit=crop&dm=1795425100&s=3c55f83d6f4feb4009f47a6fac19f8b7",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idfa-2027-4.jpg",
+     "thumb": "img/events/idfa-2027-4-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/1_TATIANA-HUEZO.jpeg?w=4000&h=2667&auto=compress%2Cformat&fit=crop&crop=focalpoint&fp-x=0.3985&fp-y=0.7219&dm=1789478575&s=93728abc8d29e158fa4b0e5c4d32bdd0",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idfa-2027-5.jpg",
+     "thumb": "img/events/idfa-2027-5-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/360_image_3.jpg?w=1951&h=1314&auto=compress%2Cformat&fit=crop&dm=1789477090&s=383f53b67114ac765dc04ef3a4381dc9",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/idfa-2027-6.jpg",
+     "thumb": "img/events/idfa-2027-6-t.jpg",
+     "orig": "https://optimise2.assets-servd.host/idfa-cms/production/uploads/The_Balcony_Movie_still_8.jpeg?w=4000&h=2258&auto=compress%2Cformat&fit=crop&dm=1789477147&s=0c4635a127382902123b2f2ea61f2d3f",
+     "page": "https://www.idfa.nl/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.idfa.nl/en/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Amsterdam, Noord-Holland, Nederland (query: Amsterdam, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "idfa-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-inmusic-2027",
+   "slug": "inmusic-2027",
+   "name": "INmusic Festival 2027",
+   "website_url": "https://www.inmusicfestival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Zagreb",
+   "country": "Croatia",
+   "region": "europe",
+   "venue": "Lake Jarun, Zagreb",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "INmusic Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.inmusicfestival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 45.8130967,
+   "lng": 15.9772795,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "indie"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.inmusicfestival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Grad Zagreb, Hrvatska (query: Zagreb, Croatia).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "inmusic-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-isle-of-mtv-malta-2027",
+   "slug": "isle-of-mtv-malta-2027",
+   "name": "Isle of MTV Malta 2027",
+   "website_url": "https://www.isleofmtv.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Floriana",
+   "country": "Malta",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "MTV / VisitMalta",
+   "expected_attendance": "more than 50,000 people (VisitMalta description of typical crowds)",
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.isleofmtv.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "isleofmtv.com still titled 'Isle of MTV 2026' when fetched. No official 2027 date was published. City left as Floriana, the event's usual Granaries/Fosos setting, but the 2027 venue has not been officially named — pin should be treated as city-level until announced.",
+   "lat": 35.8929838,
+   "lng": 14.5052716,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "pop",
+    "open-air",
+    "free concert"
+   ],
+   "photos": [
+    {
+     "src": "img/events/isle-of-mtv-malta-2027-3.jpg",
+     "thumb": "img/events/isle-of-mtv-malta-2027-3-t.jpg",
+     "orig": "https://images.paramount.tech/uri/mgid:arc:imageassetref:en-gb.ws.mtv.co.uk:dd53dfb9-1b08-4a9d-bc32-2e26e0b995cf?quality=0.7&gen=ntrn&format=webp&crop=true&width=660",
+     "page": "https://www.mtv.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/isle-of-mtv-malta-2027-4.jpg",
+     "thumb": "img/events/isle-of-mtv-malta-2027-4-t.jpg",
+     "orig": "https://images.paramount.tech/uri/mgid:arc:imageassetref:en-gb.ws.mtv.co.uk:dd53dfb9-1b08-4a9d-bc32-2e26e0b995cf?quality=0.7&gen=ntrn&format=webp&crop=true&width=5120",
+     "page": "https://www.mtv.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/isle-of-mtv-malta-2027-5.jpg",
+     "thumb": "img/events/isle-of-mtv-malta-2027-5-t.jpg",
+     "orig": "https://images.paramount.tech/uri/mgid:arc:imageassetref:en-gb.ws.mtv.co.uk:dc3b9ddd-c22e-42e3-8e43-3231051117bd?quality=0.7&gen=ntrn&format=webp&crop=true&width=768",
+     "page": "https://www.mtv.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/isle-of-mtv-malta-2027-6.jpg",
+     "thumb": "img/events/isle-of-mtv-malta-2027-6-t.jpg",
+     "orig": "https://images.paramount.tech/uri/mgid:arc:imageassetref:en-gb.ws.mtv.co.uk:833a3798-4018-4440-aa68-17e8e6b8b46f?quality=0.7&gen=ntrn&format=webp&crop=true&width=768",
+     "page": "https://www.mtv.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.isleofmtv.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.visitmalta.com/en/isle-of-mtv/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Il-Furjana, Reġjun Port, Malta (query: Floriana, Malta).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "No official 2027 dates on isleofmtv.com or VisitMalta event pages fetched 23 Nov 2026. Dates left blank.",
+   "attendance_source_url": "https://www.visitmalta.com/en/isle-of-mtv/",
+   "attendance_note": "VisitMalta official event page wording: the event attracts crowds of more than 50,000 people. Not a 2027 count.",
+   "id": "isle-of-mtv-malta-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-karlovy-vary-2027",
+   "slug": "karlovy-vary-2027",
+   "name": "Karlovy Vary International Film Festival 2027",
+   "website_url": "https://www.kviff.com/en/homepage",
+   "start_date": null,
+   "end_date": null,
+   "city": "Karlovy Vary",
+   "country": "Czech Republic",
+   "region": "europe",
+   "venue": null,
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "KVIFF",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.kviff.com/en/homepage",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 50.2306216,
+   "lng": 12.8701437,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "film festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/karlovy-vary-2027-1.jpg",
+     "thumb": "img/events/karlovy-vary-2027-1-t.jpg",
+     "orig": "https://www.kviff.com/images/kviff.jpg",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    },
+    {
+     "src": "img/events/karlovy-vary-2027-2.jpg",
+     "thumb": "img/events/karlovy-vary-2027-2-t.jpg",
+     "orig": "https://www.kviff.com/images/cover-mobil-en.jpg",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    },
+    {
+     "src": "img/events/karlovy-vary-2027-3.jpg",
+     "thumb": "img/events/karlovy-vary-2027-3-t.jpg",
+     "orig": "https://www.kviff.com/en/image/hpbanner/517484/d8af/a-look-back.png",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    },
+    {
+     "src": "img/events/karlovy-vary-2027-4.jpg",
+     "thumb": "img/events/karlovy-vary-2027-4-t.jpg",
+     "orig": "https://www.kviff.com/en/image/hpbanner/528652/ca6a/kvifftv.jpg",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    },
+    {
+     "src": "img/events/karlovy-vary-2027-5.jpg",
+     "thumb": "img/events/karlovy-vary-2027-5-t.jpg",
+     "orig": "https://www.kviff.com/en/image/hpbanner/528662/caba/tadyvary.png",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    },
+    {
+     "src": "img/events/karlovy-vary-2027-6.jpg",
+     "thumb": "img/events/karlovy-vary-2027-6-t.jpg",
+     "orig": "https://www.kviff.com/en/image/single-news/527710/a3cd/only-beautiful-things-to-look-at.jpg",
+     "page": "https://www.kviff.com/en/homepage",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.kviff.com/en/homepage",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Karlovy Vary, okres Karlovy Vary, Karlovarský kraj, Česko (query: Karlovy Vary, Czech Republic).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "karlovy-vary-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-la-merce-2027",
+   "slug": "la-merce-2027",
+   "name": "La Mercè 2027",
+   "website_url": "https://www.barcelona.cat/lamerce/en/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Barcelona",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Ajuntament de Barcelona",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.barcelona.cat/lamerce/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 41.3825802,
+   "lng": 2.177073,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "city festival",
+    "culture"
+   ],
+   "photos": [
+    {
+     "src": "img/events/la-merce-2027-1.jpg",
+     "thumb": "img/events/la-merce-2027-1-t.jpg",
+     "orig": "https://www.barcelona.cat/lamerce/sites/default/files/2026-07/CAT%20Feature%20Graphic%201024x500.png",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/la-merce-2027-2.jpg",
+     "thumb": "img/events/la-merce-2027-2-t.jpg",
+     "orig": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/parc-de-la-trinitat-canal-i-gespa.570x321.ed8bebf4.jpg",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/la-merce-2027-3.jpg",
+     "thumb": "img/events/la-merce-2027-3-t.jpg",
+     "orig": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/vista-aeria-nou-parc-glories.570x321.79f061e9.jpg",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/la-merce-2027-4.jpg",
+     "thumb": "img/events/la-merce-2027-4-t.jpg",
+     "orig": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/parc-de-lestacio-del-nord.570x321.1b42f547.jpg",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/la-merce-2027-5.jpg",
+     "thumb": "img/events/la-merce-2027-5-t.jpg",
+     "orig": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/thumbnail__96A6701.570x321.1824c00c.jpg",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/la-merce-2027-6.jpg",
+     "thumb": "img/events/la-merce-2027-6-t.jpg",
+     "orig": "https://estatics-nasia.dtibcn.cat/nasia-pro/media/PortOlimpic_MollMestral_definitiu.570x321.2fc664ad.jpg",
+     "page": "https://www.barcelona.cat/lamerce/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.barcelona.cat/lamerce/en/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Barcelona, Barcelonès, Barcelona, Catalunya, España (query: Barcelona, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "la-merce-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-las-fallas-2027",
+   "slug": "las-fallas-2027",
+   "name": "Las Fallas 2027",
+   "website_url": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+   "start_date": null,
+   "end_date": null,
+   "city": "Valencia",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Ajuntament de València / Junta Central Fallera",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 39.4697065,
+   "lng": -0.3763353,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "Fallas",
+    "fire festival",
+    "street festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/las-fallas-2027-1.jpg",
+     "thumb": "img/events/las-fallas-2027-1-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/media/media-images/images/_/_dsc5403.jpg",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    },
+    {
+     "src": "img/events/las-fallas-2027-2.jpg",
+     "thumb": "img/events/las-fallas-2027-2-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/styles/full_width_gallery_desktop/public/media/media-images/images/Falla-ganadora-val%C3%A8ncia12.jpg?itok=4l3G_wbO",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    },
+    {
+     "src": "img/events/las-fallas-2027-3.jpg",
+     "thumb": "img/events/las-fallas-2027-3-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/styles/image_gallery_mobile/public/media/media-images/images/CRIDA_FALLAS_2023_8.jpg.webp?itok=tNB0vjvs",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    },
+    {
+     "src": "img/events/las-fallas-2027-4.jpg",
+     "thumb": "img/events/las-fallas-2027-4-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/styles/image_gallery_mobile/public/media/media-images/images/EXPOSICION-NINOT-FALLAS-VALENCIA-18.jpg.webp?itok=DK3Ptvyv",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    },
+    {
+     "src": "img/events/las-fallas-2027-5.jpg",
+     "thumb": "img/events/las-fallas-2027-5-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/styles/image_gallery_mobile/public/media/media-images/images/Fallas.-Masclet%C3%A1-de-colores.jpg.webp?itok=cG9FI5KO",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    },
+    {
+     "src": "img/events/las-fallas-2027-6.jpg",
+     "thumb": "img/events/las-fallas-2027-6-t.jpg",
+     "orig": "https://www.visitvalencia.com/sites/default/files/styles/image_gallery_mobile/public/media/media-images/images/FuegosArtificiales_Fallas_Valencia%20_3_.JPG.webp?itok=tfDTY8X6",
+     "page": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.visitvalencia.com/en/events-valencia/festivities/the-fallas",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: València, Comarca de València, València / Valencia, Comunitat Valenciana, España (query: Valencia, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "las-fallas-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-locarno-film-2027",
+   "slug": "locarno-film-2027",
+   "name": "Locarno Film Festival 2027",
+   "website_url": "https://www.locarnofestival.ch/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Locarno",
+   "country": "Switzerland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "Locarno Film Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.locarnofestival.ch/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 46.1695739,
+   "lng": 8.7954859,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "film festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.locarnofestival.ch/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Locarno, Circolo di Locarno, Distretto di Locarno, Ticino, Schweiz / Suisse / Svizzera / Svizra (query: Locarno, Switzerland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "locarno-film-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-lollapalooza-paris-2027",
+   "slug": "lollapalooza-paris-2027",
+   "name": "Lollapalooza Paris 2027",
+   "website_url": "https://www.lollaparis.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Paris",
+   "country": "France",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Lollapalooza Paris",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.lollaparis.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site fetched 23 Nov 2026 did not publish 2027 dates (lollapaloozafr.com could not be retrieved). Included as the next edition with dates TBA.",
+   "lat": 48.8534951,
+   "lng": 2.3483915,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "pop",
+    "rock"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.lollaparis.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Paris, Île-de-France, France métropolitaine, France (query: Paris, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "No official 2027 dates were visible on lollaparis.com, fetched 23 Nov 2026.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "lollapalooza-paris-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-lowlands-2027",
+   "slug": "lowlands-2027",
+   "name": "Lowlands 2027",
+   "website_url": "https://lowlands.nl/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Biddinghuizen",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Mojo / Lowlands",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://lowlands.nl/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 52.4552216,
+   "lng": 5.6921598,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "indie",
+    "camping"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://lowlands.nl/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Biddinghuizen, Dronten, Flevoland, Nederland (query: Biddinghuizen, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "lowlands-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-lucerne-festival-2027",
+   "slug": "lucerne-festival-2027",
+   "name": "Lucerne Festival 2027",
+   "website_url": "https://www.lucernefestival.ch/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Lucerne",
+   "country": "Switzerland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Lucerne Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.lucernefestival.ch/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official pages list several 2027 seasonal residencies (including a summer window around 12 August–12 September 2027). A single combined start/end was not stored because Lucerne Festival is a series of official seasons.",
+   "lat": 47.052144,
+   "lng": 8.3058123,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "classical music"
+   ],
+   "photos": [
+    {
+     "src": "img/events/lucerne-festival-2027-1.jpg",
+     "thumb": "img/events/lucerne-festival-2027-1-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/e0/00/e000a8a4-bcaf-44bb-84a9-bada5a8ec64e/220813_lfo_2_lfo_chailly_c_priskaketterer_lucerne_festival_17_approved.jpg__1920x1920_q85_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lucerne-festival-2027-2.jpg",
+     "thumb": "img/events/lucerne-festival-2027-2-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/c6/c5/c6c51e6d-17e9-4e32-b223-c5b3490a6f65/visual_spring2027_16x9_homepage.jpg__856x1720_q85_crop_subject_location-945%2C315_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lucerne-festival-2027-3.jpg",
+     "thumb": "img/events/lucerne-festival-2027-3-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/33/4e/334ed530-3bb1-4550-9aa0-5ac54fcb75e0/141_colour_medium_-_robin_ticciati_nov_2022_1_c_benjamin_ealavoa.jpg__744x420_q85_crop_subject_location-1400%2C868_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lucerne-festival-2027-4.jpg",
+     "thumb": "img/events/lucerne-festival-2027-4-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/af/12/af12e032-1114-4eb1-9c2d-3b7e3bcc0711/badde7e7_jussen_lucas_arthur08_c_marco_borggreve_klein.jpg__744x420_q85_crop_subject_location-2430%2C1161_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lucerne-festival-2027-5.jpg",
+     "thumb": "img/events/lucerne-festival-2027-5-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/37/6c/376c27f2-2544-4e9d-baf4-06116d6bd8b9/e5071f6d_tetzlaff_christian2_c_giorgia_bertazzi.jpg__744x420_q85_crop_subject_location-1164%2C684_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lucerne-festival-2027-6.jpg",
+     "thumb": "img/events/lucerne-festival-2027-6-t.jpg",
+     "orig": "https://www.lucernefestival.ch/media/thumbnails/filer_public/ca/03/ca038d55-0920-4166-9fde-df6af0f0fd61/vikingur-olafsson_lucerne_ri_4521_bearb_c_ari-magg_klein.jpg__744x420_q85_crop_subject_location-1953%2C1134_subsampling-2_upscale.jpg",
+     "page": "https://www.lucernefestival.ch/en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.lucernefestival.ch/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Luzern, Schweiz / Suisse / Svizzera / Svizra (query: Lucerne, Switzerland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official pages list several 2027 seasonal residencies (including a summer window around 12 August–12 September 2027). A single combined start/end was not stored because Lucerne Festival is a series of official seasons.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "lucerne-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-mad-cool-2027",
+   "slug": "mad-cool-2027",
+   "name": "Mad Cool Festival 2027",
+   "website_url": "https://madcoolfestival.es/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Madrid",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Mad Cool Festival",
+   "expected_attendance": "215,000 attendees (official recap of the previous edition: 215,000 attendees, 5 stages, 4 days, 80+ artists)",
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://madcoolfestival.es/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official homepage and news section fetched 23 Nov 2026 still focused on the 2026 10th-anniversary edition. No official 2027 dates were published there.",
+   "lat": 40.416782,
+   "lng": -3.703507,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "indie",
+    "pop"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://madcoolfestival.es/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.madcoolfestival.es/noticias",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Madrid, Comunidad de Madrid, España (query: Madrid, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "No 2027 dates on the official Mad Cool website or news pages fetched 23 Nov 2026. Press reports of July 2027 were not used. 215,000 attendees is the official recap figure for the previous edition.",
+   "attendance_source_url": "https://madcoolfestival.es/",
+   "attendance_note": "Official homepage recap figure for the most recent (10th anniversary / 2026) edition, not a 2027 forecast.",
+   "id": "mad-cool-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-main-square-2027",
+   "slug": "main-square-2027",
+   "name": "Main Square Festival 2027",
+   "website_url": "https://www.mainsquarefestival.fr/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Arras",
+   "country": "France",
+   "region": "europe",
+   "venue": "Citadelle d'Arras",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Main Square Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.mainsquarefestival.fr/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 50.282927,
+   "lng": 2.760367,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "rock",
+    "pop"
+   ],
+   "photos": [
+    {
+     "src": "img/events/main-square-2027-2.jpg",
+     "thumb": "img/events/main-square-2027-2-t.jpg",
+     "orig": "https://mainsquarefestival.fr/wp-content/uploads/2025/12/20250704-231022-Panorama-1-1920x2880.jpg",
+     "page": "https://www.mainsquarefestival.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/main-square-2027-3.jpg",
+     "thumb": "img/events/main-square-2027-3-t.jpg",
+     "orig": "https://mainsquarefestival.fr/wp-content/uploads/2025/12/08-1920x2879.jpg",
+     "page": "https://www.mainsquarefestival.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/main-square-2027-4.jpg",
+     "thumb": "img/events/main-square-2027-4-t.jpg",
+     "orig": "https://mainsquarefestival.fr/wp-content/uploads/2025/12/20250705-182415-1920x2880.jpg",
+     "page": "https://www.mainsquarefestival.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/main-square-2027-5.jpg",
+     "thumb": "img/events/main-square-2027-5-t.jpg",
+     "orig": "https://mainsquarefestival.fr/wp-content/uploads/2025/12/20250706-231244-1920x1280.jpg",
+     "page": "https://www.mainsquarefestival.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/main-square-2027-6.jpg",
+     "thumb": "img/events/main-square-2027-6-t.jpg",
+     "orig": "https://mainsquarefestival.fr/wp-content/uploads/2025/12/20250704-181952-2-1-1920x2880.jpg",
+     "page": "https://www.mainsquarefestival.fr/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.mainsquarefestival.fr/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Citadelle d'Arras, Arras, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62000, France (query: Citadelle d'Arras, Arras, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "main-square-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-malta-carnival-2027",
+   "slug": "malta-carnival-2027",
+   "name": "Malta Carnival 2027",
+   "website_url": "https://www.visitmalta.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Valletta",
+   "country": "Malta",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Malta Carnival / VisitMalta",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.visitmalta.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 35.8989979,
+   "lng": 14.5136607,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "carnival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/malta-carnival-2027-3.jpg",
+     "thumb": "img/events/malta-carnival-2027-3-t.jpg",
+     "orig": "https://www.visitmalta.com/wp-content/uploads/2022/01/404.jpeg",
+     "page": "https://www.visitmalta.com/en/events/malta-carnival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/malta-carnival-2027-4.jpg",
+     "thumb": "img/events/malta-carnival-2027-4-t.jpg",
+     "orig": "https://www.visitmalta.com/wp-content/uploads/2021/05/shutterstock_1413619622-scaled.jpg",
+     "page": "https://www.visitmalta.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/malta-carnival-2027-5.jpg",
+     "thumb": "img/events/malta-carnival-2027-5-t.jpg",
+     "orig": "https://www.visitmalta.com/wp-content/uploads/2026/11/Untitled-Design.webp",
+     "page": "https://www.visitmalta.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/malta-carnival-2027-6.jpg",
+     "thumb": "img/events/malta-carnival-2027-6-t.jpg",
+     "orig": "https://www.visitmalta.com/wp-content/uploads/2021/10/2_FindOutAboutMomentsInMalta.jpg",
+     "page": "https://www.visitmalta.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.visitmalta.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Il-Belt Valletta, Reġjun Port, Malta (query: Valletta, Malta).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "malta-carnival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-monegros-2027",
+   "slug": "monegros-2027",
+   "name": "Monegros Desert Festival 2027",
+   "website_url": "https://www.monegrosfestival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Fraga",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Monegros Desert Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.monegrosfestival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 41.4762813,
+   "lng": 0.2035917,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "techno"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.monegrosfestival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España (query: Fraga, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "monegros-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-mysteryland-2027",
+   "slug": "mysteryland-2027",
+   "name": "Mysteryland 2027",
+   "website_url": "https://mysteryland.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Haarlemmermeer",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "ID&T / Mysteryland",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://mysteryland.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 52.3238421,
+   "lng": 4.7152612,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "EDM"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://mysteryland.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Haarlemmermeer, Noord-Holland, Nederland (query: Haarlemmermeer, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "mysteryland-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-nos-alive-2027",
+   "slug": "nos-alive-2027",
+   "name": "NOS Alive 2027",
+   "website_url": "https://nosalive.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Algés",
+   "country": "Portugal",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Alles – And Then Some / NOS Alive",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://nosalive.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 38.6983839,
+   "lng": -9.2294545,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "indie",
+    "pop"
+   ],
+   "photos": [
+    {
+     "src": "img/events/nos-alive-2027-4.jpg",
+     "thumb": "img/events/nos-alive-2027-4-t.jpg",
+     "orig": "https://nosalive.com/wp-content/uploads/2026/11/NA27_SITE_BANNER_DreamBoat.jpg",
+     "page": "https://nosalive.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/nos-alive-2027-5.jpg",
+     "thumb": "img/events/nos-alive-2027-5-t.jpg",
+     "orig": "https://nosalive.com/wp-content/uploads/2026/11/NA27_SITE_BANNER_AltaAvenue.jpg",
+     "page": "https://nosalive.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/nos-alive-2027-6.jpg",
+     "thumb": "img/events/nos-alive-2027-6-t.jpg",
+     "orig": "https://nosalive.com/wp-content/uploads/2026/11/NA27_SITE_BANNER_LeonBridges.jpg",
+     "page": "https://nosalive.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://nosalive.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Algés, Avenida Marginal, Baixa de Algés, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras, Lisboa, 1495-064, Portugal (query: Algés, Portugal).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "nos-alive-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-neversea-2027",
+   "slug": "neversea-2027",
+   "name": "Neversea 2027",
+   "website_url": "https://www.neversea.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Constanța",
+   "country": "Romania",
+   "region": "europe",
+   "venue": "Mamaia Nord, Constanța",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Neversea",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.neversea.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 44.3031928,
+   "lng": 28.620388,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "pop"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.neversea.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Mamaia Nord, Bulevardul Mamaia Nord, Mamaia-Sat, Năvodari, Zona Metropolitană Constanța, Constanța, 905701, România (query: Mamaia Nord, Constanța, Constanța, Romania).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "neversea-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-nova-rock-2027",
+   "slug": "nova-rock-2027",
+   "name": "Nova Rock 2027",
+   "website_url": "https://www.novarock.at/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Nickelsdorf",
+   "country": "Austria",
+   "region": "europe",
+   "venue": "Pannonia Fields, Nickelsdorf",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Nova Rock",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.novarock.at/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 47.9102626,
+   "lng": 17.0920563,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "rock",
+    "metal"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.novarock.at/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Pannonia Fields II, Katastralgemeinde Nickelsdorf, Nickelsdorf, Bezirk Neusiedl am See, Burgenland, 2425, Österreich (query: Pannonia Fields, Nickelsdorf, Nickelsdorf, Austria).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "nova-rock-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-opener-2027",
+   "slug": "opener-2027",
+   "name": "Open'er Festival 2027",
+   "website_url": "https://opener.pl/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Gdynia",
+   "country": "Poland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Open'er Festival / Alter Art",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://opener.pl/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 54.5164982,
+   "lng": 18.5402738,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "indie",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/opener-2027-1.jpg",
+     "thumb": "img/events/opener-2027-1-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/sliders/40138eaf-51e.jpg",
+     "page": "https://opener.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/opener-2027-2.jpg",
+     "thumb": "img/events/opener-2027-2-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/artists_list/618525df-60a.png",
+     "page": "https://opener.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/opener-2027-3.jpg",
+     "thumb": "img/events/opener-2027-3-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/sliders/e2594817-42d.jpg",
+     "page": "https://opener.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/opener-2027-4.jpg",
+     "thumb": "img/events/opener-2027-4-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/sliders/2ae2f6da-296.jpg",
+     "page": "https://opener.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/opener-2027-5.jpg",
+     "thumb": "img/events/opener-2027-5-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/sliders/23bb5026-eeb.jpg",
+     "page": "https://opener.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/opener-2027-6.jpg",
+     "thumb": "img/events/opener-2027-6-t.jpg",
+     "orig": "https://static.opener.pl/media/widgets/sliders/f66d06d2-2d8.jpg",
+     "page": "https://opener.pl/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://opener.pl/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Gdynia, województwo pomorskie, Polska (query: Gdynia, Poland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "opener-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-parklife-2027",
+   "slug": "parklife-2027",
+   "name": "Parklife 2027",
+   "website_url": "https://parklife.uk.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Heaton Park, Manchester",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Parklife / The Warehouse Project",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://parklife.uk.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 53.534625,
+   "lng": -2.2560869,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "hip-hop",
+    "dance"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://parklife.uk.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Heaton Park, Manchester, Greater Manchester, England, United Kingdom (query: Heaton Park, Manchester, Manchester, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "parklife-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-pohoda-2027",
+   "slug": "pohoda-2027",
+   "name": "Pohoda Festival 2027",
+   "website_url": "https://www.pohodafestival.sk/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Trenčín",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Trenčín Airport",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Pohoda Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.pohodafestival.sk/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 48.8665128,
+   "lng": 18.0061162,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "indie"
+   ],
+   "photos": [
+    {
+     "src": "img/events/pohoda-2027-1.jpg",
+     "thumb": "img/events/pohoda-2027-1-t.jpg",
+     "orig": "https://www.pohodafestival.sk/og_image.2023.jpg",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-2.jpg",
+     "thumb": "img/events/pohoda-2027-2-t.jpg",
+     "orig": "https://www.pohodafestival.sk/assets/img/2027/doodles/pero.webp",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-3.jpg",
+     "thumb": "img/events/pohoda-2027-3-t.jpg",
+     "orig": "https://www.pohodafestival.sk/assets_2025/img/app_mobile.png",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-4.jpg",
+     "thumb": "img/events/pohoda-2027-4-t.jpg",
+     "orig": "https://www.pohodafestival.sk/assets_2025/img/app_mobile_mobile.png",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-5.jpg",
+     "thumb": "img/events/pohoda-2027-5-t.jpg",
+     "orig": "https://www.pohodafestival.sk/assets/img/2027/adela_popup_en.webp",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-6.jpg",
+     "thumb": "img/events/pohoda-2027-6-t.jpg",
+     "orig": "https://www.pohodafestival.sk/assets/img/2026/app/app-phone-screen.jpg",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.pohodafestival.sk/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Trenčianske letisko generála Štefana Jurecha, Záhumenská, Noviny, Biskupice, Trenčín, okres Trenčín, Trenčiansky kraj, 911 04, Slovensko (query: Trenčín Airport, Trenčín, Slovakia).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "pohoda-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-polandrock-2027",
+   "slug": "polandrock-2027",
+   "name": "Pol'and'Rock Festival 2027",
+   "website_url": "https://polandrockfestival.pl/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Czaplinek",
+   "country": "Poland",
+   "region": "europe",
+   "venue": "Czaplinek-Broczyno Airfield",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Great Orchestra of Christmas Charity / Pol'and'Rock",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://polandrockfestival.pl/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 53.560673,
+   "lng": 16.2319428,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "free festival",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/polandrock-2027-1.jpg",
+     "thumb": "img/events/polandrock-2027-1-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/master/uploaded/avatars/683edbd1974dd8.65910744.jpg",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/polandrock-2027-2.jpg",
+     "thumb": "img/events/polandrock-2027-2-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/master/uploaded/events/event_6059_c68cda10d2c963f3f4730159f0798121.webp",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/polandrock-2027-3.jpg",
+     "thumb": "img/events/polandrock-2027-3-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/master/uploaded/events/event_overlay_6059_ded397c2cf72cf168f25f5d46f3cbbc1.webp",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/polandrock-2027-4.jpg",
+     "thumb": "img/events/polandrock-2027-4-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/master/uploaded/events/event_6061_fc565035d29b503575d2936b6906e5a1.webp",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/polandrock-2027-5.jpg",
+     "thumb": "img/events/polandrock-2027-5-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/master/uploaded/events/event_6057_4d509c908b30ba5d700b50c0c316ebb7.webp",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/polandrock-2027-6.jpg",
+     "thumb": "img/events/polandrock-2027-6-t.jpg",
+     "orig": "https://s.polandrockfestival.pl/galleries/2017/thumbs/750_17801578836a1b0dbb4013c8.16694279.jpg",
+     "page": "https://polandrockfestival.pl/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://polandrockfestival.pl/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Czaplinek, gmina Czaplinek, powiat drawski, województwo zachodniopomorskie, 78-550, Polska (query: Czaplinek, Poland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "polandrock-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-primavera-sound-barcelona-2027",
+   "slug": "primavera-sound-barcelona-2027",
+   "name": "Primavera Sound Barcelona 2027",
+   "website_url": "https://www.primaverasound.com/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Barcelona",
+   "country": "Spain",
+   "region": "europe",
+   "venue": "Parc del Fòrum, Barcelona",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Primavera Sound",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.primaverasound.com/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site is a JavaScript app; fetched HTML had no visible 2027 dates. Venue kept as the festival's established Parc del Fòrum site only as the named official location of the series, not as a newly announced 2027 pin until the official 2027 page names it in readable form.",
+   "lat": 41.4101105,
+   "lng": 2.2204167,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "pop",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/primavera-sound-barcelona-2027-3.jpg",
+     "thumb": "img/events/primavera-sound-barcelona-2027-3-t.jpg",
+     "orig": "https://assets.primaverasound.com/psweb/fp3qacp4slr8n6fnkbfa_1568794521216.png",
+     "page": "https://www.primaverasound.com/en/tickets",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.primaverasound.com/en",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.primaverasound.com/en/barcelona",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.primaverasound.com/en/tickets",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Parc del Fòrum, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, España (query: Parc del Fòrum, Barcelona, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "No official 2027 dates could be read from primavera-sound.com pages fetched 23 Nov 2026 (JS-rendered). Dates left blank. Third-party reports of June 2027 were not used.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "primavera-sound-barcelona-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-rock-en-seine-2027",
+   "slug": "rock-en-seine-2027",
+   "name": "Rock en Seine 2027",
+   "website_url": "https://www.rockenseine.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Saint-Cloud",
+   "country": "France",
+   "region": "europe",
+   "venue": "Domaine National de Saint-Cloud",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Rock en Seine",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.rockenseine.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 48.8334914,
+   "lng": 2.184968,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "rock",
+    "indie",
+    "pop"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.rockenseine.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Domaine national de Saint-Cloud, 1, Avenue de la Grille d'Honneur, Les Bureaux de la Colline, Saint-Cloud, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92210, France (query: Domaine National de Saint-Cloud, Saint-Cloud, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "rock-en-seine-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-san-fermin-2027",
+   "slug": "san-fermin-2027",
+   "name": "San Fermín 2027",
+   "website_url": "https://www.sanfermin.com/en/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Pamplona",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Ayuntamiento de Pamplona",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.sanfermin.com/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 42.815686,
+   "lng": -1.6522353,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "fiesta",
+    "encierro"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.sanfermin.com/en/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Pamplona / Iruña, Iruñerria, Navarra, Navarra / Nafarroa, España (query: Pamplona, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "san-fermin-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-san-sebastian-gastronomika-2027",
+   "slug": "san-sebastian-gastronomika-2027",
+   "name": "San Sebastian Gastronomika 2027",
+   "website_url": "https://www.sansebastiangastronomika.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "San Sebastián",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Food",
+   "format": "In-person",
+   "organizer": "San Sebastian Gastronomika",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.sansebastiangastronomika.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site still presented the 5–7 October 2026 edition when fetched. No official 2027 dates were published.",
+   "lat": 43.3224219,
+   "lng": -1.9838889,
+   "precise": false,
+   "category": "food",
+   "topics": [
+    "gastronomy",
+    "congress"
+   ],
+   "photos": [
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-1.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-1-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/Content/2026/img/bg/s1.webp",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-2.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-2-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/Content/2026/img/bg/s2.webp",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-3.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-3-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/Content/2026/img/bg/s3.webp",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-4.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-4-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/media/588ee47c-5ac7-4185-92b3-2f613d825bcb.jpg",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-5.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-5-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/media/983584ec-d6ce-47c3-a893-33f7637b9499.jpg",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/san-sebastian-gastronomika-2027-6.jpg",
+     "thumb": "img/events/san-sebastian-gastronomika-2027-6-t.jpg",
+     "orig": "https://www.sansebastiangastronomika.com/media/ccaf4f3a-875d-46ee-8fd6-2c8f139f33d1.jpg",
+     "page": "https://www.sansebastiangastronomika.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.sansebastiangastronomika.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Donostia / San Sebastián, Gipuzkoa, Euskadi, España (query: San Sebastián, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official site still presented the 5–7 October 2026 edition when fetched. No official 2027 dates were published.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "san-sebastian-gastronomika-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-san-sebastian-film-2027",
+   "slug": "san-sebastian-film-2027",
+   "name": "San Sebastián International Film Festival 2027",
+   "website_url": "https://www.sansebastianfestival.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "San Sebastián",
+   "country": "Spain",
+   "region": "europe",
+   "venue": null,
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "San Sebastián International Film Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.sansebastianfestival.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 43.3224219,
+   "lng": -1.9838889,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "film festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.sansebastianfestival.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Donostia / San Sebastián, Gipuzkoa, Euskadi, España (query: San Sebastián, Spain).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "san-sebastian-film-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-sea-dance-2027",
+   "slug": "sea-dance-2027",
+   "name": "Sea Dance Festival 2027",
+   "website_url": "https://seadancefestival.me/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Budva",
+   "country": "Montenegro",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Sea Dance / EXIT",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://seadancefestival.me/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 42.2885656,
+   "lng": 18.8419505,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "beach festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://seadancefestival.me/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Budva, Opština Budva, Crna Gora / Црна Гора (query: Budva, Montenegro).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "sea-dance-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-solidays-2027",
+   "slug": "solidays-2027",
+   "name": "Solidays 2027",
+   "website_url": "https://www.solidays.org/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Paris",
+   "country": "France",
+   "region": "europe",
+   "venue": "Hippodrome de Longchamp, Paris",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Solidays / Solidarité Sida",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.solidays.org/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 48.8577383,
+   "lng": 2.2329812,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "pop",
+    "hip-hop",
+    "charity festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.solidays.org/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Hippodrome de Longchamp, Route de Sèvres à Neuilly, Quartier d'Auteuil, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75016, France (query: Hippodrome de Longchamp, Paris, Paris, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "solidays-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-summer-breeze-2027",
+   "slug": "summer-breeze-2027",
+   "name": "Summer Breeze Open Air 2027",
+   "website_url": "https://www.summer-breeze.de/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Dinkelsbühl",
+   "country": "Germany",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Summer Breeze",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.summer-breeze.de/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 49.0691672,
+   "lng": 10.3194022,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "metal"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.summer-breeze.de/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Dinkelsbühl, Landkreis Ansbach, Bayern, 91550, Deutschland (query: Dinkelsbühl, Germany).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "summer-breeze-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-trnsmt-2027",
+   "slug": "trnsmt-2027",
+   "name": "TRNSMT 2027",
+   "website_url": "https://trnsmtfest.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Glasgow Green",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "DF Concerts / TRNSMT",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://trnsmtfest.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 55.8477254,
+   "lng": -4.2344144,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "rock",
+    "pop"
+   ],
+   "photos": [
+    {
+     "src": "img/events/trnsmt-2027-1.jpg",
+     "thumb": "img/events/trnsmt-2027-1-t.jpg",
+     "orig": "https://trnsmt-2026.lon1.cdn.digitaloceanspaces.com/LoyleCarner_20.06.26_HopeHolmes--00592.jpg",
+     "page": "https://trnsmtfest.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/trnsmt-2027-2.jpg",
+     "thumb": "img/events/trnsmt-2027-2-t.jpg",
+     "orig": "https://trnsmt-2026.lon1.cdn.digitaloceanspaces.com/beluga_lagoon-TRNSMT_2026-DAY_1-ryanjohnstonco-3.jpg",
+     "page": "https://trnsmtfest.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/trnsmt-2027-3.jpg",
+     "thumb": "img/events/trnsmt-2027-3-t.jpg",
+     "orig": "https://trnsmt-2026.lon1.cdn.digitaloceanspaces.com/SonnyFodera_20.06.26_HopeHolmes--00358.jpg",
+     "page": "https://trnsmtfest.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/trnsmt-2027-4.jpg",
+     "thumb": "img/events/trnsmt-2027-4-t.jpg",
+     "orig": "https://trnsmt-2026.lon1.cdn.digitaloceanspaces.com/BongosBingo_20.06.26_HopeHolmes--00140.jpg",
+     "page": "https://trnsmtfest.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://trnsmtfest.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Glasgow Green, Oatlands, Glasgow, Glasgow City, Alba / Scotland, United Kingdom (query: Glasgow Green, Glasgow, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "trnsmt-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-taste-of-london-2027",
+   "slug": "taste-of-london-2027",
+   "name": "Taste of London 2027",
+   "website_url": "https://london.tastefestivals.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Regent's Park, London",
+   "industry": "Food",
+   "format": "In-person",
+   "organizer": "Taste Festivals",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://london.tastefestivals.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official site invited sign-ups for 'grand 2027 plans' after the summer 2026 edition, without publishing 2027 dates.",
+   "lat": 51.5301326,
+   "lng": -0.1537641,
+   "precise": true,
+   "category": "food",
+   "topics": [
+    "food festival",
+    "restaurants"
+   ],
+   "photos": [
+    {
+     "src": "img/events/taste-of-london-2027-2.jpg",
+     "thumb": "img/events/taste-of-london-2027-2-t.jpg",
+     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2024/01/Home-Bring-Your-Brand-desktop.jpg?fit=515%2C515&ssl=1",
+     "page": "https://london.tastefestivals.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/taste-of-london-2027-3.jpg",
+     "thumb": "img/events/taste-of-london-2027-3-t.jpg",
+     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2021/04/Home-The-Taste-Manifeasto-desktop.jpg?fit=515%2C515&ssl=1",
+     "page": "https://london.tastefestivals.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/taste-of-london-2027-4.jpg",
+     "thumb": "img/events/taste-of-london-2027-4-t.jpg",
+     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2022/02/Home-About-Taste-of-London-desktop.jpg?fit=515%2C515&ssl=1",
+     "page": "https://london.tastefestivals.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/taste-of-london-2027-5.jpg",
+     "thumb": "img/events/taste-of-london-2027-5-t.jpg",
+     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2026/05/20250618204849_JAMES-BRIDLE_FANATIC_TOL25_DSC_5613-aspect-ratio-515-515.jpg?fit=1280%2C1280&ssl=1",
+     "page": "https://london.tastefestivals.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/taste-of-london-2027-6.jpg",
+     "thumb": "img/events/taste-of-london-2027-6-t.jpg",
+     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2026/02/Home-All-About-The-Feasting-desktop.jpg?fit=960%2C795&ssl=1",
+     "page": "https://london.tastefestivals.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://london.tastefestivals.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: The Regent's Park, Marylebone, City of Westminster, Greater London, England, NW1 4NR, United Kingdom (query: Regent's Park, London, London, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official site invited sign-ups for 'grand 2027 plans' after the summer 2026 edition, without publishing 2027 dates.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "taste-of-london-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-tuska-2027",
+   "slug": "tuska-2027",
+   "name": "Tuska Festival 2027",
+   "website_url": "https://www.tuska.fi/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Helsinki",
+   "country": "Finland",
+   "region": "europe",
+   "venue": "Suvilahti, Helsinki",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Tuska",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.tuska.fi/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 60.186366,
+   "lng": 24.9716505,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "metal"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.tuska.fi/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Suvilahti, Kalasatama, Sörnäinen, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00580, Suomi / Finland (query: Suvilahti, Helsinki, Helsinki, Finland).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "tuska-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-umbria-jazz-2027",
+   "slug": "umbria-jazz-2027",
+   "name": "Umbria Jazz 2027",
+   "website_url": "https://www.umbriajazz.com/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Perugia",
+   "country": "Italy",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Umbria Jazz",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.umbriajazz.com/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 43.1070321,
+   "lng": 12.4029962,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "jazz"
+   ],
+   "photos": [
+    {
+     "src": "img/events/umbria-jazz-2027-1.jpg",
+     "thumb": "img/events/umbria-jazz-2027-1-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2022/12/umbria-jazz-cover-2.jpg",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/umbria-jazz-2027-2.jpg",
+     "thumb": "img/events/umbria-jazz-2027-2-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2026/03/berklee-at-umbriajazz-clinics.png",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/umbria-jazz-2027-3.jpg",
+     "thumb": "img/events/umbria-jazz-2027-3-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2026/03/uj-experi4ence.png",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/umbria-jazz-2027-4.jpg",
+     "thumb": "img/events/umbria-jazz-2027-4-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2026/03/conad-jazz-contest.png",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/umbria-jazz-2027-5.jpg",
+     "thumb": "img/events/umbria-jazz-2027-5-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2026/03/uj4kids.png",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/umbria-jazz-2027-6.jpg",
+     "thumb": "img/events/umbria-jazz-2027-6-t.jpg",
+     "orig": "https://umbriajazz.b-cdn.net/wp-content/uploads/2026/03/jazzlife.png",
+     "page": "https://www.umbriajazz.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.umbriajazz.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Perugia, Umbria, Italia (query: Perugia, Italy).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "umbria-jazz-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-venice-biennale-2027",
+   "slug": "venice-biennale-2027",
+   "name": "Venice Biennale 2027",
+   "website_url": "https://www.labiennale.org/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Venice",
+   "country": "Italy",
+   "region": "europe",
+   "venue": "Giardini and Arsenale, Venice",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "La Biennale di Venezia",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.labiennale.org/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 'Save The Dates 2027' page exists, but exact exhibition dates were not extractable from the fetched HTML. Previous Art Biennale attendance of 714,015 visitors is recorded only as context in sources, not as a 2027 figure.",
+   "lat": 45.4371908,
+   "lng": 12.3345898,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "contemporary art",
+    "biennale"
+   ],
+   "photos": [
+    {
+     "src": "img/events/venice-biennale-2027-1.jpg",
+     "thumb": "img/events/venice-biennale-2027-1-t.jpg",
+     "orig": "https://static.labiennale.org/files/social/preview/labiennale_hp.jpg",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-biennale-2027-2.jpg",
+     "thumb": "img/events/venice-biennale-2027-2-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/architettura/2027/600x600/600x600_0.png?itok=XWLTz2lw",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-biennale-2027-3.jpg",
+     "thumb": "img/events/venice-biennale-2027-3-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/labiennale/2026/600x600/collegeinterno.jpg?itok=L2KKi7Us",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-biennale-2027-4.jpg",
+     "thumb": "img/events/venice-biennale-2027-4-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/numeri-4.jpg?itok=L6LH-2yb",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-biennale-2027-5.jpg",
+     "thumb": "img/events/venice-biennale-2027-5-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/numeri-1.jpg?itok=F3uLskjD",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-biennale-2027-6.jpg",
+     "thumb": "img/events/venice-biennale-2027-6-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/arte/2026/600x600/pad-centrale-26b.jpg?itok=nE78PXGo",
+     "page": "https://www.labiennale.org/en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.labiennale.org/en",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.labiennale.org/en/news/save-dates-2027",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Venezia, Veneto, 30121-30176, Italia (query: Venice, Italy).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 'Save The Dates 2027' page exists, but exact exhibition dates were not extractable from the fetched HTML. Previous Art Biennale attendance of 714,015 visitors is recorded only as context in sources, not as a 2027 figure.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "venice-biennale-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-venice-film-2027",
+   "slug": "venice-film-2027",
+   "name": "Venice International Film Festival 2027",
+   "website_url": "https://www.labiennale.org/en/cinema",
+   "start_date": null,
+   "end_date": null,
+   "city": "Venice",
+   "country": "Italy",
+   "region": "europe",
+   "venue": "Lido di Venezia",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "La Biennale di Venezia",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.labiennale.org/en/cinema",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "La Biennale officially published a 'Save The Dates 2027' announcement (23 Nov 2026) covering 2027 exhibitions and festivals in Venice, but the specific Cinema festival dates were not present in the fetched HTML (likely in a graphic). Dates left blank rather than read from third-party sites.",
+   "lat": 45.4164594,
+   "lng": 12.3706115,
+   "precise": true,
+   "category": "film",
+   "topics": [
+    "film festival",
+    "cinema"
+   ],
+   "photos": [
+    {
+     "src": "img/events/venice-film-2027-1.jpg",
+     "thumb": "img/events/venice-film-2027-1-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/one-woman-one-bra.jpg?itok=B8QlnkgE",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-film-2027-2.jpg",
+     "thumb": "img/events/venice-film-2027-2-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/red-carpet-26a.jpg?itok=5-ueOZYn",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-film-2027-3.jpg",
+     "thumb": "img/events/venice-film-2027-3-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/may-el-toukhy.jpg?itok=zleV_XFs",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-film-2027-4.jpg",
+     "thumb": "img/events/venice-film-2027-4-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/veronesi.jpg?itok=2cDoidrA",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-film-2027-5.jpg",
+     "thumb": "img/events/venice-film-2027-5-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/pubblico-83.jpg?itok=xRot2jZO",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    },
+    {
+     "src": "img/events/venice-film-2027-6.jpg",
+     "thumb": "img/events/venice-film-2027-6-t.jpg",
+     "orig": "https://static.labiennale.org/files/styles/square_thumb/public/cinema/2026/600x600/serena-rossi-redc.jpg?itok=_0GP0c8u",
+     "page": "https://www.labiennale.org/en/cinema",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.labiennale.org/en/cinema",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.labiennale.org/en/news/save-dates-2027",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Lido, Venezia, Veneto, 30132, Italia (query: Lido di Venezia, Venice, Italy).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "La Biennale officially published a 'Save The Dates 2027' announcement (23 Nov 2026) covering 2027 exhibitions and festivals in Venice, but the specific Cinema festival dates were not present in the fetched HTML (likely in a graphic). Dates left blank rather than read from third-party sites.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "venice-film-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-wacken-2027",
+   "slug": "wacken-2027",
+   "name": "Wacken Open Air 2027",
+   "website_url": "https://www.wacken.com/en/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Wacken",
+   "country": "Germany",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "WOA Festival GmbH",
+   "expected_attendance": null,
+   "ticket_price_min": 366.0,
+   "ticket_price_max": 1399.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official ticket shop (23 Nov 2026): General Access 'Louder' €366 + €2 ticket fee (4-day ticket including camping); Younger (under 26) €281 + €2 ticket fee; All Inclusive 'The Pit' €1,399 (no ticket fee). Several other ticket types listed as sold out.",
+   "ticket_url": "https://www.wacken.com/en/",
+   "price_source_url": "https://www.wacken.com/en/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.wacken.com/en/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Tickets for Wacken Open Air 2027 are on sale on the official site, described as 4-day tickets including camping, but the official fetched pages did not clearly state the calendar dates. Dates left blank rather than inferred.",
+   "lat": 54.0198564,
+   "lng": 9.3765998,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "metal"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.wacken.com/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.wacken.com/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": "2026-11-23",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Wacken, Amt Schenefeld, Kreis Steinburg, Schleswig-Holstein, 25596, Deutschland (query: Wacken, Germany).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official ticket prices for Wacken 2027 confirmed on wacken.com, fetched 23 Nov 2026. Exact 2027 calendar dates were not clearly published on the fetched official pages, so dates are TBA.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "wacken-2027",
+   "price_eur_min": 366.0,
+   "price_eur_max": 1399.0,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-way-out-west-2027",
+   "slug": "way-out-west-2027",
+   "name": "Way Out West 2027",
+   "website_url": "https://www.wayoutwest.se/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Gothenburg",
+   "country": "Sweden",
+   "region": "europe",
+   "venue": "Slottsskogen, Gothenburg",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Way Out West / Luger",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.wayoutwest.se/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 57.687035,
+   "lng": 11.9419401,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "pop",
+    "electronic"
+   ],
+   "photos": [
+    {
+     "src": "img/events/way-out-west-2027-1.jpg",
+     "thumb": "img/events/way-out-west-2027-1-t.jpg",
+     "orig": "https://www.wayoutwest.se/wp-content/uploads/2026/11/TS_TM_mobile-1080x1200.jpg",
+     "page": "https://www.wayoutwest.se/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/way-out-west-2027-2.jpg",
+     "thumb": "img/events/way-out-west-2027-2-t.jpg",
+     "orig": "https://www.wayoutwest.se/wp-content/uploads/2026/11/TS_TM_mobile-e1794991048701-740x740.jpg",
+     "page": "https://www.wayoutwest.se/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/way-out-west-2027-3.jpg",
+     "thumb": "img/events/way-out-west-2027-3-t.jpg",
+     "orig": "https://www.wayoutwest.se/wp-content/uploads/2026/11/f7234038_WEB-002-ANGINE-DE-POITRINE-photo-Copyright-DUSTIN-RABIN-2979-740x740.jpg",
+     "page": "https://www.wayoutwest.se/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/way-out-west-2027-4.jpg",
+     "thumb": "img/events/way-out-west-2027-4-t.jpg",
+     "orig": "https://www.wayoutwest.se/wp-content/uploads/2026/10/ROBYN_AKRANS_2-scaled-e1792527838105-740x740.jpg",
+     "page": "https://www.wayoutwest.se/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/way-out-west-2027-5.jpg",
+     "thumb": "img/events/way-out-west-2027-5-t.jpg",
+     "orig": "https://www.wayoutwest.se/wp-content/uploads/2026/10/Kegen_Lorentzon_People_Saturday-3507-1-740x740.jpg",
+     "page": "https://www.wayoutwest.se/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.wayoutwest.se/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Slottsskogen, Centrum, Göteborg, Göteborgs Stad, Västra Götalands län, Sverige (query: Slottsskogen, Gothenburg, Gothenburg, Sweden).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "way-out-west-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-we-love-green-2027",
+   "slug": "we-love-green-2027",
+   "name": "We Love Green 2027",
+   "website_url": "https://www.welovegreen.fr/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Paris",
+   "country": "France",
+   "region": "europe",
+   "venue": "Bois de Vincennes, Paris",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "We Love Green",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.welovegreen.fr/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 48.831548,
+   "lng": 2.4341479,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "indie",
+    "sustainability"
+   ],
+   "photos": [
+    {
+     "src": "img/events/we-love-green-2027-1.jpg",
+     "thumb": "img/events/we-love-green-2027-1-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/04/DRONE-WLG-2023-Photo-Luc-MARECHAUX-DJI_0383-768x512.f11e28df8b4c50856a6b.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/we-love-green-2027-2.jpg",
+     "thumb": "img/events/we-love-green-2027-2-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/03/festival-768x512.03fe1e1242cf673e3173.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/we-love-green-2027-3.jpg",
+     "thumb": "img/events/we-love-green-2027-3-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/05/68A1597-768x512.9478cb6b4379a4cbe416.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/we-love-green-2027-4.jpg",
+     "thumb": "img/events/we-love-green-2027-4-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/05/2023-06-02-19h26-Maxime-Chermat-n%C2%B06521-768x512.ec06ad3a54b338eeb6e3.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/we-love-green-2027-5.jpg",
+     "thumb": "img/events/we-love-green-2027-5-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/05/unnamed-2-2-768x1161.7628277ca8b5b2aebc3d.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/we-love-green-2027-6.jpg",
+     "thumb": "img/events/we-love-green-2027-6-t.jpg",
+     "orig": "https://medias.welovegreen.fr/www4/uploads/2024/05/HP_WeLoveGreen-J1-37-768x512.4c34138a80ec6574a61b.webp",
+     "page": "https://www.welovegreen.fr/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.welovegreen.fr/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Bois de Vincennes, Paris, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94410, France (query: Bois de Vincennes, Paris, Paris, France).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "we-love-green-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-wiener-festwochen-2027",
+   "slug": "wiener-festwochen-2027",
+   "name": "Wiener Festwochen 2027",
+   "website_url": "https://www.festwochen.at/en",
+   "start_date": null,
+   "end_date": null,
+   "city": "Vienna",
+   "country": "Austria",
+   "region": "europe",
+   "venue": null,
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Wiener Festwochen",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.festwochen.at/en",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "lat": 48.2083537,
+   "lng": 16.3725042,
+   "precise": false,
+   "category": "arts",
+   "topics": [
+    "performing arts"
+   ],
+   "photos": [
+    {
+     "src": "img/events/wiener-festwochen-2027-1.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-1-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Heroes/_1200x630_crop_center-center_none/Hero-Wiener-Festwochen-Eroeffnung-2026.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wiener-festwochen-2027-2.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-2-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Test/_990xAUTO_crop_center-center_80_none/KateWinslet_blue.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wiener-festwochen-2027-3.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-3-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Modulbilder/_527x381_fit_center-center_95_none/Media-Modul-2.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wiener-festwochen-2027-4.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-4-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Modulbilder/_527x381_fit_center-center_95_none/Media-Modul-2_2026-09-25-063939_zcan.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wiener-festwochen-2027-5.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-5-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Thumbnails_Videos/Home-Modul/_527x381_fit_center-center_95_none/Video-Titel-Modul4.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/wiener-festwochen-2027-6.jpg",
+     "thumb": "img/events/wiener-festwochen-2027-6-t.jpg",
+     "orig": "https://www.festwochen.at/assets/transforms/Thumbnails_Videos/Home-Modul/_527x381_fit_center-center_95_none/Video-Titel-Modul3.jpg",
+     "page": "https://www.festwochen.at/en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.festwochen.at/en",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Wien, Österreich (query: Vienna, Austria).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 dates were not clearly published on the official pages fetched on 23 Nov 2026. Included with status dates TBA; dates left blank.",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "wiener-festwochen-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-wireless-2027",
+   "slug": "wireless-2027",
+   "name": "Wireless Festival 2027",
+   "website_url": "https://wirelessfestival.co.uk/",
+   "start_date": null,
+   "end_date": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": "Finsbury Park, London",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Live Nation / Wireless",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://wirelessfestival.co.uk/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 51.5648345,
+   "lng": -0.1064144,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "hip-hop",
+    "R&B",
+    "grime"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://wirelessfestival.co.uk/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Finsbury Park, Spiral 4 Southbound, Finsbury Park, London Borough of Islington, Greater London, England, N4 2DH, United Kingdom (query: Finsbury Park, London, London, United Kingdom).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "wireless-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-zwarte-cross-2027",
+   "slug": "zwarte-cross-2027",
+   "name": "Zwarte Cross 2027",
+   "website_url": "https://www.zwartecross.nl/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Lichtenvoorde",
+   "country": "Netherlands",
+   "region": "europe",
+   "venue": null,
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Zwarte Cross",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.zwartecross.nl/",
+   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "lat": 51.9890577,
+   "lng": 6.5716944,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "rock",
+    "motocross",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/zwarte-cross-2027-1.jpg",
+     "thumb": "img/events/zwarte-cross-2027-1-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/themes/fuzeZwarteCross/tmp/cache/resized-images/7edcc0064400322c630598d6928d8f82.jpg",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/zwarte-cross-2027-2.jpg",
+     "thumb": "img/events/zwarte-cross-2027-2-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/themes/fuzeZwarteCross/tmp/cache/resized-images/f4d30fccb9f1db0a67288e4fd4df76c5.jpg",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/zwarte-cross-2027-3.jpg",
+     "thumb": "img/events/zwarte-cross-2027-3-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/uploads/sites/3/2026/07/ZC-Data-App.png",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/zwarte-cross-2027-4.jpg",
+     "thumb": "img/events/zwarte-cross-2027-4-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/themes/fuzeZwarteCross/images/background/elementen/images/algemeen_4.png",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/zwarte-cross-2027-5.jpg",
+     "thumb": "img/events/zwarte-cross-2027-5-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/themes/fuzeZwarteCross/images/background/elementen/images/algemeen_5.png",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/zwarte-cross-2027-6.jpg",
+     "thumb": "img/events/zwarte-cross-2027-6-t.jpg",
+     "orig": "https://www.zwartecross.nl/wp-content/uploads/sites/3/2026/11/ZC_Ik-ga-naar-de-Zwarte-Cross-2027-9-16-scaled.jpg",
+     "page": "https://www.zwartecross.nl/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.zwartecross.nl/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Lichtenvoorde, Oost Gelre, Gelderland, Nederland (query: Lichtenvoorde, Netherlands).",
+   "lineup_url": null,
+   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-23",
+   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
+   "attendance_source_url": null,
+   "attendance_note": null,
+   "id": "zwarte-cross-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
   }
  ],
  "sourceMissing": [],
  "counts": {
   "conference": 255,
-  "festival": 66,
-  "europe": 216,
-  "uae": 105
+  "festival": 140,
+  "europe": 290,
+  "uae": 105,
+  "dated": 322,
+  "dates_tba": 73
  }
 };
