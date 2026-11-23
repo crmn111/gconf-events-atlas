@@ -868,8 +868,8 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .tl-cat.culture{background:var(--culture);color:var(--on-fest)}
 .tl-cat.other{background:var(--other);color:var(--on-fest)}
 
-.regions{position:absolute;top:58px;left:50%;transform:translateX(-50%);z-index:660;display:flex;flex-wrap:wrap;justify-content:center;max-width:min(90vw,560px);background:var(--overlay);border:1px solid var(--overlay-border);border-radius:10px;padding:3px;backdrop-filter:blur(8px)}
-.regions button{border:0;background:none;color:var(--muted);font:600 12px var(--sans);padding:6px 11px;border-radius:8px;cursor:pointer}
+.regions{position:absolute;top:58px;left:50%;transform:translateX(-50%);z-index:660;display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:center;max-width:min(90vw,720px);overflow-x:auto;overflow-y:hidden;scrollbar-width:thin;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;background:var(--overlay);border:1px solid var(--overlay-border);border-radius:10px;padding:3px;backdrop-filter:blur(8px)}
+.regions button{border:0;background:none;color:var(--muted);font:600 12px var(--sans);padding:6px 9px;border-radius:8px;cursor:pointer;flex:0 0 auto;white-space:nowrap}
 .regions button.on{background:var(--ink);color:var(--on-ink)}
 #mapwrap.timeline-on .regions{display:none}
 @media (max-width:860px){
@@ -1285,11 +1285,13 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
   .regions{
     left:calc(var(--inset) + var(--sbw) + var(--inset) + (100vw - var(--sbw) - var(--inset)*3)/2);
     transform:translateX(-50%);
+    max-width:min(720px, calc(100vw - var(--sbw) - var(--inset)*4 - 24px));
   }
   #app:has(#detail.open) .regions,
   #app.play-on:has(#detail.open) .regions,
   #app:has(#mapwrap.timeline-on):has(#detail.open) .regions{
     left:calc(var(--inset) + var(--sbw) + var(--inset) + (100vw - var(--sbw) - var(--playdw) - var(--inset)*4)/2);
+    max-width:min(720px, calc(100vw - var(--sbw) - var(--playdw) - var(--inset)*5 - 24px));
   }
   .chrome-right{top:var(--inset);right:var(--inset);z-index:720;max-width:calc(100vw - var(--sbw) - var(--inset)*2 - 220px)}
   #app:has(#detail.open) .chrome-right{right:calc(var(--inset) + var(--dw) + 10px);max-width:calc(100vw - var(--sbw) - var(--dw) - var(--inset)*2 - 24px)}
