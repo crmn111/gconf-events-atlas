@@ -4,7 +4,7 @@ const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3'};
+const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education'};
 const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:'Culture', other:'Other'};
 const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
@@ -30,13 +30,28 @@ function fmtRange(a,b){
   if(A && B) return fmtDay(a) + ' – ' + fmtDay(b);
   return fmtDay(a||b);
 }
+function isPostponed(e){
+  return String(e && e.status || '').trim().toLowerCase() === 'postponed';
+}
 function datesTba(e){
+  if(isPostponed(e)) return false;
   const status = String(e && e.status || '').trim().toLowerCase();
   if(status === 'dates tba' || status === 'dates tbc') return true;
   return !parseDay(e && e.start_date) && !parseDay(e && e.end_date);
 }
-function hasDates(e){ return !datesTba(e); }
-function fmtEventDates(e){ return datesTba(e) ? 'Dates TBA' : fmtRange(e.start_date, e.end_date); }
+function hasDates(e){
+  if(isPostponed(e) || datesTba(e)) return false;
+  return !!(parseDay(e && e.start_date) || parseDay(e && e.end_date));
+}
+function fmtEventDates(e){
+  if(isPostponed(e)) return 'Postponed';
+  return datesTba(e) ? 'Dates TBA' : fmtRange(e.start_date, e.end_date);
+}
+function statusBadge(e){
+  if(isPostponed(e)) return `<span class="tag postponed">Postponed</span>`;
+  if(datesTba(e)) return `<span class="tag tba">Dates TBA</span>`;
+  return '';
+}
 function fmtPrice(e){
   if(e.ticket_price_text) return e.ticket_price_text;
   return 'Price not published';
@@ -701,7 +716,7 @@ $('#sort').onchange = e => { st.sort=e.target.value; render(); };
 
 function overlapsDate(e){
   if(!st.from && !st.to) return true;
-  if(datesTba(e)) return false;
+  if(datesTba(e) || isPostponed(e)) return false;
   const a = parseDay(e.start_date) || parseDay(e.end_date);
   const b = parseDay(e.end_date) || parseDay(e.start_date);
   if(!a && !b) return false;
@@ -775,8 +790,7 @@ function cardThumbHtml(e){
   return `<div class="th ${cat}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`;
 }
 function cardHtml(e){
-  const tba = datesTba(e);
-  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${tba?`<span class="tag tba">Dates TBA</span>`:''}<h3>${esc(e.name)}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${statusBadge(e)}<h3>${esc(e.name)}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
 }
 
 let listThumbObs = null;
@@ -877,6 +891,8 @@ function render(){
       document.querySelectorAll('footer.foot').forEach(foot => {
         foot.innerHTML = foot.innerHTML.replace(/upcoming conferences and festivals in [^.<]+/, 'upcoming conferences and festivals in '+titleBits);
       });
+      const eyebrow = document.querySelector('.brand .eyebrow');
+      if(eyebrow) eyebrow.textContent = '↳ GConf.ai · ' + titleBits;
     }
   }
   const echo = $('#mapecho');
@@ -902,12 +918,13 @@ function galHtml(photos, credit){
   const P = photos||[];
   if(!P.length) return '';
   const n = P.length;
-  const img = (p,i,cls) => `<button type="button" class="gi ${cls||''}" data-i="${i}" aria-label="Open photo ${i+1}"><img src="${esc(p.thumb||p.src)}" data-full="${esc(p.src)}" alt="" loading="${i===0?'eager':'lazy'}"></button>`;
+  const img = (p,i,cls) => `<button type="button" class="gi ${cls||''}" data-i="${i}" aria-label="Open photo ${i+1}"><img class="ld" src="${esc(p.thumb||p.src)}" data-full="${esc(p.src)}" alt="" loading="eager"></button>`;
   if(n===1) return `<div class="gal g1">${img(P[0],0,'lead')}</div>`;
   if(n===2) return `<div class="gal g2">${img(P[0],0,'lead')}${img(P[1],1)}</div>`;
   if(n===3) return `<div class="gal g3">${img(P[0],0,'lead')}${img(P[1],1)}${img(P[2],2)}</div>`;
   const rest = P.slice(1);
-  return `<div class="gal g4 gc"><div class="gi lead car" data-i="0"></div><div class="gstrip" style="--gn:${Math.min(rest.length,6)}">${rest.map((p,i)=>`<button type="button" class="gt" data-i="${i+1}"><img src="${esc(p.thumb||p.src)}" alt="" loading="lazy"></button>`).join('')}</div></div>`;
+  const leadSrc = esc(P[0].src || P[0].thumb || '');
+  return `<div class="gal g4 gc"><div class="gi lead car" data-i="0"><img class="cs on ld" src="${leadSrc}" alt=""></div><div class="gstrip" style="--gn:${Math.min(rest.length,6)}">${rest.map((p,i)=>`<button type="button" class="gt" data-i="${i+1}"><img src="${esc(p.thumb||p.src)}" alt="" loading="lazy"></button>`).join('')}</div></div>`;
 }
 function fact(label, value, url){
   if(value==null || value==='') return '';
@@ -924,7 +941,7 @@ function viewEvent(e){
   const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
   const gal = galHtml(ph, credit);
   const hero = `<div class="dhero ${esc(e.category||'')}">
-    <div class="crumbs">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}${datesTba(e)?` <span class="tag tba">Dates TBA</span>`:''}</div>
+    <div class="crumbs">${esc(catLabel(e))} · ${statusBadge(e) || esc(fmtEventDates(e))}</div>
     <h2>${esc(e.name)}</h2>
     <div class="loc">${esc(locBits)}${isApprox(e)?' · ◌ approximate pin':(!hasPin(e)?' · pin not yet placed':'')}</div>
     <div class="bigprice">${esc(fmtPrice(e))}${e.currency && hasPrice(e)?`<small>${esc(e.currency)}${e.ticket_url?' · tickets on the organiser site':''}</small>`: (hasPrice(e)?'': '<small>No verified ticket price yet</small>')}</div>
@@ -968,9 +985,27 @@ function viewEvent(e){
   return close + gal + hero + facts + about + claim + srcSec + views + powered;
 }
 
-function bindGallery(e){
+function detailPane(root){
+  if(root && root.nodeType===1) return root;
+  const body = document.getElementById('dbody');
+  if(!body) return document;
+  return body.querySelector('.dswap-pane.dswap-in.dswap-show')
+    || body.querySelector('.dswap-pane.dswap-in')
+    || body.querySelector('.dswap-pane:not(.dswap-out)')
+    || body;
+}
+function markImgLoaded(im){
+  if(!im) return;
+  const done = () => im.classList.add('ld');
+  if(im.complete) done();
+  else im.addEventListener('load', done, {once:true});
+  im.addEventListener('error', done, {once:true});
+  if(im.decode) im.decode().then(done).catch(()=>{});
+}
+function bindGallery(e, root){
+  const pane = detailPane(root);
   const photos = e.photos||[];
-  $$('#dbody .gi, #dbody .gt').forEach(el => {
+  pane.querySelectorAll('.gi, .gt').forEach(el => {
     el.onclick = ev => {
       if(ev.target.closest('.cnav,.cdot')) return;
       if(Date.now()-(window.__galSwipe||0)<450) return;
@@ -978,12 +1013,12 @@ function bindGallery(e){
       lbOpen(photos, i, e.name, e.photoCredit||'');
     };
   });
-  $$('#dbody img').forEach(im => { im.onload = () => im.classList.add('ld'); if(im.complete) im.classList.add('ld'); });
-  const claim = $('#claim-cta');
+  pane.querySelectorAll('img').forEach(markImgLoaded);
+  const claim = pane.querySelector('#claim-cta') || document.getElementById('claim-cta');
   if(claim){
     claim.onclick = ev => {
       ev.preventDefault();
-      const box = $('#claim-box');
+      const box = (pane.querySelector('#claim-box') || document.getElementById('claim-box'));
       if(box){ box.hidden = !box.hidden; }
       if(CFG.claimEmail){
         const sub = encodeURIComponent('Claim listing: '+e.name);
@@ -991,7 +1026,7 @@ function bindGallery(e){
       }
     };
   }
-  carInit(photos, e.name, e.photoCredit||'');
+  carInit(photos, e.name, e.photoCredit||'', pane);
   stubViews(e);
 }
 
@@ -1055,6 +1090,7 @@ function tlIcon(cat){
   if(cat==='crypto') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#CFF55A" stroke-width="2.2" d="M24 6 40 16v16L24 42 8 32V16L24 6z"/><path fill="none" stroke="#1FA9C6" stroke-width="2" d="M24 16 34 22v12l-10 6-10-6V22l10-6z"/></svg>`;
   if(cat==='tech') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="14" width="20" height="20" rx="3" fill="none" stroke="#CFF55A" stroke-width="2.2"/><path stroke="#CFF55A" stroke-width="2" d="M24 8v6M24 34v6M8 24h6M34 24h6"/><circle cx="24" cy="24" r="3.5" fill="#CFF55A"/></svg>`;
   if(cat==='ai') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#8FE3F2" d="M24 6l3.2 10.2L37 16.8 29.8 23l2.7 10.4L24 28.2 15.5 33.4 18.2 23 11 16.8l9.8-0.6z"/></svg>`;
+  if(cat==='education') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#B8C0FF" stroke-width="2.2" d="M8 16 24 10l16 6v18L24 40 8 34V16z"/><path fill="none" stroke="#B8C0FF" stroke-width="2" d="M24 10v30M8 16l16 6 16-6"/></svg>`;
   return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#fff" stroke-width="2.2" d="M10 34c6-14 22-14 28 0"/><circle cx="18" cy="18" r="3" fill="#fff"/><circle cx="30" cy="16" r="3" fill="#fff"/><circle cx="24" cy="22" r="2.5" fill="#fff"/></svg>`;
 }
 function startsOnOrAfterToday(e){
@@ -1112,12 +1148,63 @@ function eventCardHtml(e, side, imgPri){
     </article>
   </li>`;
 }
+const TL_SPINE_BLEND = 56;
+function tlSpineEnsure(){
+  $$('#tlbody .tl-list').forEach(list => {
+    if(list.querySelector(':scope > .tl-spine')) return;
+    const el = document.createElement('div');
+    el.className = 'tl-spine';
+    el.setAttribute('aria-hidden','true');
+    el.innerHTML = '<i class="tl-spine-fill"></i>';
+    list.insertBefore(el, list.firstChild);
+  });
+}
+function tlSpineAnchor(){
+  if(typeof PLAY!=='undefined' && PLAY.on){
+    const now = document.querySelector('#tlbody .tl-item.tl-now .tl-dot') || document.querySelector('#tlbody .tl-item.tl-now');
+    if(now) return now;
+  }
+  return document.querySelector('#tlbody .tl-item.tl-today .tl-dot') || document.querySelector('#tlbody .tl-item.tl-today');
+}
+function tlSpineUpdate(opts){
+  opts = opts||{};
+  const body = document.getElementById('tlbody');
+  if(!body) return;
+  tlSpineEnsure();
+  const reduce = (typeof playReduced==='function' && playReduced()) || !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  const tween = !!(opts.tween && !reduce);
+  const anchor = tlSpineAnchor();
+  const ar = anchor ? anchor.getBoundingClientRect() : null;
+  const mid = ar ? (ar.top + ar.height/2) : null;
+  $$('#tlbody .tl-list').forEach(list => {
+    const spine = list.querySelector(':scope > .tl-spine');
+    const fill = spine && spine.querySelector('.tl-spine-fill');
+    if(!fill) return;
+    spine.classList.toggle('tween', tween);
+    const lr = list.getBoundingClientRect();
+    let h = 0;
+    if(mid==null){
+      h = 0;
+    }else{
+      const y = mid - lr.top;
+      if(y <= 0) h = 0;
+      else h = Math.min(lr.height, y + TL_SPINE_BLEND/2);
+    }
+    fill.style.height = Math.max(0, Math.round(h)) + 'px';
+  });
+}
+addEventListener('resize', () => {
+  if(document.getElementById('mapwrap') && document.getElementById('mapwrap').classList.contains('timeline-on')){
+    tlSpineUpdate({tween:false});
+  }
+});
+
 function renderTimeline(){
   const body = $('#tlbody');
   const scrub = $('#tlscrub');
   if(!body) return;
   tlDisconnect();
-  const list = visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+  const list = visibleEvents().filter(e => !isPostponed(e)).slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
   if(!list.length){
     body.innerHTML = `<div class="tl-empty">${emptyMessage()}</div>`;
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
@@ -1225,6 +1312,7 @@ function renderTimeline(){
     c.onkeydown = ev => { if(ev.key==='Enter' || (ev.key===' ' && !PLAY.on)){ ev.preventDefault(); go(); } };
   });
   if(PLAY.on) playMarkCard();
+  tlSpineUpdate({tween:false});
 }
 $$('#viewbar button').forEach(b => b.onclick = () => {
   const v = b.dataset.v;
@@ -1622,8 +1710,8 @@ function flySfxChime(){
 function flySfxPlaceHint(tip, btn){
   if(!tip || !btn) return;
   const r = btn.getBoundingClientRect();
-  const bar = $('#playbar');
-  const br = bar ? bar.getBoundingClientRect() : r;
+  const dock = $('#playdock') || $('#playbar');
+  const br = dock ? dock.getBoundingClientRect() : r;
   tip.style.position = 'fixed';
   tip.style.left = Math.round(r.left + r.width/2) + 'px';
   tip.style.top = 'auto';
@@ -1842,8 +1930,9 @@ function playUpdateChrome(){
   }
   $$('#playbar .play-speeds button').forEach(b => b.classList.toggle('on', parseFloat(b.dataset.sp)===PLAY.speed));
   flySfxUpdateChrome();
-  const bar = $('#playbar'), btn = $('#tlplay'), app = $('#app');
+  const dock = $('#playdock'), bar = $('#playbar'), btn = $('#tlplay'), app = $('#app');
   if(app) app.classList.toggle('play-on', PLAY.on);
+  if(dock) dock.hidden = !PLAY.on;
   if(bar) bar.hidden = !PLAY.on;
   if(btn) btn.hidden = PLAY.on;
   if(PLAY.on) flySfxMaybeHint();
@@ -1858,6 +1947,7 @@ function playMarkCard(){
   card.classList.add('tl-now');
   const item = card.closest('.tl-item');
   if(item) item.classList.add('tl-now');
+  tlSpineUpdate({tween:true});
   playArmProg(playReduced() ? 80 : 900);
   const reduce = playReduced();
   const scroller = $('#timeline');
@@ -1892,7 +1982,7 @@ function playOpenPanel(e){
   const reduce = playReduced();
   const current = playWrapDetailPane(body);
   if(current && current.dataset.slug===e.slug && current.classList.contains('dswap-show')){
-    bindGallery(e);
+    bindGallery(e, current);
     updateAlertPrefs(undefined, e);
     return;
   }
@@ -1910,7 +2000,7 @@ function playOpenPanel(e){
   body.appendChild(incoming);
   const arm = () => {
     incoming.classList.add('dswap-show');
-    bindGallery(e);
+    bindGallery(e, incoming);
     updateAlertPrefs(undefined, e);
   };
   /* Visual only: never delay tourTo / play timing for the swap.
@@ -2076,6 +2166,7 @@ function playExit(opts){
   playFill(0);
   $$('#tlbody .tl-now').forEach(el => el.classList.remove('tl-now'));
   document.getElementById('app').classList.remove('play-on');
+  tlSpineUpdate({tween:true});
   tourTeardown();
   playUpdateChrome();
   const bar=$('#playbar'); if(bar) bar.hidden=true;
@@ -2133,7 +2224,7 @@ function playArmProg(ms){
 function playUserInteract(ev){
   if(!PLAY.on || PLAY.paused) return;
   if(PLAY.prog) return;
-  if(ev && ev.target && ev.target.closest && ev.target.closest('#playbar,#tlplay,.playbar,.panel-resizer,.brand-logo')) return;
+  if(ev && ev.target && ev.target.closest && ev.target.closest('#playbar,#playdock,#playbrand,#tlplay,.playbar,.play-brand,.playdock,.panel-resizer,.logo,.tl-brand')) return;
   /* Programmatic scrollTo in playMarkCard also fires 'scroll'. Ignore those
      leftovers (they outlast a fixed timeout on Safari / macOS) so autoplay
      and the airplane tour keep running. Wheel, pointer and touch still pause. */
@@ -2187,7 +2278,11 @@ function playUserInteract(ev){
 })();
 
 function route(){
-  const hash = location.hash||'#/';
+  let hash = location.hash||'';
+  if(!hash || hash==='#'){
+    history.replaceState(null, '', '#/timeline');
+    hash = '#/timeline';
+  }
   const onTimeline = /^#\/timeline/.test(hash);
   const onSwipe = /^#\/swipe/.test(hash);
   const playMatch = hash.match(/^#\/timeline\/play(?:\/([^/]+))?\/?$/);
@@ -2270,7 +2365,7 @@ function swCard(e,k){
     </div>
     <div class="swb">
       <h3>${esc(e.name)}</h3>
-      <div class="swa">${esc(fmtEventDates(e))} · ${esc(where(e))}</div>
+      <div class="swa">${esc(fmtEventDates(e))} · ${esc(where(e))} ${statusBadge(e)}</div>
       <div class="swp">${esc(fmtPrice(e))}</div>
       <dl>
         <div><dt>Organiser</dt><dd>${esc(e.organizer||'—')}</dd></div>
@@ -2432,18 +2527,19 @@ function carPaused(){
   const det=document.getElementById('detail');
   return RM.matches||CAR.hover||LB.open||document.hidden||!det||!det.classList.contains('open')||!CAR.el||!document.body.contains(CAR.el)||PLAY.on;
 }
-function carInit(list,title,credit){
+function carInit(list,title,credit,root){
   carStop();
-  const gal = lbQ('#dbody .gal'); if(!gal) return;
+  const pane = detailPane(root);
+  const gal = pane.querySelector('.gal') || lbQ('#dbody .gal'); if(!gal) return;
   const lead = gal.querySelector('.gi.lead'); if(!lead || list.length<2) return;
   Object.assign(CAR,{list,i:0,title,credit,el:lead,acc:0,busy:false,kb:0,hover:false});
   lead.classList.add('car');
-  lead.innerHTML = list.map((p,i)=>`<img class="cs ${i===0?'on':''}" src="${esc(p.src)}" alt="" ${i===0?'':'aria-hidden="true"'}>`).join('')
+  lead.innerHTML = list.map((p,i)=>`<img class="cs${i===0?' on ld':''}" src="${esc(p.src)}" alt="" ${i===0?'':'aria-hidden="true"'}>`).join('')
     + `<button class="cnav cprev" type="button" aria-label="Previous photo">‹</button>`
     + `<button class="cnav cnext" type="button" aria-label="Next photo">›</button>`
     + `<div class="cdots">${list.map((_,i)=>`<button type="button" class="cdot ${i===0?'on':''}" data-i="${i}" aria-label="Photo ${i+1}"></button>`).join('')}</div>`
     + `<span class="gcount">1 / ${list.length}</span>`;
-  lead.querySelectorAll('img').forEach(im => { im.onload=()=>im.classList.add('ld'); if(im.complete) im.classList.add('ld'); });
+  lead.querySelectorAll('img').forEach(markImgLoaded);
   lead.querySelector('.cprev').onclick = ev => { ev.stopPropagation(); carGo(CAR.i-1); };
   lead.querySelector('.cnext').onclick = ev => { ev.stopPropagation(); carGo(CAR.i+1); };
   lead.querySelectorAll('.cdot').forEach(b => b.onclick = ev => { ev.stopPropagation(); carGo(+b.dataset.i); });
@@ -2553,7 +2649,7 @@ document.addEventListener('keydown', e => {
 });
 
 render();
-if(!location.hash || location.hash==='#/') fitToVisible();
+if(location.hash==='#/') fitToVisible();
 
 
 /* Desktop floating-panel widths: shared default, drag to resize, persist. */
