@@ -833,7 +833,16 @@ function setMainView(v){
   if(v==='timeline') renderTimeline();
   if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
   if(v==='timeline' || (was==='timeline' && v!=='timeline')){
-    setTimeout(() => { try{ map.invalidateSize({animate:false}); if(v==='timeline' || v==='map') fitToVisible(); }catch(_){ } }, 80);
+    try{ map.invalidateSize({animate:false}); }catch(_){}
+    setTimeout(() => {
+      try{
+        map.invalidateSize({animate:false});
+        /* Do not steal the camera once play/tour has started — fitToVisible
+           was cancelling the zoom-out / great-circle framing. */
+        if(PLAY.on) return;
+        if(v==='timeline' || v==='map') fitToVisible();
+      }catch(_){}
+    }, 80);
   }
   if(was==='timeline' && v!=='timeline'){
     if(PLAY.on) playExit({silent:true});
@@ -1118,12 +1127,14 @@ function tourPadding(){
   const det = $('#detail');
   const stripEl = $('#timeline');
   const sideEl = $('#sidebar');
-  const rectRight = (el) => {
+  /* Use layout width (offsetWidth), not getBoundingClientRect, so a mid-slide
+     transform on the floating detail card cannot shrink the map padding and
+     frame the airplane under the panel. */
+  const layoutW = (el) => {
     if(!el) return 0;
     const s = getComputedStyle(el);
-    if(s.display==='none' || s.visibility==='hidden') return 0;
-    const r = el.getBoundingClientRect();
-    return r.width>0 ? r : 0;
+    if(s.display==='none') return 0;
+    return el.offsetWidth||0;
   };
   if(!desk){
     const open = det && det.classList.contains('open');
@@ -1134,11 +1145,12 @@ function tourPadding(){
       bottom: (open ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86
     };
   }
+  const inset = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--inset')) || 14;
   const leftEl = (stripEl && getComputedStyle(stripEl).display!=='none') ? stripEl : sideEl;
-  const L = rectRight(leftEl);
-  const R = (det && det.classList.contains('open')) ? rectRight(det) : 0;
-  const left = L ? Math.round(L.right) + 8 : 14;
-  const right = R ? Math.round(innerWidth - R.left) + 8 : 14;
+  const Lw = layoutW(leftEl);
+  const Rw = (det && det.classList.contains('open')) ? layoutW(det) : 0;
+  const left = Lw ? Math.round(inset + Lw) + 8 : 14;
+  const right = Rw ? Math.round(inset + Rw) + 8 : 14;
   return { left, right, top: 70, bottom: 108 };
 }
 function tourFocus(ll, z){
