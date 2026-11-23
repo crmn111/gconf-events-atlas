@@ -2,6 +2,7 @@
    Light is the default theme. Dark is opt-in and stored in localStorage. */
 :root, html[data-theme="light"]{
   --sbw:400px;
+  --tourstrip:min(320px,28vw);
   --dw:clamp(460px,48vw,720px);
   --bg:#F3F5F7;
   --header:#FFFFFF;
@@ -167,7 +168,20 @@ h1{font-weight:600;font-size:22px;margin:2px 0 0;letter-spacing:-.02em}
 #list{flex:none;padding:4px 14px 14px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0;cursor:pointer;transition:.15s;display:flex;gap:12px}
 .card:hover{box-shadow:var(--shadow);transform:translateY(-1px);border-color:var(--cyan)}
-.card .th{width:72px;height:58px;border-radius:10px;flex:none;background:var(--input) center/cover no-repeat;display:grid;place-items:center}
+.card .th{width:72px;height:58px;border-radius:10px;flex:none;background:var(--input);overflow:hidden;display:grid;place-items:center;position:relative}
+.card .th img{width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity .2s ease}
+.card .th img.ld{opacity:1}
+.card .th.ph{font:700 8.5px var(--mono);letter-spacing:.05em;text-transform:uppercase;color:#fff;text-align:center;padding:4px;line-height:1.2}
+.card .th.ph span{max-width:100%;overflow:hidden}
+.card .th.ph.ai{background:linear-gradient(135deg,#082830,#1FA9C6)}
+.card .th.ph.tech{background:linear-gradient(135deg,#1a2408,#8AA61A)}
+.card .th.ph.crypto{background:linear-gradient(135deg,#12181F,#1FA9C6)}
+.card .th.ph.music{background:linear-gradient(135deg,#1a1238,#6B4DE8)}
+.card .th.ph.arts{background:linear-gradient(135deg,#2a1018,#D44B78)}
+.card .th.ph.film{background:linear-gradient(135deg,#2a1a08,#E08A2A)}
+.card .th.ph.food{background:linear-gradient(135deg,#2a100c,#C94A38)}
+.card .th.ph.culture{background:linear-gradient(135deg,#082420,#1F8A7A)}
+.card .th.ph.other{background:linear-gradient(135deg,#1a1e22,#5C6570)}
 .card .meta{min-width:0;flex:1}
 .card h3{margin:0 0 2px;font-size:15px;font-weight:600;letter-spacing:-.01em;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .card .where{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -730,4 +744,110 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 #mapwrap.timeline-on .regions{display:none}
 @media (max-width:860px){
   .regions{top:104px;left:58px;transform:none}
+}
+
+
+/* ---------- Presentation map tour ---------- */
+#mapwrap.timeline-on.play-tour #map{visibility:visible;pointer-events:auto}
+#mapwrap.timeline-on.play-tour #timeline{
+  display:block;
+  inset:auto;
+  top:58px;right:12px;bottom:86px;
+  width:var(--tourstrip);
+  z-index:680;
+  background:var(--overlay);
+  border:1px solid var(--overlay-border);
+  border-radius:18px;
+  box-shadow:var(--shadow-strong);
+  overflow:auto;
+  backdrop-filter:blur(14px);
+}
+#mapwrap.timeline-on.play-tour .tl-top{
+  padding:10px 12px 8px;
+  background:linear-gradient(var(--overlay) 72%,transparent);
+  position:sticky;
+}
+#mapwrap.timeline-on.play-tour .tl-scrub{gap:4px}
+#mapwrap.timeline-on.play-tour .tl-scroll{padding:4px 12px 16px;max-width:none;margin:0}
+#mapwrap.timeline-on.play-tour .tl-month-h{font-size:13px;padding:8px 2px 6px}
+#app.play-tour.play-on #timeline{padding-left:0;padding-bottom:0}
+#mapwrap.play-tour .tour-arc.run{stroke-dasharray:10 12;animation:tour-dash 1.2s linear infinite}
+@keyframes tour-dash{to{stroke-dashoffset:-44}}
+@media (prefers-reduced-motion: reduce){
+  #mapwrap.play-tour .tour-arc.run{animation:none}
+}
+#mapwrap.timeline-on.play-tour .tl-list{padding-left:18px}
+#mapwrap.timeline-on.play-tour .tl-list::before{left:4px}
+#app.play-tour.play-on .tl-item.tl-card-item{max-width:none;margin:0 0 14px 0;opacity:.38}
+#app.play-tour.play-on .tl-item.tl-now{opacity:1}
+#app.play-tour.play-on .tl-hero{height:92px}
+#app.play-tour.play-on .tl-body h3{font-size:15px}
+#app.play-tour.play-on .viewbar{left:calc(var(--playdw) + (100% - var(--playdw) - var(--tourstrip))/2);transform:translateX(-50%)}
+#app.play-tour.play-on .playbar{
+  left:calc(var(--sbw) + var(--playdw) + (100vw - var(--sbw) - var(--playdw) - var(--tourstrip))/2);
+  max-width:calc(100vw - var(--sbw) - var(--playdw) - var(--tourstrip) - 28px);
+}
+#mapwrap.play-tour .leaflet-control-zoom{display:none}
+#mapwrap.play-tour .leaflet-marker-pane,
+#mapwrap.play-tour .leaflet-shadow-pane{display:none}
+
+#mapwrap.play-tour .leaflet-bottom.leaflet-left{left:calc(var(--playdw,0px) + 12px);bottom:100px}
+#mapwrap.play-tour .leaflet-control-attribution{margin-right:calc(var(--tourstrip) + 16px)}
+
+.tour-caption{
+  position:absolute;
+  z-index:670;
+  left:calc(var(--playdw, 0px) + 22px);
+  top:70px;
+  bottom:auto;
+  max-width:min(440px, calc(100% - var(--tourstrip) - var(--playdw,0px) - 48px));
+  color:var(--ink);
+  pointer-events:none;
+  padding:16px 18px 14px;
+  border-radius:16px;
+  background:var(--overlay);
+  border:1px solid var(--overlay-border);
+  box-shadow:var(--shadow-strong);
+  backdrop-filter:blur(16px);
+  opacity:0;
+  transform:translateY(10px);
+  transition:opacity .45s ease, transform .45s ease;
+}
+.tour-caption.in{opacity:1;transform:none}
+.tour-kicker{font:500 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.tour-place{font:700 22px var(--sans);letter-spacing:-.03em;line-height:1.15}
+.tour-date{font:500 13px var(--sans);color:var(--muted);margin-top:2px}
+.tour-event{font:600 14px var(--sans);letter-spacing:-.01em;margin-top:8px;color:var(--ink);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+.tour-marker,.tour-ripple-wrap{background:none!important;border:0!important}
+.tour-pin{display:block;width:22px;height:22px;margin:3px auto 0;border-radius:50%;background:var(--lime);box-shadow:0 0 0 4px var(--bg),0 0 22px var(--lime),0 0 40px rgba(207,245,90,.45);position:relative}
+.tour-pin i{display:none}
+.tour-pin.ai{background:var(--cyan);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--cyan)}
+.tour-pin.tech{background:var(--lime)}
+.tour-pin.crypto{background:var(--ink);box-shadow:0 0 0 3px var(--cyan),0 0 18px var(--cyan)}
+.tour-ripple{position:absolute;left:50%;top:50%;width:18px;height:18px;margin:-9px 0 0 -9px;border-radius:50%;border:2px solid var(--lime);box-sizing:border-box;animation:tour-ripple 1.8s ease-out infinite;opacity:0}
+.tour-ripple.delay{animation-delay:.55s}
+@keyframes tour-ripple{
+  0%{transform:scale(.5);opacity:.85}
+  100%{transform:scale(5.4);opacity:0}
+}
+.leaflet-tour-pane .tour-arc,.tour-arc{filter:drop-shadow(0 0 6px rgba(207,245,90,.55))}
+.tour-arc.past{filter:none}
+
+@media (max-width:860px){
+  #mapwrap.timeline-on.play-tour #timeline{display:none}
+  .tour-caption{
+    left:12px;right:12px;bottom:auto;top:104px;
+    max-width:none;padding:10px 12px;
+  }
+  .tour-place{font-size:18px}
+  .tour-event{margin-top:4px;font-size:13px}
+  #mapwrap.play-tour .leaflet-bottom.leaflet-left{left:10px;bottom:auto;top:auto}
+  #mapwrap.play-tour .leaflet-control-attribution{margin-right:8px}
+  #app.play-tour.play-on .playbar{left:8px;right:8px;max-width:none}
+}
+@media (prefers-reduced-motion: reduce){
+  .tour-caption,.tour-caption.in{transition:none;transform:none;opacity:1}
+  .tour-ripple,.tour-ripple.delay{animation:none;opacity:.45;transform:scale(2.2)}
+  .card .th img,.card .th img.ld{transition:none;opacity:1}
 }

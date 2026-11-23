@@ -572,10 +572,82 @@ function sortEvents(a){
   return copy;
 }
 
+function leadPhoto(e){
+  const ph = e && e.photos && e.photos[0];
+  if(ph && (ph.thumb || ph.src)){
+    return { thumb: ph.thumb || ph.src, full: ph.src || ph.thumb };
+  }
+  return null;
+}
+function cardThumbHtml(e){
+  const ph = leadPhoto(e);
+  const cat = esc(e.category||'');
+  if(!ph){
+    return `<div class="th ph ${cat}" aria-hidden="true"><span>${esc(catLabel(e))}</span></div>`;
+  }
+  return `<div class="th ${cat}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`;
+}
 function cardHtml(e){
-  const ph = e.photos && e.photos[0];
-  const th = ph ? `style="background-image:url('${esc(ph.thumb||ph.src)}')"` : '';
-  return `<article class="card" data-r="event/${esc(e.slug)}"><div class="th" ${th}></div><div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span><h3>${esc(e.name)}</h3><div class="where">${esc(fmtRange(e.start_date,e.end_date))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span><h3>${esc(e.name)}</h3><div class="where">${esc(fmtRange(e.start_date,e.end_date))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+}
+
+let listThumbObs = null;
+function bindListThumbs(){
+  if(listThumbObs){ listThumbObs.disconnect(); listThumbObs=null; }
+  const fail = (img) => {
+    const wrap = img.closest('.th');
+    const card = img.closest('.card');
+    const slug = ((card && card.dataset.r) || '').replace(/^event\//,'');
+    const ev = EV.find(x => x.slug===slug);
+    if(wrap){
+      wrap.classList.add('ph');
+      if(ev) wrap.classList.add(ev.category||'');
+      if(!wrap.querySelector('span')){
+        const s=document.createElement('span');
+        s.textContent = ev ? catLabel(ev) : 'Event';
+        wrap.appendChild(s);
+      }
+    }
+    img.remove();
+  };
+  const load = (img) => {
+    if(!img || img.dataset.ok || img.dataset.busy) return;
+    img.dataset.busy = '1';
+    const thumb = img.dataset.src;
+    const full = img.dataset.full || thumb;
+    const apply = (url, last) => {
+      img.onload = () => { img.dataset.ok='1'; img.classList.add('ld'); delete img.dataset.busy; };
+      img.onerror = () => {
+        if(!last && full && full!==url) apply(full, true);
+        else fail(img);
+      };
+      img.src = url;
+    };
+    if(!thumb){ fail(img); return; }
+    apply(thumb, !full || full===thumb);
+  };
+  /* Native loading=lazy is unreliable in a nested sidebar scroller
+     (#app does not scroll, only #sidebar does). Load list thumbs
+     immediately; they are small -t.jpg files. */
+  $$('#list .th img[data-src]').forEach(load);
+}
+function bindMediaFallback(sel){
+  $$(sel).forEach(img => {
+    if(img.dataset.fb) return;
+    img.dataset.fb='1';
+    img.addEventListener('error', function onerr(){
+      const full = img.dataset.full;
+      if(full && !img.dataset.triedFull){
+        img.dataset.triedFull='1';
+        img.src = full;
+        return;
+      }
+      img.removeEventListener('error', onerr);
+      const hero = img.closest('.tl-hero, .th, .swimg');
+      if(hero){ hero.classList.add('ph'); hero.classList.remove('hasphoto'); }
+      img.remove();
+    });
+  });
 }
 
 
@@ -617,7 +689,7 @@ function render(){
   if(u) u.textContent = '('+kindPool().filter(e=>!hasPrice(e)).length+')';
   updateAlertPrefs(vis.length);
   if(PLAY.on && !PLAY.paused) playPause();
-  if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')) renderTimeline();
+  if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')){ renderTimeline(); bindMediaFallback('#tlbody img'); }
   if(PLAY.on) playReconcile();
 }
 
@@ -953,9 +1025,247 @@ function playEvents(){
   return visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
 }
 function playMapVisible(){
-  const wrap = $('#mapwrap');
-  return !!(wrap && !wrap.classList.contains('timeline-on') && $('#map') && $('#map').offsetParent!==null);
+  return !!(PLAY.on && $('#map'));
 }
+
+/* Cinematic map tour during presentation.
+   Pitch/bearing are not used: MapLibre can do them, but Leaflet pins, the
+   ripple and the route arc live in Leaflet's 2D overlay and would drift.
+   The flight itself is a zoom-out / great-circle / zoom-in, with a dashed
+   route and a pulsing pin — premium without breaking alignment. */
+const TOUR = { arcs:[], ripple:null, pin:null, raf:0, timers:[], prev:null, path:null, growing:null };
+
+function tourPane(){
+  if(!map.getPane('tour')){
+    map.createPane('tour');
+    const p = map.getPane('tour');
+    p.style.zIndex = 650;
+    p.style.pointerEvents = 'none';
+  }
+  return map.getPane('tour');
+}
+function tourClearTimers(){
+  TOUR.timers.forEach(id => clearTimeout(id));
+  TOUR.timers = [];
+  if(TOUR.raf){ cancelAnimationFrame(TOUR.raf); TOUR.raf=0; }
+  try{ map.stop(); }catch(_){}
+}
+function tourLater(fn, ms){
+  const id = setTimeout(fn, ms);
+  TOUR.timers.push(id);
+  return id;
+}
+function tourClearGraphics(){
+  tourClearTimers();
+  TOUR.arcs.forEach(l => { try{ map.removeLayer(l); }catch(_){} });
+  TOUR.arcs = [];
+  if(TOUR.growing){ try{ map.removeLayer(TOUR.growing); }catch(_){} TOUR.growing=null; }
+  if(TOUR.ripple){ try{ map.removeLayer(TOUR.ripple); }catch(_){} TOUR.ripple=null; }
+  if(TOUR.pin){ try{ map.removeLayer(TOUR.pin); }catch(_){} TOUR.pin=null; }
+  TOUR.path = null;
+  TOUR.prev = null;
+}
+function tourTeardown(){
+  tourClearGraphics();
+  const wrap = $('#mapwrap'), app = $('#app'), cap = $('#tourcaption');
+  if(wrap) wrap.classList.remove('play-tour');
+  if(app) app.classList.remove('play-tour');
+  if(cap){ cap.hidden = true; cap.setAttribute('aria-hidden','true'); }
+  try{ map.invalidateSize({animate:false}); }catch(_){}
+}
+function tourPrep(){
+  const wrap = $('#mapwrap'), app = $('#app');
+  if(wrap) wrap.classList.add('play-tour');
+  if(app) app.classList.add('play-tour');
+  tourPane();
+  try{ map.invalidateSize({animate:false}); }catch(_){}
+}
+function tourPadding(){
+  const desk = innerWidth>860;
+  const det = $('#detail');
+  const strip = desk ? (parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--tourstrip')) || 300) : 0;
+  return {
+    left: desk ? ((det && det.classList.contains('open') ? det.offsetWidth : 0) || 0) : 0,
+    right: desk ? strip + 16 : 12,
+    top: 70,
+    bottom: desk ? 100 : ((det && det.classList.contains('open') ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86)
+  };
+}
+function tourFocus(ll, z){
+  const pad = tourPadding();
+  const size = map.getSize();
+  const ox = (pad.left - pad.right)/2;
+  const oy = (pad.top - pad.bottom)/2;
+  return map.unproject(map.project(ll, z).subtract([ox, oy]), z);
+}
+function tourZoom(e){
+  if(!e || e.lat==null) return 5;
+  return e.precise===true ? 13 : 11;
+}
+function lerpGc(a, b, steps){
+  const toRad = Math.PI/180, toDeg = 180/Math.PI;
+  const lat1=a.lat*toRad, lon1=a.lng*toRad, lat2=b.lat*toRad, lon2=b.lng*toRad;
+  const d = 2*Math.asin(Math.min(1, Math.sqrt(Math.pow(Math.sin((lat2-lat1)/2),2) + Math.cos(lat1)*Math.cos(lat2)*Math.pow(Math.sin((lon2-lon1)/2),2))));
+  if(!(d>1e-8)) return [a, b];
+  const pts=[];
+  const n = Math.max(8, steps|0);
+  for(let i=0;i<=n;i++){
+    const f=i/n, A=Math.sin((1-f)*d)/Math.sin(d), B=Math.sin(f*d)/Math.sin(d);
+    const x=A*Math.cos(lat1)*Math.cos(lon1)+B*Math.cos(lat2)*Math.cos(lon2);
+    const y=A*Math.cos(lat1)*Math.sin(lon1)+B*Math.cos(lat2)*Math.sin(lon2);
+    const z=A*Math.sin(lat1)+B*Math.sin(lat2);
+    pts.push(L.latLng(Math.atan2(z,Math.sqrt(x*x+y*y))*toDeg, Math.atan2(y,x)*toDeg));
+  }
+  return pts;
+}
+function tourCaption(e){
+  const cap = $('#tourcaption');
+  if(!cap) return;
+  if(!e){ cap.hidden = true; cap.setAttribute('aria-hidden','true'); return; }
+  const loc = [e.city, e.country].filter(Boolean).join(', ') || 'Location to be published';
+  const flag = typeof flagOf==='function' ? flagOf(e.country) : '';
+  const kicker = (PLAY.i+1)+' of '+PLAY.list.length;
+  const k = $('#tourkicker'), c = $('#tourcity'), d = $('#tourdate'), n = $('#tourname');
+  if(k) k.textContent = kicker + (e.lat==null ? ' · Pin not published' : '');
+  if(c) c.textContent = (flag ? flag+' ' : '') + loc;
+  if(d) d.textContent = fmtRange(e.start_date, e.end_date) || '';
+  if(n) n.textContent = e.name || '';
+  cap.hidden = false;
+  cap.setAttribute('aria-hidden','false');
+  cap.classList.remove('in');
+  void cap.offsetWidth;
+  cap.classList.add('in');
+}
+function tourDropPin(e, reduce){
+  if(TOUR.ripple){ try{ map.removeLayer(TOUR.ripple); }catch(_){} TOUR.ripple=null; }
+  if(TOUR.pin){ try{ map.removeLayer(TOUR.pin); }catch(_){} TOUR.pin=null; }
+  if(!e || e.lat==null || e.lng==null) return;
+  const ll = L.latLng(e.lat, e.lng);
+  const pin = L.marker(ll, {
+    pane:'tour',
+    interactive:false,
+    keyboard:false,
+    zIndexOffset:2000,
+    icon: L.divIcon({
+      className:'tour-marker',
+      html:`<span class="tour-pin ${esc(e.category||'')} ${reduce?'reduced':''}"><i></i></span>`,
+      iconSize:[28,28],
+      iconAnchor:[14,14]
+    })
+  }).addTo(map);
+  const ripple = L.marker(ll, {
+    pane:'tour',
+    interactive:false,
+    keyboard:false,
+    zIndexOffset:1990,
+    icon: L.divIcon({
+      className:'tour-ripple-wrap',
+      html:`<span class="tour-ripple ${reduce?'reduced':''}"></span><span class="tour-ripple delay ${reduce?'reduced':''}"></span>`,
+      iconSize:[120,120],
+      iconAnchor:[60,60]
+    })
+  }).addTo(map);
+  TOUR.pin = pin;
+  TOUR.ripple = ripple;
+}
+function tourArcStyle(opts){
+  opts = opts||{};
+  return {
+    pane:'tour',
+    color: opts.color || '#CFF55A',
+    weight: opts.weight || 2.5,
+    opacity: opts.opacity==null ? 0.95 : opts.opacity,
+    dashArray: '10 12',
+    lineCap:'round',
+    lineJoin:'round',
+    className: 'tour-arc' + (opts.past ? ' past' : '') + (opts.animate ? ' run' : ''),
+    interactive:false
+  };
+}
+function tourDrawPast(pts, reduce){
+  TOUR.arcs.forEach(l => {
+    try{ l.setStyle({opacity:0.28, weight:2, className:'tour-arc past'}); }catch(_){}
+  });
+  // cap stored arcs
+  while(TOUR.arcs.length>8){
+    const old = TOUR.arcs.shift();
+    try{ map.removeLayer(old); }catch(_){}
+  }
+}
+function tourGrowArc(pts, duration){
+  if(TOUR.growing){ try{ map.removeLayer(TOUR.growing); }catch(_){} TOUR.growing=null; }
+  if(!pts || pts.length<2) return;
+  const line = L.polyline([pts[0], pts[0]], tourArcStyle({animate:true})).addTo(map);
+  TOUR.growing = line;
+  const t0 = performance.now();
+  const step = (now) => {
+    const t = Math.min(1, (now-t0)/Math.max(160, duration));
+    const n = Math.max(2, Math.floor(t*(pts.length-1))+1);
+    line.setLatLngs(pts.slice(0, n));
+    if(t<1 && PLAY.on){ TOUR.raf = requestAnimationFrame(step); }
+    else {
+      TOUR.raf = 0;
+      line.setLatLngs(pts);
+      TOUR.arcs.push(line);
+      TOUR.growing = null;
+    }
+  };
+  TOUR.raf = requestAnimationFrame(step);
+}
+function tourTo(e){
+  tourClearTimers();
+  tourCaption(e);
+  const reduce = playReduced();
+  const has = e && e.lat!=null && e.lng!=null;
+  const ll = has ? L.latLng(e.lat, e.lng) : null;
+  const prev = TOUR.prev;
+  if(!has){
+    tourDropPin(null, reduce);
+    TOUR.prev = null;
+    return;
+  }
+  const z = tourZoom(e);
+  const dest = tourFocus(ll, z);
+  let path = null;
+  if(prev && (prev.lat!==ll.lat || prev.lng!==ll.lng)){
+    const dist = map.distance(prev, ll);
+    const steps = Math.max(16, Math.min(64, Math.round(dist/40000)));
+    path = lerpGc(prev, ll, steps);
+    tourDrawPast(path, reduce);
+    if(reduce){
+      const line = L.polyline(path, tourArcStyle({animate:false})).addTo(map);
+      TOUR.arcs.push(line);
+    }else{
+      const dur = Math.max(700, Math.min(1800, 600 + dist/900)) / (PLAY.speed||1);
+      tourGrowArc(path, dur);
+    }
+  }
+  const finish = () => { tourDropPin(e, reduce); TOUR.prev = ll; };
+  try{ map.stop(); }catch(_){}
+  if(reduce){
+    map.setView(dest, z, {animate:false});
+    finish();
+    return;
+  }
+  const durIn = Math.max(800, Math.min(1600, 900 / (PLAY.speed||1)));
+  if(path && path.length>2){
+    const mid = path[Math.floor(path.length/2)];
+    const bounds = L.latLngBounds(path);
+    let zOut = 5;
+    try{ zOut = Math.max(4, Math.min(map.getBoundsZoom(bounds.pad(0.35))||5, 7)); }catch(_){}
+    const midFocus = tourFocus(mid, zOut);
+    const durOut = Math.max(380, Math.min(700, 520 / (PLAY.speed||1)));
+    map.flyTo(midFocus, zOut, {duration: durOut/1000, easeLinearity:0.35});
+    tourLater(() => {
+      map.flyTo(dest, z, {duration: durIn/1000, easeLinearity:0.25});
+      tourLater(finish, durIn);
+    }, durOut);
+  }else{
+    map.flyTo(dest, z, {duration: Math.max(700, durIn*0.9)/1000, easeLinearity:0.25});
+    tourLater(finish, durIn);
+  }
+}
+
 function atlasCloseDetail(){
   if(PLAY.on){
     playPause();
@@ -1024,13 +1334,6 @@ function playOpenPanel(e){
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
   bindGallery(e);
   updateAlertPrefs(undefined, e);
-  if(playMapVisible() && e.lat!=null && e.lng!=null){
-    const z = Math.max(map.getZoom(), 10);
-    const off = innerWidth>860 ? Math.round(det.getBoundingClientRect().width/2) : 0;
-    const ll = L.latLng(e.lat, e.lng);
-    const pt = map.project(ll,z).subtract([off,0]);
-    map.flyTo(map.unproject(pt,z), z, {duration: playReduced()?0:.7});
-  }
   if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
 }
 
@@ -1048,6 +1351,9 @@ function playShow(i, opts){
   playUpdateChrome();
   playFill(0);
   playSetHash(e.slug, opts.replace!==false);
+  tourClearTimers();
+  try{ map.invalidateSize({animate:false}); }catch(_){}
+  tourLater(() => tourTo(e), 60);
 }
 
 function playSyncGallery(){
@@ -1132,8 +1438,9 @@ function playEnter(opts){
   PLAY.on = true;
   PLAY.suppressAuto = false;
   document.getElementById('app').classList.add('play-on');
+  tourPrep();
   if(!already) playShow(i, {replace:true});
-  else playUpdateChrome();
+  else { playUpdateChrome(); tourTo(PLAY.list[i]); }
   const shouldPlay = opts.auto!==false && !playReduced() && !opts.paused;
   if(shouldPlay) playResume();
   else playPause();
@@ -1151,6 +1458,7 @@ function playExit(opts){
   playFill(0);
   $$('#tlbody .tl-now').forEach(el => el.classList.remove('tl-now'));
   document.getElementById('app').classList.remove('play-on');
+  tourTeardown();
   playUpdateChrome();
   const bar=$('#playbar'); if(bar) bar.hidden=true;
   const btn=$('#tlplay'); if(btn) btn.hidden=false;
@@ -1380,7 +1688,12 @@ document.addEventListener('keydown', e => {
   if(e.key==='ArrowRight'){ e.preventDefault(); swStep(1); }
   else if(e.key==='ArrowLeft'){ e.preventDefault(); swStep(-1); }
 });
-window.addEventListener('resize', () => { if(SW.open) swLayout(false); });
+window.addEventListener('resize', () => {
+  if(SW.open) swLayout(false);
+  if(PLAY.on){
+    try{ map.invalidateSize({animate:false}); }catch(_){}
+  }
+});
 (function(){
   const vp = $('#swview');
   let x0=null,y0=0,dx=0,lock=null,w=0;

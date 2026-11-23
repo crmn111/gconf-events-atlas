@@ -11,7 +11,9 @@ Live: https://crmn111.github.io/gconf-events-atlas/
   and `#/swipe`. The timeline opens in a presentation that steps
   through filtered events (pause, speed and Stop in the play bar;
   Space, arrows and Esc; autoplay is skipped when
-  `prefers-reduced-motion` is set).
+  `prefers-reduced-motion` is set). During play the map comes on
+  stage with a cinematic fly between venues, a dashed route arc,
+  a pulsing pin and a date/city caption.
 - A Conferences / Festivals toggle switches the map, timeline, swipe
   and play lists. Category chips follow the selected kind (AI / tech /
   crypto for conferences; music, arts, film, food, culture or other
