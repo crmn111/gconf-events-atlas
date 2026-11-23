@@ -2,9 +2,12 @@
    Light is the default theme. Dark is opt-in and stored in localStorage. */
 :root, html[data-theme="light"]{
   --sbw:400px;
-  --tourstrip:clamp(360px,28vw,440px);
+  --tourstrip:400px;
   --playdw:clamp(420px,36vw,560px);
   --dw:clamp(460px,48vw,720px);
+  --inset:14px;
+  --panel-radius:16px;
+  --panel-float:rgba(255,255,255,.78);
   --bg:#F3F5F7;
   --header:#FFFFFF;
   --panel:#FFFFFF;
@@ -50,6 +53,7 @@
   color-scheme:light;
 }
 html[data-theme="dark"]{
+  --panel-float:rgba(16,22,28,.78);
   --bg:#0A0E12;
   --header:#0A0E12;
   --panel:#10161C;
@@ -672,6 +676,13 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .play-speeds button.on{background:var(--ink);color:var(--on-ink)}
 .play-stop{border:0;background:var(--lime);color:var(--on-accent);font:700 13px var(--sans);padding:8px 14px;border-radius:999px;cursor:pointer}
 .play-stop:hover{filter:brightness(1.05)}
+.play-btn.play-sound{width:40px;height:40px;display:inline-flex;align-items:center;justify-content:center;padding:0}
+.play-btn.play-sound svg{width:20px;height:20px;display:block}
+.play-btn.play-sound .ico-on{display:none}
+.play-btn.play-sound .ico-off{display:block}
+.play-btn.play-sound.on{background:var(--ink);color:var(--on-ink)}
+.play-btn.play-sound.on .ico-on{display:block}
+.play-btn.play-sound.on .ico-off{display:none}
 
 #app.play-on #timeline{scroll-padding-bottom:90px}
 #app.play-on .tl-item.tl-card-item{opacity:.4;transition:opacity .35s ease,transform .35s ease}
@@ -772,21 +783,22 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 #mapwrap.timeline-on.play-tour #timeline{
   display:block;
   inset:auto;
-  top:14px;right:14px;bottom:14px;
-  width:var(--tourstrip);
+  top:var(--inset);left:var(--inset);bottom:var(--inset);right:auto;
+  width:var(--sbw);
   container-type:inline-size;
   container-name:tourstrip;
   z-index:680;
-  background:var(--panel);
+  background:var(--panel-float);
+  backdrop-filter:blur(20px);
+  -webkit-backdrop-filter:blur(20px);
   border:1px solid var(--overlay-border);
-  border-radius:20px;
+  border-radius:var(--panel-radius);
   box-shadow:var(--shadow-strong);
   overflow:auto;
-  backdrop-filter:blur(16px);
 }
 #mapwrap.timeline-on.play-tour .tl-top{
   padding:16px 18px 12px;
-  background:linear-gradient(var(--panel) 80%,transparent);
+  background:linear-gradient(var(--panel-float) 80%,transparent);
   position:sticky;
   gap:10px;
 }
@@ -886,33 +898,22 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
   }
 }
 
-/* In play mode the filter sidebar yields space so the detail panel can stay wide;
-   the map (centre band) is what gets narrower. */
+/* Play-tour: filter sidebar hidden; timeline already occupies the left card. */
 @media (min-width:861px){
-  #app.play-tour.play-on{--sbw:0px;--playdw:clamp(420px,36vw,560px)}
   #app.play-tour.play-on #sidebar{display:none}
-  #app.play-tour.play-on #detail{left:0;width:var(--playdw)}
   #app.play-tour.play-on #mobtoggle{display:none}
-}
-#app.play-tour.play-on .viewbar{left:calc(var(--playdw) + (100% - var(--playdw) - var(--tourstrip))/2);transform:translateX(-50%)}
-#app.play-tour.play-on .playbar{
-  left:calc(var(--sbw) + var(--playdw) + (100vw - var(--sbw) - var(--playdw) - var(--tourstrip))/2);
-  max-width:calc(100vw - var(--sbw) - var(--playdw) - var(--tourstrip) - 28px);
 }
 #mapwrap.play-tour .leaflet-control-zoom{display:none}
 #mapwrap.play-tour .leaflet-marker-pane,
 #mapwrap.play-tour .leaflet-shadow-pane{display:none}
 
-#mapwrap.play-tour .leaflet-bottom.leaflet-left{left:calc(var(--playdw,0px) + 12px);bottom:100px}
-#mapwrap.play-tour .leaflet-control-attribution{margin-right:calc(var(--tourstrip) + 16px)}
-
 .tour-caption{
   position:absolute;
   z-index:670;
-  left:calc(var(--playdw, 0px) + 22px);
+  left:calc(var(--inset) + var(--sbw) + 16px);
   top:70px;
   bottom:auto;
-  max-width:min(440px, calc(100% - var(--tourstrip) - var(--playdw,0px) - 48px));
+  max-width:min(440px, calc(100vw - var(--sbw) - var(--playdw) - var(--inset)*2 - 40px));
   color:var(--ink);
   pointer-events:none;
   padding:16px 18px 14px;
@@ -976,4 +977,208 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 @media (prefers-reduced-motion: reduce){
   .tour-plane{filter:drop-shadow(0 2px 2px rgba(18,24,31,.3))}
   .tour-plane.landed{transition:none;opacity:0}
+}
+
+
+/* ---------- Desktop floating panels over a full-bleed map ---------- */
+@media (min-width:861px){
+  :root,#app{
+    --inset:14px;
+    --panel-radius:16px;
+  }
+  #mapwrap{
+    position:absolute;
+    inset:0;
+    flex:none;
+    width:100%;
+    height:100%;
+  }
+  #sidebar,
+  #detail,
+  #mapwrap.timeline-on #timeline{
+    background:var(--panel-float);
+    backdrop-filter:blur(20px);
+    -webkit-backdrop-filter:blur(20px);
+    border:1px solid var(--overlay-border);
+    border-radius:var(--panel-radius);
+    box-shadow:var(--shadow-strong);
+  }
+  #sidebar{
+    position:absolute;
+    top:var(--inset);
+    left:var(--inset);
+    bottom:var(--inset);
+    width:var(--sbw);
+    min-width:0;
+    z-index:500;
+    overflow:auto;
+    border-right:0;
+  }
+  #sidebar .brand,
+  #sidebar .kindbar,
+  #sidebar .stats{background:transparent}
+  #detail{
+    top:var(--inset);
+    bottom:var(--inset);
+    left:auto;
+    right:var(--inset);
+    width:var(--dw);
+    transform:translateX(calc(100% + var(--inset) + 8px));
+    overflow:hidden;
+    border-right:0;
+  }
+  #detail.open{transform:none}
+  #detail .dscroll{height:100%;overflow:auto;border-radius:inherit}
+
+  /* Timeline replaces the filter menu on the left; map stays full-bleed. */
+  #app:has(#mapwrap.timeline-on) #sidebar{display:none}
+  #mapwrap.timeline-on #map{visibility:visible;pointer-events:auto}
+  #mapwrap.timeline-on #timeline{
+    display:block;
+    inset:auto;
+    top:var(--inset);
+    left:var(--inset);
+    bottom:var(--inset);
+    right:auto;
+    width:var(--sbw);
+    container-type:inline-size;
+    container-name:tourstrip;
+    z-index:680;
+    overflow:auto;
+  }
+  #mapwrap.timeline-on .legend,
+  #mapwrap.timeline-on .mapecho,
+  #mapwrap.timeline-on .basemaps{display:block}
+  #mapwrap.timeline-on .basemaps{display:flex}
+  #mapwrap.timeline-on .regions{display:flex}
+
+  /* Compact two-sided cards inside the 400px left timeline (play and browse). */
+  #mapwrap.timeline-on .tl-top{
+    padding:16px 16px 12px;
+    background:linear-gradient(var(--panel-float) 80%,transparent);
+    position:sticky;
+    gap:10px;
+  }
+  #mapwrap.timeline-on .tl-scroll{padding:8px 14px 28px;max-width:none;margin:0}
+  #mapwrap.timeline-on .tl-month{margin:0 0 8px;scroll-margin-top:76px}
+  #mapwrap.timeline-on .tl-month-h{
+    display:flex;flex-wrap:nowrap;align-items:baseline;justify-content:space-between;
+    gap:12px;padding:22px 2px 14px;border-bottom:1px solid var(--line);margin-bottom:8px;
+  }
+  #mapwrap.timeline-on .tl-kicker{font-size:10px;margin-bottom:4px}
+  #mapwrap.timeline-on .tl-name{font-size:26px;line-height:1.05;letter-spacing:-.04em}
+  #mapwrap.timeline-on .tl-year{margin:0;font-size:15px;display:inline;margin-left:8px}
+  #mapwrap.timeline-on .tl-count{padding-bottom:0;text-align:right;font-size:10px}
+  #mapwrap.timeline-on .tl-count b{font-size:20px}
+  #mapwrap.timeline-on .tl-list{padding:10px 6px 28px 22px}
+  #mapwrap.timeline-on .tl-list::before{left:8px;transform:none;width:2px;box-shadow:none}
+  #mapwrap.timeline-on .tl-item.tl-card-item{display:block;max-width:none;margin:0 0 16px}
+  #mapwrap.timeline-on .tl-hero{height:80px}
+  #mapwrap.timeline-on .tl-ico{width:36px;height:36px}
+  #mapwrap.timeline-on .tl-body{padding:8px 10px 10px;gap:3px}
+  #mapwrap.timeline-on .tl-body h3{font-size:13.5px;line-height:1.25;letter-spacing:-.02em}
+  #mapwrap.timeline-on .tl-range{font-size:10.5px}
+  #mapwrap.timeline-on .tl-where{font-size:11px}
+  #mapwrap.timeline-on .tl-chips{gap:4px;margin-top:2px}
+  #mapwrap.timeline-on .tl-chip{font-size:10px;padding:2px 6px}
+  #mapwrap.timeline-on .tl-dateblock{left:8px;top:8px;padding:4px 6px 3px;min-width:44px;border-radius:9px}
+  #mapwrap.timeline-on .tl-dateblock b{font-size:16px}
+  #mapwrap.timeline-on .tl-dateblock span{font-size:8px;margin-top:1px}
+  #mapwrap.timeline-on .tl-cat{right:8px;top:8px;padding:2px 6px;font-size:8px}
+  #mapwrap.timeline-on .tl-item.tl-card-item .tl-dot{left:-18px;top:36px;width:12px;height:12px;border-width:2.5px}
+  #mapwrap.timeline-on .tl-item.tl-today{margin:8px 0 14px}
+  #app.play-on #timeline{padding-left:0;padding-bottom:0}
+
+  /* Chrome lives in the map band, not under the floating cards. */
+  .viewbar,.regions{
+    left:calc(var(--inset) + var(--sbw) + var(--inset) + (100vw - var(--sbw) - var(--inset)*3)/2);
+    transform:translateX(-50%);
+  }
+  #app:has(#detail.open) .viewbar,
+  #app:has(#detail.open) .regions{
+    left:calc(var(--inset) + var(--sbw) + var(--inset) + (100vw - var(--sbw) - var(--dw) - var(--inset)*4)/2);
+  }
+  #app.play-on:has(#detail.open) .viewbar,
+  #app:has(#mapwrap.timeline-on):has(#detail.open) .viewbar,
+  #app.play-on:has(#detail.open) .regions,
+  #app:has(#mapwrap.timeline-on):has(#detail.open) .regions{
+    left:calc(var(--inset) + var(--sbw) + var(--inset) + (100vw - var(--sbw) - var(--playdw) - var(--inset)*4)/2);
+  }
+  .chrome-right{top:var(--inset);right:var(--inset);z-index:720}
+  #app:has(#detail.open) .chrome-right{right:calc(var(--inset) + var(--dw) + 10px)}
+  #app.play-on:has(#detail.open) .chrome-right,
+  #app:has(#mapwrap.timeline-on):has(#detail.open) .chrome-right{right:calc(var(--inset) + var(--playdw) + 10px)}
+  .legend{right:var(--inset);bottom:var(--inset)}
+  #app:has(#detail.open) .legend{right:calc(var(--inset) + var(--dw) + 10px)}
+  #app.play-on:has(#detail.open) .legend,
+  #app:has(#mapwrap.timeline-on):has(#detail.open) .legend{right:calc(var(--inset) + var(--playdw) + 10px)}
+  .leaflet-top.leaflet-left{top:calc(var(--inset) + 52px);left:calc(var(--inset) + var(--sbw) + 10px)}
+  .leaflet-bottom.leaflet-left{left:calc(var(--inset) + var(--sbw) + 10px);bottom:var(--inset)}
+  #app:has(#detail.open) .leaflet-control-attribution{margin-right:calc(var(--inset) + var(--dw) + 8px)}
+  #app.play-on:has(#detail.open) .leaflet-control-attribution,
+  #app:has(#mapwrap.timeline-on):has(#detail.open) .leaflet-control-attribution{margin-right:calc(var(--inset) + var(--playdw) + 8px)}
+
+  #app.play-on #detail,
+  #app:has(#mapwrap.timeline-on) #detail{
+    width:var(--playdw);
+    left:auto;
+    right:var(--inset);
+  }
+  #app.play-on .playbar,
+  #app.play-tour.play-on .playbar{
+    left:calc(var(--inset) + var(--sbw) + 12px);
+    right:calc(var(--inset) + var(--playdw) + 12px);
+    transform:none;
+    width:auto;
+    max-width:none;
+    min-width:0;
+    bottom:var(--inset);
+  }
+  #app.play-tour.play-on .legend{display:none}
+  #mapwrap.play-tour .regions{display:none}
+  #mapwrap.play-tour .leaflet-bottom.leaflet-left{left:calc(var(--inset) + var(--sbw) + 10px);bottom:calc(var(--inset) + 86px)}
+}
+
+@container tourstrip (min-width: 320px){
+  #mapwrap.timeline-on .tl-list{padding:12px 8px 28px}
+  #mapwrap.timeline-on .tl-list::before{left:50%;transform:translateX(-50%);width:3px}
+  #mapwrap.timeline-on .tl-item.tl-card-item{
+    display:grid;
+    grid-template-columns:1fr 22px 1fr;
+    align-items:start;
+    margin:0 0 14px;
+  }
+  #mapwrap.timeline-on .tl-item.side-l .tl-card{grid-column:1;grid-row:1}
+  #mapwrap.timeline-on .tl-item.side-r .tl-card{grid-column:3;grid-row:1}
+  #mapwrap.timeline-on .tl-item.tl-card-item .tl-dot{
+    position:relative;
+    left:auto;
+    top:34px;
+    grid-column:2;
+    grid-row:1;
+    justify-self:center;
+    margin:0;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today{
+    display:grid;
+    grid-template-columns:1fr 22px 1fr;
+    align-items:center;
+    padding-left:0;
+    justify-content:stretch;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today .tl-dot{
+    position:relative;
+    left:auto;
+    top:auto;
+    margin:0;
+    grid-column:2;
+    justify-self:center;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today .tl-today-label{
+    grid-column:3;
+    justify-self:start;
+    margin-left:0;
+    padding:5px 8px;
+    font-size:9px;
+  }
 }

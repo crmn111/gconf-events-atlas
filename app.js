@@ -825,14 +825,18 @@ function setMainView(v){
   if(wrap){
     wrap.classList.toggle('timeline-on', v==='timeline');
   }
+  const appEl = $('#app');
+  if(appEl) appEl.classList.toggle('timeline-on', v==='timeline');
   const tl = $('#timeline');
   if(tl) tl.setAttribute('aria-hidden', v==='timeline' ? 'false' : 'true');
   $$('#viewbar button').forEach(b => b.classList.toggle('on', b.dataset.v===v));
   if(v==='timeline') renderTimeline();
   if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
+  if(v==='timeline' || (was==='timeline' && v!=='timeline')){
+    setTimeout(() => { try{ map.invalidateSize({animate:false}); if(v==='timeline' || v==='map') fitToVisible(); }catch(_){ } }, 80);
+  }
   if(was==='timeline' && v!=='timeline'){
     if(PLAY.on) playExit({silent:true});
-    if(v==='map') setTimeout(() => { try{ map.invalidateSize(); }catch(_){ } }, 60);
   }
   return was!==v;
 }
@@ -1076,6 +1080,7 @@ function tourClearTimers(){
   TOUR.timers = [];
   if(TOUR.raf){ cancelAnimationFrame(TOUR.raf); TOUR.raf=0; }
   try{ map.stop(); }catch(_){}
+  flySfxStop(true);
 }
 function tourLater(fn, ms){
   const id = setTimeout(fn, ms);
@@ -1112,13 +1117,29 @@ function tourPadding(){
   const desk = innerWidth>860;
   const det = $('#detail');
   const stripEl = $('#timeline');
-  const strip = desk && stripEl && getComputedStyle(stripEl).display!=='none' ? stripEl.getBoundingClientRect().width : 0;
-  return {
-    left: desk ? ((det && det.classList.contains('open') ? det.offsetWidth : 0) || 0) : 0,
-    right: desk ? strip + 16 : 12,
-    top: 70,
-    bottom: desk ? 108 : ((det && det.classList.contains('open') ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86)
+  const sideEl = $('#sidebar');
+  const rectRight = (el) => {
+    if(!el) return 0;
+    const s = getComputedStyle(el);
+    if(s.display==='none' || s.visibility==='hidden') return 0;
+    const r = el.getBoundingClientRect();
+    return r.width>0 ? r : 0;
   };
+  if(!desk){
+    const open = det && det.classList.contains('open');
+    return {
+      left: 0,
+      right: 12,
+      top: 70,
+      bottom: (open ? Math.min(det.offsetHeight||0, innerHeight*0.54) : 0) + 86
+    };
+  }
+  const leftEl = (stripEl && getComputedStyle(stripEl).display!=='none') ? stripEl : sideEl;
+  const L = rectRight(leftEl);
+  const R = (det && det.classList.contains('open')) ? rectRight(det) : 0;
+  const left = L ? Math.round(L.right) + 8 : 14;
+  const right = R ? Math.round(innerWidth - R.left) + 8 : 14;
+  return { left, right, top: 70, bottom: 108 };
 }
 function tourFocus(ll, z){
   const pad = tourPadding();
@@ -1196,6 +1217,7 @@ function tourDropPin(e, reduce){
   }).addTo(map);
   TOUR.pin = pin;
   TOUR.ripple = ripple;
+  flySfxChime();
 }
 function tourArcStyle(opts){
   opts = opts||{};
@@ -1264,6 +1286,162 @@ function tourFramePath(pts, duration){
     easeLinearity:0.35
   });
 }
+
+/* Play-mode flight sound is synthesised in the browser with the Web Audio
+   API (filtered noise plus a low oscillator). No third-party recording is used. */
+const FLYSFX_KEY = 'gconf-atlas-play-sound';
+const FLYSFX = { on:false, ctx:null, master:null, nodes:null, flew:false, t0:0, dur:0 };
+try{ FLYSFX.on = localStorage.getItem(FLYSFX_KEY)==='1'; }catch(_){}
+
+function flySfxUnlock(){
+  const AC = window.AudioContext || window.webkitAudioContext;
+  if(!AC) return null;
+  if(!FLYSFX.ctx){
+    FLYSFX.ctx = new AC();
+    FLYSFX.master = FLYSFX.ctx.createGain();
+    FLYSFX.master.gain.value = 1;
+    FLYSFX.master.connect(FLYSFX.ctx.destination);
+  }
+  if(FLYSFX.ctx.state==='suspended'){
+    try{ FLYSFX.ctx.resume(); }catch(_){}
+  }
+  return FLYSFX.ctx;
+}
+function flySfxStop(immediate){
+  const ctx = FLYSFX.ctx;
+  const pack = FLYSFX.nodes;
+  FLYSFX.nodes = null;
+  if(immediate) FLYSFX.flew = false;
+  if(!pack || !ctx) return;
+  const now = ctx.currentTime;
+  try{
+    pack.gain.gain.cancelScheduledValues(now);
+    if(immediate){
+      pack.gain.gain.setValueAtTime(0, now);
+      pack.stop();
+    }else{
+      const cur = pack.gain.gain.value;
+      pack.gain.gain.setValueAtTime(cur, now);
+      pack.gain.gain.linearRampToValueAtTime(0, now+0.08);
+      setTimeout(() => { try{ pack.stop(); }catch(_){} }, 120);
+    }
+  }catch(_){ try{ pack.stop(); }catch(_){ } }
+}
+function flySfxStartWhoosh(durationMs){
+  flySfxStop(true);
+  if(!FLYSFX.on || playReduced() || !PLAY.on) return;
+  const ctx = flySfxUnlock();
+  if(!ctx) return;
+  const dur = Math.max(0.8, (durationMs||1600)/1000);
+  const now = ctx.currentTime;
+  const attack = Math.min(0.4, dur*0.18);
+  const release = Math.min(0.5, dur*0.22);
+  const peak = 0.055;
+  const len = Math.max(1, Math.ceil(ctx.sampleRate * dur));
+  const buf = ctx.createBuffer(1, len, ctx.sampleRate);
+  const data = buf.getChannelData(0);
+  for(let i=0;i<len;i++) data[i] = (Math.random()*2-1)*0.85;
+  const noise = ctx.createBufferSource();
+  noise.buffer = buf;
+  const filter = ctx.createBiquadFilter();
+  filter.type = 'bandpass';
+  filter.frequency.value = 400;
+  filter.Q.value = 0.75;
+  filter.frequency.setValueAtTime(260, now);
+  filter.frequency.linearRampToValueAtTime(640, now+dur*0.45);
+  filter.frequency.linearRampToValueAtTime(300, now+dur);
+  const noiseGain = ctx.createGain();
+  noiseGain.gain.value = 1;
+  const osc = ctx.createOscillator();
+  osc.type = 'sine';
+  osc.frequency.value = 82;
+  const osc2 = ctx.createOscillator();
+  osc2.type = 'triangle';
+  osc2.frequency.value = 41;
+  const oscGain = ctx.createGain();
+  oscGain.gain.value = 0.32;
+  const lfo = ctx.createOscillator();
+  lfo.type = 'sine';
+  lfo.frequency.value = 16;
+  const lfoGain = ctx.createGain();
+  lfoGain.gain.value = 0.12;
+  lfo.connect(lfoGain);
+  lfoGain.connect(noiseGain.gain);
+  const gain = ctx.createGain();
+  gain.gain.setValueAtTime(0, now);
+  gain.gain.linearRampToValueAtTime(peak, now+attack);
+  const hold = Math.max(attack, dur-release);
+  gain.gain.setValueAtTime(peak, now+hold);
+  gain.gain.linearRampToValueAtTime(0, now+dur);
+  noise.connect(filter);
+  filter.connect(noiseGain);
+  noiseGain.connect(gain);
+  osc.connect(oscGain);
+  osc2.connect(oscGain);
+  oscGain.connect(gain);
+  gain.connect(FLYSFX.master);
+  noise.start(now);
+  osc.start(now);
+  osc2.start(now);
+  lfo.start(now);
+  const stopAt = now+dur+0.05;
+  try{ noise.stop(stopAt); osc.stop(stopAt); osc2.stop(stopAt); lfo.stop(stopAt); }catch(_){}
+  FLYSFX.nodes = {
+    gain, noise, osc, osc2, lfo,
+    stop(){
+      ['noise','osc','osc2','lfo'].forEach(k => { try{ this[k].stop(); }catch(_){} });
+      try{ noise.disconnect(); filter.disconnect(); noiseGain.disconnect(); osc.disconnect(); osc2.disconnect(); oscGain.disconnect(); lfo.disconnect(); lfoGain.disconnect(); gain.disconnect(); }catch(_){}
+    }
+  };
+  FLYSFX.flew = true;
+  FLYSFX.t0 = performance.now();
+  FLYSFX.dur = durationMs||1600;
+}
+function flySfxChime(){
+  if(!FLYSFX.on || playReduced() || !FLYSFX.flew) return;
+  FLYSFX.flew = false;
+  const ctx = flySfxUnlock();
+  if(!ctx) return;
+  const now = ctx.currentTime;
+  [523.25, 783.99].forEach((f,i) => {
+    const o = ctx.createOscillator();
+    o.type = 'sine';
+    o.frequency.value = f;
+    const g = ctx.createGain();
+    const start = now + i*0.045;
+    g.gain.setValueAtTime(0, start);
+    g.gain.linearRampToValueAtTime(0.04, start+0.02);
+    g.gain.exponentialRampToValueAtTime(0.001, start+0.55);
+    o.connect(g);
+    g.connect(FLYSFX.master);
+    o.start(start);
+    o.stop(start+0.6);
+  });
+}
+function flySfxToggle(){
+  FLYSFX.on = !FLYSFX.on;
+  try{ localStorage.setItem(FLYSFX_KEY, FLYSFX.on?'1':'0'); }catch(_){}
+  if(FLYSFX.on){
+    flySfxUnlock();
+    if(TOUR.plane && PLAY.on && !playReduced()){
+      const elapsed = FLYSFX.t0 ? (performance.now()-FLYSFX.t0) : 0;
+      const remain = Math.max(600, (FLYSFX.dur||1600)-elapsed);
+      flySfxStartWhoosh(remain);
+    }
+  }else{
+    flySfxStop(true);
+  }
+  playUpdateChrome();
+}
+function flySfxUpdateChrome(){
+  const btn = $('#playsound');
+  if(!btn) return;
+  btn.classList.toggle('on', !!FLYSFX.on);
+  btn.setAttribute('aria-pressed', FLYSFX.on?'true':'false');
+  btn.setAttribute('aria-label', FLYSFX.on?'Sound on':'Sound off');
+  btn.title = FLYSFX.on?'Sound on':'Sound off';
+}
+
 function tourFlyPlane(pts, duration, done){
   if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
   if(TOUR.growing){ try{ map.removeLayer(TOUR.growing); }catch(_){} TOUR.growing=null; }
@@ -1283,6 +1461,7 @@ function tourFlyPlane(pts, duration, done){
     })
   }).addTo(map);
   TOUR.plane = plane;
+  flySfxStartWhoosh(duration);
   const t0 = performance.now();
   let lastAng = null;
   const step = (now) => {
@@ -1416,6 +1595,7 @@ function playUpdateChrome(){
     tog.setAttribute('aria-pressed', playing ? 'true' : 'false');
   }
   $$('#playbar .play-speeds button').forEach(b => b.classList.toggle('on', parseFloat(b.dataset.sp)===PLAY.speed));
+  flySfxUpdateChrome();
   const bar = $('#playbar'), btn = $('#tlplay'), app = $('#app');
   if(app) app.classList.toggle('play-on', PLAY.on);
   if(bar) bar.hidden = !PLAY.on;
@@ -1506,6 +1686,11 @@ function playResume(){
   PLAY.paused = false;
   PLAY.dur = PLAY_BASE / (PLAY.speed||1);
   PLAY.t0 = performance.now() - PLAY.elapsed;
+  if(TOUR.plane && FLYSFX.on && !playReduced()){
+    const elapsed = FLYSFX.t0 ? (performance.now()-FLYSFX.t0) : 0;
+    const remain = Math.max(500, (FLYSFX.dur||1600)-elapsed);
+    flySfxStartWhoosh(remain);
+  }
   playUpdateChrome();
   if(!PLAY.raf) PLAY.raf = requestAnimationFrame(playTick);
 }
@@ -1514,6 +1699,7 @@ function playPause(){
   if(PLAY.raf){ cancelAnimationFrame(PLAY.raf); PLAY.raf=0; }
   if(!PLAY.paused && PLAY.t0) PLAY.elapsed = performance.now() - PLAY.t0;
   PLAY.paused = true;
+  flySfxStop(true);
   playUpdateChrome();
 }
 function playToggle(){
@@ -1625,6 +1811,8 @@ function playUserInteract(ev){
   $('#playprev').onclick = () => playStep(-1);
   $('#playnext').onclick = () => playStep(1);
   $('#playstop').onclick = () => playExit({});
+  const snd = $('#playsound');
+  if(snd) snd.onclick = () => flySfxToggle();
   $$('#playbar .play-speeds button').forEach(b => b.onclick = () => playSetSpeed(b.dataset.sp));
   const tl = $('#timeline');
   if(tl){
