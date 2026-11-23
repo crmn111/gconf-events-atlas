@@ -724,7 +724,10 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .tl-cat.culture{background:var(--culture);color:var(--on-fest)}
 .tl-cat.other{background:var(--other);color:var(--on-fest)}
 
-.regions{display:flex}
-.regions button{border:0;background:none;color:var(--muted);font:600 12px var(--sans);padding:6px 9px;border-radius:8px;cursor:pointer}
+.regions{position:absolute;top:58px;left:50%;transform:translateX(-50%);z-index:660;display:flex;background:var(--overlay);border:1px solid var(--overlay-border);border-radius:10px;padding:3px;backdrop-filter:blur(8px)}
+.regions button{border:0;background:none;color:var(--muted);font:600 12px var(--sans);padding:6px 11px;border-radius:8px;cursor:pointer}
 .regions button.on{background:var(--ink);color:var(--on-ink)}
 #mapwrap.timeline-on .regions{display:none}
+@media (max-width:860px){
+  .regions{top:104px;left:58px;transform:none}
+}

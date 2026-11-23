@@ -386,7 +386,7 @@ function setRegion(r, opts){
 const REGION_BOUNDS = {
   europe: [[34,-12],[71,32]],
   uae: [[22.6,51.5],[26.6,56.6]],
-  all: [[12,-15],[71,60]]
+  all: [[21,-12],[71,58]]
 };
 function fitToVisible(){
   const pins = visibleEvents().map(e => markers[e.slug]).filter(Boolean);
@@ -578,10 +578,25 @@ function cardHtml(e){
   return `<article class="card" data-r="event/${esc(e.slug)}"><div class="th" ${th}></div><div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span><h3>${esc(e.name)}</h3><div class="where">${esc(fmtRange(e.start_date,e.end_date))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
 }
 
+
+function emptyMessage(){
+  const kindAll = EV.filter(e => evKind(e)===st.kind);
+  if(!kindAll.length){
+    return st.kind==='festival'
+      ? 'Festival listings are still being compiled.'
+      : 'No upcoming events have been published yet. The research feed is still being compiled.';
+  }
+  if(st.region!=='all' && !kindAll.some(e => evRegion(e)===st.region)){
+    return st.region==='uae'
+      ? 'No UAE listings have been published yet.'
+      : 'No European listings match this view yet.';
+  }
+  return 'No events match the current filters.';
+}
 function render(){
   const vis = sortEvents(visibleEvents());
   $('#count').textContent = vis.length + (vis.length===1?' event':' events');
-  $('#list').innerHTML = vis.length ? vis.map(cardHtml).join('') : `<div class="empty">${kindPool().length?'No events match the current filters.':(st.kind==='festival'?'Festival listings are still being compiled.':'No upcoming events have been published yet. The research feed is still being compiled.')}</div>`;
+  $('#list').innerHTML = vis.length ? vis.map(cardHtml).join('') : `<div class="empty">${emptyMessage()}</div>`;
   $$('#list .card[data-r]').forEach(c => c.onclick = () => { location.hash = '#/'+c.dataset.r; });
 
   clusters.clearLayers();
@@ -814,7 +829,7 @@ function renderTimeline(){
   tlDisconnect();
   const list = visibleEvents().slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
   if(!list.length){
-    body.innerHTML = `<div class="tl-empty">${kindPool().length?'No events match the current filters.':(st.kind==='festival'?'Festival listings are still being compiled.':'No upcoming events have been published yet.')}</div>`;
+    body.innerHTML = `<div class="tl-empty">${emptyMessage()}</div>`;
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
     return;
   }
