@@ -10,10 +10,10 @@ The atlas is a static site. The public dataset is `data.js`
 | File | Default `kind` | Default `region` |
 | --- | --- | --- |
 | `_build/events.json` | `conference` | `europe` |
-| `_build/events_uae.json` | `conference` | `uae` |
+| `_build/events_*.json` | `conference` | from the filename (`events_uae.json` → `uae`, `events_gulf.json` → `gulf`) |
 | `_build/festivals.json` | `festival` | `europe` |
 
-Missing files are skipped. Do not hand-edit these from the site build.
+Missing files are skipped. Events are de-duplicated by slug (first file wins). Do not hand-edit these from the site build.
 Each file is either an array of events or an object:
 
 ```json
@@ -70,12 +70,13 @@ Extra sheet columns are preserved in `data.js`.
 window.ATLASDATA = {
   updated: "2026-11-23",
   generated: "2026-11-23T16:40:53Z",
-  scope: "Conferences and festivals in Europe and the UAE",
+  scope: "Conferences and festivals in Europe and the UAE", /* derived from regions in the data */
+  regions: ["europe", "uae"],
   eurRates: { EUR: 1, GBP: 1.16, AED: 0.25 /* ... */ },
   eurRatesNote: "Indicative mid-market rates used only to compare ticket prices on the slider.",
   events: [ /* upcoming and dates TBA */ ],
   sourceMissing: [ /* names of source files that were absent */ ],
-  counts: { conference: 0, festival: 0, europe: 0, uae: 0 }
+  counts: { conference: 0, festival: 0, dated: 0, dates_tba: 0, regions: { europe: 0, uae: 0 }, europe: 0, uae: 0 }
 };
 ```
 

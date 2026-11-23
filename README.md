@@ -19,8 +19,8 @@ Live: https://crmn111.github.io/gconf-events-atlas/
 - A Conferences / Festivals toggle switches the map, timeline, swipe
   and play lists. Category chips follow the selected kind (AI / tech /
   crypto for conferences; music, arts, film, food, culture or other
-  for festivals). Region filters and a Europe / UAE map jump fit the
-  map to the visible pins.
+  for festivals). Region filters and map jumps are built from the
+  regions present in the data.
 - Filters for city, date range, category/topic and ticket price, with
   an “unknown price” toggle so unpriced events can still be shown.
   Festivals whose dates are still to be announced stay on the map and
@@ -41,7 +41,7 @@ staging, `build.py`) and the
 unpublished-until-ready backend in `backend/`.
 
 ```bash
-python3 _build/build.py          # events.json + events_uae.json + festivals.json → data.js (upcoming + dates TBA)
+python3 _build/build.py          # events.json + events_*.json + festivals.json → data.js (upcoming + dates TBA)
 ./publish.sh                     # rebuild, copy the slim tree, push Pages
 ```
 
@@ -49,9 +49,12 @@ python3 _build/build.py          # events.json + events_uae.json + festivals.jso
 
 ## Basemaps
 
-The default light map is **CARTO Voyager** (vector), with a switcher for
-CARTO Positron, CARTO Dark Matter and Esri World Imagery (satellite).
-Attribution for OSM, CARTO and Esri stays on the map.
+The default light map is **CARTO Voyager** (vector). The switcher shows
+Voyager, Positron and Dark Matter, plus a More styles menu (Esri
+satellite and topographic / gray canvases, CARTO without labels,
+OpenFreeMap Liberty / Bright / Positron, and OpenTopoMap). All of these
+are keyless providers whose terms allow this use. Attribution for OSM,
+CARTO, Esri, OpenFreeMap and OpenTopoMap stays on the map.
 
 CARTO’s raster tile CDN (`basemaps.cartocdn.com/rastertiles/…`) has
 required an API key since 25 September 2026, so the atlas uses their

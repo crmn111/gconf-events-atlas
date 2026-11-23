@@ -12,11 +12,12 @@
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://basemaps.cartocdn.com">
 <link rel="preconnect" href="https://tiles.basemaps.cartocdn.com" crossorigin>
+<link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
 <link rel="stylesheet" href="vendor/leaflet.css">
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611232214">
+<link rel="stylesheet" href="style.css?v=202611232237">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -46,8 +47,6 @@
         <label>Region</label>
         <div class="chips" id="f-region">
           <button type="button" data-r="all" class="on">All regions</button>
-          <button type="button" data-r="europe">Europe</button>
-          <button type="button" data-r="uae">UAE</button>
         </div>
       </div>
       <div class="frow">
@@ -166,20 +165,31 @@
       <button type="button" data-v="timeline">Timeline</button>
       <button type="button" data-v="swipe">Swipe</button>
     </nav>
-    <div class="regions" id="regions" aria-label="Jump to region">
-      <button type="button" data-r="europe">Europe</button>
-      <button type="button" data-r="uae">UAE</button>
-    </div>
+    <div class="regions" id="regions" aria-label="Jump to region"></div>
     <div class="chrome-right">
       <div class="theme" id="theme" role="group" aria-label="Colour theme">
         <button type="button" data-t="light" class="on">Light</button>
         <button type="button" data-t="dark">Dark</button>
       </div>
       <div class="basemaps" id="basemaps" aria-label="Basemap">
-        <button type="button" data-b="voyager" class="on" title="CARTO Voyager">Voyager</button>
-        <button type="button" data-b="positron" title="CARTO Positron">Positron</button>
-        <button type="button" data-b="darkmatter" title="CARTO Dark Matter">Dark Matter</button>
-        <button type="button" data-b="satellite" title="Esri World Imagery">Satellite</button>
+        <button type="button" data-b="voyager" class="bmap-swatch on" title="CARTO Voyager"><i class="bsw" style="background:#d6e0d8"></i>Voyager</button>
+        <button type="button" data-b="positron" class="bmap-swatch" title="CARTO Positron"><i class="bsw" style="background:#e8e8e8"></i>Positron</button>
+        <button type="button" data-b="darkmatter" class="bmap-swatch" title="CARTO Dark Matter"><i class="bsw bsw-dark" style="background:#0A0E12"></i>Dark Matter</button>
+        <div class="bmap-morewrap">
+          <button type="button" id="bmap-more" class="bmap-more" aria-expanded="false" aria-haspopup="true" aria-controls="bmap-menu" title="More map styles"><span class="bmap-more-lab">More styles</span><span class="bmap-caret" aria-hidden="true">▾</span></button>
+          <div id="bmap-menu" class="bmap-menu" hidden role="menu">
+            <button type="button" role="menuitem" data-b="satellite" class="bmap-swatch" title="Esri World Imagery"><i class="bsw bsw-dark" style="background:#1a3a4a"></i>Satellite</button>
+            <button type="button" role="menuitem" data-b="esri_topo" class="bmap-swatch" title="Esri World Topographic Map"><i class="bsw" style="background:#c9d9b8"></i>Esri Topo</button>
+            <button type="button" role="menuitem" data-b="esri_lightgray" class="bmap-swatch" title="Esri Light Gray Canvas"><i class="bsw" style="background:#d8d8d8"></i>Light Gray</button>
+            <button type="button" role="menuitem" data-b="esri_darkgray" class="bmap-swatch" title="Esri Dark Gray Canvas"><i class="bsw bsw-dark" style="background:#2a2a2a"></i>Dark Gray</button>
+            <button type="button" role="menuitem" data-b="voyager_nolabels" class="bmap-swatch" title="CARTO Voyager without labels"><i class="bsw" style="background:#c9d6c4"></i>Voyager (no labels)</button>
+            <button type="button" role="menuitem" data-b="darkmatter_nolabels" class="bmap-swatch" title="CARTO Dark Matter without labels"><i class="bsw bsw-dark" style="background:#11161c"></i>Dark Matter (no labels)</button>
+            <button type="button" role="menuitem" data-b="ofm_liberty" class="bmap-swatch" title="OpenFreeMap Liberty"><i class="bsw" style="background:#f4efe6"></i>Liberty</button>
+            <button type="button" role="menuitem" data-b="ofm_bright" class="bmap-swatch" title="OpenFreeMap Bright"><i class="bsw" style="background:#f7f4ee"></i>Bright</button>
+            <button type="button" role="menuitem" data-b="ofm_positron" class="bmap-swatch" title="OpenFreeMap Positron"><i class="bsw" style="background:#ececec"></i>Positron (OFM)</button>
+            <button type="button" role="menuitem" data-b="opentopo" class="bmap-swatch" title="OpenTopoMap"><i class="bsw" style="background:#c2d6a8"></i>OpenTopoMap</button>
+          </div>
+        </div>
       </div>
     </div>
     <div class="legend" id="legend">
@@ -234,6 +244,7 @@
       <button type="button" id="playsound" class="play-btn play-sound" aria-label="Sound off" aria-pressed="false" title="Sound off">
         <svg class="ico-on" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 9v6h3.2L12 19.2V4.8L7.2 9H4zm11.5 3c0-1.8-1-3.3-2.5-4.1v8.2c1.5-.8 2.5-2.3 2.5-4.1zm2.5 0c0 2.9-1.7 5.4-4.1 6.6l.9 1.8C17.7 18.8 20 15.7 20 12s-2.3-6.8-5.2-8.4l-.9 1.8C16.8 6.6 18.5 9.1 18.5 12z"/></svg>
         <svg class="ico-off" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 9v6h3.2L12 19.2V4.8L7.2 9H4zm13.7-4.3-1.4 1.4 2.1 2.1-2.1 2.1 1.4 1.4 2.1-2.1 2.1 2.1 1.4-1.4-2.1-2.1 2.1-2.1-1.4-1.4-2.1 2.1-2.1-2.1zM13 16.1c.7-.4 1.3-1 1.7-1.8l-1.7-1.7v3.5z"/></svg>
+        <span class="play-sound-lab">Sound</span>
       </button>
       <button type="button" id="playstop" class="play-stop">Stop</button>
     </div>
@@ -253,8 +264,8 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611232214"></script>
-<script src="data.js?v=202611232214"></script>
-<script src="app.js?v=202611232214"></script>
+<script src="config.js?v=202611232237"></script>
+<script src="data.js?v=202611232237"></script>
+<script src="app.js?v=202611232237"></script>
 </body>
 </html>

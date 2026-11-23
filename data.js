@@ -1,7 +1,11 @@
 window.ATLASDATA={
  "updated": "2026-11-23",
- "generated": "2026-11-23T21:14:31Z",
+ "generated": "2026-11-23T21:37:02Z",
  "scope": "Conferences and festivals in Europe and the UAE",
+ "regions": [
+  "europe",
+  "uae"
+ ],
  "eurRates": {
   "EUR": 1.0,
   "GBP": 1.16,
@@ -31699,9 +31703,13 @@ window.ATLASDATA={
  "counts": {
   "conference": 255,
   "festival": 140,
-  "europe": 290,
-  "uae": 105,
   "dated": 322,
-  "dates_tba": 73
+  "dates_tba": 73,
+  "regions": {
+   "uae": 105,
+   "europe": 290
+  },
+  "uae": 105,
+  "europe": 290
  }
 };

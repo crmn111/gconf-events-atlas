@@ -664,13 +664,51 @@ html[data-theme="dark"] .tl-chip.attend{color:var(--cyan2);background:rgba(31,16
 #mapwrap[data-base="satellite"] .marker-cluster.mkc{background:rgba(255,255,255,.4)!important}
 #mapwrap[data-base="satellite"] .marker-cluster.mkc .mkc-inner{box-shadow:0 0 0 2px #fff}
 
-.basemaps{flex-wrap:wrap;justify-content:flex-end;max-width:min(100%,320px)}
+.basemaps{flex-wrap:nowrap;justify-content:flex-end;align-items:center;max-width:none;gap:2px;position:relative;overflow:visible}
+.basemaps .bmap-swatch{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.basemaps .bsw{display:inline-block;width:12px;height:12px;border-radius:3px;border:1px solid rgba(18,24,31,.22);flex:0 0 12px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35)}
+.basemaps .bsw-dark{border-color:rgba(255,255,255,.35)}
+.basemaps button.on .bsw{border-color:var(--on-ink)}
+.bmap-morewrap{position:relative}
+.bmap-more{display:inline-flex;align-items:center;gap:4px}
+.bmap-caret{font-size:9px;opacity:.8}
+.bmap-menu{position:absolute;top:calc(100% + 6px);right:0;z-index:800;display:flex;flex-direction:column;min-width:220px;padding:6px;background:var(--overlay);border:1px solid var(--overlay-border);border-radius:12px;box-shadow:var(--shadow-strong);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px)}
+.bmap-menu[hidden]{display:none!important}
+.bmap-menu button{display:flex;width:100%;text-align:left;justify-content:flex-start;padding:7px 9px}
+.bmap-menu button.on{background:var(--ink);color:var(--on-ink)}
+.chrome-right,.basemaps{overflow:visible}
 @media (max-width:860px){
   .basemaps button{padding:6px 8px;font-size:11px}
+  .bmap-menu{right:auto;left:0}
 }
 
+/* extra basemap canvas tones */
+#mapwrap[data-base="voyager_nolabels"] #map{background:#c9d6c4}
+#mapwrap[data-base="darkmatter_nolabels"] #map,
+#mapwrap[data-base="esri_darkgray"] #map{background:#11161c}
+#mapwrap[data-base="esri_topo"] #map{background:#c9d9b8}
+#mapwrap[data-base="esri_lightgray"] #map,
+#mapwrap[data-base="ofm_positron"] #map{background:#e0e0e0}
+#mapwrap[data-base="ofm_liberty"] #map,
+#mapwrap[data-base="ofm_bright"] #map{background:#f4efe6}
+#mapwrap[data-base="opentopo"] #map{background:#c2d6a8}
+#mapwrap[data-tone="dark"] .mk .pill{box-shadow:0 2px 10px rgba(0,0,0,.45)}
+#mapwrap[data-tone="dark"] .mk.crypto .pill{background:#ECEEF0;color:#0A0E12;border-color:#1FA9C6}
+#mapwrap[data-tone="dark"] .mk.crypto::after{border-top-color:#ECEEF0}
+#mapwrap[data-tone="dark"] .marker-cluster-large.mkc{background:rgba(207,245,90,.22)!important}
+#mapwrap[data-tone="dark"] .marker-cluster-large.mkc .mkc-inner,#mapwrap[data-tone="dark"] .marker-cluster-large.mkc div{background:var(--lime);color:#0A0E12}
+#mapwrap[data-tone="satellite"] .mk .pill{box-shadow:0 0 0 2px #fff,0 8px 18px rgba(0,0,0,.45)}
+#mapwrap[data-tone="satellite"] .mk.crypto .pill{background:#0A0E12;color:#fff;border-color:#CFF55A;box-shadow:0 0 0 2px #fff,0 8px 18px rgba(0,0,0,.45)}
+#mapwrap[data-tone="satellite"] .marker-cluster.mkc{background:rgba(255,255,255,.4)!important}
+#mapwrap[data-tone="satellite"] .marker-cluster.mkc .mkc-inner{box-shadow:0 0 0 2px #fff}
+
+.leaflet-tooltip.pin-tip{background:var(--overlay);color:var(--ink);border:1px solid var(--overlay-border);border-radius:8px;padding:4px 8px;font:600 12px var(--sans);box-shadow:0 4px 14px rgba(0,0,0,.18)}
+.leaflet-tooltip.pin-tip::before{display:none}
+.pop .pbtn{display:none}
+
+
 /* ---------- play / presentation ---------- */
-.playbar{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);z-index:920;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;background:var(--panel-float);border:1px solid var(--overlay-border);border-radius:var(--panel-radius);padding:8px 10px;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);box-shadow:var(--shadow-strong);width:max-content;min-width:0;max-width:min(560px,calc(100% - 28px))}
+.playbar{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);z-index:920;display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;background:var(--panel-float);border:1px solid var(--overlay-border);border-radius:var(--panel-radius);padding:8px 10px;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);box-shadow:var(--shadow-strong);width:max-content;min-width:0;max-width:min(560px,calc(100% - 28px))}
 .playbar[hidden]{display:none!important}
 html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .play-progress{position:absolute;left:10px;right:10px;top:0;height:5px;background:rgba(18,24,31,.12);border-radius:0 0 4px 4px;overflow:hidden}
@@ -688,13 +726,24 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .play-speeds button.on{background:var(--ink);color:var(--on-ink)}
 .play-stop{border:0;background:var(--lime);color:var(--on-accent);font:700 13px var(--sans);padding:8px 14px;border-radius:999px;cursor:pointer}
 .play-stop:hover{filter:brightness(1.05)}
-.play-btn.play-sound{width:40px;height:40px;display:inline-flex;align-items:center;justify-content:center;padding:0}
-.play-btn.play-sound svg{width:20px;height:20px;display:block}
+.play-btn.play-sound{width:auto;height:36px;min-width:36px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:0 10px 0 8px;position:relative;font:600 12px var(--sans);letter-spacing:-.01em;flex:0 0 auto;z-index:1}
+.play-btn.play-sound svg{width:18px;height:18px;display:block;flex:0 0 18px}
 .play-btn.play-sound .ico-on{display:none}
 .play-btn.play-sound .ico-off{display:block}
 .play-btn.play-sound.on{background:var(--ink);color:var(--on-ink)}
 .play-btn.play-sound.on .ico-on{display:block}
 .play-btn.play-sound.on .ico-off{display:none}
+.play-sound-lab{line-height:1;white-space:nowrap}
+.play-sound-hint{position:fixed;left:50%;bottom:auto;transform:translateX(-50%);background:var(--ink);color:var(--on-ink);font:600 11px var(--sans);padding:6px 9px;border-radius:8px;white-space:nowrap;pointer-events:none;box-shadow:var(--shadow-strong);z-index:1100}
+.play-sound-hint::after{content:'';position:absolute;top:100%;left:50%;margin-left:-5px;border:5px solid transparent;border-top-color:var(--ink)}
+.play-btn.play-sound.hint{animation:soundHintPulse 1s ease-in-out 3;box-shadow:0 0 0 3px rgba(31,169,198,.35)}
+@keyframes soundHintPulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(31,169,198,0);transform:scale(1)}
+  50%{box-shadow:0 0 0 8px rgba(31,169,198,.2);transform:scale(1.07)}
+}
+@media (prefers-reduced-motion:reduce){
+  .play-btn.play-sound.hint{animation:none}
+}
 
 #app.play-on #timeline{scroll-padding-bottom:90px}
 #app.play-on .tl-item.tl-card-item{opacity:.4;transition:opacity .35s ease,transform .35s ease}
@@ -781,7 +830,7 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .tl-cat.culture{background:var(--culture);color:var(--on-fest)}
 .tl-cat.other{background:var(--other);color:var(--on-fest)}
 
-.regions{position:absolute;top:58px;left:50%;transform:translateX(-50%);z-index:660;display:flex;background:var(--overlay);border:1px solid var(--overlay-border);border-radius:10px;padding:3px;backdrop-filter:blur(8px)}
+.regions{position:absolute;top:58px;left:50%;transform:translateX(-50%);z-index:660;display:flex;flex-wrap:wrap;justify-content:center;max-width:min(90vw,560px);background:var(--overlay);border:1px solid var(--overlay-border);border-radius:10px;padding:3px;backdrop-filter:blur(8px)}
 .regions button{border:0;background:none;color:var(--muted);font:600 12px var(--sans);padding:6px 11px;border-radius:8px;cursor:pointer}
 .regions button.on{background:var(--ink);color:var(--on-ink)}
 #mapwrap.timeline-on .regions{display:none}
@@ -804,7 +853,7 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
   backdrop-filter:blur(20px);
   -webkit-backdrop-filter:blur(20px);
   border:1px solid var(--overlay-border);
-  border-radius:var(--panel-radius);
+  border-radius:var(--panel-radius) 0 0 var(--panel-radius);
   box-shadow:var(--shadow-strong);
   overflow:auto;
 }
@@ -992,6 +1041,77 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 }
 
 
+
+/* Play-mode detail swap (does not delay the tour / airplane). */
+#dbody{position:relative}
+#app.play-on #dbody{overflow:hidden}
+.dswap-pane{position:relative}
+#app.play-on .dswap-pane.dswap-out{
+  position:absolute;left:0;right:0;top:0;z-index:2;pointer-events:none;
+  animation:dswapOut .25s ease forwards;
+}
+#app.play-on .dswap-pane.dswap-in{
+  opacity:0;
+  transform:translateY(14px);
+  filter:blur(8px);
+}
+#app.play-on .dswap-pane.dswap-in.dswap-show{
+  animation:dswapIn .35s ease .25s forwards;
+}
+#app.play-on .dswap-pane.dswap-in.dswap-show:only-child{
+  animation-delay:0s;
+}
+#app.play-on .dswap-pane.dswap-in.dswap-show .dhero,
+#app.play-on .dswap-pane.dswap-in.dswap-show .gal{
+  animation:dswapInPart .35s ease both;
+}
+#app.play-on .dswap-pane.dswap-in.dswap-show .dhero h2{
+  animation:dswapInPart .35s ease .06s both;
+}
+#app.play-on .dswap-pane.dswap-in.dswap-show .dhero .loc,
+#app.play-on .dswap-pane.dswap-in.dswap-show .dhero .bigprice,
+#app.play-on .dswap-pane.dswap-in.dswap-show .dhero .htags,
+#app.play-on .dswap-pane.dswap-in.dswap-show .dsec{
+  animation:dswapInPart .35s ease .12s both;
+}
+@keyframes dswapOut{
+  from{opacity:1;transform:none;filter:none}
+  to{opacity:0;transform:translateY(12px);filter:blur(4px)}
+}
+@keyframes dswapIn{
+  from{opacity:0;transform:translateY(14px);filter:blur(8px)}
+  to{opacity:1;transform:none;filter:none}
+}
+@keyframes dswapInPart{
+  from{opacity:0;transform:translateY(10px);filter:blur(6px)}
+  to{opacity:1;transform:none;filter:none}
+}
+@media (prefers-reduced-motion: reduce){
+  #app.play-on .dswap-pane.dswap-out{
+    animation:dswapFadeOut .18s ease forwards;
+    transform:none;filter:none;
+  }
+  #app.play-on .dswap-pane.dswap-in.dswap-show{
+    animation:dswapFadeIn .22s ease forwards;
+    animation-delay:0s;
+    transform:none;filter:none;
+  }
+  #app.play-on .dswap-pane.dswap-in,
+  #app.play-on .dswap-pane.dswap-in.dswap-show,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dhero,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .gal,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dhero h2,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dhero .loc,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dhero .bigprice,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dhero .htags,
+  #app.play-on .dswap-pane.dswap-in.dswap-show .dsec{
+    animation:dswapFadeIn .22s ease forwards;
+    transform:none;filter:none;
+  }
+  @keyframes dswapFadeOut{from{opacity:1}to{opacity:0}}
+  @keyframes dswapFadeIn{from{opacity:0}to{opacity:1}}
+}
+
 /* ---------- Desktop floating panels over a full-bleed map ---------- */
 @media (min-width:861px){
   :root,#app{
@@ -1012,8 +1132,18 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
     backdrop-filter:blur(20px);
     -webkit-backdrop-filter:blur(20px);
     border:1px solid var(--overlay-border);
-    border-radius:var(--panel-radius);
     box-shadow:var(--shadow-strong);
+  }
+  /* Inner edges facing the map are square; outer edges stay rounded. */
+  #sidebar,
+  #mapwrap.timeline-on #timeline,
+  #mapwrap.timeline-on.play-tour #timeline{
+    border-radius:var(--panel-radius) 0 0 var(--panel-radius);
+  }
+  #detail,
+  #app.play-on #detail,
+  #app:has(#mapwrap.timeline-on) #detail{
+    border-radius:0 var(--panel-radius) var(--panel-radius) 0;
   }
   #sidebar{
     position:absolute;

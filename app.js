@@ -56,8 +56,32 @@ function isApprox(e){ return hasPin(e) && e.precise!==true; }
 function where(e){ return [e.venue, [e.city, e.country].filter(Boolean).join(', ')].filter(Boolean).join(' · '); }
 function evKind(e){ return e && e.kind==='festival' ? 'festival' : 'conference'; }
 function evRegion(e){
-  const r = String((e && e.region) || '').toLowerCase();
-  return r==='uae' ? 'uae' : 'europe';
+  const r = String((e && e.region) || '').toLowerCase().trim();
+  return r || 'europe';
+}
+function regionLabel(r){
+  const known = {europe:'Europe', uae:'UAE', gulf:'Gulf', north_america:'North America'};
+  if(known[r]) return known[r];
+  return String(r||'').split(/[_-]+/).filter(Boolean).map(w => w.charAt(0).toUpperCase()+w.slice(1)).join(' ') || r;
+}
+function regionList(){
+  const counts = new Map();
+  EV.forEach(e => {
+    const r = evRegion(e);
+    if(r) counts.set(r, (counts.get(r)||0)+1);
+  });
+  const fromData = (D.regions||[]).filter(r => counts.has(r));
+  const preferred = ['europe','uae','gulf','north_america'];
+  const ordered = [];
+  preferred.forEach(r => { if(counts.has(r)) ordered.push(r); });
+  fromData.forEach(r => { if(!ordered.includes(r)) ordered.push(r); });
+  [...counts.keys()].filter(r => !ordered.includes(r))
+    .sort((a,b)=>regionLabel(a).localeCompare(regionLabel(b)))
+    .forEach(r => ordered.push(r));
+  return ordered;
+}
+function isKnownRegion(r){
+  return r==='all' || regionList().includes(r);
 }
 function catLabel(e){ return CAT[e.category] || (e.category ? e.category.charAt(0).toUpperCase()+e.category.slice(1) : 'Event'); }
 function catDict(kind){ return (kind||st.kind)==='festival' ? CAT_FEST : CAT_CONF; }
@@ -102,35 +126,63 @@ const CARTO_KEY = String(CFG.cartoKey||'').trim();
 const attrCarto = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>';
 const attrEsri = 'Tiles &copy; Esri — Esri, TomTom, Garmin, FAO, NOAA, USGS, &copy; OpenStreetMap contributors';
 const attrEsriImg = 'Tiles &copy; Esri — Esri, Maxar, Earthstar Geographics, and the GIS User Community';
+const attrOfm = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="https://openfreemap.org/">OpenFreeMap</a>, <a href="https://openmaptiles.org/">OpenMapTiles</a>';
+const attrOtm = 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, SRTM | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)';
 const esri = (p,o) => L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/'+p+'/MapServer/tile/{z}/{y}/{x}', Object.assign({maxZoom:19, attribution:attrEsri}, o||{}));
 
-const CARTO_STYLES = {
-  voyager: 'voyager-gl-style',
-  positron: 'positron-gl-style',
-  darkmatter: 'dark-matter-gl-style'
+const BASEMAPS = {
+  voyager: {label:'Voyager', group:'primary', kind:'carto', style:'voyager-gl-style', tone:'light', attr:attrCarto, fallback:'topo', swatch:'#d6e0d8'},
+  positron: {label:'Positron', group:'primary', kind:'carto', style:'positron-gl-style', tone:'light', attr:attrCarto, fallback:'lightgray', swatch:'#e8e8e8'},
+  darkmatter: {label:'Dark Matter', group:'primary', kind:'carto', style:'dark-matter-gl-style', tone:'dark', attr:attrCarto, fallback:'darkgray', swatch:'#0A0E12'},
+  satellite: {label:'Satellite', group:'more', kind:'esri', service:'World_Imagery', tone:'satellite', attr:attrEsriImg, swatch:'#1a3a4a'},
+  esri_topo: {label:'Esri Topo', group:'more', kind:'esri', service:'World_Topo_Map', tone:'light', attr:attrEsri, swatch:'#c9d9b8'},
+  esri_lightgray: {label:'Light Gray', group:'more', kind:'esri', service:'Canvas/World_Light_Gray_Base', ref:'Canvas/World_Light_Gray_Reference', tone:'light', attr:attrEsri, swatch:'#d8d8d8'},
+  esri_darkgray: {label:'Dark Gray', group:'more', kind:'esri', service:'Canvas/World_Dark_Gray_Base', ref:'Canvas/World_Dark_Gray_Reference', tone:'dark', attr:attrEsri, swatch:'#2a2a2a'},
+  voyager_nolabels: {label:'Voyager (no labels)', group:'more', kind:'carto', style:'voyager-nolabels-gl-style', tone:'light', attr:attrCarto, fallback:'topo', swatch:'#c9d6c4'},
+  darkmatter_nolabels: {label:'Dark Matter (no labels)', group:'more', kind:'carto', style:'dark-matter-nolabels-gl-style', tone:'dark', attr:attrCarto, fallback:'darkgray', swatch:'#11161c'},
+  ofm_liberty: {label:'Liberty', group:'more', kind:'ofm', style:'liberty', tone:'light', attr:attrOfm, fallback:'topo', swatch:'#f4efe6'},
+  ofm_bright: {label:'Bright', group:'more', kind:'ofm', style:'bright', tone:'light', attr:attrOfm, fallback:'topo', swatch:'#f7f4ee'},
+  ofm_positron: {label:'Positron (OFM)', group:'more', kind:'ofm', style:'positron', tone:'light', attr:attrOfm, fallback:'lightgray', swatch:'#ececec'},
+  opentopo: {label:'OpenTopoMap', group:'more', kind:'raster', url:'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', subdomains:'abc', maxZoom:17, tone:'light', attr:attrOtm, swatch:'#c2d6a8'}
 };
+
 function esriStandIn(id){
-  if(id==='positron') return L.layerGroup([esri('Canvas/World_Light_Gray_Base'), esri('Canvas/World_Light_Gray_Reference')]);
-  if(id==='darkmatter') return L.layerGroup([esri('Canvas/World_Dark_Gray_Base'), esri('Canvas/World_Dark_Gray_Reference')]);
+  const m = BASEMAPS[id] || {};
+  const fb = m.fallback || id;
+  if(fb==='lightgray' || id==='positron' || id==='esri_lightgray' || id==='ofm_positron')
+    return L.layerGroup([esri('Canvas/World_Light_Gray_Base'), esri('Canvas/World_Light_Gray_Reference')]);
+  if(fb==='darkgray' || id==='darkmatter' || id==='esri_darkgray' || id==='darkmatter_nolabels')
+    return L.layerGroup([esri('Canvas/World_Dark_Gray_Base'), esri('Canvas/World_Dark_Gray_Reference')]);
   if(id==='satellite') return esri('World_Imagery', {attribution:attrEsriImg});
-  return esri('World_Topo_Map'); /* Voyager-like colourful stand-in */
+  return esri('World_Topo_Map');
 }
-function cartoStyleUrl(id){
-  const slug = CARTO_STYLES[id];
-  let url = 'https://basemaps.cartocdn.com/gl/'+slug+'/style.json';
+function cartoStyleUrl(styleSlug){
+  let url = 'https://basemaps.cartocdn.com/gl/'+styleSlug+'/style.json';
   if(CARTO_KEY) url += '?key='+encodeURIComponent(CARTO_KEY);
   return url;
 }
-function makeCartoLayer(id){
-  if(id==='satellite') return esriStandIn('satellite');
-  if(!(window.maplibregl && L.maplibreGL) || !CARTO_STYLES[id]) return esriStandIn(id);
-  return L.maplibreGL({
-    style: cartoStyleUrl(id),
-    attribution: attrCarto,
-    interactive: false
-  });
+function makeVectorLayer(styleUrl, attr){
+  if(!(window.maplibregl && L.maplibreGL)) return null;
+  return L.maplibreGL({ style: styleUrl, attribution: attr, interactive: false });
 }
-function hookCartoFallback(layer, id){
+function makeBasemapLayer(id){
+  const m = BASEMAPS[id];
+  if(!m) return esriStandIn('voyager');
+  if(m.kind==='esri'){
+    const base = esri(m.service, {attribution:m.attr||attrEsri});
+    if(m.ref) return L.layerGroup([base, esri(m.ref, {attribution:m.attr||attrEsri})]);
+    return base;
+  }
+  if(m.kind==='raster'){
+    return L.tileLayer(m.url, {maxZoom:m.maxZoom||19, attribution:m.attr, subdomains:m.subdomains||'abc'});
+  }
+  const styleUrl = m.kind==='ofm'
+    ? 'https://tiles.openfreemap.org/styles/'+m.style
+    : cartoStyleUrl(m.style);
+  const layer = makeVectorLayer(styleUrl, m.attr||attrCarto);
+  return layer || esriStandIn(id);
+}
+function hookVectorFallback(layer, id){
   if(!layer || !layer.getMaplibreMap) return;
   const attach = () => {
     const gl = layer.getMaplibreMap && layer.getMaplibreMap();
@@ -155,34 +207,57 @@ let baseId = 'voyager';
 let lastLightBase = 'voyager';
 let autoBase = false;
 
+function closeBasemapMore(){
+  const menu = $('#bmap-menu');
+  const btn = $('#bmap-more');
+  if(menu) menu.hidden = true;
+  if(btn) btn.setAttribute('aria-expanded','false');
+}
+function updateBasemapChrome(){
+  $$('#basemaps [data-b]').forEach(x => x.classList.toggle('on', x.dataset.b===baseId));
+  const moreBtn = $('#bmap-more');
+  const meta = BASEMAPS[baseId];
+  if(moreBtn){
+    const inMore = !!(meta && meta.group==='more');
+    moreBtn.classList.toggle('on', inMore);
+    const lab = moreBtn.querySelector('.bmap-more-lab');
+    if(lab) lab.textContent = inMore ? (meta.label||'More styles') : 'More styles';
+  }
+}
 function setBasemap(id, opts){
   opts = opts||{};
-  if(!id || id===baseId && curBase && !opts.force) {
-    $$('#basemaps button').forEach(x => x.classList.toggle('on', x.dataset.b===baseId));
+  if(!BASEMAPS[id]) id = 'voyager';
+  if(id===baseId && curBase && !opts.force){
+    updateBasemapChrome();
     return;
   }
-  if(id!=='voyager' && id!=='positron' && id!=='darkmatter' && id!=='satellite') id='voyager';
   if(curBase){ try{ map.removeLayer(curBase); }catch(_){ } curBase=null; }
   try{
-    if(!baseCache[id]) baseCache[id] = makeCartoLayer(id);
+    if(!baseCache[id]) baseCache[id] = makeBasemapLayer(id);
     curBase = baseCache[id].addTo(map);
-    hookCartoFallback(curBase, id);
+    hookVectorFallback(curBase, id);
   }catch(err){
     try{ console.warn('Basemap failed to load', id, err); }catch(_){}
     curBase = null;
     delete baseCache[id];
+    try{ curBase = esriStandIn(id).addTo(map); }catch(_){}
   }
   baseId = id;
   const wrap = $('#mapwrap');
-  if(wrap) wrap.dataset.base = id;
-  $$('#basemaps button').forEach(x => x.classList.toggle('on', x.dataset.b===id));
+  const meta = BASEMAPS[id]||{};
+  if(wrap){
+    wrap.dataset.base = id;
+    wrap.dataset.tone = meta.tone || 'light';
+  }
+  updateBasemapChrome();
   if(!opts.auto){
     autoBase = false;
-    if(id!=='darkmatter') lastLightBase = id;
+    if(id==='voyager' || id==='positron') lastLightBase = id;
     try{ localStorage.setItem(BASE_KEY, id); }catch(_){}
   }else{
     autoBase = true;
   }
+  closeBasemapMore();
 }
 
 function applyTheme(t, opts){
@@ -206,9 +281,9 @@ function applyTheme(t, opts){
 (function initChromePrefs(){
   try{
     const saved = localStorage.getItem(BASE_KEY);
-    if(saved==='voyager'||saved==='positron'||saved==='darkmatter'||saved==='satellite'){
+    if(saved && BASEMAPS[saved]){
       baseId = saved;
-      if(saved!=='darkmatter') lastLightBase = saved;
+      if(saved==='voyager'||saved==='positron') lastLightBase = saved;
     }
   }catch(_){}
   let start = baseId;
@@ -223,7 +298,32 @@ function applyTheme(t, opts){
 })();
 
 $$('#theme button').forEach(b => b.onclick = () => applyTheme(b.dataset.t, {fromUserClick:true}));
-$$('#basemaps button').forEach(b => b.onclick = () => setBasemap(b.dataset.b));
+(function bindBasemapChrome(){
+  const box = $('#basemaps');
+  if(!box) return;
+  box.addEventListener('click', ev => {
+    const more = ev.target.closest && ev.target.closest('#bmap-more');
+    if(more){
+      ev.preventDefault();
+      ev.stopPropagation();
+      const menu = $('#bmap-menu');
+      if(!menu) return;
+      const willOpen = menu.hidden;
+      menu.hidden = !willOpen;
+      more.setAttribute('aria-expanded', willOpen?'true':'false');
+      return;
+    }
+    const b = ev.target.closest && ev.target.closest('[data-b]');
+    if(b && b.dataset.b) setBasemap(b.dataset.b);
+  });
+  document.addEventListener('click', ev => {
+    const root = $('#basemaps');
+    if(root && ev.target && !root.contains(ev.target)) closeBasemapMore();
+  });
+  document.addEventListener('keydown', ev => {
+    if(ev.key==='Escape') closeBasemapMore();
+  });
+})();
 
 
 function clusterIcon(cluster){
@@ -252,7 +352,48 @@ map.addLayer(clusters);
 const markers = {};
 function popEvent(e){
   const ph = e.photos && e.photos[0];
-  return `<div class="pop go" role="link" tabindex="0" onclick="if(!event.target.closest('a'))location.hash='#/event/${esc(e.slug)}'">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div><div class="pbtn"><a class="btn primary vd" href="#/event/${esc(e.slug)}">View details →</a></div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+  return `<div class="pop">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+}
+function popupPad(){
+  const desk = innerWidth>860;
+  const inset = 14;
+  if(!desk){
+    return {topLeft: L.point(16, 72), bottomRight: L.point(16, 48)};
+  }
+  const layoutW = (el) => {
+    if(!el) return 0;
+    const s = getComputedStyle(el);
+    if(s.display==='none') return 0;
+    return el.offsetWidth||0;
+  };
+  const det = $('#detail');
+  const open = det && det.classList.contains('open');
+  const strip = $('#timeline');
+  const side = $('#sidebar');
+  const leftEl = (strip && getComputedStyle(strip).display!=='none') ? strip : side;
+  const Lw = layoutW(leftEl);
+  const Rw = open ? layoutW(det) : 0;
+  return {
+    topLeft: L.point(Math.round((Lw?inset+Lw:0)+16), 88),
+    bottomRight: L.point(Math.round((Rw?inset+Rw:0)+16), 48)
+  };
+}
+function panForOpenPopup(){
+  const popup = map._popup;
+  if(!popup || !popup.isOpen || !popup.isOpen()) return;
+  const pad = popupPad();
+  popup.options.autoPan = true;
+  popup.options.autoPanPaddingTopLeft = pad.topLeft;
+  popup.options.autoPanPaddingBottomRight = pad.bottomRight;
+  try{ if(popup._adjustPan) popup._adjustPan(); }catch(_){}
+}
+function openEventFromPin(e){
+  const onTimeline = /^#\/timeline/.test(location.hash||'');
+  const h = (onTimeline ? '#/timeline/event/' : '#/event/') + e.slug;
+  if((location.hash||'')!==h) location.hash = h;
+  setTimeout(panForOpenPopup, 50);
+  setTimeout(panForOpenPopup, 320);
+  setTimeout(panForOpenPopup, 780);
 }
 function evIcon(e){
   const label = pillText(e);
@@ -269,8 +410,9 @@ function evIcon(e){
 EV.forEach(e => {
   if(e.lat==null || e.lng==null) return;
   const mk = L.marker([e.lat, e.lng], {icon: evIcon(e), title: e.name, riseOnHover:true, keyboard:true});
-  mk.bindPopup(popEvent(e), {className:'ppop', maxWidth:300});
-  mk.on('click', () => { /* popup opens; detail via hash in popup */ });
+  mk.bindPopup(popEvent(e), {className:'ppop', maxWidth:300, autoPan:true, autoPanPaddingTopLeft:[16,80], autoPanPaddingBottomRight:[16,40]});
+  mk.bindTooltip(e.name, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-10]});
+  mk.on('click', () => openEventFromPin(e));
   markers[e.slug] = mk;
 });
 
@@ -387,7 +529,7 @@ function setKind(k){
 }
 function setRegion(r, opts){
   opts = opts||{};
-  if(r!=='europe' && r!=='uae') r='all';
+  if(r!=='all' && !isKnownRegion(r)) r='all';
   const changed = st.region!==r;
   st.region = r;
   if(changed){ st.cities.clear(); st.topics.clear(); }
@@ -396,11 +538,34 @@ function setRegion(r, opts){
   if(opts.fit!==false) fitToVisible();
 }
 
-const REGION_BOUNDS = {
-  europe: [[34,-12],[71,32]],
-  uae: [[22.6,51.5],[26.6,56.6]],
-  all: [[21,-12],[71,58]]
-};
+function regionBoundsOf(r){
+  const ptsFor = (pred) => EV.filter(e => hasPin(e) && pred(e)).map(e => [e.lat, e.lng]);
+  if(!r || r==='all'){
+    const pts = ptsFor(() => true);
+    if(pts.length) return L.latLngBounds(pts).pad(0.18);
+    return L.latLngBounds([[21,-12],[71,58]]);
+  }
+  const pts = ptsFor(e => evRegion(e)===r);
+  if(pts.length>=2) return L.latLngBounds(pts).pad(0.2);
+  if(pts.length===1) return L.latLngBounds(pts).pad(0.6);
+  if(r==='europe') return L.latLngBounds([[34,-12],[71,32]]);
+  if(r==='uae') return L.latLngBounds([[22.6,51.5],[26.6,56.6]]);
+  return regionBoundsOf('all');
+}
+function renderRegionChips(){
+  const regions = regionList();
+  const f = $('#f-region');
+  if(f){
+    f.innerHTML = `<button type="button" data-r="all">All regions</button>` +
+      regions.map(r => `<button type="button" data-r="${esc(r)}">${esc(regionLabel(r))}</button>`).join('');
+  }
+  const jump = $('#regions');
+  if(jump){
+    jump.innerHTML = regions.map(r => `<button type="button" data-r="${esc(r)}">${esc(regionLabel(r))}</button>`).join('');
+    jump.hidden = regions.length < 2;
+  }
+  updateRegionChrome();
+}
 function fitToVisible(){
   const pins = visibleEvents().map(e => markers[e.slug]).filter(Boolean);
   const pad = innerWidth>860 ? {paddingTopLeft:[20,40], paddingBottomRight:[40,20]} : {padding:[60,24,40,24]};
@@ -409,7 +574,8 @@ function fitToVisible(){
       const group = L.featureGroup(pins);
       map.fitBounds(group.getBounds().pad(0.14), Object.assign({maxZoom: pins.length<4?8:6, animate:true}, pad));
     }else{
-      map.fitBounds(REGION_BOUNDS[st.region] || REGION_BOUNDS.all, Object.assign({maxZoom: st.region==='uae'?8:4, animate:true}, pad));
+      const b = regionBoundsOf(st.region);
+      map.fitBounds(b, Object.assign({maxZoom: st.region!=='all' && pins.length<4?8:4, animate:true}, pad));
     }
   }catch(_){}
 }
@@ -464,8 +630,15 @@ updateRegionChrome();
 renderCatChips();
 renderLegend();
 $$('#kindbar button').forEach(b => b.onclick = () => setKind(b.dataset.k));
-$$('#f-region button').forEach(b => b.onclick = () => setRegion(b.dataset.r, {fit:true}));
-$$('#regions button').forEach(b => b.onclick = () => setRegion(b.dataset.r, {fit:true}));
+(function bindRegionChrome(){
+  const on = ev => {
+    const b = ev.target.closest && ev.target.closest('button[data-r]');
+    if(b) setRegion(b.dataset.r, {fit:true});
+  };
+  const f = $('#f-region'), jump = $('#regions');
+  if(f) f.addEventListener('click', on);
+  if(jump) jump.addEventListener('click', on);
+})();
 
 let topicsExpanded = false;
 function renderTopics(){
@@ -674,9 +847,7 @@ function emptyMessage(){
       : 'No upcoming events have been published yet. The research feed is still being compiled.';
   }
   if(st.region!=='all' && !kindAll.some(e => evRegion(e)===st.region)){
-    return st.region==='uae'
-      ? 'No UAE listings have been published yet.'
-      : 'No European listings match this view yet.';
+    return 'No '+regionLabel(st.region)+' listings have been published yet for this view.';
   }
   return 'No events match the current filters.';
 }
@@ -694,6 +865,20 @@ function render(){
   const next = vis.filter(e => parseDay(e.start_date) && parseDay(e.start_date) >= TODAY).sort((a,b)=>(a.start_date||'').localeCompare(b.start_date||''))[0];
   $('#stats').innerHTML = `<div><b>${vis.length}</b><span>Events shown</span></div><div><b>${cities.size}</b><span>Cities</span></div><div><b>${next?fmtDay(next.start_date):'—'}</b><span>${next?'Next event':'Next date'}</span></div>`;
   $('#upd').textContent = D.updated || '—';
+  if(D.scope && !window._scopeApplied){
+    window._scopeApplied = true;
+    const titleBits = String(D.scope).replace(/^Conferences and festivals in /i, '');
+    if(titleBits){
+      document.title = 'GConf Events Atlas · Conferences and festivals in ' + titleBits;
+      const mapEl = $('#map');
+      if(mapEl) mapEl.setAttribute('aria-label', 'Map of events in ' + titleBits);
+      const desc = document.querySelector('meta[name="description"]');
+      if(desc) desc.setAttribute('content', 'A map of upcoming conferences and festivals in '+titleBits+'. Every fact is cited. Built by GConf AI.');
+      document.querySelectorAll('footer.foot').forEach(foot => {
+        foot.innerHTML = foot.innerHTML.replace(/upcoming conferences and festivals in [^.<]+/, 'upcoming conferences and festivals in '+titleBits);
+      });
+    }
+  }
   const echo = $('#mapecho');
   const pinned = vis.filter(e => markers[e.slug]).length;
   if(echo){
@@ -1053,7 +1238,8 @@ const PLAY_BASE = 7000;
 const PLAY = {
   on:false, paused:true, i:0, list:[], speed:1,
   t0:0, elapsed:0, dur:PLAY_BASE, raf:0,
-  prog:false, navigating:false, suppressAuto:false
+  prog:false, navigating:false, suppressAuto:false,
+  swapT:0, swapClear:0
 };
 try{
   const sp = parseFloat(localStorage.getItem('gconf-atlas-play-speed')||'');
@@ -1303,8 +1489,10 @@ function tourFramePath(pts, duration){
 /* Play-mode flight sound is synthesised in the browser with the Web Audio
    API (filtered noise plus a low oscillator). No third-party recording is used. */
 const FLYSFX_KEY = 'gconf-atlas-play-sound';
-const FLYSFX = { on:false, ctx:null, master:null, nodes:null, flew:false, t0:0, dur:0 };
+const FLYSFX_HINT_KEY = 'gconf-atlas-play-sound-hint';
+const FLYSFX = { on:false, ctx:null, master:null, nodes:null, flew:false, t0:0, dur:0, hintT:0, hinted:false, hinting:false };
 try{ FLYSFX.on = localStorage.getItem(FLYSFX_KEY)==='1'; }catch(_){}
+try{ FLYSFX.hinted = localStorage.getItem(FLYSFX_HINT_KEY)==='1'; }catch(_){}
 
 function flySfxUnlock(){
   const AC = window.AudioContext || window.webkitAudioContext;
@@ -1431,9 +1619,52 @@ function flySfxChime(){
     o.stop(start+0.6);
   });
 }
+function flySfxPlaceHint(tip, btn){
+  if(!tip || !btn) return;
+  const r = btn.getBoundingClientRect();
+  const bar = $('#playbar');
+  const br = bar ? bar.getBoundingClientRect() : r;
+  tip.style.position = 'fixed';
+  tip.style.left = Math.round(r.left + r.width/2) + 'px';
+  tip.style.top = 'auto';
+  tip.style.bottom = Math.round(Math.max(8, innerHeight - Math.min(r.top, br.top) + 10)) + 'px';
+  tip.style.transform = 'translateX(-50%)';
+  tip.style.zIndex = '1100';
+}
+function flySfxDismissHint(persist){
+  const btn = $('#playsound');
+  if(btn) btn.classList.remove('hint');
+  document.querySelectorAll('.play-sound-hint').forEach(el => el.remove());
+  if(FLYSFX.hintT){ clearTimeout(FLYSFX.hintT); FLYSFX.hintT=0; }
+  FLYSFX.hinting = false;
+  if(persist){
+    FLYSFX.hinted = true;
+    try{ localStorage.setItem(FLYSFX_HINT_KEY, '1'); }catch(_){}
+  }
+}
+function flySfxMaybeHint(){
+  if(FLYSFX.hinted || FLYSFX.hinting || playReduced() || !PLAY.on) return;
+  const btn = $('#playsound');
+  const bar = $('#playbar');
+  if(!btn || (bar && bar.hidden)) return;
+  FLYSFX.hinting = true;
+  let tip = document.querySelector('.play-sound-hint');
+  if(!tip){
+    tip = document.createElement('span');
+    tip.className = 'play-sound-hint';
+    tip.setAttribute('role','status');
+    tip.textContent = 'Flight sound';
+    document.body.appendChild(tip);
+  }
+  flySfxPlaceHint(tip, btn);
+  btn.classList.add('hint');
+  if(FLYSFX.hintT) clearTimeout(FLYSFX.hintT);
+  FLYSFX.hintT = setTimeout(() => flySfxDismissHint(true), 4200);
+}
 function flySfxToggle(){
   FLYSFX.on = !FLYSFX.on;
   try{ localStorage.setItem(FLYSFX_KEY, FLYSFX.on?'1':'0'); }catch(_){}
+  flySfxDismissHint(true);
   if(FLYSFX.on){
     flySfxUnlock();
     if(TOUR.plane && PLAY.on && !playReduced()){
@@ -1453,6 +1684,8 @@ function flySfxUpdateChrome(){
   btn.setAttribute('aria-pressed', FLYSFX.on?'true':'false');
   btn.setAttribute('aria-label', FLYSFX.on?'Sound on':'Sound off');
   btn.title = FLYSFX.on?'Sound on':'Sound off';
+  const lab = btn.querySelector('.play-sound-lab');
+  if(lab) lab.textContent = 'Sound';
 }
 
 function tourFlyPlane(pts, duration, done){
@@ -1613,6 +1846,7 @@ function playUpdateChrome(){
   if(app) app.classList.toggle('play-on', PLAY.on);
   if(bar) bar.hidden = !PLAY.on;
   if(btn) btn.hidden = PLAY.on;
+  if(PLAY.on) flySfxMaybeHint();
 }
 
 function playMarkCard(){
@@ -1635,13 +1869,60 @@ function playMarkCard(){
   }
 }
 
+function playSwapClearTimers(){
+  if(PLAY.swapT){ clearTimeout(PLAY.swapT); PLAY.swapT=0; }
+  if(PLAY.swapClear){ clearTimeout(PLAY.swapClear); PLAY.swapClear=0; }
+}
+function playWrapDetailPane(body){
+  let pane = body.querySelector('.dswap-pane:not(.dswap-out)');
+  if(pane) return pane;
+  if(!body.innerHTML.trim()) return null;
+  pane = document.createElement('div');
+  pane.className = 'dswap-pane dswap-show';
+  while(body.firstChild) pane.appendChild(body.firstChild);
+  body.appendChild(pane);
+  return pane;
+}
 function playOpenPanel(e){
   const det = $('#detail');
-  $('#dbody').innerHTML = viewEvent(e);
+  const body = $('#dbody');
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
-  bindGallery(e);
-  updateAlertPrefs(undefined, e);
   if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
+  playSwapClearTimers();
+  const reduce = playReduced();
+  const current = playWrapDetailPane(body);
+  if(current && current.dataset.slug===e.slug && current.classList.contains('dswap-show')){
+    bindGallery(e);
+    updateAlertPrefs(undefined, e);
+    return;
+  }
+  try{ carStop(); }catch(_){}
+  body.querySelectorAll('.dswap-pane.dswap-out').forEach(el => el.remove());
+  const incoming = document.createElement('div');
+  incoming.className = 'dswap-pane dswap-in' + (reduce?' reduce':'');
+  incoming.dataset.slug = e.slug||'';
+  incoming.innerHTML = viewEvent(e);
+  if(current){
+    current.classList.add('dswap-out');
+    current.classList.remove('dswap-show');
+    current.querySelectorAll('[id]').forEach(el => el.removeAttribute('id'));
+  }
+  body.appendChild(incoming);
+  const arm = () => {
+    incoming.classList.add('dswap-show');
+    bindGallery(e);
+    updateAlertPrefs(undefined, e);
+  };
+  /* Visual only: never delay tourTo / play timing for the swap.
+     Incoming uses a CSS animation-delay so the outgoing pane covers the gap. */
+  arm();
+  if(current){
+    const outMs = reduce ? 180 : 250;
+    PLAY.swapClear = setTimeout(() => {
+      PLAY.swapClear=0;
+      if(current.parentNode) current.remove();
+    }, outMs + (reduce ? 220 : 350) + 40);
+  }
 }
 
 function playShow(i, opts){
@@ -1737,23 +2018,45 @@ function playSetSpeed(s){
   playUpdateChrome();
 }
 
+function playSelectedSlug(opts){
+  opts = opts||{};
+  if(opts.slug) return opts.slug;
+  const h = location.hash||'';
+  const m = h.match(/^#\/(?:timeline\/(?:play|event)\/|event\/)([^/?#]+)/);
+  if(m){ try{ return decodeURIComponent(m[1]); }catch(_){ return m[1]; } }
+  const card = document.querySelector('#tlbody .tl-card.tl-now[data-slug]');
+  if(card && card.dataset.slug) return card.dataset.slug;
+  return '';
+}
 function playEnter(opts){
   opts = opts||{};
   if(PLAY.navigating && PLAY.on && !opts.force) return;
+  if(PLAY.raf){ cancelAnimationFrame(PLAY.raf); PLAY.raf=0; }
+  tourClearTimers();
+  PLAY.prog = false; clearTimeout(PLAY.progT);
   PLAY.list = playEvents();
   if(!PLAY.list.length) return;
+  const slug = playSelectedSlug(opts);
   let i = 0;
-  if(opts.slug){
-    const j = PLAY.list.findIndex(e => e.slug===opts.slug);
+  if(slug){
+    const j = PLAY.list.findIndex(e => e.slug===slug);
     if(j>=0) i=j;
   }
-  const already = PLAY.on && PLAY.i===i && $('#detail') && $('#detail').classList.contains('open');
   PLAY.on = true;
+  PLAY.i = i;
+  PLAY.elapsed = 0;
+  PLAY.t0 = 0;
   PLAY.suppressAuto = false;
   document.getElementById('app').classList.add('play-on');
   tourPrep();
-  if(!already) playShow(i, {replace:true});
-  else { playUpdateChrome(); tourTo(PLAY.list[i]); }
+  /* Seed the previous hop from the current map view so the first flight
+     leaves wherever the user is looking, even after Stop (which nulls
+     TOUR.prev) or a mid-timeline card click that never panned the map. */
+  try{
+    const here = map.getCenter();
+    TOUR.prev = here ? L.latLng(here.lat, here.lng) : null;
+  }catch(_){ TOUR.prev = null; }
+  playShow(i, {replace:true});
   const shouldPlay = opts.auto!==false && !playReduced() && !opts.paused;
   if(shouldPlay) playResume();
   else playPause();
@@ -1763,6 +2066,8 @@ function playExit(opts){
   opts = opts||{};
   if(!PLAY.on && !document.getElementById('app').classList.contains('play-on')) return;
   if(PLAY.raf){ cancelAnimationFrame(PLAY.raf); PLAY.raf=0; }
+  playSwapClearTimers();
+  flySfxDismissHint(false);
   PLAY.on = false;
   PLAY.paused = true;
   PLAY.elapsed = 0;
@@ -1931,9 +2236,13 @@ function route(){
   const ll = (e.lat!=null && e.lng!=null) ? L.latLng(e.lat, e.lng) : null;
   if(ll && !onTimeline){
     const z = Math.max(map.getZoom(), 10);
-    const off = innerWidth>860 ? Math.round(det.getBoundingClientRect().width/2) : 0;
-    const pt = map.project(ll,z).subtract([off,0]);
-    map.flyTo(map.unproject(pt,z), z, {duration:.7});
+    const dest = (typeof tourFocus==='function') ? tourFocus(ll, z) : ll;
+    map.flyTo(dest, z, {duration:.7});
+    const after = () => { panForOpenPopup(); map.off('moveend', after); };
+    map.on('moveend', after);
+    setTimeout(panForOpenPopup, 780);
+  }else{
+    setTimeout(panForOpenPopup, 320);
   }
   if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
 }
@@ -2380,4 +2689,5 @@ function bindPanelResizers(){
 
 
 bindPanelResizers();
+renderRegionChips();
 route();
