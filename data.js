@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T14:26:22Z",
+ "generated": "2026-11-24T14:28:54Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -16669,7 +16669,7 @@ window.ATLASDATA={
    "event_id": "GCE-abu-dhabi-finance-week-2026",
    "slug": "abu-dhabi-finance-week-2026",
    "name": "Abu Dhabi Finance Week 2026",
-   "website_url": "https://www.adfw.com/event/2026/why-attend",
+   "website_url": "https://www.adfw.com/event/2026/home",
    "start_date": "2026-12-07",
    "end_date": "2026-12-10",
    "city": "Abu Dhabi",
@@ -16689,7 +16689,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.adfw.com/event/2026/why-attend",
+   "source_url": "https://www.adfw.com/event/2026/home",
    "last_scraped_at": "2026-11-24T06:35:25+01:00",
    "notes": "Dates are local civil dates for Abu Dhabi Finance Week 2026 at ADGM on Al Maryah Island.",
    "lat": 24.5029805,
@@ -16703,11 +16703,6 @@ window.ATLASDATA={
    ],
    "photos": [],
    "sources": [
-    {
-     "label": "Official",
-     "url": "https://www.adfw.com/event/2026/why-attend",
-     "field": "official"
-    },
     {
      "label": "Official",
      "url": "https://www.adfw.com/event/2026/home",
