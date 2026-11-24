@@ -46,6 +46,8 @@
 
 
 
+
+
 <!-- atlas-seo:start -->
 <title>GConf Events Atlas · Conferences, meetups, festivals and sports worldwide</title>
 <meta name="description" content="A cited map of 3,046 upcoming conferences, community meetups, festivals and sports across Europe, the UAE, the Middle East, North America, South America, Asia, Oceania and Africa. Built by GConf AI.">
@@ -72,7 +74,8 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611241343">
+<link rel="stylesheet" href="style.css?v=202611241404
+<link rel="stylesheet" href="claim.css?v=202611241404
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -87,6 +90,10 @@
   <a href="venues/">Venues (554)</a>.</p>
 </noscript>
 <!-- atlas-seo-noscript:end -->
+
+
+
+
 
 
 
@@ -271,6 +278,9 @@
     </div>
     <div class="listhead">
       <span id="count"></span>
+      <label class="check verified-only" id="verified-only-wrap" hidden>
+        <input type="checkbox" id="f-verified" aria-label="Show verified listings only"> Verified only
+      </label>
       <select id="sort" aria-label="Sort events">
         <option value="date">Date: soonest</option>
         <option value="date-desc">Date: latest</option>
@@ -459,9 +469,12 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611241343"></script>
-<script src="data.js?v=202611241343"></script>
-<script src="app.js?v=202611241343"></script>
+<script src="config.js?v=202611241404
+<script src="data.js?v=202611241404
+<script src="claim.js?v=202611241404
+<script src="app.js?v=202611241404
+
+
 
 
 

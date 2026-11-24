@@ -1,6 +1,6 @@
 /* GConf Events Atlas */
 const D = window.ATLASDATA || {events:[], updated:'', eurRates:{}, eurRatesNote:''};
-const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', viewsEnabled:false, viewsFn:'', claimEmail:'', cartoKey:''}, window.ATLASCONFIG||{});
+const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', viewsEnabled:false, viewsFn:'', claimEmail:'', claimEndpoint:'', cartoKey:''}, window.ATLASCONFIG||{});
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -453,7 +453,7 @@ map.addLayer(clusters);
 const markers = {};
 function popEvent(e){
   const ph = e.photos && e.photos[0];
-  return `<div class="pop">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+  return `<div class="pop">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function mapChromePad(){
   const desk = innerWidth>860;
@@ -793,15 +793,22 @@ function hotelPopup(h, slug){
   const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
   const venueLink = h.venue_slug ? `<p><a href="#/venue/${esc(h.venue_slug)}">Venue page</a></p>` : '';
+  const atlasLink = `<p><a href="#/hotel/${esc((typeof GCONFCLAIM!=='undefined')?GCONFCLAIM.hotelSlug(h):(h.slug||''))}">Atlas listing</a></p>`;
   const ph = (h.photos && h.photos[0]) || null;
   const phHtml = ph ? `<img src="${esc(ph.thumb||ph.src)}" alt="${esc((ph.caption||h.name||''))}" style="width:100%;border-radius:8px;margin:0 0 8px">` : '';
   const phCap = ph && photoCreditLine(ph) ? `<p class="hk-meta">${photoCreditLine(ph)}</p>` : '';
-  return `<div class="hk-pop">${phHtml}<p class="hk-name">${esc(h.name||'Hotel')}</p>
+  const hSlug = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.hotelSlug(h) : (h.slug||'');
+  const hRec = Object.assign({type:'hotel', slug:hSlug}, h);
+  const hBadge = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.badgeHtml('hotel', hRec) : '';
+  const hClaim = (typeof GCONFCLAIM!=='undefined' && GCONFCLAIM.isVerified('hotel', hRec))
+    ? `<p><button type="button" class="btn claim-claimed" disabled>Claimed listing</button></p>`
+    : `<p><button type="button" class="btn primary claim-cta" data-claim-type="hotel" data-claim-slug="${esc(hSlug)}" data-claim-name="${esc(h.name||'')}">Claim this listing</button></p>`;
+  return `<div class="hk-pop">${phHtml}<p class="hk-name">${esc(h.name||'Hotel')}${hBadge}</p>
     <p class="hk-meta">${esc(ratingLab||((tier===5?'5':'4')+'-tier hotel'))}</p>
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
-    ${partner}${link}${venueLink}${socialsHtml(h)}${phCap}</div>`;
+    ${partner}${link}${venueLink}${atlasLink}${hClaim}${socialsHtml(h)}${phCap}</div>`;
 }
 function openEventSlug(){
   const m = (location.hash||'').match(/event\/([^/]+)/);
@@ -1066,7 +1073,7 @@ function viewVenue(v){
   const sqm = venueSqmLabel(v);
   const hero = `<div class="dhero">
     <div class="crumbs">Venue${type?` · ${esc(type)}`:''}</div>
-    <h2>${esc(v.name||v.slug)}</h2>
+    <h2>${esc(v.name||v.slug)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("venue",v):"")}</h2>
     <div class="loc">${esc(place)}</div>
   </div>`;
   const fact = (k,val,href) => {
@@ -1103,7 +1110,8 @@ function viewVenue(v){
   const ph = v.photos||[];
   const gal = (typeof galHtml==='function') ? galHtml(ph, (ph[0]&&ph[0].credit)||'') : '';
   const photoCap = (ph[0] && photoCreditLine(ph[0])) ? `<div class="hcredit">${photoCreditLine(ph[0])}</div>` : '';
-  return close + gal + hero + photoCap + facts + about + socialSec + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
+  const claim = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.claimSectionHtml('venue', v) : '';
+  return close + gal + hero + photoCap + facts + about + socialSec + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec + claim;
 }
 (function bindVenuesToggle(){
   const btn = $('#venues-btn');
@@ -1135,7 +1143,7 @@ const st = {
   cities: new Set(),
   topics: new Set(),
   pmin:0, pmax:PT, unknown:true,
-  q:'', sort:'date', cityq:''
+  q:'', sort:'date', cityq:'', verifiedOnly:false
 };
 try{
   const k = localStorage.getItem('gconf-atlas-kind');
@@ -1495,6 +1503,17 @@ pv();
 
 $('#q').oninput = e => { st.q=e.target.value.trim().toLowerCase(); render(); };
 $('#sort').onchange = e => { st.sort=e.target.value; render(); };
+(function bindVerifiedOnly(){
+  const box = $('#f-verified');
+  const wrap = $('#verified-only-wrap');
+  function hasVerified(){
+    if(typeof GCONFCLAIM==='undefined') return false;
+    return EV.some(e => GCONFCLAIM.isVerified('event', e));
+  }
+  if(wrap) wrap.hidden = !hasVerified();
+  if(!box) return;
+  box.onchange = () => { st.verifiedOnly = !!box.checked; render(); };
+})();
 
 function overlapsDate(e){
   if(!st.from && !st.to) return true;
@@ -1538,6 +1557,10 @@ function visibleEvents(){
       const hay = [e.name,e.city,e.country,e.venue,e.organizer,e.industry,(e.topics||[]).join(' '),e.notes].join(' ').toLowerCase();
       if(!hay.includes(q)) return false;
     }
+    if(st.verifiedOnly){
+      const ok = (typeof GCONFCLAIM!=='undefined') && GCONFCLAIM.isVerified('event', e);
+      if(!ok) return false;
+    }
     return true;
   });
 }
@@ -1578,7 +1601,7 @@ function cardThumbHtml(e){
   return `<div class="th ${cat}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`;
 }
 function cardHtml(e){
-  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${statusBadge(e)}<h3>${esc(e.name)}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${statusBadge(e)}<h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
 }
 
 let listThumbObs = null;
@@ -1770,7 +1793,7 @@ function viewEvent(e){
   const gal = galHtml(ph, credit);
   const hero = `<div class="dhero ${esc(e.category||'')}">
     <div class="crumbs">${esc(catLabel(e))} · ${statusBadge(e) || esc(fmtEventDates(e))}</div>
-    <h2>${esc(e.name)}</h2>
+    <h2>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h2>
     <div class="loc">${esc(locBits)}${isApprox(e)?' · ◌ approximate pin':(!hasPin(e)?' · pin not yet placed':'')}</div>
     <div class="bigprice">${esc(fmtPrice(e))}${e.currency && hasPrice(e)?`<small>${esc(e.currency)}${e.ticket_url?' · tickets on the organiser site':''}</small>`: (hasPrice(e)?'': '<small>No verified ticket price yet</small>')}</div>
     <div class="htags">${tags}</div>
@@ -1788,20 +1811,9 @@ function viewEvent(e){
     ${fact('Tickets', hasPrice(e)?fmtPrice(e):'Not published', e.ticket_url || e.price_source_url)}
     ${fact('Website', e.website_url ? e.website_url.replace(/^https?:\/\//,'').replace(/\/$/,'') : '', e.website_url)}
   </dl>${isApprox(e)?`<p class="approx-note">The map pin is approximate. The exact venue location was not published with enough precision to place a verified point.</p>`:(!hasPin(e)?`<p class="note">A map pin will appear once a location has been published.</p>`:'')}</div>`;
-  const claim = `<div class="dsec claim"><h4>Organisers</h4>
-    <p>This listing is researched from public sources. If you run this event, you can claim it and correct the record. This button does not send outreach.</p>
-    <div class="cta-row">
-      <a class="btn primary xl" id="claim-cta" href="#/event/${esc(e.slug)}/claim">Organisers: claim this listing</a>
-    </div>
-    <div id="claim-box" hidden>
-      <p>Claims are not open yet. This form is a placeholder and does not send anything. Official contact details will come from the GConf fact sheet.</p>
-      <label class="flab" for="claim-email">Your work email</label>
-      <input id="claim-email" type="email" disabled placeholder="you@organiser.com">
-      <label class="flab" for="claim-note">What should we correct?</label>
-      <textarea id="claim-note" rows="3" disabled placeholder="Dates, venue, ticket price, photos…" style="width:100%;margin:6px 0 10px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--input);color:var(--ink);font:inherit"></textarea>
-      <button type="button" class="btn primary" disabled>Submit claim (not yet active)</button>
-    </div>
-  </div>`;
+  const claim = (typeof GCONFCLAIM!=='undefined')
+    ? GCONFCLAIM.claimSectionHtml('event', e)
+    : `<div class="dsec claim"><h4>Organisers</h4><p>This listing is researched from public sources.</p></div>`;
   const srcs = (e.sources||[]).map(s => {
     const lab = s.label||s.url||'Source';
     const field = (s.field && String(s.field).toLowerCase()!==String(lab).toLowerCase()) ? s.field : '';
@@ -1846,17 +1858,12 @@ function bindGallery(e, root){
     };
   });
   pane.querySelectorAll('img').forEach(markImgLoaded);
-  const claim = pane.querySelector('#claim-cta') || document.getElementById('claim-cta');
-  if(claim){
-    claim.onclick = ev => {
-      ev.preventDefault();
-      const box = (pane.querySelector('#claim-box') || document.getElementById('claim-box'));
-      if(box){ box.hidden = !box.hidden; }
-      if(CFG.claimEmail){
-        const sub = encodeURIComponent('Claim listing: '+e.name);
-        location.href = 'mailto:'+CFG.claimEmail+'?subject='+sub;
-      }
-    };
+  const rec = Object.assign({type: e.type==='venue'||e.type==='hotel'?e.type:'event'}, e);
+  if(rec.type!=='venue' && rec.type!=='hotel') rec.type = rec._claimType || 'event';
+  if(typeof GCONFCLAIM!=='undefined'){
+    pane.querySelectorAll('.claim-cta, #claim-cta').forEach(btn => {
+      GCONFCLAIM.bindButton(btn, rec);
+    });
   }
   carInit(photos, e.name, e.photoCredit||'', pane);
   stubViews(e);
@@ -2026,7 +2033,7 @@ function parseFilterHash(hash){
   const views = {timeline:1, map:1, grid:1, swipe:1};
   let i = 0;
   if(views[tokens[0]]){ out.view = tokens[0]==='map'?'map':tokens[0]; i++; }
-  const reserved = {event:1, play:1, privacy:1, alerts:1, claim:1, country:1, venue:1};
+  const reserved = {event:1, play:1, privacy:1, alerts:1, claim:1, country:1, venue:1, hotel:1};
   if(i>=tokens.length || reserved[tokens[i]]) {
     if(tokens[i]==='country'){ /* place only */ }
     else { out.bare = tokens.slice(i).length===0; return out; }
@@ -2296,7 +2303,7 @@ function gridCardHtml(e){
         <span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>
         ${statusBadge(e)}
       </div>
-      <h3>${esc(e.name)}</h3>
+      <h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3>
       <div class="gcard-when">${esc(fmtEventDates(e))}</div>
       <div class="gcard-where">${esc(place)}</div>
       <div class="gcard-foot">
@@ -2406,7 +2413,7 @@ function eventCardHtml(e, side, imgPri){
       <div class="tl-hero ${ph?'hasphoto':'ph'} ${esc(cat)}">${img}${ph?'<div class="tl-hero-shade"></div>':''}${dateBlock}<span class="tl-cat ${esc(cat)}">${esc(catLabel(e))}</span></div>
       <div class="tl-body">
         <div class="tl-range">${esc(fmtEventDates(e))}</div>
-        <h3>${esc(e.name)}</h3>
+        <h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3>
         <div class="tl-where">${flag?`<span class="flag" aria-hidden="true">${flag}</span>`:''}<span>${esc(loc||where(e))}</span></div>
         <div class="tl-chips">${chips}</div>
       </div>
@@ -3581,6 +3588,49 @@ function playUserInteract(ev){
   });
 })();
 
+
+function hotelBySlug(slug){
+  const s = String(slug||'');
+  return HOTELS_ALL.find(h => {
+    const hs = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.hotelSlug(h) : (h.slug || '');
+    return hs === s;
+  }) || null;
+}
+function viewHotel(h){
+  const slug = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.hotelSlug(h) : (h.slug || '');
+  const rec = Object.assign({type:'hotel', slug}, h);
+  const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
+  const rating = hotelRatingLabel(h);
+  const place = [h.address, h.city, h.country].filter(Boolean).join(' · ');
+  const hero = `<div class="dhero">
+    <div class="crumbs">Hotel${rating?` · ${esc(rating)}`:''}</div>
+    <h2>${esc(h.name||slug)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("hotel",rec):"")}</h2>
+    <div class="loc">${esc(place)}</div>
+  </div>`;
+  const fact = (k,val,href) => {
+    if(!val) return '';
+    const body = href ? `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(val)}</a>` : esc(val);
+    return `<dt>${esc(k)}</dt><dd>${body}</dd>`;
+  };
+  const siteLab = h.url ? String(h.url).replace(/^https?:\/\//,'').replace(/\/$/,'') : '';
+  const facts = `<div class="dsec"><h4>Facts</h4><dl class="facts">
+    ${fact('Rating', rating)}
+    ${fact('Address', h.address)}
+    ${fact('Website', siteLab, h.url)}
+  </dl></div>`;
+  const evItems = (h.event_slugs||[]).map(s => {
+    const ev = (typeof EV!=='undefined' ? EV : []).find(e => e.slug===s);
+    if(!ev) return '';
+    return `<li><a href="#/event/${esc(ev.slug)}">${esc(ev.name||ev.slug)}</a></li>`;
+  }).filter(Boolean).join('');
+  const evSec = evItems ? `<div class="dsec"><h4>Linked events</h4><ul>${evItems}</ul></div>` : '';
+  const venueLink = h.venue_slug ? `<div class="dsec"><h4>Venue page</h4><p><a href="#/venue/${esc(h.venue_slug)}">Open venue listing</a></p></div>` : '';
+  const socials = socialsHtml(h);
+  const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
+  const claim = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.claimSectionHtml('hotel', rec) : '';
+  return close + hero + facts + socialSec + venueLink + evSec + claim;
+}
+
 function route(){
   let hash = location.hash||'';
   if(!hash || hash==='#'){
@@ -3621,7 +3671,29 @@ function route(){
     if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
   }
   const vm = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?venue\/([^/]+)\/?$/);
+  const hm = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?hotel\/([^/]+)\/?$/);
   const det = $('#detail');
+  if(hm){
+    const hslug = decodeURIComponent(hm[1]);
+    const h = hotelBySlug(hslug);
+    if(!h){ location.hash = viewHomeHash(); return; }
+    if(PLAY.on) playExit({silent:true, keepHash:true});
+    $('#dbody').innerHTML = viewHotel(h);
+    det.classList.add('open'); det.setAttribute('aria-hidden','false');
+    if(typeof bindGallery==='function') bindGallery(Object.assign({_claimType:'hotel', type:'hotel', slug:hslug}, h));
+    gridMarkOpen('');
+    const lat = h.lat, lon = (h.lon!=null?h.lon:h.lng);
+    if(lat!=null && lon!=null && !onTimeline && !onGrid){
+      const ll = L.latLng(lat, lon);
+      const z = Math.max(map.getZoom(), 10);
+      const dest = (typeof tourFocus==='function') ? tourFocus(ll, z) : ll;
+      map.flyTo(dest, z, {duration:.7});
+    }
+    if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
+    if(typeof syncHotelLayer==='function') syncHotelLayer();
+    if(typeof syncVenueLayer==='function') syncVenueLayer();
+    return;
+  }
   if(vm){
     const vslug = decodeURIComponent(vm[1]);
     const v = (typeof venueBySlug==='function') ? venueBySlug(vslug) : null;
@@ -3629,7 +3701,7 @@ function route(){
     if(PLAY.on) playExit({silent:true, keepHash:true});
     $('#dbody').innerHTML = viewVenue(v);
     det.classList.add('open'); det.setAttribute('aria-hidden','false');
-    if(typeof bindGallery==='function') bindGallery(v);
+    if(typeof bindGallery==='function') bindGallery(Object.assign({_claimType:'venue', type:'venue'}, v));
     gridMarkOpen('');
     const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
     if(lat!=null && lon!=null && !onTimeline && !onGrid){
@@ -3683,8 +3755,10 @@ function route(){
   if(!e){ location.hash = viewHomeHash(); return; }
   $('#dbody').innerHTML = viewEvent(e);
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
-  if(m[2]){ const box=$('#claim-box'); if(box) box.hidden=false; }
-  bindGallery(e);
+  bindGallery(Object.assign({_claimType:'event'}, e));
+  if(m[2] && typeof GCONFCLAIM!=='undefined' && !GCONFCLAIM.isVerified('event', e)){
+    setTimeout(() => GCONFCLAIM.open(Object.assign({type:'event', canonical:GCONFCLAIM.listingCanonical('event', e)}, e)), 0);
+  }
   updateAlertPrefs(undefined, e);
   if(onGrid) gridMarkOpen(slug);
   const ll = (e.lat!=null && e.lng!=null) ? L.latLng(e.lat, e.lng) : null;
@@ -3724,7 +3798,7 @@ function swCard(e,k){
       ${isApprox(e)?'<span class="swapprox">◌ approx. pin</span>':''}
     </div>
     <div class="swb">
-      <h3>${esc(e.name)}</h3>
+      <h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3>
       <div class="swa">${esc(fmtEventDates(e))} · ${esc(where(e))} ${statusBadge(e)}</div>
       <div class="swp">${esc(fmtPrice(e))}</div>
       <dl>

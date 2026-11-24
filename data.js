@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T12:43:03Z",
+ "generated": "2026-11-24T13:04:25Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -327333,5 +327333,6 @@ window.ATLASDATA={
   "oceania": 160,
   "north_america": 380,
   "south_america": 214
- }
+ },
+ "verifiedClaims": []
 };

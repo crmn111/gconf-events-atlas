@@ -13,6 +13,7 @@ window.ATLASCONFIG = {
   subscribeFn: "",
   viewsEnabled: false,
   viewsFn: "",
-  claimEmail: "",
+  claimEmail: "hello@gconf.ai",
+  claimEndpoint: "",
   cartoKey: ""
 };
