@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T11:21:25Z",
+ "generated": "2026-11-24T11:32:51Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -6392,7 +6392,16 @@ window.ATLASDATA={
     "comics",
     "popular culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/milan-games-week-2026-1.jpg",
+     "thumb": "img/events/milan-games-week-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Milan_Games_Week_2015_IMG.jpg",
+     "credit": "Photo: Iodaviron / Wikimedia Commons / Public domain",
+     "caption": "The crowded exhibition hall at Milan Games Week 2015."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -6418,7 +6427,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Iodaviron / Wikimedia Commons / Public domain"
   },
   {
    "event_id": "GCE-motogp-valencia-2026",
@@ -7110,7 +7119,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Binance/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/binanceyoutube",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chart-book-print-fair-2026",
@@ -7192,7 +7245,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/chartartfaircph",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://chartartfair.com/",
+     "accessed_at": "2026-11-24T12:16:59+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-coca-cola-flow-fest-2026",
@@ -7256,7 +7318,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CocaColaFlow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CocaCola_Flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cocacola_flow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cocacola_flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@cocacola_flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cryptocon-sydney-2026",
@@ -7335,7 +7434,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AusCryptoCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/auscryptocon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/auscryptocon/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/australian-crypto-convention",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-devfest-amman-2026",
@@ -7492,7 +7621,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/filgdl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/filguadalajara/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hanoi-international-film-festival-2026",
@@ -7640,7 +7813,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jaffjogja/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:12:03+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@jaffjogja",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:12:03+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jaffjogja",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:12:03+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JAFFJogja",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:12:03+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-joyland-festival-jakarta-2026",
@@ -7705,7 +7908,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/joylandfest/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://joylandfest.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@joylandfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://joylandfest.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/joylandfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://joylandfest.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/joylandfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://joylandfest.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-con-india-navi-mumbai-2026",
@@ -7770,13 +8003,39 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia/",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-primavera-sound-buenos-aires-2026",
    "slug": "primavera-sound-buenos-aires-2026",
    "name": "Primavera Sound Buenos Aires 2026",
-   "website_url": "https://www.primaverasound.com/es/news/gorillaz-y-the-strokes-encabezan-los-inconfundibles-carteles-del-esperado-regreso-de-primavera-sound-a-buenos-aires-y-sao-paulo",
+   "website_url": "https://www.primaverasound.com/es/buenos-aires",
    "start_date": "2026-11-28",
    "end_date": "2026-11-29",
    "city": "Buenos Aires",
@@ -7796,7 +8055,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.primaverasound.com/es/news/gorillaz-y-the-strokes-encabezan-los-inconfundibles-carteles-del-esperado-regreso-de-primavera-sound-a-buenos-aires-y-sao-paulo",
+   "source_url": "https://www.primaverasound.com/es/buenos-aires",
    "last_scraped_at": "2026-11-24T01:22:05+01:00",
    "notes": "Return of Primavera Sound to Buenos Aires; Gorillaz and The Strokes headline. Argentina dates are local (Argentina time, UTC-3 all year, no daylight saving).",
    "lat": -34.5420036,
@@ -7822,8 +8081,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.primaverasound.com/es/news/gorillaz-y-the-strokes-encabezan-los-inconfundibles-carteles-del-esperado-regreso-de-primavera-sound-a-buenos-aires-y-sao-paulo",
+     "url": "https://www.primaverasound.com/es/buenos-aires",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (official news)",
+     "url": "https://www.primaverasound.com/es/news/gorillaz-y-the-strokes-encabezan-los-inconfundibles-carteles-del-esperado-regreso-de-primavera-sound-a-buenos-aires-y-sao-paulo",
+     "field": "Previous listing (official news)"
     },
     {
      "label": "Official (Gobierno de la Ciudad de Buenos Aires)",
@@ -7951,7 +8215,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/salsaalparque",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FestalParque",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festivalsalsaalparque/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ascilite-2026",
@@ -8079,7 +8366,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpertsLiveKSA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpertsLiveKSA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CloudMechanics",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expertsliveksa",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aws-reinvent-2026",
@@ -8181,7 +8498,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/awscloud",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/amazonwebservices",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/amazon-web-services",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amazonwebservices/",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AmazonWebServices",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-animateka-2026",
@@ -8272,7 +8631,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/animateka",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC2h_O3B7f7PEl0JvgnWHAIg",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/animateka_festival/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/animateka",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-christmas-jazz-2026",
@@ -8341,7 +8730,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jazzkaar",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jazzkaar/",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jazzkaar",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCvhwpvskzVc34ffa8L6oL6A",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sigma-south-asia-2026",
@@ -8527,7 +8950,24 @@ window.ATLASDATA={
     "crafts",
     "heritage"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hornbill-festival-2026-1.jpg",
+     "thumb": "img/events/hornbill-festival-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hornbill_Festival,Nagaland_2.jpg",
+     "credit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The festival grounds of the Hornbill Festival, Nagaland, 2 December 2023."
+    },
+    {
+     "src": "img/events/hornbill-festival-2026-2.jpg",
+     "thumb": "img/events/hornbill-festival-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hornbill_Festival_Nagaland_01.jpg",
+     "credit": "Photo: Kaushik Mishra / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Traditional dance at the Hornbill Festival, Nagaland, December 2018."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -8563,7 +9003,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nagalandt",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tourismdeptgon",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nagalandtourism/",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-salon-gdansk",
@@ -8632,7 +9098,49 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/wo1ghtii",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aisalon.ai/",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/aisalonai",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AISalonGlobal",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aisalon-ai",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-blockchain-life-2026",
@@ -8699,7 +9207,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "telegram",
+     "url": "https://t.me/BlockchainLifeSupport",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BlLife_Forum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/blockchain_life_forum/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/blockchainlife2025",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-blockchain-for-europe-2026",
@@ -8763,7 +9301,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/bc4eu-summit-2026",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.blockchain4eu.eu/",
+     "accessed_at": "2026-11-24T12:03:41+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/blockchain-for-europe",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.blockchain4eu.eu/",
+     "accessed_at": "2026-11-24T12:03:41+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fintech-connect-2026",
@@ -8828,7 +9382,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fintech-connect-ltd",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fintechconnect.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fintech_connect",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fintechconnect.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fintechconnect/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fintechconnect.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-generative-ai-summit-london-2026",
@@ -8924,7 +9501,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-accelerator-institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ai_ainstitute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-konark-dance-festival-2026",
@@ -9145,7 +9738,30 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/pydatalondon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://london.pydata.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PyDataTV",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://london.pydata.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/PyData-London-Meetup/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://london.pydata.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-superreturn-africa-2026",
@@ -9214,7 +9830,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SuperReturnTV",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SuperReturn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/superreturn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-apidays-paris-2026",
@@ -9279,7 +9918,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/apidays-conferences",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/APIdaysGlobal",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@apidays",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-seattle",
@@ -9348,7 +10013,33 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seattle.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seattle.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seattle.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-athens-international-boat-show-2026",
@@ -9434,7 +10125,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/athens.boatshow.gr",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://athensboatshow.gr/en/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/athensboatshow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://athensboatshow.gr/en/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-build-stuff-2026",
@@ -9508,7 +10215,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/buildStuffconf",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://buildstuff.events/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/buildstuffconf/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://buildstuff.events/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/BuildStuff",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://buildstuff.events/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@buildstuffconf",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://buildstuff.events/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BuildStuffConf",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://buildstuff.events/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cloud-expo-2026",
@@ -9572,7 +10316,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloud-expo-nl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cloudexponl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cloud_expo_nl/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CloudExpo2026",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edix-fukuoka-2026",
@@ -9636,7 +10410,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EDIXEXPO",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EDIX_expo",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@EDIX教育総合展",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-educatech-expo-2026",
@@ -9756,7 +10556,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC26vS5fiqy2nHBAwlkp2aOw",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.educatech-expo.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/educatech-expo",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.educatech-expo.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/educatectice",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.educatech-expo.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/educatectice",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.educatech-expo.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gaudeamus-bucharest-2026",
@@ -9869,7 +10699,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/radioromania.gaudeamus",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gaudeamus.ro/",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-technology-summit-2026",
@@ -9956,7 +10795,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/CarnegieIndia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/carnegie-india",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/carnegieindia/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@carnegieindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/carnegieindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-oeb-global-2026",
@@ -10021,7 +10897,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/oebconference",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://oeb.global/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/oeb_conference/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://oeb.global/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/oebconference.bsky.social",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://oeb.global/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/11306579",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://oeb.global/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-trans-musicales-2026",
@@ -10115,7 +11021,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/transmusicales",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.lestrans.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@les_trans",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.lestrans.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/transmusicales",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.lestrans.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/transmusicales",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.lestrans.com/",
+     "accessed_at": "2026-11-24T12:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sap-now-ai-tour-riyadh-2026",
@@ -10179,7 +11115,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SAP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SAP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sap",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sap/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SAP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vareet-2026",
@@ -10247,7 +11220,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vareetfest/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://vareet.fi/",
+     "accessed_at": "2026-11-24T12:03:45+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/profile.php?id=61572011213333",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://vareet.fi/",
+     "accessed_at": "2026-11-24T12:03:45+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-yow-melbourne-2026",
@@ -10311,7 +11300,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/yow_conf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/yow-conference",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/yowconf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/yowconf.bsky.social",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
@@ -10375,7 +11398,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EPOMECUAE",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EPOMECUAE",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/epomec-uae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/epomec/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCg4f4sViPfIMPqjKFwSvAyg",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-san-francisco",
@@ -10445,7 +11505,33 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-singapore",
@@ -10514,7 +11600,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-adopt-ai-2026",
@@ -10584,7 +11696,40 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Artefact_Global",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:03:50+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artefact_global/",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:03:50+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AdoptAI-GrandPalais",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:03:50+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/artefact-global",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:03:50+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bio-29-2026",
@@ -10679,7 +11824,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MAO.Slovenia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.bio.si/en/bio29",
+     "accessed_at": "2026-11-24T12:03:54+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bio_ljubljana/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.bio.si/en/bio29",
+     "accessed_at": "2026-11-24T12:03:54+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ccxp-2026",
@@ -10719,7 +11880,24 @@ window.ATLASDATA={
     "games",
     "cosplay"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/ccxp-2026-1.jpg",
+     "thumb": "img/events/ccxp-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:CCXP_2024_-_panor%C3%A2mica.jpg",
+     "credit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Panoramic view of the exhibition floor at CCXP 2024 (Comic Con Experience), São Paulo, 8 December 2024."
+    },
+    {
+     "src": "img/events/ccxp-2026-2.jpg",
+     "thumb": "img/events/ccxp-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:CCXP_2025.jpg",
+     "credit": "Photo: Lucasfoster / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A packed session on the main stage at CCXP 2025 in São Paulo, 4 December 2025, during the official launch of Brazil’s Year of Creativity."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -10750,7 +11928,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ccxpoficial/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ieee-icdlt-2026",
@@ -10918,7 +12133,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jewellerybridearabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jewellerybridearabia/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jewellery-bride-arabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jbadubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@JewelleryBrideArabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lianzhou-foto-festival-2026",
@@ -11111,7 +12363,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@StockholmMLOps",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/events",
+     "accessed_at": "2026-11-24T12:03:52+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/stockholm-mlops-community/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/events",
+     "accessed_at": "2026-11-24T12:03:52+01:00"
+    },
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/StockholmMLOps",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/events",
+     "accessed_at": "2026-11-24T12:03:52+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stockholmmlops/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/events",
+     "accessed_at": "2026-11-24T12:03:52+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/stockholmmlops",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/events",
+     "accessed_at": "2026-11-24T12:03:52+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wonderfruit-2026",
@@ -11198,7 +12487,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wonderfruit/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wonderfruit.co/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wonderfruitfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wonderfruit.co/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Wonderfruitfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wonderfruit.co/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-agf-2026",
@@ -11353,7 +12665,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/antiguascharteryachtshow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.antiguayachtshow.com/",
+     "accessed_at": "2026-11-24T12:03:59+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/antigua-charter-yacht-show",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.antiguayachtshow.com/",
+     "accessed_at": "2026-11-24T12:03:59+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/antiguacharteryachtshow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.antiguayachtshow.com/",
+     "accessed_at": "2026-11-24T12:03:59+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AntiguaYacht",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.antiguayachtshow.com/",
+     "accessed_at": "2026-11-24T12:03:59+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-argentina-comic-con-2026",
@@ -11429,7 +12771,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/argcomiccon/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://comic-con.com.ar/",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ArgComicCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://comic-con.com.ar/",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/argcomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://comic-con.com.ar/",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCq43u4Pc0iYq14YmzzL0V6Q",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://comic-con.com.ar/",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@argcomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://comic-con.com.ar/",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-basel-miami-beach-2026",
@@ -11466,7 +12845,24 @@ window.ATLASDATA={
     "contemporary art",
     "art fair"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/art-basel-miami-beach-2026-1.jpg",
+     "thumb": "img/events/art-basel-miami-beach-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Art_Basel_Miami_Beach_2021_02.jpg",
+     "credit": "Photo: Jennifer 8. Lee / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The entrance to Art Basel Miami Beach 2021, with official Art Basel Miami Beach signage on the facade."
+    },
+    {
+     "src": "img/events/art-basel-miami-beach-2026-2.jpg",
+     "thumb": "img/events/art-basel-miami-beach-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Art_Basel_Miami_Beach_2021_03.jpg",
+     "credit": "Photo: Jennifer 8. Lee / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Another view of the Art Basel Miami Beach 2021 entrance."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -11492,7 +12888,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Jennifer 8. Lee / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artbasel/",
+     "operator": "Art Basel",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.artbasel.com/miami-beach",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artbasel",
+     "operator": "Art Basel",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.artbasel.com/miami-beach",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ArtBasel",
+     "operator": "Art Basel",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.artbasel.com/miami-beach",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/art-basel",
+     "operator": "Art Basel",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.artbasel.com/miami-beach",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/artbasel",
+     "operator": "Art Basel",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.artbasel.com/miami-beach",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-athenscon-2026",
@@ -11567,7 +13005,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AthensCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.athenscon.gr/",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AthensCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.athenscon.gr/",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/athenscon_2026/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.athenscon.gr/",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@athenscon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.athenscon.gr/",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCE7L4eFt__EF01-2hH5r46w",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.athenscon.gr/",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-borneo-jazz-festival-2026",
@@ -11631,7 +13106,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/frontrow.asia/",
+     "operator": "Frontrow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
+     "accessed_at": "2026-11-24T12:04:04+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Frontrowentertainmentasia",
+     "operator": "Frontrow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
+     "accessed_at": "2026-11-24T12:04:04+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@frontrowasia",
+     "operator": "Frontrow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
+     "accessed_at": "2026-11-24T12:04:04+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-clockenflap-2026",
@@ -11707,7 +13208,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/clockenflap/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.clockenflap.com/info",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/clockenflap",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.clockenflap.com/info",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/clockenflaphk",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.clockenflap.com/info",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@clockenflap",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.clockenflap.com/info",
+     "accessed_at": "2026-11-24T12:04:03+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-abu-dhabi-grand-prix-2026",
@@ -11809,7 +13340,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Formula1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/f1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/f1/",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/f1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-good-things-festival-melbourne-2026",
@@ -11899,7 +13464,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GoodThingsFestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/goodthingsfestival/",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-guangzhou-design-week-2026",
@@ -12043,7 +13658,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/generation-experience",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sinocoll/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SGComicCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SGComicCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@singaporecomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sgcomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chiang-mai-design-week-2026",
@@ -12108,7 +13767,31 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/chiangmaidesignweek",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.chiangmaidesignweek.com/",
+     "accessed_at": "2026-11-24T12:04:12+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/chiangmaidesignweek/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.chiangmaidesignweek.com/",
+     "accessed_at": "2026-11-24T12:04:12+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CreativeEconomyAgency",
+     "operator": "Creative Economy Agency",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.chiangmaidesignweek.com/",
+     "accessed_at": "2026-11-24T12:04:12+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-con-india-delhi-2026",
@@ -12147,7 +13830,16 @@ window.ATLASDATA={
     "gaming",
     "anime"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/comic-con-india-delhi-2026-1.jpg",
+     "thumb": "img/events/comic-con-india-delhi-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Delhi_Comic_Con_2017_Entrance.jpg",
+     "credit": "Photo: Pulakit Singh / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The entrance to Delhi Comic Con 2017, with ‘The World of Pop Culture’ festival branding."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -12173,7 +13865,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Pulakit Singh / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia/",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-doha-forum-2026",
@@ -12268,7 +13986,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DohaForum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dohaforum.org/",
+     "accessed_at": "2026-11-24T12:04:11+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/DohaForum13",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dohaforum.org/",
+     "accessed_at": "2026-11-24T12:04:11+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dohaforum/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dohaforum.org/",
+     "accessed_at": "2026-11-24T12:04:11+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dohaforum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dohaforum.org/",
+     "accessed_at": "2026-11-24T12:04:11+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-echoes-of-earth-2026",
@@ -12333,7 +14081,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/echoesofearthfestival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.echoesofearth.com/",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@echoesofearthfestival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.echoesofearth.com/",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/echoesofearthfestival/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.echoesofearth.com/",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/eoemusicfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.echoesofearth.com/",
+     "accessed_at": "2026-11-24T12:04:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ffk19-pier2-comic-festival-2026",
@@ -12397,7 +14175,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/fancyfrontier",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
+     "accessed_at": "2026-11-24T12:04:13+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fancy_frontier/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
+     "accessed_at": "2026-11-24T12:04:13+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ffrontier",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
+     "accessed_at": "2026-11-24T12:04:13+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fete-des-lumieres-2026",
@@ -12493,7 +14294,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fetedeslumieres/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fetedeslumieres.lyon.fr/en",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fetedeslumieres",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fetedeslumieres.lyon.fr/en",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@villedelyon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fetedeslumieres.lyon.fr/en",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-german-film-comic-con-2026",
@@ -12558,7 +14382,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GermanFilmComicCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://germanfilmcomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:07+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/germanfilmcomiccon/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://germanfilmcomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:07+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@germanfilmcomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://germanfilmcomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:07+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC92lNcgH1RUB5GPduQRZI8w",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://germanfilmcomiccon.com/",
+     "accessed_at": "2026-11-24T12:04:07+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-good-things-festival-sydney-2026",
@@ -12648,7 +14502,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GoodThingsFestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/goodthingsfestival/",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-manga-barcelona-2026",
@@ -12687,7 +14591,24 @@ window.ATLASDATA={
     "popular culture",
     "comics"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/manga-barcelona-2026-1.jpg",
+     "thumb": "img/events/manga-barcelona-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:29_Manga_Barcelona_-_Entrada_1.jpg",
+     "credit": "Photo: Ferran Cornellà / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Entrance to 29 Manga Barcelona at Fira Barcelona Gran Via, L'Hospitalet de Llobregat, 7 December 2023, with official Manga Barcelona banners."
+    },
+    {
+     "src": "img/events/manga-barcelona-2026-2.jpg",
+     "thumb": "img/events/manga-barcelona-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:29_Manga_Barcelona_-_Entrada_2.jpg",
+     "credit": "Photo: Ferran Cornellà / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The red-carpet entrance to 29 Manga Barcelona at Fira Barcelona Gran Via, 7 December 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -12713,7 +14634,52 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Ferran Cornellà / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Ficomic-327447315516",
+     "operator": "Ficomic",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/manga.bcn/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCo5PcLGJxCnx7amLo_cNuCQ",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MANGAbcn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@manga.bcn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/mangabcn.bsky.social",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.mangabarcelona.com/",
+     "accessed_at": "2026-11-24T12:04:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nobel-week-lights-2026",
@@ -12831,7 +14797,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nobelprizemuseum",
+     "operator": "Nobel Prize Museum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://nobelweeklights.se/",
+     "accessed_at": "2026-11-24T12:12:12+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nobelprizemuseum/",
+     "operator": "Nobel Prize Museum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://nobelweeklights.se/",
+     "accessed_at": "2026-11-24T12:12:12+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/nobel-museum",
+     "operator": "Nobel Prize Museum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://nobelweeklights.se/",
+     "accessed_at": "2026-11-24T12:12:12+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-peru-comic-con-2026",
@@ -12967,7 +14959,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PlayIT.hu",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://playit.hu/",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/playitshow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://playit.hu/",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@playitshow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://playit.hu/",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UChJT_tA0eK9Z-TRL3XyzJ9Q",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://playit.hu/",
+     "accessed_at": "2026-11-24T12:04:09+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-good-things-festival-brisbane-2026",
@@ -13062,7 +15084,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GoodThingsFestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/goodthingsfestival/",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@goodthingsfestival",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@goodthingsfest",
+     "operator": "Good Things Festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
+     "accessed_at": "2026-11-24T12:04:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hainan-island-international-film-festival-2026",
@@ -13284,7 +15356,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/maratonvalencia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+     "accessed_at": "2026-11-24T12:04:14+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/maratonvalencia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+     "accessed_at": "2026-11-24T12:04:14+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MaratonValencia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+     "accessed_at": "2026-11-24T12:04:14+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/maratonvalencia/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+     "accessed_at": "2026-11-24T12:04:14+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@maratonvalencia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+     "accessed_at": "2026-11-24T12:04:14+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-engineer-sydney-2026",
@@ -13357,7 +15466,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/webdirections.org",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://webdirections.org/ai-engineer-sydney/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/web-directions",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://webdirections.org/ai-engineer-sydney/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-boston",
@@ -13426,7 +15551,33 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boston.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boston.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boston.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-paris",
@@ -13496,7 +15647,49 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/psoxd0ql",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://paris.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/paris_rb/",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://paris.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://paris.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://paris.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://paris.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-abu-dhabi-finance-week-2026",
@@ -13636,7 +15829,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/black-hat",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Black-Hat-Events-107691635153",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BlackHatEvents",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/BlackHatOfficialYT",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/blackhatofficial.bsky.social",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/blackhat_events/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blackhat.com/europe/",
+     "accessed_at": "2026-11-24T12:12:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-brisjs-brisbane",
@@ -13705,7 +15942,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/BrisJS/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/BrisJS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC9Zts-dkDz0DBZ_f8ETgHcQ",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/brisjs",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BrisJSMeetup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://bne.social/@brisjs",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://brisjs.org/",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expoartesanias-2026",
@@ -13803,7 +16084,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expoartesanias/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.expoartesanias.com/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Expoartesanias_",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.expoartesanias.com/",
+     "accessed_at": "2026-11-24T12:04:18+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gitex-global-2026",
@@ -13862,7 +16159,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GitexGlobal",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitex_global/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GITEX_GLOBAL",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gitex.",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/GitexTechWeek",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gitex_global",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitex.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-con-india-hyderabad-2026",
@@ -13927,7 +16268,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia/",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-milken-middle-east-africa-summit-2026",
@@ -13991,7 +16358,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/milkeninstitute",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/milkeninstitute/",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/milkeninstitute",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/milkeninstitute",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIRzxohZ6SbwsPqHFQGMJ7A",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/milkeninstitute.org",
+     "operator": "Milken Institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://milkeninstitute.org/events",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ndc-ai-2026",
@@ -14071,7 +16488,65 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ndcconferences",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ndc_conferences/",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ndcconferences",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/ndcconferences.com",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ndcconferences",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ndc-conferences",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NDC_Conferences",
+     "operator": "NDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ndc-ai.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sign-graphic-imaging-me-exhibition-2026",
@@ -14176,7 +16651,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIrQ3PuguUaIdWVPtfAJI_g",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.signmiddleeast.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sgidubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.signmiddleeast.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/profile.php?id=61570718586337",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.signmiddleeast.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sgi_mena/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.signmiddleeast.com/",
+     "accessed_at": "2026-11-24T12:04:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-yow-brisbane-2026",
@@ -14240,7 +16745,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/yow_conf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/brisbane-2026",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/yow-conference",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/brisbane-2026",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/yowconf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/brisbane-2026",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/yowconf.bsky.social",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/brisbane-2026",
+     "accessed_at": "2026-11-24T12:04:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expand-north-star-2026",
@@ -14342,7 +16881,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/northstardubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/northstardubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expand_north_star/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/expandnorthstar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCbg2cvfuZrgsO80IyVpd7UQ",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://www.whatsapp.com/channel/0029VbDxutBChq6VbSvfM80W",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expandnorthstar.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gdx-summit-2026",
@@ -14473,7 +17056,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/GITEXFDX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitexfdx.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gitex-fdx",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitexfdx.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitexfdx/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gitexfdx.com/",
+     "accessed_at": "2026-11-24T12:04:19+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-luxembourg-blockchain-week-2026",
@@ -14610,7 +17216,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BulgarianBookAssociation",
+     "operator": "Bulgarian Book Association",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
+     "accessed_at": "2026-11-24T12:04:22+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bulgarian_book_association/",
+     "operator": "Bulgarian Book Association",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
+     "accessed_at": "2026-11-24T12:04:22+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@bookszone_bg",
+     "operator": "Bulgarian Book Association",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
+     "accessed_at": "2026-11-24T12:04:22+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@user-gu8hs3bd6z",
+     "operator": "Bulgarian Book Association",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
+     "accessed_at": "2026-11-24T12:04:22+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-surfex-2026",
@@ -15798,7 +18438,24 @@ window.ATLASDATA={
     "publishing",
     "literature"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/riyadh-international-book-fair-2026-1.jpg",
+     "thumb": "img/events/riyadh-international-book-fair-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Riyadh_International_Book_Fair_(16).jpg",
+     "credit": "Photo: Ahmed / Wikimedia Commons / CC BY 4.0",
+     "caption": "An aisle of publisher stands at the Riyadh International Book Fair, 2022."
+    },
+    {
+     "src": "img/events/riyadh-international-book-fair-2026-2.jpg",
+     "thumb": "img/events/riyadh-international-book-fair-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Riyadh_International_Book_Fair_(17).jpg",
+     "credit": "Photo: Ahmed / Wikimedia Commons / CC BY 4.0",
+     "caption": "Another view of the stands at the Riyadh International Book Fair, 2022."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -15829,7 +18486,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Ahmed / Wikimedia Commons / CC BY 4.0"
   },
   {
    "event_id": "GCE-meet-js-wroclaw",
@@ -19565,7 +22222,24 @@ window.ATLASDATA={
     "dance",
     "parades"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/feria-de-cali-2026-1.jpg",
+     "thumb": "img/events/feria-de-cali-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:CARNAVAL_DEL_CALI_VIEJO,_FERIA_DE_CALI_2015.JPG",
+     "credit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Comparsas in the Carnaval del Cali Viejo parade during the Feria de Cali 2015."
+    },
+    {
+     "src": "img/events/feria-de-cali-2026-2.jpg",
+     "thumb": "img/events/feria-de-cali-2026-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Sals%C3%B3dromo,_Feria_de_Cali,_Colombia.JPG",
+     "credit": "Photo: Jyon / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "The inaugural Salsódromo parade of the 56th Feria de Cali, 25 December 2012."
+    }
+   ],
    "sources": [
     {
      "label": "Official (Alcaldía de Cali, city government)",
@@ -19601,7 +22275,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-hozo-international-music-festival-2026",
@@ -21482,7 +24156,24 @@ window.ATLASDATA={
     "Victoria Harbour",
     "countdown"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hong-kong-new-year-countdown-2027-1.jpg",
+     "thumb": "img/events/hong-kong-new-year-countdown-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:IFC_Countdown_Spectacular_2009.jpg",
+     "credit": "Photo: ncburton / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The IFC Countdown Spectacular on 31 December 2008 / 1 January 2009 (Hong Kong New Year’s Eve countdown at the International Finance Centre)."
+    },
+    {
+     "src": "img/events/hong-kong-new-year-countdown-2027-2.jpg",
+     "thumb": "img/events/hong-kong-new-year-countdown-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:New_Year_New_World_Hong_Kong_Countdown_Celebrations.jpg",
+     "credit": "Photo: RecofHD / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Fireworks for the ‘New Year · New World · Hong Kong Countdown’ at the Hong Kong Convention and Exhibition Centre, 1 January 2013."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -21513,7 +24204,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: ncburton / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-marina-bay-singapore-countdown-2027",
@@ -22445,7 +25136,24 @@ window.ATLASDATA={
     "minstrel parade",
     "heritage"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/tweede-nuwe-jaar-kaapse-klopse-2027-1.jpg",
+     "thumb": "img/events/tweede-nuwe-jaar-kaapse-klopse-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kaapse_Klopse_in_Cape_Town_(2017).jpg",
+     "credit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Kaapse Klopse troupes in Cape Town on Tweede Nuwe Jaar, 2 January 2017."
+    },
+    {
+     "src": "img/events/tweede-nuwe-jaar-kaapse-klopse-2027-2.jpg",
+     "thumb": "img/events/tweede-nuwe-jaar-kaapse-klopse-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kaapse_Klopse_marching_through_Cape_Town_(2017).jpg",
+     "credit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Kaapse Klopse marching through Cape Town on Tweede Nuwe Jaar, 2 January 2017."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -22471,7 +25179,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-wildlands-perth-2027",
@@ -23058,7 +25766,24 @@ window.ATLASDATA={
     "winter festival",
     "Ice-Snow World"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/harbin-ice-and-snow-festival-2027-1.jpg",
+     "thumb": "img/events/harbin-ice-and-snow-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Harbin_Ice_and_Snow_Festival_2013.jpg",
+     "credit": "Photo: Tracy Hunter / Wikimedia Commons / CC BY 2.0",
+     "caption": "Ice and Snow World at the Harbin International Ice and Snow Festival, photographed by day in January 2013."
+    },
+    {
+     "src": "img/events/harbin-ice-and-snow-festival-2027-2.jpg",
+     "thumb": "img/events/harbin-ice-and-snow-festival-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Snow_and_Ice_World_festival_in_Harbin,_China_(3237677073).jpg",
+     "credit": "Photo: Rincewind42 / Wikimedia Commons / CC BY 2.0",
+     "caption": "Lit ice buildings at Harbin’s Snow and Ice World festival, January 2009."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -23089,7 +25814,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Tracy Hunter / Wikimedia Commons / CC BY 2.0"
   },
   {
    "event_id": "GCE-ces-2027",
@@ -23960,7 +26685,16 @@ window.ATLASDATA={
     "winter traditions",
     "family"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/hwacheon-sancheoneo-ice-festival-2027-1.jpg",
+     "thumb": "img/events/hwacheon-sancheoneo-ice-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hwacheon_Sancheoneo_Ice_Festival_01_(52620586388).jpg",
+     "credit": "Photo: Korean Culture and Information Service (KOCIS) / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Crowds on the frozen river at the 2023 Hwacheon Sancheoneo Ice Festival, Hwacheon-gun, Gangwon-do, 9 January 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -23986,7 +26720,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Korean Culture and Information Service (KOCIS) / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-jazz-a-la-calle-2027",
@@ -24409,7 +27143,24 @@ window.ATLASDATA={
     "Uttarayan",
     "folk culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/international-kite-festival-2027-1.jpg",
+     "thumb": "img/events/international-kite-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:International_Kite_Festival_Gujarat_2012.jpg",
+     "credit": "Photo: wedstories.studio / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The International Kite Festival at the Sabarmati Riverfront, Ahmedabad, Gujarat, 11 January 2012 (Uttarayan)."
+    },
+    {
+     "src": "img/events/international-kite-festival-2027-2.jpg",
+     "thumb": "img/events/international-kite-festival-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:International_Kite_Festival,India.JPG",
+     "credit": "Photo: Sagarp7 / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "A large ring kite at the International Kite Festival in India, 13 January 2013."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -24440,7 +27191,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: wedstories.studio / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-nrf-2027",
@@ -24803,7 +27554,24 @@ window.ATLASDATA={
     "construction",
     "building systems"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/bau-2027-1.jpg",
+     "thumb": "img/events/bau-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_BAU_2023,_Eingang_Ost,_1.jpeg",
+     "credit": "Photo: Renardo la vulpo / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The east entrance to Messe München during BAU 2023, 19 April 2023, with BAU signage."
+    },
+    {
+     "src": "img/events/bau-2027-2.jpg",
+     "thumb": "img/events/bau-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Eingang_zur_BAU_2023,_1.jpeg",
+     "credit": "Photo: Renardo la vulpo / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The west entrance to Messe München during BAU 2023, 17 April 2023, with national and exhibitor flags."
+    }
+   ],
    "sources": [
     {
      "label": "Messe München official event page",
@@ -24834,7 +27602,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Renardo la vulpo / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-congreso-futuro-2027",
@@ -26646,7 +29414,24 @@ window.ATLASDATA={
     "comedy",
     "live TV"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/festival-del-huaso-de-olmue-2027-1.jpg",
+     "thumb": "img/events/festival-del-huaso-de-olmue-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_del_Huaso_de_Olmu%C3%A9_2018_-_Obertura_-_01.jpg",
+     "credit": "Photo: Carlos Figueroa / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The opening (obertura) of the Festival del Huaso de Olmué 2018, with the stage and audience, 28 January 2018."
+    },
+    {
+     "src": "img/events/festival-del-huaso-de-olmue-2027-2.jpg",
+     "thumb": "img/events/festival-del-huaso-de-olmue-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_del_Huaso_de_Olmu%C3%A9_2019_-_2019-01-19_-_04.jpg",
+     "credit": "Photo: Carlos Figueroa Rojas / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A scene at the Festival del Huaso de Olmué 2019, Olmué, Valparaíso Region, 19 January 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -26672,7 +29457,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Carlos Figueroa / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-harvard-model-congress-middle-east-2027",
@@ -28383,7 +31168,24 @@ window.ATLASDATA={
     "parade",
     "folklore"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/rijeka-carnival-2027-1.jpg",
+     "thumb": "img/events/rijeka-carnival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:RijekaCarnival18x.jpg",
+     "credit": "Photo: Antonio199cro / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A night-time street during the Rijeka Carnival 2018, with festival lighting and a carnival banner."
+    },
+    {
+     "src": "img/events/rijeka-carnival-2027-2.jpg",
+     "thumb": "img/events/rijeka-carnival-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Rijeka_Carnival_2023.jpg",
+     "credit": "Photo: Sundancer8 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Costumed participants at the Rijeka Carnival, 19 February 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -28414,7 +31216,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Antonio199cro / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-ai-tinkerers-doha",
@@ -30815,7 +33617,24 @@ window.ATLASDATA={
     "Malayalam literature",
     "ideas"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/kerala-literature-festival-2027-1.jpg",
+     "thumb": "img/events/kerala-literature-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kerala_Literature_Festival_Kozhikode.jpg",
+     "credit": "Photo: Athulvis / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Colourful canopy and festival grounds at the Kerala Literature Festival, Kozhikode, January 2026."
+    },
+    {
+     "src": "img/events/kerala-literature-festival-2027-2.jpg",
+     "thumb": "img/events/kerala-literature-festival-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kerala_Literature_Festival_Kozhikode_(20889).jpg",
+     "credit": "Photo: Athulvis / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Another view of the decorated festival space at the Kerala Literature Festival, Kozhikode, January 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -30841,7 +33660,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Athulvis / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-mozart-week-2027",
@@ -36245,7 +39064,24 @@ window.ATLASDATA={
     "graphic novels",
     "illustration"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/fibd-angouleme-2027-1.jpg",
+     "thumb": "img/events/fibd-angouleme-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_International_de_la_Bande_Dessin%C3%A9e_d%27Angoul%C3%AAme_2013_002.jpg",
+     "credit": "Photo: Lionel Allorge / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Visitors outside a festival tent at the Festival international de la bande dessinée d'Angoulême 2013, 31 January 2013."
+    },
+    {
+     "src": "img/events/fibd-angouleme-2027-2.jpg",
+     "thumb": "img/events/fibd-angouleme-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_International_de_la_Bande_Dessin%C3%A9e_d%27Angoul%C3%AAme_2013_048.jpg",
+     "credit": "Photo: Lionel Allorge / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "An indoor publishers’ area at the Festival international de la bande dessinée d'Angoulême 2013, 31 January 2013."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -36276,7 +39112,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Lionel Allorge / Wikimedia Commons / CC BY-SA 3.0"
   },
   {
    "event_id": "GCE-hay-festival-cartagena-2027",
@@ -37475,7 +40311,24 @@ window.ATLASDATA={
     "ice sculpture",
     "Rideau Canal Skateway"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/winterlude-2027-1.jpg",
+     "thumb": "img/events/winterlude-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kettle_Winterlude_Ottawa_2007.jpg",
+     "credit": "Photo: John Vetterli / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "A large kettle snow sculpture on display at Winterlude in Ottawa, 10 February 2007."
+    },
+    {
+     "src": "img/events/winterlude-2027-2.jpg",
+     "thumb": "img/events/winterlude-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Winterlude-Bal_de_neige_(387479407).jpg",
+     "credit": "Photo: Andrew Plumb / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "A carved ice block reading ‘Winterlude / Bal de neige’, Ottawa, 11 February 2007."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -37501,7 +40354,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: John Vetterli / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-carnaval-de-corrientes-2027",
@@ -37695,7 +40548,24 @@ window.ATLASDATA={
     "floats",
     "Tuscan culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/carnevale-viareggio-2027-1.jpg",
+     "thumb": "img/events/carnevale-viareggio-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Carnevale_di_viareggio_2008,_carro.JPG",
+     "credit": "Photo: sailko / Wikimedia Commons / CC BY 2.5",
+     "caption": "A papier-mâché parade float at the Carnevale di Viareggio 2008."
+    },
+    {
+     "src": "img/events/carnevale-viareggio-2027-2.jpg",
+     "thumb": "img/events/carnevale-viareggio-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Carnevale_di_viareggio_2014,_Voodoo_di_Carlo_Lombardi.JPG",
+     "credit": "Photo: Sailko / Wikimedia Commons / CC BY 3.0",
+     "caption": "The ‘Voodoo’ float by Carlo Lombardi at the Carnevale di Viareggio 2014, 23 February 2014."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -37721,7 +40591,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: sailko / Wikimedia Commons / CC BY 2.5"
   },
   {
    "event_id": "GCE-fosdem-2027",
@@ -37840,7 +40710,24 @@ window.ATLASDATA={
     "pirate invasion",
     "street festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gasparilla-pirate-fest-2027-1.jpg",
+     "thumb": "img/events/gasparilla-pirate-fest-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Gasparilla_Pirate_Fest_2003_-_Pirate_Flagship_Invading_Tampa.jpg",
+     "credit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain",
+     "caption": "The pirate ship José Gasparilla during the Gasparilla Pirate Fest invasion of Tampa, 1 February 2003."
+    },
+    {
+     "src": "img/events/gasparilla-pirate-fest-2027-2.jpg",
+     "thumb": "img/events/gasparilla-pirate-fest-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Gasparilla_Pirate_Boat_Float_(Tampa).jpg",
+     "credit": "Photo: Dbroadwell / Wikimedia Commons / CC BY-SA 2.5",
+     "caption": "A pirate-ship parade float at Gasparilla in Tampa."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -37866,7 +40753,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain"
   },
   {
    "event_id": "GCE-comic-con-india-kochi-2027",
@@ -39884,7 +42771,24 @@ window.ATLASDATA={
     "parades",
     "music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/carnaval-veracruz-2027-1.jpg",
+     "thumb": "img/events/carnaval-veracruz-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Carnaval_de_Veracruz_T%C3%A4nzerinnen.JPG",
+     "credit": "Photo: Chivista / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "A parade float (Motivwagen) at the Carnaval de Veracruz, photographed in 2011."
+    },
+    {
+     "src": "img/events/carnaval-veracruz-2027-2.jpg",
+     "thumb": "img/events/carnaval-veracruz-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Carro_aleg%C3%B3rico_del_rey_del_Carnaval_de_Veracruz_2023.jpg",
+     "credit": "Photo: Ehécatl Cabrera / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The allegorical float of the carnival king at the Carnaval de Veracruz 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official (Veracruz municipality)",
@@ -39910,7 +42814,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Chivista / Wikimedia Commons / CC BY-SA 3.0"
   },
   {
    "event_id": "GCE-france-digitale-ai-day-2027",
@@ -41473,7 +44377,24 @@ window.ATLASDATA={
     "trios elétricos",
     "street festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/carnaval-salvador-2027-1.jpg",
+     "thumb": "img/events/carnaval-salvador-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Bloco_da_camisinha_circuito_Campo_Grande_Salvador.jpg",
+     "credit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0",
+     "caption": "Bloco da Camisinha on the Campo Grande circuit at the Carnaval de Salvador, Bahia, 14 February 2008."
+    },
+    {
+     "src": "img/events/carnaval-salvador-2027-2.jpg",
+     "thumb": "img/events/carnaval-salvador-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Carnival_in_Salvador_-_Aerial_view_from_Ondina_at_night.jpg",
+     "credit": "Photo: Pcgomes / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Night aerial view of Avenida Oceânica, Ondina, during the Carnaval de Salvador, 12 February 2010."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -41499,7 +44420,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0"
   },
   {
    "event_id": "GCE-carnaval-torres-vedras-2027",
@@ -43255,7 +46176,24 @@ window.ATLASDATA={
     "urban",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/cosquin-rock-2027-1.jpg",
+     "thumb": "img/events/cosquin-rock-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Charly_Garc%C3%ADa_%26_the_Prostitution_at_Cosqu%C3%ADn_Rock_12.02.2011_(5449191415).jpg",
+     "credit": "Photo: dandrez / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Charly García and his band on stage at Cosquín Rock, Argentina, 12 February 2011."
+    },
+    {
+     "src": "img/events/cosquin-rock-2027-2.jpg",
+     "thumb": "img/events/cosquin-rock-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Cosqu%C3%ADn_Rock.jpg",
+     "credit": "Photo: Arianza1 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The festival site and staging infrastructure set up for Cosquín Rock 2020 in Córdoba province, Argentina."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -43291,7 +46229,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: dandrez / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-international-chinese-new-year-night-parade-2027",
@@ -43330,7 +46268,24 @@ window.ATLASDATA={
     "performances",
     "Lunar New Year"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/international-chinese-new-year-night-parade-2027-1.jpg",
+     "thumb": "img/events/international-chinese-new-year-night-parade-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:HK_Tourism_Board_Roses_Parade_-_Feel_the_Beat_of_the_World%27s_Happiest_Party_01-2009.JPG",
+     "credit": "Photo: OShatin127 / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "A Hong Kong Tourism Board floral float in the 2009 International Chinese New Year Night Parade, Salisbury Road, Tsim Sha Tsui."
+    },
+    {
+     "src": "img/events/international-chinese-new-year-night-parade-2027-2.jpg",
+     "thumb": "img/events/international-chinese-new-year-night-parade-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Night_Parade_(6822321477).jpg",
+     "credit": "Photo: Michael Elleray / Wikimedia Commons / CC BY 2.0",
+     "caption": "A float in Hong Kong’s 17th International Chinese New Year Night Parade, themed ‘World City. World Party’, January 2012, organised by the Hong Kong Tourism Board."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -43361,7 +46316,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: OShatin127 / Wikimedia Commons / CC BY-SA 3.0"
   },
   {
    "event_id": "GCE-comic-con-india-pune-2027",
@@ -47893,7 +50848,16 @@ window.ATLASDATA={
     "authors",
     "rights"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/taipei-international-book-exhibition-2027-1.jpg",
+     "thumb": "img/events/taipei-international-book-exhibition-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2013_Taipei_International_Book_Exhibition_from_VOA_(2).jpg",
+     "credit": "Photo: Voice of America / Wikimedia Commons / Public domain",
+     "caption": "A crowded hall at the 2013 Taipei International Book Exhibition (TiBE)."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -47924,7 +50888,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Voice of America / Wikimedia Commons / Public domain"
   },
   {
    "event_id": "GCE-ai-engineer-europe-2027",
@@ -48844,7 +51808,24 @@ window.ATLASDATA={
     "light art",
     "winter festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/montreal-en-lumiere-2027-1.jpg",
+     "thumb": "img/events/montreal-en-lumiere-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Nuit_blanche_%C3%A0_Montr%C3%A9al_-_MONTR%C3%89AL_EN_LUMI%C3%88RE_(12889914873).jpg",
+     "credit": "Photo: Matias Garabedian / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Crowds and festival lighting during Nuit blanche at Montréal en Lumière, Quartier des spectacles, 1 March 2014 (15th edition)."
+    },
+    {
+     "src": "img/events/montreal-en-lumiere-2027-2.jpg",
+     "thumb": "img/events/montreal-en-lumiere-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Montreal_En_Lumiere_(79597169).jpeg",
+     "credit": "Photo: Georgios Tzanakis / Wikimedia Commons / CC BY 3.0",
+     "caption": "The festival Ferris wheel at Montréal en Lumière, 22 February 2014."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -48870,7 +51851,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Matias Garabedian / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-skola-2027",
@@ -50029,7 +53010,24 @@ window.ATLASDATA={
     "Hakka culture",
     "family"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/taiwan-lantern-festival-2027-1.jpg",
+     "thumb": "img/events/taiwan-lantern-festival-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2015_Taiwan_Lantern_Festival_01.jpg",
+     "credit": "Photo: 曾 成訓 / Wikimedia Commons / CC BY 2.0",
+     "caption": "A pavilion of lanterns on the water at the 2015 Taiwan Lantern Festival."
+    },
+    {
+     "src": "img/events/taiwan-lantern-festival-2027-2.jpg",
+     "thumb": "img/events/taiwan-lantern-festival-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg",
+     "credit": "Photo: Tiouraren (Y.-C. Tsai) / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Kaohsiung Music Center and the temporary Great Tiger Bridge during the 2022 Taiwan Lantern Festival, 24 February 2022."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -50060,7 +53058,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: 曾 成訓 / Wikimedia Commons / CC BY 2.0"
   },
   {
    "event_id": "GCE-khajuraho-dance-festival-2027",
@@ -50440,7 +53438,24 @@ window.ATLASDATA={
     "Daytona 500",
     "stock cars"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/daytona-500-2027-1.jpg",
+     "thumb": "img/events/daytona-500-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Daytona_500_start_(50949560158).jpg",
+     "credit": "Photo: Zach Catanzareti Photo / Wikimedia Commons / CC BY 2.0",
+     "caption": "The start of the Daytona 500, 16 February 2021, with a packed grandstand at Daytona International Speedway."
+    },
+    {
+     "src": "img/events/daytona-500-2027-2.jpg",
+     "thumb": "img/events/daytona-500-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Cars_get_ready_to_start_Daytona_500_(2274505246).jpg",
+     "credit": "Photo: tequilamike / Wikimedia Commons / CC BY 2.0",
+     "caption": "Cars lining up before the start of the Daytona 500, 17 February 2008."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -50471,7 +53486,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Zach Catanzareti Photo / Wikimedia Commons / CC BY 2.0"
   },
   {
    "event_id": "GCE-laneway-festival-auckland-2027",
@@ -242519,6 +245534,238 @@ window.ATLASDATA={
  ],
  "hotels": [
   {
+   "name": "Fairmont Dubai",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Sheikh Zayed Road, Dubai, United Arab Emirates",
+   "lat": 25.2264,
+   "lon": 55.284,
+   "distance_km": {
+    "big-5-global-2026": 0.5,
+    "hvacr-world-2026": 0.5,
+    "international-appliance-and-electronics-show-2026-1": 0.5,
+    "intersec-global-2027": 0.5,
+    "light-intelligent-building-middle-east-2027": 0.5,
+    "uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027": 0.5,
+    "world-health-expo-labs-dubai-2027": 0.5,
+    "world-health-expo-tech-whx-2027": 0.5,
+    "world-of-coffee-dubai-2027": 0.5,
+    "aircraft-interiors-middle-east-aime-maintenance-repair-and-overhaul-mro-me-2027": 0.5,
+    "breakbulk-middle-east-2027": 0.5,
+    "dubai-international-wood-wood-machinery-show-2027": 0.5,
+    "aim-congress-2027": 0.5,
+    "arabian-travel-market-2027": 0.5,
+    "seamless-middle-east-2027": 0.5,
+    "geoworld-future-fm-2026": 0.5,
+    "13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026": 0.5,
+    "jewellery-and-bride-arabia-2026": 0.5,
+    "sign-graphic-imaging-me-exhibition-2026": 0.5,
+    "international-summit-for-aviation-training-isat-2026": 0.5,
+    "asia-baby-children-maternity-exhibition-2026": 0.5,
+    "china-home-life-2026-1": 0.5,
+    "gulf-pack-gulf-print-2027": 0.5,
+    "entertainment-leisure-mena-2027": 0.5,
+    "the-elevator-show-2027": 0.5,
+    "arabplast-2027": 0.5,
+    "ifx-exhibition-2027": 0.5,
+    "dubai-international-pharmaceuticals-and-technologies-conference-and-exhibition-duphat-2027": 0.5,
+    "dubai-international-horse-championsip-2027": 0.5,
+    "dubai-world-dermatology-and-laser-conference-and-exhibition-dubai-derma-2027": 0.5,
+    "lubricant-expo-middle-east-2027": 0.5,
+    "petworld-arabia-2027": 0.5,
+    "visionplus-expo-2027": 0.5,
+    "fespa-middle-east-2027": 0.5,
+    "dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027": 0.5,
+    "seatrade-maritime-2027": 0.5,
+    "the-international-emergency-and-catastrophe-management-conference-and-exhibition-2027": 0.5,
+    "osh-middle-east-2027": 0.5,
+    "index-exhibition-2027": 0.5,
+    "the-hotel-show-2027": 0.5,
+    "world-art-dubai-2027": 0.5,
+    "china-home-life-2027": 0.5,
+    "international-appliance-and-electronic-show-2027": 0.5,
+    "ev-live-2027": 0.5,
+    "middle-east-event-show-2027": 0.5,
+    "middle-east-rail-2027": 0.5,
+    "move-middle-east-2027": 0.5,
+    "solar-storage-live-2027": 0.5,
+    "ism-2027": 0.5,
+    "private-label-2027": 0.5,
+    "furniture-manufacturing-expo-2027": 0.5,
+    "middle-east-composites-advanced-materials-expo-2027": 0.5,
+    "middle-east-foam-polyurethane-adhesives-sealants-and-bonding-expo-2027": 0.5,
+    "plastics-recycling-show-middle-east-and-africa-2027": 0.5,
+    "sleep-expo-2027": 0.5,
+    "paperworld-middle-east-gifts-lifestyle-middle-east-2027": 0.5,
+    "ruya-careers-uae-2027": 0.5,
+    "baby-kids-expo-2027": 0.5,
+    "the-forex-expo-2027": 0.5,
+    "water-energy-technology-and-environment-exhibition-wetex-2027": 0.5,
+    "world-green-economy-summit-2027": 0.5,
+    "euroshop-middle-east-2027": 0.5,
+    "dubai-future-week-2027": 0.83,
+    "superreturn-middle-east-2027": 1.56
+   },
+   "url": "https://www.fairmont.com/en/hotels/dubai/fairmont-dubai.html",
+   "event_slugs": [
+    "13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
+    "aim-congress-2027",
+    "aircraft-interiors-middle-east-aime-maintenance-repair-and-overhaul-mro-me-2027",
+    "arabian-travel-market-2027",
+    "arabplast-2027",
+    "asia-baby-children-maternity-exhibition-2026",
+    "baby-kids-expo-2027",
+    "big-5-global-2026",
+    "breakbulk-middle-east-2027",
+    "china-home-life-2026-1",
+    "china-home-life-2027",
+    "dubai-future-week-2027",
+    "dubai-international-horse-championsip-2027",
+    "dubai-international-humanitarian-aid-development-conference-exhibition-dihad-2027",
+    "dubai-international-pharmaceuticals-and-technologies-conference-and-exhibition-duphat-2027",
+    "dubai-international-wood-wood-machinery-show-2027",
+    "dubai-world-dermatology-and-laser-conference-and-exhibition-dubai-derma-2027",
+    "entertainment-leisure-mena-2027",
+    "euroshop-middle-east-2027",
+    "ev-live-2027",
+    "fespa-middle-east-2027",
+    "furniture-manufacturing-expo-2027",
+    "geoworld-future-fm-2026",
+    "gulf-pack-gulf-print-2027",
+    "hvacr-world-2026",
+    "ifx-exhibition-2027",
+    "index-exhibition-2027",
+    "international-appliance-and-electronic-show-2027",
+    "international-appliance-and-electronics-show-2026-1",
+    "international-summit-for-aviation-training-isat-2026",
+    "intersec-global-2027",
+    "ism-2027",
+    "jewellery-and-bride-arabia-2026",
+    "light-intelligent-building-middle-east-2027",
+    "lubricant-expo-middle-east-2027",
+    "middle-east-composites-advanced-materials-expo-2027",
+    "middle-east-event-show-2027",
+    "middle-east-foam-polyurethane-adhesives-sealants-and-bonding-expo-2027",
+    "middle-east-rail-2027",
+    "move-middle-east-2027",
+    "osh-middle-east-2027",
+    "paperworld-middle-east-gifts-lifestyle-middle-east-2027",
+    "petworld-arabia-2027",
+    "plastics-recycling-show-middle-east-and-africa-2027",
+    "private-label-2027",
+    "ruya-careers-uae-2027",
+    "seamless-middle-east-2027",
+    "seatrade-maritime-2027",
+    "sign-graphic-imaging-me-exhibition-2026",
+    "sleep-expo-2027",
+    "solar-storage-live-2027",
+    "superreturn-middle-east-2027",
+    "the-elevator-show-2027",
+    "the-forex-expo-2027",
+    "the-hotel-show-2027",
+    "the-international-emergency-and-catastrophe-management-conference-and-exhibition-2027",
+    "uae-international-dental-conference-and-arab-dental-exhibition-aeedc-dubai-2027",
+    "visionplus-expo-2027",
+    "water-energy-technology-and-environment-exhibition-wetex-2027",
+    "world-art-dubai-2027",
+    "world-green-economy-summit-2027",
+    "world-health-expo-labs-dubai-2027",
+    "world-health-expo-tech-whx-2027",
+    "world-of-coffee-dubai-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.fairmont.com/en/hotels/dubai/fairmont-dubai.html",
+   "price": {
+    "amount": 190.0,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Google Hotels)",
+    "event_slug": "13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
+    "check_in": "2026-12-03",
+    "check_out": "2026-12-05",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "jewellery-and-bride-arabia-2026": {
+     "amount": 190.0,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Google Hotels)",
+     "event_slug": "jewellery-and-bride-arabia-2026",
+     "check_in": "2026-12-03",
+     "check_out": "2026-12-05",
+     "type": "event_dates_lowest"
+    },
+    "sign-graphic-imaging-me-exhibition-2026": {
+     "amount": 190.0,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Google Hotels)",
+     "event_slug": "sign-graphic-imaging-me-exhibition-2026",
+     "check_in": "2026-12-03",
+     "check_out": "2026-12-05",
+     "type": "event_dates_lowest"
+    },
+    "international-summit-for-aviation-training-isat-2026": {
+     "amount": 209.3,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "international-summit-for-aviation-training-isat-2026",
+     "check_in": "2026-12-14",
+     "check_out": "2026-12-16",
+     "type": "event_dates_lowest"
+    },
+    "asia-baby-children-maternity-exhibition-2026": {
+     "amount": 209.3,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "asia-baby-children-maternity-exhibition-2026",
+     "check_in": "2026-12-14",
+     "check_out": "2026-12-16",
+     "type": "event_dates_lowest"
+    },
+    "china-home-life-2026-1": {
+     "amount": 209.3,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "china-home-life-2026-1",
+     "check_in": "2026-12-14",
+     "check_out": "2026-12-16",
+     "type": "event_dates_lowest"
+    },
+    "international-appliance-and-electronics-show-2026-1": {
+     "amount": 209.3,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "international-appliance-and-electronics-show-2026-1",
+     "check_in": "2026-12-14",
+     "check_out": "2026-12-16",
+     "type": "event_dates_lowest"
+    },
+    "13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026": {
+     "amount": 190.0,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Google Hotels)",
+     "event_slug": "13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
+     "check_in": "2026-12-03",
+     "check_out": "2026-12-05",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
    "name": "Meriton Suites Campbell Street, Sydney",
    "stars": 5,
    "rating_system": "Star Ratings Australia",
@@ -254211,6 +257458,596 @@ window.ATLASDATA={
    "prices_by_event": null
   },
   {
+   "name": "Bulgari Hotels & Resorts Milano",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Fratelli Gabba 7/B, 20121 Milano",
+   "lat": 45.4702889,
+   "lon": 9.1895929,
+   "distance_km": {
+    "miart-2027": 3.07
+   },
+   "url": "https://www.bulgari.com",
+   "event_slugs": [
+    "miart-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "HOTEL VIU MILAN",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Via Aristotele Fioravanti 6, 20154 Milano",
+   "lat": 45.48319,
+   "lon": 9.17765,
+   "distance_km": {
+    "milan-games-week-2026": 8.13,
+    "salone-del-mobile-2027": 8.13,
+    "ai-week-milan-2027": 8.13,
+    "miart-2027": 1.94
+   },
+   "url": "https://www.hotelviumilan.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "miart-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "MAGNA PARS L'HOTEL A' PARFUM",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Via Vincenzo Forcella 6, 20144 Milano",
+   "lat": 45.4524775,
+   "lon": 9.1669463,
+   "distance_km": {
+    "milano-blockchain-week-2027": 1.07
+   },
+   "url": "https://www.magnapars-suitesmilano.it",
+   "event_slugs": [
+    "milano-blockchain-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Melià Milano",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Masaccio 19, 20149 Milano",
+   "lat": 45.4791259,
+   "lon": 9.1457355,
+   "distance_km": {
+    "milan-games-week-2026": 6.46,
+    "salone-del-mobile-2027": 6.46,
+    "ai-week-milan-2027": 6.46,
+    "miart-2027": 0.6
+   },
+   "url": "https://www.meliahotels.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "miart-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Palazzo Cordusio a Gran Meliã Hotel",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "PIAZZA CORDUSIO 2, 20123 Milano",
+   "lat": 45.4653764,
+   "lon": 9.1863456,
+   "distance_km": {
+    "milano-blockchain-week-2027": 1.29
+   },
+   "url": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "event_slugs": [
+    "milano-blockchain-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "PALAZZO CORNALIA",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "VIA EMILIO CORNALIA 7, 20124 Milano",
+   "lat": 45.4823482,
+   "lon": 9.1968712,
+   "distance_km": {
+    "milan-games-week-2026": 9.49,
+    "salone-del-mobile-2027": 9.49,
+    "ai-week-milan-2027": 9.49
+   },
+   "url": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Palazzo Parigi",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "corso di Porta Nuova 1, 20121 Milano",
+   "lat": 45.473401,
+   "lon": 9.1911312,
+   "distance_km": {
+    "milan-games-week-2026": 9.6,
+    "salone-del-mobile-2027": 9.6,
+    "ai-week-milan-2027": 9.6,
+    "miart-2027": 3.07
+   },
+   "url": "https://www.palazzoparigi.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "miart-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Pierre Milano",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Edmondo De Amicis 32, 20123 Milano",
+   "lat": 45.4595085,
+   "lon": 9.1769386,
+   "distance_km": {
+    "miart-2027": 2.99,
+    "milano-blockchain-week-2027": 0.56
+   },
+   "url": "https://www.hotelpierremilano.it",
+   "event_slugs": [
+    "miart-2027",
+    "milano-blockchain-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Principe di Savoia",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "piazza della Repubblica 17, 20124 Milano",
+   "lat": 45.4798175,
+   "lon": 9.1966043,
+   "distance_km": {
+    "milan-games-week-2026": 9.6,
+    "salone-del-mobile-2027": 9.6,
+    "ai-week-milan-2027": 9.6
+   },
+   "url": "https://www.dorchestercollection.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "VMAISON HOTEL MILANO",
+   "stars": 5,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "VIA TOMMASO DA CAZZANIGA 2, 20121 Milano",
+   "lat": 45.4763352,
+   "lon": 9.1814806,
+   "distance_km": {
+    "milan-games-week-2026": 8.8,
+    "salone-del-mobile-2027": 8.8,
+    "ai-week-milan-2027": 8.8,
+    "miart-2027": 2.26
+   },
+   "url": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "miart-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Admiral",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Domodossola 16, 20145 Milano",
+   "lat": 45.4804979,
+   "lon": 9.1601309,
+   "distance_km": {
+    "miart-2027": 0.55
+   },
+   "url": "https://www.admiralhotel.it",
+   "event_slugs": [
+    "miart-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Double Tree by Hilton Milan",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Ludovico di Breme 77, 20156 Milano",
+   "lat": 45.5004931,
+   "lon": 9.1381559,
+   "distance_km": {
+    "milan-games-week-2026": 4.5,
+    "salone-del-mobile-2027": 4.5,
+    "ai-week-milan-2027": 4.5
+   },
+   "url": "https://www.milan.doubletree.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Klima Hotel Milano Fiere",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Venezia Giulia 8, 20157 Milano",
+   "lat": 45.51474,
+   "lon": 9.11687,
+   "distance_km": {
+    "milan-games-week-2026": 2.33,
+    "salone-del-mobile-2027": 2.33,
+    "ai-week-milan-2027": 2.33
+   },
+   "url": "https://www.klimahotelmilanofiere.it",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Mercure Milano Solari",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Pietro Orseolo 1, 20144 Milano",
+   "lat": 45.4566281,
+   "lon": 9.1686795,
+   "distance_km": {
+    "milano-blockchain-week-2027": 0.59
+   },
+   "url": "https://www.all.acor.com",
+   "event_slugs": [
+    "milano-blockchain-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Mini Hotel Portello",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Guglielmo Silva 12, 20149 Milano",
+   "lat": 45.4802,
+   "lon": 9.14954,
+   "distance_km": {
+    "miart-2027": 0.28
+   },
+   "url": "https://www.hotelportellomilano.it",
+   "event_slugs": [
+    "miart-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Nasco",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "corso Sempione 69, 20149 Milano",
+   "lat": 45.4847416,
+   "lon": 9.1596591,
+   "distance_km": {
+    "miart-2027": 0.69
+   },
+   "url": "https://www.hotelnascomilano.it",
+   "event_slugs": [
+    "miart-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "NH COLLECTION CITYLIFE",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "VIA BARTOLOMEO COLLEONI 14, 20149 Milano",
+   "lat": 45.4822717,
+   "lon": 9.1529898,
+   "distance_km": {
+    "miart-2027": 0.19
+   },
+   "url": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "event_slugs": [
+    "miart-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Regina",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Cesare Correnti 13, 20123 Milano",
+   "lat": 45.4595508,
+   "lon": 9.1797081,
+   "distance_km": {
+    "milano-blockchain-week-2027": 0.75
+   },
+   "url": "https://www.hotelregina.it",
+   "event_slugs": [
+    "milano-blockchain-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Hub Hotel",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "via Privata Polonia 10, 20157 Milano",
+   "lat": 45.513619,
+   "lon": 9.1191913,
+   "distance_km": {
+    "milan-games-week-2026": 2.54,
+    "salone-del-mobile-2027": 2.54,
+    "ai-week-milan-2027": 2.54
+   },
+   "url": "https://www.thehubhotel.com",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "VOCO - MILAN FIERE",
+   "stars": 4,
+   "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "VIA GIORGIO STEPHENSON 55, 20157 Milano",
+   "lat": 45.5104454,
+   "lon": 9.1272627,
+   "distance_km": {
+    "milan-games-week-2026": 3.25,
+    "salone-del-mobile-2027": 3.25,
+    "ai-week-milan-2027": 3.25
+   },
+   "url": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "event_slugs": [
+    "ai-week-milan-2027",
+    "milan-games-week-2026",
+    "salone-del-mobile-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.dati.lombardia.it/Turismo/Strutture-Ricettive-Alberghiere-e-extra-alberghier/ee8u-8wwr",
+   "price": {
+    "amount": 134.54,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "milan-games-week-2026",
+    "check_in": "2026-11-27",
+    "check_out": "2026-11-29",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "milan-games-week-2026": {
+     "amount": 134.54,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "milan-games-week-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
    "name": "Grand Hotel Excelsior",
    "stars": 5,
    "rating_system": null,
@@ -255805,6 +259642,2026 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "https://www.hotelsterren.nl/hotels",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Bellotto",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "13/15, 00-075 Warszawa (Śródmieście)",
+   "lat": 52.2454593,
+   "lon": 21.0125606,
+   "distance_km": {
+    "piknik-naukowy-2027": 2.33,
+    "warsaw-book-fair-2027": 2.33,
+    "data-science-summit-2026": 2.33
+   },
+   "url": "https://hotelbellotto.pl",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "H15 Boutique Hotel",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Poznańska 15, 00-680 Warszawa",
+   "lat": 52.2250946,
+   "lon": 21.0114744,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 7.01
+   },
+   "url": "https://www.h15-boutique.com",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Bristol Warsaw The Luxury Collection",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Krakowskie Przedmieście 42/44, 00-325 Warszawa",
+   "lat": 52.2424033,
+   "lon": 21.0157225,
+   "distance_km": {
+    "piknik-naukowy-2027": 2.04,
+    "warsaw-book-fair-2027": 2.04,
+    "data-science-summit-2026": 2.04,
+    "ml-in-pl-2027": 0.88
+   },
+   "url": "https://hotelbristolwarsaw.pl",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "ml-in-pl-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": {
+    "amount": 365.7,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "data-science-summit-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "data-science-summit-2026": {
+     "amount": 365.7,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "data-science-summit-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-27",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Hotel Intercontinental Warszawa",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Emilii Plater 49, 00-125 Warszawa",
+   "lat": 52.2323588,
+   "lon": 21.0024947,
+   "distance_km": {
+    "salon-edukacyjny-perspektywy-2027": 2.88,
+    "women-in-tech-summit-2027": 2.88,
+    "beethoven-easter-festival-2027": 0.64
+   },
+   "url": "https://warsaw.intercontinental.com",
+   "event_slugs": [
+    "beethoven-easter-festival-2027",
+    "salon-edukacyjny-perspektywy-2027",
+    "women-in-tech-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Warszawa",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "pl. Powstańców Warszawy 9, 00-039 Warszawa",
+   "lat": 52.2356563,
+   "lon": 21.0123096,
+   "distance_km": {
+    "piknik-naukowy-2027": 2.3,
+    "warsaw-book-fair-2027": 2.3,
+    "data-science-summit-2026": 2.3,
+    "beethoven-easter-festival-2027": 0.16
+   },
+   "url": "https://warszawa.hotel.com.pl",
+   "event_slugs": [
+    "beethoven-easter-festival-2027",
+    "data-science-summit-2026",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": {
+    "amount": 206.26,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "data-science-summit-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "data-science-summit-2026": {
+     "amount": 206.26,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "data-science-summit-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-27",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Nobu Hotel Warsaw",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Wilcza 73, 00-670 Warszawa",
+   "lat": 52.22304,
+   "lon": 21.0078454,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 6.79,
+    "4developers-warsaw-2027": 5.05
+   },
+   "url": "https://turystyka.gov.pl/cwoh",
+   "event_slugs": [
+    "4developers-warsaw-2027",
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Radisson Collection Hotel Warsaw",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Grzybowska 24, 00-132 Warszawa",
+   "lat": 52.2365423,
+   "lon": 20.9986314,
+   "distance_km": {
+    "salon-edukacyjny-perspektywy-2027": 2.8,
+    "women-in-tech-summit-2027": 2.8
+   },
+   "url": "https://radissoncollection.com/pl/hotel-warsaw",
+   "event_slugs": [
+    "salon-edukacyjny-perspektywy-2027",
+    "women-in-tech-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Raffles Europejski Warsaw",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Krakowskie Przedmieście 13, 00-071 Warszawa",
+   "lat": 52.2419309,
+   "lon": 21.0150875,
+   "distance_km": {
+    "piknik-naukowy-2027": 2.08,
+    "warsaw-book-fair-2027": 2.08,
+    "data-science-summit-2026": 2.08,
+    "ml-in-pl-2027": 0.92
+   },
+   "url": "https://raffles.com/warsaw",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "ml-in-pl-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": {
+    "amount": 673.21,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "data-science-summit-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "data-science-summit-2026": {
+     "amount": 673.21,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "data-science-summit-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-27",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Regent Warsaw Hotel",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Belwederska 23, 00-761 Warszawa",
+   "lat": 52.2074969,
+   "lon": 21.0290241,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 5.22,
+    "4developers-warsaw-2027": 5.27
+   },
+   "url": "https://regent-warsaw.com",
+   "event_slugs": [
+    "4developers-warsaw-2027",
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Renaissance Warsaw Airport Hotel",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Żwirki i Wigury 1H, 00-906 Warszawa",
+   "lat": 52.1721965,
+   "lon": 20.9759795,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 2.58,
+    "4developers-warsaw-2027": 2.36,
+    "poland-boat-show-2027": 12.15
+   },
+   "url": "https://renaissancewarszawa.pl",
+   "event_slugs": [
+    "4developers-warsaw-2027",
+    "orange-warsaw-festival-2027",
+    "poland-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Sheraton Warsaw Hotel & Towers",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Prusa 2, 00-493 Warszawa",
+   "lat": 52.2280396,
+   "lon": 21.0248114,
+   "distance_km": {
+    "piknik-naukowy-2027": 1.92,
+    "warsaw-book-fair-2027": 1.92,
+    "data-science-summit-2026": 1.92,
+    "orange-warsaw-festival-2027": 7.41
+   },
+   "url": "https://sheraton.com/warsaw",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "orange-warsaw-festival-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": {
+    "amount": 240.49,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "data-science-summit-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "data-science-summit-2026": {
+     "amount": 240.49,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "data-science-summit-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-27",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Sofitel Victoria",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Królewska 11, 00-065 Warszawa",
+   "lat": 52.2397067,
+   "lon": 21.0134214,
+   "distance_km": {
+    "piknik-naukowy-2027": 2.18,
+    "warsaw-book-fair-2027": 2.18,
+    "data-science-summit-2026": 2.18,
+    "beethoven-easter-festival-2027": 0.61,
+    "ml-in-pl-2027": 1.06
+   },
+   "url": "https://all.accor.com/hotel/3378/index.pl.shtml",
+   "event_slugs": [
+    "beethoven-easter-festival-2027",
+    "data-science-summit-2026",
+    "ml-in-pl-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Westin Warsaw",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Aleja Jana Pawła II 21, 00-854 Warszawa",
+   "lat": 52.2352762,
+   "lon": 20.9965729,
+   "distance_km": {
+    "salon-edukacyjny-perspektywy-2027": 2.62,
+    "women-in-tech-summit-2027": 2.62
+   },
+   "url": "https://turystyka.gov.pl/cwoh",
+   "event_slugs": [
+    "salon-edukacyjny-perspektywy-2027",
+    "women-in-tech-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Warsaw Presidential Hotel",
+   "stars": 5,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Al. Jerozolimskie 65/79, 00-697 Warszawa",
+   "lat": 52.2276705,
+   "lon": 21.0048541,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 7.31
+   },
+   "url": "https://www.presidential.pl/",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Airport Hotel Okęcie",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Komitetu Obrony Robotników 24, 02-146 Warszawa",
+   "lat": 52.178328,
+   "lon": 20.9828085,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 2.59
+   },
+   "url": "https://airporthotel.pl",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Arche Hotel Krakowska",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "al. Krakowska 237, 02-180 Warszawa",
+   "lat": 52.1899761,
+   "lon": 20.9571666,
+   "distance_km": {
+    "4developers-warsaw-2027": 0.0
+   },
+   "url": "https://archehotelkrakowska.pl",
+   "event_slugs": [
+    "4developers-warsaw-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null,
+   "venue_slug": "arche-hotel-krakowska"
+  },
+  {
+   "name": "Barceló Warsaw Powiśle",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Wybrzeże Kościuszkowskie 43A, 00-347 Warszawa",
+   "lat": 52.2400369,
+   "lon": 21.0293066,
+   "distance_km": {
+    "piknik-naukowy-2027": 1.1,
+    "warsaw-book-fair-2027": 1.1,
+    "data-science-summit-2026": 1.1,
+    "ml-in-pl-2027": 0.2
+   },
+   "url": "https://turystyka.gov.pl/cwoh",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "ml-in-pl-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": {
+    "amount": 273.38,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "data-science-summit-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "data-science-summit-2026": {
+     "amount": 273.38,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "data-science-summit-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-27",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Courtyard by Marriott Warsaw International Airport Hotel",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Żwirki i Wigury 1J, 00-906 Warszawa",
+   "lat": 52.1711196,
+   "lon": 20.9747243,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 2.61
+   },
+   "url": "https://www.warszawacourtyard.pl/",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Crowne Plaza Warsaw - The Hub",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rondo Ignacego Daszyńskiego 2, 00-843 Warszawa",
+   "lat": 52.2294941,
+   "lon": 20.9841026,
+   "distance_km": {
+    "salon-edukacyjny-perspektywy-2027": 1.59,
+    "women-in-tech-summit-2027": 1.59
+   },
+   "url": "https://turystyka.gov.pl/cwoh",
+   "event_slugs": [
+    "salon-edukacyjny-perspektywy-2027",
+    "women-in-tech-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Flaner",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Krakowskie Przedmieście 4, 00-333 Warszawa",
+   "lat": 52.2386259,
+   "lon": 21.0186964,
+   "distance_km": {
+    "piknik-naukowy-2027": 1.83,
+    "warsaw-book-fair-2027": 1.83,
+    "data-science-summit-2026": 1.83,
+    "ml-in-pl-2027": 0.76
+   },
+   "url": "https://www.flanerhotel.com",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "ml-in-pl-2027",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Golden Tulip Warsaw Airport",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "al. Krakowska 235, 02-180 Warszawa",
+   "lat": 52.1896694,
+   "lon": 20.9568792,
+   "distance_km": {
+    "4developers-warsaw-2027": 0.04
+   },
+   "url": "https://goldentulip.com/pl",
+   "event_slugs": [
+    "4developers-warsaw-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Golden Tulip Warszawa Centrum",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Towarowa 2, 00-811 Warszawa",
+   "lat": 52.2259778,
+   "lon": 20.9888025,
+   "distance_km": {
+    "salon-edukacyjny-perspektywy-2027": 1.84,
+    "women-in-tech-summit-2027": 1.84
+   },
+   "url": "https://turystyka.gov.pl/cwoh",
+   "event_slugs": [
+    "salon-edukacyjny-perspektywy-2027",
+    "women-in-tech-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Gromada Centrum Budynek A skrzydło A wraz z salami wielofunkcyjnymi",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "pl. Powstańców Warszawy 2, 00-030 Warszawa",
+   "lat": 52.2347122,
+   "lon": 21.0146669,
+   "distance_km": {
+    "beethoven-easter-festival-2027": 0.24
+   },
+   "url": "https://gromada.pl",
+   "event_slugs": [
+    "beethoven-easter-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Indigo Warsaw Nowy Świat",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Smolna 40, 00-375 Warszawa",
+   "lat": 52.2327086,
+   "lon": 21.0212545,
+   "distance_km": {
+    "piknik-naukowy-2027": 1.82,
+    "warsaw-book-fair-2027": 1.82,
+    "data-science-summit-2026": 1.82
+   },
+   "url": "https://indigowarsaw.com",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "MCC MAZURKAS CONFERENCE CENTRE &HOTEL",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Poznańska 177, 05-850 Ożarów Mazowiecki",
+   "lat": 52.20966,
+   "lon": 20.80045,
+   "distance_km": {
+    "poland-boat-show-2027": 11.11
+   },
+   "url": "https://mazurkashotel.pl",
+   "event_slugs": [
+    "poland-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Puro Warszawa Centrum",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Widok 9, 00-023 Warszawa",
+   "lat": 52.2312225,
+   "lon": 21.0151037,
+   "distance_km": {
+    "beethoven-easter-festival-2027": 0.44
+   },
+   "url": "https://purohotel.pl/pl/warszawa",
+   "event_slugs": [
+    "beethoven-easter-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Teatro Hotel",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Nowy Świat 66, 00-357 Warszawa",
+   "lat": 52.2367377,
+   "lon": 21.0183119,
+   "distance_km": {
+    "piknik-naukowy-2027": 1.88,
+    "warsaw-book-fair-2027": 1.88,
+    "data-science-summit-2026": 1.88
+   },
+   "url": "https://teatrohotel.pl/",
+   "event_slugs": [
+    "data-science-summit-2026",
+    "piknik-naukowy-2027",
+    "warsaw-book-fair-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Vienna House Mokotow Warsaw",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Postępu 4, 02-676 Warszawa",
+   "lat": 52.1776781,
+   "lon": 20.9962774,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 1.97
+   },
+   "url": "https://viennahouse.com/pl/mokotow-warsaw/hotel/w-skrocie.html",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Villa Estera",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Al. Jerozolimskie 331, 05-816 Reguły",
+   "lat": 52.1737882,
+   "lon": 20.8532791,
+   "distance_km": {
+    "poland-boat-show-2027": 7.17
+   },
+   "url": "https://villaestera.pl",
+   "event_slugs": [
+    "poland-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "WARSAW PLAZA HOTEL",
+   "stars": 4,
+   "rating_system": "Centralny Wykaz Obiektów Hotelarskich (Ministerstwo Sportu i Turystyki)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Łączyny 5, 02-822 Warszawa",
+   "lat": 52.1576723,
+   "lon": 21.0020518,
+   "distance_km": {
+    "orange-warsaw-festival-2027": 0.72
+   },
+   "url": "https://warsawplazahotel.pl",
+   "event_slugs": [
+    "orange-warsaw-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://turystyka.gov.pl/cwoh",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Crowne Plaza Porto",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida da Boavista, 1466, 4100-114 Porto",
+   "lat": 41.1602353,
+   "lon": -8.6408271,
+   "distance_km": {
+    "primavera-sound-porto-2027": 3.42,
+    "linux-storage-summit-2027": 0.13
+   },
+   "url": "https://www.crowneplaza.com",
+   "event_slugs": [
+    "linux-storage-summit-2027",
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "EPIC SANA Marquês",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Fontes Pereira de Melo, 8, 1069-310 Lisboa",
+   "lat": 38.7274668,
+   "lon": -9.1483124,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.37,
+    "building-the-future-2027": 0.37
+   },
+   "url": "https://www.sanahotels.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Eurostars Universal Lisboa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida D. João II, Lote 1.12.01-Parque das Nações, 1990-221 LISBOA",
+   "lat": 38.763225,
+   "lon": -9.0986596,
+   "distance_km": {
+    "futuralia-2027": 0.83,
+    "web-summit-2027": 0.83,
+    "meo-kalorama-2027": 2.81
+   },
+   "url": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "event_slugs": [
+    "futuralia-2027",
+    "meo-kalorama-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "HF Ipanema Park",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua de Serralves, 124, 4150-702 Porto",
+   "lat": 41.154669,
+   "lon": -8.6499106,
+   "distance_km": {
+    "primavera-sound-porto-2027": 2.99
+   },
+   "url": "https://www.hfhotels.com",
+   "event_slugs": [
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Real Palácio",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Tomás Ribeiro, N.º 115, 1050-228 Lisboa",
+   "lat": 38.7320688,
+   "lon": -9.1509005,
+   "distance_km": {
+    "futuralia-2027": 6.47,
+    "web-summit-2027": 6.47,
+    "feira-do-livro-lisboa-2027": 0.4,
+    "building-the-future-2027": 0.4,
+    "meo-kalorama-2027": 2.9
+   },
+   "url": "https://www.realhotelsgroup.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027",
+    "futuralia-2027",
+    "meo-kalorama-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Iberostar Lisboa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Castilho, nº 64, 1250-071 Lisboa",
+   "lat": 38.7241052,
+   "lon": -9.1524526,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.5,
+    "building-the-future-2027": 0.5
+   },
+   "url": "https://www.iberostar.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "InterContinental Lisbon",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Castilho, 149, 1099-034 Lisboa",
+   "lat": 38.7266289,
+   "lon": -9.1556018,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.36,
+    "building-the-future-2027": 0.36
+   },
+   "url": "https://www.iclisbonhotel.com/",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Luster Hotel",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Casal Ribeiro 48, 1000-091 LISBOA",
+   "lat": 38.733281,
+   "lon": -9.143551,
+   "distance_km": {
+    "futuralia-2027": 5.91,
+    "web-summit-2027": 5.91,
+    "meo-kalorama-2027": 2.35
+   },
+   "url": "https://www.lusterhotels.pt/",
+   "event_slugs": [
+    "futuralia-2027",
+    "meo-kalorama-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "MACAM Hotel",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua da Junqueira, 66, 1300-343 LISBOA",
+   "lat": 38.700745,
+   "lon": -9.1834889,
+   "distance_km": {
+    "arcolisboa-2027": 0.74,
+    "devcon-ix-2027": 0.21
+   },
+   "url": "https://hotel.macam.pt/",
+   "event_slugs": [
+    "arcolisboa-2027",
+    "devcon-ix-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "ME Lisbon",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida António Augusto de Aguiar, n.º 2, 1050-016 LISBOA",
+   "lat": 38.7284482,
+   "lon": -9.1484949,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.33,
+    "building-the-future-2027": 0.33,
+    "meo-kalorama-2027": 3.04
+   },
+   "url": "https://www.melia.com/pt/hoteis/portugal/lisboa/me",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027",
+    "meo-kalorama-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Myriad by SANA Hotels",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Cais das Naus, 2.21.01, 1990-173 Lisboa",
+   "lat": 38.7747481,
+   "lon": -9.0913259,
+   "distance_km": {
+    "futuralia-2027": 0.6,
+    "web-summit-2027": 0.6
+   },
+   "url": "https://www.myriad.pt",
+   "event_slugs": [
+    "futuralia-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "PALACETE SEVERO",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Ricardo Severo 21 e 83, 4050-515 PORTO",
+   "lat": 41.1561312,
+   "lon": -8.6255303,
+   "distance_km": {
+    "primavera-sound-porto-2027": 4.77
+   },
+   "url": "https://www.palacetesevero.com",
+   "event_slugs": [
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Pestana Palace - Hotel & National Monument",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Jau, n.º 54, 1300-314 Lisboa",
+   "lat": 38.7041159,
+   "lon": -9.1872122,
+   "distance_km": {
+    "arcolisboa-2027": 0.79,
+    "devcon-ix-2027": 0.63
+   },
+   "url": "https://www.pestana.com/palace",
+   "event_slugs": [
+    "arcolisboa-2027",
+    "devcon-ix-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "PORTO PALÁCIO HOTEL BY THE EDITORY",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida da Boavista, 1269, 4100-130 Porto",
+   "lat": 41.1589038,
+   "lon": -8.6388077,
+   "distance_km": {
+    "primavera-sound-porto-2027": 3.62,
+    "linux-storage-summit-2027": 0.26
+   },
+   "url": "https://www.editoryhotels.com/porto-palacio",
+   "event_slugs": [
+    "linux-storage-summit-2027",
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Ritz Four Seasons Hotel",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Rodrigo da Fonseca, 88, 1099-039 Lisboa",
+   "lat": 38.7257875,
+   "lon": -9.1548814,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.39,
+    "building-the-future-2027": 0.39
+   },
+   "url": "https://www.fourseasons.com/lisbon/",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Sheraton Lisboa Hotel & Spa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Latino Coelho, 1, 1069-025 Lisboa",
+   "lat": 38.7316168,
+   "lon": -9.1470839,
+   "distance_km": {
+    "futuralia-2027": 6.26,
+    "web-summit-2027": 6.26,
+    "meo-kalorama-2027": 2.7
+   },
+   "url": "https://www.sheraton.com/lisboa",
+   "event_slugs": [
+    "futuralia-2027",
+    "meo-kalorama-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Sheraton Porto Hotel & Spa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Tenente Valadim, 146, 4100-476 Porto",
+   "lat": 41.1610845,
+   "lon": -8.6401916,
+   "distance_km": {
+    "primavera-sound-porto-2027": 3.44,
+    "linux-storage-summit-2027": 0.03
+   },
+   "url": "https://www.sheratonporto.com",
+   "event_slugs": [
+    "linux-storage-summit-2027",
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null,
+   "venue_slug": "sheraton-porto-hotel-spa"
+  },
+  {
+   "name": "Vila Foz Hotel & Spa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. de Montevideu, 236, 4150-516 Porto",
+   "lat": 41.1613543,
+   "lon": -8.684223,
+   "distance_km": {
+    "primavera-sound-porto-2027": 0.96
+   },
+   "url": "https://www.vilafozhotel.pt",
+   "event_slugs": [
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Vip Grand Lisboa Hotel & Spa",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida 5 de Outubro n.º 197, 1050-054 LISBOA",
+   "lat": 38.7422636,
+   "lon": -9.1494971,
+   "distance_km": {
+    "futuralia-2027": 5.7,
+    "web-summit-2027": 5.7,
+    "meo-kalorama-2027": 2.22
+   },
+   "url": "https://www.viphotels.com",
+   "event_slugs": [
+    "futuralia-2027",
+    "meo-kalorama-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Wine & Books Lisboa Hotel",
+   "stars": 5,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Travessa da Memória, n.º 56/62, 1300-403 LISBOA",
+   "lat": 38.7022251,
+   "lon": -9.2021475,
+   "distance_km": {
+    "arcolisboa-2027": 1.09,
+    "devcon-ix-2027": 1.6
+   },
+   "url": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "event_slugs": [
+    "arcolisboa-2027",
+    "devcon-ix-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "BessaHotel Boavista",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Dr. Marques de Carvalho, 111, 4100-325 Porto",
+   "lat": 41.1623204,
+   "lon": -8.645052,
+   "distance_km": {
+    "primavera-sound-porto-2027": 3.01,
+    "linux-storage-summit-2027": 0.46
+   },
+   "url": "https://www.bessahotel.com",
+   "event_slugs": [
+    "linux-storage-summit-2027",
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Docas Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Doca de Santo Amaro - Armazem 9 - Alcântara, 1350-353 LISBOA",
+   "lat": 38.6998923,
+   "lon": -9.1781375,
+   "distance_km": {
+    "arcolisboa-2027": 1.15,
+    "devcon-ix-2027": 0.54
+   },
+   "url": "https://www.docashotel.com",
+   "event_slugs": [
+    "arcolisboa-2027",
+    "devcon-ix-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Eurostars Lisboa Parque Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Largo do Andaluz 13 b, 1050-121 Lisboa",
+   "lat": 38.7285097,
+   "lon": -9.1472889,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.43,
+    "building-the-future-2027": 0.43
+   },
+   "url": "https://www.eurostarshotels.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Eurostars Matosinhos",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Heróis de França, n.º 536, 4450-159 Matosinhos",
+   "lat": 41.1812666,
+   "lon": -8.6936187,
+   "distance_km": {
+    "primavera-sound-porto-2027": 1.76
+   },
+   "url": "https://www.eurostarsmatosinhos.com",
+   "event_slugs": [
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "HF Fénix Lisboa",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Praça Marquês de Pombal, 8, 1269-133 Lisboa",
+   "lat": 38.7247852,
+   "lon": -9.1513525,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.43,
+    "building-the-future-2027": 0.43
+   },
+   "url": "https://www.hfhotels.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "HF Fénix Urban",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. António Augusto de Aguiar, 14, 1050-016 Lisboa",
+   "lat": 38.7287114,
+   "lon": -9.1487036,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.31,
+    "building-the-future-2027": 0.31
+   },
+   "url": "https://www.hfhotels.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "HOLIDAY INN LISBOA",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida António José de Almeida, 28-A, 1000-044 Lisboa",
+   "lat": 38.7382169,
+   "lon": -9.1413587,
+   "distance_km": {
+    "meo-kalorama-2027": 1.83
+   },
+   "url": "https://www.holidayinn.com/lisbonprt",
+   "event_slugs": [
+    "meo-kalorama-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Olissippo Oriente",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. D. João II, Lt. 1.03.2.2, 1990-083 Lisboa",
+   "lat": 38.7649197,
+   "lon": -9.0975008,
+   "distance_km": {
+    "futuralia-2027": 0.62,
+    "web-summit-2027": 0.62
+   },
+   "url": "https://www.olissippohotels.com",
+   "event_slugs": [
+    "futuralia-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Tivoli Oriente",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. D. João II, 27 - Parque Nações, 1990-083 Lisboa",
+   "lat": 38.7665233,
+   "lon": -9.098378,
+   "distance_km": {
+    "futuralia-2027": 0.52,
+    "web-summit-2027": 0.52
+   },
+   "url": "https://www.tivolihotels.com/",
+   "event_slugs": [
+    "futuralia-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Vila Galé Ópera",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Travessa do Conde da Ponte, 1300-141 Lisboa",
+   "lat": 38.7001216,
+   "lon": -9.1804727,
+   "distance_km": {
+    "arcolisboa-2027": 0.96,
+    "devcon-ix-2027": 0.35
+   },
+   "url": "https://www.vilagale.com",
+   "event_slugs": [
+    "arcolisboa-2027",
+    "devcon-ix-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "LUTÉCIA Smart Design Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Frei Miguel Contreiras, 52, 1749-086 Lisboa",
+   "lat": 38.7460473,
+   "lon": -9.1387459,
+   "distance_km": {
+    "meo-kalorama-2027": 1.2
+   },
+   "url": "https://www.luteciahotel.com",
+   "event_slugs": [
+    "meo-kalorama-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Meliá Lisboa Oriente",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. D. João II, Lote 1.1602.B Parque das Nações, 1990-083 Lisboa",
+   "lat": 38.7694098,
+   "lon": -9.0980862,
+   "distance_km": {
+    "futuralia-2027": 0.36,
+    "web-summit-2027": 0.36
+   },
+   "url": "https://www.melialisboaoriente.com",
+   "event_slugs": [
+    "futuralia-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Portus Cale Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida da Boavista, 1060, 4100-113 Porto",
+   "lat": 41.1593552,
+   "lon": -8.6360441,
+   "distance_km": {
+    "primavera-sound-porto-2027": 3.83,
+    "linux-storage-summit-2027": 0.37
+   },
+   "url": "https://www.portuscalehotel.com",
+   "event_slugs": [
+    "linux-storage-summit-2027",
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Ramada Lisboa",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Engº Arantes e Oliveira, 9, 1900-221 Lisboa",
+   "lat": 38.7396453,
+   "lon": -9.1242911,
+   "distance_km": {
+    "meo-kalorama-2027": 1.05
+   },
+   "url": "https://www.ramadalisbon.pt",
+   "event_slugs": [
+    "meo-kalorama-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Sea Porto Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Dom Afonso Henriques, nº 354, 4450-009 Matosinhos",
+   "lat": 41.1856884,
+   "lon": -8.6852478,
+   "distance_km": {
+    "primavera-sound-porto-2027": 1.87
+   },
+   "url": "https://www.seaportohotel.com",
+   "event_slugs": [
+    "primavera-sound-porto-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Turim Alameda Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Avenida Rouvisco Pais 34, 1000-268 Lisboa",
+   "lat": 38.7353477,
+   "lon": -9.1374865,
+   "distance_km": {
+    "meo-kalorama-2027": 1.85
+   },
+   "url": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "event_slugs": [
+    "meo-kalorama-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Vip Executive Art´s Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Av. D. João II, 47, 1998-028 Lisboa",
+   "lat": 38.7731824,
+   "lon": -9.0980347,
+   "distance_km": {
+    "futuralia-2027": 0.53,
+    "web-summit-2027": 0.53
+   },
+   "url": "https://www.viphotels.com",
+   "event_slugs": [
+    "futuralia-2027",
+    "web-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Vip Executive Picoas Hotel",
+   "stars": 4,
+   "rating_system": "Turismo de Portugal RNET",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rua Filipe Folque n.º 12 B, 1069-191 LISBOA",
+   "lat": 38.731586,
+   "lon": -9.1494973,
+   "distance_km": {
+    "feira-do-livro-lisboa-2027": 0.41,
+    "building-the-future-2027": 0.41
+   },
+   "url": "https://www.viphotels.com",
+   "event_slugs": [
+    "building-the-future-2027",
+    "feira-do-livro-lisboa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
    "price": null,
    "prices_by_event": null
   },
@@ -258341,7 +264198,37 @@ window.ATLASDATA={
      "source_url": "https://www.adnec.ae/en/space-listing/hall-4"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/people/Adnecad/61556167767983",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adnec.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adnecad",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adnec.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/adnecad",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adnec.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/adnecad",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adnec.ae/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "expo-centre-sharjah",
@@ -258412,7 +264299,44 @@ window.ATLASDATA={
      "source_url": "https://expo-centre.ae/organise/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpoCentreShj",
+     "verified_via": "official website footer",
+     "source_url": "https://expo-centre.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/ExpoCentreShj",
+     "verified_via": "official website footer",
+     "source_url": "https://expo-centre.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expocentreshj",
+     "verified_via": "official website footer",
+     "source_url": "https://expo-centre.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCzDatoFqUluA6TamkYEG15Q",
+     "verified_via": "official website footer",
+     "source_url": "https://expo-centre.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/2424844",
+     "verified_via": "official website footer",
+     "source_url": "https://expo-centre.ae/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "madinat-jumeirah",
@@ -259218,6 +265142,36 @@ window.ATLASDATA={
      "source_url": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
      "href": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vieconcenter",
+     "verified_via": "official website footer",
+     "source_url": "https://vieconcenter.at/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/viecon_center",
+     "verified_via": "official website footer",
+     "source_url": "https://vieconcenter.at/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vieconcenter",
+     "verified_via": "official website footer",
+     "source_url": "https://vieconcenter.at/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@vieconcentervienna",
+     "verified_via": "official website footer",
+     "source_url": "https://vieconcenter.at/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -260233,6 +266187,29 @@ window.ATLASDATA={
      "href": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheBCEC",
+     "verified_via": "official website footer",
+     "source_url": "https://bcec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/brisbane-convention-&-exhibition-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://bcec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bcec_brisbane",
+     "verified_via": "official website footer",
+     "source_url": "https://bcec.com.au/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -260287,6 +266264,29 @@ window.ATLASDATA={
      "source_url": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
      "href": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NCCCanberra",
+     "verified_via": "official website footer",
+     "source_url": "https://nccc.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nationalconventioncentre",
+     "verified_via": "official website footer",
+     "source_url": "https://nccc.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/national-convention-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://nccc.com.au/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -260344,7 +266344,37 @@ window.ATLASDATA={
      "source_url": "https://www.pcec.com.au/organisers/our-spaces/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PerthConventionandExhibitionCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pcec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://instagram.com/pcec",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pcec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/perth-convention-and-exhibition-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pcec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PerthConventionCentr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pcec.com.au/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "gold-coast-convention-and-exhibition-centre",
@@ -260400,7 +266430,30 @@ window.ATLASDATA={
      "source_url": "https://www.gccec.com.au/venue-overview/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thegccec",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gccec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gold-coast-convention-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gccec.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gccec",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gccec.com.au/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "adelaide-convention-centre",
@@ -260455,6 +266508,36 @@ window.ATLASDATA={
      "source_url": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
      "href": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/adelaide-convention-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaidecc.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AdelaideConventionCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaidecc.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://instagram.com/adelaidecc",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaidecc.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/AdelaideCC",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaidecc.com.au/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -261061,7 +267144,30 @@ window.ATLASDATA={
      "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/flanders.expo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.flandersexpo.be/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/flanders_expo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.flandersexpo.be/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Flanders-Expo-367333987174820",
+     "verified_via": "official website footer",
+     "source_url": "https://www.flandersexpo.be/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "tour-and-taxis",
@@ -261602,6 +267708,15 @@ window.ATLASDATA={
      "source_url": "https://distritoanhembi.com.br/wp-content/uploads/2024/08/ANH-planta-ilustrada-tecnica-2024-A3.pdf",
      "href": "https://distritoanhembi.com.br/wp-content/uploads/2024/08/ANH-planta-ilustrada-tecnica-2024-A3.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/anhembioficial",
+     "verified_via": "official website footer",
+     "source_url": "https://distritoanhembi.com.br/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -263061,6 +269176,43 @@ window.ATLASDATA={
      "href": "https://www.messe-basel.com/assets/mccb-venue-overview-en.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/10172169",
+     "verified_via": "official website footer (Messe / Congress Center Basel / MCH accounts)",
+     "source_url": "https://www.messe-basel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mqbasel",
+     "verified_via": "official website footer (Messe / Congress Center Basel / MCH accounts)",
+     "source_url": "https://www.messe-basel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messequartier_basel",
+     "verified_via": "official website footer (Messe / Congress Center Basel / MCH accounts)",
+     "source_url": "https://www.messe-basel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/CongressBasel",
+     "verified_via": "official website footer (Messe / Congress Center Basel / MCH accounts)",
+     "source_url": "https://www.messe-basel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCooe_qNM1EANvAzAEV5UkZg",
+     "verified_via": "official website footer (Messe / Congress Center Basel / MCH accounts)",
+     "source_url": "https://www.messe-basel.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -264061,7 +270213,37 @@ window.ATLASDATA={
      "source_url": "https://www.espacioriesco.cl/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/espacioriesco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.espacioriesco.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EspacioRiesco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.espacioriesco.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/espacioriesco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.espacioriesco.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/espacio-riesco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.espacioriesco.cl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "estacion-mapocho",
@@ -264617,6 +270799,50 @@ window.ATLASDATA={
      "href": "https://www.corferias.com/pdf/relevant/2026/comunicado-corferias-2030-12-marzo-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://twitter.com/CorferiasBogota",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://co.linkedin.com/company/corferias",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/corferias",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/corferias",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Corferiasbta",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@corferias",
+     "verified_via": "official website footer",
+     "source_url": "https://corferias.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -265087,7 +271313,37 @@ window.ATLASDATA={
      "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bvvbrno",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bvv.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bvvbrno",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bvv.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@VeletrhyBrno",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bvv.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/veletrhy-brno-a-s-",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bvv.cz/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "pva-expo-praha",
@@ -265619,7 +271875,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nuernbergmesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nuernbergmesse.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nuernbergmesse_group",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nuernbergmesse.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/n-rnbergmesse-gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nuernbergmesse.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NuernbergMesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nuernbergmesse.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hamburg-messe",
@@ -265649,7 +271935,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hamburg-messe-und-congress",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hamburg-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hamburgmesseundcongress",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hamburg-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/HamburgMesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hamburg-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hamburg.messe.und.congress",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hamburg-messe.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "koelnmesse",
@@ -265737,7 +272053,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messeduesseldorf",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-duesseldorf.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/md_gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-duesseldorf.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/messe-dusseldorf-gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-duesseldorf.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/messeduesseldorf",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-duesseldorf.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messe_duesseldorf",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-duesseldorf.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messe-frankfurt",
@@ -266602,6 +272955,22 @@ window.ATLASDATA={
      "href": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bella-center-copenhagen",
+     "verified_via": "official website footer",
+     "source_url": "https://bellacenter.dk/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bellacentercopenhagen",
+     "verified_via": "official website footer",
+     "source_url": "https://bellacenter.dk/en",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -266949,7 +273318,39 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/eiec.eg",
+     "verified_via": "official website footer (EIEC Instagram plus National Company / Almanara operator accounts also linked from the same footer)",
+     "source_url": "https://www.nc-iec.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/national-company-for-international-exhibition-and-conference",
+     "operator": "National Company",
+     "verified_via": "official website footer (EIEC Instagram plus National Company / Almanara operator accounts also linked from the same footer)",
+     "source_url": "https://www.nc-iec.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCpfzFbkK8SU05i4kYca5LJg",
+     "verified_via": "official website footer (EIEC Instagram plus National Company / Almanara operator accounts also linked from the same footer)",
+     "source_url": "https://www.nc-iec.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/almanaraicc.eg",
+     "operator": "Almanara ICC",
+     "verified_via": "official website footer (EIEC Instagram plus National Company / Almanara operator accounts also linked from the same footer)",
+     "source_url": "https://www.nc-iec.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "cairo-international-convention-centre",
@@ -267502,7 +273903,41 @@ window.ATLASDATA={
      "source_url": "https://www.firabarcelona.com/en/venues/montjuic/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Fira_Barcelona",
+     "operator": "Fira",
+     "verified_via": "official website footer (Fira de Barcelona organisation accounts, used for Montjuïc and other Fira venues)",
+     "source_url": "https://www.firabarcelona.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fira-barcelona",
+     "operator": "Fira",
+     "verified_via": "official website footer (Fira de Barcelona organisation accounts, used for Montjuïc and other Fira venues)",
+     "source_url": "https://www.firabarcelona.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCdmkZctSVGWuuEf5V3Yuhjw",
+     "operator": "Fira",
+     "verified_via": "official website footer (Fira de Barcelona organisation accounts, used for Montjuïc and other Fira venues)",
+     "source_url": "https://www.firabarcelona.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/firadebarcelona",
+     "operator": "Fira",
+     "verified_via": "official website footer (Fira de Barcelona organisation accounts, used for Montjuïc and other Fira venues)",
+     "source_url": "https://www.firabarcelona.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ccib-barcelona",
@@ -267802,6 +274237,44 @@ window.ATLASDATA={
      "href": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/messukeskushelsinki",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messukeskus.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messukeskus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messukeskus.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Messukeskus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messukeskus.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/messukeskus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messukeskus.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SuomenMessut",
+     "operator": "Suomen Messut",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messukeskus.com/en/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -267920,7 +274393,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/viparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/ViparisOfficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/viparisofficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ViparisAgenda",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OfficielViparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "paris-expo-porte-de-versailles",
@@ -268038,7 +274553,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/viparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/ViparisOfficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/viparisofficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ViparisAgenda",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OfficielViparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "paris-le-bourget",
@@ -268983,7 +275540,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://twitter.com/eicc",
+     "verified_via": "official website footer",
+     "source_url": "https://www.eicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EICC-298507120173123",
+     "verified_via": "official website footer",
+     "source_url": "https://www.eicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/edinburgh-international-conference-centre-eicc-",
+     "verified_via": "official website footer",
+     "source_url": "https://www.eicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/eiccvenue",
+     "verified_via": "official website footer",
+     "source_url": "https://www.eicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "icc-birmingham",
@@ -270405,7 +276992,30 @@ window.ATLASDATA={
      "source_url": "https://hungexpo.hu/en/hosted-events/venues/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hungexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://hungexpo.hu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Hungexpovideo",
+     "verified_via": "official website footer",
+     "source_url": "https://hungexpo.hu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/1443863",
+     "verified_via": "official website footer",
+     "source_url": "https://hungexpo.hu/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hungarian-railway-museum",
@@ -270554,7 +277164,37 @@ window.ATLASDATA={
      "source_url": "https://exhibition.jiexpo.com/our-venues/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JIExpoKemayoran",
+     "verified_via": "official website footer",
+     "source_url": "https://exhibition.jiexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/JIExpo",
+     "verified_via": "official website footer",
+     "source_url": "https://exhibition.jiexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/JIExpoTV",
+     "verified_via": "official website footer",
+     "source_url": "https://exhibition.jiexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jiexpo_id",
+     "verified_via": "official website footer",
+     "source_url": "https://exhibition.jiexpo.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ice-bsd-city",
@@ -270734,7 +277374,37 @@ window.ATLASDATA={
      "source_url": "https://www.rds.ie/venue-hire/floor-plans/hall-8e-simmonscourt-8e"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/rds_4",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rds.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/therds",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rds.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rdsdublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rds.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RDSdublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rds.ie/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "convention-centre-dublin",
@@ -270816,7 +277486,37 @@ window.ATLASDATA={
      "source_url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://twitter.com/TheCCD",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theccd.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-convention-centre-dublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theccd.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/the_ccd",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theccd.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/TheConventionCentreDublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theccd.ie/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "conrad-dublin",
@@ -271723,7 +278423,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://in.linkedin.com/company/india-trade-promotion-organisation-itpo-",
+     "operator": "ITPO",
+     "verified_via": "official website (ITPO operator LinkedIn, the only official social profile linked)",
+     "source_url": "https://www.itpo.gov.in/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "india-expo-centre-and-mart",
@@ -274214,7 +280924,37 @@ window.ATLASDATA={
      "source_url": "https://www.litexpo.lt/en/premises-for-rent/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/litexpolt",
+     "verified_via": "official website footer",
+     "source_url": "https://www.litexpo.lt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/litexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.litexpo.lt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/litexpo_lt",
+     "verified_via": "official website footer",
+     "source_url": "https://www.litexpo.lt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCLETDMJ_N-qTlT8Pl4CFRow",
+     "verified_via": "official website footer",
+     "source_url": "https://www.litexpo.lt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-panorama-vilnius",
@@ -276629,6 +283369,36 @@ window.ATLASDATA={
      "href": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/centrobanamex",
+     "verified_via": "official website footer",
+     "source_url": "https://centrobanamex.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centrobanamex",
+     "verified_via": "official website footer",
+     "source_url": "https://centrobanamex.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/centrobanamex",
+     "verified_via": "official website footer",
+     "source_url": "https://centrobanamex.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@CentroBnmx",
+     "verified_via": "official website footer",
+     "source_url": "https://centrobanamex.mx/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -277028,7 +283798,44 @@ window.ATLASDATA={
      "source_url": "https://www.mitec.com.my/organise/venues"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/mitec-my",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mitec.com.my/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MITEC.MY",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mitec.com.my/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/MITEC_MY",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mitec.com.my/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mitec_my",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mitec.com.my/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCJpigo6tuAtcA41X0Gwnt0Q",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mitec.com.my/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "world-trade-centre-kuala-lumpur",
@@ -277136,7 +283943,23 @@ window.ATLASDATA={
      "source_url": "https://worldtradecentrekl.com/venues/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wtckl.official",
+     "verified_via": "official website footer",
+     "source_url": "https://worldtradecentrekl.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldtradecentrekualalumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://worldtradecentrekl.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kuala-lumpur-convention-centre",
@@ -279497,7 +286320,41 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GrupaMTP",
+     "operator": "Grupa MTP",
+     "verified_via": "official website footer (Grupa MTP operator accounts)",
+     "source_url": "https://www.mtp.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/GrupaMTP",
+     "operator": "Grupa MTP",
+     "verified_via": "official website footer (Grupa MTP operator accounts)",
+     "source_url": "https://www.mtp.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://pl.linkedin.com/company/grupamtp",
+     "operator": "Grupa MTP",
+     "verified_via": "official website footer (Grupa MTP operator accounts)",
+     "source_url": "https://www.mtp.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/GrupaMTP",
+     "operator": "Grupa MTP",
+     "verified_via": "official website footer (Grupa MTP operator accounts)",
+     "source_url": "https://www.mtp.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ptak-warsaw-expo",
@@ -279595,7 +286452,37 @@ window.ATLASDATA={
      "source_url": "https://warsawexpo.eu/en/about-complex/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/warsawexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://warsawexpo.eu/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ptak_warsaw_expo",
+     "verified_via": "official website footer",
+     "source_url": "https://warsawexpo.eu/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/warsaw-expo",
+     "verified_via": "official website footer",
+     "source_url": "https://warsawexpo.eu/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ptakwarsawexpo2557",
+     "verified_via": "official website footer",
+     "source_url": "https://warsawexpo.eu/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ice-krakow-congress-centre",
@@ -279903,7 +286790,8 @@ window.ATLASDATA={
    "sources": [],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Arche Hotel Krakowska"
   },
   {
    "slug": "copernicus-science-centre",
@@ -280191,7 +287079,25 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/feirainternacionaldelisboa",
+     "operator": "FIL",
+     "verified_via": "official website footer (Instagram is the FIL brand; LinkedIn is the Lisbon Venues operator — same pattern as FIL in batch 1)",
+     "source_url": "https://ccl.lisbonvenues.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://pt.linkedin.com/company/lisbonvenues",
+     "operator": "Lisbon Venues",
+     "verified_via": "official website footer (Instagram is the FIL brand; LinkedIn is the Lisbon Venues operator — same pattern as FIL in batch 1)",
+     "source_url": "https://ccl.lisbonvenues.pt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "exponor-matosinhos",
@@ -280327,7 +287233,30 @@ window.ATLASDATA={
      "source_url": "https://arena.meo.pt/en/meo-arena_en"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MEOArenaoficial",
+     "verified_via": "official website footer",
+     "source_url": "https://arena.meo.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@meoarena5037",
+     "verified_via": "official website footer",
+     "source_url": "https://arena.meo.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/meoarenaoficial",
+     "verified_via": "official website footer",
+     "source_url": "https://arena.meo.pt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "alfandega-porto-congress-centre",
@@ -280465,7 +287394,8 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/oposi-sheraton-porto-hotel-and-spa/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Sheraton Porto Hotel & Spa"
   },
   {
    "slug": "pavilhao-carlos-lopes",
@@ -280903,7 +287833,44 @@ window.ATLASDATA={
      "source_url": "https://www.qncc.qa/exhibitionhalls"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/QatarNationalConventionCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qncc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qncc.qa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qncc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/qncc",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qncc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://qa.linkedin.com/company/qatar-national-convention-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qncc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCVaTtTFsUTLvyLQfP6kHzqQ",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qncc.qa/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "doha-exhibition-and-convention-center",
@@ -280944,7 +287911,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/deccqa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.decc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/deccqatar",
+     "verified_via": "official website footer",
+     "source_url": "https://www.decc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/deccqatar",
+     "verified_via": "official website footer",
+     "source_url": "https://www.decc.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/deccqatar",
+     "verified_via": "official website footer",
+     "source_url": "https://www.decc.qa/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "romexpo-bucharest",
@@ -281992,7 +288989,23 @@ window.ATLASDATA={
      "source_url": "https://www.kistamassan.se/en/our-facilities/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Kistamassan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kistamassan.se/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/kistam-ssan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kistamassan.se/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "collegium-linkoping",
@@ -286630,7 +293643,7 @@ window.ATLASDATA={
    "south_america": 214
   },
   "expo": 187,
-  "hotels": 458,
+  "hotels": 547,
   "venues": 473,
   "europe": 1352,
   "middle_east": 157,
