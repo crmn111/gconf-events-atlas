@@ -1987,6 +1987,7 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .hk .hk-price{display:block;font:600 9px/1 var(--mono);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:1px 4px;margin-top:1px;white-space:nowrap}
 .hk.five .hk-star{background:var(--hotel-5);color:var(--on-hotel-5);border-color:var(--hotel-5)}
 .hk.four .hk-star{background:var(--hotel-4);color:var(--on-hotel-4);border-color:var(--hotel-4)}
+.hk.plain .hk-star{background:var(--panel);color:var(--ink);border-color:var(--line)}
 .hk-pop{font:14px/1.4 var(--sans);color:var(--ink);min-width:160px}
 .hk-pop .hk-name{font-weight:650;letter-spacing:-.02em;margin:0 0 4px}
 .hk-pop .hk-meta{color:var(--muted);font-size:12.5px;margin:0 0 2px}
@@ -2645,6 +2646,7 @@ html[data-theme="dark"] #app.play-tour.play-on .tl-card.tl-now{
 .hk .hk-price{font:var(--fw-semibold) 11px/1 var(--mono);font-variant-numeric:tabular-nums;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:var(--r-sm);padding:2px 5px}
 .hk.five .hk-star{background:var(--hotel-5);color:var(--on-hotel-5);border-color:var(--hotel-5)}
 .hk.four .hk-star{background:var(--hotel-4);color:var(--on-hotel-4);border-color:var(--hotel-4)}
+.hk.plain .hk-star{background:var(--panel);color:var(--ink);border-color:var(--line)}
 .dsec.hotels .hk-stars.five{color:var(--hotel-5-text)}
 .dsec.hotels .hk-stars.four{color:var(--hotel-4-text)}
 .vk-bldg{border-radius:var(--r-md);background:var(--venue);color:var(--on-venue)}

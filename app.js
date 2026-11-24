@@ -673,7 +673,7 @@ function fmtHotelPrice(h, slug){
   const n = Number(pr.amount);
   const num = n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
   const cur = pr.currency||'USD';
-  return cur+' '+num;
+  return (cur==='USD' || cur==='US$') ? ('$'+num) : (cur+' '+num);
 }
 function hotelPriceLabel(h, slug){
   const pr = hotelQuoteForEvent(h, slug);
@@ -681,13 +681,15 @@ function hotelPriceLabel(h, slug){
   const n = Number(pr.amount);
   const num = n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
   const cur = pr.currency||'USD';
-  const parts = ['from '+cur+' '+num+'/night'];
+  const money = (cur==='USD' || cur==='US$') ? ('$'+num) : (cur+' '+num);
+  const parts = ['from '+money+'/night'];
   const dates = fmtQuoteDates(pr.check_in, pr.check_out);
   if(dates) parts.push(dates);
   if(pr.as_of){
     const asof = fmtQuoteDates(pr.as_of, pr.as_of);
     if(asof) parts.push('as of '+asof);
   }
+  if(pr.source) parts.push(pr.source);
   return parts.join(' · ');
 }
 function hotelDistLabel(h, slug){
@@ -736,6 +738,8 @@ function hotelIsPartner(h, slug){
 }
 function hotelMarkerTier(h){
   // Visual five/four marker only. Never treat a private US rating as official stars.
+  // Unofficial-tier hotels (e.g. Dubai with no DET classification) must not show a star marker.
+  if(h && h.unofficial_tier && h.stars==null) return 0;
   if(h && h.stars===5) return 5;
   const qt = String(h && h.quota_tier || '').toLowerCase();
   if(qt==='five') return 5;
@@ -790,13 +794,14 @@ function hotelRatingBadge(h){
 
 function hotelIcon(h, slug){
   const tier = hotelMarkerTier(h);
-  const badge = hotelRatingBadge(h) || (tier===5 ? '5' : '4');
+  const badge = hotelRatingBadge(h) || (tier===5 ? '5' : (tier===0 ? '' : '4'));
   const price = fmtHotelPrice(h, slug);
-  const w = Math.max(36, 8+badge.length*6.2, price ? 8+price.length*6.2 : 0);
+  const w = Math.max(36, 8+(badge|| 'Hotel').length*6.2, price ? 8+price.length*6.2 : 0);
   const ht = price ? 40 : 26;
+  const cls = tier===5 ? 'five' : (tier===0 ? 'plain' : 'four');
   return L.divIcon({
     className:'hk-icon',
-    html:`<div class="hk ${tier===5?'five':'four'}"><span class="hk-star">${esc(badge)}</span>${price?`<span class="hk-price">${esc(price)}</span>`:''}</div>`,
+    html:`<div class="hk ${cls}">${badge?`<span class="hk-star">${esc(badge)}</span>`:`<span class="hk-star">Hotel</span>`}${price?`<span class="hk-price">${esc(price)}</span>`:''}</div>`,
     iconSize:L.point(Math.ceil(w), ht),
     iconAnchor:L.point(Math.round(w/2), ht)
   });
@@ -820,7 +825,7 @@ function hotelPopup(h, slug){
     ? `<p><button type="button" class="btn claim-claimed" disabled>Claimed listing</button></p>`
     : `<p><button type="button" class="btn primary claim-cta" data-claim-type="hotel" data-claim-slug="${esc(hSlug)}" data-claim-name="${esc(h.name||'')}">Claim this listing</button></p>`;
   return `<div class="hk-pop">${phHtml}<p class="hk-name">${esc(h.name||'Hotel')}${hBadge}</p>
-    <p class="hk-meta">${esc(ratingLab||((tier===5?'5':'4')+'-tier hotel'))}</p>
+    ${ratingLab?`<p class="hk-meta">${esc(ratingLab)}</p>`:(tier===0?'':`<p class="hk-meta">${esc((tier===5?'5':'4')+'-tier hotel')}</p>`)}
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
