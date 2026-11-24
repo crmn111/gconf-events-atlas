@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T04:02:43Z",
+ "generated": "2026-11-24T04:13:58Z",
  "scope": "Conferences and festivals in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -1791,6 +1791,114 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-slovenian-book-fair-2026",
+   "slug": "slovenian-book-fair-2026",
+   "name": "Slovenian Book Fair 2026",
+   "website_url": "https://knjizni-sejem.si/",
+   "start_date": "2026-11-23",
+   "end_date": "2026-11-29",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Gospodarsko razstavišče, Dunajska cesta 18, Ljubljana",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Gospodarska zbornica Slovenije — Zbornica knjižnih založnikov in knjigotržcev",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official site: admission is free (vstop na sejem je prost).",
+   "ticket_url": "https://knjizni-sejem.si/",
+   "price_source_url": "https://knjizni-sejem.si/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://knjizni-sejem.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0609798,
+   "lng": 14.5085067,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "books",
+    "publishing",
+    "literature",
+    "book fair"
+   ],
+   "photos": [
+    {
+     "src": "img/events/slovenian-book-fair-2026-1.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-1-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/uploads/2025/11/knj_sejem_dan3_039-min.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/slovenian-book-fair-2026-2.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-2-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/uploads/2024/11/DSC1254.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/slovenian-book-fair-2026-3.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-3-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/themes/knjizni-sejem/images/fallback_prizorisce.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/slovenian-book-fair-2026-4.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-4-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/uploads/2024/07/knjiznisejem2611_158-scaled.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/slovenian-book-fair-2026-5.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-5-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/uploads/2024/07/NEN5045-scaled.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/slovenian-book-fair-2026-6.jpg",
+     "thumb": "img/events/slovenian-book-fair-2026-6-t.jpg",
+     "orig": "https://knjizni-sejem.si/wp-content/uploads/2024/08/NEN6672-scaled.jpg",
+     "page": "https://knjizni-sejem.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://knjizni-sejem.si/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 2,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": "No expected-attendance figure for the 42nd (2026) edition was published on the official pages fetched 24 Nov 2026. The homepage recap that last year's fair drew over 62,500 visitors, and the standing '60.000 obiskovalcev' highlight, were not stored as 2026 expected attendance. Ranked by our estimated size tier 'large' (30,000-100,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Gospodarsko razstavišče, 18, Dunajska cesta, Četrtna skupnost Bežigrad, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Gospodarsko razstavišče, Dunajska cesta 18, Ljubljana, Slovenia).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official knjizni-sejem.si homepage fetched 24 Nov 2026 (edition still running): 42nd Slovenian Book Fair, 'od 23.11. do 29. 11. 2026', opening hours 'Od ponedeljka, 23., do nedelje, 29. 11. 2026', venue 'Gospodarsko razstavišče, Dunajska cesta 18, 1000 Ljubljana'. Guest town Sežana; guest country Germany. Organiser listed as the Chamber of Book Publishers and Booksellers at the Chamber of Commerce and Industry of Slovenia.",
+   "id": "slovenian-book-fair-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-gaming-pulse-2026",
    "slug": "gaming-pulse-2026",
    "name": "Gaming Pulse Conference 2026",
@@ -2982,6 +3090,70 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-makeit-ai-edition-2026",
+   "slug": "makeit-ai-edition-2026",
+   "name": "MakeIT AI edition 2026",
+   "website_url": "https://ai.makeit.si/",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-26",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Kristalna palača, Ljubljana",
+   "industry": "AI",
+   "format": "In-person",
+   "organizer": "SIOUG & OpenBlend",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Free to attend; registration required and limited to 150 attendees.",
+   "ticket_url": "https://ai.makeit.si/",
+   "price_source_url": "https://ai.makeit.si/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://ai.makeit.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.06684,
+   "lng": 14.5412745,
+   "precise": true,
+   "category": "ai",
+   "topics": [
+    "artificial intelligence",
+    "developer tools",
+    "software engineering"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://ai.makeit.si/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 6,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Kristalna palača, 8, Ameriška ulica, BTC, Nove Jarše, Četrtna skupnost Jarše, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Kristalna palača, Ljubljana, Slovenia). Official page names Kristalna palača, with the Congress Hall on the 2nd floor.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official ai.makeit.si page fetched 24 Nov 2026: 'MakeIT AI edition 2026', '26 November 2026', 'Kristalna palača, Ljubljana', 'All talks in English', and FAQ 'Entry to MakeIT AI edition 2026 is free. Registration is required and limited to 150 attendees.' The 150-person cap is a registration limit, not stored as expected attendance. Distinct from the three-day MakeIT AI 2027 conference in Portorož.",
+   "id": "makeit-ai-edition-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -4993,6 +5165,95 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-animateka-2026",
+   "slug": "animateka-2026",
+   "name": "Animateka 2026",
+   "website_url": "https://www.animateka.si/",
+   "start_date": "2026-11-30",
+   "end_date": "2026-12-06",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Kinodvor and Slovenska kinoteka, Ljubljana (VR@Animateka at Cukrarna from 27 Nov)",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "Društvo za oživljanje zgodbe 2 Reels",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.animateka.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.056773,
+   "lng": 14.509581,
+   "precise": true,
+   "category": "film",
+   "topics": [
+    "animation",
+    "animated film",
+    "film festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/animateka-2026-1.jpg",
+     "thumb": "img/events/animateka-2026-1-t.jpg",
+     "orig": "https://www.animateka.si/2026/wp-content/uploads/2026/09/novica_tekmovalni_2026-1024x683.jpg",
+     "page": "https://www.animateka.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/animateka-2026-2.jpg",
+     "thumb": "img/events/animateka-2026-2-t.jpg",
+     "orig": "https://www.animateka.si/2026/wp-content/uploads/2026/08/Animateka_razkritje-1024x678.png",
+     "page": "https://www.animateka.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.animateka.si/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.animateka.si/2026/en/schedule/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.animateka.si/2026/en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 7,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Kinodvor, 13, Kolodvorska ulica, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Kinodvor, Ljubljana, Slovenia). Official 2026 schedule lists Kinodvor as the main screening venue, with further programmes at the Slovenian Cinematheque. VR@Animateka opens 27 Nov at Cukrarna; the record uses the official main-festival dates 30 Nov–6 Dec 2026. The pin is Kinodvor.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official animateka.si/2026/en/schedule page fetched 24 Nov 2026: 'SCREENING SCHEDULE 30 November – 6 December 2026' at Kinodvor (opening 30 Nov, closing and awards 5 Dec, with 6 Dec screenings) and at the Slovenian Cinematheque. The official news page announces VR@Animateka opening Friday 27 November 2026 at 18:00 at Cukrarna as a related programme, not an extra festival day in the dates used here.",
+   "id": "animateka-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-christmas-jazz-2026",
    "slug": "christmas-jazz-2026",
    "name": "Christmas Jazz 2026 (Jõulujazz)",
@@ -6732,6 +6993,98 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official Adopt AI site JSON-LD and copy (fetched 24 Nov 2026): 3–4 December 2026 at the Grand Palais, Paris, 2nd edition. Confirmed on the official Grand Palais programme page: “Les 3 et 4 décembre 2026, le Grand Palais accueille la 2e édition d’Adopt AI”.",
    "id": "adopt-ai-2026",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-bio-29-2026",
+   "slug": "bio-29-2026",
+   "name": "BIO 29 — Biennial of Design Ljubljana",
+   "website_url": "https://www.bio.si/en/bio29",
+   "start_date": "2026-12-03",
+   "end_date": "2027-04-04",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Museum of Architecture and Design (MAO), Ljubljana (also Bank of Slovenia Gallery and Kulturni center Libertas, Koper)",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Museum of Architecture and Design (MAO)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.bio.si/en/bio29",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0504774,
+   "lng": 14.5630764,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "design",
+    "design biennial",
+    "architecture",
+    "contemporary design"
+   ],
+   "photos": [
+    {
+     "src": "img/events/bio-29-2026-1.jpg",
+     "thumb": "img/events/bio-29-2026-1-t.jpg",
+     "orig": "https://cms.bio.si/assets/mao-event.jpg",
+     "page": "https://www.bio.si/en/bio29",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bio-29-2026-3.jpg",
+     "thumb": "img/events/bio-29-2026-3-t.jpg",
+     "orig": "https://cms.bio.si/assets/bio29-dogodki/mgbs_foto_simon-pintar.jpg",
+     "page": "https://www.bio.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/bio-29-2026-4.jpg",
+     "thumb": "img/events/bio-29-2026-4-t.jpg",
+     "orig": "https://cms.bio.si/assets/mab00530.webp",
+     "page": "https://www.bio.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.bio.si/en/bio29",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.bio.si/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 4,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Fužinski grad, 7, Rusjanov trg, Nove Fužine, Četrtna skupnost Moste, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Grad Fužine, Ljubljana, Slovenia). MAO is housed at Fužine Castle (Fužinski grad), Rusjanov trg, Ljubljana, which is the pin. Official pages also name the Bank of Slovenia Gallery (until 14 Jan 2027) and Kulturni center Libertas in Koper (4 Dec 2026–4 Apr 2027).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official bio.si/en/bio29 page fetched 24 Nov 2026: 'the 29th Biennial of Design, takes place from 3 December 2026 to 4 April 2027', curated theme Soft Fields, organised by the Museum of Architecture and Design (MAO). Main opening at MAO from 3 Dec 2026 to 4 Apr 2027; Bank of Slovenia Gallery until 14 Jan 2027; Koper's Kulturni center Libertas from 4 Dec 2026 to 4 Apr 2027 as the coastal hub.",
+   "id": "bio-29-2026",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -30875,6 +31228,117 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-kurentovanje-2027",
+   "slug": "kurentovanje-2027",
+   "name": "Kurentovanje 2027",
+   "website_url": "https://kurentovanje.net/eng/program/",
+   "start_date": "2027-02-03",
+   "end_date": "2027-02-09",
+   "city": "Ptuj",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Streets and squares of Ptuj (including Mestni trg, Novi trg and Glavni trg)",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Javni zavod Ptuj / Public institution Ptuj",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://kurentovanje.net/eng/program/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.4196485,
+   "lng": 15.8717576,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "carnival",
+    "folk tradition",
+    "UNESCO heritage",
+    "Kurent"
+   ],
+   "photos": [
+    {
+     "src": "img/events/kurentovanje-2027-1.jpg",
+     "thumb": "img/events/kurentovanje-2027-1-t.jpg",
+     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/kurentiprogram-scaled.jpg",
+     "page": "https://kurentovanje.net/eng/program/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kurentovanje-2027-2.jpg",
+     "thumb": "img/events/kurentovanje-2027-2-t.jpg",
+     "orig": "https://kurentovanje.net/wp-content/uploads/2021/11/Mednarodna-karnevalska-povorka_Stanko-Kozel-2026-29.jpg",
+     "page": "https://kurentovanje.net/eng/program/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kurentovanje-2027-4.jpg",
+     "thumb": "img/events/kurentovanje-2027-4-t.jpg",
+     "orig": "https://kurentovanje.net/wp-content/uploads/2025/03/Izbor_Etno-povorka-20205_Stanko-kozel-35.jpg",
+     "page": "https://kurentovanje.net/eng/program/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kurentovanje-2027-5.jpg",
+     "thumb": "img/events/kurentovanje-2027-5-t.jpg",
+     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/kurentovanje_mkp_markopigac_13-705x376-1.jpg",
+     "page": "https://kurentovanje.net/eng/program/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/kurentovanje-2027-6.jpg",
+     "thumb": "img/events/kurentovanje-2027-6-t.jpg",
+     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/liki_babanosideda.jpg",
+     "page": "https://kurentovanje.net/eng/program/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://kurentovanje.net/eng/program/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://kurentovanje.net/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://kurentovanje.net/eng/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 3,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'large' (30,000-100,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Mestni trg, Center, Ptuj, 2250, Slovenia (query: Mestni trg, Ptuj, Slovenia). Official programme is city-wide in Ptuj; many headline hours are at Mestni trg. The pin is Mestni trg. A midnight Kurent jump on the night of 2–3 Feb 2027 opens the season and is not added as an extra calendar day before the official 3–9 Feb heading.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official kurentovanje.net/eng/program page fetched 24 Nov 2026 headlines 'Kurentovanje in Ptuj 3–9 February 2027' as the 67th edition. The Slovenian homepage repeats '67. Kurentovanje: 3.-9. februar 2027'. Programme days run from 3 Feb (Day of Kurent and Korant Groups) through 9 Feb; a midnight Kurent jump is listed at 2.02.2027 'from Tuesday to Wednesday at midnight' as the season kick-off, not as a change to the official 3–9 Feb heading. Organiser listed as Public institution Ptuj, Mestni trg 4, Ptuj.",
+   "id": "kurentovanje-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-step-dubai-2027",
    "slug": "step-dubai-2027",
    "name": "Step Dubai 2027",
@@ -33783,6 +34247,112 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-ljubljana-winter-festival-2027",
+   "slug": "ljubljana-winter-festival-2027",
+   "name": "10th Ljubljana Winter Festival",
+   "website_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+   "start_date": "2027-02-10",
+   "end_date": "2027-02-15",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Križanke, Cankarjev dom, National Gallery and Slovenian Philharmonic, Ljubljana",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Festival Ljubljana",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0463647,
+   "lng": 14.5031889,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "classical music",
+    "opera",
+    "concerts",
+    "winter festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/ljubljana-winter-festival-2027-1.jpg",
+     "thumb": "img/events/ljubljana-winter-festival-2027-1-t.jpg",
+     "orig": "https://www.ljubljanafestival.si/media/zxxn4vny/darjastravstisu__7314.jpg?rmode=crop&width=640&height=360",
+     "page": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ljubljana-winter-festival-2027-2.jpg",
+     "thumb": "img/events/ljubljana-winter-festival-2027-2-t.jpg",
+     "orig": "https://www.ljubljanafestival.si/media/wdzpkitj/darjastravstisu__3759.jpg",
+     "page": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ljubljana-winter-festival-2027-3.jpg",
+     "thumb": "img/events/ljubljana-winter-festival-2027-3-t.jpg",
+     "orig": "https://www.ljubljanafestival.si/media/da3hfniy/6b2a4794-katja-kodba.jpg?rmode=crop&width=640&height=360",
+     "page": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ljubljana-winter-festival-2027-4.jpg",
+     "thumb": "img/events/ljubljana-winter-festival-2027-4-t.jpg",
+     "orig": "https://www.ljubljanafestival.si/media/ml4l0ddv/darjastravstisu__8651.jpg?rmode=crop&width=640&height=360",
+     "page": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/ljubljana-winter-festival-2027-5.jpg",
+     "thumb": "img/events/ljubljana-winter-festival-2027-5-t.jpg",
+     "orig": "https://www.ljubljanafestival.si/media/3d2aag1m/darjastravstisu_3657.jpg?rmode=&width=640&height=360",
+     "page": "https://www.ljubljanafestival.si/en/news-from-the-world-of-culture/25078-step-into-the-jubilee-10th-winter-festival-with-us",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.ljubljanafestival.si/en/news-from-the-world-of-culture/25078-step-into-the-jubilee-10th-winter-festival-with-us",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 8,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Križanke outdoor theatre, Zoisova cesta, Žabjak, Prule, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Križanke, Ljubljana, Slovenia). Official programme names multiple halls. The pin is Križanke, Festival Ljubljana’s home venue (Knights’ Hall / Križevniška Church also host programme). Concerts are also officially at Cankarjev dom, the National Gallery and the Slovenian Philharmonic.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Festival Ljubljana Winter Festival page and 6 Oct 2026 news post fetched 24 Nov 2026: 'From 10 to 15 February 2027' for the jubilee 10th Winter Festival, with dated programme entries from 10 to 15 Feb 2027 at Križanke, Cankarjev dom, the National Gallery and the Slovenian Philharmonic. The official summer Ljubljana Festival page still presents only the 74th edition (21 Jun–8 Sep 2026) and was not given 2027 summer dates.",
+   "id": "ljubljana-winter-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-africa-tech-summit-nairobi-2027",
    "slug": "africa-tech-summit-nairobi-2027",
    "name": "Africa Tech Summit Nairobi 2027",
@@ -34039,6 +34609,93 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-hek-si-2027",
+   "slug": "hek-si-2027",
+   "name": "HEK.SI 2027",
+   "website_url": "https://www.hek.si/en/",
+   "start_date": "2027-02-10",
+   "end_date": "2027-02-11",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Fantastični prostori, Stegne 23a, Ljubljana (day 1 in person; day 2 online)",
+   "industry": "Tech",
+   "format": "Hybrid",
+   "organizer": "Palsit d.o.o.",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Basic package officially listed at 300 € + 22% VAT for 10–11 Feb 2027; a premium bundle with INFOSEK 2027 is listed at 750 € + VAT.",
+   "ticket_url": "https://www.hek.si/si/prijavnica",
+   "price_source_url": "https://www.hek.si/si/prijavnica",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.hek.si/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0869795,
+   "lng": 14.4827836,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "cybersecurity",
+    "hacking",
+    "information security"
+   ],
+   "photos": [
+    {
+     "src": "img/events/hek-si-2027-1.jpg",
+     "thumb": "img/events/hek-si-2027-1-t.jpg",
+     "orig": "https://www.hek.si/template/images/infosek-konferenca.jpg",
+     "page": "https://www.hek.si/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.hek.si/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.hek.si/en/location",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.hek.si/si/prijavnica",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://palsit.com/izobrazevanje/konference/infosek-expo/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 9,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: ISKRA Zaščite, 23a, Stegne, Industrijska cona Stegne, Četrtna skupnost Dravlje, Ljubljana, Upravna Enota Ljubljana, 1001, Slovenia (query: Stegne 23a, Ljubljana, Slovenia). Official address Fantastični prostori, Stegne 23a. OSM labels the building at Stegne 23a as ISKRA Zaščite, a tenant in the same industrial building; the pin is that official address.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official hek.si/en homepage fetched 24 Nov 2026 headlines 'HEK.SI 2027' and 'February 10-11, 2027, Ljubljana & online'. The Slovenian registration form lists the basic package as '10. - 11. 2. 2027' and the premium bundle as '10. - 11. 2. 2027 & 8. - 10. 9. 2027'. Leftover '11. - 12. 2. 2026' lines on the location page and some ticket labels were not used for dates.",
+   "id": "hek-si-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -35855,6 +36512,85 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-ment-ljubljana-2027",
+   "slug": "ment-ljubljana-2027",
+   "name": "MENT Ljubljana 2027",
+   "website_url": "https://ment.si/en/",
+   "start_date": "2027-02-17",
+   "end_date": "2027-02-20",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Kino Šiška and venues across Ljubljana (including Cankarjev dom, Ljubljana Castle and AKC Metelkova)",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "MENT Ljubljana",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official festival tickets (all shows 17–20 Feb 2027): later batches from 89 €, presale 99 € (until 16 Feb 2027), walk-up 109 €. PRO (conference + festival) from 109 € super early bird (until 17 Dec 2026) to 139 € walk-up; an earlier 99 € action ended 19 Nov 2026.",
+   "ticket_url": "https://ment.si/en/tickets/",
+   "price_source_url": "https://ment.si/en/tickets/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://ment.si/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0689036,
+   "lng": 14.4889481,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "showcase festival",
+    "contemporary music",
+    "music conference"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://ment.si/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ment.si/en/rec-and-faq/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ment.si/en/news/tickets-for-ment-2027-are-now-on-sale/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ment.si/en/tickets/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 10,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Kino Šiška, 3, Trg Prekomorskih brigad, Zgornja Šiška, Četrtna skupnost Šiška, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Kino Šiška, Ljubljana, Slovenia). Official FAQ: opening night at Kino Šiška; conference at Kino Šiška and M hotel (Thu) and Cankarjev dom (Fri); concerts also at Ljubljana Castle and AKC Metelkova. The pin is Kino Šiška.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official MENT FAQ fetched 24 Nov 2026: 'In 2027, MENT will take place between February 17th and 20th.' Tickets pages repeat '17-20 February 2027' for festival access and '4 days of music (17-20 Feb 2027) & 2 days of conference (18 & 19 Feb 2027)'. Opening night Wednesday at Kino Šiška; conference Thursday at Kino Šiška and M hotel, Friday at Cankarjev dom, with concerts also at Ljubljana Castle and AKC Metelkova.",
+   "id": "ment-ljubljana-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -43551,6 +44287,74 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-documentary-film-festival-ljubljana-2027",
+   "slug": "documentary-film-festival-ljubljana-2027",
+   "name": "29th Documentary Film Festival",
+   "website_url": "https://www.cd-cc.si/en/culture/cinema/29th-documentary-film-festival",
+   "start_date": "2027-03-10",
+   "end_date": "2027-03-17",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Cankarjev dom (Kosovelova dvorana), Kinodvor and Slovenska kinoteka, Ljubljana",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "Cankarjev dom",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.cd-cc.si/en/culture/cinema/29th-documentary-film-festival",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0499738,
+   "lng": 14.4993185,
+   "precise": true,
+   "category": "film",
+   "topics": [
+    "documentary film",
+    "film festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.cd-cc.si/en/culture/cinema/29th-documentary-film-festival",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://cd-cc.si/kultura/film/29-festival-dokumentarnega-filma",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 11,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Cankarjev dom, 10, Prešernova cesta, Vrtača, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Cankarjev dom, Ljubljana, Slovenia). Official listing names Kosovelova dvorana, Kinodvor and Slovenska kinoteka. The pin is Cankarjev dom, the festival producer and one of the official venues.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Cankarjev dom English and Slovenian pages fetched 24 Nov 2026: '29th Documentary Film Festival', '10 - 17. March 2027' / '10. - 17. mar. 2027', venues Kosovelova dvorana, Kinodvor and Slovenska kinoteka.",
+   "id": "documentary-film-festival-ljubljana-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-cphdox-2027",
    "slug": "cphdox-2027",
    "name": "CPH:DOX 2027",
@@ -47479,6 +48283,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official borealisfestival.no homepage fetched 24 Nov 2026 announces Borealis 2027 and early-bird festival passes. Visible body copy places the edition in March 2027; the official homepage banner and image alt text publish the days as 'Borealis 2027: 17–21 march' (asset Borealis_2027_Banner_Dates_en_01.png).",
    "id": "borealis-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-cio-summit-2027",
+   "slug": "cio-summit-2027",
+   "name": "CIO Summit 2027",
+   "website_url": "https://palsit.com/ciosummit",
+   "start_date": "2027-03-17",
+   "end_date": "2027-03-18",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Fantastični prostori, Stegne 23a, Ljubljana (in person and online)",
+   "industry": "Tech",
+   "format": "Hybrid",
+   "organizer": "Palsit d.o.o.",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://palsit.com/ciosummit",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0869795,
+   "lng": 14.4827836,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "CIO",
+    "cybersecurity",
+    "digital transformation",
+    "IT leadership"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://palsit.com/ciosummit",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://palsit.com/konference",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 12,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: ISKRA Zaščite, 23a, Stegne, Industrijska cona Stegne, Četrtna skupnost Dravlje, Ljubljana, Upravna Enota Ljubljana, 1001, Slovenia (query: Stegne 23a, Ljubljana, Slovenia). Official address Fantastični prostori, Stegne 23a. OSM labels the building at Stegne 23a as ISKRA Zaščite, a tenant in the same industrial building; the pin is that official address.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official palsit.com/ciosummit page fetched 24 Nov 2026 headlines '17. in 18. marec 2027, Ljubljana (Fantastični prostori) in online'. The organisers' conferences index instead lists 'CIO SUMMIT 2027 16.03.2027'. Dates follow the dedicated event-page headline (17–18 Mar 2027); the 16 March index line and the leftover '18. 3. 2026' programme were not used.",
+   "id": "cio-summit-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -57274,13 +58148,6 @@ window.ATLASDATA={
      "src": "img/events/unblock-2027-5.jpg",
      "thumb": "img/events/unblock-2027-5-t.jpg",
      "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876dfe/69adda1fa41e7683f67d7ffb_PvEh9x9ENAtthkoSCUg2gc31DMpZRCCrvhY6Zo5BeFk.avif",
-     "page": "https://unblockeurope.com/",
-     "credit": ""
-    },
-    {
-     "src": "img/events/unblock-2027-6.jpg",
-     "thumb": "img/events/unblock-2027-6-t.jpg",
-     "orig": "https://cdn.prod.website-files.com/689d84c0d136d6b1dc876dfe/69adda25e4329bcea7880b60_OGweOs6L71-hbgU5B5aZsFjPdktg2a97dCijiHrZUQU.avif",
      "page": "https://unblockeurope.com/",
      "credit": ""
     }
@@ -76433,6 +77300,125 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-podim-2027",
+   "slug": "podim-2027",
+   "name": "Podim 2027",
+   "website_url": "https://podim.org/",
+   "start_date": "2027-05-17",
+   "end_date": "2027-05-19",
+   "city": "Maribor",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Maribox, Loška ulica 13, and Narodni dom, Ulica kneza Koclja 9, Maribor",
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "Tovarna podjemov",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official platform page: tickets go live 4 December (no 2027 prices published on the pages fetched 24 Nov 2026).",
+   "ticket_url": "https://podim.org/platform/",
+   "price_source_url": "https://podim.org/platform/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://podim.org/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.5567574,
+   "lng": 15.652831,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "startups",
+    "investment",
+    "innovation",
+    "technology"
+   ],
+   "photos": [
+    {
+     "src": "img/events/podim-2027-1.jpg",
+     "thumb": "img/events/podim-2027-1-t.jpg",
+     "orig": "https://podim.org/wp-content/uploads/2026/03/Podim-1-learn.webp",
+     "page": "https://podim.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/podim-2027-2.jpg",
+     "thumb": "img/events/podim-2027-2-t.jpg",
+     "orig": "https://podim.org/wp-content/uploads/2026/03/Podim-2-Meet-startups.webp",
+     "page": "https://podim.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/podim-2027-3.jpg",
+     "thumb": "img/events/podim-2027-3-t.jpg",
+     "orig": "https://podim.org/wp-content/uploads/2026/03/Podim-3-Networking.webp",
+     "page": "https://podim.org/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/podim-2027-4.jpg",
+     "thumb": "img/events/podim-2027-4-t.jpg",
+     "orig": "https://podim.org/wp-content/uploads/2026/03/Podim-4-Party.webp",
+     "page": "https://podim.org/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://podim.org/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://podim.org/platform/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://podim.org/podim-partners/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://podim.org/venue/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://podim.org/about-podim/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.startup.si/en-us/event/podim-2027",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 13,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure for the 2027 edition was published on the official pages fetched 24 Nov 2026. Partners-page 'PODIM 2026 figures' of more than 1,100 participants and the standing about-page line 'limited attendance of 1,000' were not stored as 2027 expected attendance. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: MariBOX, 13, Loška ulica, Lent, Center, Maribor, 2000, Slovenia (query: Loška ulica 13, Maribor, Slovenia). Official venue page names two sites a minute apart; the pin is MariBOX at Loška ulica 13, the main programme venue. Narodni dom, Ulica kneza Koclja 9, hosts the Deal Room.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official podim.org homepage fetched 24 Nov 2026: '17 - 19 May 2027 in Maribor, Slovenia' and 'May 17-19: Live event in Maribor'. The platform page headlines 'PODIM 2027 · 17–19 MAY · MARIBOR, SLOVENIA'. The partners page repeats 'PODIM 2027, taking place on May 17–19 in Maribor'. startup.si's official event listing adds venues Maribox, Loška ulica 13, and Narodni dom, Ulica kneza Koclja 9, with a calendar entry 17–19 May 2027. Menu items still labelled 'PODIM 2026' were treated as leftover navigation, not dates.",
+   "id": "podim-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-sydney-writers-festival-2027",
    "slug": "sydney-writers-festival-2027",
    "name": "Sydney Writers' Festival 2027",
@@ -79279,6 +80265,104 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-makeit-ai-2027",
+   "slug": "makeit-ai-2027",
+   "name": "MakeIT AI 2027",
+   "website_url": "https://makeit.si/",
+   "start_date": "2027-05-24",
+   "end_date": "2027-05-26",
+   "city": "Portorož",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Convention Centre Portus, Obala 33, 6320 Portorož",
+   "industry": "AI",
+   "format": "In-person",
+   "organizer": "SIOUG & OpenBlend",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://makeit.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 45.5141113,
+   "lng": 13.5881817,
+   "precise": true,
+   "category": "ai",
+   "topics": [
+    "artificial intelligence",
+    "Java",
+    "Oracle",
+    "software engineering",
+    "open source"
+   ],
+   "photos": [
+    {
+     "src": "img/events/makeit-ai-2027-1.jpg",
+     "thumb": "img/events/makeit-ai-2027-1-t.jpg",
+     "orig": "https://makeit.si/img/2027/conference-social.jpg",
+     "page": "https://makeit.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/makeit-ai-2027-2.jpg",
+     "thumb": "img/events/makeit-ai-2027-2-t.jpg",
+     "orig": "https://makeit.si/img/2027/home-hero-7544-1200.webp",
+     "page": "https://makeit.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/makeit-ai-2027-3.jpg",
+     "thumb": "img/events/makeit-ai-2027-3-t.jpg",
+     "orig": "https://makeit.si/img/2027/speaker.webp",
+     "page": "https://makeit.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://makeit.si/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://makeit.si/howto/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://sessionize.com/makeit-ai-jcon-2027/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 14,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Casino Riviera, 33, Obala, Portorož, Strunjan, Piran, Upravna enota Piran, 6320, Slovenia (query: Obala 33, Portorož, Slovenia). Official address is Convention Centre Portus, Obala 33, inside Hotel Slovenija / LifeClass. OSM labels a Casino Riviera POI at the same street address in the same complex; the pin is that official address.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official makeit.si homepage fetched 24 Nov 2026: 'MakeIT AI 2027', 'The developer conference for real-world AI', '24 – 26 May 2027', 'Portorož, Slovenia', with a call for speakers closing 22 January 2027. The official venue/travel page names 'MakeIT AI 2027 at Convention Centre Portus, Obala 33, 6320 Portorož'. Sessionize's official CFP listing (linked from the organiser site) repeats 24–26 May 2027 at the same venue. Distinct from the one-day free MakeIT AI edition 2026 in Ljubljana.",
+   "id": "makeit-ai-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-norsk-litteraturfestival-2027",
    "slug": "norsk-litteraturfestival-2027",
    "name": "Norsk Litteraturfestival 2027",
@@ -81293,6 +82377,75 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-druga-godba-2027",
+   "slug": "druga-godba-2027",
+   "name": "Druga Godba 2027",
+   "website_url": "https://drugagodba.si/en/",
+   "start_date": "2027-05-26",
+   "end_date": "2027-05-29",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Ljubljana (venues to be detailed on the official programme)",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Druga Godba",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://drugagodba.si/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0500268,
+   "lng": 14.5069289,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "world music",
+    "contemporary music",
+    "showcase festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://drugagodba.si/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://drugagodba.si/en/programme/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 15,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Ljubljana, Slovenia). Official 2027 pages announce the festival in Ljubljana but do not yet name the 2027 concert buildings on the programme page, so the pin is city-level.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official drugagodba.si/en homepage fetched 24 Nov 2026: '43rd DRUGA GODBA 26–29 May 2027 Ljubljana'. The official programme page lists '26–29 May Druga Godba 2027 festival' under May 2027. A leftover Instagram line 'Druga Godba 2026 | 27–30 May, Ljubljana' was not used.",
+   "id": "druga-godba-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-dublin-tech-summit-2027",
    "slug": "dublin-tech-summit-2027",
    "name": "Dublin Tech Summit 2027",
@@ -83234,6 +84387,98 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-na-meji-nevidnega-2027",
+   "slug": "na-meji-nevidnega-2027",
+   "name": "Na meji nevidnega 2027",
+   "website_url": "https://nmn.si/",
+   "start_date": "2027-05-29",
+   "end_date": "2027-05-30",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Gospodarsko razstavišče, Ljubljana",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "KUD Šmaug",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official site: ticket sales for NMN 2027 begin in January 2027 (no prices published on the pages fetched 24 Nov 2026).",
+   "ticket_url": "https://nmn.si/",
+   "price_source_url": "https://nmn.si/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://nmn.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0609798,
+   "lng": 14.5085067,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "comic convention",
+    "science fiction",
+    "fantasy",
+    "comics"
+   ],
+   "photos": [
+    {
+     "src": "img/events/na-meji-nevidnega-2027-1.jpg",
+     "thumb": "img/events/na-meji-nevidnega-2027-1-t.jpg",
+     "orig": "https://nmn.si/wp-content/uploads/2025/03/NMN-23-FOTO-SIMON-PELKO-433-1024x684.jpg",
+     "page": "https://nmn.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/na-meji-nevidnega-2027-5.jpg",
+     "thumb": "img/events/na-meji-nevidnega-2027-5-t.jpg",
+     "orig": "https://nmn.si/wp-content/uploads/2024/04/NMN-23-FOTO-SIMON-PELKO-919-1024x683.jpg",
+     "page": "https://nmn.si/vse-o-nmn/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/na-meji-nevidnega-2027-6.jpg",
+     "thumb": "img/events/na-meji-nevidnega-2027-6-t.jpg",
+     "orig": "https://nmn.si/wp-content/uploads/2024/03/NMN-23-FOTO-SIMON-PELKO-460-1-1024x684.jpg",
+     "page": "https://nmn.si/vse-o-nmn/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://nmn.si/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://nmn.si/vse-o-nmn/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 16,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Gospodarsko razstavišče, 18, Dunajska cesta, Četrtna skupnost Bežigrad, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Gospodarsko razstavišče, Dunajska cesta 18, Ljubljana, Slovenia).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official nmn.si homepage fetched 24 Nov 2026: 'NMN 2027 · 29. & 30. MAJ' and 'GOSPODARSKO RAZSTAVIŠČE, LJUBLJANA — VIKEND, 29. in 30. MAJ 2027', with ticket sales starting in January 2027. Organiser KUD Šmaug. A third-party calendar listing of 28 May 2027 was not used.",
+   "id": "na-meji-nevidnega-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-salsa-lima-festival-2027",
    "slug": "salsa-lima-festival-2027",
    "name": "Salsa Lima Festival 2027",
@@ -84506,6 +85751,88 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-aisek-2027",
+   "slug": "aisek-2027",
+   "name": "AiSEK 2027",
+   "website_url": "https://aisek.palsit.com/en/",
+   "start_date": "2027-06-02",
+   "end_date": "2027-06-03",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Fantastični prostori, Stegne 23a, Ljubljana (day 1 in person; day 2 online)",
+   "industry": "AI",
+   "format": "Hybrid",
+   "organizer": "Palsit d.o.o.",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Basic package officially listed at 300 € + 22% VAT for 2–3 June 2027; a premium bundle with INFOSEK 2027 is listed at 750 € + VAT (discount until 31 Mar 2027).",
+   "ticket_url": "https://aisek.palsit.com/en/",
+   "price_source_url": "https://aisek.palsit.com/en/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://aisek.palsit.com/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0869795,
+   "lng": 14.4827836,
+   "precise": true,
+   "category": "ai",
+   "topics": [
+    "artificial intelligence",
+    "AI security",
+    "machine learning"
+   ],
+   "photos": [
+    {
+     "src": "img/events/aisek-2027-1.jpg",
+     "thumb": "img/events/aisek-2027-1-t.jpg",
+     "orig": "https://aisek.palsit.com/images/conference_speaker.jpg",
+     "page": "https://aisek.palsit.com/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://aisek.palsit.com/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://aisek.palsit.com/en/location",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://palsit.com/izobrazevanje/konference/infosek-expo/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 17,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: ISKRA Zaščite, 23a, Stegne, Industrijska cona Stegne, Četrtna skupnost Dravlje, Ljubljana, Upravna Enota Ljubljana, 1001, Slovenia (query: Stegne 23a, Ljubljana, Slovenia). Official address Fantastični prostori, Stegne 23a. OSM labels the building at Stegne 23a as ISKRA Zaščite, a tenant in the same industrial building; the pin is that official address. The location page still titles some venue-day sentences June 2026.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official aisek.palsit.com/en homepage fetched 24 Nov 2026 headlines 'June 2–3, 2027 Ljubljana & online' and lists the basic ticket as '2. - 3. 6. 2027'. The location page still has leftover 'June 2–3, 2026' / 'June 2, 2026' / 'June 3, 2026' venue-day copy; those leftovers were not used for dates.",
+   "id": "aisek-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -85947,6 +87274,84 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-ljubljana-biennale-of-graphic-arts-2027",
+   "slug": "ljubljana-biennale-of-graphic-arts-2027",
+   "name": "37th Ljubljana Biennale of Graphic Arts",
+   "website_url": "https://mglc.si/en/behind-the-scenes/news/85/jose-roca-appointed-curator-of-the-37th-ljubljana-biennale-of-graphic-arts/",
+   "start_date": "2027-06-04",
+   "end_date": "2027-10-17",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "MGLC International Centre of Graphic Arts, Grad Tivoli, Ljubljana",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "MGLC International Centre of Graphic Arts",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://mglc.si/en/behind-the-scenes/news/85/jose-roca-appointed-curator-of-the-37th-ljubljana-biennale-of-graphic-arts/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0546125,
+   "lng": 14.4930227,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "graphic arts",
+    "printmaking",
+    "contemporary art",
+    "biennial"
+   ],
+   "photos": [
+    {
+     "src": "img/events/ljubljana-biennale-of-graphic-arts-2027-1.jpg",
+     "thumb": "img/events/ljubljana-biennale-of-graphic-arts-2027-1-t.jpg",
+     "orig": "https://mglc.si/static/images/mglc-share.19ba9fce0b61.jpeg",
+     "page": "https://mglc.si/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://mglc.si/en/behind-the-scenes/news/85/jose-roca-appointed-curator-of-the-37th-ljubljana-biennale-of-graphic-arts/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://mglc.si/en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 5,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: MGLC Grad Tivoli, 3, Pod turnom, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Mednarodni grafični likovni center, Pod turnom 3, Ljubljana, Slovenia). MGLC at Grad Tivoli is the official home of the biennale. Side venues may be announced later.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official MGLC news page fetched 24 Nov 2026 (16 Jun 2026 announcement): José Roca appointed curator of 'the 37th Ljubljana Biennale of Graphic Arts (4 June–17 October 2027)'. MGLC (Mednarodni grafični likovni center), Pod turnom 3 / Grad Tivoli, is the official organising venue.",
+   "id": "ljubljana-biennale-of-graphic-arts-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-boston-calling-2027",
    "slug": "boston-calling-2027",
    "name": "Boston Calling 2027",
@@ -87188,6 +88593,97 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates and venue from the official site, fetched 23 Nov 2026.",
    "id": "digital-economy-conference-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-borstnikovo-srecanje-2027",
+   "slug": "borstnikovo-srecanje-2027",
+   "name": "Borštnikovo srečanje 2027",
+   "website_url": "https://borstnikovo.si/",
+   "start_date": "2027-06-07",
+   "end_date": "2027-06-20",
+   "city": "Maribor",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Maribor (festival venues including theatres of Narodni dom Maribor / SNG Maribor)",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Narodni dom Maribor",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://borstnikovo.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.5575822,
+   "lng": 15.6494903,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "theatre",
+    "performing arts",
+    "drama festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/borstnikovo-srecanje-2027-1.jpg",
+     "thumb": "img/events/borstnikovo-srecanje-2027-1-t.jpg",
+     "orig": "https://www.datocms-assets.com/121363/1762765736-0i6a7086.jpg?ar64=MTY6OQ&auto=compress&crop=focalpoint&fit=crop&w=1280",
+     "page": "https://borstnikovo.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/borstnikovo-srecanje-2027-2.jpg",
+     "thumb": "img/events/borstnikovo-srecanje-2027-2-t.jpg",
+     "orig": "https://www.datocms-assets.com/121363/1790665724-drei_schwestern2_1200_joerg_brueggemann.jpg?ar64=MTY6OQ&auto=compress&crop=focalpoint&fit=crop&w=768",
+     "page": "https://borstnikovo.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/borstnikovo-srecanje-2027-3.jpg",
+     "thumb": "img/events/borstnikovo-srecanje-2027-3-t.jpg",
+     "orig": "https://www.datocms-assets.com/121363/1782114363-138a7812.jpg?auto=compress&crop=focalpoint&fit=crop&w=1400",
+     "page": "https://borstnikovo.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://borstnikovo.si/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://borstnikovo.si/en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 18,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Narodni Dom, 9, Ulica kneza Koclja, Lent, Center, Maribor, 2000, Slovenia (query: Narodni dom, Maribor, Slovenia). The festival is staged across official theatre venues in Maribor. The pin is Narodni dom Maribor, the organising house, Ulica kneza Koclja 9.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official borstnikovo.si homepage fetched 24 Nov 2026: '62. Festival Borštnikovo srečanje 7.-20. junij 2027'. A related official call for Borštnik Ring nominations for 2027 is published on the same site. Organiser Narodni dom Maribor.",
+   "id": "borstnikovo-srecanje-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -94687,6 +96183,100 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-shake-the-change-2027",
+   "slug": "shake-the-change-2027",
+   "name": "Shake the Change 2027",
+   "website_url": "https://shakethechange.si/",
+   "start_date": "2027-06-18",
+   "end_date": "2027-06-20",
+   "city": "Radovljica",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Radovljica Manor (Radovljiška graščina)",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Shake the Change",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://shakethechange.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.3406612,
+   "lng": 14.1758644,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "swing",
+    "jazz dance",
+    "lindy hop",
+    "live music"
+   ],
+   "photos": [
+    {
+     "src": "img/events/shake-the-change-2027-1.jpg",
+     "thumb": "img/events/shake-the-change-2027-1-t.jpg",
+     "orig": "https://shakethechange.si/wp-content/uploads/2025/11/AATH-18.jpg",
+     "page": "https://shakethechange.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/shake-the-change-2027-2.jpg",
+     "thumb": "img/events/shake-the-change-2027-2-t.jpg",
+     "orig": "https://shakethechange.si/wp-content/uploads/2022/11/Reverent6-1024x684.jpeg",
+     "page": "https://shakethechange.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/shake-the-change-2027-3.jpg",
+     "thumb": "img/events/shake-the-change-2027-3-t.jpg",
+     "orig": "https://shakethechange.si/wp-content/uploads/2026/06/PQ50805.jpg",
+     "page": "https://shakethechange.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/shake-the-change-2027-4.jpg",
+     "thumb": "img/events/shake-the-change-2027-4-t.jpg",
+     "orig": "https://shakethechange.si/wp-content/uploads/2022/11/Spela_in_Janez-1024x684.jpeg",
+     "page": "https://shakethechange.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://shakethechange.si/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 19,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Radovljica Manor, 1, Linhartov trg, Radovljica, 4240, Slovenia (query: Radovljiška graščina, Radovljica, Slovenia).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official shakethechange.si homepage fetched 24 Nov 2026: 'Radovljica Swing Festival 18. – 20. June 2027' and 'The 6th edition of Shake the Change is coming! From 18th to 20th June 2027, Radovljica will once again come alive with the rhythms of jazz dance.' Official venue: Radovljica Manor.",
+   "id": "shake-the-change-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-sibiu-theatre-festival-2027",
    "slug": "sibiu-theatre-festival-2027",
    "name": "Sibiu International Theatre Festival 2027 (FITS)",
@@ -97760,6 +99350,118 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-festival-lent-2027",
+   "slug": "festival-lent-2027",
+   "name": "Festival Lent 2027",
+   "website_url": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+   "start_date": "2027-06-25",
+   "end_date": "2027-07-03",
+   "city": "Maribor",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Lent and venues across Maribor (21 official venues on the current festival site)",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Narodni dom Maribor",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.556562,
+   "lng": 15.6442522,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "open-air festival",
+    "music",
+    "theatre",
+    "folkart",
+    "performing arts"
+   ],
+   "photos": [
+    {
+     "src": "img/events/festival-lent-2027-1.jpg",
+     "thumb": "img/events/festival-lent-2027-1-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2024/03/2023_06_29_Pise-se-leto-Leopold-I-Tekochee-Kru-Alyona-Alyona_Festival-Lent-2023_foto-pigac_si-221-scaled.webp",
+     "page": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-lent-2027-2.jpg",
+     "thumb": "img/events/festival-lent-2027-2-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2026/01/2025_06_21_Festival-Lent_Promenada-Lent_foto-Zan-Osim-6.jpg",
+     "page": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-lent-2027-3.jpg",
+     "thumb": "img/events/festival-lent-2027-3-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2024/04/2024_06_27_Fatoumata-Diawara_foto-Blaz-Crnic-43-scaled.jpg",
+     "page": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-lent-2027-4.jpg",
+     "thumb": "img/events/festival-lent-2027-4-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2024/12/2024_06_25_36.-Folkart-Velika-povorka_Promenada-na-Lentu_foto-B.-Kolaric_pigac_si-57-scaled.jpg",
+     "page": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-lent-2027-5.jpg",
+     "thumb": "img/events/festival-lent-2027-5-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2026/07/2026_06_30_Festival-Lent_Bugiganga_foto-Zan-Osim_04-scaled.jpg",
+     "page": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://nd-mb.si/en/festival-lent/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/statistika/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 1,
+   "ranking_basis": "estimate",
+   "size_estimate": "very large",
+   "lineup_url": null,
+   "attendance_note": "No expected-attendance figure for the 2027 edition was published on the official pages fetched 24 Nov 2026. Official Narodni dom Maribor statistics for the current 9-day format list 139,400 visitors in 2025, 149,800 in 2024 and 129,600 in 2023; those previous-edition recaps were not stored as 2027 expected attendance. Ranked by our estimated size tier 'very large' (100,000+ attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": "https://nd-mb.si/en/festival-lent/o-festivalu-lent/statistika/",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Lent, Magdalena, Maribor, 2000, Slovenia (query: Lent, Maribor, Slovenia). Official copy places the festival on the Drava riverbanks and across Maribor. The pin is the Lent riverfront district. Folkart, a festival-within-the-festival, is officially 29 Jun–3 Jul 2027 and is not a separate record.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Narodni dom Maribor Lent about page fetched 24 Nov 2026 lists 'Festival Lent 25. 6.–3. 7. 2027' and 'Folkart 29. 6.–3. 7. 2027'. Official statistics table (same organiser) documents visitor counts for past 9-day editions but does not state a 2027 expected figure.",
+   "id": "festival-lent-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-firenze-rocks-2027",
    "slug": "firenze-rocks-2027",
    "name": "Firenze Rocks 2027",
@@ -99704,6 +101406,75 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-ljubljana-jazz-festival-2027",
+   "slug": "ljubljana-jazz-festival-2027",
+   "name": "Ljubljana Jazz Festival 2027",
+   "website_url": "https://ljubljanajazz.si/en/",
+   "start_date": "2027-06-30",
+   "end_date": "2027-07-03",
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Ljubljana (2027 venues to be detailed on the official programme)",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Ljubljana Jazz Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://ljubljanajazz.si/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.0500268,
+   "lng": 14.5069289,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "jazz",
+    "jazz festival",
+    "contemporary jazz"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://ljubljanajazz.si/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ljubljanajazz.si/en/final-festival-day/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 20,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Ljubljana, Slovenia). Official 2027 announcement names the city but not yet the 2027 concert buildings, so the pin is city-level.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official ljubljanajazz.si/en homepage fetched 24 Nov 2026: '68. Jazz festival Ljubljana 30 June – 3 July 2027'. The official wrap-up of the 67th edition (5 Jul 2026) repeats 'looking forward to welcoming you back next year from 30 June to 3 July 2027'.",
+   "id": "ljubljana-jazz-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-nibe-festival-2027",
    "slug": "nibe-festival-2027",
    "name": "Nibe Festival 2027",
@@ -99961,6 +101732,75 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official Spanish homepage (fetched 24 Nov 2026): “Resurrection Fest EG 2027. 30 JUNIO - 3 DE JULIO DE 2027.” English homepage: “We’ll see you in Viveiro from June 30 to July 3, 2027.”",
    "id": "resurrection-fest-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-sajeta-2027",
+   "slug": "sajeta-2027",
+   "name": "Sajeta 2027",
+   "website_url": "https://www.sajeta.org/en/",
+   "start_date": "2027-06-30",
+   "end_date": "2027-07-03",
+   "city": "Breginj",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Karavla, Breginj",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Sajeta Art & Music Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.sajeta.org/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.245046,
+   "lng": 13.4123074,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "art and music festival",
+    "contemporary music",
+    "experimental music"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.sajeta.org/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.sajeta.org/sl/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 21,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Karavla, Most na Nadiži, 158, Breginj, Kobarid, 5223, Slovenia (query: Karavla, Breginj, Slovenia). Official 27th edition is at Karavla, Breginj (not the former Tolmin site). If the named building is missing from OSM, a Breginj village pin is used and marked approximate.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official sajeta.org/en homepage fetched 24 Nov 2026: 'Sajeta Music Festival – 27th Edition - Save the date: 30.6 – 3.7.2027 // Karavla, Breginj, Slovenia'. The Slovenian homepage repeats '27. mednarodni glasbeni festival Sajeta - Karavla, Breginj, Slovenija // 30.6 – 3.7.2027'. A footer still showing '16. - 18. 7. 2026 - KARAVLA / BREGINJ' was treated as leftover 2026 copy.",
+   "id": "sajeta-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -108339,6 +110179,102 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-butik-festival-2027",
+   "slug": "butik-festival-2027",
+   "name": "Butik Festival 2027",
+   "website_url": "https://butikfestival.com/",
+   "start_date": "2027-07-15",
+   "end_date": "2027-07-18",
+   "city": "Tolmin",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Festival site, Dijaška 18, 5220 Tolmin",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Butik Electronic Music Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official 2027 tickets were allocated by raffle (a further 10% application window is open until 11 Dec 2026, 23:59 CET); no public walk-up price was published on the pages fetched 24 Nov 2026.",
+   "ticket_url": "https://butikfestival.com/ticket-raffle",
+   "price_source_url": "https://butikfestival.com/ticket-raffle",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://butikfestival.com/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.1749048,
+   "lng": 13.7373772,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic music",
+    "dance music",
+    "festival camping"
+   ],
+   "photos": [
+    {
+     "src": "img/events/butik-festival-2027-1.jpg",
+     "thumb": "img/events/butik-festival-2027-1-t.jpg",
+     "orig": "https://butikfestival.com//static/img-tickets-44a95077d5a8f62f7e7055b58083e416.webp",
+     "page": "https://butikfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/butik-festival-2027-2.jpg",
+     "thumb": "img/events/butik-festival-2027-2-t.jpg",
+     "orig": "https://butikfestival.com/static/img-instagram-abdc82bc929e60254aaef0b0e46c203b.webp",
+     "page": "https://butikfestival.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/butik-festival-2027-3.jpg",
+     "thumb": "img/events/butik-festival-2027-3-t.jpg",
+     "orig": "https://butikfestival.com/static/img-facebook-da38f53d42fe13f4558eed280fe3db05.webp",
+     "page": "https://butikfestival.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://butikfestival.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://butikfestival.com/festival-a-z/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://butikfestival.com/ticket-raffle",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 22,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: 18, Dijaška ulica, Tolmin, 5220, Slovenia (query: Dijaška ulica 18, Tolmin, Slovenia). Official Festival A–Z names the site address Dijaška 18, 5220 Tolmin.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Butik Festival A–Z page fetched 24 Nov 2026: festival site address Dijaška 18, 5220 Tolmin; 'camping is open from Wednesday 14.07.2027'; 'Camping from Thursday till Sunday is included in every festival ticket'; early arrival 'from Wednesday, July 14, 2027'. Festival dates are therefore recorded as Thursday 15–Sunday 18 July 2027; Wednesday 14 July is official early arrival, not an extra festival day. A camping close line still reading 'Monday, 19.07.2026' was treated as a typo leftover. The official raffle page confirms a 2027 edition. The homepage itself did not display a date headline in the fetched HTML.",
+   "id": "butik-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-castle-party-2027",
    "slug": "castle-party-2027",
    "name": "Castle Party Festival 2027",
@@ -111416,6 +113352,80 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-castle-festival-2027",
+   "slug": "castle-festival-2027",
+   "name": "Castle Festival 2027",
+   "website_url": "https://castlefestival.si/",
+   "start_date": "2027-07-22",
+   "end_date": "2027-07-25",
+   "city": "Fara",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Festival site at Fara, Kostel",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Castle Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://castlefestival.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 45.4771436,
+   "lng": 14.8829867,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "electronic music",
+    "open-air festival",
+    "castle festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://castlefestival.si/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://castlefestival.si/informacije/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://castlefestival.si/faq/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 23,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Fara, Kostel, 1336, Slovenia (query: Fara, Kostel, Slovenia). Official pages locate the festival at Fara, Kostel, without a street address in the fetched HTML. The pin is the village of Fara (approximate / area). Early arrival is officially Wednesday 21 July; the main entrance is open Wednesday to Saturday 22–25 July, with Wednesday entry only as paid early arrival.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official castlefestival.si homepage and info pages fetched 24 Nov 2026 repeatedly headline '21. & 22. - 25. julij 2027 · FARA, KOSTEL (SLO)'. The information page says the main festival entrance is open Wednesday to Saturday (22–25 July), with Wednesday entry only via the paid early-arrival option, and that camp opens Thursday 22 July at 10:00 (early arrival from Wednesday 21 July at 10:00). Festival dates are recorded as 22–25 July 2027. A FAQ line still mentioning '23.-26. julij' for a day ticket was treated as leftover copy and not used.",
+   "id": "castle-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-san-diego-comic-con-2027",
    "slug": "san-diego-comic-con-2027",
    "name": "Comic-Con International: San Diego 2027",
@@ -113562,6 +115572,80 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-tolminator-2027",
+   "slug": "tolminator-2027",
+   "name": "Tolminator 2027",
+   "website_url": "https://tolminator.com/en/",
+   "start_date": "2027-07-28",
+   "end_date": "2027-08-01",
+   "city": "Tolmin",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Tolmin festival site",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "TOLMINATOR d.o.o.",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official 2027 early-bird festival ticket listed at 210 € on the homepage fetched 24 Nov 2026 (plus optional upgrades).",
+   "ticket_url": "https://tolminator.com/en/",
+   "price_source_url": "https://tolminator.com/en/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://tolminator.com/en/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.1437264,
+   "lng": 13.789284,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "metal",
+    "heavy metal",
+    "open-air metal festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://tolminator.com/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://tolminator.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://tolminator.com/sl/lineup/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 24,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Tolmin, Slovenia (query: Tolmin, Slovenia). Official 2027 pages name Tolmin but not a street address in the fetched HTML, so the pin is town-level (approximate). The festival shares the well-known Sotočje / Dijaška festival grounds used by neighbouring Tolmin festivals, but that address was not printed on the official 2027 pages fetched here.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official tolminator.com and English homepage fetched 24 Nov 2026 headline '28 July - 1 August 2027, Tolmin, Slovenia' (Slovenian pages: 'Tolmin, Slovenija'). Organiser listed as TOLMINATOR d.o.o., Kapiteljska 9, Ljubljana.",
+   "id": "tolminator-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -119132,6 +121216,70 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates and venue from the official site (https://www.ilesoniq.com/en), fetched 23 Nov 2026.",
    "id": "ilesoniq-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-punk-rock-holiday-2027",
+   "slug": "punk-rock-holiday-2027",
+   "name": "Punk Rock Holiday 2027",
+   "website_url": "https://www.punkrockholiday.com/",
+   "start_date": "2027-08-10",
+   "end_date": "2027-08-13",
+   "city": "Tolmin",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Festival and camping area, Tolmin (Dijaška / Sotočje grounds)",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Punk Rock Holiday",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.punkrockholiday.com/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.1799129,
+   "lng": 13.7336932,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "punk",
+    "punk rock",
+    "open-air festival"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.punkrockholiday.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 25,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Dijaška ulica, Tolmin, 5220, Slovenia (query: Dijaška ulica, Tolmin, Slovenia). Official ABC text refers to the Tolmin festival area and a box office on Dijaška street. The pin is Dijaška ulica in Tolmin. Early arrival is officially 7–9 Aug 2027; festival camping without the early-arrival fee starts Tuesday 10 Aug.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official punkrockholiday.com (Punk Rock Holiday 2.6) fetched 24 Nov 2026 lists box offices and festival operations through Friday 13.8.2027, with Tuesday 10.8.2027 as the first day not marked Early Arrival and the day from which camping is free with a valid festival ticket. Early arrival is Saturday 7.8–Monday 9.8.2027 (Monday warmup show included in the early-arrival fee). Festival dates are recorded as 10–13 Aug 2027. A leftover line 'Camping is included in the festival ticket price from August 11 to August 15' was not used.",
+   "id": "punk-rock-holiday-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -129561,6 +131709,104 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-infosek-2027",
+   "slug": "infosek-2027",
+   "name": "INFOSEK 2027",
+   "website_url": "https://www.infosek.net/about-conference",
+   "start_date": "2027-09-08",
+   "end_date": "2027-09-10",
+   "city": "Nova Gorica",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Hotel Perla, Nova Gorica",
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "Palsit d.o.o.",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official early price (until 30 Nov 2026, 23:59:59, excl. 22% VAT): 330 € for one conference day (regular 600 €) or 460 € for two conference days (regular 800 €).",
+   "ticket_url": "https://www.infosek.net/about-conference",
+   "price_source_url": "https://www.infosek.net/about-conference",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.infosek.net/about-conference",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 45.958551,
+   "lng": 13.649827,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "cybersecurity",
+    "information security",
+    "IT security"
+   ],
+   "photos": [
+    {
+     "src": "img/events/infosek-2027-1.jpg",
+     "thumb": "img/events/infosek-2027-1-t.jpg",
+     "orig": "https://www.infosek.net/template_2026/images/gallery/1.jpg",
+     "page": "https://www.infosek.net/about-conference",
+     "credit": ""
+    },
+    {
+     "src": "img/events/infosek-2027-2.jpg",
+     "thumb": "img/events/infosek-2027-2-t.jpg",
+     "orig": "https://www.infosek.net/template_2026/images/gallery/2.jpg",
+     "page": "https://www.infosek.net/about-conference",
+     "credit": ""
+    },
+    {
+     "src": "img/events/infosek-2027-3.jpg",
+     "thumb": "img/events/infosek-2027-3-t.jpg",
+     "orig": "https://www.infosek.net/template_2026/images/gallery/3.jpg",
+     "page": "https://www.infosek.net/about-conference",
+     "credit": ""
+    },
+    {
+     "src": "img/events/infosek-2027-4.jpg",
+     "thumb": "img/events/infosek-2027-4-t.jpg",
+     "orig": "https://www.infosek.net/template_2026/images/gallery/4.jpg",
+     "page": "https://www.infosek.net/about-conference",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.infosek.net/about-conference",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://palsit.com/izobrazevanje/konference/infosek-expo/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 26,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure for the 2027 edition was published on the official pages fetched 24 Nov 2026. A standing highlight of '800 udeležencev / 150 predavateljev / 50 sponzorjev' on the 2027 site was not stored as 2027 expected attendance. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Perla, Kidričeva ulica, Ošljek, Pri Kapitanu, Nova Gorica, 5000, Slovenia (query: Hotel Perla, Nova Gorica, Slovenia).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official infosek.net about-conference page fetched 24 Nov 2026 titles the event 'INFOSEK 2027' and headlines '8. - 10. 9. 2027 Nova Gorica, Hotel Perla'. Palsit's conferences calendar repeats 'INFOSEK 2027 08.09.2027, Nova Gorica, Hotel Perla'. Some body copy still refers to 'INFOSEK 2026' (programme teaser and charity appeal) and was not used for dates.",
+   "id": "infosek-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-igcf-2027",
    "slug": "igcf-2027",
    "name": "International Government Communication Forum 2027",
@@ -136101,6 +138347,104 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official Linux Foundation page (fetched 24 Nov 2026): “29-30 September 2027 Amsterdam, The Netherlands.” Existing dates confirmed; a hall was not named.",
    "id": "lf-energy-summit-europe-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-speculum-artium-2027",
+   "slug": "speculum-artium-2027",
+   "name": "Speculum Artium 2027",
+   "website_url": "https://speculumartium.si/wp21/?lang=en",
+   "start_date": "2027-09-29",
+   "end_date": "2027-10-02",
+   "city": "Trbovlje",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Delavski dom Trbovlje",
+   "industry": "Arts",
+   "format": "In-person",
+   "organizer": "Delavski dom Trbovlje",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://speculumartium.si/wp21/?lang=en",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": "Dates are local civil dates in Slovenia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 46.1502436,
+   "lng": 15.0441407,
+   "precise": true,
+   "category": "arts",
+   "topics": [
+    "new media",
+    "media art",
+    "contemporary art"
+   ],
+   "photos": [
+    {
+     "src": "img/events/speculum-artium-2027-1.jpg",
+     "thumb": "img/events/speculum-artium-2027-1-t.jpg",
+     "orig": "https://speculumartium.si/wp21/wp-content/uploads/2026/08/IMG_2779-Edit-2_resize-640x360.webp",
+     "page": "https://speculumartium.si/wp21/?lang=en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/speculum-artium-2027-2.jpg",
+     "thumb": "img/events/speculum-artium-2027-2-t.jpg",
+     "orig": "https://speculumartium.si/wp21/wp-content/uploads/2026/08/Nokturno_SimonSerc_MartinaTesten_podolgovata_resize-640x360.webp",
+     "page": "https://speculumartium.si/wp21/?lang=en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/speculum-artium-2027-3.jpg",
+     "thumb": "img/events/speculum-artium-2027-3-t.jpg",
+     "orig": "https://speculumartium.si/wp21/wp-content/uploads/2026/08/7-Filip-Borelli-Musica-Subsonica-0.1-2026_resize-640x360.webp",
+     "page": "https://speculumartium.si/wp21/?lang=en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/speculum-artium-2027-4.jpg",
+     "thumb": "img/events/speculum-artium-2027-4-t.jpg",
+     "orig": "https://speculumartium.si/wp21/wp-content/uploads/2026/08/lhq-03-IMG_0430-MOD_resize-640x360.webp",
+     "page": "https://speculumartium.si/wp21/?lang=en",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://speculumartium.si/wp21/?lang=en",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://speculumartium.si/wp21/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 27,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Delavski dom, 11A, Trg svobode, Globušak, Trbovlje, 1420, Slovenia (query: Delavski dom Trbovlje, Trbovlje, Slovenia).",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Speculum Artium English and Slovenian homepages fetched 24 Nov 2026: 'Festival starts on 29th of September 2027' and 'from 29th of September to 2nd of October', hosted in Trbovlje; Slovenian copy '29. september – 2. oktober 2027' and 'v … Trbovlje v Sloveniji od 29. septembra – 2. oktobra 2027'. Header still showing '16. – 19. september 2026' is leftover from the previous edition and was not used.",
+   "id": "speculum-artium-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -163969,6 +166313,91 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-festival-maribor-2027",
+   "slug": "festival-maribor-2027",
+   "name": "Festival Maribor 2027",
+   "website_url": "https://festivalmaribor.si/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Maribor",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Maribor",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Narodni dom Maribor",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://festivalmaribor.si/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": null,
+   "lat": 46.5576439,
+   "lng": 15.6455854,
+   "precise": false,
+   "category": "music",
+   "topics": [
+    "classical music",
+    "concert festival"
+   ],
+   "photos": [
+    {
+     "src": "img/events/festival-maribor-2027-1.jpg",
+     "thumb": "img/events/festival-maribor-2027-1-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2026/09/2026_09_27_Festival-Maribor_Romanticni-derbi_foto-Zan-Osim_048.jpg",
+     "page": "https://festivalmaribor.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-maribor-2027-2.jpg",
+     "thumb": "img/events/festival-maribor-2027-2-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2026/06/Mate-Bekavac-MB-banda-foto-Zan-Osim-1-1080x675.jpg",
+     "page": "https://festivalmaribor.si/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/festival-maribor-2027-3.jpg",
+     "thumb": "img/events/festival-maribor-2027-3-t.jpg",
+     "orig": "https://nd-mb.si/wp-content/uploads/2026/09/2025_09_12_Festival-Maribor_02-MM-okus-zgodnjega-in-zrelega_foto-Zan-Osim_51.jpg",
+     "page": "https://festivalmaribor.si/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://festivalmaribor.si/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "rank": 28,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Maribor, 2000, Slovenia (query: Maribor, Slovenia). The 2027 edition is officially announced but no 2027 venues or calendar days were published on the pages fetched, so the pin is city-level.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official festivalmaribor.si homepage fetched 24 Nov 2026, in a 29 Sep 2026 wrap-up of the 2026 edition, announces the upcoming Festival Maribor 2027 under the motto 'V GENIALNI DRUŽBI' / 'IN GENIUS COMPANY'. No official 2027 start or end dates were published. Status is dates TBA.",
+   "id": "festival-maribor-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-festival-nacional-del-manito-2027",
    "slug": "festival-nacional-del-manito-2027",
    "name": "Festival Nacional del Manito 2027 (Ocú)",
@@ -172151,6 +174580,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official homepage (fetched 24 Nov 2026) is still titled around “Le Printemps de Bourges Crédit Mutuel 2026” with a 21–25 April programme and no 2027 start/end days. Dates left blank.",
    "id": "printemps-de-bourges-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-ljubljana-pride-2027",
+   "slug": "ljubljana-pride-2027",
+   "name": "Ljubljana Pride Festival 2027",
+   "website_url": "https://ljubljanapride.org/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "region": "europe",
+   "venue": "Ljubljana",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Društvo Parada Ponosa",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://ljubljanapride.org/",
+   "last_scraped_at": "2026-11-24T04:00:00+01:00",
+   "notes": null,
+   "lat": 46.0500268,
+   "lng": 14.5069289,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "pride festival",
+    "LGBTQ+",
+    "parade",
+    "human rights"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://ljubljanapride.org/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ljubljanapride.org/en/programmes/ljubljana-pride-festival/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "rank": 29,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia (query: Ljubljana, Slovenia). No official 2027 venue or route has been published yet, so the pin is city-level.",
+   "source_accessed_at": "2026-11-24T04:00:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official ljubljanapride.org homepage fetched 24 Nov 2026 refers to the upcoming 'Festivala Parada ponosa 2027' / Pride Festival 2027 being organised, but no official 2027 calendar days or parade date were published. Third-party listings of mid-June 2027 were not used. Status is dates TBA.",
+   "id": "ljubljana-pride-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -185522,14 +188021,14 @@ window.ATLASDATA={
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 947,
-  "festival": 1432,
-  "dated": 1910,
-  "dates_tba": 466,
+  "conference": 954,
+  "festival": 1454,
+  "dated": 1937,
+  "dates_tba": 468,
   "postponed": 3,
   "duplicates_merged": 229,
   "regions": {
-   "europe": 980,
+   "europe": 1009,
    "middle_east": 133,
    "asia": 426,
    "africa": 135,
@@ -185538,7 +188037,7 @@ window.ATLASDATA={
    "north_america": 271,
    "oceania": 137
   },
-  "europe": 980,
+  "europe": 1009,
   "middle_east": 133,
   "asia": 426,
   "africa": 135,
