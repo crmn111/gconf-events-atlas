@@ -1321,6 +1321,10 @@ function applyParsedFilters(parsed){
     }
   }
   if(parsed.explicitPlace){
+    if(!parsed.explicitKind){
+      st.kind = 'conference';
+      st.cats = Object.fromEntries(catKeys('conference').map(c => [c, true]));
+    }
     st.country = parsed.country || null;
     st.cities.clear();
     if(parsed.city && st.country){
