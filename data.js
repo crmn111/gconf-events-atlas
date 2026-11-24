@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T15:22:13Z",
+ "generated": "2026-11-24T16:15:18Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -116458,7 +116458,7 @@ window.ATLASDATA={
    "event_id": "GCE-auto-shanghai-2027",
    "slug": "auto-shanghai-2027",
    "name": "Auto Shanghai 2027",
-   "website_url": "http://www.autoshanghai.org",
+   "website_url": "https://www.autoshanghai.net/",
    "start_date": "2027-04-23",
    "end_date": "2027-05-02",
    "city": "Shanghai",
@@ -116478,7 +116478,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "http://www.autoshanghai.org",
+   "source_url": "https://www.autoshanghai.net/",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (China Standard Time, UTC+8).",
    "lat": 31.1920509,
@@ -116494,6 +116494,11 @@ window.ATLASDATA={
    "photos": [],
    "sources": [
     {
+     "label": "Official",
+     "url": "https://www.autoshanghai.net/",
+     "field": "official"
+    },
+    {
      "label": "Official organising-committee announcement, 9 September 2026",
      "url": "https://www.autoshanghai.net/news-center/20260909/31.html",
      "field": "official"
@@ -116501,7 +116506,7 @@ window.ATLASDATA={
     {
      "label": "Official website named in that announcement",
      "url": "http://www.autoshanghai.org",
-     "field": "official"
+     "field": "Previous listing (autoshanghai.org 403/500)"
     }
    ],
    "status": "upcoming",
@@ -147060,7 +147065,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AnimeNorthCompass",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/animenorthcompass",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@animenorthcompass",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@animenorthcompass",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/animenorthcompass.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/KUsjqTjJsu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animenorth.com/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bottlerock-napa-valley-2027",
@@ -153683,7 +153732,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/WRC_RallyJapan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rally-japan.jp/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ljubljana-biennale-of-graphic-arts-2027",
@@ -217616,8 +217674,8 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
-   "event_id": "GCE-icann-2027",
-   "slug": "icann-2027",
+   "event_id": "GCE-icann-neural-networks-2027",
+   "slug": "icann-neural-networks-2027",
    "name": "ICANN 2027 – 36th International Conference on Artificial Neural Networks",
    "website_url": "https://e-nns.org/icann2027/",
    "start_date": "2027-08-24",
@@ -217671,7 +217729,7 @@ window.ATLASDATA={
    "source_accessed_at": "2026-11-24T04:00:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-24",
-   "id": "icann-2027",
+   "id": "icann-neural-networks-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
@@ -219768,7 +219826,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lostvillagefestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lostvillagefestival.com/links/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-meo-kalorama-2027",
@@ -269955,8 +270022,8 @@ window.ATLASDATA={
    ]
   },
   {
-   "event_id": "GCE-rock-en-seine-2027",
-   "slug": "rock-en-seine-2027",
+   "event_id": "GCE-rock-en-seine-2028",
+   "slug": "rock-en-seine-2028",
    "name": "Rock en Seine 2028",
    "website_url": "https://www.rockenseine.com/",
    "start_date": "2028-08-23",
@@ -269980,7 +270047,7 @@ window.ATLASDATA={
    "year": 2028,
    "source_url": "https://www.rockenseine.com/",
    "last_scraped_at": "2026-11-24T02:30:00+01:00",
-   "notes": "Official homepage announces a pause in 2027 because of works around the Domaine National de Saint-Cloud, and gives the next edition as 23–27 August 2028. The published slug rock-en-seine-2027 is reused so the records merge; the name, year and dates follow the official 2028 edition and were not renamed. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
+   "notes": "Official homepage announces a pause in 2027 because of works around the Domaine National de Saint-Cloud, and gives the next edition as 23–27 August 2028. The atlas slug was renamed from rock-en-seine-2027 to rock-en-seine-2028 to match the official edition; the previous URL is kept as a noindex redirect stub. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 48.8334914,
    "lng": 2.184968,
    "precise": true,
@@ -269992,8 +270059,8 @@ window.ATLASDATA={
    ],
    "photos": [
     {
-     "src": "img/events/rock-en-seine-2027-1.jpg",
-     "thumb": "img/events/rock-en-seine-2027-1-t.jpg",
+     "src": "img/events/rock-en-seine-2028-1.jpg",
+     "thumb": "img/events/rock-en-seine-2028-1-t.jpg",
      "orig": "https://www.rockenseine.com/wp-content/uploads/2025/10/RES25_JOUR03_ANYMA_LOUIS-COMAR-21.jpg",
      "page": "https://www.rockenseine.com/",
      "credit": "",
@@ -270020,7 +270087,7 @@ window.ATLASDATA={
    "source_accessed_at": "2026-11-24T16:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-24",
-   "id": "rock-en-seine-2027",
+   "id": "rock-en-seine-2028",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
@@ -271808,7 +271875,7 @@ window.ATLASDATA={
    "event_id": "GCE-metro-manila-film-festival-2026",
    "slug": "metro-manila-film-festival-2026",
    "name": "52nd Metro Manila Film Festival (MMFF 2026)",
-   "website_url": "https://mmff.com.ph/",
+   "website_url": "",
    "start_date": null,
    "end_date": null,
    "city": "Metro Manila",
@@ -271828,9 +271895,9 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://mmff.com.ph/",
+   "source_url": "",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
-   "notes": "Eight official entries announced; national press reports screenings 25 Dec 2026 - 7 Jan 2027 in cinemas nationwide. Official site mmff.com.ph did not load, so dates TBA.",
+   "notes": "Eight official entries announced; national press reports screenings 25 Dec 2026 - 7 Jan 2027 in cinemas nationwide. The official domain mmff.com.ph was confirmed hijacked on 24 Nov 2026 (apex redirected to a ww547.mmff.com.ph spam token URL; www served only a Joken loader), so the website link was removed. Dates TBA.",
    "lat": 14.5736108,
    "lng": 121.0329706,
    "precise": false,
@@ -271842,13 +271909,7 @@ window.ATLASDATA={
     "awards"
    ],
    "photos": [],
-   "sources": [
-    {
-     "label": "Official",
-     "url": "https://mmff.com.ph/",
-     "field": "official"
-    }
-   ],
+   "sources": [],
    "status": "dates TBA",
    "kind": "festival",
    "rank": 4,
@@ -283205,7 +283266,7 @@ window.ATLASDATA={
    "event_id": "GCE-cinemalaya-2027",
    "slug": "cinemalaya-2027",
    "name": "Cinemalaya Philippine Independent Film Festival 2027",
-   "website_url": "https://cinemalaya.org/",
+   "website_url": "https://www.cinemalaya.org/",
    "start_date": null,
    "end_date": null,
    "city": "Pasay",
@@ -283225,7 +283286,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://cinemalaya.org/",
+   "source_url": "https://www.cinemalaya.org/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": null,
    "lat": 14.5585666,
@@ -283241,8 +283302,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://cinemalaya.org/",
+     "url": "https://www.cinemalaya.org/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://cinemalaya.org/",
+     "field": "Previous listing"
     }
    ],
    "status": "dates TBA",
@@ -283845,7 +283911,7 @@ window.ATLASDATA={
    "event_id": "GCE-copenhagen-photo-festival-2027",
    "slug": "copenhagen-photo-festival-2027",
    "name": "Copenhagen Photo Festival 2027",
-   "website_url": "https://copenhagenphotofestival.com/festival-2027/",
+   "website_url": "https://copenhagenphotofestival.com/",
    "start_date": null,
    "end_date": null,
    "city": "Copenhagen",
@@ -283865,7 +283931,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://copenhagenphotofestival.com/festival-2027/",
+   "source_url": "https://copenhagenphotofestival.com/",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": null,
    "lat": 55.6867243,
@@ -283930,13 +283996,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://copenhagenphotofestival.com/festival-2027/",
+     "url": "https://copenhagenphotofestival.com/",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://copenhagenphotofestival.com/",
-     "field": "official"
+     "label": "Previous listing",
+     "url": "https://copenhagenphotofestival.com/festival-2027/",
+     "field": "Previous listing"
     }
    ],
    "status": "dates TBA",
@@ -283957,7 +284023,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CopenhagenPhotoFestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://copenhagenphotofestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/copenhagenphotofestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://copenhagenphotofestival.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-corona-capital-2027",
@@ -285927,7 +286009,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Doha-Book-Fair-2588493787850310",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dohabookfair.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DIbookfair",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dohabookfair.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/DIBookFair",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dohabookfair.qa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCC3lLx8ozl5oYN7w47kgInw",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dohabookfair.qa/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-dublin-international-film-festival-2027",
@@ -288644,7 +288756,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FeriaDelLibroMty",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.feriadellibromonterrey.mx/preguntas-frecuentes/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ferialibromty",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.feriadellibromonterrey.mx/preguntas-frecuentes/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ferialibromty",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.feriadellibromonterrey.mx/preguntas-frecuentes/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@ferialibromty",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.feriadellibromonterrey.mx/preguntas-frecuentes/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fil-arequipa-2027",
@@ -291905,7 +292047,7 @@ window.ATLASDATA={
    "event_id": "GCE-fierte-montreal-2027",
    "slug": "fierte-montreal-2027",
    "name": "Fierté Montréal 2027",
-   "website_url": "https://fiertemtlpride.com/en/",
+   "website_url": "https://fiertemontreal.com/en",
    "start_date": null,
    "end_date": null,
    "city": "Montreal",
@@ -291925,7 +292067,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://fiertemtlpride.com/en/",
+   "source_url": "https://fiertemontreal.com/en",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
    "notes": null,
    "lat": 45.5031824,
@@ -291940,8 +292082,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://fiertemtlpride.com/en/",
+     "url": "https://fiertemontreal.com/en",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (fiertemtlpride.com failed)",
+     "url": "https://fiertemtlpride.com/en/",
+     "field": "Previous listing (fiertemtlpride.com failed)"
     }
    ],
    "status": "dates TBA",
@@ -291956,7 +292103,7 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23/24: Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, Canada (query: Montreal, Canada). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "fierte-montreal-2027",
    "also_categories": [],
    "price_eur_min": null,
@@ -306894,7 +307041,7 @@ window.ATLASDATA={
    "event_id": "GCE-one-dance-festival-2027",
    "slug": "one-dance-festival-2027",
    "name": "One Dance Festival 2027",
-   "website_url": "https://onedance-festival.com/en/2027/info",
+   "website_url": "https://onedance-festival.com/en/",
    "start_date": null,
    "end_date": null,
    "city": "Plovdiv",
@@ -306914,7 +307061,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://onedance-festival.com/en/2027/info",
+   "source_url": "https://onedance-festival.com/en/",
    "last_scraped_at": "2026-11-24T05:50:00+01:00",
    "notes": null,
    "lat": 42.1418541,
@@ -306978,17 +307125,17 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://onedance-festival.com/en/2027/info",
+     "url": "https://onedance-festival.com/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://onedance-festival.com/en/2027/info",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
      "url": "https://onedance-festival.com/en/2027/program",
-     "field": "official"
-    },
-    {
-     "label": "Official",
-     "url": "https://onedance-festival.com/en/",
      "field": "official"
     }
    ],
@@ -307010,7 +307157,31 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/onedance.festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://onedance-festival.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/onedance.fstvl",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://onedance-festival.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ednobg",
+     "operator": "Edno",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://onedance-festival.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-open-book-festival-2027",
@@ -310461,7 +310632,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kw_nccal",
+     "operator": "National Council for Culture, Arts and Letters (NCCAL)",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nccal.gov.kw/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kw_nccal",
+     "operator": "National Council for Culture, Arts and Letters (NCCAL)",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nccal.gov.kw/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCKwYduwCJqaJP6h0276ngLA",
+     "operator": "National Council for Culture, Arts and Letters (NCCAL)",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nccal.gov.kw/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-reach-2027",
@@ -310734,7 +310931,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/risingmelb",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://rising.melbourne/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rising.melbourne",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://rising.melbourne/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/rising-melbourne",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://rising.melbourne/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC8UOejGNF2yv-AKCXHz97hw",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://rising.melbourne/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@rising.melbourne",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://rising.melbourne/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-robotech-expo-2027",
@@ -313028,7 +313262,7 @@ window.ATLASDATA={
    "event_id": "GCE-schubertiade-2027",
    "slug": "schubertiade-2027",
    "name": "Schubertiade 2027",
-   "website_url": "https://www.schubertiade.at/",
+   "website_url": "https://www.schubertiade.at/de/start/index.html",
    "start_date": null,
    "end_date": null,
    "city": "Schwarzenberg",
@@ -313048,7 +313282,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.schubertiade.at/",
+   "source_url": "https://www.schubertiade.at/de/start/index.html",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": null,
    "lat": 47.4137551,
@@ -313073,8 +313307,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.schubertiade.at/",
+     "url": "https://www.schubertiade.at/de/start/index.html",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.schubertiade.at/",
+     "field": "Previous listing"
     }
    ],
    "status": "dates TBA",
@@ -316425,7 +316664,7 @@ window.ATLASDATA={
    "event_id": "GCE-taiwan-international-festival-of-arts-2027",
    "slug": "taiwan-international-festival-of-arts-2027",
    "name": "Taiwan International Festival of Arts (TIFA) 2027",
-   "website_url": "https://www.npac-ntch.org/",
+   "website_url": "https://npac-ntch.org/en",
    "start_date": null,
    "end_date": null,
    "city": "Taipei",
@@ -316445,7 +316684,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.npac-ntch.org/",
+   "source_url": "https://npac-ntch.org/en",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": null,
    "lat": 25.0375198,
@@ -316479,8 +316718,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.npac-ntch.org/",
+     "url": "https://npac-ntch.org/en",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.npac-ntch.org/",
+     "field": "Previous listing"
     }
    ],
    "status": "dates TBA",
@@ -316501,7 +316745,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ntch.tw",
+     "operator": "NPAC / National Theater & Concert Hall",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://npac-ntch.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ntch.taipei",
+     "operator": "NPAC / National Theater & Concert Hall",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://npac-ntch.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ntcharts",
+     "operator": "NPAC / National Theater & Concert Hall",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://npac-ntch.org/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-take-off-istanbul-2027",
@@ -317860,7 +318130,7 @@ window.ATLASDATA={
    "event_id": "GCE-ticoblockchain-2027",
    "slug": "ticoblockchain-2027",
    "name": "TicoBlockchain 2027 (Blockchain & Fintech Day, 7th edition)",
-   "website_url": "https://asoblockchain.org/en/news/impulsando-el-desarrollo-web3-en-costa-rica-el-exito-de-las-stellar-sessions-y-pura-vida-ideathon-rumbo-al-blockchain-fintech-day-2027/",
+   "website_url": "https://www.ticoblockchain.cr/",
    "start_date": null,
    "end_date": null,
    "city": "San José",
@@ -317880,7 +318150,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://asoblockchain.org/en/news/impulsando-el-desarrollo-web3-en-costa-rica-el-exito-de-las-stellar-sessions-y-pura-vida-ideathon-rumbo-al-blockchain-fintech-day-2027/",
+   "source_url": "https://www.ticoblockchain.cr/",
    "last_scraped_at": "2026-11-24T01:49:04+01:00",
    "notes": "The 2026 edition was the opening event of Costa Rica Tech Week.",
    "lat": 9.9327373,
@@ -317897,14 +318167,14 @@ window.ATLASDATA={
    "photos": [],
    "sources": [
     {
-     "label": "Official (Asoblockchain, organiser)",
-     "url": "https://asoblockchain.org/en/news/impulsando-el-desarrollo-web3-en-costa-rica-el-exito-de-las-stellar-sessions-y-pura-vida-ideathon-rumbo-al-blockchain-fintech-day-2027/",
-     "field": "official (Asoblockchain, organiser)"
-    },
-    {
      "label": "Official",
      "url": "https://www.ticoblockchain.cr/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (news article)",
+     "url": "https://asoblockchain.org/en/news/impulsando-el-desarrollo-web3-en-costa-rica-el-exito-de-las-stellar-sessions-y-pura-vida-ideathon-rumbo-al-blockchain-fintech-day-2027/",
+     "field": "Previous listing (news article)"
     }
    ],
    "status": "dates TBA",
@@ -318026,7 +318296,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "",
    "last_scraped_at": "2026-11-24T03:10:00+01:00",
-   "notes": "The 21st edition ran 23–25 July 2026 at Place Al Amal and the Théâtre de Verdure in Agadir, as announced on the official Moroccan government portal. The organiser site festivaltimitar.ma did not respond when fetched on 24 Nov 2026, and no official 2027 dates were found. Record is dates TBA. Morocco dates are local (Africa/Casablanca; typically UTC+1, with occasional Ramadan clock changes).",
+   "notes": "The 21st edition ran 23–25 July 2026 at Place Al Amal and the Théâtre de Verdure in Agadir, as announced on the official Moroccan government portal. The organiser domain festivaltimitar.ma was confirmed suspended on 24 Nov 2026 (hosting account suspended page), so the official website link was removed. No official 2027 dates were found. Record is dates TBA. Morocco dates are local (Africa/Casablanca; typically UTC+1, with occasional Ramadan clock changes).",
    "lat": 30.419882,
    "lng": -9.6005,
    "precise": true,
@@ -320028,7 +320298,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/westk.hk",
+     "operator": "West Kowloon Cultural District",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.westk.hk/en/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westk.hk",
+     "operator": "West Kowloon Cultural District",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.westk.hk/en/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/westkowloon",
+     "operator": "West Kowloon Cultural District",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.westk.hk/en/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@WestK.HongKong",
+     "operator": "West Kowloon Cultural District",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.westk.hk/en/home",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-wexford-festival-opera-2027",
@@ -345163,6 +345467,15 @@ window.ATLASDATA={
      "href": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/conradetihadtowers",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -345178,8 +345491,8 @@ window.ATLASDATA={
    "url": "https://www.addresshotels.com/en/hotels/address-downtown/",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": "Official Address Hotels events page confirms fully equipped meeting rooms and an events team (events@emaarhospitality.com) but, in the text retrieved in this pass, publishes numerical capacities only for a restaurant buyout of Cetara (120 cocktail / 100 sit-down dinner). A current official ballroom or conference-centre capacity chart was not retrieved. Star rating left null: no public DET hotel-level register hit in this pass.",
-   "description": "Downtown Dubai hotel in the Address Hotels + Resorts portfolio. Official events page: events team at and +971 4 436 8888. The retrieved official events page did not publish a named ballroom capacity chart, so meeting-room headline figures are left null rather than taken from non-official directories. Cetara restaurant buyout capacities are recorded under spaces. A more specific official street address was not present in the retrieved events-page text.",
+   "halls": "Official Address Hotels events page confirms fully equipped meeting rooms and an events team but, in the text retrieved in this pass, publishes numerical capacities only for a restaurant buyout of Cetara (120 cocktail / 100 sit-down dinner). A current official ballroom or conference-centre capacity chart was not retrieved. Star rating left null: no public DET hotel-level register hit in this pass.",
+   "description": "Downtown Dubai hotel in the Address Hotels + Resorts portfolio. Official events page: events team and +971 4 436 8888. The retrieved official events page did not publish a named ballroom capacity chart, so meeting-room headline figures are left null rather than taken from non-official directories. Cetara restaurant buyout capacities are recorded under spaces. A more specific official street address was not present in the retrieved events-page text.",
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
@@ -345767,7 +346080,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Universidad.de.Belgrano",
+     "operator": "Universidad de Belgrano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ub.edu.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/universidadbelgrano",
+     "operator": "Universidad de Belgrano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ub.edu.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ubeduar",
+     "operator": "Universidad de Belgrano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ub.edu.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/UniversidadBelgrano",
+     "operator": "Universidad de Belgrano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ub.edu.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/universidad-de-belgrano",
+     "operator": "Universidad de Belgrano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ub.edu.ar/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "viecon-messe-wien",
@@ -347665,7 +348020,7 @@ window.ATLASDATA={
    "address": "Swanston Street, Melbourne, Victoria, Australia",
    "lat": -37.8149155,
    "lon": 144.9668486,
-   "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall",
+   "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall-function-rooms",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -347676,6 +348031,10 @@ window.ATLASDATA={
     "ddd-melbourne-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall-function-rooms",
+     "label": "Official source"
+    },
     {
      "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall",
      "label": "Official source"
@@ -348018,7 +348377,7 @@ window.ATLASDATA={
    "address": "Sydney, New South Wales, Australia",
    "lat": -33.8717322,
    "lon": 151.2099196,
-   "url": "https://www.marriott.com/en-us/hotels/sydgs-sheraton-grand-sydney-hyde-park/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/sydsi-sheraton-grand-sydney-hyde-park/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -348030,7 +348389,15 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.marriott.com/en-us/hotels/sydsi-sheraton-grand-sydney-hyde-park/overview/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.marriott.com/en-us/hotels/sydgs-sheraton-grand-sydney-hyde-park/overview/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/en-us/hotels/sydsi-sheraton-grand-sydney/overview/",
      "label": "Official source"
     }
    ],
@@ -348251,7 +348618,7 @@ window.ATLASDATA={
    "address": "South Bank, Brisbane, Queensland, Australia",
    "lat": -27.4773481,
    "lon": 153.0204352,
-   "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
+   "url": "https://www.rydges.com/accommodation/brisbane-qld/brisbane-south-bank/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -348261,6 +348628,10 @@ window.ATLASDATA={
     "ascilite-2026"
    ],
    "sources": [
+    {
+     "url": "https://www.rydges.com/accommodation/brisbane-qld/brisbane-south-bank/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
      "label": "Official source"
@@ -349315,6 +349686,29 @@ window.ATLASDATA={
      "href": "https://www.saopauloexpo.com.br/en/wp-content/uploads/2025/09/Tabelas_Infos-Tecnicas-SPE_EXHIBITION-CENTER.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SaoPauloExpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.saopauloexpo.com.br/pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/saopauloexpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.saopauloexpo.com.br/pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SaoPauloExpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.saopauloexpo.com.br/pt/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -349721,7 +350115,7 @@ window.ATLASDATA={
    "address": "Florianópolis, Santa Catarina, Brazil",
    "lat": -27.6020347,
    "lon": -48.5521147,
-   "url": "https://www.centrosul.com.br/",
+   "url": "https://site.centrosul.net/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -349731,6 +350125,10 @@ window.ATLASDATA={
     "startup-summit-2027"
    ],
    "sources": [
+    {
+     "url": "https://site.centrosul.net/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.centrosul.com.br/",
      "label": "Official source"
@@ -349783,7 +350181,7 @@ window.ATLASDATA={
    "address": "Brasília, Distrito Federal, Brazil",
    "lat": -15.7928117,
    "lon": -47.893896,
-   "url": "https://www.brasil21.com.br/",
+   "url": "https://complexobrasil21.com.br/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -349793,6 +350191,10 @@ window.ATLASDATA={
     "cbesp-2027"
    ],
    "sources": [
+    {
+     "url": "https://complexobrasil21.com.br/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.brasil21.com.br/",
      "label": "Official source"
@@ -349954,7 +350356,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cidadedasartes",
+     "verified_via": "official site blocked (WAF request rejected); nothing verified",
+     "source_url": "http://cidadedasartes.rio.rj.gov.br/noticias/interna/837",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cidadedasartes_",
+     "verified_via": "official site blocked (WAF request rejected); nothing verified",
+     "source_url": "http://cidadedasartes.rio.rj.gov.br/noticias/interna/837",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "pier-maua",
@@ -350149,7 +350567,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SheratonSaoPauloWTCHotel",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/saosi-sheraton-sao-paulo-wtc-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sheratonsaopaulo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/saosi-sheraton-sao-paulo-wtc-hotel/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "baha-mar-convention-center",
@@ -351089,7 +351523,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HyattRegencyToronto",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/torrt-hyatt-regency-toronto",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hyattregency_toronto",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/torrt-hyatt-regency-toronto",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "le-centre-sheraton-montreal",
@@ -351118,7 +351568,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SheratonMontreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sheratonmontreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sheraton-toronto-airport-hotel-and-conference-centre",
@@ -351130,7 +351596,7 @@ window.ATLASDATA={
    "address": "Toronto, Ontario, Canada",
    "lat": null,
    "lon": null,
-   "url": "https://www.marriott.com/en-us/hotels/yyzsi-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/yyzds-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -351140,6 +351606,10 @@ window.ATLASDATA={
     "big-data-analytics-summit-canada-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/yyzds-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.marriott.com/en-us/hotels/yyzsi-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
      "label": "Official source"
@@ -351228,7 +351698,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MaRSDiscoveryDistrict",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marsdd.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marsdiscoverydistrict",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marsdd.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/mars-discovery-district",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marsdd.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/MaRSDiscoveryDistrict",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marsdd.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@marsdiscoverydistrict",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marsdd.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "simon-fraser-university-burnaby",
@@ -351323,7 +351830,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PortMontreal",
+     "operator": "Port of Montreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.port-montreal.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCODkOtDHdnyYaRUquI9dPXQ",
+     "operator": "Port of Montreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.port-montreal.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/portmtl",
+     "operator": "Port of Montreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.port-montreal.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PortMTL",
+     "operator": "Port of Montreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.port-montreal.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/port-of-montreal",
+     "operator": "Port of Montreal",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.port-montreal.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "palexpo-geneva",
@@ -353226,7 +353775,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelPresidentGeneva",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/_HotelPresident",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelpresidentgeneva",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "parc-des-expositions-abidjan",
@@ -354027,7 +354599,7 @@ window.ATLASDATA={
    "address": "Zhengzhou, Henan, China",
    "lat": 34.4956513,
    "lon": 113.9118583,
-   "url": "https://www.zzice.com/",
+   "url": "https://www.zzicec.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -354037,6 +354609,10 @@ window.ATLASDATA={
     "china-education-equipment-exhibition-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.zzicec.com/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.zzice.com/",
      "label": "Official source"
@@ -356952,7 +357528,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/westin.munich",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mucwi-the-westin-grand-munich/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westinmunich",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mucwi-the-westin-grand-munich/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "station-berlin",
@@ -357850,7 +358442,7 @@ window.ATLASDATA={
    "address": "Promenadeplatz 2-6, 80333 Munich, Germany",
    "lat": 48.1404741,
    "lon": 11.5729285,
-   "url": "https://www.bayerischerhof.de/en/a-world-of-its-own/the-hotel/facts.html",
+   "url": "https://www.bayerischerhof.de/en/",
    "capacity": 2500,
    "exhibition_sqm": null,
    "halls": "Official 2025 conference brochure: 40 air-conditioned function rooms, sizes from 17 up to 1,700 sqm, capacities from 10 to 2,500 guests. Official Ballroom Ensemble complete table row: 1,497.0 m², theatre 1,127, banquet 720, classroom 464, cabaret 350, reception 1,370. A facts box in the same brochure also says “Ballroom ensemble: 1,700 sqm” and another line “around 1,500 sqm”; the detailed table figure 1,497.0 m² is stored and 1,700 / around 1,500 are noted.",
@@ -357859,11 +358451,19 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.bayerischerhof.de/en/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf",
      "label": "Official source"
     },
     {
      "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bayerischerhof.de/en/a-world-of-its-own/the-hotel/facts.html",
      "label": "Official source"
     }
    ],
@@ -357916,7 +358516,30 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "Hotel Bayerischer Hof"
+   "hotel_name": "Hotel Bayerischer Hof",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bayerischerhof",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.bayerischerhof.de/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCV8A45r1HOMc3hRyl9bmkQw",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.bayerischerhof.de/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bayerischerhof_munich",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.bayerischerhof.de/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-vier-jahreszeiten-kempinski-munich",
@@ -358369,7 +358992,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 55.6693333,
    "lon": 12.5623128,
-   "url": "https://oksnehallen.dk/",
+   "url": "https://www.dgibyen.dk/en/meetings-and-conferences/facility-oeksnehallen",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -358380,6 +359003,10 @@ window.ATLASDATA={
     "j-popcon-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.dgibyen.dk/en/meetings-and-conferences/facility-oeksnehallen",
+     "label": "Official source"
+    },
     {
      "url": "https://oksnehallen.dk/",
      "label": "Official source"
@@ -358399,7 +359026,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 55.6693638,
    "lon": 12.5648198,
-   "url": "https://www.dgi-byen.com/",
+   "url": "https://www.dgibyen.dk/en",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -358409,6 +359036,10 @@ window.ATLASDATA={
     "j-popcon-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.dgibyen.dk/en",
+     "label": "Official source"
+    },
     {
      "url": "https://www.dgi-byen.com/",
      "label": "Official source"
@@ -362051,7 +362682,23 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "Hyatt Regency Paris Étoile"
+   "hotel_name": "Hyatt Regency Paris Étoile",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hyattetoile",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/parhr-hyatt-regency-paris-etoile",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HyattEtoile",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/parhr-hyatt-regency-paris-etoile",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-du-collectionneur-paris",
@@ -363373,7 +364020,7 @@ window.ATLASDATA={
   },
   {
    "slug": "hilton-brighton-metropole",
-   "name": "Hilton Brighton Metropole",
+   "name": "DoubleTree by Hilton Brighton Metropole",
    "type": "hotel_conference_venue",
    "country": "United Kingdom",
    "cc": "GB",
@@ -363381,16 +364028,20 @@ window.ATLASDATA={
    "address": null,
    "lat": 50.821886,
    "lon": -0.149018,
-   "url": "https://www.hilton.com/en/hotels/bshmetw-hilton-brighton-metropole/",
+   "url": "https://www.hilton.com/en/hotels/bshmedi-doubletree-brighton-metropole/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
-   "description": "Seafront Hilton hotel in Brighton, listed in the atlas as the venue for Develop Brighton. Street address and official meeting capacities were not confirmed from the hotel page in this pass; coordinates are the atlas's precise geocode.",
+   "description": "Seafront DoubleTree by Hilton hotel in Brighton, formerly Hilton Brighton Metropole, listed in the atlas as the venue for Develop Brighton. Street address and official meeting capacities were not confirmed from the hotel page in this pass; coordinates are the atlas's precise geocode.",
    "photo": null,
    "linked_event_slugs": [
     "develop-brighton-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/bshmedi-doubletree-brighton-metropole/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.hilton.com/en/hotels/bshmetw-hilton-brighton-metropole/",
      "label": "Official source"
@@ -363938,7 +364589,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AtConvene",
+     "operator": "Convene",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://convene.com/locations/london/133-houndsditch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/convene",
+     "operator": "Convene",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://convene.com/locations/london/133-houndsditch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Convene",
+     "operator": "Convene",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://convene.com/locations/london/133-houndsditch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/convene-venues",
+     "operator": "Convene",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://convene.com/locations/london/133-houndsditch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ConveneVenues",
+     "operator": "Convene",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://convene.com/locations/london/133-houndsditch/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "convene-200-aldersgate",
@@ -364517,7 +365210,7 @@ window.ATLASDATA={
    "address": "118 Tsereteli Avenue, Tbilisi, Georgia",
    "lat": null,
    "lon": null,
-   "url": "https://expogeorgia.ge/about",
+   "url": "https://expogeorgia.ge/",
    "capacity": null,
    "exhibition_sqm": 7410,
    "halls": "Official about page: eleven modern exhibition pavilions with a total area of 7,410 sq.m, including a conference hall with movable walls and conference equipment. Official open landscaped territory 29,199 sq.m is outdoor and is excluded from exhibition_sqm. A separate official “rental space 140,000 sq.m” figure is not treated as an indoor exhibition-hall total and is not stored.",
@@ -364526,11 +365219,15 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
-     "url": "https://expogeorgia.ge/about",
+     "url": "https://expogeorgia.ge/",
      "label": "Official source"
     },
     {
      "url": "https://expogeorgia.ge/?lang=en",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expogeorgia.ge/about",
      "label": "Official source"
     }
    ],
@@ -368523,7 +369220,33 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nimhansbengaluru",
+     "operator": "NIMHANS",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nimhans.ac.in/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NIMHANS_BLR",
+     "operator": "NIMHANS",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nimhans.ac.in/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@nimhans",
+     "operator": "NIMHANS",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.nimhans.ac.in/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "fairmont-mumbai",
@@ -369021,6 +369744,32 @@ window.ATLASDATA={
      "credit": "Photo: Böhringer Friedrich / Wikimedia Commons / CC BY-SA 2.5",
      "caption": "The red hall facade and lawn at Fiera Milano, Rho-Pero, Italy, in 2010."
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FieraMilano",
+     "operator": "Fiera Milano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.fieramilano.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fieramilano",
+     "operator": "Fiera Milano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.fieramilano.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/528202",
+     "operator": "Fiera Milano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.fieramilano.it/en/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -369231,7 +369980,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/museoscienza",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.museoscienza.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Museoscienza",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.museoscienza.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/museoscienza",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.museoscienza.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/museoscienza",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.museoscienza.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/museoscienza",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.museoscienza.org/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "superstudio-maxi",
@@ -369617,7 +370403,7 @@ window.ATLASDATA={
    "address": "Piazza della Repubblica 17, Milan, Italy",
    "lat": 45.4797878,
    "lon": 9.1963935,
-   "url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia/event-spaces/galilei",
+   "url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia",
    "capacity": 700,
    "exhibition_sqm": null,
    "halls": "Official Dorchester Collection groups brochure capacity table: Galilei A+B+C 352 m², banquet 250, cocktail 400, theatre 250, classroom 100; Galilei + Marco Polo + Veranda + Cristalli 747 m², banquet 440, cocktail 700; Cristalli 178 m², banquet 120, cocktail 200, theatre 150, classroom 90.",
@@ -369625,6 +370411,10 @@ window.ATLASDATA={
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
+    {
+     "url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia",
+     "label": "Official source"
+    },
     {
      "url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
      "label": "Official source"
@@ -369681,6 +370471,22 @@ window.ATLASDATA={
      "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
      "href": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/principesavoia",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PrincipeSavoia",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -371070,7 +371876,7 @@ window.ATLASDATA={
    "address": "Miyazaki, Japan",
    "lat": 31.9330981,
    "lon": 131.4200448,
-   "url": "https://www.miyazaki-arts.jp/",
+   "url": "https://miyazaki-ac.jp/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -371080,6 +371886,10 @@ window.ATLASDATA={
     "rubykaigi-2027"
    ],
    "sources": [
+    {
+     "url": "https://miyazaki-ac.jp/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.miyazaki-arts.jp/",
      "label": "Official source"
@@ -374763,7 +375573,7 @@ window.ATLASDATA={
    "address": "Dragonara Road, St. Julian's, Malta, STJ 3143",
    "lat": 35.9255047,
    "lon": 14.4918823,
-   "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/",
+   "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/overview/",
    "capacity": 600,
    "exhibition_sqm": null,
    "halls": "Official events page: recently refurbished conference centre with 17 meeting rooms and 1,400 m² of meeting space on one floor (the page header also lists 15 event rooms and 2,001 m² total event space, including outdoor venues)",
@@ -374772,15 +375582,19 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/overview/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/",
      "label": "Official source"
     },
     {
-     "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/",
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
      "label": "Official source"
     },
     {
-     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/",
      "label": "Official source"
     }
    ],
@@ -374871,7 +375685,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Westinmalta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/westinmalta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westinmalta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-golden-sands",
@@ -375609,6 +376446,29 @@ window.ATLASDATA={
      "href": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hyattregencymalta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/mlarm-hyatt-regency-malta",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hyatt-regency-malta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/mlarm-hyatt-regency-malta",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HyattRegencyMalta",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/hyatt-regency/en-US/mlarm-hyatt-regency-malta",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -375621,7 +376481,7 @@ window.ATLASDATA={
    "address": "39 Main Street, Balluta Bay, St. Julian's, STJ1017, Malta",
    "lat": 35.9140376,
    "lon": 14.4929795,
-   "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/",
+   "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/overview/",
    "capacity": 650,
    "exhibition_sqm": null,
    "halls": "Official Marriott events page: an entire floor dedicated to meetings, with figures given both as 13 meeting rooms covering 1,363 m² and, elsewhere on the same page, 12 event rooms / 1,358 m² total event space. The largest published space is The Gallery, capacity 650. The Ballroom is described as the largest meeting space with natural daylight, for meetings of up to 300 people and a gala dinner for 150. MTA licence HTL-04467 is listed as \"Marriot Hotel & Spa\" at 39 Triq il-Kbira, St Julian's, STJ 1017 (301 bedrooms, official 5-star); the official website on the MTA CSV is the former Le Méridien St Julian's site. The current official hotel and events pages use the Malta Marriott Resort & Spa name.",
@@ -375630,7 +376490,7 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
-     "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/",
+     "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/overview/",
      "label": "Official source"
     },
     {
@@ -375639,6 +376499,10 @@ window.ATLASDATA={
     },
     {
      "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/",
      "label": "Official source"
     }
    ],
@@ -375681,7 +376545,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/maltamarriott",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/maltamarriott",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/maltamarriott",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "corinthia-palace-malta",
@@ -376670,7 +377557,7 @@ window.ATLASDATA={
    "address": "Ciudad de México, Mexico",
    "lat": 19.3941112,
    "lon": -99.1738964,
-   "url": "https://www.wtcmexico.com.mx/",
+   "url": "https://wtcmexico.mx/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -376682,6 +377569,10 @@ window.ATLASDATA={
     "la-mole-supercon-2027"
    ],
    "sources": [
+    {
+     "url": "https://wtcmexico.mx/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.wtcmexico.com.mx/",
      "label": "Official source"
@@ -377034,7 +377925,7 @@ window.ATLASDATA={
    "address": "Ciudad de México, Mexico",
    "lat": 19.4256625,
    "lon": -99.1723556,
-   "url": "https://www.marriott.com/en-us/hotels/mexrx-the-st-regis-mexico-city/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/mexxr-the-st-regis-mexico-city/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -377044,6 +377935,10 @@ window.ATLASDATA={
     "open-finance-2050-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mexxr-the-st-regis-mexico-city/overview/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.marriott.com/en-us/hotels/mexrx-the-st-regis-mexico-city/overview/",
      "label": "Official source"
@@ -377063,7 +377958,7 @@ window.ATLASDATA={
    "address": "Santa Fe, Ciudad de México, Mexico",
    "lat": 19.365417,
    "lon": -99.2587945,
-   "url": "https://www.marriott.com/en-us/hotels/mexsw-the-westin-santa-fe-mexico-city/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/mexws-the-westin-santa-fe-mexico-city/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -377073,6 +377968,10 @@ window.ATLASDATA={
     "ia-expo-internacional-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mexws-the-westin-santa-fe-mexico-city/overview/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.marriott.com/en-us/hotels/mexsw-the-westin-santa-fe-mexico-city/overview/",
      "label": "Official source"
@@ -378676,7 +379575,7 @@ window.ATLASDATA={
    "address": null,
    "lat": null,
    "lon": null,
-   "url": "https://kinepolis.nl/",
+   "url": "https://kinepolis.nl/bioscopen/kinepolis-jaarbeurs-utrecht/info/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -378686,6 +379585,10 @@ window.ATLASDATA={
     "rustweek-2027"
    ],
    "sources": [
+    {
+     "url": "https://kinepolis.nl/bioscopen/kinepolis-jaarbeurs-utrecht/info/",
+     "label": "Official source"
+    },
     {
      "url": "https://kinepolis.nl/",
      "label": "Official source"
@@ -380796,7 +381699,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 8.9754237,
    "lon": -79.5069075,
-   "url": "https://www.marriott.com/en-us/hotels/ptyjw-jw-marriott-panama/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/ptymj-jw-marriott-panama/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -380806,6 +381709,10 @@ window.ATLASDATA={
     "icann-contracted-parties-summit-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/ptymj-jw-marriott-panama/overview/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.marriott.com/en-us/hotels/ptyjw-jw-marriott-panama/overview/",
      "label": "Official source"
@@ -381022,6 +381929,22 @@ window.ATLASDATA={
      "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
      "href": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grandhyattmanilaph",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/grandhyattmanilaph",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -384202,6 +385125,29 @@ window.ATLASDATA={
      "href": "https://www.qatartourism.com/content/dam/visitqatar/img/venue-finder/5-star-hotels/sheraton-grand-doha-resort/Sheraton-Grand-Doha-FactSheet.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sheratongranddoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Sheratondoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sheratongranddoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -384434,7 +385380,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stregisdoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/StRegisDoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stregisdoha",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "romexpo-bucharest",
@@ -385529,7 +386498,7 @@ window.ATLASDATA={
    "address": "Riyadh, Saudi Arabia",
    "lat": null,
    "lon": null,
-   "url": "https://www.marriott.com/en-us/hotels/ruhjw-jw-marriott-hotel-riyadh/overview/",
+   "url": "https://www.marriott.com/en-us/hotels/ruhjb-jw-marriott-hotel-riyadh/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -385539,6 +386508,10 @@ window.ATLASDATA={
     "red-hat-summit-connect-riyadh-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/ruhjb-jw-marriott-hotel-riyadh/overview/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.marriott.com/en-us/hotels/ruhjw-jw-marriott-hotel-riyadh/overview/",
      "label": "Official source"
@@ -386449,7 +387422,7 @@ window.ATLASDATA={
    "description": "Collegium, a Linköping Science Park venue used by ICANN. The official Collegium site was retrieved but did not yield a published Linköping street address or room capacities in this pass (a Gothenburg contact address appears on the site and was not used as the venue address). Coordinates are the atlas precise pin, which matches the Nominatim named Collegium building.",
    "photo": null,
    "linked_event_slugs": [
-    "icann-2027"
+    "icann-neural-networks-2027"
    ],
    "sources": [
     {
@@ -389556,7 +390529,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 22.6078119,
    "lon": 120.2984642,
-   "url": "https://www.kecc.com.tw/",
+   "url": "https://www.kecc.com.tw/en-us/",
    "capacity": 20000,
    "exhibition_sqm": null,
    "halls": "Official MEET TAIWAN (Taiwan MICE bureau) Kaohsiung page: Venue Capacity 30,023 sqm; 1,024 standard booths; exhibition venue maximum capacity 20,000; 11 meeting rooms; single-room maximum capacity 1,200. The 30,023 sqm official label is 'Venue Capacity' rather than a clearly labelled indoor exhibition-hall total, so exhibition_sqm is null rather than storing that figure.",
@@ -389565,7 +390538,15 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.kecc.com.tw/en-us/",
+     "label": "Official source"
+    },
+    {
      "url": "https://mice.meettaiwan.com/meettaiwan/home/en/mice-city/page/kaohsiung/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kecc.com.tw/",
      "label": "Official source"
     }
    ],
@@ -389584,7 +390565,23 @@ window.ATLASDATA={
      "source_url": "https://mice.meettaiwan.com/meettaiwan/home/en/mice-city/page/kaohsiung/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kaohsiungexhibitioncenter",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.kecc.com.tw/en-us/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC-N1zbVArVRQbBYV--MMHpg",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.kecc.com.tw/en-us/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "academia-sinica-hssb",
@@ -391267,7 +392264,7 @@ window.ATLASDATA={
    "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
    "lat": 36.0889032,
    "lon": -115.1778099,
-   "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html",
+   "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups.html",
    "capacity": 12000,
    "exhibition_sqm": 96901,
    "halls": "Official facilities page and capacities guide: 2.1 million square feet of meeting and exhibit space; Level 1 Bayside Exhibition Halls 861,231 sq ft and Level 2 Shoreline Exhibit Hall 181,800 sq ft; Michelob ULTRA Arena 12,000 seats",
@@ -391280,11 +392277,15 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html",
+     "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups.html",
      "label": "Official source"
     },
     {
      "url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html",
      "label": "Official source"
     }
    ],
@@ -391419,6 +392420,29 @@ window.ATLASDATA={
      "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
      "href": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/MandalayBay",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://mandalaybay.mgmresorts.com/en/meetings-groups.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/mandalaybay",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://mandalaybay.mgmresorts.com/en/meetings-groups.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/MandalayBay",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://mandalaybay.mgmresorts.com/en/meetings-groups.html",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -391786,6 +392810,43 @@ window.ATLASDATA={
      "credit": "Photo: Alexf / Wikimedia Commons / CC BY-SA 4.0",
      "caption": "Facade of the Miami Beach Convention Center, Miami Beach, United States, in 2019."
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MiamiBeachConventionCenter",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.miamibeachconvention.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/themiamibeachcc",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.miamibeachconvention.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/miamibeachconventioncenter",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.miamibeachconvention.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TheMiamiBeachCC",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.miamibeachconvention.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCx1ZASiPQsGV8dpeAFfXNYQ",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.miamibeachconvention.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -391979,7 +393040,7 @@ window.ATLASDATA={
    "address": "800 W Katella Avenue, Anaheim, California",
    "lat": 33.8005839,
    "lon": -117.9208047,
-   "url": "https://www.anaheimconventioncenter.com/",
+   "url": "https://www.anaheim.net/1117/Anaheim-Convention-Center",
    "capacity": 15000,
    "exhibition_sqm": 75587,
    "halls": "Official Visit Anaheim exhibit-hall capacities page (official convention bureau for the Anaheim Convention Center): exhibit halls A-E total 813,607 square feet. Hall D is the largest hall at 221,284 sq ft / 15,000 theatre / 13,800 banquet. The Arena is listed separately at 28,140 sq ft (flat floor) with 7,500 stadium-style seating. An official ACC Spec Guide 2025 PDF is freely linked from that Visit Anaheim page but is about 39 MB, so only the URL is recorded.",
@@ -391990,7 +393051,7 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "url": "https://www.anaheimconventioncenter.com/",
+     "url": "https://www.anaheim.net/1117/Anaheim-Convention-Center",
      "label": "Official source"
     },
     {
@@ -391999,6 +393060,10 @@ window.ATLASDATA={
     },
     {
      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/anaheimca/ACC_Spec_Guide_2025_v8_print_1__b2a9af9b-2d38-484b-ad19-113afdd8fb03.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.anaheimconventioncenter.com/",
      "label": "Official source"
     }
    ],
@@ -392733,7 +393798,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GaylordNationalResort",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gaylordnational",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gaylordnational",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "signia-hilton-diplomat-beach-resort",
@@ -392762,7 +393850,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/SigniaDiplomatResort",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hilton.com/en/hotels/flldhsa-signia-diplomat-beach-resort/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheDiplomatBeachResort",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hilton.com/en/hotels/flldhsa-signia-diplomat-beach-resort/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DiplomatFlorida",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hilton.com/en/hotels/flldhsa-signia-diplomat-beach-resort/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "four-seasons-jackson-hole",
@@ -392826,7 +393937,7 @@ window.ATLASDATA={
    "address": "Las Vegas, Nevada, United States",
    "lat": 36.1189571,
    "lon": -115.1661889,
-   "url": "https://www.caesars.com/caesars-forum",
+   "url": "https://www.caesars.com/meetings",
    "capacity": 10000,
    "exhibition_sqm": null,
    "halls": "Official Caesars Entertainment 2022 fact sheet: a 550,000-square-foot conference center on a single level, able to accommodate up to 10,000 participants at one time; Forum and Summit ballrooms described as the two largest pillarless ballrooms, each \"110,00 square feet\" on the fact sheet (a typographical rendering of 110,000 sq ft given the surrounding official description); Forum Plaza is a 100,000-square-foot dedicated outdoor meeting and event space; six 1,250-square-foot boardrooms. No dedicated exhibit-hall total is published, so exhibition_sqm is left null. Official street address was not printed on the retrieved fact sheet or events page text and is left to be confirmed by a precise Nominatim pin for the named venue.",
@@ -392837,7 +393948,7 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "url": "https://www.caesars.com/caesars-forum",
+     "url": "https://www.caesars.com/meetings",
      "label": "Official source"
     },
     {
@@ -392846,6 +393957,10 @@ window.ATLASDATA={
     },
     {
      "url": "https://aws.amazon.com/events/reinvent/faqs/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.caesars.com/caesars-forum",
      "label": "Official source"
     }
    ],
@@ -394180,7 +395295,23 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NewYorkMarriottMarquis",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/newyorkmarriottmarquis",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "san-francisco-marriott-marquis",
@@ -395504,7 +396635,23 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sanfranciscomarriottmarquis",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sfmarriottmarquis",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "orlando-world-center-marriott",
@@ -397548,7 +398695,23 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/worldcenter",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/orlandoworldcenter",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "wynn-las-vegas",
