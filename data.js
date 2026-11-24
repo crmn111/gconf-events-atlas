@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T08:58:28Z",
+ "generated": "2026-11-24T09:09:27Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -42308,6 +42308,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-mining-indaba-2027",
+   "slug": "mining-indaba-2027",
+   "name": "Mining Indaba 2027",
+   "website_url": "https://miningindaba.com/event-information",
+   "start_date": "2027-02-08",
+   "end_date": "2027-02-11",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "region": "africa",
+   "venue": "Cape Town International Convention Centre (CTICC), Convention Square, 1 Lower Long Street, Cape Town, 8001",
+   "industry": "Mining investment conference and exhibition",
+   "format": "In-person",
+   "organizer": "Mining Indaba",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://miningindaba.com/event-information",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official event-information page: 8–11 February 2027 at the Cape Town International Convention Centre, Convention Square, 1 Lower Long Street. Official Event & Exhibition hours: Monday 08:30–19:00, Tuesday–Wednesday 08:30–18:00, Thursday 08:30–13:00. The programme combines a conference and a trade exhibition; this record is the expo/exhibition entry. Official ticket prices and a labelled previous-edition attendance figure were not listed on the event-information page fetched. Contact given: registration@miningindaba.com, helpline +44 (0)20 3855 9557. Same venue as investec-cape-town-art-fair-2027 and comic-con-cape-town-2027, different events.",
+   "lat": -33.915972,
+   "lng": 18.427357,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "mining",
+    "investment",
+    "commodities",
+    "energy transition"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://miningindaba.com/event-information",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://miningindaba.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the CTICC (investec-cape-town-art-fair-2027, comic-con-cape-town-2027). Official Mining Indaba event-information page gives Convention Square, 1 Lower Long Street.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Mining Indaba event-information page (fetched 24 Nov 2026): 8–11 February 2027, CTICC, Event & Exhibition hours as stored. A corporate group name was not clearly labelled on that 2027 page, so the organiser is recorded as Mining Indaba.",
+   "id": "mining-indaba-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-nexo-dallas-open-2027",
    "slug": "nexo-dallas-open-2027",
    "name": "Nexo Dallas Open 2027",
@@ -52111,6 +52181,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-propak-east-africa-2027",
+   "slug": "propak-east-africa-2027",
+   "name": "Propak East Africa 2027",
+   "website_url": "https://www.propakeastafrica.com/visiting",
+   "start_date": "2027-03-02",
+   "end_date": "2027-03-04",
+   "city": "Nairobi",
+   "country": "Kenya",
+   "region": "africa",
+   "venue": "Sarit Expo Centre, Westlands, Nairobi",
+   "industry": "Packaging, printing, plastics and processing exhibition",
+   "format": "In-person",
+   "organizer": "Propak East Africa",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.propakeastafrica.com/visiting",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official visiting page: 2–4 March 2027 at Sarit Expo Centre, Nairobi. Opening hours and ticket prices were not listed on that page. Marketing lines ('more than 5,500 attendees', 'over 200 brands') and leftover copy that still describes some sessions as digital/online were not stored as attendance or format facts; the dated listing is an in-person exhibition at Sarit. A corporate organiser name was not clearly labelled on the visiting page. Same venue as nairobi-international-book-fair-2027 (dates TBA, culture) and africa-tech-summit-nairobi-2027, different events.",
+   "lat": -1.260347,
+   "lng": 36.801951,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "packaging",
+    "printing",
+    "plastics",
+    "processing"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.propakeastafrica.com/visiting",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.propakeastafrica.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Sarit Expo Centre (nairobi-international-book-fair-2027, africa-tech-summit-nairobi-2027). Official Propak East Africa visiting page names Sarit Expo Centre, Nairobi.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Propak East Africa visiting page (fetched 24 Nov 2026): 2–4 March 2027, Sarit Expo Centre, Nairobi. Hours and a labelled previous-edition attendance figure were not on that page. 5,500-attendee marketing was not stored.",
+   "id": "propak-east-africa-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-emerge-americas-2027",
    "slug": "emerge-americas-2027",
    "name": "eMerge Americas 2027",
@@ -55853,6 +55993,79 @@ window.ATLASDATA={
    "price_eur_max": null,
    "has_price": false,
    "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-expoagro-2027",
+   "slug": "expoagro-2027",
+   "name": "Expoagro 2027",
+   "website_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+   "start_date": "2027-03-09",
+   "end_date": "2027-03-12",
+   "city": "San Nicolás",
+   "country": "Argentina",
+   "region": "south_america",
+   "venue": "Expoagro predio, RN 9 km 225, San Nicolás, Buenos Aires province",
+   "industry": "Agricultural and agribusiness exhibition",
+   "format": "In-person",
+   "organizer": "Exponenciar",
+   "expected_attendance": 250000,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official Expoagro 2027 page: 9–12 March 2027 at the predio on RN 9 km 225, San Nicolás, Buenos Aires province. Opening hours and ticket prices were not listed on that page. Official 2026 actual: 'asistieron más de 250.000 visitantes' and 700 exhibitors — stored as 250,000 visitors with a 'más de' note. Organiser contact on the official page uses exponenciar.com.ar addresses. City is San Nicolás, not Buenos Aires city.",
+   "lat": -33.3979458,
+   "lng": -60.2019811,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "agribusiness",
+    "farm machinery",
+    "livestock"
+   ],
+   "photos": [
+    {
+     "src": "img/events/expoagro-2027-1.jpg",
+     "thumb": "img/events/expoagro-2027-1-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Expoagro_Argentina.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Expoagro_Argentina.jpg",
+     "credit": "Expoagro Argentina, Wikimedia Commons, CC0"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official Expoagro 2027 page, recap of the 2026 edition: 'asistieron más de 250.000 visitantes' and 700 exhibitors. Stored as 250,000 with the official 'más de' wording.",
+   "attendance_source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Autódromo San Nicolás Ciudad, Calle 6, San Nicolás de los Arroyos, Partido de San Nicolás, Buenos Aires, Argentina (query: Autódromo de San Nicolás de los Arroyos). Official Expoagro 2027 page places the predio at RN 9 km 225, San Nicolás, which is this motorsport/exhibition grounds complex. A city-admin pin for San Nicolás de los Arroyos was not used.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Expoagro 2027 event page (fetched 24 Nov 2026): 9–12 March 2027, RN 9 km 225, San Nicolás. Official 2026 recap: more than 250,000 visitors and 700 exhibitors. Hours and tickets were not on that page.",
+   "id": "expoagro-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": "Expoagro Argentina, Wikimedia Commons, CC0"
   },
   {
    "event_id": "GCE-foodex-japan-2027",
@@ -68542,6 +68755,71 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-egypt-energy-show-2027",
+   "slug": "egypt-energy-show-2027",
+   "name": "Egypt Energy Show 2027",
+   "website_url": "https://www.egypes.com/",
+   "start_date": "2027-03-30",
+   "end_date": "2027-04-01",
+   "city": "Cairo",
+   "country": "Egypt",
+   "region": "africa",
+   "venue": "Egypt International Exhibition Center, Fifth Settlement, New Cairo",
+   "industry": "Energy exhibition and conference (formerly EGYPES)",
+   "format": "In-person",
+   "organizer": "Egypt Energy Show",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.egypes.com/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official homepage: 30 March–1 April 2027 at the Egypt International Exhibition Centre, Cairo (held under the patronage of the President of Egypt). Official hours published for Wednesday 31 March 10:00–19:00 and Thursday 1 April 10:00–18:00; hours for the first day (Tuesday 30 March) were not listed in the homepage extract and are not stored. The 2027 marketing line that companies 'will connect with 60,000 attendees' is a forecast and was not stored. A corporate organiser name was not clearly labelled on the homepage fetch. Same venue as cairo-ict-2027 and cairo-international-book-fair-2027, different events. cairo-ict-2027 (7–10 November 2027, category tech) is already in the Atlas and was not re-added.",
+   "lat": 30.013845,
+   "lng": 31.385266,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "energy",
+    "oil and gas",
+    "power",
+    "renewables"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.egypes.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the Egypt International Exhibition Center (cairo-international-book-fair-2027, cairo-ict-2027).",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Egypt Energy Show / EGYPES homepage (fetched 24 Nov 2026): 30 March–1 April 2027, Egypt International Exhibition Centre, Cairo. Hours extracted only for 31 March and 1 April. The 60,000-attendee line is forward-looking marketing and was not stored.",
+   "id": "egypt-energy-show-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-kuwait-bfsi-cyber-resilience-summit-2027",
    "slug": "kuwait-bfsi-cyber-resilience-summit-2027",
    "name": "Kuwait BFSI Cyber Resilience Summit 2027 (2nd Global Edition)",
@@ -72256,6 +72534,81 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates (6-8 Apr 2027) and venue (Panama Convention Center, Amador) from the official CCIAP EXPO TECH page, fetched 24 Nov 2026.",
    "id": "expo-tech-panama-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-expocomer-2027",
+   "slug": "expocomer-2027",
+   "name": "EXPOCOMER 2027",
+   "website_url": "https://www.expocomer.com/en/horarios/",
+   "start_date": "2027-04-06",
+   "end_date": "2027-04-08",
+   "city": "Panama City",
+   "country": "Panama",
+   "region": "north_america",
+   "venue": "Panama Convention Center",
+   "industry": "International trade exhibition",
+   "format": "In-person",
+   "organizer": "Chamber of Commerce, Industries and Agriculture of Panama",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expocomer.com/en/horarios/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official activities-calendar / hours page: Tuesday 6 April, Wednesday 7 April and Thursday 8 April, 09:00–20:00. Those weekdays match April 2026's calendar only if the year is 2027 (6 April 2027 is a Tuesday). Official venue page: Panama Convention Center. Official home page: 40th edition, organised with the Chamber of Commerce, Industries and Agriculture of Panama. Entrance is not allowed for persons under 18. Unlabelled scale lines ('over 15,500 m²', 'over 600 exhibitors representing 30 countries') were not stored. Same venue and opening day as expo-tech-panama-2027 (already in the Atlas, category tech, 6 April 2027 at the Panama Convention Center, Amador) — a different official event, noted as a same-week same-venue near-duplicate.",
+   "lat": 8.9376351,
+   "lng": -79.5475524,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "trade",
+    "exports",
+    "industry",
+    "commerce"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expocomer.com/en/horarios/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.expocomer.com/en/recintoferial/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.expocomer.com/en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the Panama Convention Center (expo-tech-panama-2027). Official EXPOCOMER venue page names the Panama Convention Center but does not add the Amador locality used on the existing tech record.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official EXPOCOMER hours page (fetched 24 Nov 2026): 6–8 April, 09:00–20:00 (weekdays confirm 2027). Official venue page names the Panama Convention Center. Official home page: 40th edition, Chamber of Commerce, Industries and Agriculture of Panama.",
+   "id": "expocomer-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -80894,6 +81247,84 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-siam-meknes-2027",
+   "slug": "siam-meknes-2027",
+   "name": "SIAM 2027",
+   "website_url": "https://salon-agriculture.ma/en/dates-du-salon/",
+   "start_date": "2027-04-19",
+   "end_date": "2027-04-27",
+   "city": "Meknès",
+   "country": "Morocco",
+   "region": "africa",
+   "venue": "Salon International d'Agriculture showgrounds, Meknès",
+   "industry": "International agriculture show",
+   "format": "In-person",
+   "organizer": "Ministry of Agriculture, Maritime Fisheries and Food Sovereignty; Association of the International Agriculture Show in Morocco; General Commissariat",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://salon-agriculture.ma/en/dates-du-salon/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official dates-du-salon page: 19–27 April 2027 in Meknès, 19th edition, daily 09:00–18:00. Official access: trade-only Monday 19 April (after the inauguration), Tuesday 20 and Wednesday 21 April with a professional badge; mixed public Thursday 22–Tuesday 27 April with an e-ticket or on-site ticket. Ticket prices were not listed on the dates page fetched. Not the Paris Salon International de l'Agriculture (salon-international-agriculture-2027 already in the Atlas).",
+   "lat": 33.8831023,
+   "lng": -5.5581251,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "livestock",
+    "agribusiness",
+    "food"
+   ],
+   "photos": [
+    {
+     "src": "img/events/siam-meknes-2027-1.jpg",
+     "thumb": "img/events/siam-meknes-2027-1-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Agriculture_fair_in_Meknes.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Agriculture_fair_in_Meknes.jpg",
+     "credit": "Redwan2018, Wikimedia Commons, CC BY-SA 4.0"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://salon-agriculture.ma/en/dates-du-salon/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://salon-agriculture.ma/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: way 'Salon International d'agriculture', Al Machouar – Stinia, Meknès Prefecture, Fez-Meknes, Morocco (query: SIAM Meknès). Venue-level retail/showgrounds pin. A nearby parking way and a second retail way ('Salon International d'agriculture 2') were not used.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official SIAM dates-du-salon page (fetched 24 Nov 2026): 19–27 April 2027, Meknès, 09:00–18:00, trade days 19–21 and public days 22–27 as stored. Official organisers named on the site as the Ministry of Agriculture, Maritime Fisheries and Food Sovereignty, the Association of the International Agriculture Show in Morocco, and the General Commissariat.",
+   "id": "siam-meknes-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": "Redwan2018, Wikimedia Commons, CC BY-SA 4.0"
+  },
+  {
    "event_id": "GCE-superreturn-saudi-arabia-2027",
    "slug": "superreturn-saudi-arabia-2027",
    "name": "SuperReturn Saudi Arabia 2027",
@@ -81178,6 +81609,75 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Date and venue from the official DCN global events list, fetched 23 Nov 2026.",
    "id": "dcn-riyadh-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-expomin-2027",
+   "slug": "expomin-2027",
+   "name": "Expomin 2027",
+   "website_url": "https://www.expomin.cl/en/buy-tickets/",
+   "start_date": "2027-04-20",
+   "end_date": "2027-04-24",
+   "city": "Santiago",
+   "country": "Chile",
+   "region": "south_america",
+   "venue": "Espacio Riesco, Av. El Salto 5000, Huechuraba, Santiago",
+   "industry": "Mining exhibition and congress",
+   "format": "In-person",
+   "organizer": "Expomin",
+   "expected_attendance": 83498,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expomin.cl/en/buy-tickets/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official tickets page and official 2027 brochure: 20–24 April 2027 at Espacio Riesco, Av. El Salto 5000, Huechuraba, Santiago. Opening hours and on-page ticket amounts were not extracted from the tickets page (the shop widget did not yield prices in the text fetch) and are not stored. Official brochure 'KEY FIGURES 2025': 83,498 visitors, source given as the Expomin 2025 exhibitors and visitors survey — stored as the previous-edition actual (the show is on a 2025/2027 cycle). Same venue as comic-con-chile-2027 and chile-fintech-forum-2027, different events. FIDAE (next official edition 4–9 April 2028) is an air/defence show and was skipped.",
+   "lat": -33.3851,
+   "lng": -70.6233682,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "mining",
+    "mineral processing",
+    "mining equipment"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expomin.cl/en/buy-tickets/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.expomin.cl/descargas/brochure-expomin-2027.pdf",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official Expomin 2027 brochure, 'KEY FIGURES 2025': 83,498 visitors (Visitantes / Visitors), source labelled as the Expomin 2025 Exhibitors and Visitors Survey. Previous edition on the biennial cycle.",
+   "attendance_source_url": "https://www.expomin.cl/descargas/brochure-expomin-2027.pdf",
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Espacio Riesco (comic-con-chile-2027, chile-fintech-forum-2027): way Centro de Eventos Espacio Riesco, 5000, Huechuraba. A nearby bus-stop node named Espacio Riesco on Avenida El Salto was not used.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Expomin tickets page (fetched 24 Nov 2026): 20–24 April 2027, Espacio Riesco, Av. El Salto 5000, Huechuraba, Santiago. Official 2027 brochure key figures for Expomin 2025: 83,498 visitors.",
+   "id": "expomin-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -94728,6 +95228,71 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-expoconstruccion-expodiseno-2027",
+   "slug": "expoconstruccion-expodiseno-2027",
+   "name": "Expoconstrucción y Expodiseño 2027",
+   "website_url": "https://www.expoconstruccionyexpodiseno.com/es",
+   "start_date": "2027-05-11",
+   "end_date": "2027-05-16",
+   "city": "Bogotá",
+   "country": "Colombia",
+   "region": "south_america",
+   "venue": "Corferias, Cra. 37 # 24-67, Bogotá",
+   "industry": "Construction and design exhibition",
+   "format": "In-person",
+   "organizer": "Corferias and Camacol",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expoconstruccionyexpodiseno.com/es",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official site: 11–16 May 2027 at Corferias, Bogotá. Official hours: 11 May 12:00–20:00; 12–16 May 10:00–20:00. Officially one event (Expoconstrucción y Expodiseño), organised by Corferias and Camacol. Described as a mixed (feria mixta) fair. Tickets at Corferias box offices or the official site; prices were not listed in the fetch. 'Muestra comercial aprox. 400 expositores' is an approximate marketing figure and was not stored. Same venue as agroexpo-2027, different event.",
+   "lat": 4.630468,
+   "lng": -74.0886863,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "architecture",
+    "interior design",
+    "building materials"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expoconstruccionyexpodiseno.com/es",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Corferias (filbo-2027, expoartesanias-2026, baum-festival-2027, edutechnia-2027). Official Agroexpo and Expoconstrucción pages give Cra. 37 # 24-67, Bogotá.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Expoconstrucción y Expodiseño page (fetched 24 Nov 2026): 11–16 May 2027, Corferias, hours as stored. Organisers Corferias and Camacol.",
+   "id": "expoconstruccion-expodiseno-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-fenagra-2027",
    "slug": "fenagra-2027",
    "name": "FENAGRA 2027",
@@ -94970,6 +95535,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates 11-13 May 2027, 35,000+ attendees confirmed from https://www.middleeast-energy.com/ Event JSON-LD and page content, fetched 23 Nov 2026. Venue (DEC, Expo City, North and South Halls) confirmed from the official DEC listing JSON-LD.",
    "id": "middle-east-energy-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-nampo-2027",
+   "slug": "nampo-2027",
+   "name": "NAMPO 2027",
+   "website_url": "https://www.grainsa.co.za/pages/nampo",
+   "start_date": "2027-05-11",
+   "end_date": "2027-05-14",
+   "city": "Bothaville",
+   "country": "South Africa",
+   "region": "africa",
+   "venue": "NAMPO Park, Bothaville",
+   "industry": "Agricultural field days and exhibition",
+   "format": "In-person",
+   "organizer": "Grain SA (NAMPO)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.grainsa.co.za/pages/nampo",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official Grain SA NAMPO page: 11–14 May 2027 at NAMPO Park, Bothaville. Opening hours and ticket prices were not listed on that page. Grain SA is the official organiser of NAMPO; the page also links out to the NAMPO website. A separate September 2027 listing for Bredasdorp Park (NAMPO Cape) was not folded in. A 2–3 October 2026 NAMPO Park line on the same page was treated as a leftover/other listing and was not used for 2027 dates. City-level Bothaville pin only (NAMPO Park is not in OSM).",
+   "lat": -27.388889,
+   "lng": 26.616667,
+   "precise": false,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "grain",
+    "livestock",
+    "farm machinery"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.grainsa.co.za/pages/nampo",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "NAMPO Park itself is not in OpenStreetMap. City-level Nominatim pin for Bothaville, Nala Local Municipality, Free State, South Africa (query: Bothaville, Free State), geocoded 24 Nov 2026. Precise flag is false.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Grain SA NAMPO page (fetched 24 Nov 2026): 11–14 May 2027, NAMPO Park, Bothaville. Hours and tickets were not on that page.",
+   "id": "nampo-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -108838,6 +109468,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates from the official homepage notice, fetched 23 Nov 2026. City-level pin.",
    "id": "e3-cx-conference-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-fi-africa-2027",
+   "slug": "fi-africa-2027",
+   "name": "Fi Africa 2027",
+   "website_url": "https://www.figlobal.com/africa/",
+   "start_date": "2027-06-01",
+   "end_date": "2027-06-03",
+   "city": "Cairo",
+   "country": "Egypt",
+   "region": "africa",
+   "venue": "Egypt International Exhibition Center, Fifth Settlement, New Cairo",
+   "industry": "Food ingredients exhibition",
+   "format": "In-person",
+   "organizer": "Informa (Fi Global)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.figlobal.com/africa/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official Fi Africa page: 1–3 June 2027 at the Egypt International Exhibition Center (EIEC), Cairo. Officially co-located with ProPak MENA; ProPak MENA is folded into this record. Official hours listed for 1 June 10:00–19:00 and 2 June 10:00–19:00; hours for 3 June were not in the page extract and are not stored. A '20000+' counter on the page was unlabelled in the extract (and sat near 'exhibiting companies') and was not stored as attendance. Official contact: fiandpropakcs@informa.com. Same venue as egypt-energy-show-2027 and cairo-ict-2027, different events.",
+   "lat": 30.013845,
+   "lng": 31.385266,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food ingredients",
+    "food and beverage",
+    "processing",
+    "packaging"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.figlobal.com/africa/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the Egypt International Exhibition Center (cairo-international-book-fair-2027, cairo-ict-2027).",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Fi Global Africa page (fetched 24 Nov 2026): 1–3 June 2027, EIEC Cairo, co-located with ProPak MENA. Hours extracted for 1–2 June only. Informa customer-service contact on the official page.",
+   "id": "fi-africa-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -137925,6 +138620,70 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-agroexpo-2027",
+   "slug": "agroexpo-2027",
+   "name": "Agroexpo 2027",
+   "website_url": "https://www.agroexpo.com/",
+   "start_date": "2027-07-14",
+   "end_date": "2027-07-25",
+   "city": "Bogotá",
+   "country": "Colombia",
+   "region": "south_america",
+   "venue": "Corferias, Cra. 37 # 24-67, Bogotá",
+   "industry": "Agricultural and livestock exhibition",
+   "format": "In-person",
+   "organizer": "Corferias and UNAGA",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.agroexpo.com/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official Agroexpo homepage: 14–25 July 2027 at Corferias, Bogotá, visitor hours 10:00–20:00. Organised by Corporación de Ferias y Exposiciones S.A. (Corferias) and UNAGA. Tickets at the Corferias box office or agroexpo.com; prices were not listed on the page fetched. Same venue as filbo-2027, expoartesanias-2026, baum-festival-2027 and edutechnia-2027, different events.",
+   "lat": 4.630468,
+   "lng": -74.0886863,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "livestock",
+    "agribusiness"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.agroexpo.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Corferias (filbo-2027, expoartesanias-2026, baum-festival-2027, edutechnia-2027). Official Agroexpo and Expoconstrucción pages give Cra. 37 # 24-67, Bogotá.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Agroexpo homepage (fetched 24 Nov 2026): 14–25 July 2027, Corferias, visitor hours 10:00–20:00. Organisers Corferias and UNAGA.",
+   "id": "agroexpo-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-cedec-2027",
    "slug": "cedec-2027",
    "name": "CEDEC 2027 (Computer Entertainment Developers Conference)",
@@ -163639,6 +164398,70 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-morocco-siema-2027",
+   "slug": "morocco-siema-2027",
+   "name": "Morocco SIEMA 2027",
+   "website_url": "https://www.siemamaroc.com/",
+   "start_date": "2027-09-07",
+   "end_date": "2027-09-09",
+   "city": "Casablanca",
+   "country": "Morocco",
+   "region": "africa",
+   "venue": "Office des Foires et Expositions de Casablanca (AMDIE/OFEC), Rue Tiznit, facing Hassan II Mosque, Casablanca",
+   "industry": "Food processing, packaging and machinery exhibition",
+   "format": "In-person",
+   "organizer": "Elan Expo",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.siemamaroc.com/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official SIEMA site: 7–9 September 2027, 10th International Food Processing, Packaging and Machinery Exhibition, at AMDIE (OFEC), Rue Tiznit, facing Hassan II Mosque, Casablanca. Official visitor hours 10:00–19:00; exhibitor hours 09:45–19:15. Organiser Elan Expo. A labelled previous-edition attendance figure was not stored from the pages fetched.",
+   "lat": 33.6043863,
+   "lng": -7.6292207,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food processing",
+    "packaging",
+    "food machinery"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.siemamaroc.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Parc des expositions, Rue de Tiznit, Sour Jdid, Arrondissement de Sidi Belyout, Casablanca, Morocco (query: Office des Foires et Expositions de Casablanca, Rue Tiznit). Venue-level pin for the official OFEC exhibition park named on the SIEMA site.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official SIEMA Maroc homepage (fetched 24 Nov 2026): 7–9 September 2027 at AMDIE/OFEC, Rue Tiznit, Casablanca. Visitor hours 10:00–19:00. Organiser Elan Expo.",
+   "id": "morocco-siema-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-solar-storage-live-2027",
    "slug": "solar-storage-live-2027",
    "name": "Solar & Storage Live 2027",
@@ -165767,6 +166590,70 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates from the official site (https://ottawacomiccon.com/), fetched 23 Nov 2026.",
    "id": "ottawa-comiccon-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-rural-del-prado-2027",
+   "slug": "rural-del-prado-2027",
+   "name": "Rural del Prado 2027",
+   "website_url": "https://www.expoprado.com/informacion/",
+   "start_date": "2027-09-10",
+   "end_date": "2027-09-19",
+   "city": "Montevideo",
+   "country": "Uruguay",
+   "region": "south_america",
+   "venue": "Rural del Prado, Lucas Obes 1011, Montevideo",
+   "industry": "International livestock, agro-industrial and commercial exhibition",
+   "format": "In-person",
+   "organizer": "Rural del Prado",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expoprado.com/informacion/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official information page: 122nd Exposición Internacional de Ganadería, Muestra Agroindustrial y Comercial, 10–19 September 2027, at Rural del Prado, Lucas Obes 1011, Montevideo. Opening hours and ticket prices were not listed on that page. Same named venue as semana-criolla-del-prado-2027 (culture; dates TBA in the Atlas) — a different event, typically at a different time of year.",
+   "lat": -34.8612106,
+   "lng": -56.2030031,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "livestock",
+    "agriculture",
+    "agribusiness"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expoprado.com/informacion/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: way Rural del Prado (exhibition_centre), Prado, Montevideo, Uruguay (query: Rural del Prado Montevideo). Official information page gives Lucas Obes 1011. The existing Atlas record semana-criolla-del-prado-2027 uses a coarser city-level Montevideo pin for the same named venue; that coarser pin was not reused.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Rural del Prado information page (fetched 24 Nov 2026): 10–19 September 2027, 122nd international livestock and agro-industrial exhibition, Lucas Obes 1011, Montevideo. Hours and tickets were not on that page.",
+   "id": "rural-del-prado-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -170769,6 +171656,75 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-expoalimentaria-2027",
+   "slug": "expoalimentaria-2027",
+   "name": "Expoalimentaria 2027",
+   "website_url": "https://expoalimentariaperu.com/en/become-an-exhibitor/",
+   "start_date": "2027-09-22",
+   "end_date": "2027-09-24",
+   "city": "Lima",
+   "country": "Peru",
+   "region": "south_america",
+   "venue": "Jockey Exposition Center (Centro de Exposiciones Jockey), Lima",
+   "industry": "Food and beverage trade fair",
+   "format": "In-person",
+   "organizer": "ADEX",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://expoalimentariaperu.com/en/become-an-exhibitor/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official become-an-exhibitor page: 22, 23 and 24 September 2027 at the Jockey Exposition Center, Lima. Opening hours and ticket prices were not listed on that page. The organiser contact is expoalimentaria@adexperu.org.pe (ADEX). A labelled previous-edition attendance figure was not in the extract.",
+   "lat": -12.0916654,
+   "lng": -76.9797859,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food and beverage",
+    "food export",
+    "agribusiness"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://expoalimentariaperu.com/en/become-an-exhibitor/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://expoalimentariaperu.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Centro de Exposiciones Jockey, Avenida Panamericana Sur, Monterrico Norte, San Borja, Province of Lima, Peru (query: Centro de Exposiciones Jockey, Lima). Venue-level events_venue pin. Official Expoalimentaria exhibitor page names the Jockey Exposition Center.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Expoalimentaria become-an-exhibitor page (fetched 24 Nov 2026): 22–24 September 2027, Jockey Exposition Center. Organiser contact on ADEX (adexperu.org.pe).",
+   "id": "expoalimentaria-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-festival-nacional-de-la-mejorana-2027",
    "slug": "festival-nacional-de-la-mejorana-2027",
    "name": "Festival Nacional de la Mejorana 2027 (Guararé)",
@@ -175446,6 +176402,78 @@ window.ATLASDATA={
    "price_eur_max": null,
    "has_price": false,
    "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-fit-buenos-aires-2027",
+   "slug": "fit-buenos-aires-2027",
+   "name": "FIT 2027",
+   "website_url": "https://fit.org.ar/en/home/",
+   "start_date": "2027-10-02",
+   "end_date": "2027-10-05",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "region": "south_america",
+   "venue": "La Rural, Predio Ferial de Buenos Aires",
+   "industry": "International tourism trade fair",
+   "format": "In-person",
+   "organizer": "FERIAS ARGENTINAS SA",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://fit.org.ar/en/home/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official FIT home page: 'FIT 2027 | October 2–5' at La Rural, Buenos Aires. A 'Dates & times 2026' block on the same page still lists 26–29 September hours; those leftover 2026 hours were not stored for 2027. Organiser FERIAS ARGENTINAS SA, Viamonte 640, Buenos Aires, fit@fit.org.ar. A labelled official previous-edition visitor figure was not on the official page fetched (third-party press totals were ignored). Same venue as feria-del-libro-buenos-aires-2027 and arteba-2027, different events.",
+   "lat": -34.5784024,
+   "lng": -58.4208313,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "tourism",
+    "travel trade",
+    "hospitality"
+   ],
+   "photos": [
+    {
+     "src": "img/events/fit-buenos-aires-2027-1.jpg",
+     "thumb": "img/events/fit-buenos-aires-2027-1-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ama_la_Vida_-_Flickr_-_FIT_Argentina_2013_%289937603884%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ama_la_Vida_-_Flickr_-_FIT_Argentina_2013_(9937603884).jpg",
+     "credit": "amalavida.tv, Wikimedia Commons (via Flickr), CC BY-SA 2.0"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://fit.org.ar/en/home/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for La Rural (feria-del-libro-buenos-aires-2027, arteba-2027).",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official FIT English home page (fetched 24 Nov 2026): FIT 2027, 2–5 October, La Rural. The hours block is still titled 'Dates & times 2026' and was not used. Organiser FERIAS ARGENTINAS SA.",
+   "id": "fit-buenos-aires-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": "amalavida.tv, Wikimedia Commons (via Flickr), CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-icc-cricket-world-cup-2027",
@@ -189313,6 +190341,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official GIFF 2027 Eventival portal (fetched 24 Nov 2026): “This year's edition takes place from 5.11.2027 - 14.11.2027.” The public giff.ch homepage still presented the just-ended 2026 edition (30 Oct–8 Nov 2026) and was not used for 2027 dates.",
    "id": "giff-geneva-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-iatf-lagos-2027",
+   "slug": "iatf-lagos-2027",
+   "name": "Intra-African Trade Fair 2027",
+   "website_url": "https://2027.iatf.africa/",
+   "start_date": "2027-11-05",
+   "end_date": "2027-11-11",
+   "city": "Lagos",
+   "country": "Nigeria",
+   "region": "africa",
+   "venue": "Lagos (venue to be announced on the official IATF 2027 site)",
+   "industry": "Intra-African trade exhibition",
+   "format": "In-person",
+   "organizer": "Afreximbank, African Union Commission and AfCFTA Secretariat",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.afreximbank.com/nigeria-signs-intra-african-trade-fair-2027-host-agreement-gears-up-for-africas-biggest-marketplace/",
+   "last_scraped_at": "2026-11-24T10:03:45+01:00",
+   "notes": "Dates are local to the host city. Official Afreximbank host-agreement announcement (9 March 2026): the fifth Intra-African Trade Fair takes place in Lagos, 5–11 November 2027, organised by Afreximbank, the African Union Commission and the AfCFTA Secretariat. The official IATF 2027 site (2027.iatf.africa) was still a holding page when fetched and did not itself repeat the dates or name a venue, so the venue is recorded as to be announced and the pin is city-level Lagos. Forward-looking targets (100,000 visitors, 2,500 exhibitors, US$50 billion in deals) are forecasts and were not stored. Cumulative visitor figures across earlier editions were not assigned to this record. The official Lagos International Trade Fair site still confirmed only 6–15 November 2026 and was not used to invent 2027 LITF dates; a later LITF 2027 announcement could overlap this week.",
+   "lat": 6.4550575,
+   "lng": 3.3941795,
+   "precise": false,
+   "category": "expo",
+   "topics": [
+    "intra-african trade",
+    "AfCFTA",
+    "investment",
+    "industry"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.afreximbank.com/nigeria-signs-intra-african-trade-fair-2027-host-agreement-gears-up-for-africas-biggest-marketplace/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://2027.iatf.africa/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Official IATF 2027 site (2027.iatf.africa) and the Afreximbank host-agreement announcement name Lagos as host city but do not name a venue. City-level Nominatim pin for Lagos, Lagos Island, Lagos State, Nigeria (same city-level pin already used in the Atlas, e.g. ake-arts festival). Precise flag is false. The Landmark Centre pin used for gitex-nigeria-2027 was not reused.",
+   "source_accessed_at": "2026-11-24T10:03:45+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Afreximbank IATF 2027 host-agreement page (fetched 24 Nov 2026): Lagos, 5–11 November 2027. Official 2027.iatf.africa holding page confirms the Nigeria edition is in preparation but does not yet list dates or a venue. Forecast attendance was not stored.",
+   "id": "iatf-lagos-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -235032,6 +236130,1011 @@ window.ATLASDATA={
  ],
  "hotels": [
   {
+   "name": "SO/Berlin Das Stue",
+   "stars": 5,
+   "address": "Drakestrasse 1, 10787 Berlin, Germany",
+   "lat": 52.509991,
+   "lon": 13.345841,
+   "distance_km": {
+    "berlinale-2027": 2.01,
+    "boot-fun-berlin-2026": 5.08,
+    "boot-fun-berlin-2027": 5.08,
+    "gruene-woche-2027": 4.94,
+    "ifa-berlin-2027": 5.04,
+    "lollapalooza-berlin-2027": 7.19,
+    "superreturn-international-2027": 0.3,
+    "wearedevelopers-2027": 5.2
+   },
+   "url": "https://all.accor.com/hotel/B1Y6/index.en.shtml",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "gruene-woche-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "superreturn-international-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Grand Hyatt Berlin",
+   "stars": 5,
+   "address": "Marlene-Dietrich-Platz 2, 10785 Berlin, Germany",
+   "lat": 52.5081971,
+   "lon": 13.3724841,
+   "distance_km": {
+    "berlinale-2027": 0.28,
+    "boot-fun-berlin-2026": 6.83,
+    "boot-fun-berlin-2027": 6.83,
+    "gruene-woche-2027": 6.7,
+    "ifa-berlin-2027": 6.81,
+    "lollapalooza-berlin-2027": 9.01,
+    "republica-2027": 1.07,
+    "superreturn-international-2027": 1.84,
+    "wearedevelopers-2027": 6.94
+   },
+   "url": "https://www.hyatt.com/grand-hyatt/en-US/bergt-grand-hyatt-berlin",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "gruene-woche-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "republica-2027",
+    "superreturn-international-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "The Mandala Hotel",
+   "stars": 5,
+   "address": "Potsdamer Straße 3, 10785 Berlin, Germany",
+   "lat": 52.5089383,
+   "lon": 13.3738661,
+   "distance_km": {
+    "berlinale-2027": 0.15,
+    "boot-fun-berlin-2026": 6.94,
+    "boot-fun-berlin-2027": 6.94,
+    "gruene-woche-2027": 6.8,
+    "ifa-berlin-2027": 6.91,
+    "lollapalooza-berlin-2027": 9.09,
+    "republica-2027": 1.14,
+    "superreturn-international-2027": 1.94,
+    "wearedevelopers-2027": 7.04
+   },
+   "url": "https://www.themandala.de/",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "gruene-woche-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "republica-2027",
+    "superreturn-international-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "The Ritz-Carlton Berlin",
+   "stars": 5,
+   "address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+   "lat": 52.5103653,
+   "lon": 13.3753306,
+   "distance_km": {
+    "berlinale-2027": 0.07,
+    "boot-fun-berlin-2026": 7.06,
+    "boot-fun-berlin-2027": 7.06,
+    "ifa-berlin-2027": 7.02,
+    "lollapalooza-berlin-2027": 9.18,
+    "republica-2027": 1.3,
+    "wearedevelopers-2027": 7.17
+   },
+   "url": "https://www.ritzcarlton.com/en/hotels/berlin",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "republica-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Hotel Adlon Kempinski Berlin",
+   "stars": 5,
+   "address": "Unter den Linden 77, 10117 Berlin, Germany",
+   "lat": 52.516133,
+   "lon": 13.380176,
+   "distance_km": {
+    "berlinale-2027": 0.77,
+    "boot-fun-berlin-2026": 7.5,
+    "boot-fun-berlin-2027": 7.5,
+    "devopscon-berlin-2027": 0.55,
+    "ifa-berlin-2027": 7.44,
+    "ijs-berlin-2027": 0.55,
+    "lollapalooza-berlin-2027": 9.5,
+    "mlcon-berlin-2027": 0.55,
+    "offensivecon-2027": 0.95,
+    "transmediale-2027": 3.41,
+    "wearedevelopers-2027": 7.61,
+    "webinale-berlin-2027": 0.55
+   },
+   "url": "https://www.kempinski.com/en/berlin/hotel-adlon",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "devopscon-berlin-2027",
+    "ifa-berlin-2027",
+    "ijs-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "mlcon-berlin-2027",
+    "offensivecon-2027",
+    "transmediale-2027",
+    "wearedevelopers-2027",
+    "webinale-berlin-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Hotel de Rome",
+   "stars": 5,
+   "address": "Behrenstraße 37, 10117 Berlin, Germany",
+   "lat": 52.5157914,
+   "lon": 13.3940671,
+   "distance_km": {
+    "berlinale-2027": 1.42,
+    "boot-fun-berlin-2026": 8.41,
+    "boot-fun-berlin-2027": 8.41,
+    "devopscon-berlin-2027": 0.52,
+    "ifa-berlin-2027": 8.36,
+    "ijs-berlin-2027": 0.52,
+    "lollapalooza-berlin-2027": 10.44,
+    "mlcon-berlin-2027": 0.52,
+    "offensivecon-2027": 0.42,
+    "transmediale-2027": 3.81,
+    "wearedevelopers-2027": 8.52,
+    "webinale-berlin-2027": 0.52
+   },
+   "url": "https://www.roccofortehotels.com/hotels-and-resorts/hotel-de-rome/",
+   "event_slugs": [
+    "berlinale-2027",
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "devopscon-berlin-2027",
+    "ifa-berlin-2027",
+    "ijs-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "mlcon-berlin-2027",
+    "offensivecon-2027",
+    "transmediale-2027",
+    "wearedevelopers-2027",
+    "webinale-berlin-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Radisson Collection Hotel, Berlin",
+   "stars": 5,
+   "address": "Karl-Liebknecht-Straße 3, 10178 Berlin, Germany",
+   "lat": 52.5195175,
+   "lon": 13.4028297,
+   "distance_km": {
+    "devopscon-berlin-2027": 1.05,
+    "ijs-berlin-2027": 1.05,
+    "mlcon-berlin-2027": 1.05,
+    "offensivecon-2027": 1.08,
+    "transmediale-2027": 3.81,
+    "webinale-berlin-2027": 1.05
+   },
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-berlin",
+   "event_slugs": [
+    "devopscon-berlin-2027",
+    "ijs-berlin-2027",
+    "mlcon-berlin-2027",
+    "offensivecon-2027",
+    "transmediale-2027",
+    "webinale-berlin-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Hotel Seehof Berlin",
+   "stars": 4,
+   "address": "Lietzensee-Ufer 11, 14057 Berlin, Germany",
+   "lat": 52.5071916,
+   "lon": 13.2888182,
+   "distance_km": {
+    "boot-fun-berlin-2026": 1.33,
+    "boot-fun-berlin-2027": 1.33,
+    "gruene-woche-2027": 1.19,
+    "ifa-berlin-2027": 1.2,
+    "lollapalooza-berlin-2027": 3.42,
+    "wearedevelopers-2027": 1.45
+   },
+   "url": "https://www.hotel-seehof-berlin.de/",
+   "event_slugs": [
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "gruene-woche-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Best Western Hotel Kantstrasse Berlin",
+   "stars": 4,
+   "address": "Kantstraße 111, 10625 Berlin, Germany",
+   "lat": 52.5065785,
+   "lon": 13.3059069,
+   "distance_km": {
+    "boot-fun-berlin-2026": 2.37,
+    "boot-fun-berlin-2027": 2.37,
+    "gruene-woche-2027": 2.23,
+    "ifa-berlin-2027": 2.31,
+    "lollapalooza-berlin-2027": 4.56,
+    "wearedevelopers-2027": 2.48
+   },
+   "url": "https://www.bestwestern.com/en_US/book/hotels-in-berlin/best-western-hotel-kantstrasse-berlin/propertyCode.96700.html",
+   "event_slugs": [
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "gruene-woche-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Hollywood Media Hotel",
+   "stars": 4,
+   "address": "Kurfürstendamm 202, 10719 Berlin, Germany",
+   "lat": 52.5016365,
+   "lon": 13.3212851,
+   "distance_km": {
+    "boot-fun-berlin-2026": 3.32,
+    "boot-fun-berlin-2027": 3.32,
+    "ifa-berlin-2027": 3.33,
+    "lollapalooza-berlin-2027": 5.7,
+    "wearedevelopers-2027": 3.42
+   },
+   "url": "https://www.hollywood-media-hotel.de/",
+   "event_slugs": [
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "NH Berlin Kurfürstendamm",
+   "stars": 4,
+   "address": "Grolmanstraße, 10623 Berlin, Germany",
+   "lat": 52.5040782,
+   "lon": 13.324197,
+   "distance_km": {
+    "boot-fun-berlin-2026": 3.54,
+    "boot-fun-berlin-2027": 3.54,
+    "ifa-berlin-2027": 3.52,
+    "lollapalooza-berlin-2027": 5.83,
+    "wearedevelopers-2027": 3.64
+   },
+   "url": "https://www.nh-hotels.com/en/hotel/nh-berlin-kurfuerstendamm",
+   "event_slugs": [
+    "boot-fun-berlin-2026",
+    "boot-fun-berlin-2027",
+    "ifa-berlin-2027",
+    "lollapalooza-berlin-2027",
+    "wearedevelopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "H10 Berlin Ku'damm",
+   "stars": 4,
+   "address": "Joachimsthalerstraße 31-32, 10719 Berlin, Germany",
+   "lat": 52.5019694,
+   "lon": 13.3314215,
+   "distance_km": {
+    "superreturn-international-2027": 1.12
+   },
+   "url": "https://www.h10hotels.com/en/berlin-hotels/h10-berlin-kudamm",
+   "event_slugs": [
+    "superreturn-international-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "NH Berlin Potsdamer Platz",
+   "stars": 4,
+   "address": "Stresemannstraße 47, 10963 Berlin, Germany",
+   "lat": 52.5015937,
+   "lon": 13.3856171,
+   "distance_km": {
+    "berlinale-2027": 1.14,
+    "republica-2027": 0.8
+   },
+   "url": "https://www.nh-hotels.com/en/hotel/nh-berlin-potsdamer-platz",
+   "event_slugs": [
+    "berlinale-2027",
+    "republica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "NH Collection Berlin Friedrichstrasse",
+   "stars": 4,
+   "address": "Friedrichstraße 96, 10117 Berlin, Germany",
+   "lat": 52.5195761,
+   "lon": 13.3888965,
+   "distance_km": {
+    "berlinale-2027": 1.41,
+    "devopscon-berlin-2027": 0.18,
+    "ijs-berlin-2027": 0.18,
+    "mlcon-berlin-2027": 0.18,
+    "offensivecon-2027": 0.87,
+    "webinale-berlin-2027": 0.18
+   },
+   "url": "https://www.nh-collection.com/en/hotel/nh-collection-berlin-friedrichstrasse",
+   "event_slugs": [
+    "berlinale-2027",
+    "devopscon-berlin-2027",
+    "ijs-berlin-2027",
+    "mlcon-berlin-2027",
+    "offensivecon-2027",
+    "webinale-berlin-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Novotel Berlin Mitte",
+   "stars": 4,
+   "address": "Fischerinsel 12, 10179 Berlin, Germany",
+   "lat": 52.512978,
+   "lon": 13.405055,
+   "distance_km": {
+    "berlinale-2027": 2.03,
+    "devopscon-berlin-2027": 1.32,
+    "ijs-berlin-2027": 1.32,
+    "mlcon-berlin-2027": 1.32,
+    "offensivecon-2027": 0.85,
+    "webinale-berlin-2027": 1.32
+   },
+   "url": "https://all.accor.com/hotel/3278/index.en.shtml",
+   "event_slugs": [
+    "berlinale-2027",
+    "devopscon-berlin-2027",
+    "ijs-berlin-2027",
+    "mlcon-berlin-2027",
+    "offensivecon-2027",
+    "webinale-berlin-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Berlin Wittenbergplatz",
+   "stars": 4,
+   "address": "Wittenbergplatz 3, 10789 Berlin, Germany",
+   "lat": 52.501029,
+   "lon": 13.342554,
+   "distance_km": {
+    "berlinale-2027": 2.44,
+    "republica-2027": 2.2,
+    "superreturn-international-2027": 0.72
+   },
+   "url": "https://all.accor.com/hotel/9147/index.en.shtml",
+   "event_slugs": [
+    "berlinale-2027",
+    "republica-2027",
+    "superreturn-international-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Berlin City",
+   "stars": 4,
+   "address": "Invalidenstrasse 38, 10115 Berlin, Germany",
+   "lat": 52.53024,
+   "lon": 13.381882,
+   "distance_km": {
+    "transmediale-2027": 2.01
+   },
+   "url": "https://all.accor.com/hotel/5341/index.en.shtml",
+   "event_slugs": [
+    "transmediale-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "INNSiDE by Meliá Berlin Mitte",
+   "stars": 4,
+   "address": "Chausseestraße 33, 10115 Berlin, Germany",
+   "lat": 52.5330183,
+   "lon": 13.3807686,
+   "distance_km": {
+    "transmediale-2027": 1.71
+   },
+   "url": "https://www.melia.com/en/hotels/germany/berlin/innside-berlin-mitte",
+   "event_slugs": [
+    "transmediale-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/4-sterne-hotels-berlin",
+   "price": null
+  },
+  {
+   "name": "Hotel München Palace",
+   "stars": 5,
+   "address": "Trogerstraße 21, 81675 München, Germany",
+   "lat": 48.1400488,
+   "lon": 11.6012596,
+   "distance_km": {
+    "automatica-2027": 7.16,
+    "dld-munich-2027": 1.51,
+    "ijs-munich-2027": 1.77,
+    "ipc-munich-2027": 1.77,
+    "laser-world-of-photonics-2027": 7.16,
+    "mlcon-munich-2027": 1.8,
+    "productronica-2027": 7.16,
+    "webinale-munich-2027": 1.77
+   },
+   "url": "https://palace-muenchen.de/",
+   "event_slugs": [
+    "automatica-2027",
+    "dld-munich-2027",
+    "ijs-munich-2027",
+    "ipc-munich-2027",
+    "laser-world-of-photonics-2027",
+    "mlcon-munich-2027",
+    "productronica-2027",
+    "webinale-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Hotel Vier Jahreszeiten Kempinski München",
+   "stars": 5,
+   "address": "Maximilianstrasse 17, 80539 München, Germany",
+   "lat": 48.1389,
+   "lon": 11.5815,
+   "distance_km": {
+    "automatica-2027": 8.62,
+    "dld-munich-2027": 2.42,
+    "ijs-munich-2027": 3.0,
+    "ipc-munich-2027": 3.0,
+    "laser-world-of-photonics-2027": 8.62,
+    "mlcon-munich-2027": 3.09,
+    "oktoberfest-munich-2027": 2.2,
+    "productronica-2027": 8.62,
+    "webinale-munich-2027": 3.0
+   },
+   "url": "https://www.kempinski.com/en/munich/hotel-vier-jahreszeiten",
+   "event_slugs": [
+    "automatica-2027",
+    "dld-munich-2027",
+    "ijs-munich-2027",
+    "ipc-munich-2027",
+    "laser-world-of-photonics-2027",
+    "mlcon-munich-2027",
+    "oktoberfest-munich-2027",
+    "productronica-2027",
+    "webinale-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Mandarin Oriental, Munich",
+   "stars": 5,
+   "address": "Neuturmstrasse 1, 80331 München, Germany",
+   "lat": 48.137148,
+   "lon": 11.580885,
+   "distance_km": {
+    "automatica-2027": 8.66,
+    "dld-munich-2027": 2.37,
+    "ijs-munich-2027": 3.14,
+    "ipc-munich-2027": 3.14,
+    "laser-world-of-photonics-2027": 8.66,
+    "mlcon-munich-2027": 3.22,
+    "oktoberfest-munich-2027": 2.13,
+    "productronica-2027": 8.66,
+    "webinale-munich-2027": 3.14
+   },
+   "url": "https://www.mandarinoriental.com/en/munich/altstadt",
+   "event_slugs": [
+    "automatica-2027",
+    "dld-munich-2027",
+    "ijs-munich-2027",
+    "ipc-munich-2027",
+    "laser-world-of-photonics-2027",
+    "mlcon-munich-2027",
+    "oktoberfest-munich-2027",
+    "productronica-2027",
+    "webinale-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Rosewood Munich",
+   "stars": 5,
+   "address": "Kardinal-Faulhaber-Straße 1, 80333 München, Germany",
+   "lat": 48.1411146,
+   "lon": 11.5744216,
+   "distance_km": {
+    "automatica-2027": 9.16,
+    "laser-world-of-photonics-2027": 9.16,
+    "oktoberfest-munich-2027": 1.75,
+    "productronica-2027": 9.16
+   },
+   "url": "https://www.rosewoodhotels.com/en/munich",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "oktoberfest-munich-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Hotel Bayerischer Hof",
+   "stars": 5,
+   "address": "Promenadeplatz 6, 80333 München, Germany",
+   "lat": 48.1404741,
+   "lon": 11.5729285,
+   "distance_km": {
+    "automatica-2027": 9.26,
+    "laser-world-of-photonics-2027": 9.26,
+    "oktoberfest-munich-2027": 1.63,
+    "productronica-2027": 9.26
+   },
+   "url": "https://www.bayerischerhof.de/en/",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "oktoberfest-munich-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "The Charles Hotel",
+   "stars": 5,
+   "address": "Sophienstraße 28, 80333 München, Germany",
+   "lat": 48.1428924,
+   "lon": 11.5625182,
+   "distance_km": {
+    "automatica-2027": 10.05,
+    "laser-world-of-photonics-2027": 10.05,
+    "oktoberfest-munich-2027": 1.11,
+    "productronica-2027": 10.05
+   },
+   "url": "https://www.roccofortehotels.com/hotels-and-resorts/the-charles-hotel/",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "oktoberfest-munich-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Sofitel Munich Bayerpost",
+   "stars": 5,
+   "address": "Bayerstrasse 12, 80335 München, Germany",
+   "lat": 48.139495,
+   "lon": 11.55678,
+   "distance_km": {
+    "oktoberfest-munich-2027": 0.54
+   },
+   "url": "https://all.accor.com/hotel/5413/index.en.shtml",
+   "event_slugs": [
+    "oktoberfest-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Novotel München Messe",
+   "stars": 4,
+   "address": "Willy-Brandt-Platz 1, 81829 München, Germany",
+   "lat": 48.133064,
+   "lon": 11.69264,
+   "distance_km": {
+    "automatica-2027": 0.53,
+    "laser-world-of-photonics-2027": 0.53,
+    "productronica-2027": 0.53
+   },
+   "url": "https://all.accor.com/hotel/5563/index.en.shtml",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Wyndham Garden Munich Messe",
+   "stars": 4,
+   "address": "Stahlgruberring 4, 81829 München, Germany",
+   "lat": 48.1328787,
+   "lon": 11.6629034,
+   "distance_km": {
+    "automatica-2027": 2.61,
+    "laser-world-of-photonics-2027": 2.61,
+    "productronica-2027": 2.61
+   },
+   "url": "https://www.wyndhamhotels.com/wyndham-garden/munich-germany/wyndham-garden-munich-messe/overview",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Hotel Am Moosfeld",
+   "stars": 4,
+   "address": "Am Moosfeld 35, 81829 München, Germany",
+   "lat": 48.1328145,
+   "lon": 11.66167,
+   "distance_km": {
+    "automatica-2027": 2.7,
+    "laser-world-of-photonics-2027": 2.7,
+    "productronica-2027": 2.7
+   },
+   "url": "https://www.hotel-am-moosfeld.de/",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel München Süd Messe",
+   "stars": 4,
+   "address": "Karl-Marx-Ring 87, 81735 München, Germany",
+   "lat": 48.102137,
+   "lon": 11.659327,
+   "distance_km": {
+    "automatica-2027": 4.76,
+    "laser-world-of-photonics-2027": 4.76,
+    "productronica-2027": 4.76
+   },
+   "url": "https://all.accor.com/hotel/1374/index.en.shtml",
+   "event_slugs": [
+    "automatica-2027",
+    "laser-world-of-photonics-2027",
+    "productronica-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel München City Center",
+   "stars": 4,
+   "address": "Senefelder Str. 9, 80336 München, Germany",
+   "lat": 48.137948,
+   "lon": 11.560171,
+   "distance_km": {
+    "oktoberfest-munich-2027": 0.64
+   },
+   "url": "https://all.accor.com/hotel/0878/index.en.shtml",
+   "event_slugs": [
+    "oktoberfest-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Novotel München City Arnulfpark",
+   "stars": 4,
+   "address": "Arnulfstrasse 57, 80636 München, Germany",
+   "lat": 48.145601,
+   "lon": 11.539065,
+   "distance_km": {
+    "oktoberfest-munich-2027": 1.47
+   },
+   "url": "https://all.accor.com/hotel/8866/index.en.shtml",
+   "event_slugs": [
+    "oktoberfest-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Hotel Drei Löwen",
+   "stars": 4,
+   "address": "Schillerstraße 8, 80336 München, Germany",
+   "lat": 48.138529,
+   "lon": 11.5609351,
+   "distance_km": {
+    "oktoberfest-munich-2027": 0.72
+   },
+   "url": "https://www.hotel3loewen.de/",
+   "event_slugs": [
+    "oktoberfest-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "NH Collection München Bavaria",
+   "stars": 4,
+   "address": "Arnulfstraße 2, 80335 München, Germany",
+   "lat": 48.1416214,
+   "lon": 11.5602219,
+   "distance_km": {
+    "oktoberfest-munich-2027": 0.89
+   },
+   "url": "https://www.nh-collection.com/en/hotel/nh-collection-munich-bavaria",
+   "event_slugs": [
+    "oktoberfest-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Hilton Munich City",
+   "stars": 4,
+   "address": "Rosenheimer Straße 15, 81667 München, Germany",
+   "lat": 48.1298108,
+   "lon": 11.5927247,
+   "distance_km": {
+    "dld-munich-2027": 1.26,
+    "ijs-munich-2027": 3.06,
+    "ipc-munich-2027": 3.06,
+    "mlcon-munich-2027": 3.06,
+    "webinale-munich-2027": 3.06
+   },
+   "url": "https://www.hilton.com/en/hotels/muchitw-hilton-munich-city/",
+   "event_slugs": [
+    "dld-munich-2027",
+    "ijs-munich-2027",
+    "ipc-munich-2027",
+    "mlcon-munich-2027",
+    "webinale-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
+   "name": "Novotel München City",
+   "stars": 4,
+   "address": "Hochstrasse 11, 81669 München, Germany",
+   "lat": 48.129516,
+   "lon": 11.58865,
+   "distance_km": {
+    "dld-munich-2027": 1.55,
+    "ijs-munich-2027": 3.27,
+    "ipc-munich-2027": 3.27,
+    "mlcon-munich-2027": 3.29,
+    "webinale-munich-2027": 3.27
+   },
+   "url": "https://all.accor.com/hotel/3280/index.en.shtml",
+   "event_slugs": [
+    "dld-munich-2027",
+    "ijs-munich-2027",
+    "ipc-munich-2027",
+    "mlcon-munich-2027",
+    "webinale-munich-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/4-sterne-hotels-muenchen",
+   "price": null
+  },
+  {
    "name": "InterContinental London – The O2",
    "stars": 5,
    "address": "1 Waterview Drive, Greenwich Peninsula, London SE10 0TW, United Kingdom",
@@ -245932,10 +248035,10 @@ window.ATLASDATA={
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 1321,
+  "conference": 1337,
   "festival": 1499,
   "sports": 203,
-  "dated": 2484,
+  "dated": 2500,
   "dates_tba": 536,
   "postponed": 3,
   "duplicates_merged": 268,
@@ -245943,22 +248046,22 @@ window.ATLASDATA={
    "europe": 1351,
    "middle_east": 156,
    "asia": 508,
-   "africa": 146,
+   "africa": 154,
    "uae": 118,
    "oceania": 160,
-   "north_america": 378,
-   "south_america": 206
+   "north_america": 379,
+   "south_america": 213
   },
-  "expo": 164,
-  "hotels": 42,
+  "expo": 180,
+  "hotels": 77,
   "venues": 168,
   "europe": 1351,
   "middle_east": 156,
   "asia": 508,
-  "africa": 146,
+  "africa": 154,
   "uae": 118,
   "oceania": 160,
-  "north_america": 378,
-  "south_america": 206
+  "north_america": 379,
+  "south_america": 213
  }
 };
