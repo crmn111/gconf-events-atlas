@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T09:56:28Z",
+ "generated": "2026-11-24T10:03:42Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -111042,8 +111042,8 @@ window.ATLASDATA={
    "source_url": "https://www.computextaipei.com.tw/en/index.html",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Dates are local to the host city (Taiwan time, UTC+8).",
-   "lat": 25.0558763,
-   "lng": 121.6154534,
+   "lat": 25.0375198,
+   "lng": 121.5636796,
    "precise": false,
    "category": "tech",
    "topics": [
@@ -245371,6 +245371,490 @@ window.ATLASDATA={
    },
    "source": "https://www.hotelsterren.nl/hotels",
    "price": null
+  },
+  {
+   "name": "Hilton Riyadh Hotel & Residences",
+   "stars": 5,
+   "address": "6623 Al Shohadaa Eastern Ring Road, Riyadh, 13241-2892, Saudi Arabia",
+   "lat": 24.7851909,
+   "lon": 46.7281813,
+   "distance_km": {
+    "leap-2027": 61.35,
+    "black-hat-mea-2027": 61.35,
+    "money2020-middle-east-2027": 61.35,
+    "sadex-2027": 3.66,
+    "industrial-transformation-saudi-2027": 3.66,
+    "ai-infrastructure-data-centers-summit-2027": 3.67,
+    "experts-live-saudi-2026": 7.4,
+    "smart-cities-saudi-expo-2027": 5.54,
+    "superreturn-saudi-arabia-2027": 2.79,
+    "idc-cio-summit-saudi-arabia-2027": 2.79,
+    "idc-it-security-summit-saudi-arabia-2027": 2.79,
+    "idc-ciso-xchange-saudi-arabia-2027": 2.79
+   },
+   "url": "https://www.hilton.com/en/hotels/ruhchhi-hilton-riyadh-hotel-and-residences/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "industrial-transformation-saudi-2027",
+    "ai-infrastructure-data-centers-summit-2027",
+    "experts-live-saudi-2026",
+    "smart-cities-saudi-expo-2027",
+    "superreturn-saudi-arabia-2027",
+    "idc-cio-summit-saudi-arabia-2027",
+    "idc-it-security-summit-saudi-arabia-2027",
+    "idc-ciso-xchange-saudi-arabia-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": {
+    "amount": 224.77,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "experts-live-saudi-2026",
+    "check_in": "2026-11-29",
+    "check_out": "2026-11-30",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Four Seasons Hotel Riyadh at Kingdom Centre",
+   "stars": 5,
+   "address": "Kingdom Centre, Riyadh, 11321, Saudi Arabia",
+   "lat": 24.711037,
+   "lon": 46.6733604,
+   "distance_km": {
+    "leap-2027": 63.26,
+    "black-hat-mea-2027": 63.26,
+    "money2020-middle-east-2027": 63.26,
+    "sadex-2027": 7.05,
+    "industrial-transformation-saudi-2027": 7.05,
+    "ai-infrastructure-data-centers-summit-2027": 6.95,
+    "data-centre-technology-confex-ksa-2027": 4.9,
+    "experts-live-saudi-2026": 16.35,
+    "human-capability-initiative-2027": 6.28,
+    "smart-cities-saudi-expo-2027": 14.91,
+    "superreturn-saudi-arabia-2027": 11.73,
+    "idc-cio-summit-saudi-arabia-2027": 11.73,
+    "idc-it-security-summit-saudi-arabia-2027": 11.73,
+    "idc-ciso-xchange-saudi-arabia-2027": 11.73
+   },
+   "url": "https://www.fourseasons.com/riyadh/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "industrial-transformation-saudi-2027",
+    "ai-infrastructure-data-centers-summit-2027",
+    "data-centre-technology-confex-ksa-2027",
+    "experts-live-saudi-2026",
+    "human-capability-initiative-2027",
+    "smart-cities-saudi-expo-2027",
+    "superreturn-saudi-arabia-2027",
+    "idc-cio-summit-saudi-arabia-2027",
+    "idc-it-security-summit-saudi-arabia-2027",
+    "idc-ciso-xchange-saudi-arabia-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "The Ritz-Carlton, Riyadh",
+   "stars": 5,
+   "address": "AlHada Area, Mekkah Road, Riyadh, 11493, Saudi Arabia",
+   "lat": 24.665848968283527,
+   "lon": 46.630880151593885,
+   "distance_km": {
+    "leap-2027": 64.6,
+    "black-hat-mea-2027": 64.6,
+    "money2020-middle-east-2027": 64.6,
+    "human-capability-initiative-2027": 0.35,
+    "edgex-2027": 0.01
+   },
+   "url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "human-capability-initiative-2027",
+    "edgex-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null,
+   "venue_slug": "the-ritz-carlton-riyadh"
+  },
+  {
+   "name": "Mandarin Oriental Al Faisaliah, Riyadh",
+   "stars": 5,
+   "address": "King Fahad Road, Al Olaya, Riyadh 12212, Saudi Arabia",
+   "lat": 24.69054908956177,
+   "lon": 46.68417281028663,
+   "distance_km": {
+    "middle-east-banking-ai-analytics-summit-2027": 2.53
+   },
+   "url": "https://www.mandarinoriental.com/en/riyadh/olaya",
+   "event_slugs": [
+    "middle-east-banking-ai-analytics-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null,
+   "venue_slug": "mandarin-oriental-al-faisaliah-riyadh"
+  },
+  {
+   "name": "Hyatt Regency Riyadh Olaya",
+   "stars": 5,
+   "address": "Olaya Street, Al Olaya, Riyadh 12213, Saudi Arabia",
+   "lat": 24.6981993,
+   "lon": 46.6821165,
+   "distance_km": {
+    "leap-2027": 64.92,
+    "black-hat-mea-2027": 64.92,
+    "money2020-middle-east-2027": 64.92,
+    "sadex-2027": 7.49,
+    "data-centre-technology-confex-ksa-2027": 6.5,
+    "human-capability-initiative-2027": 5.96,
+    "edgex-2027": 6.31,
+    "telecoms-ai-summit-2027": 3.37,
+    "saudi-stem-leadership-summit-2027": 3.58,
+    "dcn-riyadh-2027": 1.04
+   },
+   "url": "https://www.hyatt.com/hyatt-regency/en-US/ruhhr-hyatt-regency-riyadh-olaya",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "data-centre-technology-confex-ksa-2027",
+    "human-capability-initiative-2027",
+    "edgex-2027",
+    "telecoms-ai-summit-2027",
+    "saudi-stem-leadership-summit-2027",
+    "dcn-riyadh-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "Mövenpick Hotel and Residences Riyadh",
+   "stars": 5,
+   "address": "3478 North Ring Road Exit 4, Al Ghadeer District, 13311 Riyadh, Saudi Arabia",
+   "lat": 24.764139,
+   "lon": 46.653389,
+   "distance_km": {
+    "leap-2027": 57.51,
+    "black-hat-mea-2027": 57.51,
+    "money2020-middle-east-2027": 57.51,
+    "sadex-2027": 7.48,
+    "industrial-transformation-saudi-2027": 7.48,
+    "ai-infrastructure-data-centers-summit-2027": 7.35,
+    "data-centre-technology-confex-ksa-2027": 3.37,
+    "experts-live-saudi-2026": 11.88,
+    "human-capability-initiative-2027": 10.93,
+    "smart-cities-saudi-expo-2027": 11.02,
+    "superreturn-saudi-arabia-2027": 8.17,
+    "idc-cio-summit-saudi-arabia-2027": 8.17,
+    "idc-it-security-summit-saudi-arabia-2027": 8.17,
+    "idc-ciso-xchange-saudi-arabia-2027": 8.17
+   },
+   "url": "https://all.accor.com/hotel/B4X1/index.en.shtml",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "industrial-transformation-saudi-2027",
+    "ai-infrastructure-data-centers-summit-2027",
+    "data-centre-technology-confex-ksa-2027",
+    "experts-live-saudi-2026",
+    "human-capability-initiative-2027",
+    "smart-cities-saudi-expo-2027",
+    "superreturn-saudi-arabia-2027",
+    "idc-cio-summit-saudi-arabia-2027",
+    "idc-it-security-summit-saudi-arabia-2027",
+    "idc-ciso-xchange-saudi-arabia-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "Narcissus Hotel & Spa Riyadh",
+   "stars": 5,
+   "address": "12212 Olaya Street, Al Olaya, Riyadh, Saudi Arabia",
+   "lat": 24.6957498,
+   "lon": 46.6835589,
+   "distance_km": {
+    "leap-2027": 65.22,
+    "black-hat-mea-2027": 65.22,
+    "money2020-middle-east-2027": 65.22,
+    "sadex-2027": 7.63,
+    "human-capability-initiative-2027": 5.93,
+    "edgex-2027": 6.28,
+    "telecoms-ai-summit-2027": 3.13,
+    "saudi-stem-leadership-summit-2027": 3.28,
+    "middle-east-banking-ai-analytics-summit-2027": 3.08,
+    "dcn-riyadh-2027": 0.74
+   },
+   "url": "https://narcissushotels.com/riyadh/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "human-capability-initiative-2027",
+    "edgex-2027",
+    "telecoms-ai-summit-2027",
+    "saudi-stem-leadership-summit-2027",
+    "middle-east-banking-ai-analytics-summit-2027",
+    "dcn-riyadh-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "voco Riyadh",
+   "stars": 5,
+   "address": "King Fahad Road, Opposite of Ministry of Interior, Riyadh, 13003, Saudi Arabia",
+   "lat": 24.670325,
+   "lon": 46.6957058,
+   "distance_km": {
+    "sadex-2027": 9.63,
+    "human-capability-initiative-2027": 6.26,
+    "telecoms-ai-summit-2027": 2.43,
+    "saudi-stem-leadership-summit-2027": 0.57,
+    "middle-east-banking-ai-analytics-summit-2027": 0.0,
+    "dcn-riyadh-2027": 2.35
+   },
+   "url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+   "event_slugs": [
+    "sadex-2027",
+    "human-capability-initiative-2027",
+    "telecoms-ai-summit-2027",
+    "saudi-stem-leadership-summit-2027",
+    "middle-east-banking-ai-analytics-summit-2027",
+    "dcn-riyadh-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null,
+   "venue_slug": "voco-riyadh"
+  },
+  {
+   "name": "Radisson Blu Hotel, Riyadh Qurtuba",
+   "stars": 4,
+   "address": "Al Thumama Road, Riyadh, Saudi Arabia",
+   "lat": null,
+   "lon": null,
+   "distance_km": {
+    "experts-live-saudi-2026": 1.83,
+    "smart-cities-saudi-expo-2027": 3.0
+   },
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-qurtuba",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "experts-live-saudi-2026",
+    "human-capability-initiative-2027",
+    "smart-cities-saudi-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": {
+    "amount": 167.53,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "experts-live-saudi-2026",
+    "check_in": "2026-11-29",
+    "check_out": "2026-11-30",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Sheraton Riyadh Hotel & Towers",
+   "stars": 4,
+   "address": "Junction of King Fahad and King Abdullah Road, Riyadh, 11623, Saudi Arabia",
+   "lat": 24.7273498,
+   "lon": 46.6653935,
+   "distance_km": {
+    "leap-2027": 61.36,
+    "black-hat-mea-2027": 61.36,
+    "money2020-middle-east-2027": 61.36,
+    "sadex-2027": 6.75,
+    "industrial-transformation-saudi-2027": 6.75,
+    "ai-infrastructure-data-centers-summit-2027": 6.63,
+    "data-centre-technology-confex-ksa-2027": 3.27,
+    "human-capability-initiative-2027": 7.38,
+    "edgex-2027": 7.68,
+    "telecoms-ai-summit-2027": 6.63,
+    "saudi-stem-leadership-summit-2027": 7.19,
+    "middle-east-banking-ai-analytics-summit-2027": 7.04,
+    "dcn-riyadh-2027": 4.69
+   },
+   "url": "https://www.marriott.com/en-us/hotels/ruhsi-sheraton-riyadh-hotel-and-towers/overview/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "industrial-transformation-saudi-2027",
+    "ai-infrastructure-data-centers-summit-2027",
+    "data-centre-technology-confex-ksa-2027",
+    "human-capability-initiative-2027",
+    "edgex-2027",
+    "telecoms-ai-summit-2027",
+    "saudi-stem-leadership-summit-2027",
+    "middle-east-banking-ai-analytics-summit-2027",
+    "dcn-riyadh-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "Novotel Riyadh Sahafa",
+   "stars": 4,
+   "address": "13321 Olaya Street, As Sahafa District, Riyadh, Saudi Arabia",
+   "lat": 24.80694,
+   "lon": 46.6272,
+   "distance_km": {
+    "leap-2027": 52.24,
+    "black-hat-mea-2027": 52.24,
+    "money2020-middle-east-2027": 52.24,
+    "sadex-2027": 11.7,
+    "experts-live-saudi-2026": 10.71,
+    "human-capability-initiative-2027": 15.52,
+    "smart-cities-saudi-expo-2027": 10.8,
+    "superreturn-saudi-arabia-2027": 9.16,
+    "idc-cio-summit-saudi-arabia-2027": 9.16,
+    "idc-it-security-summit-saudi-arabia-2027": 9.16,
+    "idc-ciso-xchange-saudi-arabia-2027": 9.16
+   },
+   "url": "https://all.accor.com/hotel/9698/index.en.shtml",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "experts-live-saudi-2026",
+    "human-capability-initiative-2027",
+    "smart-cities-saudi-expo-2027",
+    "superreturn-saudi-arabia-2027",
+    "idc-cio-summit-saudi-arabia-2027",
+    "idc-it-security-summit-saudi-arabia-2027",
+    "idc-ciso-xchange-saudi-arabia-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "Hilton Garden Inn Riyadh Financial District",
+   "stars": 4,
+   "address": "3606 Northern Ring Road, Al Ghadeer District, Riyadh 13311-6488, Saudi Arabia",
+   "lat": 24.7649617,
+   "lon": 46.6548815,
+   "distance_km": {
+    "leap-2027": 57.54,
+    "black-hat-mea-2027": 57.54,
+    "money2020-middle-east-2027": 57.54,
+    "sadex-2027": 7.34,
+    "industrial-transformation-saudi-2027": 7.34,
+    "ai-infrastructure-data-centers-summit-2027": 7.22,
+    "data-centre-technology-confex-ksa-2027": 3.53,
+    "human-capability-initiative-2027": 11.05,
+    "edgex-2027": 11.28,
+    "telecoms-ai-summit-2027": 10.55,
+    "saudi-stem-leadership-summit-2027": 11.49,
+    "middle-east-banking-ai-analytics-summit-2027": 11.3,
+    "dcn-riyadh-2027": 8.96,
+    "superreturn-saudi-arabia-2027": 7.99,
+    "idc-cio-summit-saudi-arabia-2027": 7.99,
+    "idc-it-security-summit-saudi-arabia-2027": 7.99,
+    "idc-ciso-xchange-saudi-arabia-2027": 7.99
+   },
+   "url": "https://www.hilton.com/en/hotels/ruhskgi-hilton-garden-inn-riyadh-financial-district/",
+   "event_slugs": [
+    "leap-2027",
+    "black-hat-mea-2027",
+    "money2020-middle-east-2027",
+    "sadex-2027",
+    "industrial-transformation-saudi-2027",
+    "ai-infrastructure-data-centers-summit-2027",
+    "data-centre-technology-confex-ksa-2027",
+    "human-capability-initiative-2027",
+    "edgex-2027",
+    "telecoms-ai-summit-2027",
+    "saudi-stem-leadership-summit-2027",
+    "middle-east-banking-ai-analytics-summit-2027",
+    "dcn-riyadh-2027",
+    "superreturn-saudi-arabia-2027",
+    "idc-cio-summit-saudi-arabia-2027",
+    "idc-it-security-summit-saudi-arabia-2027",
+    "idc-ciso-xchange-saudi-arabia-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
   }
  ],
  "venues": [
@@ -246519,6 +247003,520 @@ window.ATLASDATA={
      "source_url": "https://www.addresshotels.com/en/hotels/address-downtown/events/"
     }
    ],
+   "documents": []
+  },
+  {
+   "slug": "viecon-messe-wien",
+   "name": "VIECON Messe Wien",
+   "type": "convention_centre",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Vienna",
+   "address": "Messeplatz 1, 1020 Vienna, Austria",
+   "lat": 48.2150538,
+   "lon": 16.4099202,
+   "url": "https://vieconcenter.at/",
+   "capacity": 29000,
+   "exhibition_sqm": 55000,
+   "halls": "Official halls page: four multifunctional halls offering up to 55,000 sqm gross area, with capacity for up to 29,000 congress participants or 50,000 trade-fair visitors. Official hall areas: Hall A 15,898 sqm; Hall B 14,492 sqm; Hall C 15,898 sqm; Hall D 8,868 sqm (sum 55,156 sqm). Official foyers A 2,200 sqm and D 2,290 sqm are additional. Headline exhibition_sqm follows the official 'up to 55,000 sqm' gross-area figure.",
+   "description": "Vienna congress and exhibition centre, recorded as one venue for all atlas strings that name Messe Wien, VIECON Messe Wien or individual halls C and D. Official exhibition headline is up to 55,000 sqm gross hall area; the published hall areas sum to 55,156 sqm and are listed in spaces rather than averaged into a third figure. capacity_max_delegates is 29,000, the official congress-participant figure. The stored address Messeplatz 1, 1020 Vienna follows the atlas venue string. Coordinates are the atlas precise pin. Buch Wien, BEST Vienna, Ferien-Messe Wien and Wohnen Interieur / Bauen Exterieur are linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "buch-wien-2026",
+    "best-vienna-2027",
+    "ferien-messe-wien-2027",
+    "wohnen-interieur-bauen-exterieur-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://vieconcenter.at/hallen",
+     "label": "Official source"
+    },
+    {
+     "url": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://vieconcenter.at/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halle A",
+     "type": null,
+     "area_sqm": 15898,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 129 x 129 m; clear height min. 8.5 m / max. 12 m.",
+     "source_url": "https://vieconcenter.at/hallen"
+    },
+    {
+     "name": "Foyer A",
+     "type": null,
+     "area_sqm": 2200,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official foyer; height 13 m; not included in the 55,000 sqm hall headline.",
+     "source_url": "https://vieconcenter.at/hallen"
+    },
+    {
+     "name": "Halle B",
+     "type": null,
+     "area_sqm": 14492,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 129 x 129 m; height 8.5 m.",
+     "source_url": "https://vieconcenter.at/hallen"
+    },
+    {
+     "name": "Halle C",
+     "type": null,
+     "area_sqm": 15898,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 129 x 129 m; clear height min. 8.5 m / max. 12 m.",
+     "source_url": "https://vieconcenter.at/hallen"
+    },
+    {
+     "name": "Halle D",
+     "type": null,
+     "area_sqm": 8868,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 112 x 80 m; height min. 12.5 m.",
+     "source_url": "https://vieconcenter.at/hallen"
+    },
+    {
+     "name": "Foyer D",
+     "type": null,
+     "area_sqm": 2290,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official foyer; height 9 m; not included in the 55,000 sqm hall headline.",
+     "source_url": "https://vieconcenter.at/hallen"
+    }
+   ],
+   "documents": [
+    {
+     "title": "VIECON Messe Wien press factsheet",
+     "doc_type": "fact_sheet",
+     "language": "de",
+     "source_url": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
+     "href": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "austria-center-vienna",
+   "name": "Austria Center Vienna",
+   "type": "convention_centre",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Vienna",
+   "address": "Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
+   "lat": 48.2350802,
+   "lon": 16.4146333,
+   "url": "https://www.acv.at/",
+   "capacity": 23122,
+   "exhibition_sqm": 26000,
+   "halls": "Official about page: 21 halls, 134 meeting rooms, and up to 23,122 people (public events 21,162 PAX; non-public 23,122 PAX). Official location page: 5 exhibition halls and over 56,000 sqm on 5 levels, with 56,000 sqm described as flexible total space for exhibitions, trade fairs and product presentations. Official trade-fair page: 5 halls and up to 26,000 sqm of exhibition space that can be combined. Headline exhibition_sqm follows the official trade-fair exhibition figure of 26,000 sqm, not the 56,000 sqm total-space figure. Official Hall X1: 2,968 sqm.",
+   "description": "Austria's largest congress centre, included as a remaining major centre (no atlas event in this country file is hosted here). capacity_max_delegates is 23,122, the official non-public maximum; the official public figure is 21,162. exhibition_sqm is 26,000 from the official trade-fair page. The official about page wording '56,000 m² of exhibition space' is superseded for this field by the more specific official location/trade-fair distinction between 56,000 sqm flexible total space on five levels and up to 26,000 sqm combined exhibition-hall space. Official contacts office@acv.at and sales@acv.at; sales@acv.at is stored as the public sales address. Official address Bruno-Kreisky-Platz 1, 1220 Vienna is confirmed by the Nominatim conference-centre pin used for coordinates.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales@acv.at",
+   "sources": [
+    {
+     "url": "https://www.acv.at/en/about/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.acv.at/en/plan-an-event/trade-show/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.acv.at/en/the-location/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall X1",
+     "type": null,
+     "area_sqm": 2968,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official trade-fair page: total area 2,968 sqm; can be combined with adjoining Hall X2. Other official hall areas were not fully captured from the room-finder page in this pass.",
+     "source_url": "https://www.acv.at/en/plan-an-event/trade-show/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "messe-tulln",
+   "name": "Messe Tulln",
+   "type": "exhibition_grounds",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Tulln",
+   "address": "Messegelände 1, 3430 Tulln, Austria",
+   "lat": 48.3271978,
+   "lon": 16.0366633,
+   "url": "https://www.messe-tulln.at/",
+   "capacity": null,
+   "exhibition_sqm": 32000,
+   "halls": "Official trade-fair-centre table: exhibition space total 32,000 sqm, with Hall 1 2,600; Hall 2 2,400; Hall 3 6,500 plus a 981 sqm convention-centre foyer; Hall 4 3,110; Hall 5 3,267; Hall 6 4,752; Hall 8 1,800; Hall 10 (Niederösterreich Hall) 4,800 sqm. Official Hall 7 is listed as a 1,000 sqm restaurant and is not treated as exhibition space.",
+   "description": "Lower Austria exhibition centre at the official imprint address Messegelände 1, 3430 Tulln. exhibition_sqm is 32,000, the official exhibition-space total. A people-capacity headline was not published in that hall table, so capacity_max_delegates is null. Official contact messe@tulln.at. The atlas boat-show pin is not marked precise; coordinates are the Nominatim exhibition-centre pin. The Austrian Boat Show / Boot Tulln is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "austrian-boat-show-boot-tulln-2027"
+   ],
+   "contact_email": "messe@tulln.at",
+   "sources": [
+    {
+     "url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messe-tulln.at/impressum/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 2600,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 60.00 x 39.00 m; height 11.00–14.40 m.",
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 2400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 80.00 x 30.00 m; height 10.00 m.",
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 6500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 102.00 x 65.00 m; height 12.00–17.00 m. Official convention-centre foyer 981 sqm is listed separately.",
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 3 convention centre foyer",
+     "type": null,
+     "area_sqm": 981,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 3110,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 3267,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 4752,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 8",
+     "type": null,
+     "area_sqm": 1800,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 60.00 x 30.00 m; height 10.00 m.",
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    },
+    {
+     "name": "Hall 10 - Niederösterreich Hall",
+     "type": null,
+     "area_sqm": 4800,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 70.00 x 65.00 m; height 13.40–19.00 m.",
+     "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "messezentrum-salzburg",
+   "name": "Messezentrum Salzburg",
+   "type": "exhibition_grounds",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Salzburg",
+   "address": "Am Messezentrum 1, 5020 Salzburg, Austria",
+   "lat": 47.8235872,
+   "lon": 13.0296761,
+   "url": "https://www.mzs.at/",
+   "capacity": null,
+   "exhibition_sqm": 39257,
+   "halls": "Official halls page: eleven exhibition halls with a total area of 39,257 sqm; Hall 10 is the largest at 15,165 sqm and can be divided into nine segments. Official basic-info page also states an indoor area of 40,000 sqm and 21 seminar and conference rooms; headline exhibition_sqm follows the official halls-page total of 39,257 sqm, with the 40,000 sqm basic-info figure noted. Official salzburgarena interior space 2,545 sqm / 4,900 theatre is listed separately and is not added to exhibition_sqm.",
+   "description": "Salzburg exhibition centre at the official imprint address Am Messezentrum 1, 5020 Salzburg, included as a remaining major Austrian centre. exhibition_sqm is 39,257 from the official halls table. A campus delegate headline for the halls themselves was not used (the official 4,900-seat salzburgarena figure is an arena, not the exhibition-hall total), so capacity_max_delegates is null. Official contact office@mzs.at. Coordinates are the Nominatim exhibition-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "office@mzs.at",
+   "sources": [
+    {
+     "url": "https://www.mzs.at/en/location/halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mzs.at/en/location/basic-info-messezentrum-salzburg/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mzs.at/en/imprint/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 2529,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table 2,529 sqm; 45.4 x 55.7 m; height 9.1 m.",
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 2933,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 1860,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 2172,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 1958,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 2877,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": 2235,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 8",
+     "type": null,
+     "area_sqm": 2768,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 9",
+     "type": null,
+     "area_sqm": 2215,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "Hall 10",
+     "type": null,
+     "area_sqm": 15165,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official largest hall; 127.5 x 120.0 m; height 9.0 m; divisible into segments 10 A–I.",
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    },
+    {
+     "name": "salzburgarena",
+     "type": null,
+     "area_sqm": 2545,
+     "capacity_max": null,
+     "capacity_theatre": 4900,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official interior space 2,545 sqm, theatre 4,900; not included in the 39,257 sqm exhibition-hall total.",
+     "source_url": "https://www.mzs.at/en/location/halls/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "tu-graz-campus-inffeldgasse",
+   "name": "TU Graz, Campus Inffeldgasse",
+   "type": "other",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Graz",
+   "address": null,
+   "lat": 47.0569776,
+   "lon": 15.4569431,
+   "url": "https://www.tugraz.at/en/tu-graz/university/campus-inffeldgasse",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Graz University of Technology's Inffeldgasse campus, recorded as type other. Official campus page: https://www.tugraz.at/en/tu-graz/university/campus-inffeldgasse. The official site footer lists the university's Rechbauerstraße 12, 8010 Graz address, which is the main campus, so it is not stored as this venue's street address; a distinct official Inffeldgasse street number was not copied from that page, so address is null. Official event-capacity figures for the campus were not published on the retrieved page, so capacity fields are null. Coordinates are the atlas precise pin. Grazer Linuxtage is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "grazer-linuxtage-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.tugraz.at/en/tu-graz/university/campus-inffeldgasse",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
    "documents": []
   },
   {
@@ -248963,6 +249961,1238 @@ window.ATLASDATA={
     }
    ],
    "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "palexpo-geneva",
+   "name": "Palexpo",
+   "type": "convention_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Le Grand-Saconnex",
+   "address": "Route François-Peyrot 30, 1218 Le Grand-Saconnex, Geneva, Switzerland",
+   "lat": 46.235175,
+   "lon": 6.1145561,
+   "url": "https://www.palexpo.ch/",
+   "capacity": 10000,
+   "exhibition_sqm": 106000,
+   "halls": "Official halls page: 7 interconnected halls totalling 106,000 sqm indoor exhibition area. Official facilities/organiser pages: 29 conference rooms (capacities from 200 to 2,500, and up to 10,000 in custom-designed spaces), plus 7 offices/secretariats and foyers. Official outdoor Parc Sarasin 21,000 sqm and Outdoor Esplanade 15,500 sqm are not included in exhibition_sqm.",
+   "description": "Geneva international exhibition and congress centre next to the airport. Official indoor exhibition area is 106,000 sqm in seven combinable halls (all pillar-free except Hall 3). Official organiser page states conference-room capacities from 200 to 2,500 people, and up to 10,000 in custom-designed spaces; capacity_max_delegates follows that 10,000 custom-space figure. Hall areas on the official halls page: Hall 1 15,500; Hall 2 (and offices) 16,500; Hall 3 (and rooms) 1,500–2,250; Hall 4 15,500; Hall 5 15,500; Hall 6 27,000; Hall 7 13,000 sqm. The atlas events Art Genève, the Geneva book fair and Watches and Wonders are linked here; Watches and Wonders also uses official In The City sites across Geneva, which are not recorded as a single invented venue. Coordinates are the atlas precise pin. Official enquiry address info@palexpo.ch.",
+   "photo": null,
+   "linked_event_slugs": [
+    "art-geneve-2027",
+    "salon-du-livre-geneve-2027",
+    "watches-and-wonders-geneva-2027"
+   ],
+   "contact_email": "info@palexpo.ch",
+   "sources": [
+    {
+     "url": "https://www.palexpo.ch/en/halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.palexpo.ch/en/facilities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.palexpo.ch/en/organizer/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.palexpo.ch/en/about-palexpo/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 15500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 2 and its offices",
+     "type": null,
+     "area_sqm": 16500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 3 and its rooms",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official surface area given as a range: 1,500–2,250 sqm.",
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 15500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 15500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 27000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": 13000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Outdoor Esplanade",
+     "type": null,
+     "area_sqm": 15500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor space; not included in exhibition_sqm.",
+     "source_url": "https://www.palexpo.ch/en/halls/"
+    },
+    {
+     "name": "Parc Sarasin",
+     "type": null,
+     "area_sqm": 21000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official stabilised outdoor park opposite the main entrance; not included in exhibition_sqm.",
+     "source_url": "https://www.palexpo.ch/en/facilities/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "messe-and-congress-center-basel",
+   "name": "Messe and Congress Center Basel",
+   "type": "convention_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Basel",
+   "address": "Messeplatz 10, 4005 Basel, Switzerland",
+   "lat": 47.5643136,
+   "lon": 7.5997196,
+   "url": "https://www.messe-basel.com/",
+   "capacity": 10000,
+   "exhibition_sqm": null,
+   "halls": "Official about/venue pages: five exhibition halls and 25 conference rooms, with a total of 141,000 sqm of exhibition and event space. Official about page: main hall up to 10,000 people; largest single room up to 3,000; Congress Center Basel for congresses with up to 5,000 participants. Congress Center Basel and Hall 4 are in the same building (official venue page).",
+   "description": "Basel exhibition and congress campus operated by MCH, recorded as one venue because the official site presents the halls and Congress Center Basel as a single connected complex. The official 141,000 sqm figure is worded as exhibition and event space, not a confirmed indoor-exhibition-only total, so exhibition_sqm is left null rather than storing that combined figure. Current official venue-page hall floors (preferred over the older venue-overview PDF where they differ): Hall 1.0 20,000, 1.1 32,000, 1.2 14,500; Event Hall 3,300 (and 2,600 also listed); Hall 2.0 14,000, 2.1 15,000, 2.2 15,500; Hall 4.U 4,100, 4.0 3,000, 4.1 4,000 sqm. The official PDF lists Hall 1.0 as 20,250, 1.1 as 31,300 and 1.2 as 14,700 sqm. capacity_max_delegates is the official main-hall figure of 10,000; the official 5,000-participant congress and 3,000-person Event Hall/plenary figures are noted. Official contact addresses include Messeplatz 10, 4005 Basel and Congress Center Basel at Messeplatz 21, 4058 Basel; the stored address follows Messeplatz 10, which is also the atlas venue string. Coordinates are the atlas precise pin. Igeho, Fantasy Basel and Liste Art Fair are linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fantasy-basel-2027",
+    "liste-art-fair-2027",
+    "igeho-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.messe-basel.com/en/about-us",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messe-basel.com/en/venue",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messe-basel.com/assets/mccb-venue-overview-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messe-basel.com/en/contact",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1.0",
+     "type": null,
+     "area_sqm": 20000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official venue page 20,000 sqm; official venue-overview PDF lists 20,250 sqm.",
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 1.1",
+     "type": null,
+     "area_sqm": 32000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official venue page 32,000 sqm; official venue-overview PDF lists 31,300 sqm. Liste Art Fair uses Hall 1.1.",
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 1.2",
+     "type": null,
+     "area_sqm": 14500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official venue page 14,500 sqm; official venue-overview PDF lists 14,700 sqm.",
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Event Hall",
+     "type": null,
+     "area_sqm": 3300,
+     "capacity_max": null,
+     "capacity_theatre": 3000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venue page also lists 2,600 sqm beside 3,300. Official about page: largest single room up to 3,000 people. Official PDF: Event Hall 3,300 sqm, concert 3,000, seminar 1,792, banquet 1,826.",
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 2.0",
+     "type": null,
+     "area_sqm": 14000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 2.1",
+     "type": null,
+     "area_sqm": 15000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 2.2",
+     "type": null,
+     "area_sqm": 15500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 4.U",
+     "type": null,
+     "area_sqm": 4100,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 4.0",
+     "type": null,
+     "area_sqm": 3000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    },
+    {
+     "name": "Hall 4.1",
+     "type": null,
+     "area_sqm": 4000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-basel.com/en/venue"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Messe and Congress Center Basel venue overview",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.messe-basel.com/assets/mccb-venue-overview-en.pdf",
+     "href": "https://www.messe-basel.com/assets/mccb-venue-overview-en.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "swisstech-convention-center",
+   "name": "SwissTech Convention Center",
+   "type": "convention_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Ecublens",
+   "address": "Quartier Nord EPFL, Route Louis-Favre 2, 1024 Ecublens, Switzerland",
+   "lat": 46.523049,
+   "lon": 6.5646449,
+   "url": "https://www.stcc.ch/",
+   "capacity": 3000,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: capacities from 40 to 3,000, in 1–20 rooms, described as 100% flexible. Official virtual-visit page: Auditoriums A, B and C combine into a 3,000-seat auditorium; Garden level sliding walls open four rooms to 3,460 sqm; Auditorium B plus Campus Foyer can be configured to offer 3,000 sqm of exhibition space.",
+   "description": "EPFL campus convention centre on the official contact address Quartier Nord EPFL, Route Louis-Favre 2, 1024 Ecublens (the municipality on the official site; the atlas event city is Lausanne). Official current pages give a maximum of 3,000 people in the combined Auditorium ABC, which is stored as capacity_max_delegates. Official Garden-level open exhibition space is 3,460 sqm and an auditorium/foyer exhibition layout of 3,000 sqm is also published; no single current official indoor-exhibition campus total was taken from the venue site, so exhibition_sqm is null (an older May 2021 official brochure and third-party association factsheets quote other totals and are not used for the headline). Coordinates are the atlas precise pin, which matches the Nominatim conference-centre pin. Official contact is a form and named staff mailboxes only, so contact_email is null. AMLD is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "amld-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.stcc.ch/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.stcc.ch/virtual-visit/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.stcc.ch/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.stcc.ch/wp-content/uploads/2021/06/SwissTech-Convention-Center-Brochure-May-2021-1.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Auditorium ABC",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 3000,
+     "capacity_theatre": 3000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official combination of Auditoriums A, B and C.",
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    },
+    {
+     "name": "Auditorium A and B combined",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 2107,
+     "capacity_classroom": null,
+     "capacity_banquet": 1100,
+     "capacity_reception": null,
+     "notes": "Official: 2,107 seats in tiers, or gala dining for 1,100 (with Auditorium A alone up to 900 for gala).",
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    },
+    {
+     "name": "Auditorium C",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 450,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    },
+    {
+     "name": "Garden level (four rooms opened)",
+     "type": null,
+     "area_sqm": 3460,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official sliding-wall layout of four Garden rooms plus adjoining foyer described on the virtual-visit page.",
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    },
+    {
+     "name": "Auditorium B with Campus Foyer exhibition layout",
+     "type": null,
+     "area_sqm": 3000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official virtual-visit text: these spaces together offer 3,000 sqm of exhibition space.",
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    },
+    {
+     "name": "Campus Foyer",
+     "type": null,
+     "area_sqm": 1302,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official virtual-visit area for the Campus Foyer.",
+     "source_url": "https://www.stcc.ch/virtual-visit/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "SwissTech Convention Center brochure (May 2021)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.stcc.ch/wp-content/uploads/2021/06/SwissTech-Convention-Center-Brochure-May-2021-1.pdf",
+     "href": "https://www.stcc.ch/wp-content/uploads/2021/06/SwissTech-Convention-Center-Brochure-May-2021-1.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "messe-zurich",
+   "name": "Messe Zürich",
+   "type": "exhibition_grounds",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Zurich",
+   "address": "Wallisellenstrasse 49, 8050 Zürich, Switzerland",
+   "lat": 47.4116046,
+   "lon": 8.5533715,
+   "url": "https://www.messe-zurich.com/",
+   "capacity": 15000,
+   "exhibition_sqm": 30000,
+   "halls": "Official about page: 7 halls and 30,000 sqm of exhibition space, plus 7 conference rooms and a plenum for up to 2,000 people. Official venue page also states a plenary hall / Arena Convention Expo Zürich for up to 15,000 people. Official hall areas: Hall 1 4,430; Hall 2 4,710; Halls 3 and 4 3,840 each; Halls 5 and 6 3,788 each; Hall 7 2,565 sqm (sum 26,961 sqm). Headline exhibition_sqm follows the official 30,000 sqm exhibition-space figure.",
+   "description": "Zurich exhibition centre at Wallisellenstrasse 49 in Oerlikon. Official exhibition total is 30,000 sqm across seven halls; the published individual hall areas sum to 26,961 sqm and are listed in spaces rather than averaged into a third headline. capacity_max_delegates is the official Arena / plenary figure of 15,000; the official 2,000-person plenum is noted. Coordinates are the atlas precise pin, which matches the Nominatim exhibition-centre pin. Zurich Pop Con is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "zurich-pop-con-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.messe-zurich.com/en/venue",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messe-zurich.com/en/about-us",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 4430,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 4710,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 3840,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 3840,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 3788,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 3788,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": 2565,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.messe-zurich.com/en/venue"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "bernexpo",
+   "name": "BERNEXPO",
+   "type": "exhibition_grounds",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Bern",
+   "address": "Mingerstrasse 6, CH-3000 Bern 22, Switzerland",
+   "lat": 46.9589636,
+   "lon": 7.467338,
+   "url": "https://bernexpo.ch/",
+   "capacity": 9000,
+   "exhibition_sqm": null,
+   "halls": "Official rooms page: '150,000 sqm of room for big things' explicitly for halls and the outdoor area, so that figure is not stored as exhibition_sqm. Official halls captured from the same page include Halle 1.2 3,620; Halle 2.0 5,200; Halle 2.1 2,370; Halle 3.0 7,430; Halle 3.1 1,060; Halle 7.1 1,800; and STAGE 4,000 sqm. Halle 2.2 and Halle 3.2 are listed on the official rooms page but their areas were not captured as clean figures in this pass. Official STAGE card also shows a 9,000-person capacity.",
+   "description": "Bern exhibition and events campus. The official 150,000 sqm marketing total includes outdoor area, so exhibition_sqm is null rather than storing a combined indoor-plus-outdoor figure. capacity_max_delegates is 9,000, the official capacity published on the STAGE multifunctional hall card. Official contact address is BERNEXPO AG, Mingerstrasse 6, Postfach, CH-3000 Bern 22 (street and the official postal designation are both retained). Coordinates are the atlas precise pin. Official enquiry address info@bernexpo.ch. Swissdidac Bern is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "swissdidac-bern-2027"
+   ],
+   "contact_email": "info@bernexpo.ch",
+   "sources": [
+    {
+     "url": "https://bernexpo.ch/en/raeume",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bernexpo.ch/en/kontakt",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "STAGE - Multifunktional Halle",
+     "type": null,
+     "area_sqm": 4000,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 1.2",
+     "type": null,
+     "area_sqm": 3620,
+     "capacity_max": 2120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official rooms card shows 2,120 with the hall name.",
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 2.0",
+     "type": null,
+     "area_sqm": 5200,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official rooms card also shows 3,120 among the capacity figures.",
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 2.1",
+     "type": null,
+     "area_sqm": 2370,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 3.0",
+     "type": null,
+     "area_sqm": 7430,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 3.1",
+     "type": null,
+     "area_sqm": 1060,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Halle 7.1",
+     "type": null,
+     "area_sqm": 1800,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "CUBE - Eventsaal",
+     "type": null,
+     "area_sqm": 1305,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "FOYER - Neue Festhalle",
+     "type": null,
+     "area_sqm": 2000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bernexpo.ch/en/raeume"
+    },
+    {
+     "name": "Plenarsaal",
+     "type": null,
+     "area_sqm": 675,
+     "capacity_max": 750,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official rooms card lists 750 with the 675 sqm plenary hall.",
+     "source_url": "https://bernexpo.ch/en/raeume"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kongresszentrum-davos",
+   "name": "Davos Congress Centre",
+   "type": "congress_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Davos",
+   "address": "Talstrasse 49A, Davos, Switzerland",
+   "lat": 46.8006283,
+   "lon": 9.8314613,
+   "url": "https://www.davoscongress.ch/",
+   "capacity": 5000,
+   "exhibition_sqm": null,
+   "halls": "Official 'at a glance' (dated 11 March 2024 on the congress-centre page): total capacity 5,000 people; three independently operated buildings; 34 rooms over a total of 12,000 sqm; room capacities from 20 to 1,800 people.",
+   "description": "Davos congress centre, host of the World Economic Forum Annual Meeting since 1971 according to the official history on the same page. Official total capacity is 5,000 people across 34 rooms and 12,000 sqm of room space in three buildings. The 12,000 sqm official figure is total room area, not labelled as indoor exhibition area, so exhibition_sqm is null. The largest official room capacity is 1,800. Official contact email info@davoscongress.ch. The stored street address follows the atlas venue string Talstrasse 49A; coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "wef-annual-meeting-davos-2027"
+   ],
+   "contact_email": "info@davoscongress.ch",
+   "sources": [
+    {
+     "url": "https://www.davoscongress.ch/en/congress-centre-davos",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Largest official room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official range: room capacities of 20 to 1,800 people. Individual named-room areas were not extracted as a complete official table in this pass.",
+     "source_url": "https://www.davoscongress.ch/en/congress-centre-davos"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "palazzo-dei-congressi-lugano",
+   "name": "Palazzo dei Congressi Lugano",
+   "type": "congress_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Lugano",
+   "address": "Piazza Indipendenza 4, 6900 Lugano, Switzerland",
+   "lat": 46.0050613,
+   "lon": 8.9563358,
+   "url": "https://www.luganoconventions.com/",
+   "capacity": 1130,
+   "exhibition_sqm": null,
+   "halls": "Official convention-centre page capacity table: Room A 1,150 sqm / 1,130 conference; Room B 830 sqm / 550 conference, 300 seminar, 700 banquet, 1,000 standing; plus smaller Rooms C, D, E, G and H and a 1,353 sqm foyer (400 banquet, 1,000 standing).",
+   "description": "Lugano city convention centre at Piazza Indipendenza 4. capacity_max_delegates is 1,130, the official conference capacity of Room A, the largest seated figure on the official table (foyer and Room B standing capacities are each 1,000). No official indoor exhibition-hall total is published on that page, so exhibition_sqm is null. Official enquiry address info@luganoconventions.com. Coordinates are the atlas precise pin. Voxxed Days Ticino is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "voxxed-days-ticino-2027"
+   ],
+   "contact_email": "info@luganoconventions.com",
+   "sources": [
+    {
+     "url": "https://www.luganoconventions.com/en/venues/convention-centre",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Room A",
+     "type": null,
+     "area_sqm": 1150,
+     "capacity_max": 1130,
+     "capacity_theatre": 1130,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table column is conference capacity 1,130.",
+     "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
+    },
+    {
+     "name": "Room B",
+     "type": null,
+     "area_sqm": 830,
+     "capacity_max": 1000,
+     "capacity_theatre": 550,
+     "capacity_classroom": 300,
+     "capacity_banquet": 700,
+     "capacity_reception": 1000,
+     "notes": "Official size 38 x 22 m; seminar column stored as classroom.",
+     "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
+    },
+    {
+     "name": "Room C",
+     "type": null,
+     "area_sqm": 110,
+     "capacity_max": null,
+     "capacity_theatre": 100,
+     "capacity_classroom": 50,
+     "capacity_banquet": 80,
+     "capacity_reception": 110,
+     "notes": "Official size 18 x 6 m.",
+     "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
+    },
+    {
+     "name": "Room E",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": null,
+     "capacity_theatre": 100,
+     "capacity_classroom": 75,
+     "capacity_banquet": 70,
+     "capacity_reception": 100,
+     "notes": null,
+     "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
+    },
+    {
+     "name": "Foyer",
+     "type": null,
+     "area_sqm": 1353,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 400,
+     "capacity_reception": 1000,
+     "notes": null,
+     "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kursaal-bern",
+   "name": "Kursaal Bern",
+   "type": "congress_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Bern",
+   "address": "Kornhausstrasse 3, Bern, Switzerland",
+   "lat": 46.9534697,
+   "lon": 7.4485801,
+   "url": "https://kursaal-bern.ch/",
+   "capacity": 1357,
+   "exhibition_sqm": null,
+   "halls": "Official rooms page: events for two to 1,357 people, including Kursaal Arena 800 sqm (200 to 1,357 people, height 9.55 m) and Kursaal Forum 1,719 sqm (300 to 1,357 people, height 3.50 m), plus Aare, Panorama, Szenario and smaller meeting rooms.",
+   "description": "Bern congress and events house on Kornhausstrasse. Official maximum is 1,357 people in both the Arena and the Forum. No official exhibition-hall total is published on the rooms pages captured here, so exhibition_sqm is null. Official events address events@kursaal-bern.ch. Coordinates are the atlas precise pin, which matches the Nominatim named Kursaal pin at Kornhausstrasse 3. Swiss Cyber Storm is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "swiss-cyber-storm-2027"
+   ],
+   "contact_email": "events@kursaal-bern.ch",
+   "sources": [
+    {
+     "url": "https://kursaal-bern.ch/en/plan/rooms",
+     "label": "Official source"
+    },
+    {
+     "url": "https://kursaal-bern.ch/en/plan/event-formats/congresses",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Kursaal Arena",
+     "type": null,
+     "area_sqm": 800,
+     "capacity_max": 1357,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 200 to 1,357 people; height 9.55 m.",
+     "source_url": "https://kursaal-bern.ch/en/plan/rooms"
+    },
+    {
+     "name": "Kursaal Forum",
+     "type": null,
+     "area_sqm": 1719,
+     "capacity_max": 1357,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 300 to 1,357 people; height 3.50 m.",
+     "source_url": "https://kursaal-bern.ch/en/plan/rooms"
+    },
+    {
+     "name": "Aare",
+     "type": null,
+     "area_sqm": 374,
+     "capacity_max": 298,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 42 to 298 people; height 3.10 m.",
+     "source_url": "https://kursaal-bern.ch/en/plan/rooms"
+    },
+    {
+     "name": "Szenario 1+2",
+     "type": null,
+     "area_sqm": 355,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official combined Szenario 1+2 355 sqm, height 3.4 m (Szenario 1 126 sqm; Szenario 2 227 sqm).",
+     "source_url": "https://kursaal-bern.ch/en/plan/event-formats/congresses"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "stageone-zurich",
+   "name": "StageOne Event & Convention Hall",
+   "type": "convention_centre",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Zurich",
+   "address": "Elias-Canetti-Strasse 146, CH-8050 Zürich, Switzerland",
+   "lat": 47.4113376,
+   "lon": 8.5392486,
+   "url": "https://stage-one.ch/",
+   "capacity": 2000,
+   "exhibition_sqm": null,
+   "halls": "Official April 2026 documentation: spaces configurable for up to 2,000 people, with an 817 sqm open hall area (Offene Fläche) plus workshop/seminar rooms, cubes and a lounge. Official documentation also lists concert/theatre seating figures of 650 and 750 in floor layouts.",
+   "description": "Industrial event and convention hall on the former ABB site near Zurich Oerlikon, with official address Elias-Canetti-Strasse 146, 8050 Zürich. Official April 2026 venue documentation states setups for up to 2,000 people, stored as capacity_max_delegates. No single official indoor exhibition-hall total is labelled, so exhibition_sqm is null; the official 817 sqm open hall area is recorded as a space. Official enquiry address info@stage-one.ch. Coordinates are the atlas precise pin. AI x Summit Zurich is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ai-x-summit-zurich-2027"
+   ],
+   "contact_email": "info@stage-one.ch",
+   "sources": [
+    {
+     "url": "https://stage-one.ch/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://stage-one.ch/en/download/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Open hall area (Offene Fläche)",
+     "type": null,
+     "area_sqm": 817,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf"
+    },
+    {
+     "name": "Concert / theatre seating layouts",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 750,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official documentation lists concert/theatre seating figures of 650 and 750 for floor layouts; 750 is stored as the larger official theatre figure.",
+     "source_url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "StageOne documentation (April 2026, English)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
+     "href": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "cern-science-gateway",
+   "name": "CERN Science Gateway",
+   "type": "other",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Meyrin",
+   "address": null,
+   "lat": 46.2336734,
+   "lon": 6.0566427,
+   "url": "https://sciencegateway.cern/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official CERN page: the Science Gateway Auditorium and the Globe of Science and Innovation are available for events (co-)organised by CERN as well as private events, subject to the published booking rules. Named-room capacities were not confirmed from the official pages successfully retrieved in this pass (the previously cited venues-hire PDF URL returned HTTP 404).",
+   "description": "CERN's public science centre and event venue in Meyrin, recorded as type other because it is not a purpose-built city convention centre. Official CERN guidance confirms that the Science Gateway Auditorium can be used for events, including Voxxed Days CERN, which is linked here. Official hire-capacity figures could not be confirmed from a live official document in this pass, so capacity and area fields are null. Coordinates are the atlas precise pin. A street address was not copied from the retrieved official pages, so address is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "voxxed-days-cern-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://home.cern/how-can-i-use-cern-science-gateway/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sciencegateway.cern/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "villa-beaulieu-st-moritz",
+   "name": "Villa Beaulieu",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "St. Moritz",
+   "address": "Via Arona 34, 7500 St. Moritz, Switzerland",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.villa-beaulieu.ch/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Boutique hotel above Lake St. Moritz at the official address Via Arona 34, 7500 St. Moritz. Official contact email allegra@villa-beaulieu.ch. Industry Days is linked here from the atlas venue string. Official meeting-room capacities were not published as clear figures on the homepage captured in this pass, so capacity fields are null. No HotellerieSuisse classification listing for this specific property was found in this pass, so star_rating is null. The atlas pin is not precise; Nominatim for Via Arona 34 returned a pin labelled as the former Klinik Gut rather than Villa Beaulieu, so coordinates are null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "industry-days-2027"
+   ],
+   "contact_email": "allegra@villa-beaulieu.ch",
+   "sources": [
+    {
+     "url": "https://www.villa-beaulieu.ch/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "arena-cinemas-sihlcity",
+   "name": "Arena Cinemas Sihlcity",
+   "type": "other",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Zurich",
+   "address": "Kalanderplatz 8, CH-8045 Zürich, Switzerland",
+   "lat": 47.3584763,
+   "lon": 8.5225671,
+   "url": "https://www.arena.ch/de/sihlcity",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Cinema complex in Sihlcity, Zurich, recorded as type other. Official site name Arena Cinemas Sihlcity Zürich; official directions/imprint address Kalanderplatz 8, CH-8045 Zürich. Official contact is a form, so contact_email is null. Cinema auditorium capacities were not extracted from official seating plans in this pass, so capacity fields are null. Coordinates are the atlas precise pin. Voxxed Days Zurich is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "voxxed-days-zurich-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.arena.ch/de/sihlcity",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.arena.ch/de/sihlcity/kino-infos/kontakt",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.arena.ch/de/sihlcity/kino-infos/anfahrt",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "baur-au-lac",
+   "name": "Baur au Lac",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Zurich",
+   "address": "Talstrasse 1, 8001 Zürich, Switzerland",
+   "lat": 47.3671121,
+   "lon": 8.5393433,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Zurich lakeside hotel at the official HotellerieSuisse directory address Talstrasse 1, 8001 Zürich. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is not a sixth star and is recorded only in this description. Official meeting-capacity figures were not captured from a live hotel meetings page in this pass (the meetings URL tried returned 404), so capacity fields are null. Coordinates are the Nominatim hotel pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-baur-au-lac",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-dolder-grand",
+   "name": "The Dolder Grand",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Zurich",
+   "address": "Kurhausstrasse 65, 8032 Zürich, Switzerland",
+   "lat": 47.3727936,
+   "lon": 8.5733694,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Zurich hillside hotel at the official HotellerieSuisse directory address Kurhausstrasse 65, 8032 Zürich. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. Official meeting-capacity figures were not captured from a live hotel meetings page in this pass, so capacity fields are null. Coordinates are the Nominatim hotel pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-the-dolder-grand",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "beau-rivage-palace",
+   "name": "Beau-Rivage Palace",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Lausanne",
+   "address": "Place du Port 17-19, CH-1006 Lausanne, Switzerland",
+   "lat": 46.5079299,
+   "lon": 6.6304031,
+   "url": "https://www.brp.ch/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Lausanne lakefront hotel. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. The stored address Place du Port 17-19, 1006 Lausanne is published on the official hotel meetings-and-events page (alongside related on-site outlets). Official numeric meeting-room capacities were not extracted as a clear table from that page, so capacity fields are null. Official general contact info@brp.ch. Coordinates are the Nominatim hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "info@brp.ch",
+   "sources": [
+    {
+     "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-beau-rivage-palace",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.brp.ch/en/meetings-events",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "four-seasons-hotel-des-bergues",
+   "name": "Four Seasons Hotel des Bergues",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Geneva",
+   "address": "Quai des Bergues 33, 1201 Genève, Switzerland",
+   "lat": 46.2070338,
+   "lon": 6.1469866,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Geneva lakeside hotel at the official HotellerieSuisse directory address Quai des Bergues 33, 1201 Genève. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. The official Four Seasons meetings page requested in this pass returned HTTP 403, so meeting capacities are null. Coordinates are the Nominatim hotel pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-four-seasons-hotel-des-bergues",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
    "spaces": [],
    "documents": []
   },
@@ -254174,6 +256404,589 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "coex",
+   "name": "COEX",
+   "type": "convention_centre",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Seoul",
+   "address": "513 Yeongdong-daero, Gangnam-gu, Seoul 06164, South Korea",
+   "lat": 37.5118733,
+   "lon": 127.0591105,
+   "url": "https://business.coex.co.kr/",
+   "capacity": 7000,
+   "exhibition_sqm": 36007,
+   "halls": "Official facilities page: Hall A 10,368 sqm (up to 520 3x3 m booths); Hall B 8,010 sqm including swing space (up to 360 booths); THE PLATZ 2,224 sqm (up to 114 booths); Hall C 10,348 sqm (up to 520 booths); Hall D 7,281 sqm including swing space (up to 360 booths). Halls A–D sum to 36,007 sqm, stored as exhibition_sqm. Official Hall D text: can accommodate about 7,000 people at once.",
+   "description": "Seoul convention and exhibition centre in Gangnam, recorded as one venue for all COEX hall variants in the atlas (Halls A–E references, Grand Ballroom and Hall C 3F). Official indoor exhibition total for Halls A–D is 36,007 sqm; THE PLATZ is an additional official 2,224 sqm event hall and is listed as a space, not added into that A–D total. capacity_max_delegates is 7,000, the official Hall D people figure. The official address 513 Yeongdong-daero, Gangnam-gu, Seoul 06164 matches the atlas venue string. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "kimes-2027",
+    "food-week-korea-2027",
+    "seoul-illustration-fair-2026",
+    "education-korea-2027",
+    "world-it-show-2027",
+    "smart-tech-korea-2027",
+    "semicon-korea-2027",
+    "seoul-international-book-fair-2027",
+    "ai-expo-korea-2027",
+    "comeup-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://business.coex.co.kr/exhibition-hall/facilities-information/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 10368,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 10,368 sqm; up to 520 3x3 m booths; level 1F.",
+     "source_url": "https://business.coex.co.kr/exhibition-hall/facilities-information/"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 8010,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 8,010 sqm including swing space; exhibition hall proper also described as 7,290 sqm plus swing space; up to 360 3x3 m booths; level 1F.",
+     "source_url": "https://business.coex.co.kr/exhibition-hall/facilities-information/"
+    },
+    {
+     "name": "THE PLATZ",
+     "type": null,
+     "area_sqm": 2224,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official new event hall on 2F; up to 114 booths (3x2x2.5 m). Not included in the 36,007 sqm A–D exhibition total.",
+     "source_url": "https://business.coex.co.kr/exhibition-hall/facilities-information/"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 10348,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 10,348 sqm; up to 520 3x3 m booths; level 3F, includes column-free space.",
+     "source_url": "https://business.coex.co.kr/exhibition-hall/facilities-information/"
+    },
+    {
+     "name": "Hall D",
+     "type": null,
+     "area_sqm": 7281,
+     "capacity_max": 7000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7,281 sqm including swing space; up to 360 3x3 m booths; about 7,000 people; level 3F.",
+     "source_url": "https://business.coex.co.kr/exhibition-hall/facilities-information/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kintex",
+   "name": "KINTEX",
+   "type": "convention_centre",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Goyang",
+   "address": "217-60, Kintex-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do, 10390, Republic of Korea",
+   "lat": 37.6691579,
+   "lon": 126.7455958,
+   "url": "https://www.kintex.com/",
+   "capacity": null,
+   "exhibition_sqm": 108011,
+   "halls": "Official overview tables: KINTEX 1 Halls 1–5 total 53,541 sqm (Halls 1 and 5 10,611 sqm; Halls 2–4 10,773 sqm each) plus a 2,849 sqm outdoor exhibition area excluded from exhibition_sqm; KINTEX 2 Halls 6–10 total 54,470 sqm (Hall 6 5,580; Halls 7–8 11,290 each; Hall 9 13,238; Hall 10 13,072). Indoor halls 53,541 + 54,470 = 108,011 sqm. Official about page rounds the campus to 108,000 sqm; headline exhibition_sqm follows the official hall-table total of 108,011. Official text also notes a third exhibition centre planned to take the campus to 178,000 sqm; that future figure is not used.",
+   "description": "Korea International Exhibition Center in Goyang, recorded as one campus covering Exhibition Center 1 (Halls 1–5) and Exhibition Center 2 (Halls 6–10), which official pages describe as connected by a moving walkway. exhibition_sqm is 108,011, the official indoor hall total; the official 2,849 sqm outdoor area is excluded. A campus people-capacity headline was not published on the overview tables captured here, so capacity_max_delegates is null. Official convention enquiry address convention@kintex.com (department mailbox). The about-page footer also prints a named staff mailbox, which is not used. Coordinates are the atlas precise pin for KINTEX Exhibition Center 1; Center 2 events in the atlas use a nearby but distinct pin and are still linked to this single campus record.",
+   "photo": null,
+   "linked_event_slugs": [
+    "korea-metal-week-2027",
+    "agf-2026",
+    "waterbomb-seoul-2027",
+    "countdown-fantasy-2026"
+   ],
+   "contact_email": "convention@kintex.com",
+   "sources": [
+    {
+     "url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kintex.com/web/en/html/company/about.do",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 10611,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 171 x 63 x 15 m; floor load 5 t/sqm.",
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 10773,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 171 x 63 x 15 m; floor load 5 t/sqm.",
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 10773,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 10773,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 10611,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "KINTEX 1 outdoor exhibition area",
+     "type": null,
+     "area_sqm": 2849,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor area 56 x 52 m; not included in exhibition_sqm.",
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 5580,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 93 x 60 x 10 m; floor load 2 t/sqm.",
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": 11290,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 126 x 90 x 12 m; floor load 5 t/sqm. Countdown Fantasy uses Halls 7–8.",
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 8",
+     "type": null,
+     "area_sqm": 11290,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 9",
+     "type": null,
+     "area_sqm": 13238,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    },
+    {
+     "name": "Hall 10",
+     "type": null,
+     "area_sqm": 13072,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kintex.com/web/en/html/facility/exhibition_overview.do"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "at-center",
+   "name": "aT Center",
+   "type": "convention_centre",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Seoul",
+   "address": "27, Gangnam-daero, Seocho-gu, Seoul, Korea",
+   "lat": 37.4683697,
+   "lon": 127.0390529,
+   "url": "https://www.at.or.kr/",
+   "capacity": null,
+   "exhibition_sqm": 8047,
+   "halls": "Official exhibition-hall pages: Exhibition Hall I 3,793 sqm (divisible into two rooms; 189 3x3 m booths) on the first floor; Exhibition Hall II 4,254 sqm (divisible into two rooms; 193 3x3 m booths) on the third floor. Combined official hall area 8,047 sqm.",
+   "description": "Seoul convention centre in Yangjae, Seocho-gu, at the official address 27, Gangnam-daero, Seocho-gu, Seoul (Yangjae-dong). exhibition_sqm is 8,047, the sum of the two official exhibition halls. A people-capacity headline was not published on those hall pages, so capacity_max_delegates is null. The atlas Fintech Week pin is not marked precise; the stored coordinates are the Nominatim pin for the named aT Center building, which matches that atlas point. Korea Fintech Week 2026 is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "korea-fintech-week-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.at.or.kr/contents/acen321111/view.action",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.at.or.kr/contents/acen321121/view.action",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall I",
+     "type": null,
+     "area_sqm": 3793,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: first floor; 189 3x3 m booths; divisible into two rooms; multi-purpose area 155 sqm also listed.",
+     "source_url": "https://www.at.or.kr/contents/acen321111/view.action"
+    },
+    {
+     "name": "Exhibition Hall II",
+     "type": null,
+     "area_sqm": 4254,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: third floor, column-free; 193 3x3 m booths; divisible into two rooms; multi-purpose area 470 sqm also listed.",
+     "source_url": "https://www.at.or.kr/contents/acen321121/view.action"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "bexco",
+   "name": "BEXCO",
+   "type": "convention_centre",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Busan",
+   "address": "#55 APEC-ro, Haeundae-gu, Busan 48060, South Korea",
+   "lat": 35.1688423,
+   "lon": 129.1363415,
+   "url": "https://www.bexco.co.kr/",
+   "capacity": null,
+   "exhibition_sqm": 46380,
+   "halls": "Official Exhibition Center 1 table: Hall 1 8,836 sqm plus Halls 2A, 2B, 3A and 3B at 4,418 sqm each, total 26,508 sqm. Official Exhibition Center 2 table: 1F halls totalling 9,936 sqm and 3F halls totalling 9,936 sqm (combined 19,872 sqm). Indoor exhibition total 26,508 + 19,872 = 46,380 sqm.",
+   "description": "Busan exhibition and convention centre at the official address 55 APEC-ro, Haeundae-gu, Busan 48060. Included as a remaining major Korean centre (no atlas conference in this country file is hosted here). exhibition_sqm is 46,380, the sum of the official Exhibition Center 1 and 2 hall totals. A campus people-capacity headline was not taken from the retrieved about/hall pages, so capacity_max_delegates is null. Official contact bexco@bexco.co.kr. Coordinates are the Nominatim conference-centre pin for BEXCO Exhibition Center 1 at the official street address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "bexco@bexco.co.kr",
+   "sources": [
+    {
+     "url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN029",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Center 1 Hall 1",
+     "type": null,
+     "area_sqm": 8836,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 81×108×12.5–22.5 m.",
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039"
+    },
+    {
+     "name": "Exhibition Center 1 Hall 2A",
+     "type": null,
+     "area_sqm": 4418,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039"
+    },
+    {
+     "name": "Exhibition Center 1 Hall 2B",
+     "type": null,
+     "area_sqm": 4418,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039"
+    },
+    {
+     "name": "Exhibition Center 1 Hall 3A",
+     "type": null,
+     "area_sqm": 4418,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039"
+    },
+    {
+     "name": "Exhibition Center 1 Hall 3B",
+     "type": null,
+     "area_sqm": 4418,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039"
+    },
+    {
+     "name": "Exhibition Center 2 first-floor halls (total)",
+     "type": null,
+     "area_sqm": 9936,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 1F total 9,936 sqm (Halls 4B–4F in the official table).",
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040"
+    },
+    {
+     "name": "Exhibition Center 2 third-floor halls (total)",
+     "type": null,
+     "area_sqm": 9936,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 3F total 9,936 sqm (Halls 5A–5E).",
+     "source_url": "https://www.bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "songdo-convensia",
+   "name": "Songdo Convensia",
+   "type": "convention_centre",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Incheon",
+   "address": "123 Central-ro, Yeonsu-gu, Incheon 21998, Republic of Korea",
+   "lat": 37.3887756,
+   "lon": 126.646738,
+   "url": "https://songdoconvensia.visitincheon.or.kr/",
+   "capacity": 20000,
+   "exhibition_sqm": 17021,
+   "halls": "Official exhibition-hall table: Hall 1 4,208 sqm; Hall 2 4,208; Hall 3 4,165; Hall 4 4,440; subtotal 17,021 sqm and 900 3x3 m booths when halls are combined. Official maximum occupancy: theatre 20,000, classroom 14,000, banquet 10,000 for all four halls together.",
+   "description": "Incheon exhibition and convention centre in Songdo, included as a remaining major Korean centre. The official footer address is 123 Central-ro (센트럴로 123), Yeonsu-gu, Incheon 21998. exhibition_sqm is 17,021, the official four-hall total. capacity_max_delegates is 20,000, the official combined theatre occupancy. Official exhibition enquiry address exmkt@ito.or.kr. Coordinates are the Nominatim conference-centre pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "exmkt@ito.or.kr",
+   "sources": [
+    {
+     "url": "https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 4208,
+     "capacity_max": null,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 3500,
+     "capacity_banquet": 2500,
+     "capacity_reception": null,
+     "notes": "Official: 225 3x3 m booths; 45 x 89 m.",
+     "source_url": "https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 4208,
+     "capacity_max": null,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 3500,
+     "capacity_banquet": 2500,
+     "capacity_reception": null,
+     "notes": "Official: 225 3x3 m booths.",
+     "source_url": "https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 4165,
+     "capacity_max": null,
+     "capacity_theatre": 4500,
+     "capacity_classroom": 3300,
+     "capacity_banquet": 2400,
+     "capacity_reception": null,
+     "notes": "Official: 210 3x3 m booths.",
+     "source_url": "https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 4440,
+     "capacity_max": null,
+     "capacity_theatre": 5500,
+     "capacity_classroom": 3700,
+     "capacity_banquet": 2600,
+     "capacity_reception": null,
+     "notes": "Official: 240 3x3 m booths.",
+     "source_url": "https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "the-westin-seoul-parnas",
+   "name": "The Westin Seoul Parnas",
+   "type": "hotel_conference_venue",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Seoul",
+   "address": "524 Bongeunsa-ro, Gangnam-gu, Seoul, South Korea",
+   "lat": 37.5128251,
+   "lon": 127.0572645,
+   "url": "https://seoul.intercontinental.com/iccoex/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Gangnam hotel beside COEX. Official Seoul Metropolitan Government accommodations listing records this property as Korea Tourism Association Tourist Hotel Business 5-star, with listing date 2026-02-11, 656 rooms, and address 524 Bongeunsa-ro, Gangnam-gu, Seoul. star_rating is 5 on that official property-level listing. Official meeting-capacity figures were not captured from a hotel meetings page in this pass, so capacity fields are null. Coordinates are the Nominatim hotel pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://english.seoul.go.kr/service/living/accommodations/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-shilla-seoul",
+   "name": "The Shilla Seoul",
+   "type": "hotel_conference_venue",
+   "country": "South Korea",
+   "cc": "KR",
+   "city": "Seoul",
+   "address": "249 Dongho-ro, Jung-gu, Seoul, South Korea",
+   "lat": 37.5558605,
+   "lon": 127.0051493,
+   "url": "https://www.shilla.net/seoul/index.do",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Jung-gu hotel. Official Seoul Metropolitan Government accommodations listing records this property as Korea Tourism Association Tourist Hotel Business 5-star, with listing date 2024-11-27, 464 rooms, and address 249 Dongho-ro, Jung-gu, Seoul. star_rating is 5 on that official property-level listing. Official meeting-capacity figures were not captured from a hotel meetings page in this pass, so capacity fields are null. Coordinates are the Nominatim hotel pin for the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://english.seoul.go.kr/service/living/accommodations/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "mediterranean-conference-centre",
    "name": "Mediterranean Conference Centre",
    "type": "congress_centre",
@@ -257368,6 +260181,420 @@ window.ATLASDATA={
    "hotel_name": "Sofitel Legend The Grand Amsterdam"
   },
   {
+   "slug": "takina-wellington",
+   "name": "Tākina Wellington Convention and Exhibition Centre",
+   "type": "convention_centre",
+   "country": "New Zealand",
+   "cc": "NZ",
+   "city": "Wellington",
+   "address": null,
+   "lat": -41.2914445,
+   "lon": 174.7812007,
+   "url": "https://www.takina.co.nz/",
+   "capacity": 1600,
+   "exhibition_sqm": 1800,
+   "halls": "Official rooms page: two divisible plenary halls accommodating up to 700 and 1,600 delegates; Tāwhirimātea 1,640 sqm (capacity 300–1,600); Rongomātāne 700 sqm (200–700); Rongomātāne Foyer exhibition space 1,800 sqm for 106 3x3 m booths and capacity 1,800. Official 2024 capacity chart matches these areas and adds combined Tāwhirimātea A+G+B+F 985 sqm / theatre 1,100.",
+   "description": "Wellington purpose-built convention and exhibition centre. Official maximum delegate figure used for capacity_max_delegates is 1,600 in Tāwhirimātea. exhibition_sqm is 1,800, the official Rongomātāne Foyer exhibition hall. Official sales email enquiries@takinaevents.co.nz. A complete official street address was not copied from the retrieved official pages, so address is null; coordinates are the atlas precise pin, which matches the Nominatim conference-centre pin (display name includes 50 Cable Street, not stored as address without an official-page confirmation). FinTech Hui Taumata and the National Cyber Security Summit are linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fintech-hui-taumata-2027",
+    "national-cyber-security-summit-nz-2027"
+   ],
+   "contact_email": "enquiries@takinaevents.co.nz",
+   "sources": [
+    {
+     "url": "https://www.takina.co.nz/organise/rooms-and-spaces",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.takina.co.nz/organise/rooms-and-spaces/exhibition-hall",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Rongomātāne Foyer - Exhibition Hall",
+     "type": null,
+     "area_sqm": 1800,
+     "capacity_max": 1800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 720,
+     "capacity_reception": 1800,
+     "notes": "Official 2024 chart: 1,800 sqm; cabaret 576; 106 3x3 m booths; height 5.5 m.",
+     "source_url": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf"
+    },
+    {
+     "name": "Rongomātāne Plenary Hall (standard)",
+     "type": null,
+     "area_sqm": 700,
+     "capacity_max": null,
+     "capacity_theatre": 638,
+     "capacity_classroom": 315,
+     "capacity_banquet": 360,
+     "capacity_reception": 700,
+     "notes": "Official rooms page range 200–700. Official lengthways layout: theatre 788, banquet 430, cabaret 344.",
+     "source_url": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf"
+    },
+    {
+     "name": "Tāwhirimātea",
+     "type": null,
+     "area_sqm": 1640,
+     "capacity_max": 1600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official rooms page: 1,640 sqm; capacity 300–1,600; divisible into six spaces. Official chart lists component rooms and combinations (A+G+B+F 985 sqm, theatre 1,100, reception 1,000).",
+     "source_url": "https://www.takina.co.nz/organise/rooms-and-spaces"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Tākina room capacity chart (2024)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf",
+     "href": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "te-pae-christchurch",
+   "name": "Te Pae Christchurch Convention Centre",
+   "type": "convention_centre",
+   "country": "New Zealand",
+   "cc": "NZ",
+   "city": "Christchurch",
+   "address": "188 Oxford Terrace, Christchurch, New Zealand",
+   "lat": -43.5295331,
+   "lon": 172.6357429,
+   "url": "https://www.tepae.co.nz/",
+   "capacity": 3600,
+   "exhibition_sqm": 2845,
+   "halls": "Official exhibition-hall page: about 2,800 sqm of flat-floor pillar-less space, expandable up to 3,300 sqm, with a details line of capacity 3,600 guests and floor area 2,845 sqm, divisible into three halls. Official capacity table: Halls 1–4 2,845 sqm / theatre 2,420 / cocktail 2,845 / 191 stands; Halls 1–4 including Dobson 1–4 3,314 sqm / theatre 3,600 / cocktail 3,314 / 210 stands. Headline exhibition_sqm is 2,845 from the official details line and Halls 1–4 row; the page's rounded 2,800 sqm and the 3,300/3,314 sqm Dobson-expanded figures are noted, not averaged. Official full auditorium 1,372 sqm / 1,364 theatre.",
+   "description": "Christchurch convention centre at the official contact address 188 Oxford Terrace. exhibition_sqm is 2,845, the official Halls 1–4 floor area (the same official page also rounds this as 2,800 sqm). capacity_max_delegates is 3,600, the official exhibition-hall capacity when Dobson rooms are included, matching the official capacity-table theatre figure for Halls 1–4 including Dobson 1–4. Official event-enquiry email addresses are hidden in the contact-page script, so contact_email is null. Coordinates are the atlas precise pin. Armageddon Expo Christchurch, a festival hosted at this convention centre, is linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "armageddon-expo-christchurch-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.tepae.co.nz/spaces/exhibition-hall",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tepae.co.nz/assets/documents/Venue-Guide.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tepae.co.nz/contact-us",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halls 1–4",
+     "type": null,
+     "area_sqm": 2845,
+     "capacity_max": null,
+     "capacity_theatre": 2420,
+     "capacity_classroom": 1280,
+     "capacity_banquet": 1440,
+     "capacity_reception": 2845,
+     "notes": "Official: 191 exhibition stands; cabaret 1,152. Official web details also state floor area 2,845 sqm.",
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    },
+    {
+     "name": "Halls 1–4 including Dobson 1–4",
+     "type": null,
+     "area_sqm": 3314,
+     "capacity_max": null,
+     "capacity_theatre": 3600,
+     "capacity_classroom": 2272,
+     "capacity_banquet": null,
+     "capacity_reception": 3314,
+     "notes": "Official expandable layout; 210 stands; cabaret 1,568. Official web copy rounds this as expandable up to 3,300 sqm.",
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    },
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 719,
+     "capacity_max": null,
+     "capacity_theatre": 490,
+     "capacity_classroom": 368,
+     "capacity_banquet": 400,
+     "capacity_reception": 490,
+     "notes": null,
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 706,
+     "capacity_max": null,
+     "capacity_theatre": 490,
+     "capacity_classroom": 368,
+     "capacity_banquet": 400,
+     "capacity_reception": 490,
+     "notes": null,
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 1060,
+     "capacity_max": null,
+     "capacity_theatre": 740,
+     "capacity_classroom": 484,
+     "capacity_banquet": 620,
+     "capacity_reception": 740,
+     "notes": null,
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    },
+    {
+     "name": "Full Auditorium 1–4",
+     "type": null,
+     "area_sqm": 1372,
+     "capacity_max": null,
+     "capacity_theatre": 1364,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Te Pae capacity table",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf",
+     "href": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf",
+     "local": false
+    },
+    {
+     "title": "Te Pae venue guide",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.tepae.co.nz/assets/documents/Venue-Guide.pdf",
+     "href": "https://www.tepae.co.nz/assets/documents/Venue-Guide.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "nzicc",
+   "name": "New Zealand International Convention Centre",
+   "type": "convention_centre",
+   "country": "New Zealand",
+   "cc": "NZ",
+   "city": "Auckland",
+   "address": "101 Hobson Street, Auckland Central, New Zealand",
+   "lat": -36.8491089,
+   "lon": 174.7603109,
+   "url": "https://nzicc.co.nz/",
+   "capacity": 4500,
+   "exhibition_sqm": 6708,
+   "halls": "Official about page: footprint over 30,000 sqm and 32,500 sqm gross floor area; 33 meeting spaces; 2,852-seat theatre (divisible into two 1,235-seat theatres); large events up to 4,500. Official Ariki Hall page: 6,708 sqm under a nine-metre ceiling, for 400 booths or 4,500 guests, with movable walls in 16 configurations. Official opening article also cites convention capacity 3,150, pre-function 2,700, more than 4,000 delegates, and a 2,850-seat theatre (versus 2,852 on the about page). Headline exhibition_sqm is Ariki Hall 6,708 sqm, not the 32,500 sqm GFA.",
+   "description": "Auckland international convention centre, officially opened in February 2026 according to the official media centre, and included as New Zealand's largest remaining purpose-built centre. Official address 101 Hobson Street, Auckland Central, between Hobson Street and Nelson Street. exhibition_sqm is 6,708, official Ariki Hall. capacity_max_delegates is 4,500, the official Ariki Hall / large-events figure; official opening copy also cites more than 4,000 delegates and a 3,150 convention capacity, which are noted rather than averaged. Official contacts kiaora@nzicc.co.nz and sales@nzicc.co.nz; sales@nzicc.co.nz is stored. Coordinates are the Nominatim conference-centre pin for 101 Hobson Street.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales@nzicc.co.nz",
+   "sources": [
+    {
+     "url": "https://nzicc.co.nz/about-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://nzicc.co.nz/our-spaces/ariki-hall/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://nzicc.co.nz/media-centre/the-new-zealand-international-convention-centre-is-officially-open/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ariki Hall",
+     "type": null,
+     "area_sqm": 6708,
+     "capacity_max": 4500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 4500,
+     "notes": "Official: nine-metre ceiling; 400 3x3 m booths or 4,500 guests; divisible in 16 ways.",
+     "source_url": "https://nzicc.co.nz/our-spaces/ariki-hall/"
+    },
+    {
+     "name": "Te Paepae Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 2852,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official about page 2,852 seats, divisible into two 1,235-seat theatres. Official opening article says 2,850-seat theatre.",
+     "source_url": "https://nzicc.co.nz/about-us/"
+    },
+    {
+     "name": "Te Waha",
+     "type": null,
+     "area_sqm": 1140,
+     "capacity_max": 840,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Ariki Hall page: Te Waha 1,140 sqm, up to 840 guests.",
+     "source_url": "https://nzicc.co.nz/our-spaces/ariki-hall/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "auckland-showgrounds",
+   "name": "Auckland Showgrounds",
+   "type": "exhibition_grounds",
+   "country": "New Zealand",
+   "cc": "NZ",
+   "city": "Auckland",
+   "address": "217 Greenlane Road West, Epsom, Auckland, New Zealand",
+   "lat": -36.8914118,
+   "lon": 174.7823158,
+   "url": "https://www.aucklandshowgrounds.co.nz/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: over 18,000 sqm of indoor and outdoor exhibition space. That official total combines indoor and outdoor area, so it is not stored as exhibition_sqm.",
+   "description": "Auckland exhibition grounds at the official footer address 217 Greenlane Road West, Epsom, Auckland, described on the official site as sitting by Cornwall Park in Greenlane. The official 'over 18,000 sqm' figure is indoor and outdoor combined, so exhibition_sqm is null. A people-capacity headline was not published on the homepage captured here, so capacity_max_delegates is null. Official contact admin@nzeec.co.nz. Coordinates are the atlas precise pin, which matches the Nominatim pin. Both Auckland Armageddon Expo editions and the Hutchwilco NZ Boat Show are linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "armageddon-expo-auckland-spring-2027",
+    "armageddon-expo-auckland-winter-2027",
+    "hutchwilco-nz-boat-show-2027"
+   ],
+   "contact_email": "admin@nzeec.co.nz",
+   "sources": [
+    {
+     "url": "https://www.aucklandshowgrounds.co.nz/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "viaduct-events-centre",
+   "name": "Viaduct Events Centre",
+   "type": "convention_centre",
+   "country": "New Zealand",
+   "cc": "NZ",
+   "city": "Auckland",
+   "address": "161 Halsey Street, Wynyard Quarter, Auckland, New Zealand",
+   "lat": -36.8405697,
+   "lon": 174.7594082,
+   "url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+   "capacity": 2850,
+   "exhibition_sqm": null,
+   "halls": "Official venue page and 2025 factsheet: 6,000 sqm three-storey venue with seven versatile rooms. Official Waiheke 1 & 2 2,109 sqm, theatre 2,300, classroom 1,200, banquet 1,200, cocktail 2,850, 130 booths. Official copy also says hosting up to 1,200 guests in one headline, which is the banquet/classroom figure for Waiheke 1 & 2 and is lower than the official 2,850 cocktail and 2,300 theatre figures; capacity_max_delegates follows the largest official room figure, 2,850 cocktail in Waiheke 1 & 2. The 6,000 sqm official figure is the whole three-storey venue, not a labelled indoor exhibition-hall total, so exhibition_sqm is null.",
+   "description": "Waterfront events centre in Wynyard Quarter at the official address 161 Halsey Street. The atlas lists the Auckland Boat Show at Viaduct Events Centre, Jellicoe Harbour and Wynyard Wharf; only the named events centre is recorded here, with the harbour and wharf noted as additional outdoor sites rather than combined into one invented venue. Official contact events@aucklandconventions.co.nz. The atlas pin is not marked precise; coordinates are the Nominatim conference-centre pin for 161 Halsey Street, which matches that atlas point.",
+   "photo": null,
+   "linked_event_slugs": [
+    "auckland-boat-show-2027"
+   ],
+   "contact_email": "events@aucklandconventions.co.nz",
+   "sources": [
+    {
+     "url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+     "label": "Official source"
+    },
+    {
+     "url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Waiheke 1 & 2",
+     "type": null,
+     "area_sqm": 2109,
+     "capacity_max": 2850,
+     "capacity_theatre": 2300,
+     "capacity_classroom": 1200,
+     "capacity_banquet": 1200,
+     "capacity_reception": 2850,
+     "notes": "Official 2025 factsheet: height varied; cabaret 1,330; 130 booths.",
+     "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf"
+    },
+    {
+     "name": "Waiheke 1",
+     "type": null,
+     "area_sqm": 1406,
+     "capacity_max": null,
+     "capacity_theatre": 1800,
+     "capacity_classroom": 1000,
+     "capacity_banquet": 850,
+     "capacity_reception": 2200,
+     "notes": "Official: height 12 m; 100 booths.",
+     "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf"
+    },
+    {
+     "name": "Waiheke 2",
+     "type": null,
+     "area_sqm": 703,
+     "capacity_max": null,
+     "capacity_theatre": 450,
+     "capacity_classroom": 320,
+     "capacity_banquet": 400,
+     "capacity_reception": 600,
+     "notes": "Official: height 3.5 m; 25 booths.",
+     "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf"
+    },
+    {
+     "name": "Kawau",
+     "type": null,
+     "area_sqm": 570,
+     "capacity_max": null,
+     "capacity_theatre": 570,
+     "capacity_classroom": 375,
+     "capacity_banquet": 400,
+     "capacity_reception": 700,
+     "notes": "Official: height 4 m; 30 booths. Official web page also lists this room as 570.15 sqm, rounded here as 570 following the factsheet.",
+     "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Viaduct Events Centre factsheet (2025)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
+     "href": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "mtp-poznan-expo",
    "name": "MTP Poznań Expo / Poznań Congress Center",
    "type": "exhibition_grounds",
@@ -259077,7 +262304,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "The Ritz-Carlton, Riyadh"
   },
   {
    "slug": "intercontinental-riyadh",
@@ -259167,7 +262395,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Mandarin Oriental Al Faisaliah, Riyadh"
   },
   {
    "slug": "voco-riyadh",
@@ -259197,7 +262426,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "voco Riyadh"
   },
   {
    "slug": "princess-nourah-bint-abdulrahman-university",
@@ -259827,6 +263057,370 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.capellahotels.com/en/capella-singapore",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "tainex",
+   "name": "Taipei Nangang Exhibition Center (TaiNEX)",
+   "type": "convention_centre",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Taipei",
+   "address": "No. 1 and No. 2, Jingmao 2nd Rd., Nangang District, Taipei City 11568, Taiwan",
+   "lat": 25.0558763,
+   "lon": 121.6154534,
+   "url": "https://www.tainex.com.tw/",
+   "capacity": 3600,
+   "exhibition_sqm": 75600,
+   "halls": "Official showground tables: TaiNEX 1 first floor 22,680 sqm and fourth floor 22,680 sqm (45,360 sqm); TaiNEX 2 first floor 15,120 sqm and fourth floor 15,120 sqm (30,240 sqm). Combined official exhibition floors 75,600 sqm. Official about page: TaiNEX 1 and 2 together hold more than 5,000 booths and 38 meeting rooms; TaiNEX 2 has a 7th-floor multifunctional conference hall with 14 convertible meeting rooms and a maximum capacity of 3,600 persons. Official about page also cites 156,700 sqm floor space for the TaiNEX 2 building; that is building floor space, not the exhibition-hall total, and is not stored as exhibition_sqm.",
+   "description": "Taipei Nangang exhibition campus operated by TAITRA, recorded as one venue for TaiNEX 1 and TaiNEX 2, which official pages describe as linked by a pedestrian underpass. Official addresses are No. 1, Jingmao 2nd Rd. (Hall 1) and No. 2, Jingmao 2nd Rd. (Hall 2), Nangang District, Taipei City 11568. exhibition_sqm is 75,600, the sum of the four official exhibition floors. capacity_max_delegates is 3,600, the official TaiNEX 2 conference-hall maximum; larger booth/visitor figures are not treated as a delegate capacity. Official enquiry addresses tainex1@taitra.org.tw and tainex2@taitra.org.tw; tainex1@taitra.org.tw is stored. Coordinates are the atlas precise pin used for both halls. Atlas events naming TaiNEX 1, TaiNEX 2 or both, including the TaiNEX portion of COMPUTEX, are linked here. COMPUTEX also uses TWTC and TICC, which are recorded as separate venues.",
+   "photo": null,
+   "linked_event_slugs": [
+    "taipei-cycle-2027",
+    "food-taipei-mega-shows-2027",
+    "taipei-game-show-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "smart-city-summit-expo-2027",
+    "cybersec-2027",
+    "innovex-2027"
+   ],
+   "contact_email": "tainex1@taitra.org.tw",
+   "sources": [
+    {
+     "url": "https://www.tainex.com.tw/en/about/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tainex.com.tw/en/venue/showgrounds/1/1",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tainex.com.tw/en/venue/showgrounds/1/4",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tainex.com.tw/en/venue/showgrounds/2/1",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tainex.com.tw/en/venue/showgrounds/2/4",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "TaiNEX 1, 1F Exhibition",
+     "type": null,
+     "area_sqm": 22680,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: Areas I/J/K 7,750 / 7,180 / 7,550 sqm; 1,161 3x3 m booths; ceiling 9 m.",
+     "source_url": "https://www.tainex.com.tw/en/venue/showgrounds/1/1"
+    },
+    {
+     "name": "TaiNEX 1, 4F Exhibition",
+     "type": null,
+     "area_sqm": 22680,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: Areas L/M/N 7,560 sqm each; 1,306 3x3 m booths; ceiling 14.3–27.3 m, column-free.",
+     "source_url": "https://www.tainex.com.tw/en/venue/showgrounds/1/4"
+    },
+    {
+     "name": "TaiNEX 2, 1F Exhibition",
+     "type": null,
+     "area_sqm": 15120,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: Areas P/Q 7,560 sqm each; 848 3x3 m booths; ceiling 12 m.",
+     "source_url": "https://www.tainex.com.tw/en/venue/showgrounds/2/1"
+    },
+    {
+     "name": "TaiNEX 2, 4F Exhibition",
+     "type": null,
+     "area_sqm": 15120,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: Areas R/S 7,560 sqm each; 872 3x3 m booths; ceiling 9 m.",
+     "source_url": "https://www.tainex.com.tw/en/venue/showgrounds/2/4"
+    },
+    {
+     "name": "TaiNEX 2 multifunctional conference hall (7F)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 3600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 14 convertible meeting rooms; maximum capacity 3,600 persons.",
+     "source_url": "https://www.tainex.com.tw/en/about/about"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "twtc-exhibition-hall-1",
+   "name": "Taipei World Trade Center Exhibition Hall 1",
+   "type": "exhibition_grounds",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Taipei",
+   "address": "No. 5, Section 5, Xinyi Road, Taipei, Taiwan",
+   "lat": 25.0346428,
+   "lon": 121.5620795,
+   "url": "https://www.twtc.com.tw/",
+   "capacity": null,
+   "exhibition_sqm": 23269,
+   "halls": "Official 1F showground page: 23,269 sqm divided into Areas A–D (6,842 / 6,554 / 5,573 / 4,300 sqm), about 1,300 standard 3x3 m booths, and 6 meeting rooms. Official about page also describes a 3,792 sqm second-floor exhibition area, which is recorded as a space and not added into the Hall 1 / 1F headline.",
+   "description": "TAITRA exhibition hall in Xinyi, Taipei, at the official address No. 5, Section 5, Xinyi Road (信義路五段五號). exhibition_sqm is 23,269, the official first-floor showground total used as the Hall 1 headline. A people-capacity headline is not published (only booth counts), so capacity_max_delegates is null. Official contact twtc@taitra.org.tw. Coordinates are the atlas precise pin. Book, comic, EdTech and Innotech events, and the TWTC portion of COMPUTEX, are linked here.",
+   "photo": null,
+   "linked_event_slugs": [
+    "taipei-international-book-exhibition-2027",
+    "comic-exhibition-taipei-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "computex-2027"
+   ],
+   "contact_email": "twtc@taitra.org.tw",
+   "sources": [
+    {
+     "url": "https://www.twtc.com.tw/en/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.twtc.com.tw/en/Floor1",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "1F Area A",
+     "type": null,
+     "area_sqm": 6842,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.twtc.com.tw/en/Floor1"
+    },
+    {
+     "name": "1F Area B",
+     "type": null,
+     "area_sqm": 6554,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.twtc.com.tw/en/Floor1"
+    },
+    {
+     "name": "1F Area C",
+     "type": null,
+     "area_sqm": 5573,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.twtc.com.tw/en/Floor1"
+    },
+    {
+     "name": "1F Area D",
+     "type": null,
+     "area_sqm": 4300,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.twtc.com.tw/en/Floor1"
+    },
+    {
+     "name": "2F exhibition area",
+     "type": null,
+     "area_sqm": 3792,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official about page: 3,792 sqm on the second floor of the Exhibition Hall, with capacity for 177 standard booths. Not included in the 23,269 sqm 1F headline.",
+     "source_url": "https://www.twtc.com.tw/en/about"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "ticc",
+   "name": "Taipei International Convention Center",
+   "type": "convention_centre",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Taipei",
+   "address": "No. 1, Section 5, Xinyi Road, Taipei City 110014, Taiwan",
+   "lat": 25.0335834,
+   "lon": 121.56077,
+   "url": "https://www.ticc.com.tw/",
+   "capacity": 3122,
+   "exhibition_sqm": null,
+   "halls": "Official Plenary Hall space-recommendations page: 3,122 fixed seats (classroom and theatre figures both 3,122) and a hall area of 2,973.0 sqm. Other official meeting rooms exist on the TICC site but were not fully extracted as a campus exhibition total in this pass, so exhibition_sqm is null.",
+   "description": "TAITRA convention centre next to TWTC in Xinyi, at the official address No. 1, Section 5, Xinyi Road, Taipei City 110014. capacity_max_delegates is 3,122, the official Plenary Hall seated capacity. Official contact ticc@taitra.org.tw. Coordinates are the Nominatim conference-centre pin. COMPUTEX is a multi-venue event and is also linked here, alongside TaiNEX and TWTC Hall 1.",
+   "photo": null,
+   "linked_event_slugs": [
+    "computex-2027"
+   ],
+   "contact_email": "ticc@taitra.org.tw",
+   "sources": [
+    {
+     "url": "https://www.ticc.com.tw/wSite/sp?BaseDSD=7&CtUnit=156&ctNode=389&mp=2&roomId=PH&xdUrl=%2FwSite%2Fap%2Fcp_VenueSearch_Eng.jsp",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ticc.com.tw/wSite/lp?ctNode=398&mp=2",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Plenary Hall",
+     "type": null,
+     "area_sqm": 2973,
+     "capacity_max": 3122,
+     "capacity_theatre": 3122,
+     "capacity_classroom": 3122,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 3,122 fixed seats, each with a removable side table; area 2,973.0 sqm.",
+     "source_url": "https://www.ticc.com.tw/wSite/sp?BaseDSD=7&CtUnit=156&ctNode=389&mp=2&roomId=PH&xdUrl=%2FwSite%2Fap%2Fcp_VenueSearch_Eng.jsp"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "taipei-expo-dome",
+   "name": "Taipei Expo Park Expo Dome",
+   "type": "other",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Taipei",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.expopark.taipei/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Expo Dome (爭艷館) in Taipei Expo Park, recorded as type other. MEET Taipei, AI Expo Taiwan and Fancy Frontier are linked here from the atlas venue string. Official English venues page and the Chinese venue-detail page were retrieved, but a clean official area or capacity figure for the Dome was not extracted from those captures, so numeric fields are null rather than taken from unofficial directories. Official foundation contact service@expopark.taipei and a foundation address at No. 1, Yumen St., Zhongshan Dist., Taipei City 104 appear on the official site; the Dome-specific street address was not clearly separated, so address is null. The atlas pins for these events are not marked precise, and Nominatim did not return a named Expo Dome pin, so coordinates are null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fancy-frontier-48",
+    "ai-expo-taiwan-2027",
+    "meet-taipei-2027"
+   ],
+   "contact_email": "service@expopark.taipei",
+   "sources": [
+    {
+     "url": "https://www.expopark.taipei/en/cl.aspx?n=953",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "kaohsiung-exhibition-center",
+   "name": "Kaohsiung Exhibition Center",
+   "type": "convention_centre",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Kaohsiung",
+   "address": null,
+   "lat": 22.6078119,
+   "lon": 120.2984642,
+   "url": "https://www.kecc.com.tw/",
+   "capacity": 20000,
+   "exhibition_sqm": null,
+   "halls": "Official MEET TAIWAN (Taiwan MICE bureau) Kaohsiung page: Venue Capacity 30,023 sqm; 1,024 standard booths; exhibition venue maximum capacity 20,000; 11 meeting rooms; single-room maximum capacity 1,200. The 30,023 sqm official label is 'Venue Capacity' rather than a clearly labelled indoor exhibition-hall total, so exhibition_sqm is null rather than storing that figure.",
+   "description": "Kaohsiung waterfront exhibition centre, included as a remaining major Taiwanese centre. The venue's own website pages requested in this pass returned only a JavaScript shell, so figures are taken from the official MEET TAIWAN bureau page. capacity_max_delegates is 20,000, the official exhibition-venue maximum on that page. A Dome- or hall-level indoor exhibition total was not clearly labelled, so exhibition_sqm is null. Coordinates are the Nominatim exhibition-centre pin (not the nearby station or bus-stop pins of the same name). A complete official street address was not copied from the bureau page, so address is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://mice.meettaiwan.com/meettaiwan/home/en/mice-city/page/kaohsiung/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Single room maximum (official bureau figure)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official MEET TAIWAN: 11 meeting rooms; single room maximum capacity 1,200.",
+     "source_url": "https://mice.meettaiwan.com/meettaiwan/home/en/mice-city/page/kaohsiung/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "academia-sinica-hssb",
+   "name": "Academia Sinica Humanities and Social Sciences Building",
+   "type": "other",
+   "country": "Taiwan",
+   "cc": "TW",
+   "city": "Taipei",
+   "address": "128 Section 2, Academia Road, Nankang, Taipei 115201, Taiwan",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.sinica.edu.tw/en/paragraph/10",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Academia Sinica Humanities and Social Sciences Building (HSSB) in Nangang, recorded as type other. SITCON and HITCON are linked here from the atlas venue string. The stored address and public contact aspublic@gate.sinica.edu.tw are the official Academia Sinica Nankang campus details from the official location page, not a door number isolated to HSSB alone. Official room capacities were not captured from a dedicated HSSB venue page in this pass, so capacity fields are null. The atlas pins are not marked precise, and Nominatim returns separate north and south HSSB building pins rather than one precise venue pin, so coordinates are null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "contact_email": "aspublic@gate.sinica.edu.tw",
+   "sources": [
+    {
+     "url": "https://www.sinica.edu.tw/en/paragraph/10",
      "label": "Official source"
     }
    ],
@@ -261641,8 +265235,8 @@ window.ATLASDATA={
    "south_america": 214
   },
   "expo": 187,
-  "hotels": 191,
-  "venues": 299,
+  "hotels": 203,
+  "venues": 338,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,

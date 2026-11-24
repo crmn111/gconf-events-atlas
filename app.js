@@ -184,6 +184,7 @@ const ISO = {
   India:'IN', China:'CN', Japan:'JP', Australia:'AU', Canada:'CA',
   Mexico:'MX', Brazil:'BR', 'South Africa':'ZA', 'Saudi Arabia':'SA',
   'Sri Lanka':'LK',
+  Taiwan:'TW',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
   Thailand:'TH', Singapore:'SG', 'Hong Kong':'HK', 'South Korea':'KR',
   'New Zealand':'NZ', 'United States':'US', USA:'US'
@@ -570,7 +571,36 @@ function hotelPriceLabel(h, slug){
 function hotelDistLabel(h, slug){
   const d = hotelDistance(h, slug);
   if(d==null) return '';
-  return d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
+  if(d<0.1) return 'At the venue';
+  // Long distances (e.g. Riyadh hotels ~55 km from RECC Malham) must not
+  // read as "nearby": spell the distance out, rounded to the nearest km.
+  if(d>=20) return 'about '+Math.round(d)+' km from the venue';
+  return d.toFixed(1)+' km from the venue';
+}
+function hotelsHaveDistant(list, slug, km){
+  km = km==null ? 20 : km;
+  return (list||[]).some(h => {
+    const d = hotelDistance(h, slug);
+    return d!=null && d>=km;
+  });
+}
+function hotelsForEvent(slug, mappableOnly){
+  let list = hotelsForSlug(slug, mappableOnly);
+  // For far/partial assignments, only show a hotel when its distance can
+  // be stated honestly. Do not list an undated/unmeasured hotel as if it
+  // were nearby.
+  if(hotelsHaveDistant(list, slug)){
+    list = list.filter(h => hotelDistance(h, slug)!=null);
+  }
+  return list;
+}
+function hotelDistanceNote(list, slug){
+  const ds = (list||[]).map(h => hotelDistance(h, slug)).filter(d => d!=null);
+  if(!ds.length || Math.min.apply(null, ds) < 20) return '';
+  const lo = Math.round(Math.min.apply(null, ds));
+  const hi = Math.round(Math.max.apply(null, ds));
+  const span = lo===hi ? 'about '+lo+' km' : 'about '+lo+'–'+hi+' km';
+  return 'These hotels are '+span+' from the venue, not nearby.';
 }
 function hotelIsPartner(h, slug){
   const p = h && h.partner;
@@ -630,7 +660,7 @@ function syncHotelLayer(){
   if(!hasAny || !HOTELS_ON || !onMap) return;
   const slug = openEventSlug();
   if(!slug) return;
-  hotelsForSlug(slug, true).forEach(h => {
+  hotelsForEvent(slug, true).forEach(h => {
     const lat = h.lat, lon = (h.lon!=null?h.lon:h.lng);
     if(lat==null || lon==null) return;
     const mk = L.marker([lat, lon], {icon:hotelIcon(h, slug), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
@@ -643,8 +673,10 @@ function syncHotelLayer(){
 }
 function hotelsSectionHtml(e){
   const slug = e && e.slug;
-  const list = hotelsForSlug(slug);
+  const list = hotelsForEvent(slug);
   if(!list.length) return '';
+  const note = hotelDistanceNote(list, slug);
+  const lead = note ? `<p class="hk-meta">${esc(note)}</p>` : '';
   const items = list.map(h => {
     const stars = h.stars===5 ? 5 : 4;
     const distLab = hotelDistLabel(h, slug);
@@ -655,7 +687,7 @@ function hotelsSectionHtml(e){
     const meta = [h.address, distLab, priceLab, partner].filter(Boolean).join(' · ');
     return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${venueLink}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
   }).join('');
-  return `<div class="dsec hotels"><h4>Hotels</h4><ul>${items}</ul></div>`;
+  return `<div class="dsec hotels"><h4>Hotels</h4>${lead}<ul>${items}</ul></div>`;
 }
 (function bindHotelsToggle(){
   const btn = $('#hotels-btn');
