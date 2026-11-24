@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T04:19:54Z",
+ "generated": "2026-11-24T04:35:43Z",
  "scope": "Conferences and festivals in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -1549,6 +1549,75 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-dsc-europe-2026",
+   "slug": "dsc-europe-2026",
+   "name": "Data Science Conference Europe 2026 (DSC Europe)",
+   "website_url": "https://datasciconference.com/",
+   "start_date": "2026-11-23",
+   "end_date": "2026-11-27",
+   "city": "Belgrade",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Belgrade Fair, Hall 3",
+   "industry": "AI",
+   "format": "In-person",
+   "organizer": "Data Science Conference",
+   "expected_attendance": null,
+   "ticket_price_min": 400.0,
+   "ticket_price_max": 1500.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official ticket page lists AI Builders Pass €400 +VAT, Full Pass €900 +VAT and VIP Pass €1500 +VAT; Lazy Bird tickets were listed as available until 24 Nov 2026.",
+   "ticket_url": "https://datasciconference.com/tickets",
+   "price_source_url": "https://datasciconference.com/tickets",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://datasciconference.com/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.7968533,
+   "lng": 20.437565,
+   "precise": true,
+   "category": "ai",
+   "topics": [
+    "artificial intelligence",
+    "data science",
+    "machine learning"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://datasciconference.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://datasciconference.com/tickets",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 8,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Београдски сајам, 14, Београд на води, Градска општина Савски венац, Београд, Град Београд, Централна Србија, 11000, Србија (query: Belgrade Fair, Belgrade, Serbia). Official page names Belgrade Fair, Hall 3.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official datasciconference.com homepage fetched 24 Nov 2026 headlines 'November 23–27 • Belgrade Fair, Hall 3'. The official tickets page repeats 'DSC Europe 2026 at Belgrade Fair, Hall 3, November 23-27'. The edition was still running on the access date (core conference through 26 Nov, AI Builders Day 27 Nov).",
+   "id": "dsc-europe-2026",
+   "price_eur_min": 400.0,
+   "price_eur_max": 1500.0,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -64331,6 +64400,113 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-beldocs-2027",
+   "slug": "beldocs-2027",
+   "name": "Beldocs 2027",
+   "website_url": "https://www.beldocs.rs/en/festival-en/",
+   "start_date": "2027-04-21",
+   "end_date": "2027-04-27",
+   "city": "Belgrade",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Cinemas across Belgrade",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "Beldocs",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official page: tickets and passes go on sale in March 2027.",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.beldocs.rs/en/festival-en/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.8153318,
+   "lng": 20.4456588,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "documentary",
+    "non-fiction cinema",
+    "European film"
+   ],
+   "photos": [
+    {
+     "src": "img/events/beldocs-2027-1.jpg",
+     "thumb": "img/events/beldocs-2027-1-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/09/beldocs-2026-05-20-opening-yugo-ide-u-ameriku-19.jpg",
+     "page": "https://www.beldocs.rs/en/festival-en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/beldocs-2027-2.jpg",
+     "thumb": "img/events/beldocs-2027-2-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/09/beldocs-2026-05-24-qa-fabrika-ne-sme-da-stane-01.jpg",
+     "page": "https://www.beldocs.rs/en/festival-en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/beldocs-2027-3.jpg",
+     "thumb": "img/events/beldocs-2027-3-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/10/beldocs-2022-05-15-masterclass-zelimir-zilnik-05.jpg",
+     "page": "https://www.beldocs.rs/en/festival-en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/beldocs-2027-4.jpg",
+     "thumb": "img/events/beldocs-2027-4-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/09/beldocs-2026-05-25-awards-04.jpg",
+     "page": "https://www.beldocs.rs/en/festival-en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/beldocs-2027-5.jpg",
+     "thumb": "img/events/beldocs-2027-5-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/09/beldocs-2026-05-20-opening-yugo-ide-u-ameriku-01.jpg",
+     "page": "https://www.beldocs.rs/en/festival-en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/beldocs-2027-6.jpg",
+     "thumb": "img/events/beldocs-2027-6-t.jpg",
+     "orig": "https://www.beldocs.rs/h-content/uploads/2026/05/BELDOCS-foto-Preventer-beldocs.jpg",
+     "page": "https://www.beldocs.rs/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.beldocs.rs/en/festival-en/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 9,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Belgrade, City of Belgrade, Central Serbia, Serbia (query: Belgrade, Serbia). Official 20th-edition page places screenings \"in cinemas across Belgrade\" and does not name a single lead cinema; city-level pin.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official beldocs.rs/en/festival-en/ page fetched 24 Nov 2026 headlines '21–27 April 2027 · Belgrade' for the 20th edition, with film screenings 'in cinemas across Belgrade'. The 2027 schedule is due online in March 2027; ticket sales open in March 2027.",
+   "id": "beldocs-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-blockchain-summit-latam-peru-2027",
    "slug": "blockchain-summit-latam-peru-2027",
    "name": "Blockchain Summit Latam Perú 2027",
@@ -77069,6 +77245,86 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-expo-2027-belgrade",
+   "slug": "expo-2027-belgrade",
+   "name": "Expo 2027 Belgrade",
+   "website_url": "https://www.expobelgrade2027.org/en/about",
+   "start_date": "2027-05-15",
+   "end_date": "2027-08-15",
+   "city": "Belgrade",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "EXPO complex, Surčin, Belgrade",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Expo 2027 Belgrade",
+   "expected_attendance": 4100000,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official programme page: \"Tickets available soon.\"",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.expobelgrade2027.org/en/about",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.7631643,
+   "lng": 20.3020422,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "specialised expo",
+    "sport",
+    "music",
+    "play"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.expobelgrade2027.org/en/about",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.expobelgrade2027.org/en/experience/programme",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.expobelgrade2027.org/en/contact",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://expobelgrade2027.org/index.php",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 1,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official Expo 2027 Belgrade site states \"IN NUMBERS … 4.1M Visitors\" (expobelgrade2027.org index), and the official programme page states \"Over 4 million expected visitors\" and \"93 days. 4 million+ visitors\" for the 15 May–15 August 2027 edition. The official About page says \"more than four million visitors from Serbia and around the world are expected to attend.\"",
+   "attendance_source_url": "https://expobelgrade2027.org/index.php",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Expo 2027, Surčin, Surcin Urban Municipality, City of Belgrade, Central Serbia, Serbia (query: EXPO 2027, Surčin, Belgrade, Serbia). Official contact FAQ: \"EXPO 2027 Belgrade will take place from 15 May to 15 August 2027 in Belgrade, at the future EXPO complex in Surčin.\"",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official expobelgrade2027.org About page fetched 24 Nov 2026: 'From 15 May to 15 August 2027, Belgrade and Serbia will proudly host the Specialised Exhibition Expo 2027 Belgrade, under the theme “Play for Humanity: Sport and Music for All.”' Contact FAQ names the venue as the future EXPO complex in Surčin and the duration as 93 days. Kind is festival and category culture: this is a Specialised Expo centred on play, sport and music, not a tech conference.",
+   "id": "expo-2027-belgrade",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-fantasy-basel-2027",
    "slug": "fantasy-basel-2027",
    "name": "Fantasy Basel 2027",
@@ -81545,8 +81801,8 @@ window.ATLASDATA={
    "sponsorship_prospectus_url": null,
    "year": 2027,
    "source_url": "https://www.gitexbelgrade.com/",
-   "last_scraped_at": "2026-11-23T18:30:34+01:00",
-   "notes": null,
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 44.7968533,
    "lng": 20.437565,
    "precise": true,
@@ -81556,20 +81812,6 @@ window.ATLASDATA={
     "technology"
    ],
    "photos": [
-    {
-     "src": "img/events/gitex-ai-belgrade-2027-1.jpg",
-     "thumb": "img/events/gitex-ai-belgrade-2027-1-t.jpg",
-     "orig": "https://www.gitexbelgrade.com/Images/expo_2027_Img.webp",
-     "page": "https://www.gitexbelgrade.com/",
-     "credit": ""
-    },
-    {
-     "src": "img/events/gitex-ai-belgrade-2027-2.jpg",
-     "thumb": "img/events/gitex-ai-belgrade-2027-2-t.jpg",
-     "orig": "https://www.gitexbelgrade.com/Images/expo_2027_mobile_img.webp",
-     "page": "https://www.gitexbelgrade.com/",
-     "credit": ""
-    },
     {
      "src": "img/events/gitex-ai-belgrade-2027-3.jpg",
      "thumb": "img/events/gitex-ai-belgrade-2027-3-t.jpg",
@@ -81583,16 +81825,27 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.gitexbelgrade.com/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://sajam.rs/en/calendar-2027/",
+     "field": "official"
     }
    ],
    "status": "upcoming",
    "kind": "conference",
+   "rank": 5,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
    "price_checked_at": null,
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Београдски сајам, 14, Београд на води, Градска општина Савски венац, Београд, Град Београд, Централна Србија, 11000, Србија (query: Belgrade Fair, Belgrade, Serbia).",
-   "source_accessed_at": "2026-11-23T18:30:34+01:00",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates, venue and organizer confirmed from the official event page, accessed 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official gitexbelgrade.com page re-fetched 24 Nov 2026 still lists '25–27 MAY 2027 | BELGRADE FAIR, SERBIA', 'OFFICIAL TECH EVENT OF EXPO 2027 BELGRADE', and 'Hosted by the Chamber of Commerce and Industry of Serbia'. The Belgrade Fair 2027 calendar agrees. No date patch; dates stay 25–27 May 2027.",
    "id": "gitex-ai-belgrade-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -90997,6 +91250,109 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-belgrade-tango-encuentro-2027",
+   "slug": "belgrade-tango-encuentro-2027",
+   "name": "Belgrade Tango Encuentro 2027",
+   "website_url": "https://belgradetangoencuentro.com/",
+   "start_date": "2027-06-09",
+   "end_date": "2027-06-14",
+   "city": "Belgrade",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Belgrade Fair, Hall 3 (gran and day milongas); Hall 1A (workshops); Dorćol Platz (warm-up and afterparty)",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Belgrade Tango Encuentro",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official site: registration opens 3 Feb 2027. No 2027 pass prices were published on the prices page fetched 24 Nov 2026.",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://belgradetangoencuentro.com/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.7968533,
+   "lng": 20.437565,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "Argentine tango",
+    "dance",
+    "milonga"
+   ],
+   "photos": [
+    {
+     "src": "img/events/belgrade-tango-encuentro-2027-2.jpg",
+     "thumb": "img/events/belgrade-tango-encuentro-2027-2-t.jpg",
+     "orig": "https://www.belgradetangoencuentro.com/wp-content/uploads/2024/10/Home-temp-2-1024x682.webp",
+     "page": "https://belgradetangoencuentro.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-tango-encuentro-2027-3.jpg",
+     "thumb": "img/events/belgrade-tango-encuentro-2027-3-t.jpg",
+     "orig": "https://www.belgradetangoencuentro.com/wp-content/uploads/2024/10/65a959eff265dd6af07938f1_04_-Photo-by-Marta-Kossakowska-1024x684.webp",
+     "page": "https://belgradetangoencuentro.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-tango-encuentro-2027-4.jpg",
+     "thumb": "img/events/belgrade-tango-encuentro-2027-4-t.jpg",
+     "orig": "https://www.belgradetangoencuentro.com/wp-content/uploads/2024/10/Home-temp-1-1024x678.webp",
+     "page": "https://belgradetangoencuentro.com/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-tango-encuentro-2027-5.jpg",
+     "thumb": "img/events/belgrade-tango-encuentro-2027-5-t.jpg",
+     "orig": "https://www.belgradetangoencuentro.com/wp-content/uploads/2024/11/Mood-Maker-BG-1024x576.webp",
+     "page": "https://belgradetangoencuentro.com/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://belgradetangoencuentro.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://belgradetangoencuentro.com/locations/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://sajam.rs/en/calendar-2027/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 10,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Београдски сајам, 14, Београд на води, Градска општина Савски венац, Београд, Град Београд, Централна Србија, 11000, Србија (query: Belgrade Fair, Belgrade, Serbia). Official locations page names Belgrade Fair Hall 3 (14, Bulevar vojvode Mišića) as the main milonga hall, Hall 1A for workshops, and Dorćol Platz for the Wednesday warm-up and Monday afterparty. Pin is the official Fair address.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official belgradetangoencuentro.com homepage fetched 24 Nov 2026 headlines 'June 9-14, 2027 Belgrade Tango Encuentro' and 'Registration opens Feb 3, 2027'. Dates follow the official festival site (9–14 June). The Belgrade Fair 2027 calendar lists the International Argentine Tango Festival as 10–13 June 2027; those narrower Fair-hall days were not used.",
+   "id": "belgrade-tango-encuentro-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-bergenfest-2027",
    "slug": "bergenfest-2027",
    "name": "Bergenfest 2027",
@@ -98693,6 +99049,89 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-arsenal-fest-2027",
+   "slug": "arsenal-fest-2027",
+   "name": "Arsenal Fest 2027",
+   "website_url": "https://arsenalfest.rs/en/",
+   "start_date": "2027-06-24",
+   "end_date": "2027-06-26",
+   "city": "Kragujevac",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Knežev arsenal, Kragujevac",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Arsenal Fest",
+   "expected_attendance": null,
+   "ticket_price_min": 3500.0,
+   "ticket_price_max": 20000.0,
+   "currency": "RSD",
+   "ticket_price_text": "Official tickets page lists day tickets at 3,500 RSD (24, 25 or 26 June), a 3-day ticket at 6,000 RSD, and VIP tickets at 8,000–20,000 RSD.",
+   "ticket_url": "https://arsenalfest.rs/en/tickets/",
+   "price_source_url": "https://arsenalfest.rs/en/tickets/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://arsenalfest.rs/en/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.0072373,
+   "lng": 20.9123171,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "rock",
+    "metal",
+    "electronic",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/arsenal-fest-2027-1.jpg",
+     "thumb": "img/events/arsenal-fest-2027-1-t.jpg",
+     "orig": "https://arsenalfest.rs/wp-content/uploads/2024/06/LiveProduction2ArsenalDan3Hajlajt-13.jpg",
+     "page": "https://arsenalfest.rs/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://arsenalfest.rs/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://arsenalfest.rs/en/tickets/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://arsenalfest.rs/2026/09/14/arsenal-fest-pocinje-prodaju-ulaznica-za-2027-godinu/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 6,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Кнежев арсенал, Васка Попе, Пивара, Kragujevac, City of Kragujevac, Sumadija Administrative District, Central Serbia, 34114, Serbia (query: Knežev arsenal, Kragujevac, Serbia). Official 14 Sep 2026 news post names Knežev arsenal in Kragujevac as the venue.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official arsenalfest.rs English tickets page fetched 24 Nov 2026 lists Thursday 24 June, Friday 25 June and Saturday 26 June, and the header refers to Arsenal Fest 2027. The official 14 Sep 2026 news post states the 2027 edition will be held 'od 24. do 26. juna' at Knežev arsenal in Kragujevac.",
+   "id": "arsenal-fest-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -121020,6 +121459,81 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official Festival Dranouter homepage (fetched 24 Nov 2026): “Laat je tijdens 6, 7 & 8 augustus 2027 weer verrassen …”",
    "id": "festival-dranouter-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-guca-trumpet-festival-2027",
+   "slug": "guca-trumpet-festival-2027",
+   "name": "Guča Trumpet Festival 2027",
+   "website_url": "https://gucafest.rs/",
+   "start_date": "2027-08-06",
+   "end_date": "2027-08-08",
+   "city": "Guča",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Guča, Municipality of Lučani",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Municipality of Lučani",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://gucafest.rs/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 43.7772932,
+   "lng": 20.2269416,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "trumpet",
+    "brass bands",
+    "folk music",
+    "traditional"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://gucafest.rs/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.serbia.travel/en/events/dragacevo-trumpet-festival/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.serbia.travel/sr/dogadjaji/dragacevski-sabor-trubaca/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 4,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'large' (30,000-100,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Guca, Lucani Municipality, Moravica Administrative District, Central Serbia, 32230, Serbia (query: Guča, Lučani, Serbia). The 66th Dragačevo Trumpet Festival is held in the town of Guča (Municipality of Lučani). Pin is the town.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates 6–8 August 2027 are taken from the official National Tourism Organisation of Serbia event page (serbia.travel), fetched 24 Nov 2026, which lists '06.08.2027 - 08.08.2027' for the Dragačevo Trumpet Festival and names the organiser as the Municipality of Lucani with official site https://gucafest.rs/. The official gucafest.rs homepage itself was still showing the 2026 programme (7–9 August 2026) when fetched the same day, so dates follow the government tourism listing, not the stale organiser homepage. Commercial tourism sites (guca.rs, guca-festival.com) were not used as date sources.",
+   "id": "guca-trumpet-festival-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -146835,6 +147349,123 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-belgrade-book-fair-2027",
+   "slug": "belgrade-book-fair-2027",
+   "name": "International Belgrade Book Fair 2027",
+   "website_url": "https://sajam.rs/en/calendar-2027/book-fair/",
+   "start_date": "2027-10-23",
+   "end_date": "2027-10-31",
+   "city": "Belgrade",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "Belgrade Fair, Halls 1, 1A, 2A and 4",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Belgrade Fair",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Tickets are sold online via Belgrade Fair; no 2027 retail price was published on the official calendar page fetched 24 Nov 2026.",
+   "ticket_url": "https://sajam.rs/en/calendar-2027/book-fair/",
+   "price_source_url": "https://sajam.rs/en/calendar-2027/book-fair/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://sajam.rs/en/calendar-2027/book-fair/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": "Dates are local civil dates in Serbia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 44.7968533,
+   "lng": 20.437565,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "books",
+    "publishing",
+    "literature"
+   ],
+   "photos": [
+    {
+     "src": "img/events/belgrade-book-fair-2027-1.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-1-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sajamknjiga2018_1164.webp",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-book-fair-2027-2.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-2-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sajamknjiga2018_1142.webp",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-book-fair-2027-3.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-3-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sajamknjiga2018_1136.webp",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-book-fair-2027-4.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-4-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sajamknjiga2018_0572.webp",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-book-fair-2027-5.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-5-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sajamknjiga2018_0569.webp",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/belgrade-book-fair-2027-6.jpg",
+     "thumb": "img/events/belgrade-book-fair-2027-6-t.jpg",
+     "orig": "https://sajam.rs/wp-content/uploads/sk19_7225.jpg",
+     "page": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://sajam.rs/en/calendar-2027/book-fair/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.sajamknjiga.rs/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://sajam.rs/en/calendar-2027/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 2,
+   "ranking_basis": "estimate",
+   "size_estimate": "very large",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'very large' (100,000+ attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Београдски сајам, 14, Београд на води, Градска општина Савски венац, Београд, Град Београд, Централна Србија, 11000, Србија (query: Belgrade Fair, Belgrade, Serbia). Official calendar page names Halls 1, 1A, 2A and 4 at Belgrade Fair.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official sajam.rs 2027 calendar page for the Book Fair, fetched 24 Nov 2026, lists the '70th INTERNATIONAL BELGRADE BOOK FAIR (UFI)', 'October 23 – 31, 2027', halls 1, 1A, 2A and 4, organiser Belgrade Fair, and website www.sajamknjiga.rs. The same page's FACTS & FIGURES 'visitors: 134,750' is a standing/previous-edition recap, not a 2027 expected-attendance figure, so it is not stored as expected_attendance; the event is ranked on an estimated 'very large' tier only.",
+   "id": "belgrade-book-fair-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-dok-leipzig-2027",
    "slug": "dok-leipzig-2027",
    "name": "DOK Leipzig 2027",
@@ -164597,7 +165228,7 @@ window.ATLASDATA={
    "sponsorship_prospectus_url": null,
    "year": 2027,
    "source_url": "https://www.exitfest.org/",
-   "last_scraped_at": "2026-11-23T18:45:00+01:00",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
    "notes": "Official pages announce 'EXIT 2027 – next year at the fortress / EXIT is coming home' (29 Oct 2026 news). No official 2027 calendar dates were published in the fetched HTML (headers still showed 10–13 July 2025). Dates left blank.",
    "lat": 45.2521551,
    "lng": 19.8638279,
@@ -164629,20 +165260,6 @@ window.ATLASDATA={
      "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/gala-exit-festival-750x422.jpg",
      "page": "https://www.exitfest.org/",
      "credit": ""
-    },
-    {
-     "src": "img/events/exit-2027-5.jpg",
-     "thumb": "img/events/exit-2027-5-t.jpg",
-     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/Starlight-Festival-1-750x422.jpg",
-     "page": "https://www.exitfest.org/",
-     "credit": ""
-    },
-    {
-     "src": "img/events/exit-2027-6.jpg",
-     "thumb": "img/events/exit-2027-6-t.jpg",
-     "orig": "https://www.exitfest.org/wp-content/uploads/2026/10/Starlight-Festival-750x422.jpg",
-     "page": "https://www.exitfest.org/",
-     "credit": ""
     }
    ],
    "sources": [
@@ -164660,19 +165277,27 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.exitfest.org/en",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.exitfest.org/en/next-year-at-the-fortress-exit-is-coming-home",
+     "field": "official"
     }
    ],
    "status": "dates TBA",
    "kind": "festival",
+   "rank": 3,
+   "ranking_basis": "estimate",
+   "size_estimate": "very large",
    "lineup_url": null,
-   "attendance_note": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'very large' (100,000+ attendees/visits), a judgement from format, venue and scale, not an official number.",
    "attendance_source_url": null,
    "price_checked_at": null,
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Петроварадинска тврђава, Београдска, Подграђе, Стари Мајур, МЗ Петроварадин, Петроварадин, Град Нови Сад, Јужнобачки управни округ, Војводина, 21111, Србија (query: Petrovaradin Fortress, Novi Sad, Serbia).",
-   "source_accessed_at": "2026-11-23T18:45:00+01:00",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "A 2027 homecoming at Petrovaradin Fortress is officially announced, but exact 2027 dates were not present on the official pages fetched 23 Nov 2026. Status: dates TBA. Third-party date reports were not used.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official exitfest.org pages re-fetched 24 Nov 2026 still announce the 2027 homecoming ('DOGODINE NA TVRĐAVI / EXIT IS COMING HOME', news dated 29 Oct 2026) at Petrovaradin Fortress, but do not publish 2027 calendar days (leftover headers still showed 10–13 July 2025). Third-party reports of an Instagram post giving 1–4 July 2027 were not used. Status remains dates TBA. No date patch.",
    "id": "exit-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -175918,6 +176543,128 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "No official 2027 dates were visible on lollaparis.com, fetched 23 Nov 2026.",
    "id": "lollapalooza-paris-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-lovefest-2027",
+   "slug": "lovefest-2027",
+   "name": "Lovefest 2027",
+   "website_url": "https://lovefest.rs/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Vrnjačka Banja",
+   "country": "Serbia",
+   "region": "europe",
+   "venue": "City park, Vrnjačka Banja",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Lovefest",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://lovefest.rs/",
+   "last_scraped_at": "2026-11-24T05:20:00+01:00",
+   "notes": null,
+   "lat": 43.6186383,
+   "lng": 20.8945543,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "photos": [
+    {
+     "src": "img/events/lovefest-2027-1.jpg",
+     "thumb": "img/events/lovefest-2027-1-t.jpg",
+     "orig": "https://lovefest.rs/wp-content/uploads/2025/05/Fire-bina-1024x683.jpg",
+     "page": "https://lovefest.rs/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lovefest-2027-2.jpg",
+     "thumb": "img/events/lovefest-2027-2-t.jpg",
+     "orig": "https://lovefest.rs/wp-content/uploads/2025/05/Energy-bina-1024x683.jpg",
+     "page": "https://lovefest.rs/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lovefest-2027-3.jpg",
+     "thumb": "img/events/lovefest-2027-3-t.jpg",
+     "orig": "https://lovefest.rs/wp-content/uploads/2025/05/Raw-bina-1024x683.jpg",
+     "page": "https://lovefest.rs/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lovefest-2027-4.jpg",
+     "thumb": "img/events/lovefest-2027-4-t.jpg",
+     "orig": "https://lovefest.rs/wp-content/uploads/2025/05/99-Bina.jpg",
+     "page": "https://lovefest.rs/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lovefest-2027-5.jpg",
+     "thumb": "img/events/lovefest-2027-5-t.jpg",
+     "orig": "https://en.lovefest.rs/wp-content/uploads/2025/05/Aleksandra_Pesic_hi-46-scaled-1.jpg",
+     "page": "https://en.lovefest.rs/about-us/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/lovefest-2027-6.jpg",
+     "thumb": "img/events/lovefest-2027-6-t.jpg",
+     "orig": "https://en.lovefest.rs/wp-content/uploads/2025/05/Benny-Gasi-5940-scaled-1.jpg",
+     "page": "https://en.lovefest.rs/about-us/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://lovefest.rs/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://en.lovefest.rs/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://en.lovefest.rs/about-us/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://lovefest.rs/o-nama/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "rank": 7,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Central Spa Park, Vrnjacka Banja, Vrnjacka Banja Municipality, Raska Administrative District, Central Serbia, 36210, Serbia (query: Central Spa Park, Vrnjačka Banja, Serbia). Official about page: since 2014 Lovefest has been held in the city park in Vrnjačka Banja. OSM names the town’s central park Central Spa Park.",
+   "source_accessed_at": "2026-11-24T05:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official lovefest.rs and en.lovefest.rs homepages fetched 24 Nov 2026 headline 'LOVEFEST 2027 LOADING' but publish no 2027 calendar days (the 2026 edition is still listed as 7–8 & 14–15 August 2026). Status is dates TBA. The official About page states the festival was founded in Vrnjačka Banja and, since 2014, 'has been held in the city park', with a standing marketing claim of 'more than 25,000 visitors each day' that is not used as 2027 expected attendance.",
+   "id": "lovefest-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -189042,14 +189789,14 @@ window.ATLASDATA={
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 958,
-  "festival": 1461,
-  "dated": 1948,
-  "dates_tba": 468,
+  "conference": 959,
+  "festival": 1468,
+  "dated": 1955,
+  "dates_tba": 469,
   "postponed": 3,
-  "duplicates_merged": 231,
+  "duplicates_merged": 233,
   "regions": {
-   "europe": 1020,
+   "europe": 1028,
    "middle_east": 133,
    "asia": 426,
    "africa": 135,
@@ -189058,7 +189805,7 @@ window.ATLASDATA={
    "north_america": 271,
    "oceania": 137
   },
-  "europe": 1020,
+  "europe": 1028,
   "middle_east": 133,
   "asia": 426,
   "africa": 135,
