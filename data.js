@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T11:38:06Z",
+ "generated": "2026-11-24T11:57:54Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -2062,7 +2062,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seoul.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seoul.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://seoul.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-autumn-itapa-2026",
@@ -2187,7 +2213,37 @@ window.ATLASDATA={
    "price_eur_min": 110.0,
    "price_eur_max": 450.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/itapask",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCbPoNH7Yx2oqJLkfNbbpygw",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/itapa.bratislava/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/itapa",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-davis-cup-finals-2026",
@@ -2261,7 +2317,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/daviscup/",
+     "operator": "Davis Cup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.daviscup.com/",
+     "accessed_at": "2026-11-24T11:59:33+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@daviscup",
+     "operator": "Davis Cup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.daviscup.com/",
+     "accessed_at": "2026-11-24T11:59:33+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCsyvlpbK0BTEc3jec6nhPyQ",
+     "operator": "Davis Cup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.daviscup.com/",
+     "accessed_at": "2026-11-24T11:59:33+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/daviscup",
+     "operator": "Davis Cup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.daviscup.com/",
+     "accessed_at": "2026-11-24T11:59:33+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DavisCupTennis",
+     "operator": "Davis Cup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.daviscup.com/",
+     "accessed_at": "2026-11-24T11:59:33+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gaming-pulse-2026",
@@ -2344,7 +2442,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/deloittevideo",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/deloittemalta/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-majlis-ai-gatherings-khobar",
@@ -2408,7 +2543,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/majlis.ai/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://majlisai.sa/en/events/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taipei-py-meetup",
@@ -2472,7 +2616,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/taipei_py/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.meetup.com/taipei_py/",
+     "accessed_at": "2026-11-24T11:59:38+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-seoul-independent-film-festival-2026",
@@ -2537,7 +2690,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/siff.kr/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://siff.kr/",
+     "accessed_at": "2026-11-24T12:03:14+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/서울독립영화제",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://siff.kr/",
+     "accessed_at": "2026-11-24T12:03:14+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/siff_kr",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://siff.kr/",
+     "accessed_at": "2026-11-24T12:03:14+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/siff.kr",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://siff.kr/",
+     "accessed_at": "2026-11-24T12:03:14+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ae-global-summit-2026",
@@ -2643,7 +2826,23 @@ window.ATLASDATA={
    "price_eur_min": 52.2,
    "price_eur_max": 104.4,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/8uu3vclv",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.algopreneurship.org/",
+     "accessed_at": "2026-11-24T11:59:41+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/thoughtchannel_",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.algopreneurship.org/",
+     "accessed_at": "2026-11-24T11:59:41+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-wellington",
@@ -2712,7 +2911,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wellington.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:16+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wellington.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:16+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wellington.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-buch-wien-2026",
@@ -2814,7 +3039,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@buch_wien",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.buchwien.at/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/buchwien",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.buchwien.at/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/buchwien/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.buchwien.at/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/buch-wien",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.buchwien.at/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-crypto-hub-malta-meetup",
@@ -2884,7 +3139,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/crypto-ħub-malta",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cryptohubmalta.org/",
+     "accessed_at": "2026-11-24T11:59:42+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/crypto-hub-malta/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cryptohubmalta.org/",
+     "accessed_at": "2026-11-24T11:59:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/damko",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cryptohubmalta.org/",
+     "accessed_at": "2026-11-24T11:59:42+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/damko",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cryptohubmalta.org/",
+     "accessed_at": "2026-11-24T11:59:42+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/damkotelegram",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cryptohubmalta.org/",
+     "accessed_at": "2026-11-24T11:59:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-deai-summit-malta-2026",
@@ -2947,7 +3239,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/deai-summit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/deaisummit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/deaisummit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/deaisummit/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DeAISummit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    },
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/phjit31c",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://deaisummit.org/",
+     "accessed_at": "2026-11-24T11:59:46+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-didac-india-2026",
@@ -3013,7 +3349,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/didac-india",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.didacindia.com/",
+     "accessed_at": "2026-11-24T12:03:12+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/didacindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.didacindia.com/",
+     "accessed_at": "2026-11-24T12:03:12+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DidacIndia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.didacindia.com/",
+     "accessed_at": "2026-11-24T12:03:12+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/didacindia/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.didacindia.com/",
+     "accessed_at": "2026-11-24T12:03:12+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/didacindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.didacindia.com/",
+     "accessed_at": "2026-11-24T12:03:12+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-international-boat-show-2026",
@@ -3078,7 +3451,51 @@ window.ATLASDATA={
    "price_eur_min": 15.0,
    "price_eur_max": 15.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dibshow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dubai-international-boat-show",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dubaiboat",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/DubaiBoatShow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DubaiBoatShow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@boatshowdubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://boatshowdubai.com/",
+     "accessed_at": "2026-11-24T12:03:10+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-idc-cio-summit-qatar-2026",
@@ -3196,7 +3613,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/idc-meta",
+     "operator": "IDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://event.idc.com/event/idc-cio-summit-qatar/",
+     "accessed_at": "2026-11-24T12:03:16+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@idcmetaevents",
+     "operator": "IDC",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://event.idc.com/event/idc-cio-summit-qatar/",
+     "accessed_at": "2026-11-24T12:03:16+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-korea-fintech-week-2026",
@@ -3261,7 +3696,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fintechcenterkorea/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fintechweek.or.kr/en/",
+     "accessed_at": "2026-11-24T12:03:13+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/KORfintech",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fintechweek.or.kr/en/",
+     "accessed_at": "2026-11-24T12:03:13+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-paris-nautic-show-2026",
@@ -3335,7 +3786,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/paris.nautic.show",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.parisnauticshow.com/",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/paris_nautic_show/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.parisnauticshow.com/",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/paris-nautic-show",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.parisnauticshow.com/",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-python-user-group-singapore",
@@ -3409,7 +3883,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/python-user-group-singapore",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://pugs.org.sg/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/singapore-python-user-group/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://pugs.org.sg/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydjs-sydney",
@@ -3483,7 +3973,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/sydjs-classic/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sydjs",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sydjs",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SydJSMeetup",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/Thinkmill",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/samleatherdale.com",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydjs.com/",
+     "accessed_at": "2026-11-24T11:59:40+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vancouver-ai-meetup",
@@ -3557,7 +4091,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/nov-vanai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://bc-ai.ca/events",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/britishcolumbia-ai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://bc-ai.ca/events",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bc.ai.ecosystem/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://bc-ai.ca/events",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@van_ai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://bc-ai.ca/events",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/WalksWithASwagger",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://bc-ai.ca/events",
+     "accessed_at": "2026-11-24T12:03:11+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-sao-paulo",
@@ -3626,7 +4197,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://saopaulo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://saopaulo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://saopaulo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-tokyo",
@@ -3695,7 +4292,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tokyo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tokyo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tokyo.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-toronto",
@@ -3764,7 +4387,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://toronto.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://toronto.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://toronto.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:17+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-affordable-art-fair-singapore-2026",
@@ -3909,7 +4558,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AmsterdamLightFestival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://amsterdamlightfestival.com/",
+     "accessed_at": "2026-11-24T12:03:23+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amsterdamlightfestival/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://amsterdamlightfestival.com/",
+     "accessed_at": "2026-11-24T12:03:23+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AmsterLightFestival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://amsterdamlightfestival.com/",
+     "accessed_at": "2026-11-24T12:03:23+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/amsterdam-light-festival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://amsterdamlightfestival.com/",
+     "accessed_at": "2026-11-24T12:03:23+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-boot-fun-berlin-2026",
@@ -3987,7 +4666,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BOOTUNDFUN",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.outventure-berlin.de/de",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCA7P-p963UCzweUWoGsILjQ",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.outventure-berlin.de/de",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/boot-fun-berlin",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.outventure-berlin.de/de",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/outventure.berlin/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.outventure-berlin.de/de",
+     "accessed_at": "2026-11-24T12:03:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-brave-ai-poznan",
@@ -4056,7 +4765,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/poznan_Q4",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/poznan_Q4",
+     "accessed_at": "2026-11-24T12:03:24+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/brave.courses/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/poznan_Q4",
+     "accessed_at": "2026-11-24T12:03:24+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bravecourses",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/poznan_Q4",
+     "accessed_at": "2026-11-24T12:03:24+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/brave-courses",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/poznan_Q4",
+     "accessed_at": "2026-11-24T12:03:24+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LumaHQ",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/poznan_Q4",
+     "accessed_at": "2026-11-24T12:03:24+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-china-hi-tech-fair-2026",
@@ -4235,7 +4981,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/claude-meetup-mvd-26nov",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
+     "accessed_at": "2026-11-24T12:03:26+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thisisqubika/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
+     "accessed_at": "2026-11-24T12:03:26+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/thisisqubika",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
+     "accessed_at": "2026-11-24T12:03:26+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@thisisqubika",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
+     "accessed_at": "2026-11-24T12:03:26+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/qubika",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
+     "accessed_at": "2026-11-24T12:03:26+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-data-science-summit-2026",
@@ -4308,7 +5091,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/data-science-summit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dssconf.pl/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DSSconference",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dssconf.pl/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DSS_conference",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dssconf.pl/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/Data-Science-Warsaw/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dssconf.pl/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fauna-primavera-2026",
@@ -4373,7 +5186,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/faunaprimaverafest/",
+     "verified_via": "named_on_official_site",
+     "source_url": "https://faunaprimavera.cl/",
+     "accessed_at": "2026-11-24T12:16:59+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hive-furniture-show-2026",
@@ -4675,7 +5497,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/Pykonik/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.pykonik.org/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Pykonik-87835845639",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.pykonik.org/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pykonik",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.pykonik.org/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@pykonik-krk",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.pykonik.org/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/meetpy",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.pykonik.org/",
+     "accessed_at": "2026-11-24T12:03:25+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydpy-sydney",
@@ -4818,7 +5677,37 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techxpoeu",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://techxpo.eu/",
+     "accessed_at": "2026-11-24T12:03:22+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techxpoeu/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://techxpo.eu/",
+     "accessed_at": "2026-11-24T12:03:22+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/techxpoeu",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://techxpo.eu/",
+     "accessed_at": "2026-11-24T12:03:22+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@techxpoeu",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://techxpo.eu/",
+     "accessed_at": "2026-11-24T12:03:22+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-anime-festival-asia-singapore-2026",
@@ -4924,7 +5813,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AFASHOPSG",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://animefestival.asia/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/afashop.co/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://animefestival.asia/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/animefestasia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://animefestival.asia/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-christmas-wonderland-2026",
@@ -5108,7 +6020,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/dreamhack",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dreamhack/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dreamhack",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dreamhack",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DreamHack",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/dreamhack",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://dreamhack.com/stockholm/",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ethwarsaw-meetup",
@@ -5183,7 +6139,23 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ethwarsaw",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ethwarsaw.dev/",
+     "accessed_at": "2026-11-24T12:03:28+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/joinethwarsaw",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ethwarsaw.dev/",
+     "accessed_at": "2026-11-24T12:03:28+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-qatar-grand-prix-2026",
@@ -5285,7 +6257,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Formula1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/f1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/f1/",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/f1",
+     "operator": "F1",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
+     "accessed_at": "2026-11-24T12:03:29+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-malaysia-art-ecosystem-fair-2026",
@@ -5365,7 +6371,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "whatsapp",
+     "url": "https://www.whatsapp.com/channel/0029VajfEBU7NoZwiUrs4W1n",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.malaysia.travel/events/malaysia-art-ecosystem-fair-maef-2026-art-kl",
+     "accessed_at": "2026-11-24T12:03:28+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@malaysiatrulyasia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.malaysia.travel/events/malaysia-art-ecosystem-fair-maef-2026-art-kl",
+     "accessed_at": "2026-11-24T12:03:28+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-milan-games-week-2026",
@@ -5519,7 +6541,81 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MotoGP",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/motogp/",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@motogp",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MotoGP",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@motogp",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MotoGP",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/motogp",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://www.whatsapp.com/channel/0029Va4R14Z1iUxYGtYvLg2M",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/motogp",
+     "operator": "MotoGP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.motogp.com/en/calendar/2026",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-other-voices-dingle-2026",
@@ -5598,7 +6694,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@OtherVoicesLive",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.othervoices.ie/",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/othervoiceslive",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.othervoices.ie/",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/othervoiceslive/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.othervoices.ie/",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/othervoices",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.othervoices.ie/",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@othervoices",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.othervoices.ie/",
+     "accessed_at": "2026-11-24T12:03:27+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pattaya-international-fireworks-festival-2026",
@@ -5662,7 +6795,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AmazingThaiJP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amazingthailandjp/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AmazingThailandJP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/AmazingThailandJP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@amazingthailandjp",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
+     "accessed_at": "2026-11-24T12:03:30+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-together-festival-2026",
@@ -5731,7 +6901,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TogetherFestival",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.bitec.co.th/event/together-festival-2026",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-bachata-festival-kuala-lumpur-2026",
@@ -5879,7 +7058,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/Fxeyxp8Za4",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/rAgeNationGG",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ragenation_gg/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/rAgeNation_GG",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@rAgeNationLive",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ragenation_gg",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/rage-nation",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://ragenation.gg/info",
+     "accessed_at": "2026-11-24T12:03:31+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-binance-blockchain-week-bangkok-2026",
@@ -5949,7 +7179,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Binance/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/binanceyoutube",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@binance",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
+     "accessed_at": "2026-11-24T12:03:36+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chart-book-print-fair-2026",
@@ -6031,7 +7305,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/chartartfaircph",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://chartartfair.com/",
+     "accessed_at": "2026-11-24T12:16:59+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-coca-cola-flow-fest-2026",
@@ -6095,7 +7378,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CocaColaFlow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CocaCola_Flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cocacola_flow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cocacola_flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@cocacola_flow",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cryptocon-sydney-2026",
@@ -6174,7 +7494,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AusCryptoCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/auscryptocon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/auscryptocon/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/australian-crypto-convention",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sydneycryptocon.com/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-devfest-amman-2026",
@@ -6331,7 +7681,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/filgdl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/filguadalajara/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/filguadalajara",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.fil.com.mx/info/informacion.asp",
+     "accessed_at": "2026-11-24T12:03:35+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hanoi-international-film-festival-2026",
@@ -6479,7 +7873,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jaffjogja/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jaffjogja",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JAFFJogja",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jaff-filmfest.org/schedule/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-joyland-festival-jakarta-2026",
@@ -6551,28 +7968,28 @@ window.ATLASDATA={
      "url": "https://www.instagram.com/joylandfest/",
      "verified_via": "linked_from_official_site",
      "source_url": "https://joylandfest.com/",
-     "accessed_at": "2026-11-24T12:20:00+01:00"
+     "accessed_at": "2026-11-24T12:40:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@joylandfest",
      "verified_via": "linked_from_official_site",
      "source_url": "https://joylandfest.com/",
-     "accessed_at": "2026-11-24T12:20:00+01:00"
+     "accessed_at": "2026-11-24T12:40:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/joylandfest",
      "verified_via": "linked_from_official_site",
      "source_url": "https://joylandfest.com/",
-     "accessed_at": "2026-11-24T12:20:00+01:00"
+     "accessed_at": "2026-11-24T12:40:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/joylandfest",
      "verified_via": "linked_from_official_site",
      "source_url": "https://joylandfest.com/",
-     "accessed_at": "2026-11-24T12:20:00+01:00"
+     "accessed_at": "2026-11-24T12:40:00+01:00"
     }
    ]
   },
@@ -6639,7 +8056,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia/",
+     "operator": "Comic Con India",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
+     "accessed_at": "2026-11-24T12:03:34+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-primavera-sound-buenos-aires-2026",
@@ -6825,7 +8268,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/salsaalparque",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FestalParque",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festivalsalsaalparque/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://salsaalparque.gov.co/",
+     "accessed_at": "2026-11-24T12:03:32+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ascilite-2026",
@@ -6953,7 +8419,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpertsLiveKSA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpertsLiveKSA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CloudMechanics",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expertsliveksa",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://expertslive.sa",
+     "accessed_at": "2026-11-24T12:03:38+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aws-reinvent-2026",
@@ -7055,7 +8551,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/awscloud",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/amazonwebservices",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/amazon-web-services",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amazonwebservices/",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AmazonWebServices",
+     "operator": "AWS",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://reinvent.awsevents.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-animateka-2026",
@@ -7146,7 +8684,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/animateka",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC2h_O3B7f7PEl0JvgnWHAIg",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/animateka_festival/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/animateka",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.animateka.si/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-christmas-jazz-2026",
@@ -7215,7 +8783,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jazzkaar",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jazzkaar/",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jazzkaar",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCvhwpvskzVc34ffa8L6oL6A",
+     "operator": "Jazzkaar",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
+     "accessed_at": "2026-11-24T12:03:39+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sigma-south-asia-2026",
@@ -7292,7 +8894,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sigma.world/",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/SiGMAWorldCommunity",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sigmaworld.official",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sigma-world",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SiGMAworld_",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@sigmaworld.official",
+     "operator": "SiGMA",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sigma.world/summits/south-asia/",
+     "accessed_at": "2026-11-24T12:12:05+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wsj-tech-qatar-2026",
@@ -7454,7 +9106,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nagalandt",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tourismdeptgon",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nagalandtourism/",
+     "operator": "Nagaland Tourism",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://tourism.nagaland.gov.in/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-salon-gdansk",
@@ -7523,7 +9201,49 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/wo1ghtii",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aisalon.ai/",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/aisalonai",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AISalonGlobal",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aisalon-ai",
+     "operator": "AI Salon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luma.com/wo1ghtii",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-blockchain-life-2026",
@@ -7590,7 +9310,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "telegram",
+     "url": "https://t.me/BlockchainLifeSupport",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BlLife_Forum",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/blockchain_life_forum/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/blockchainlife2025",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://blockchain-life.com/",
+     "accessed_at": "2026-11-24T12:03:40+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-blockchain-for-europe-2026",
@@ -7654,7 +9404,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/bc4eu-summit-2026",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.blockchain4eu.eu/",
+     "accessed_at": "2026-11-24T12:03:41+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/blockchain-for-europe",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.blockchain4eu.eu/",
+     "accessed_at": "2026-11-24T12:03:41+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fintech-connect-2026",
@@ -7838,7 +9604,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-accelerator-institute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ai_ainstitute",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-konark-dance-festival-2026",
@@ -8151,7 +9933,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SuperReturnTV",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SuperReturn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/superreturn",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://informaconnect.com/superreturn-africa/",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-apidays-paris-2026",
@@ -8216,7 +10021,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/apidays-conferences",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/APIdaysGlobal",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@apidays",
+     "operator": "APIdays",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.apidays.global/paris/",
+     "accessed_at": "2026-11-24T12:03:42+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-seattle",
@@ -8397,7 +10228,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/athens.boatshow.gr",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://athensboatshow.gr/en/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/athensboatshow/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://athensboatshow.gr/en/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-build-stuff-2026",
@@ -8572,7 +10419,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloud-expo-nl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cloudexponl",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cloud_expo_nl/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CloudExpo2026",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://cybersec.nl/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edix-fukuoka-2026",
@@ -8636,7 +10513,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EDIXEXPO",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EDIX_expo",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@EDIX教育総合展",
+     "operator": "EDIX",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.edix-expo.jp/",
+     "accessed_at": "2026-11-24T12:03:47+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-educatech-expo-2026",
@@ -8899,7 +10802,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/radioromania.gaudeamus",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.gaudeamus.ro/",
+     "accessed_at": "2026-11-24T12:03:48+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-technology-summit-2026",
@@ -8986,7 +10898,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/CarnegieIndia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/carnegie-india",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/carnegieindia/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@carnegieindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/carnegieindia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://globaltechnologysummit.com/",
+     "accessed_at": "2026-11-24T12:03:46+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-oeb-global-2026",
@@ -9269,7 +11218,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SAP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SAP",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sap",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sap/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vareet-2026",
@@ -9337,7 +11316,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vareetfest/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://vareet.fi/",
+     "accessed_at": "2026-11-24T12:03:45+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/profile.php?id=61572011213333",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://vareet.fi/",
+     "accessed_at": "2026-11-24T12:03:45+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-yow-melbourne-2026",
@@ -9401,7 +11396,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/yow_conf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/yow-conference",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/yowconf",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/yowconf.bsky.social",
+     "operator": "YOW!",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://yowcon.com/melbourne-2026",
+     "accessed_at": "2026-11-24T12:03:43+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
@@ -9465,7 +11494,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EPOMECUAE",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EPOMECUAE",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/epomec-uae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/epomec/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCg4f4sViPfIMPqjKFwSvAyg",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.epomec.ae/",
+     "accessed_at": "2026-11-24T12:03:49+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-san-francisco",
@@ -9535,7 +11601,33 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://sf.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:55+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-tinkerers-singapore",
@@ -9604,7 +11696,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://singapore.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:03:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-adopt-ai-2026",
@@ -9674,7 +11792,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Artefact_Global",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artefact_global/",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/27232561",
+     "operator": "Artefact",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://adoptai.artefact.com/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bio-29-2026",
@@ -9769,7 +11913,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MAO.Slovenia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.bio.si/en/bio29",
+     "accessed_at": "2026-11-24T12:03:54+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bio_ljubljana/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.bio.si/en/bio29",
+     "accessed_at": "2026-11-24T12:03:54+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ccxp-2026",
@@ -9857,7 +12017,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ccxpoficial/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.com/@ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ccxpoficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.ccxp.com.br/",
+     "accessed_at": "2026-11-24T12:40:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ieee-icdlt-2026",
@@ -10025,7 +12222,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jewellerybridearabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jewellerybridearabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jewellery-bride-arabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jbadubai",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@JewelleryBrideArabia",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://jewellerybridearabia.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lianzhou-foto-festival-2026",
@@ -10218,7 +12452,51 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/109218006",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@StockholmMLOps",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/stockholm-mlops-community",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "luma",
+     "url": "https://luma.com/StockholmMLOps",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stockholmmlops",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/stockholmmlops",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.stockholmmlops.se/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wonderfruit-2026",
@@ -10305,7 +12583,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wonderfruit",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wonderfruit.co/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wonderfruitfest",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://wonderfruit.co/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-agf-2026",
@@ -10464,31 +12758,31 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/antiguascharteryachtshow/",
+     "url": "https://www.instagram.com/antiguascharteryachtshow",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.antiguayachtshow.com/",
-     "accessed_at": "2026-11-24T12:03:59+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
      "url": "https://www.linkedin.com/company/antigua-charter-yacht-show",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.antiguayachtshow.com/",
-     "accessed_at": "2026-11-24T12:03:59+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/antiguacharteryachtshow",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.antiguayachtshow.com/",
-     "accessed_at": "2026-11-24T12:03:59+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/AntiguaYacht",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.antiguayachtshow.com/",
-     "accessed_at": "2026-11-24T12:03:59+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -10570,38 +12864,38 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/argcomiccon/",
+     "url": "https://www.instagram.com/argcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://comic-con.com.ar/",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/ArgComicCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://comic-con.com.ar/",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/argcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://comic-con.com.ar/",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UCq43u4Pc0iYq14YmzzL0V6Q",
      "verified_via": "linked_from_official_site",
      "source_url": "https://comic-con.com.ar/",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@argcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://comic-con.com.ar/",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -10687,11 +12981,11 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/artbasel/",
+     "url": "https://www.instagram.com/artbasel",
      "operator": "Art Basel",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.artbasel.com/miami-beach",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
@@ -10699,7 +12993,7 @@ window.ATLASDATA={
      "operator": "Art Basel",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.artbasel.com/miami-beach",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
@@ -10707,7 +13001,7 @@ window.ATLASDATA={
      "operator": "Art Basel",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.artbasel.com/miami-beach",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -10715,7 +13009,7 @@ window.ATLASDATA={
      "operator": "Art Basel",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.artbasel.com/miami-beach",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -10723,7 +13017,7 @@ window.ATLASDATA={
      "operator": "Art Basel",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.artbasel.com/miami-beach",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -10807,35 +13101,35 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/AthensCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.athenscon.gr/",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/AthensCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.athenscon.gr/",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/athenscon_2026/",
+     "url": "https://www.instagram.com/athenscon_2026",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.athenscon.gr/",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@athenscon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.athenscon.gr/",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UCE7L4eFt__EF01-2hH5r46w",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.athenscon.gr/",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -10904,28 +13198,20 @@ window.ATLASDATA={
    "photoCredit": "",
    "socials": [
     {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/frontrow.asia/",
-     "operator": "Frontrow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
-     "accessed_at": "2026-11-24T12:04:04+01:00"
-    },
-    {
      "platform": "facebook",
-     "url": "https://www.facebook.com/Frontrowentertainmentasia",
+     "url": "https://www.facebook.com/borneojazz.official",
      "operator": "Frontrow",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
-     "accessed_at": "2026-11-24T12:04:04+01:00"
+     "source_url": "https://jazzborneo.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@frontrowasia",
+     "platform": "instagram",
+     "url": "https://www.instagram.com/borneojazz",
      "operator": "Frontrow",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.frontrow.asia/borneo-jazz-2026",
-     "accessed_at": "2026-11-24T12:04:04+01:00"
+     "source_url": "https://jazzborneo.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11006,32 +13292,32 @@ window.ATLASDATA={
    "photoCredit": "",
    "socials": [
     {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/clockenflap/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.clockenflap.com/info",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
-    },
-    {
      "platform": "facebook",
      "url": "https://www.facebook.com/clockenflap",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.clockenflap.com/info",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "source_url": "https://www.clockenflap.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/clockenflap",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.clockenflap.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/clockenflaphk",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.clockenflap.com/info",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "source_url": "https://www.clockenflap.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "threads",
-     "url": "https://www.threads.net/@clockenflap",
+     "url": "https://www.threads.com/@clockenflap",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.clockenflap.com/info",
-     "accessed_at": "2026-11-24T12:04:03+01:00"
+     "source_url": "https://www.clockenflap.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11143,7 +13429,7 @@ window.ATLASDATA={
      "operator": "F1",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
@@ -11151,23 +13437,23 @@ window.ATLASDATA={
      "operator": "F1",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/f1/",
+     "url": "https://www.instagram.com/f1",
      "operator": "F1",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
-     "url": "https://www.youtube.com/f1",
+     "url": "https://www.youtube.com/F1",
      "operator": "F1",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11266,48 +13552,48 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/GoodThingsFestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/goodthingsfestival/",
+     "url": "https://www.instagram.com/goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "threads",
      "url": "https://www.threads.net/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11456,46 +13742,39 @@ window.ATLASDATA={
    "photoCredit": "",
    "socials": [
     {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/generation-experience",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/sinocoll/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
-    },
-    {
      "platform": "facebook",
      "url": "https://www.facebook.com/SGComicCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/SGComicCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@singaporecomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@sgcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.singaporecomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:06+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/generation-experience",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.singaporecomiccon.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11569,22 +13848,14 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/chiangmaidesignweek",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.chiangmaidesignweek.com/",
-     "accessed_at": "2026-11-24T12:04:12+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/chiangmaidesignweek/",
+     "url": "https://www.instagram.com/chiangmaidesignweek",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.chiangmaidesignweek.com/",
-     "accessed_at": "2026-11-24T12:04:12+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/c/CreativeEconomyAgency",
-     "operator": "Creative Economy Agency",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.chiangmaidesignweek.com/",
-     "accessed_at": "2026-11-24T12:04:12+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11668,7 +13939,7 @@ window.ATLASDATA={
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -11676,15 +13947,15 @@ window.ATLASDATA={
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/comicconindia/",
+     "url": "https://www.instagram.com/comicconindia",
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/delhi-comic-con",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11788,28 +14059,28 @@ window.ATLASDATA={
      "url": "https://x.com/DohaForum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://dohaforum.org/",
-     "accessed_at": "2026-11-24T12:04:11+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/DohaForum13",
      "verified_via": "linked_from_official_site",
      "source_url": "https://dohaforum.org/",
-     "accessed_at": "2026-11-24T12:04:11+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/dohaforum/",
+     "url": "https://www.instagram.com/dohaforum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://dohaforum.org/",
-     "accessed_at": "2026-11-24T12:04:11+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
      "url": "https://www.linkedin.com/company/dohaforum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://dohaforum.org/",
-     "accessed_at": "2026-11-24T12:04:11+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11883,28 +14154,28 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/echoesofearthfestival",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.echoesofearth.com/",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@echoesofearthfestival",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.echoesofearth.com/",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/echoesofearthfestival/",
+     "url": "https://www.instagram.com/echoesofearthfestival",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.echoesofearth.com/",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/eoemusicfest",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.echoesofearth.com/",
-     "accessed_at": "2026-11-24T12:04:10+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -11976,22 +14247,22 @@ window.ATLASDATA={
      "platform": "x",
      "url": "https://x.com/fancyfrontier",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
-     "accessed_at": "2026-11-24T12:04:13+01:00"
+     "source_url": "https://www.f-2.com.tw/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/fancy_frontier/",
+     "url": "https://www.instagram.com/fancy_frontier",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
-     "accessed_at": "2026-11-24T12:04:13+01:00"
+     "source_url": "https://www.f-2.com.tw/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/ffrontier",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://www.f-2.com.tw/activitys/2026-%e9%a7%81%e4%ba%8c%e5%8b%95%e6%bc%ab%e7%a5%ad%ef%bc%8d%e5%90%8c%e4%ba%ba%e8%aa%8c%e5%89%b5%e4%bd%9c%e5%b1%95/",
-     "accessed_at": "2026-11-24T12:04:13+01:00"
+     "source_url": "https://www.f-2.com.tw/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12093,24 +14364,17 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/fetedeslumieres/",
+     "url": "https://www.instagram.com/fetedeslumieres",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.fetedeslumieres.lyon.fr/en",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/fetedeslumieres",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.fetedeslumieres.lyon.fr/en",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@villedelyon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fetedeslumieres.lyon.fr/en",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12184,28 +14448,28 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/GermanFilmComicCon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://germanfilmcomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:07+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/germanfilmcomiccon/",
+     "url": "https://www.instagram.com/germanfilmcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://germanfilmcomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:07+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@germanfilmcomiccon",
      "verified_via": "linked_from_official_site",
      "source_url": "https://germanfilmcomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:07+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UC92lNcgH1RUB5GPduQRZI8w",
      "verified_via": "linked_from_official_site",
      "source_url": "https://germanfilmcomiccon.com/",
-     "accessed_at": "2026-11-24T12:04:07+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12304,48 +14568,48 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/GoodThingsFestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/goodthingsfestival/",
+     "url": "https://www.instagram.com/goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "threads",
      "url": "https://www.threads.net/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12429,52 +14693,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Ferran Cornellà / Wikimedia Commons / CC BY-SA 4.0",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Ficomic-327447315516",
-     "operator": "Ficomic",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/manga.bcn/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCo5PcLGJxCnx7amLo_cNuCQ",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/MANGAbcn",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@manga.bcn",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    },
-    {
-     "platform": "bluesky",
-     "url": "https://bsky.app/profile/mangabcn.bsky.social",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.mangabarcelona.com/",
-     "accessed_at": "2026-11-24T12:04:08+01:00"
-    }
-   ]
+   "photoCredit": "Photo: Ferran Cornellà / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-nobel-week-lights-2026",
@@ -12600,15 +14819,15 @@ window.ATLASDATA={
      "operator": "Nobel Prize Museum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://nobelweeklights.se/",
-     "accessed_at": "2026-11-24T12:12:12+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/nobelprizemuseum/",
+     "url": "https://www.instagram.com/nobelprizemuseum",
      "operator": "Nobel Prize Museum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://nobelweeklights.se/",
-     "accessed_at": "2026-11-24T12:12:12+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -12616,7 +14835,7 @@ window.ATLASDATA={
      "operator": "Nobel Prize Museum",
      "verified_via": "linked_from_official_site",
      "source_url": "https://nobelweeklights.se/",
-     "accessed_at": "2026-11-24T12:12:12+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12689,7 +14908,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PeruComicConOficial",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://perucomiccon.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/perucomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://perucomiccon.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@perucomiccon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://perucomiccon.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/PeruComicCon",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://perucomiccon.com/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-playit-budapest-2026",
@@ -12761,28 +15010,28 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/PlayIT.hu",
      "verified_via": "linked_from_official_site",
      "source_url": "https://playit.hu/",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/playitshow/",
+     "url": "https://www.instagram.com/playitshow",
      "verified_via": "linked_from_official_site",
      "source_url": "https://playit.hu/",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@playitshow",
      "verified_via": "linked_from_official_site",
      "source_url": "https://playit.hu/",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UChJT_tA0eK9Z-TRL3XyzJ9Q",
      "verified_via": "linked_from_official_site",
      "source_url": "https://playit.hu/",
-     "accessed_at": "2026-11-24T12:04:09+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -12886,48 +15135,48 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/GoodThingsFestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/goodthingsfestival/",
+     "url": "https://www.instagram.com/goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "threads",
      "url": "https://www.threads.net/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@goodthingsfestival",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@goodthingsfest",
      "operator": "Good Things Festival",
      "verified_via": "linked_from_official_site",
-     "source_url": "https://goodthingsfestival.com.au/blog/good-things-festival-returns-for-2026",
-     "accessed_at": "2026-11-24T12:04:01+01:00"
+     "source_url": "https://goodthingsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13158,35 +15407,35 @@ window.ATLASDATA={
      "url": "https://x.com/maratonvalencia",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
-     "accessed_at": "2026-11-24T12:04:14+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/maratonvalencia",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
-     "accessed_at": "2026-11-24T12:04:14+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/MaratonValencia",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
-     "accessed_at": "2026-11-24T12:04:14+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/maratonvalencia/",
+     "url": "https://www.instagram.com/maratonvalencia",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
-     "accessed_at": "2026-11-24T12:04:14+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@maratonvalencia",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
-     "accessed_at": "2026-11-24T12:04:14+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13268,14 +15517,14 @@ window.ATLASDATA={
      "url": "https://bsky.app/profile/webdirections.org",
      "verified_via": "linked_from_official_site",
      "source_url": "https://webdirections.org/ai-engineer-sydney/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
      "url": "https://www.linkedin.com/company/web-directions",
      "verified_via": "linked_from_official_site",
      "source_url": "https://webdirections.org/ai-engineer-sydney/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13354,7 +15603,7 @@ window.ATLASDATA={
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://boston.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -13362,7 +15611,7 @@ window.ATLASDATA={
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://boston.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -13370,7 +15619,7 @@ window.ATLASDATA={
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://boston.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13445,28 +15694,12 @@ window.ATLASDATA={
    "photoCredit": "",
    "socials": [
     {
-     "platform": "luma",
-     "url": "https://lu.ma/psoxd0ql",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://paris.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
-    },
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/paris_rb/",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://paris.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
-    },
-    {
      "platform": "x",
      "url": "https://x.com/AITinkerers",
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://paris.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -13474,7 +15707,7 @@ window.ATLASDATA={
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://paris.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -13482,7 +15715,7 @@ window.ATLASDATA={
      "operator": "AI Tinkerers",
      "verified_via": "linked_from_official_site",
      "source_url": "https://paris.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13624,51 +15857,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/black-hat",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Black-Hat-Events-107691635153",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/BlackHatEvents",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/BlackHatOfficialYT",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    },
-    {
-     "platform": "bluesky",
-     "url": "https://bsky.app/profile/blackhatofficial.bsky.social",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/blackhat_events/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blackhat.com/europe/",
-     "accessed_at": "2026-11-24T12:12:16+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-brisjs-brisbane",
@@ -13741,45 +15930,45 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "meetup",
-     "url": "https://www.meetup.com/BrisJS/",
+     "url": "https://www.meetup.com/BrisJS",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "github",
      "url": "https://github.com/BrisJS",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UC9Zts-dkDz0DBZ_f8ETgHcQ",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/brisjs",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/BrisJSMeetup",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "mastodon",
      "url": "https://bne.social/@brisjs",
      "verified_via": "linked_from_official_site",
      "source_url": "https://brisjs.org/",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13883,17 +16072,17 @@ window.ATLASDATA={
    "socials": [
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/expoartesanias/",
+     "url": "https://www.instagram.com/expoartesanias",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.expoartesanias.com/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/Expoartesanias_",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.expoartesanias.com/",
-     "accessed_at": "2026-11-24T12:04:18+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -13961,42 +16150,35 @@ window.ATLASDATA={
      "url": "https://www.facebook.com/GitexGlobal",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/gitex_global/",
+     "url": "https://www.instagram.com/gitex_global",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/GITEX_GLOBAL",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/gitex.",
+     "url": "https://www.linkedin.com/showcase/gitex",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/GitexTechWeek",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@gitex_global",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.gitex.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14071,7 +16253,7 @@ window.ATLASDATA={
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -14079,15 +16261,15 @@ window.ATLASDATA={
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/comicconindia/",
+     "url": "https://www.instagram.com/comicconindia",
      "operator": "Comic Con India",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.comicconindia.com/all-cities-pages-2026/hyderabad-comic-con",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14161,15 +16343,15 @@ window.ATLASDATA={
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/milkeninstitute/",
+     "url": "https://www.instagram.com/milkeninstitute",
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
@@ -14177,7 +16359,7 @@ window.ATLASDATA={
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
@@ -14185,7 +16367,7 @@ window.ATLASDATA={
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -14193,7 +16375,7 @@ window.ATLASDATA={
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "bluesky",
@@ -14201,7 +16383,7 @@ window.ATLASDATA={
      "operator": "Milken Institute",
      "verified_via": "linked_from_official_site",
      "source_url": "https://milkeninstitute.org/events",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14291,15 +16473,15 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/ndc_conferences/",
+     "url": "https://www.instagram.com/ndc_conferences",
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
@@ -14307,7 +16489,7 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "bluesky",
@@ -14315,7 +16497,7 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
@@ -14323,7 +16505,7 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -14331,7 +16513,7 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
@@ -14339,7 +16521,7 @@ window.ATLASDATA={
      "operator": "NDC",
      "verified_via": "linked_from_official_site",
      "source_url": "https://ndc-ai.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14453,28 +16635,21 @@ window.ATLASDATA={
      "url": "https://www.youtube.com/channel/UCIrQ3PuguUaIdWVPtfAJI_g",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.signmiddleeast.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/sgidubai",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.signmiddleeast.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/profile.php?id=61570718586337",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.signmiddleeast.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/sgi_mena/",
+     "url": "https://www.instagram.com/sgi_mena",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.signmiddleeast.com/",
-     "accessed_at": "2026-11-24T12:04:16+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14548,7 +16723,7 @@ window.ATLASDATA={
      "operator": "YOW!",
      "verified_via": "linked_from_official_site",
      "source_url": "https://yowcon.com/brisbane-2026",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
@@ -14556,7 +16731,7 @@ window.ATLASDATA={
      "operator": "YOW!",
      "verified_via": "linked_from_official_site",
      "source_url": "https://yowcon.com/brisbane-2026",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
@@ -14564,7 +16739,7 @@ window.ATLASDATA={
      "operator": "YOW!",
      "verified_via": "linked_from_official_site",
      "source_url": "https://yowcon.com/brisbane-2026",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "bluesky",
@@ -14572,7 +16747,7 @@ window.ATLASDATA={
      "operator": "YOW!",
      "verified_via": "linked_from_official_site",
      "source_url": "https://yowcon.com/brisbane-2026",
-     "accessed_at": "2026-11-24T12:04:17+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14683,42 +16858,42 @@ window.ATLASDATA={
      "url": "https://www.linkedin.com/showcase/northstardubai",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/northstardubai",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/expand_north_star/",
+     "url": "https://www.instagram.com/expand_north_star",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/expandnorthstar",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/channel/UCbg2cvfuZrgsO80IyVpd7UQ",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "whatsapp",
      "url": "https://www.whatsapp.com/channel/0029VbDxutBChq6VbSvfM80W",
      "verified_via": "linked_from_official_site",
      "source_url": "https://expandnorthstar.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14858,21 +17033,21 @@ window.ATLASDATA={
      "url": "https://x.com/GITEXFDX",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitexfdx.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "linkedin",
      "url": "https://www.linkedin.com/showcase/gitex-fdx",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitexfdx.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/gitexfdx/",
+     "url": "https://www.instagram.com/gitexfdx",
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.gitexfdx.com/",
-     "accessed_at": "2026-11-24T12:04:19+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -14937,7 +17112,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/71774833",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://luxembourgblockchainweek.lu/",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sofia-international-book-fair-2026",
@@ -15019,15 +17203,15 @@ window.ATLASDATA={
      "operator": "Bulgarian Book Association",
      "verified_via": "linked_from_official_site",
      "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
-     "accessed_at": "2026-11-24T12:04:22+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "instagram",
-     "url": "https://www.instagram.com/bulgarian_book_association/",
+     "url": "https://www.instagram.com/bulgarian_book_association",
      "operator": "Bulgarian Book Association",
      "verified_via": "linked_from_official_site",
      "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
-     "accessed_at": "2026-11-24T12:04:22+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "tiktok",
@@ -15035,7 +17219,7 @@ window.ATLASDATA={
      "operator": "Bulgarian Book Association",
      "verified_via": "linked_from_official_site",
      "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
-     "accessed_at": "2026-11-24T12:04:22+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     },
     {
      "platform": "youtube",
@@ -15043,7 +17227,7 @@ window.ATLASDATA={
      "operator": "Bulgarian Book Association",
      "verified_via": "linked_from_official_site",
      "source_url": "https://abk.bg/sofiioski-mezhdunaroden-panair-na-knigata/",
-     "accessed_at": "2026-11-24T12:04:22+01:00"
+     "accessed_at": "2026-11-24T12:29:00+01:00"
     }
    ]
   },
@@ -15218,7 +17402,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/unwaterconfuae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.unwaterconferenceuae.com/en",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unwaterconfuae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.unwaterconferenceuae.com/en",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/unwaterconfuae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.unwaterconferenceuae.com/en",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/unwaterconfuae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.unwaterconferenceuae.com/en",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@unwaterconfuae",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.unwaterconferenceuae.com/en",
+     "accessed_at": "2026-11-24T12:29:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comeup-2026",
@@ -15293,13 +17514,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comeup_org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comeup.org/en",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KStartupWeekCOMEUP",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comeup.org/en",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ficc-los-cabos-2026",
    "slug": "ficc-los-cabos-2026",
    "name": "Festival Internacional de Cine y Creatividad de Los Cabos 2026",
-   "website_url": "https://www.imcine.gob.mx/nota.php?id=359",
+   "website_url": "https://festivaldecineloscabos.mx/",
    "start_date": "2026-12-09",
    "end_date": "2026-12-13",
    "city": "Los Cabos",
@@ -15319,7 +17556,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.imcine.gob.mx/nota.php?id=359",
+   "source_url": "https://festivaldecineloscabos.mx/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "14th edition, concept #BeyondTheScreen. Los Cabos is on UTC-7. Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 23.0598364,
@@ -15342,9 +17579,14 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "label": "Official (IMCINE, federal film institute)",
+     "label": "Official",
+     "url": "https://festivaldecineloscabos.mx/",
+     "field": "official"
+    },
+    {
+     "label": "Previous listing (IMCINE)",
      "url": "https://www.imcine.gob.mx/nota.php?id=359",
-     "field": "official (IMCINE, federal film institute)"
+     "field": "Previous listing (IMCINE)"
     }
    ],
    "status": "upcoming",
@@ -15365,7 +17607,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ficc_loscabos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaldecineloscabos.mx/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ficc_loscabos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaldecineloscabos.mx/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ficc_loscabos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaldecineloscabos.mx/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ficc_loscabos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaldecineloscabos.mx/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/loscabosiff",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaldecineloscabos.mx/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-neurips-2026-atlanta",
@@ -15434,7 +17713,17 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/neuripsconf",
+     "operator": "NeurIPS",
+     "verified_via": "official_site_checked",
+     "source_url": "https://neurips.cc/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-neurips-2026-paris",
@@ -15511,7 +17800,17 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/neuripsconf",
+     "operator": "NeurIPS",
+     "verified_via": "official_site_checked",
+     "source_url": "https://neurips.cc/Conferences/2026",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-next-gen-atp-finals-2026",
@@ -15594,7 +17893,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nextgenfinals",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nextgenatpfinals.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nextgenfinals",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nextgenatpfinals.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/nextgenfinals",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nextgenatpfinals.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-open-source-experience-2026",
@@ -15711,7 +18033,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OSXP.Paris",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.opensource-experience.com/en/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/osxp2023.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.opensource-experience.com/en/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/osxp_paris",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.opensource-experience.com/en/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/open-source-experience",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.opensource-experience.com/en/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCsv6_7K-MJhISfpxdbrjTwQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.opensource-experience.com/en/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-semicon-japan-2026",
@@ -15849,7 +18208,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-ai-summit",
+     "operator": "AI Summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newyork.theaisummit.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theaisummitseries",
+     "operator": "AI Summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newyork.theaisummit.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCwmoMKH9piP9BPL7cNVdAGA",
+     "operator": "AI Summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newyork.theaisummit.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-warsawjs-meetup",
@@ -15918,7 +18303,58 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/nVhdZXNZnX",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/warsawjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://youtube.com/warsawjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/warsawjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/warsawjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/warsawjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/warsawjs_ig",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.warsawjs.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-n8n-meetup-poznan",
@@ -15988,7 +18424,37 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://luma.com/n8n-wy49",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/n8n-wy49",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://youtube.com/@n8n-io",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/n8n-wy49",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/n8n",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/n8n-wy49",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/n8n_io",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/n8n-wy49",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-x-voices-krakow",
@@ -16057,7 +18523,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://luma.com/yoj6wmlp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aixv.ai/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aixv.ai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aixv.ai/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aixv_ai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aixv.ai/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aixv",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aixv.ai/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@aixv.ai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aixv.ai/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festigame-2026",
@@ -16121,7 +18624,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Festigame",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festigame.cl/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festigame",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festigame.cl/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@festigame",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festigame.cl/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/festigame",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festigame.cl/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@FESTIGAME",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festigame.cl/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-ai-malta-meetup",
@@ -16195,7 +18735,30 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/global-ai-malta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/chapters/malta/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GlobAICommunity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/chapters/malta/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/globalaicommunity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/chapters/malta/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-riyadh-international-book-fair-2026",
@@ -16350,7 +18913,44 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/meet-js-wroclaw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meetjs.pl/wroclaw",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/meetjspl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meetjs.pl/wroclaw",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/meetjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meetjs.pl/wroclaw",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/meetjs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meetjs.pl/wroclaw",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/meetjspl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meetjs.pl/wroclaw",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-iffk-2026",
@@ -16419,7 +19019,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/iffklive",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffk.in/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/iffklive",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffk.in/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/iffklive",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffk.in/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCimsAZ8W7SKf2V0BTzhTi7A",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffk.in/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-colombia-blockchain-week-2026",
@@ -16485,7 +19115,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/colombiablockchainweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.colombiablockchainweek.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/colombia-blockchain-week",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.colombiablockchainweek.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/colombiablockchainweekoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.colombiablockchainweek.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/colombia_cbweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.colombiablockchainweek.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-djakarta-warehouse-project-2026",
@@ -16554,7 +19214,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dwpfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://djakartawarehouse.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dwpfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://djakartawarehouse.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCmKm7HJdOfkWLyml-fzKlVg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://djakartawarehouse.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-psica-2026",
@@ -16624,7 +19307,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/festivalpsica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalpsica.com.br/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festivalpsica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalpsica.com.br/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@festivalpsica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalpsica.com.br/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fete-escalade-geneve-2026",
@@ -16716,7 +19422,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Compagnie-de-1602-358945907924782",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.1602.ch/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-meredith-music-festival-2026",
@@ -16877,7 +19592,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Ethan Doyle White / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Ethan Doyle White / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/seoulcity_culture",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=983",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@seoul_culture",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=983",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/culture.seoul.go.kr",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=983",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-seoul-winter-festival-2026",
@@ -16943,13 +19684,39 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/seoulcity_culture",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@seoul_culture",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/culture.seoul.go.kr",
+     "operator": "Seoul City Culture",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-techfest-vietnam-2026",
    "slug": "techfest-vietnam-2026",
    "name": "TECHFEST Vietnam 2026 (National Innovative Startup Festival)",
-   "website_url": "https://hhtip.hanoi.gov.vn/media/tin-tuc/2026_11/thu-moi-tham-gia-gian-hang-techfest-1.pdf",
+   "website_url": "https://techfest.vn/",
    "start_date": "2026-12-11",
    "end_date": "2026-12-13",
    "city": "Hanoi",
@@ -16969,7 +19736,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://hhtip.hanoi.gov.vn/media/tin-tuc/2026_11/thu-moi-tham-gia-gian-hang-techfest-1.pdf",
+   "source_url": "https://techfest.vn/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Vietnam dates (ICT, UTC+7).",
    "lat": 21.0288313,
@@ -16986,13 +19753,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://hhtip.hanoi.gov.vn/media/tin-tuc/2026_11/thu-moi-tham-gia-gian-hang-techfest-1.pdf",
+     "url": "https://techfest.vn/",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://techfest.vn/",
-     "field": "official"
+     "label": "Previous listing (official invitation PDF)",
+     "url": "https://hhtip.hanoi.gov.vn/media/tin-tuc/2026_11/thu-moi-tham-gia-gian-hang-techfest-1.pdf",
+     "field": "Previous listing (official invitation PDF)"
     },
     {
      "label": "Official",
@@ -17093,7 +19860,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/tokyocomiccon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tokyocomiccon.jp/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tokyocomicc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tokyocomiccon.jp/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tokyocomiccon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tokyocomiccon.jp/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCDEpRnftsqxuD4vKXbrlftQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tokyocomiccon.jp/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tccocccomiccon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tokyocomiccon.jp/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-tomorrowland-thailand-2026",
@@ -17179,7 +19983,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tomorrowlandthailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.tomorrowland.com/en/welcome/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tmlthailand_",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.tomorrowland.com/en/welcome/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tomorrowland_thailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.tomorrowland.com/en/welcome/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-toycon-christmas-toyfair-2026",
@@ -17253,7 +20080,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/phtoycon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://toyconph.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/toyconphofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://toyconph.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@toyconph",
+     "verified_via": "official_site_checked",
+     "source_url": "https://toyconph.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/TOYCONPH",
+     "verified_via": "official_site_checked",
+     "source_url": "https://toyconph.com/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-istanbul-book-fair-2026",
@@ -17360,7 +20217,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kitapfuari",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tuyapkitapfuarlari",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kitapfuari",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@TuyapKitapFuarlari",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tuyapkitapfuari",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/kitap-fuar%c4%b1",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tuyapkitapfuarlari.com.tr/en/istanbul",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-big-mountain-village-2026",
@@ -17495,7 +20396,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ptycitylife",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ptycity.mupa.gob.pa/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ptycity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ptycity.mupa.gob.pa/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-cinema-memoire-commune-nador-2026",
@@ -17628,7 +20545,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "github",
+     "url": "https://github.com/pydelhi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pydelhi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pydelhi-community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pydelhi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/PyDelhi_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC3QVyJ-Zt0QoYAibn4SD20A",
+     "verified_via": "official_site_checked",
+     "source_url": "https://pydelhi.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pytorch-day-china-2026",
@@ -17693,7 +20654,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/pytorch",
+     "operator": "PyTorch",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-day-china/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pytorch",
+     "operator": "PyTorch",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-day-china/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/pytorch",
+     "operator": "PyTorch",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-day-china/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pytorch",
+     "operator": "PyTorch",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-day-china/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-serendipity-arts-festival-2026",
@@ -17833,7 +20828,16 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://luma.com/8icb97v5",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/8icb97v5",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-international-summit-for-aviation-training-isat-2026",
@@ -17889,7 +20893,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/isat-dxb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.isat.aero/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ISAT_Dubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.isat.aero/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/isat_dubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.isat.aero/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-asia-baby-children-maternity-exhibition-2026",
@@ -17953,7 +20980,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ABCMOMEXPO",
+     "verified_via": "official_site_checked",
+     "source_url": "https://reg.abcmexpo.com/ABC-ae",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/abcmomexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://reg.abcmexpo.com/ABC-ae",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ABCMOMExpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://reg.abcmexpo.com/ABC-ae",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@abcmomexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://reg.abcmexpo.com/ABC-ae",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-china-home-life-2026-1",
@@ -18058,13 +21115,50 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ChinahomelifeMiddleEast",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tradechina.com/chinahomelifedubai",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/chinahomelifemiddleeast",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tradechina.com/chinahomelifedubai",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ChinaHomelifeMiddleeast",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tradechina.com/chinahomelifedubai",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@homelifexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tradechina.com/chinahomelifedubai",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/chl247",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tradechina.com/chinahomelifedubai",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-international-appliance-and-electronics-show-2026-1",
    "slug": "international-appliance-and-electronics-show-2026-1",
    "name": "International Appliance and Electronics Show 2026",
-   "website_url": "https://www.aesmexpo.com/AES-AE?lang=en",
+   "website_url": "https://www.aesmexpo.com/",
    "start_date": "2026-12-15",
    "end_date": "2026-12-17",
    "city": "Dubai",
@@ -18084,7 +21178,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.dwtc.com/en/events/international-appliance-and-electronics-show-2026-1/",
+   "source_url": "https://www.aesmexpo.com/",
    "last_scraped_at": "2026-11-23T19:20:00+01:00",
    "notes": "Trade audience: Trade Only. Attendance wording on the official DWTC page: 'More than 27,000'. UAE dates are local (Gulf Standard Time, UTC+4).",
    "lat": 25.227616,
@@ -18106,8 +21200,18 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.dwtc.com/en/events/international-appliance-and-electronics-show-2026-1/",
+     "url": "https://www.aesmexpo.com/",
      "field": "official"
+    },
+    {
+     "label": "Official (DWTC listing)",
+     "url": "https://www.dwtc.com/en/events/international-appliance-and-electronics-show-2026-1/",
+     "field": "official (DWTC listing)"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.aesmexpo.com/AES-AE?lang=en",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -18187,7 +21291,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@themusicacademymadras",
+     "verified_via": "official_site_checked",
+     "source_url": "https://musicacademymadras.in/100th-annual-concerts-2026/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MadrasMusicAcademy",
+     "verified_via": "official_site_checked",
+     "source_url": "https://musicacademymadras.in/100th-annual-concerts-2026/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/musicacademyma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://musicacademymadras.in/100th-annual-concerts-2026/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/madrasmusicacademy",
+     "verified_via": "official_site_checked",
+     "source_url": "https://musicacademymadras.in/100th-annual-concerts-2026/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kolkata-international-film-festival-2026",
@@ -18340,7 +21474,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AfroFutureFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.afrofuture.com/futureclub",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/afrofuture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.afrofuture.com/futureclub",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AfroFutureFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.afrofuture.com/futureclub",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Afrofuture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.afrofuture.com/futureclub",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@afrofuturefestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.afrofuture.com/futureclub",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-melbourne-python-meetup",
@@ -18404,7 +21575,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/melbourne-python-user-group",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/melbourne-python-user-group/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-volcano-engine-force-winter-2026",
@@ -18543,7 +21723,41 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AITinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nyc.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aitinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nyc.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ai-tinkerers",
+     "operator": "AI Tinkerers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nyc.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "luma",
+     "url": "https://luma.com/feoo5mr1",
+     "operator": "AI Tinkerers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nyc.aitinkerers.org/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-tokyo-python-meetup",
@@ -18612,7 +21826,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/tokyopython",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/tokyopython/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tokyo-python",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/tokyopython/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-winter-at-tantora-2026",
@@ -18676,7 +21906,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@experiencealula",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.experiencealula.com/en/whats-on/festivals/winter-at-tantora",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExperienceAlUla",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.experiencealula.com/en/whats-on/festivals/winter-at-tantora",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/experiencealula",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.experiencealula.com/en/whats-on/festivals/winter-at-tantora",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/ExperienceAlUla",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.experiencealula.com/en/whats-on/festivals/winter-at-tantora",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExperienceAlUla",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.experiencealula.com/en/whats-on/festivals/winter-at-tantora",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aicon-beijing-2026",
@@ -18836,7 +22103,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ElectricDaisyCarnivalThailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.edc.com/en/guide/hours-info/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/edc_thailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.edc.com/en/guide/hours-info/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edc_thailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.edc.com/en/guide/hours-info/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edc_thailand",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thailand.edc.com/en/guide/hours-info/",
+     "accessed_at": "2026-11-24T12:50:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-security-technology-summit-2026",
@@ -18974,7 +22271,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SunburnFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sunburn.in/event/sunburn-festival-2026/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SunburnFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sunburn.in/event/sunburn-festival-2026/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sunburnfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sunburn.in/event/sunburn-festival-2026/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SunburnFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sunburn.in/event/sunburn-festival-2026/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bangpypers-bengaluru",
@@ -19043,7 +22370,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/BangPypers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "luma",
+     "url": "https://luma.com/user/__bangpypers__",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/__bangpypers__",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/Tnhbqh33zd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/bangpypers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bangpypers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bangpypers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bangalore.pythonindia.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-fiesta-2026",
@@ -19130,7 +22508,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: PeaceSeekers / Wikimedia Commons / CC BY 4.0"
+   "photoCredit": "Photo: PeaceSeekers / Wikimedia Commons / CC BY 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comic_fiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comicfiesta.org/cf2026-tickets",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicFiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comicfiesta.org/cf2026-tickets",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/comicfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comicfiesta.org/cf2026-tickets",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ComicFiestaMy",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comicfiesta.org/cf2026-tickets",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-devfest-cairo-2026",
@@ -19201,7 +22609,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gdg-cairo",
+     "operator": "GDG Cairo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdgcairo.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GDGCairo",
+     "operator": "GDG Cairo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdgcairo.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-devfest-istanbul-2026",
@@ -19272,7 +22698,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/gdgistanbul",
+     "operator": "GDG Istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devfest.istanbul/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GDGIstanbul",
+     "operator": "GDG Istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devfest.istanbul/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gdgistanbul",
+     "operator": "GDG Istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devfest.istanbul/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@GDGIstanbul",
+     "operator": "GDG Istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devfest.istanbul/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gdg-istanbul",
+     "operator": "GDG Istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devfest.istanbul/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-devfest-kigali-2026",
@@ -19402,7 +22870,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/indore-comic-con-2027",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/indore-comic-con-2027",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/indore-comic-con-2027",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jump-festa-2027",
@@ -19500,7 +22994,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/jumpfesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.jumpfesta.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-of-lights-new-plymouth-2026",
@@ -19597,13 +23100,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TSBFestivalofLights",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaloflights.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tsbfestivaloflights",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.festivaloflights.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dalat-flower-festival-2026",
    "slug": "dalat-flower-festival-2026",
    "name": "Da Lat Flower Festival 2026 (XI)",
-   "website_url": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
+   "website_url": "https://festivaldalat.lamdongtructuyen.vn/",
    "start_date": "2026-12-20",
    "end_date": "2026-12-31",
    "city": "Da Lat",
@@ -19623,7 +23142,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
+   "source_url": "https://festivaldalat.lamdongtructuyen.vn/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Opening moved from 19 to 20 December 2026 (VOV state broadcaster, Nov 2026); closing with the New Year 2027 programme on 31 December. Dates are local Vietnam dates (ICT, UTC+7).",
    "lat": 11.9388409,
@@ -19657,8 +23176,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
+     "url": "https://festivaldalat.lamdongtructuyen.vn/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Ministry of Culture press note)",
+     "url": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
+     "field": "Previous listing (Ministry of Culture press note)"
     },
     {
      "label": "Official",
@@ -19848,7 +23372,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/flytimefest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flytimefest.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/flytimefest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flytimefest.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/flytimefest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flytimefest.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hong-kong-python-user-group",
@@ -19912,7 +23459,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/pythonhk",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/pythonhk/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pyconhk",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/pythonhk/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pyconhk",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/pythonhk/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pyconhk",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/pythonhk/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pyconhk",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.meetup.com/pythonhk/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-seoul-illustration-fair-2026",
@@ -20070,7 +23654,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/feriadecali.of",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://calidistritocultural.cali.gov.co/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hozo-international-music-festival-2026",
@@ -20119,6 +23712,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://en.sggp.org.vn/ho-chi-minh-city-prepares-for-2026-international-music-festival-post131073.html",
      "field": "official"
+    },
+    {
+     "label": "Official (organizer, Beyond Entertainment; no 2026 event listing on this pass)",
+     "url": "https://bevn.live/",
+     "field": "official (organizer, Beyond Entertainment; no 2026 event listing on this pass)"
     }
    ],
    "status": "upcoming",
@@ -20139,13 +23737,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Hozomusicfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bevn.live/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hozo_musicfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bevn.live/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@hozomusicfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bevn.live/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comicup-shanghai-2026",
    "slug": "comicup-shanghai-2026",
    "name": "COMICUP 33 Shanghai 2026",
-   "website_url": "https://www.sina.cn/media/1843256734",
+   "website_url": "https://www.allcpp.cn/allcpp/event/event.do?event=7454",
    "start_date": "2026-12-26",
    "end_date": "2026-12-27",
    "city": "Shanghai",
@@ -20165,7 +23786,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.sina.cn/media/1843256734",
+   "source_url": "https://www.allcpp.cn/allcpp/event/event.do?event=7454",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "The organiser estimates 9,000-10,000 creator tables for CP33. Dates are local to the host city (China Standard Time, UTC+8).",
    "lat": 31.1920509,
@@ -20182,13 +23803,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.sina.cn/media/1843256734",
+     "url": "https://www.allcpp.cn/allcpp/event/event.do?event=7454",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://www.allcpp.cn/allcpp/event/event.do?event=7454",
-     "field": "official"
+     "label": "Previous listing (Sina media page)",
+     "url": "https://www.sina.cn/media/1843256734",
+     "field": "Previous listing (Sina media page)"
     }
    ],
    "status": "upcoming",
@@ -20209,7 +23830,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "weibo",
+     "url": "https://weibo.com/u/5701747600",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.allcpp.cn/allcpp/event/event.do?event=7454",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-countdown-japan-26-27",
@@ -20290,7 +23920,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/rockinon_fes",
+     "operator": "rockin'on",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownjapan.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jfes_official",
+     "operator": "J-Fes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownjapan.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@jfes_official",
+     "operator": "J-Fes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownjapan.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/rockinon",
+     "operator": "rockin'on",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownjapan.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-calabar-carnival-2026",
@@ -20443,7 +24107,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@FM802RADIOCRAZY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://radiocrazy.fm/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FM802RADIOCRAZY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://radiocrazy.fm/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fm802radiocrazy",
+     "verified_via": "official_site_checked",
+     "source_url": "https://radiocrazy.fm/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fm802radiocrazy",
+     "verified_via": "official_site_checked",
+     "source_url": "https://radiocrazy.fm/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydney-to-hobart-yacht-race-2026",
@@ -20524,7 +24218,38 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RolexSydneyHobart",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rolexsydneyhobart.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/rshyr",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rolexsydneyhobart.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CYCATV",
+     "operator": "CYCA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rolexsydneyhobart.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/officialrolexsydneyhobart",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rolexsydneyhobart.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-40c3-2026",
@@ -20595,7 +24320,7 @@ window.ATLASDATA={
    "event_id": "GCE-amazing-thailand-countdown-2027",
    "slug": "amazing-thailand-countdown-2027",
    "name": "Amazing Thailand Countdown 2027",
-   "website_url": "https://www.tatnews.org/2026/11/tat-and-iconsiam-unveil-amazing-thailand-countdown-2027-in-bangkok/",
+   "website_url": "https://iconsiam.com/en/events-activities/amazing-thailand-countdown-2027",
    "start_date": "2026-12-27",
    "end_date": "2026-12-31",
    "city": "Bangkok",
@@ -20615,7 +24340,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.tatnews.org/2026/11/tat-and-iconsiam-unveil-amazing-thailand-countdown-2027-in-bangkok/",
+   "source_url": "https://iconsiam.com/en/events-activities/amazing-thailand-countdown-2027",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Five-day programme with a 1,400-metre fireworks display on the Chao Phraya River. Dates are local Thailand dates (ICT, UTC+7).",
    "lat": 13.7268227,
@@ -20632,13 +24357,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.tatnews.org/2026/11/tat-and-iconsiam-unveil-amazing-thailand-countdown-2027-in-bangkok/",
+     "url": "https://iconsiam.com/en/events-activities/amazing-thailand-countdown-2027",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://iconsiam.com/en/events-activities/amazing-thailand-countdown-2027",
-     "field": "official"
+     "label": "Previous listing (TAT News)",
+     "url": "https://www.tatnews.org/2026/11/tat-and-iconsiam-unveil-amazing-thailand-countdown-2027-in-bangkok/",
+     "field": "Previous listing (TAT News)"
     }
    ],
    "status": "upcoming",
@@ -20748,7 +24473,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lecurrents_nz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lecurrents.com/eventinfo",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lecurrents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lecurrents.com/eventinfo",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-universo-paralello-2026",
@@ -20925,7 +24666,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/woodfordfolkfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://woodfordfolkfestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/woodfordfolkfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://woodfordfolkfestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@woodfordfolkfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://woodfordfolkfestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/woodfordfolkfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://woodfordfolkfestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-beyond-the-valley-2026",
@@ -21007,7 +24778,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beyondthevalleyfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyondthevalley.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/beyondthevalley",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyondthevalley.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCBr3sYefjY2CZeEawdT7H0g",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyondthevalley.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@beyondthevalleyfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyondthevalley.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lost-paradise-2026",
@@ -21089,7 +24890,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lostparadiseau",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lostparadise.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lostparadiseau",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lostparadise.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@LostParadiseAU",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lostparadise.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-market-109",
@@ -21176,7 +25000,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Taichi / Wikimedia Commons / CC BY-SA 3.0"
+   "photoCredit": "Photo: Taichi / Wikimedia Commons / CC BY-SA 3.0",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/comiketofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comiket.co.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicMarketOfficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comiket.co.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comiket_cosplay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comiket.co.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ComicMarketPR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comiket.co.jp/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rhythm-and-vines-2026",
@@ -21250,7 +25104,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCHYF6fEScM4cx5Zkhld6fIw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandvines.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rhythmandvines",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandvines.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RhythmandVines",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandvines.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@rhythmandvines",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandvines.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/RHYTHMANDVINES",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandvines.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-beneath-the-baobabs-2027",
@@ -21463,7 +25354,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/luxhelsinki",
+     "verified_via": "official_site_checked",
+     "source_url": "https://luxhelsinki.fi/en/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/luxhelsinki",
+     "verified_via": "official_site_checked",
+     "source_url": "https://luxhelsinki.fi/en/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/luxhelsinki",
+     "verified_via": "official_site_checked",
+     "source_url": "https://luxhelsinki.fi/en/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-northern-bass-2026",
@@ -21533,7 +25447,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/northernbassnz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.northernbass.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/northernbass",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.northernbass.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rhythm-and-alps-2026",
@@ -21622,7 +25552,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rhythmandalps",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandalps.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Rhythmandalps",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandalps.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCfpHzYSXDyzHS2OJGEJb6ig",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandalps.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@rhythmandalps",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rhythmandalps.co.nz/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-umbria-jazz-winter-2026",
@@ -21703,7 +25663,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/UmbriaJazz.official",
+     "operator": "Umbria Jazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.umbriajazz.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/umbriajazzofficial",
+     "operator": "Umbria Jazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.umbriajazz.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/UmbriaJazz_OFC",
+     "operator": "Umbria Jazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.umbriajazz.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fondazione-di-partecipazione-umbria-jazz",
+     "operator": "Umbria Jazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.umbriajazz.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/UmbriaJazzOfficial",
+     "operator": "Umbria Jazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.umbriajazz.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ano-nuevo-en-el-mar-2027",
@@ -21776,13 +25778,63 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Municipiovalpo",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/municipiovalpo",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@municipiovalpo",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/i-municipalidad-de-valpara%c3%adso",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/municipioValpo",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@municipiovalpo",
+     "operator": "Municipalidad de Valparaíso",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://municipalidaddevalparaiso.cl/tag/ano-nuevo-en-el-mar/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-countdown-fantasy-2026",
    "slug": "countdown-fantasy-2026",
    "name": "COUNTDOWN FANTASY 2026-2027",
-   "website_url": "https://www.mintpaper.co.kr/festivals/178/notice/4821",
+   "website_url": "https://www.mintpaper.co.kr/festivals/178",
    "start_date": "2026-12-31",
    "end_date": "2026-12-31",
    "city": "Goyang",
@@ -21802,7 +25854,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.mintpaper.co.kr/festivals/178/notice/4821",
+   "source_url": "https://www.mintpaper.co.kr/festivals/178",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Dates are local to the host city (Korea Standard Time, UTC+9).",
    "lat": 37.6647381,
@@ -21819,8 +25871,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.mintpaper.co.kr/festivals/178/notice/4821",
+     "url": "https://www.mintpaper.co.kr/festivals/178",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Mint Paper notice)",
+     "url": "https://www.mintpaper.co.kr/festivals/178/notice/4821",
+     "field": "Previous listing (Mint Paper notice)"
     }
    ],
    "status": "upcoming",
@@ -21841,7 +25898,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mintpaper_",
+     "operator": "Mint Paper",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mintpaper.co.kr/festivals/178",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MINTPAPERM",
+     "operator": "Mint Paper",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mintpaper.co.kr/festivals/178",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mintBook",
+     "operator": "Mint Paper",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mintpaper.co.kr/festivals/178",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-countdown-nye-2026",
@@ -21913,7 +25996,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CountdownNYE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownnye.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/countdown_nye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownnye.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/countdownnye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownnye.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@countdownnye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://countdownnye.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hong-kong-new-year-countdown-2027",
@@ -21999,7 +26112,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: ncburton / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: ncburton / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DiscoverHongKong",
+     "operator": "Discover Hong Kong",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest.html",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/discoverhongkong",
+     "operator": "Discover Hong Kong",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest.html",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/discoverhk",
+     "operator": "Discover Hong Kong",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest.html",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/hongkong",
+     "operator": "Discover Hong Kong",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest.html",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@discoverhongkong",
+     "operator": "Discover Hong Kong",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest.html",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-marina-bay-singapore-countdown-2027",
@@ -22072,7 +26227,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@marinabaysg",
+     "operator": "Marina Bay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.marinabaycountdown.sg/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/marinabaysg",
+     "operator": "Marina Bay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.marinabaycountdown.sg/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marinabaysg",
+     "operator": "Marina Bay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.marinabaycountdown.sg/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-reveillon-rio-2027",
@@ -22159,7 +26340,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Leandro Neumann Ciuffo / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: Leandro Neumann Ciuffo / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/riotur.rio",
+     "operator": "Riotur",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/evento-calendario/rio-reveillon-2027-palco-rio/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/riodejaneiro",
+     "operator": "City of Rio de Janeiro",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/evento-calendario/rio-reveillon-2027-palco-rio/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/riodejaneiro",
+     "operator": "City of Rio de Janeiro",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/evento-calendario/rio-reveillon-2027-palco-rio/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydney-new-years-eve-2026",
@@ -22261,7 +26468,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/cityofsydney",
+     "operator": "City of Sydney",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sydneynewyearseve.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cityofsydney",
+     "operator": "City of Sydney",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sydneynewyearseve.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cityofsydney",
+     "operator": "City of Sydney",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sydneynewyearseve.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taipei-new-years-eve-party-2027",
@@ -22356,7 +26589,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/taipeitravel",
+     "operator": "Taipei Travel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027newyear.travel.taipei/en/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/taipeitravel",
+     "operator": "Taipei Travel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027newyear.travel.taipei/en/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wildlands-brisbane-2026",
@@ -22420,13 +26671,43 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wildlandsfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wildlandsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WildlandsFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wildlandsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCyXx3AJWL7gsmzBEUm_wbjA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wildlandsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wildlandsfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wildlandsfestival.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-zamna-tulum-2027",
    "slug": "zamna-tulum-2027",
    "name": "Zamna Tulum 2027 (10 Years)",
-   "website_url": "https://www.zamnafestival.com/news/zamna-tulum-10-years",
+   "website_url": "https://www.zamnafestival.com/",
    "start_date": "2026-12-31",
    "end_date": "2027-01-10",
    "city": "Tulum",
@@ -22446,7 +26727,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.zamnafestival.com/news/zamna-tulum-10-years",
+   "source_url": "https://www.zamnafestival.com/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "10-day anniversary season of events. Tulum is on UTC-5. Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 20.429647,
@@ -22479,8 +26760,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.zamnafestival.com/news/zamna-tulum-10-years",
+     "url": "https://www.zamnafestival.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Zamna news post)",
+     "url": "https://www.zamnafestival.com/news/zamna-tulum-10-years",
+     "field": "Previous listing (Zamna news post)"
     },
     {
      "label": "Official",
@@ -22506,13 +26792,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/zamna.music",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.zamnafestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/zamna.music",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.zamnafestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCh07liXGiNazlEH6Xj6-S0w",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.zamnafestival.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-de-riosucio-2027",
    "slug": "carnaval-de-riosucio-2027",
    "name": "Carnaval de Riosucio 2027",
-   "website_url": "https://caldasesnatural.travel/eventos/riosucio-carnaval-de-riosucio-2027/",
+   "website_url": "https://carnavalderiosuciocaldas.org/",
    "start_date": "2027-01-01",
    "end_date": "2027-01-06",
    "city": "Riosucio",
@@ -22532,7 +26841,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://caldasesnatural.travel/eventos/riosucio-carnaval-de-riosucio-2027/",
+   "source_url": "https://carnavalderiosuciocaldas.org/",
    "last_scraped_at": "2026-11-24T01:06:39+01:00",
    "notes": "Colombia dates are local (Colombia time, UTC-5 all year, no daylight saving).",
    "lat": 5.4209549,
@@ -22549,9 +26858,14 @@ window.ATLASDATA={
    "photos": [],
    "sources": [
     {
-     "label": "Official (Gobernación de Caldas tourism portal, government)",
+     "label": "Official",
+     "url": "https://carnavalderiosuciocaldas.org/",
+     "field": "official"
+    },
+    {
+     "label": "Previous listing (Gobernación de Caldas tourism portal)",
      "url": "https://caldasesnatural.travel/eventos/riosucio-carnaval-de-riosucio-2027/",
-     "field": "official (Gobernación de Caldas tourism portal, government)"
+     "field": "Previous listing (Gobernación de Caldas tourism portal)"
     }
    ],
    "status": "upcoming",
@@ -22572,7 +26886,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/corpcarnavalriosucio",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalderiosuciocaldas.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CarnavalDeRiosu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalderiosuciocaldas.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/carnavalriosucio",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalderiosuciocaldas.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCd-8z1PDxU_ZKKcRalxl2mw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalderiosuciocaldas.org/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-field-day-sydney-2027",
@@ -22641,7 +26985,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FieldDay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fieldday.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fielddaysyd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fieldday.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@field_day_sydney",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fieldday.com.au/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-saptak-music-festival-2027",
@@ -22705,7 +27072,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Saptak.org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.saptak.org/saptakDesk/saptakEvents",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/saptak_80",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.saptak.org/saptakDesk/saptakEvents",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-united-cup-2027",
@@ -22799,7 +27182,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/UnitedCupTennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.unitedcup.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unitedcuptennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.unitedcup.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@unitedcuptennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.unitedcup.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/UnitedCupTennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.unitedcup.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@unitedcup",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.unitedcup.com/",
+     "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-de-negros-y-blancos-2027",
@@ -264621,19 +269041,82 @@ window.ATLASDATA={
    "address": null,
    "lat": 24.9091455,
    "lon": 55.171775,
-   "url": null,
+   "url": "https://www.dubaiairshow.aero/",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Dubai World Central airshow site, published as the venue for the Dubai Airshow 2027. Official headline exhibition-area figures were not stored from a retrieved organiser or venue factsheet in this pass. Coordinates are the atlas precise pin.",
+   "halls": "Official organiser pages name the DWC Airshow Site and refer to exhibition halls, but do not publish a campus exhibition-area total or hall schedule on the pages retrieved.",
+   "description": "Dubai World Central airshow site, named by the official Dubai Airshow organiser (Informa Markets) as “DWC, Dubai Airshow Site” for Dubai Airshow 2027 (15–19 November 2027). Official FAQ: the show is located at DWC, Airshow Site, with Park & Ride from Al Maktoum Airport. No official headline exhibition-area or delegate-capacity figures were published on the retrieved organiser home, FAQ or contact pages, so those fields are null. Coordinates are the atlas precise pin for the named airshow site (Nominatim did not return a distinct named pin in this pass).",
    "photo": null,
    "linked_event_slugs": [
     "dubai-airshow-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.dubaiairshow.aero/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.dubaiairshow.aero/frequently-asked-questions/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.dubaiairshow.aero/contact-us/",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/dubaiairshow",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dubai-airshow",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dubai_airshow_official",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DubaiAirshow",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCTlWJ6jUrVdFG02Cz45hudA",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dubaiairshow",
+     "operator": "Dubai Airshow",
+     "verified_via": "official Dubai Airshow website footer (event-brand accounts for the DWC site, not a standalone venue-operator handle)",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "dubai-internet-city",
@@ -264700,21 +269183,51 @@ window.ATLASDATA={
    "country": "United Arab Emirates",
    "cc": "AE",
    "city": "Dubai",
-   "address": null,
+   "address": "Dubai Festival City, Dubai, UAE",
    "lat": null,
    "lon": null,
-   "url": null,
-   "capacity": null,
+   "url": "https://www.dubaifestivalcityhotels.com/festivalarena",
+   "capacity": 9000,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Arena at Dubai Festival City, published as the venue for Blockchain Life 2026. Official capacity figures were not stored in this pass. Coordinates are left null because the atlas pin was not precise.",
+   "halls": "Official IHG Hotels at Dubai Festival City page: 7,200 sq.m pillarless customisable event space, 9,000 maximum capacity, 17.5 m ceiling, 1,500 parking spaces. A 1,373 m² space with a 1,300 maximum capacity is also listed on the same page. The official Festival Arena marketing site festivalarenadubai.com returned HTTP 403 on retrieval, so figures are taken from the official IHG operator page. 7,200 m² is official “event space” and is not stored as exhibition_sqm.",
+   "description": "Festival Arena at Dubai Festival City, operated with InterContinental / IHG Hotels at Dubai Festival City, published as the venue for Blockchain Life 2026. Official operator page: 9,000 maximum capacity (stored as capacity_max_delegates) and 7,200 sq.m of pillarless customisable event space (noted; not stored as exhibition_sqm because it is labelled event space, not exhibition-only). Meetings email. Official address is given as Dubai Festival City (PO Box 45777 on the contact block). Coordinates are left null: the atlas pin was imprecise, and Nominatim returned only the InterContinental hotel pin, not a distinct Arena pin.",
    "photo": null,
    "linked_event_slugs": [
     "blockchain-life-2026"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.dubaifestivalcityhotels.com/festivalarena",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Festival Arena event space",
+     "type": null,
+     "area_sqm": 7200,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7,200 sq.m pillarless customisable space; 9,000 maximum capacity. Not copied to exhibition_sqm.",
+     "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena"
+    },
+    {
+     "name": "Listed 1,373 m² space",
+     "type": null,
+     "area_sqm": 1373,
+     "capacity_max": 1300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page also lists 53.4 m × 25.7 m × 5.16 m, 1,373 m², 1,300 max capacity.",
+     "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena"
+    }
+   ],
    "documents": []
   },
   {
@@ -264724,19 +269237,28 @@ window.ATLASDATA={
    "country": "United Arab Emirates",
    "cc": "AE",
    "city": "Abu Dhabi",
-   "address": null,
+   "address": "107 Hamouda Bin Ali Al Dhaheri Street, Al Maryah Island, Abu Dhabi, United Arab Emirates",
    "lat": 24.5029805,
    "lon": 54.3899732,
-   "url": null,
+   "url": "https://www.thegalleria.ae/en/play/the-grand-steps",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Outdoor / campus events space on Al Maryah Island in the Abu Dhabi Global Market district, published as the venue for Abu Dhabi Finance Week 2026. Official capacity figures were not stored. Coordinates are the atlas precise pin.",
+   "halls": "Official Galleria page describes The Grand Steps as a new outdoor area outside The Galleria. No official conference or exhibition capacities are published on the retrieved page.",
+   "description": "Outdoor events space outside The Galleria on Al Maryah Island. Official Galleria page (managed by Aldar): 107 Hamouda Bin Ali Al Dhaheri Street, Al Maryah Island, Abu Dhabi;. The official ADGM events listing names The Grand Steps, Al Maryah Island, Abu Dhabi as the venue for ADFW 2026 (7–10 December 2026), matching the atlas event Abu Dhabi Finance Week 2026. No official capacity figures are published. Coordinates are the atlas precise pin for The Grand Steps; Nominatim returned a The Galleria mall pin nearby, which was not substituted.",
    "photo": null,
    "linked_event_slugs": [
     "abu-dhabi-finance-week-2026"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.thegalleria.ae/en/play/the-grand-steps",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adgm.com/events",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
    "documents": []
@@ -265126,6 +269648,36 @@ window.ATLASDATA={
      "source_url": "https://larural.com.ar/wp-content/uploads/2026/07/LaRuralSA-CCE-2026-Presentation.pdf",
      "href": "https://larural.com.ar/wp-content/uploads/2026/07/LaRuralSA-CCE-2026-Presentation.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/larural_bsas",
+     "verified_via": "official website footer",
+     "source_url": "https://larural.com.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/larural.bsas",
+     "verified_via": "official website footer",
+     "source_url": "https://larural.com.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/larural-bsas",
+     "verified_via": "official website footer",
+     "source_url": "https://larural.com.ar/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LaRural_BsAs",
+     "verified_via": "official website footer",
+     "source_url": "https://larural.com.ar/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -265605,7 +270157,30 @@ window.ATLASDATA={
      "source_url": "https://www.messe-tulln.at/unternehmen/trade-fair-center-tulln/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messetulln.at",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-tulln.at/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messe_tulln",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-tulln.at/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCoBsnpRRhghr1jOjmA4vXwg",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-tulln.at/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messezentrum-salzburg",
@@ -266773,7 +271348,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AdelaideShowground",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaideshowground.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adelaideshowground",
+     "verified_via": "official website footer",
+     "source_url": "https://www.adelaideshowground.com.au/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "melbourne-town-hall",
@@ -267601,7 +272192,23 @@ window.ATLASDATA={
      "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nekkerhal",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/nekkerhal-brussels-north",
+     "verified_via": "official website footer",
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "inter-expo-center-sofia",
@@ -267634,7 +272241,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/interexpocenter",
+     "verified_via": "official website footer",
+     "source_url": "https://www.en.iec.bg/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/inter_expo_center",
+     "verified_via": "official website footer",
+     "source_url": "https://www.en.iec.bg/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/inter-expo-center",
+     "verified_via": "official website footer",
+     "source_url": "https://www.en.iec.bg/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/InterExpoCenter",
+     "verified_via": "official website footer",
+     "source_url": "https://www.en.iec.bg/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@interexpocentersofia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.en.iec.bg/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "national-palace-of-culture-sofia",
@@ -267679,6 +272323,29 @@ window.ATLASDATA={
      "source_url": "https://www.ndk.bg/data/uploads/gallery/NDK_A%20brief%20presentation.pdf",
      "href": "https://www.ndk.bg/data/uploads/gallery/NDK_A%20brief%20presentation.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NDKSofia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ndk.bg/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ndksofia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ndk.bg/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NDKSofia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ndk.bg/en/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -268053,7 +272720,30 @@ window.ATLASDATA={
      "source_url": "https://riocentro.com.br/espaco/pavilhao-4/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Riocentro.Oficial",
+     "verified_via": "official website footer",
+     "source_url": "https://riocentro.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/riocentro",
+     "verified_via": "official website footer",
+     "source_url": "https://riocentro.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@riocentrooficial",
+     "verified_via": "official website footer",
+     "source_url": "https://riocentro.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "expo-center-norte",
@@ -268086,7 +272776,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expocenternorte",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expocenternorte.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/expocenternorte",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expocenternorte.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://br.linkedin.com/showcase/expocenternorte",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expocenternorte.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ExpoCN",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expocenternorte.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "transamerica-expo-center",
@@ -268098,7 +272818,7 @@ window.ATLASDATA={
    "address": "São Paulo, SP, Brazil",
    "lat": -23.6488913,
    "lon": -46.7187124,
-   "url": "https://www.transamericaexpocenter.com.br/",
+   "url": "https://www.transamericaexpo.com.br/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -268109,13 +272829,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.transamericaexpo.com.br/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.transamericaexpocenter.com.br/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TransamericaExpoCenter",
+     "verified_via": "official website footer (the atlas transamericaexpocenter.com.br host presents a certificate for transamericaexpo.com.br; the official site was used)",
+     "source_url": "https://www.transamericaexpo.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/TransamericaExpoCenter",
+     "verified_via": "official website footer (the atlas transamericaexpocenter.com.br host presents a certificate for transamericaexpo.com.br; the official site was used)",
+     "source_url": "https://www.transamericaexpo.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/6715279",
+     "verified_via": "official website footer (the atlas transamericaexpocenter.com.br host presents a certificate for transamericaexpo.com.br; the official site was used)",
+     "source_url": "https://www.transamericaexpo.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@transamericaexpocenter",
+     "verified_via": "official website footer (the atlas transamericaexpocenter.com.br host presents a certificate for transamericaexpo.com.br; the official site was used)",
+     "source_url": "https://www.transamericaexpo.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "centrosul-florianopolis",
@@ -269572,6 +274326,36 @@ window.ATLASDATA={
      "href": "https://www.stcc.ch/wp-content/uploads/2021/06/SwissTech-Convention-Center-Brochure-May-2021-1.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/9287381",
+     "verified_via": "official website footer",
+     "source_url": "https://www.stcc.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SwissTechConventionCenter",
+     "verified_via": "official website footer",
+     "source_url": "https://www.stcc.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/swisstech.convention.center",
+     "verified_via": "official website footer",
+     "source_url": "https://www.stcc.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCF8t1nBLcLJlWS0CfynVdig",
+     "verified_via": "official website footer",
+     "source_url": "https://www.stcc.ch/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -269690,7 +274474,30 @@ window.ATLASDATA={
      "source_url": "https://www.messe-zurich.com/en/venue"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/85841342",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-zurich.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messezurich",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-zurich.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@messe_zurich",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-zurich.com/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "bernexpo",
@@ -269844,7 +274651,30 @@ window.ATLASDATA={
      "source_url": "https://bernexpo.ch/en/raeume"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bernexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://bernexpo.ch/de",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bernexpo-groupe",
+     "verified_via": "official website footer",
+     "source_url": "https://bernexpo.ch/de",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/BERNEXPO",
+     "verified_via": "official website footer",
+     "source_url": "https://bernexpo.ch/de",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kongresszentrum-davos",
@@ -269886,7 +274716,23 @@ window.ATLASDATA={
      "source_url": "https://www.davoscongress.ch/en/congress-centre-davos"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/congresscentredavos",
+     "verified_via": "official website footer",
+     "source_url": "https://www.davoscongress.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/davoscongress",
+     "verified_via": "official website footer",
+     "source_url": "https://www.davoscongress.ch/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "palazzo-dei-congressi-lugano",
@@ -269976,7 +274822,25 @@ window.ATLASDATA={
      "source_url": "https://www.luganoconventions.com/en/venues/convention-centre"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCWEUOGE5dlR93DE-OBoCGhg",
+     "operator": "Lugano Conventions",
+     "verified_via": "official Lugano Conventions website footer (operator accounts)",
+     "source_url": "https://www.luganoconventions.com/it",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/luganoconventionexhibition",
+     "operator": "Lugano Conventions",
+     "verified_via": "official Lugano Conventions website footer (operator accounts)",
+     "source_url": "https://www.luganoconventions.com/it",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kursaal-bern",
@@ -270058,7 +274922,44 @@ window.ATLASDATA={
      "source_url": "https://kursaal-bern.ch/en/plan/event-formats/congresses"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KursaalBern",
+     "verified_via": "official website footer",
+     "source_url": "https://kursaal-bern.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kursaalbern",
+     "verified_via": "official website footer",
+     "source_url": "https://kursaal-bern.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@kursaalbern",
+     "verified_via": "official website footer",
+     "source_url": "https://kursaal-bern.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/kursaalbern",
+     "verified_via": "official website footer",
+     "source_url": "https://kursaal-bern.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/KursaalBernTV",
+     "verified_via": "official website footer",
+     "source_url": "https://kursaal-bern.ch/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "stageone-zurich",
@@ -270128,6 +275029,29 @@ window.ATLASDATA={
      "source_url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
      "href": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stageoneeventhall",
+     "verified_via": "official website footer",
+     "source_url": "https://stage-one.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stageone_eventhall",
+     "verified_via": "official website footer",
+     "source_url": "https://stage-one.ch/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/stageone-event-convention-hall-zurich",
+     "verified_via": "official website footer",
+     "source_url": "https://stage-one.ch/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -271777,7 +276701,38 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pvaexpo.cz",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pvaexpo.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pvaexpopraha",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pvaexpo.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/abfveletrhy",
+     "operator": "ABF",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pvaexpo.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pva-expo-praha",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pvaexpo.cz/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "o2-universum",
@@ -271873,6 +276828,29 @@ window.ATLASDATA={
      "href": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/o2universum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.o2universum.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/o2universum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.o2universum.cz/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/o2universum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.o2universum.cz/en/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -271903,7 +276881,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PrahaVystaviste",
+     "verified_via": "official website footer",
+     "source_url": "https://navystavisti.cz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vystavistepraha",
+     "verified_via": "official website footer",
+     "source_url": "https://navystavisti.cz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vystaviste-praha",
+     "verified_via": "official website footer",
+     "source_url": "https://navystavisti.cz/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "palac-lucerna",
@@ -272579,7 +277580,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/messekarlsruhe",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-karlsruhe.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_messekarlsruhe",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-karlsruhe.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/diemessekarlsruhe",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-karlsruhe.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MesseKarlsruhe",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-karlsruhe.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/KaMesseKongress",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-karlsruhe.de/de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messe-friedrichshafen",
@@ -272612,7 +277650,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MesseFriedrichshafen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-friedrichshafen.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messe_friedrichshafen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-friedrichshafen.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/messe-friedrichshafen-gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-friedrichshafen.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@messe.friedrichshafen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-friedrichshafen.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hcc-heidelberg",
@@ -272670,7 +277738,41 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mcon.mannheim",
+     "operator": "m:con",
+     "verified_via": "official website footer (m:con operator accounts for Rosengarten / Congress Center Mannheim)",
+     "source_url": "https://www.mcon-mannheim.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/m-con-congress-center-mannheim",
+     "operator": "m:con",
+     "verified_via": "official website footer (m:con operator accounts for Rosengarten / Congress Center Mannheim)",
+     "source_url": "https://www.mcon-mannheim.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mconmannheim",
+     "operator": "m:con",
+     "verified_via": "official website footer (m:con operator accounts for Rosengarten / Congress Center Mannheim)",
+     "source_url": "https://www.mcon-mannheim.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/mconmannheim",
+     "operator": "m:con",
+     "verified_via": "official website footer (m:con operator accounts for Rosengarten / Congress Center Mannheim)",
+     "source_url": "https://www.mcon-mannheim.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "maritim-proarte-hotel-berlin",
@@ -272917,19 +278019,28 @@ window.ATLASDATA={
    "country": "Germany",
    "cc": "DE",
    "city": "Munich",
-   "address": "Friedenstrasse 24, 81671 Munich",
+   "address": "Friedenstrasse 24, 81671 Munich, Germany",
    "lat": 48.12755,
    "lon": 11.60937,
-   "url": null,
+   "url": "https://www.house-of-communication.com/de/en/locations.html",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Office and event campus in Munich's Werksviertel, listed in the atlas as the venue for DLD Munich. An official venue website, capacities and a press photograph were not confirmed in this pass.",
+   "halls": "Official House of Communication / Serviceplan Group pages identify the Munich campus (Werksviertel) but do not publish conference-hall capacities on the retrieved location and office pages.",
+   "description": "Official Serviceplan Group House of Communication Munich campus in the Werksviertel, listed in the atlas as the venue for DLD Munich. Official English locations page: Friedenstrasse 24, 81671 Munich. Official Munich office page: pedestrian access via Friedenstraße 24; car access via August-Everding-Straße 25 to the on-site garage. No official event-capacity figures were published on the retrieved pages, so those fields are null. Coordinates already stored for this named campus are retained.",
    "photo": null,
    "linked_event_slugs": [
     "dld-munich-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.house-of-communication.com/de/en/locations.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.house-of-communication.com/de/de/offices/munich.html",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
    "documents": []
@@ -272941,21 +278052,55 @@ window.ATLASDATA={
    "country": "Germany",
    "cc": "DE",
    "city": "Munich",
-   "address": "Rosenkavalierplatz 13, 81925 Munich",
+   "address": "Rosenkavalierplatz 13, 81925 Munich, Germany",
    "lat": 48.151035,
    "lon": 11.619002,
-   "url": null,
-   "capacity": null,
+   "url": "https://smartvillage.com/muenchen/bogenhausen",
+   "capacity": 850,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Event and office address in Munich's Bogenhausen district, listed in the atlas as the venue for MLCon Munich. Official website and capacities were not confirmed in this pass.",
+   "halls": "Official facts page (stand 11.11.2026, checked by smartvillage GmbH): München-Bogenhausen 3,500 m², 17 rooms and areas; exclusive-hire capacity up to 850 people; Ballsaal 402 m², up to 440 people. Company seat is listed as Rosenkavalierplatz 14; the venue address is Rosenkavalierplatz 13.",
+   "description": "Official smartvillage München-Bogenhausen event location, listed in the atlas as the venue for MLCon Munich. Official facts page (11 November 2026): Rosenkavalierplatz 13, 81925 Munich; 3,500 m² and 17 rooms; exclusive-hire capacity up to 850 people (stored as capacity_max_delegates); Ballsaal 402 m², up to 440 people. 3,500 m² is the official total venue floor area, not an exhibition-hall total, so exhibition_sqm is null. Public booking email.",
    "photo": null,
    "linked_event_slugs": [
     "mlcon-munich-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://smartvillage.com/muenchen/bogenhausen",
+     "label": "Official source"
+    },
+    {
+     "url": "https://smartvillage.com/ueber-uns/fakten",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Ballsaal",
+     "type": null,
+     "area_sqm": 402,
+     "capacity_max": 440,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facts page: 402 m², up to 440 people.",
+     "source_url": "https://smartvillage.com/ueber-uns/fakten"
+    },
+    {
+     "name": "München-Bogenhausen exclusive hire (whole house)",
+     "type": null,
+     "area_sqm": 3500,
+     "capacity_max": 850,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 3,500 m², 17 rooms; up to 850 people exclusive. Area is total venue floor, not stored as exhibition_sqm.",
+     "source_url": "https://smartvillage.com/ueber-uns/fakten"
+    }
+   ],
    "documents": []
   },
   {
@@ -272983,7 +278128,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/landesmesse-stuttgart-gmbh",
+     "verified_via": "official site configuration / JSON social links on the homepage, plus JSON-LD ContactPoint and the official imprint",
+     "source_url": "https://www.messe-stuttgart.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MesseStuttgart",
+     "verified_via": "official site configuration / JSON social links on the homepage, plus JSON-LD ContactPoint and the official imprint",
+     "source_url": "https://www.messe-stuttgart.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MesseStuttgart",
+     "verified_via": "official site configuration / JSON social links on the homepage, plus JSON-LD ContactPoint and the official imprint",
+     "source_url": "https://www.messe-stuttgart.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "leipziger-messe",
@@ -273010,7 +278178,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/leipzigermesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.leipziger-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LeipzigerMesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.leipziger-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/leipzigermesse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.leipziger-messe.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/leipziger-messe-gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.leipziger-messe.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messe-essen",
@@ -273041,7 +278239,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/messeessen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-essen.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/messe-essen-gmbh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-essen.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messe.essen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-essen.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messeessen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.messe-essen.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "world-conference-center-bonn",
@@ -273518,6 +278746,58 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "icc-punta-cana",
+   "name": "ICC Punta Cana",
+   "type": "convention_centre",
+   "country": "Dominican Republic",
+   "cc": "DO",
+   "city": "Punta Cana",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.iccpuntacana.com/",
+   "capacity": 3500,
+   "exhibition_sqm": 6083,
+   "halls": "Official site: 65,000 sq.ft. / 6,083 m² available for congresses, conventions and exhibitions; meeting space with capacity for up to 3,500 participants, divisible into 39 breakout rooms. Official Fillmore Ballroom 37,500 sq ft / 3,600 m²; Avalon Ballroom 19,000 sq ft / 1,740 m², seats up to 1,320. An official “up to 3,500” outdoor function-space figure is excluded from exhibition_sqm.",
+   "description": "Official Punta Cana International Convention Center in Bávaro, Punta Cana, within walking distance of the Hard Rock Hotel. Official figures: 6,083 m² for congresses, conventions and exhibitions (stored as exhibition_sqm) and meeting space for up to 3,500 participants (stored as capacity_max_delegates). The 3,500-person figure attached to Hard Rock Hotel rooms on the same page is the hotel, not this centre, and was not used. No official street address was published on the retrieved home/facilities copy, so address and coordinates are null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.iccpuntacana.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Fillmore Ballroom",
+     "type": null,
+     "area_sqm": 3600,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 37,500 sq ft / 3,600 m².",
+     "source_url": "https://www.iccpuntacana.com/"
+    },
+    {
+     "name": "Avalon Ballroom",
+     "type": null,
+     "area_sqm": 1740,
+     "capacity_max": null,
+     "capacity_theatre": 1320,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 19,000 sq ft / 1,740 m², seats parties up to 1,320.",
+     "source_url": "https://www.iccpuntacana.com/"
+    }
+   ],
    "documents": []
   },
   {
@@ -274167,6 +279447,50 @@ window.ATLASDATA={
      "href": "https://fycma.com/wp-content/uploads/2018/10/Folleto-FYCMA.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FYCMA",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/fycma",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Fycma",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fycma",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fycma",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fycmaes",
+     "verified_via": "official website footer",
+     "source_url": "https://fycma.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -274368,7 +279692,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CCIBForum",
+     "verified_via": "official website footer",
+     "source_url": "https://ccib.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ccib_forum",
+     "verified_via": "official website footer",
+     "source_url": "https://ccib.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ccib",
+     "verified_via": "official website footer",
+     "source_url": "https://ccib.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CCIB_Forum",
+     "verified_via": "official website footer",
+     "source_url": "https://ccib.es/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "feria-valencia",
@@ -274407,6 +279761,43 @@ window.ATLASDATA={
      "source_url": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
      "href": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/feriavalencia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.feriavalencia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/feria-valencia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.feriavalencia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/feriavalencia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.feriavalencia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/feria_valencia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.feriavalencia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC2c4KYjrdeyt-W2ZH86Bsgw",
+     "verified_via": "official website footer",
+     "source_url": "https://www.feriavalencia.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -274472,6 +279863,43 @@ window.ATLASDATA={
      "source_url": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
      "href": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/BEC_Bilbao",
+     "verified_via": "official website footer",
+     "source_url": "https://bilbaoexhibitioncentre.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bilbaoexhibitioncentre",
+     "verified_via": "official website footer",
+     "source_url": "https://bilbaoexhibitioncentre.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BEC.BilbaoExhibitionCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://bilbaoexhibitioncentre.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/BilbaoExhibitionCentreBEC",
+     "verified_via": "official website footer",
+     "source_url": "https://bilbaoexhibitioncentre.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bilbao-exhibition-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://bilbaoexhibitioncentre.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -274558,6 +279986,58 @@ window.ATLASDATA={
      "local": false
     }
    ]
+  },
+  {
+   "slug": "african-union-conference-centre",
+   "name": "African Union Conference Centre and Office Complex (AUCC)",
+   "type": "congress_centre",
+   "country": "Ethiopia",
+   "cc": "ET",
+   "city": "Addis Ababa",
+   "address": "African Union Headquarters, P.O. Box 3243, Roosvelt Street W21K19, Addis Ababa, Ethiopia",
+   "lat": 9.0009975,
+   "lon": 38.7421283,
+   "url": "https://au.int/en/auccc/facilities",
+   "capacity": 2500,
+   "exhibition_sqm": null,
+   "halls": "Official AU facilities page: the centre can accommodate from a few people for small committee meetings to 2,500 persons for major conferences. Official named spaces include the Nelson Mandela Conference Hall (AU Summit plenary), a multipurpose room for 600 seated, a VIP conference hall for 36, a VIP lounge for 9, and VIP meeting rooms for 6 to 8. No official exhibition-hall total is published on the retrieved page.",
+   "description": "Official African Union Conference Centre at AU Headquarters, Roosvelt Street (official spelling), Addis Ababa. Official facilities page: up to 2,500 persons for major conferences (stored as capacity_max_delegates). Coordinates are the named Nominatim public-building pin for African Union headquarters. The United Nations Conference Centre (UNCC-AA) is a separate official venue and was left for a later pass (retrieved home page did not publish a clear hall schedule in this extract). No atlas events are linked. Official-star hotels were not added in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://au.int/en/auccc/facilities",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Major conference / Nelson Mandela Conference Hall capacity band",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: up to 2,500 persons for major conferences; Nelson Mandela Conference Hall hosts AU Summit plenaries.",
+     "source_url": "https://au.int/en/auccc/facilities"
+    },
+    {
+     "name": "Multipurpose Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: capable of accommodating 600 people (seated).",
+     "source_url": "https://au.int/en/auccc/facilities"
+    }
+   ],
+   "documents": []
   },
   {
    "slug": "messukeskus-helsinki",
@@ -274726,7 +280206,51 @@ window.ATLASDATA={
      "source_url": "https://www.tampere-talo.fi/en/venues/main-auditorium/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tamperetalo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tamperetalo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tampere-talo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tamperetalo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCFzdttdg47xA4sk5UI9LMYg",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tamperetalo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tampere-talo.fi/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kaapelitehdas",
@@ -275024,7 +280548,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/viparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ViparisOfficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/viparisofficiel",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ViparisAgenda",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OfficielViparis",
+     "operator": "Viparis",
+     "verified_via": "official website footer (Viparis operator accounts linked from the venue page)",
+     "source_url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "eurexpo-lyon",
@@ -275065,6 +280631,39 @@ window.ATLASDATA={
      "source_url": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
      "href": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/lyon-events",
+     "operator": "Lyon Events",
+     "verified_via": "official website footer (Lyon Events / GL events operator accounts) plus an Eurexpo Facebook profile linked from the official venue page",
+     "source_url": "https://www.gl-lyonevents.com/en/eurexpo-lyon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gl.lyonevents",
+     "operator": "Lyon Events",
+     "verified_via": "official website footer (Lyon Events / GL events operator accounts) plus an Eurexpo Facebook profile linked from the official venue page",
+     "source_url": "https://www.gl-lyonevents.com/en/eurexpo-lyon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCFTG5ggrc5EatQTvo7cehAA",
+     "operator": "Lyon Events",
+     "verified_via": "official website footer (Lyon Events / GL events operator accounts) plus an Eurexpo Facebook profile linked from the official venue page",
+     "source_url": "https://www.gl-lyonevents.com/en/eurexpo-lyon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/eurexpo",
+     "verified_via": "official website footer (Lyon Events / GL events operator accounts) plus an Eurexpo Facebook profile linked from the official venue page",
+     "source_url": "https://www.gl-lyonevents.com/en/eurexpo-lyon",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -275126,7 +280725,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/palais-des-festivals-et-des-congres-de-cannes",
+     "verified_via": "official website footer",
+     "source_url": "https://www.palaisdesfestivals.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/palaisdesfestivals",
+     "verified_via": "official website footer",
+     "source_url": "https://www.palaisdesfestivals.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CannesPalais",
+     "verified_via": "official website footer",
+     "source_url": "https://www.palaisdesfestivals.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/palaisdesfestivals",
+     "verified_via": "official website footer",
+     "source_url": "https://www.palaisdesfestivals.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCRGKX0aTHRiOsiHte3QDR8A",
+     "verified_via": "official website footer",
+     "source_url": "https://www.palaisdesfestivals.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "station-f-paris",
@@ -276004,7 +281640,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-icc-birmingham",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/theiccbirmingham",
+     "verified_via": "official website footer",
+     "source_url": "https://www.theicc.co.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "nec-birmingham",
@@ -276102,7 +281754,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mcr_central",
+     "verified_via": "official website footer",
+     "source_url": "https://www.manchestercentral.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/mcr_central",
+     "verified_via": "official website footer",
+     "source_url": "https://www.manchestercentral.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/manchester-central",
+     "verified_via": "official website footer",
+     "source_url": "https://www.manchestercentral.co.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "business-design-centre-london",
@@ -276181,6 +281856,50 @@ window.ATLASDATA={
      "source_url": "https://qeiicentre.london/downloads/QEII_Centre_Brochure_2026.pdf",
      "href": "https://qeiicentre.london/downloads/QEII_Centre_Brochure_2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/QEIICentre",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/QEIICentre",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/qeiicentre",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qeiicentre",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@qeiicentre_",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@theqeiicc",
+     "verified_via": "official website footer",
+     "source_url": "https://qeiicentre.london/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -276765,7 +282484,37 @@ window.ATLASDATA={
      "source_url": "https://www.megaron.gr/en/international-conference-centre/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/megaron_athens",
+     "verified_via": "official website footer",
+     "source_url": "https://www.megaron.gr/en/international-conference-centre/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/megaron.gr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.megaron.gr/en/international-conference-centre/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AthensConcertHall",
+     "verified_via": "official website footer",
+     "source_url": "https://www.megaron.gr/en/international-conference-centre/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/athensconcerthall",
+     "verified_via": "official website footer",
+     "source_url": "https://www.megaron.gr/en/international-conference-centre/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "metropolitan-expo-spata",
@@ -276860,7 +282609,30 @@ window.ATLASDATA={
      "source_url": "https://metropolitanexpo.gr/en/facilities/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/athens-metropolitan-expo-s-a",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitanexpo.gr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MetropolitanExpo",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitanexpo.gr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@metropolitanexpo8403",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitanexpo.gr/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "helexpo-thessaloniki",
@@ -277206,7 +282978,45 @@ window.ATLASDATA={
      "source_url": "https://www.asiaworld-expo.com/en-us/planning/venues/typical-halls/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AsiaWorldExpo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AsiaWorldExpoHK",
+     "verified_via": "official website footer",
+     "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/asiaworld-expo-management-limited",
+     "operator": "AsiaWorld-Expo Management",
+     "verified_via": "official website footer",
+     "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/asiaworldexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/asiaworldexpohk",
+     "verified_via": "official website footer",
+     "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kresimir-cosic-hall-zadar",
@@ -277642,7 +283452,30 @@ window.ATLASDATA={
      "source_url": "https://ice-indonesia.com/en/venue/exhibition_hall"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ice_indonesia",
+     "verified_via": "official website footer",
+     "source_url": "https://ice-indonesia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IndonesiaConventionExhibition",
+     "verified_via": "official website footer",
+     "source_url": "https://ice-indonesia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC_7yjqd8NYYIWvjveGkqKyg",
+     "verified_via": "official website footer",
+     "source_url": "https://ice-indonesia.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "rds-dublin",
@@ -278628,6 +284461,133 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "expo-tel-aviv",
+   "name": "Expo Tel Aviv",
+   "type": "exhibition_grounds",
+   "country": "Israel",
+   "cc": "IL",
+   "city": "Tel Aviv",
+   "address": "101 Rokach Boulevard, Tel Aviv, P.O. Box 21075, 6121001, Israel",
+   "lat": 32.1054141,
+   "lon": 34.8084224,
+   "url": "https://expotelaviv.co.il/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official pavilions page: Pavilion 1 5,161 sqm; Pavilion 2 6,384 sqm; Pavilion 10 1,800 sqm; Pavilion 11 A+B 2,330 sqm (1,000–1,600 participants); Pavilions 12–14 1,200 sqm (1,000–1,080 participants). No official campus exhibition total was published as a single figure on the retrieved pages (the about-page counters did not render), so exhibition_sqm is left null rather than summing the pavilions.",
+   "description": "Israel’s official leading exhibition and convention centre at 101 Rokach Boulevard, Tel Aviv. Official pavilion areas are stored hall by hall. Coordinates are the named conference-centre Nominatim pin for אקספו תל אביב. No atlas events are linked (Israel is outside the current atlas set). Official-star conference hotels were not added in this first expansion pass pending a property-level Ministry of Tourism listing.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://expotelaviv.co.il/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expotelaviv.co.il/en/about/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Pavilion 1",
+     "type": null,
+     "area_sqm": 5161,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://expotelaviv.co.il/en/"
+    },
+    {
+     "name": "Pavilion 2",
+     "type": null,
+     "area_sqm": 6384,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://expotelaviv.co.il/en/"
+    },
+    {
+     "name": "Pavilion 10",
+     "type": null,
+     "area_sqm": 1800,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://expotelaviv.co.il/en/"
+    },
+    {
+     "name": "Pavilion 11 A+B",
+     "type": null,
+     "area_sqm": 2330,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 1,000–1,600 participants (range, not stored as a single capacity).",
+     "source_url": "https://expotelaviv.co.il/en/"
+    },
+    {
+     "name": "Pavilions 12–14",
+     "type": null,
+     "area_sqm": 1200,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 1,000–1,080 participants (range).",
+     "source_url": "https://expotelaviv.co.il/en/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "icc-jerusalem",
+   "name": "ICC Jerusalem",
+   "type": "convention_centre",
+   "country": "Israel",
+   "cc": "IL",
+   "city": "Jerusalem",
+   "address": "1 Shazar Blvd., P.O. Box 34405, Jerusalem 9134302, Israel",
+   "lat": null,
+   "lon": null,
+   "url": "https://iccjer.co.il/en/",
+   "capacity": 10000,
+   "exhibition_sqm": 12000,
+   "halls": "Official halls page: 12,000 square meters of exhibition area, 27 halls and seminar rooms, including the Ussishkin Auditorium, Teddy Hall, Oren Halls, Pincus Hall, Exhibitions Hall, Dulzin Hall and Eshkol Halls. Official about page: can accommodate as many as 10 thousand people.",
+   "description": "Official International Convention Center Jerusalem at 1 Shazar Blvd., Jerusalem 9134302;. Official halls page: 12,000 m² of exhibition area (stored as exhibition_sqm) and 27 halls and seminar rooms. Official about page: can accommodate as many as 10 thousand people (stored as capacity_max_delegates). Coordinates are null: Nominatim returned only bus-stop pins named for Binyanei HaUma / Shazar, which were not used.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://iccjer.co.il/en/about-icc-jerusalem/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccjer.co.il/en/icc-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccjer.co.il/en/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "villa-marina-douglas",
    "name": "Villa Marina",
    "type": "congress_centre",
@@ -278826,6 +284786,29 @@ window.ATLASDATA={
      "href": "https://www.biec.in/pdf/BIEC-BROCHURE.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BangaloreInternationalExhibitionCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.biec.in/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/biecentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.biec.in/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bangalore-international-exhibition-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.biec.in/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -278880,7 +284863,39 @@ window.ATLASDATA={
      "source_url": "https://www.iiccnewdelhi.com/exhibition-halls"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/iiccnewdelhi",
+     "verified_via": "official website social icon bar (class name misspelled 'socail' on the official homepage)",
+     "source_url": "https://www.iiccnewdelhi.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/_yashobhoomi_",
+     "verified_via": "official website social icon bar (class name misspelled 'socail' on the official homepage)",
+     "source_url": "https://www.iiccnewdelhi.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/kinexin-convention-management-private-limited",
+     "operator": "Kinexin",
+     "verified_via": "official website social icon bar (class name misspelled 'socail' on the official homepage)",
+     "source_url": "https://www.iiccnewdelhi.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/yashobhoomi_kinexin",
+     "operator": "Kinexin",
+     "verified_via": "official website social icon bar (class name misspelled 'socail' on the official homepage)",
+     "source_url": "https://www.iiccnewdelhi.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "bharat-mandapam",
@@ -278984,7 +284999,44 @@ window.ATLASDATA={
      "source_url": "https://www.indiaexpomart.com/convention-centre-plenary/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IndiaExpoCentreIEML",
+     "verified_via": "official website footer",
+     "source_url": "https://indiaexpomart.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/indiaexpocentreieml",
+     "verified_via": "official website footer",
+     "source_url": "https://indiaexpomart.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/india-expo-centre-ieml",
+     "verified_via": "official website footer",
+     "source_url": "https://indiaexpomart.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/IndiaExpoCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://indiaexpomart.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@indiaexpocentreieml",
+     "verified_via": "official website footer",
+     "source_url": "https://indiaexpomart.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "chennai-trade-centre",
@@ -279166,7 +285218,44 @@ window.ATLASDATA={
      "source_url": "https://www.harpa.is/en/halls-and-spaces"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HarpaReykjavik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.harpa.is/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/harpareykjavik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.harpa.is/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC3Oej4V88BZNmRVUuNtoSsg",
+     "verified_via": "official website footer",
+     "source_url": "https://www.harpa.is/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/harpa-reykjavik-concert-and-conference-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.harpa.is/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@harpareykjavik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.harpa.is/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "fiera-milano-rho",
@@ -279276,16 +285365,25 @@ window.ATLASDATA={
    "address": null,
    "lat": 45.4354304,
    "lon": 12.3533364,
-   "url": null,
+   "url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Historic Venetian Arsenale, published as the venue for the Venice Boat Show 2027. Included as a distinctive named site rather than a purpose-built convention centre. Official conference or exhibition totals were not stored. Coordinates are the atlas precise pin published with the Venice Boat Show 2027.",
+   "halls": "Official VELA page names spaces including Tesa 100, Tesa 105 and Tesa 113 and says some spaces of approximately 1,000 sqm are suited to private and corporate events; that approximate figure is not stored as exhibition_sqm. Official Salone Nautico Venezia site: the 2027 boat show is at the historic Arsenale, 26–30 May 2027.",
+   "description": "Historic Venetian Arsenale, operated for events by VELA S.p.A. (Comune di Venezia / AVM group). Official VELA events page and public email. The official Salone Nautico Venezia organiser site names the historic Arsenale as the venue for the 26–30 May 2027 edition, matching the atlas Venice Boat Show 2027. Official “approximately 1,000 sqm” wording is not stored as an exact exhibition_sqm. VELA’s legal address at Isola Nova del Tronchetto is the company seat, not the Arsenale, and is not stored as the venue address. Coordinates are the atlas precise pin published with the boat show.",
    "photo": null,
    "linked_event_slugs": [
     "venice-boat-show-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
+     "label": "Official source"
+    },
+    {
+     "url": "https://salonenautico.venezia.it/",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
    "documents": []
@@ -279355,21 +285453,83 @@ window.ATLASDATA={
    "country": "Italy",
    "cc": "IT",
    "city": "Verona",
-   "address": "Via Baldassarre Longhena 42, Verona",
-   "lat": null,
-   "lon": null,
-   "url": null,
-   "capacity": null,
+   "address": "Via Longhena, 42, 37138 Verona, Italy",
+   "lat": 45.4400275,
+   "lon": 10.9719634,
+   "url": "https://www.sanmarco.vr.it/en/",
+   "capacity": 400,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Hotel in Verona published as the venue for phpday 2027. Included because it hosts an atlas conference. No official national star classification or published meeting-room capacities were confirmed in this pass, so star_rating and capacities are null. Coordinates are left null because only an imprecise city-level pin was available.",
+   "halls": "Official congress pages: a modular system of up to 11 rooms with a maximum capacity of 400 people. Official room figures include Orange 65 m² / max 60; Red 45 m² / max 15; Blue 165 m² / max 100; Yellow 168 m² / max 100; Green (Blue & Yellow combined) 330 m² / max 400; Rainbow rooms 33 m² / max 12–15 each.",
+   "description": "Official Hotel San Marco congress centre in Verona, published as the venue for phpday 2027. Official contact page: Via Longhena, 42, 37138 Verona;. Official congress pages: maximum capacity 400 people (stored as capacity_max_delegates), including Sala Green at 330 m² / max 400. The hotel markets itself as a 4-star property and publishes CIN IT023091A1LAMN6VV4; no official regional/national star listing was retrieved, so star_rating is null. Coordinates are the named Nominatim hotel pin at Via Baldassare Longhena 42 (the previous imprecise city pin was not used).",
    "photo": null,
    "linked_event_slugs": [
     "phpday-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.sanmarco.vr.it/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanmarco.vr.it/en/convention-and-events.htm",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanmarco.vr.it/contattaci/",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Sala Green (Blue & Yellow combined)",
+     "type": null,
+     "area_sqm": 330,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: max 400 people, 330 m².",
+     "source_url": "https://www.sanmarco.vr.it/en/convention-and-events.htm"
+    },
+    {
+     "name": "Sala Blue",
+     "type": null,
+     "area_sqm": 165,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.sanmarco.vr.it/en/convention-and-events.htm"
+    },
+    {
+     "name": "Sala Yellow",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.sanmarco.vr.it/en/convention-and-events.htm"
+    },
+    {
+     "name": "Sala Orange",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.sanmarco.vr.it/en/convention-and-events.htm"
+    }
+   ],
    "documents": []
   },
   {
@@ -280192,7 +286352,30 @@ window.ATLASDATA={
      "source_url": "https://www.portmesse.com/en/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://twitter.com/portmesse_PR",
+     "verified_via": "official Japanese homepage footer (the English site publishes the operations mailbox but not the social profile URLs)",
+     "source_url": "https://portmesse.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/portmessenagoya_official/",
+     "verified_via": "official Japanese homepage footer (the English site publishes the operations mailbox but not the social profile URLs)",
+     "source_url": "https://portmesse.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@portmesse",
+     "verified_via": "official Japanese homepage footer (the English site publishes the operations mailbox but not the social profile URLs)",
+     "source_url": "https://portmesse.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grand-cube-osaka",
@@ -280512,7 +286695,44 @@ window.ATLASDATA={
      "source_url": "https://kicc.co.ke/pricing-guideline/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KICCNairobiKenya",
+     "verified_via": "official website footer",
+     "source_url": "https://kicc.co.ke/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kicc_kenya",
+     "verified_via": "official website footer",
+     "source_url": "https://kicc.co.ke/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kicc_kenya",
+     "verified_via": "official website footer",
+     "source_url": "https://kicc.co.ke/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIitnX9OIrTEdJ_WD9IPYlA",
+     "verified_via": "official website footer",
+     "source_url": "https://kicc.co.ke/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Va0NP2X0LKZLbNqT942p",
+     "verified_via": "official website footer",
+     "source_url": "https://kicc.co.ke/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sarit-expo-centre",
@@ -280599,7 +286819,44 @@ window.ATLASDATA={
      "source_url": "https://saritexpo.com/about-us/halls-meeting-rooms"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/saritexpocentre",
+     "verified_via": "official website footer",
+     "source_url": "https://saritexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SaritThe",
+     "verified_via": "official website footer",
+     "source_url": "https://saritexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/saritexpocentre_sec",
+     "verified_via": "official website footer",
+     "source_url": "https://saritexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sarit-expo-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://saritexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sarit.expo.centre",
+     "verified_via": "official website footer",
+     "source_url": "https://saritexpo.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-nairobi-upper-hill",
@@ -281007,7 +287264,30 @@ window.ATLASDATA={
      "source_url": "https://www.at.or.kr/contents/acen321121/view.action"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/atwebtv",
+     "verified_via": "official aT (Korea Agro-Fisheries & Food Trade Corporation) website footer (parent-organisation accounts)",
+     "source_url": "https://www.at.or.kr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/atatstory",
+     "verified_via": "official aT (Korea Agro-Fisheries & Food Trade Corporation) website footer (parent-organisation accounts)",
+     "source_url": "https://www.at.or.kr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/atstory.official",
+     "verified_via": "official aT (Korea Agro-Fisheries & Food Trade Corporation) website footer (parent-organisation accounts)",
+     "source_url": "https://www.at.or.kr/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "bexco",
@@ -281318,6 +287598,138 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "expo-congress-center-astana",
+   "name": "EXPO Congress Center, Astana",
+   "type": "congress_centre",
+   "country": "Kazakhstan",
+   "cc": "KZ",
+   "city": "Astana",
+   "address": "55/13 Mangilik El Avenue, 010000 Astana, Kazakhstan",
+   "lat": null,
+   "lon": null,
+   "url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/",
+   "capacity": 2102,
+   "exhibition_sqm": null,
+   "halls": "Official QazExpoCongress Congress Center rent page: the congress centre has a total area of 43,200 square metres over 3 floors (building total, not stored as exhibition_sqm). Official Main Hall 3,000 square metres, capacity 2,102 seats (telescopic 1,610 and mobile 492). Opened 10 June 2017.",
+   "description": "Official EXPO 2017 legacy congress centre operated by National Company QazExpoCongress in Astana. Official contact: 55/13 Mangilik El Avenue, 010000 Astana;. Official Main Hall 3,000 m² and 2,102 seats (stored as capacity_max_delegates). The official 43,200 m² figure is the congress centre’s total floor area, not an exhibition-hall total, so exhibition_sqm is null. Coordinates were not stored: Nominatim did not return a named congress-centre pin in this pass. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://qazexpocongress.kz/en/kontakty/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://qazexpocongress.kz/en/o-kompanii/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Main Hall",
+     "type": null,
+     "area_sqm": 3000,
+     "capacity_max": 2102,
+     "capacity_theatre": 2102,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 2,102 seats (telescopic 1,610; mobile 492).",
+     "source_url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "bmich-colombo",
+   "name": "Bandaranaike Memorial International Conference Hall (BMICH)",
+   "type": "convention_centre",
+   "country": "Sri Lanka",
+   "cc": "LK",
+   "city": "Colombo",
+   "address": "Bauddhaloka Mawatha, Colombo 07, Sri Lanka",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.bmich.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Sirimavo Bandaranaike Memorial Exposition Centre pages on bmich.com (same foundation campus): Centre A 21,000 ft²; Centre B 12,000 ft²; Centre C 9,900 ft²; Centre E 8,160 ft². Those official square-foot figures are stored as converted square metres on the spaces. No official single campus exhibition total in square metres was published, so exhibition_sqm is null.",
+   "description": "Official BMICH campus in Colombo, operated by the SWRD Bandaranaike National Memorial Foundation. Official contact: Bauddhaloka Mawatha, Colombo 07;. Official Sirimavo exhibition-centre hall areas are stored from the official venue page. Coordinates are null: Nominatim did not return a named BMICH pin (only an unrelated café pin on the avenue, which was not used). Official-star conference hotels were not added in this pass. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.bmich.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bmich.com/our-venues/sirimavo-bandaranaike-memorial-exhibition-centre/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bmich.lk/contact-us/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Sirimavo Exposition Centre A",
+     "type": null,
+     "area_sqm": 1951,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 21,000 ft², converted to square metres.",
+     "source_url": "https://www.bmich.com/our-venues/sirimavo-bandaranaike-memorial-exhibition-centre/"
+    },
+    {
+     "name": "Sirimavo Exposition Centre B",
+     "type": null,
+     "area_sqm": 1115,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 12,000 ft², converted.",
+     "source_url": "https://www.bmich.com/our-venues/sirimavo-bandaranaike-memorial-exhibition-centre/"
+    },
+    {
+     "name": "Sirimavo Exposition Centre C",
+     "type": null,
+     "area_sqm": 920,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 9,900 ft², converted.",
+     "source_url": "https://www.bmich.com/our-venues/sirimavo-bandaranaike-memorial-exhibition-centre/"
+    },
+    {
+     "name": "Sirimavo Exposition Centre E",
+     "type": null,
+     "area_sqm": 758,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 8,160 ft², converted.",
+     "source_url": "https://www.bmich.com/our-venues/sirimavo-bandaranaike-memorial-exhibition-centre/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "litexpo-vilnius",
    "name": "LITEXPO",
    "type": "exhibition_grounds",
@@ -281588,7 +288000,44 @@ window.ATLASDATA={
      "source_url": "https://thebox.lu/en/why-exhibit-luxexpo-box"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/luxexpothebox",
+     "verified_via": "official website footer",
+     "source_url": "https://thebox.lu/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/luxexpothebox",
+     "verified_via": "official website footer",
+     "source_url": "https://thebox.lu/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@luxexpothebox",
+     "verified_via": "official website footer",
+     "source_url": "https://thebox.lu/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/luxexpothebox",
+     "verified_via": "official website footer",
+     "source_url": "https://thebox.lu/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnArZJcRwOMY9CS0xf9ELKw",
+     "verified_via": "official website footer",
+     "source_url": "https://thebox.lu/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "european-convention-center-luxembourg",
@@ -281642,7 +288091,44 @@ window.ATLASDATA={
      "source_url": "https://eccl.lu/en/room/plenary-1/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/luxembourg-congr%c3%a8s",
+     "verified_via": "official website footer",
+     "source_url": "https://eccl.lu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/eccl_conventioncenterlux",
+     "verified_via": "official website footer",
+     "source_url": "https://eccl.lu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC6Ts8-85tTYSTuDSAuTAdmA",
+     "verified_via": "official website footer",
+     "source_url": "https://eccl.lu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EuropeanConventionCenterLuxembourg",
+     "verified_via": "official website footer",
+     "source_url": "https://eccl.lu/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/luxcongress",
+     "verified_via": "official website footer",
+     "source_url": "https://eccl.lu/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kipsala-international-exhibition-centre",
@@ -281654,7 +288140,7 @@ window.ATLASDATA={
    "address": "Kipsalas str 8, Riga, LV-1048, Latvia",
    "lat": 56.9551544,
    "lon": 24.079093,
-   "url": "https://www.rigaexpo.lv/",
+   "url": "https://www.bt1.lv/?lang=eng",
    "capacity": 6500,
    "exhibition_sqm": 14900,
    "halls": "Official rooms page: two pavilions (Hall I 5,700 m² / 3,500 persons; Hall II 9,200 m² / 6,500 persons) and two fixed conference rooms. The same page’s introduction also cites conference rooms for 220 and 500 persons, which disagrees with the room-by-room figures (150 and 350); the room-specification lines are stored.",
@@ -281666,6 +288152,10 @@ window.ATLASDATA={
     "riga-comm-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.bt1.lv/?lang=eng",
+     "label": "Official source"
+    },
     {
      "url": "https://www.rigaexpo.lv/",
      "label": "Official source"
@@ -281730,7 +288220,25 @@ window.ATLASDATA={
      "source_url": "https://www.rigaexpo.lv/RE2017/telpas_en.php"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bt1.lv/",
+     "operator": "BT 1",
+     "verified_via": "official BT 1 operator website footer and contacts page (the atlas rigaexpo.lv URL is a short legacy redirect; kipsala.lv is a warehouse-rental site and was not used)",
+     "source_url": "https://www.bt1.lv/?lang=eng",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BT1EVENT/",
+     "operator": "BT 1",
+     "verified_via": "official BT 1 operator website footer and contacts page (the atlas rigaexpo.lv URL is a short legacy redirect; kipsala.lv is a warehouse-rental site and was not used)",
+     "source_url": "https://www.bt1.lv/?lang=eng",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "palais-des-congres-marrakech-movenpick",
@@ -282007,6 +288515,134 @@ window.ATLASDATA={
      "capacity_reception": null,
      "notes": null,
      "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GrimaldiForumMonaco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grimaldiforum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/grimaldi-forum-monaco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Grimaldi_Forum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@grimaldiforum",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/GrimaldiForumMonaco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grimaldiforum.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "hilton-podgorica-crna-gora",
+   "name": "Hilton Podgorica Crna Gora",
+   "type": "hotel_conference_venue",
+   "country": "Montenegro",
+   "cc": "ME",
+   "city": "Podgorica",
+   "address": null,
+   "lat": 42.439036,
+   "lon": 19.2632313,
+   "url": "https://www.hilton.com/en/hotels/tgdpmhi-hilton-podgorica-crna-gora/",
+   "capacity": 500,
+   "exhibition_sqm": null,
+   "halls": "Official Turistička organizacija Podgorica listing: Crystal Ballroom 425 m², accommodating up to 500 guests; meeting rooms for meetings and other events. The live Hilton.com property pages returned HTTP 403 on retrieval, so figures are taken from the official municipal tourism page. No official Montenegrin star listing was retrieved, so star_rating is null.",
+   "description": "Podgorica hotel conference venue listed by the official municipal tourism organisation. Official podgorica.travel page: Crystal Ballroom 425 m², up to 500 guests (stored as capacity_max_delegates). No official street address was published on that page, so address is null. Coordinates are the named Nominatim hotel pin for Hilton Podgorica Crna Gora. Official Hilton.com pages were blocked (HTTP 403) in this pass. No atlas event is linked (Sea Dance 2027 remains TBC).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://podgorica.travel/en/hotel-hilton-2/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hilton.com/en/hotels/tgdpmhi-hilton-podgorica-crna-gora/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Crystal Ballroom",
+     "type": null,
+     "area_sqm": 425,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official municipal tourism page: 425 m², up to 500 guests.",
+     "source_url": "https://podgorica.travel/en/hotel-hilton-2/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "porto-montenegro-dom-vojske",
+   "name": "Dom Vojske Auditorium, Porto Montenegro",
+   "type": "other",
+   "country": "Montenegro",
+   "cc": "ME",
+   "city": "Tivat",
+   "address": "Blaza Jovanovica No 1, Tivat, Montenegro 85320",
+   "lat": null,
+   "lon": null,
+   "url": "https://portomontenegro.com/venues/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Porto Montenegro venues page: historic Dom Vojske Auditorium “accommodating up to 400 guests.” The same page’s specifications table lists Dom Vojske Auditorium with a reception figure of 560 and areas 140 m² / 90 m². Because those official figures were not clearly reconciled, capacity_max_delegates and exhibition_sqm are left null.",
+   "description": "Official Porto Montenegro historic auditorium in Tivat, added as a principal existing indoor conference/event space after Sea Dance 2027 was left TBC and the planned Podgorica congress centre is not yet open. Official venues page and campus address Blaza Jovanovica No 1, Tivat 85320;. Official copy says up to 400 guests, while the specifications table lists reception 560; neither is stored as an exact capacity_max_delegates. Coordinates are null: Nominatim returned only a marina-wide pin, which was not used.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://portomontenegro.com/venues/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Dom Vojske Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official prose: up to 400 guests. Official specifications table: reception 560, 140 m² / 90 m². Not stored as exact capacity or area pending a clearer official schedule.",
+     "source_url": "https://portomontenegro.com/venues/"
     }
    ],
    "documents": []
@@ -284317,7 +290953,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/expo.guadalajara.1",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expoguadalajara.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpoGuadalajara",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expoguadalajara.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expoguadalajaraoficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expoguadalajara.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC95nTtjtDmw9W7PtIIGTIJw",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expoguadalajara.mx/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "expo-santa-fe",
@@ -284347,7 +291013,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/exposantafemx",
+     "verified_via": "official website pinned social icon bar",
+     "source_url": "https://www.exposantafe.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpoSantaFeMx",
+     "verified_via": "official website pinned social icon bar",
+     "source_url": "https://www.exposantafe.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpoSantaFeMx",
+     "verified_via": "official website pinned social icon bar",
+     "source_url": "https://www.exposantafe.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expo-santa-fe-m%C3%A9xico",
+     "verified_via": "official website pinned social icon bar",
+     "source_url": "https://www.exposantafe.com.mx/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "world-trade-center-mexico-city",
@@ -284390,7 +291086,7 @@ window.ATLASDATA={
    "address": "Monterrey, Nuevo León, Mexico",
    "lat": 25.6785945,
    "lon": -100.2881294,
-   "url": "https://www.cintermex.com.mx/",
+   "url": "https://www.cintermex.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -284402,13 +291098,61 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.cintermex.com/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.cintermex.com.mx/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/cintermexmty",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cintermex",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cintermex",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CintermexMonterrey",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cintermex",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cintermex",
+     "verified_via": "official website footer on cintermex.com (the atlas cintermex.com.mx URL failed TLS; the certificate is issued for cintermex.com)",
+     "source_url": "https://www.cintermex.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "tecnologico-de-monterrey-campus-monterrey",
@@ -285216,7 +291960,30 @@ window.ATLASDATA={
      "source_url": "https://landmarklagos.com/floor-plans/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/landmarkcentrelagos",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarklagos.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/landmark_centre",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarklagos.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Landmark_Centre",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarklagos.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "rai-amsterdam",
@@ -285451,6 +292218,36 @@ window.ATLASDATA={
      "href": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/32890",
+     "verified_via": "official website footer",
+     "source_url": "https://www.jaarbeurs.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jaarbeurs",
+     "verified_via": "official website footer",
+     "source_url": "https://www.jaarbeurs.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UClEh58PuitoKB9N5LMkIhcg",
+     "verified_via": "official website footer",
+     "source_url": "https://www.jaarbeurs.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/jaarbeurs.bsky.social",
+     "verified_via": "official website footer",
+     "source_url": "https://www.jaarbeurs.nl/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -285505,6 +292302,29 @@ window.ATLASDATA={
      "source_url": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
      "href": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpoHouten",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expohouten.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpoHouten",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expohouten.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expohouten",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expohouten.nl/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -286119,7 +292939,23 @@ window.ATLASDATA={
      "source_url": "https://novaspektrum.no/en/halls/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/novaspektrum",
+     "verified_via": "official website footer",
+     "source_url": "https://novaspektrum.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/novaspektrum",
+     "verified_via": "official website footer",
+     "source_url": "https://novaspektrum.no/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "rebel-oslo",
@@ -286507,6 +293343,36 @@ window.ATLASDATA={
      "href": "https://www.tepae.co.nz/assets/documents/Venue-Guide.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/18777544",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tepae.co.nz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tepaechristchurch",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tepae.co.nz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tepaechristchurch",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tepae.co.nz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@tepaechristchurch",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tepae.co.nz/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -286610,7 +293476,16 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aucklandshowgrounds",
+     "verified_via": "official website footer",
+     "source_url": "https://www.aucklandshowgrounds.co.nz/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "viaduct-events-centre",
@@ -286700,6 +293575,40 @@ window.ATLASDATA={
      "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
      "href": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AklConventions",
+     "operator": "Auckland Conventions",
+     "verified_via": "official Auckland Conventions venue page footer (operator accounts covering Viaduct and sister Auckland venues)",
+     "source_url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/auckland-conventions",
+     "operator": "Auckland Conventions",
+     "verified_via": "official Auckland Conventions venue page footer (operator accounts covering Viaduct and sister Auckland venues)",
+     "source_url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aucklandconventions",
+     "operator": "Auckland Conventions",
+     "verified_via": "official Auckland Conventions venue page footer (operator accounts covering Viaduct and sister Auckland venues)",
+     "source_url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aucklandconventionsvenues",
+     "operator": "Auckland Conventions",
+     "verified_via": "official Auckland Conventions venue page footer (operator accounts covering Viaduct and sister Auckland venues)",
+     "source_url": "https://www.aucklandconventions.co.nz/venues/viaduct-events-centre",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -286824,6 +293733,43 @@ window.ATLASDATA={
      "source_url": "https://ocec.om/storage/2025/03/ocec-space-inclusions-all-spaces.pdf",
      "href": "https://ocec.om/storage/2025/03/ocec-space-inclusions-all-spaces.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OmanConvention",
+     "verified_via": "official website footer",
+     "source_url": "https://ocec.om/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/OmanConvention",
+     "verified_via": "official website footer",
+     "source_url": "https://ocec.om/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCtMcNDVqh7BqtEROVewK4Pw",
+     "verified_via": "official website footer",
+     "source_url": "https://ocec.om/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/3019623",
+     "verified_via": "official website footer",
+     "source_url": "https://ocec.om/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/omanconvention",
+     "verified_via": "official website footer",
+     "source_url": "https://ocec.om/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -286956,6 +293902,36 @@ window.ATLASDATA={
      "source_url": "https://panamaconventions.com/wp-content/uploads/2022/06/Ficha-Informativa-Panama-Convention-Center-2.pdf",
      "href": "https://panamaconventions.com/wp-content/uploads/2022/06/Ficha-Informativa-Panama-Convention-Center-2.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/panamaconventions",
+     "verified_via": "official website footer",
+     "source_url": "https://panamaconventions.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/panamaccenter",
+     "verified_via": "official website footer",
+     "source_url": "https://panamaconventions.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/panamaconventioncenter",
+     "verified_via": "official website footer",
+     "source_url": "https://panamaconventions.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/panamaconventions",
+     "verified_via": "official website footer",
+     "source_url": "https://panamaconventions.com/en/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -287343,6 +294319,118 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "expo-centre-karachi",
+   "name": "Expo Centre Karachi",
+   "type": "exhibition_grounds",
+   "country": "Pakistan",
+   "cc": "PK",
+   "city": "Karachi",
+   "address": "Main University Road, Gulshan-e-Iqbal, Karachi, Pakistan",
+   "lat": null,
+   "lon": null,
+   "url": "https://tdap.gov.pk/expo-center-karachi/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official TDAP page: introductory copy describes three linked halls of 6,690 m² base area plus mezzanines; the official built-up-area table also lists Exhibition Halls 1–3 at 2,230 m² each (mezzanines 445 / 1,270 / 445 m²), Halls 4–6 at 3,345 m² each (mezzanines 368 / 446 / 446 m²), a foyer of 1,034 m², and a congress centre of 2,710 m². Those official hall figures are stored on spaces; no single official campus exhibition total is stored as exhibition_sqm (the three-hall 6,690 m² figure covers Halls 1–3 only). Parking 20,905 m² is excluded.",
+   "description": "Official Karachi Expo Centre, listed by the Trade Development Authority of Pakistan. Official address: Main University Road, Gulshan-e-Iqbal, Karachi. Official hall areas are stored from the TDAP built-up-area table. exhibition_sqm is left null rather than inventing a campus sum. Coordinates were not stored (no named Nominatim pin in this pass). No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://tdap.gov.pk/expo-center-karachi/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall No. 1",
+     "type": null,
+     "area_sqm": 2230,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 2,230 m² + mezzanine 445 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Exhibition Hall No. 2",
+     "type": null,
+     "area_sqm": 2230,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 2,230 m² + mezzanine 1,270 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Exhibition Hall No. 3",
+     "type": null,
+     "area_sqm": 2230,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 2,230 m² + mezzanine 445 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Exhibition Hall No. 4",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 3,345 m² + mezzanine 368 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Exhibition Hall No. 5",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 3,345 m² + mezzanine 446 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Exhibition Hall No. 6",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 3,345 m² + mezzanine 446 m².",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    },
+    {
+     "name": "Congress Centre",
+     "type": null,
+     "area_sqm": 2710,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 2,710 m² (ground 900, first 900, second-floor conference 910).",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "mtp-poznan-expo",
    "name": "MTP Poznań Expo / Poznań Congress Center",
    "type": "exhibition_grounds",
@@ -287639,7 +294727,37 @@ window.ATLASDATA={
      "source_url": "https://icekrakow.pl/en/about-ice-krakow"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ICEKrakow",
+     "verified_via": "official website footer",
+     "source_url": "https://icekrakow.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCbmCJcJjlvhTg5LcWjpMyAA",
+     "verified_via": "official website footer",
+     "source_url": "https://icekrakow.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/icekrakow",
+     "verified_via": "official website footer",
+     "source_url": "https://icekrakow.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/icekrakow",
+     "verified_via": "official website footer",
+     "source_url": "https://icekrakow.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "expo-xxi-warsaw",
@@ -287726,7 +294844,30 @@ window.ATLASDATA={
      "source_url": "https://expoxxi.pl/technical-data/?lang=en"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/expoxxiwarszawa",
+     "verified_via": "official website footer",
+     "source_url": "https://expoxxi.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expoxxi",
+     "verified_via": "official website footer",
+     "source_url": "https://expoxxi.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expo-xxi-warszawa",
+     "verified_via": "official website footer",
+     "source_url": "https://expoxxi.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "amberexpo-gdansk",
@@ -287784,7 +294925,44 @@ window.ATLASDATA={
      "source_url": "https://amberexpo.pl/en/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AmberExpo",
+     "verified_via": "official website footer",
+     "source_url": "https://amberexpo.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amberexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://amberexpo.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/amberexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://amberexpo.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/amberexpogdansk",
+     "verified_via": "official website footer",
+     "source_url": "https://amberexpo.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/amberexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://amberexpo.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-warsaw",
@@ -287837,21 +295015,47 @@ window.ATLASDATA={
    "country": "Poland",
    "cc": "PL",
    "city": "Warsaw",
-   "address": "Aleja Krakowska 237, Warsaw",
+   "address": "Aleja Krakowska 237, 02-180 Warsaw, Poland",
    "lat": 52.1899529,
    "lon": 20.9571184,
-   "url": null,
-   "capacity": null,
+   "url": "https://www.archehotelkrakowska.pl/en",
+   "capacity": 700,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Hotel on Aleja Krakowska in Warsaw, published as the venue for 4Developers Warsaw 2027. Official meeting-room capacities and an official CWOH star classification were not confirmed in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "halls": "Official hotel and conference-rooms pages: 17 modern conference rooms; largest is Fuksja Hall, 700 m², max 700 people.",
+   "description": "Official Arche Hotel Krakowska in Warsaw, published as the venue for 4Developers Warsaw 2027. Official pages: Aleja Krakowska 237, 02-180 Warsaw;; 17 conference rooms, with Fuksja Hall 700 m² / max 700 people (stored as capacity_max_delegates). No official Polish hotel-classification (CWOH) property-level listing was retrieved, so star_rating is null. Coordinates are the atlas precise pin.",
    "photo": null,
    "linked_event_slugs": [
     "4developers-warsaw-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.archehotelkrakowska.pl/en",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.archehotelkrakowska.pl/en/business/conference-rooms",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.archehotelkrakowska.pl/en/contact",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Fuksja Hall",
+     "type": null,
+     "area_sqm": 700,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: max 700 people, 700 m².",
+     "source_url": "https://www.archehotelkrakowska.pl/en/business/conference-rooms"
+    }
+   ],
    "documents": [],
    "hotel_name": "Arche Hotel Krakowska"
   },
@@ -288213,7 +295417,37 @@ window.ATLASDATA={
      "source_url": "https://exponor.pt/en/be-an-organizer/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/exponor.fiporto",
+     "verified_via": "official website footer",
+     "source_url": "https://exponor.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/exponor.porto",
+     "verified_via": "official website footer",
+     "source_url": "https://exponor.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/exponor-feiras-eventos",
+     "verified_via": "official website footer",
+     "source_url": "https://exponor.pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/EXPONORtv",
+     "verified_via": "official website footer",
+     "source_url": "https://exponor.pt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "meo-arena-lisbon",
@@ -288469,18 +295703,72 @@ window.ATLASDATA={
    "address": null,
    "lat": 38.7290113,
    "lon": -9.1515589,
-   "url": null,
+   "url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Historic pavilion in Lisbon, published as the venue for Building the Future 2027. Official capacity figures were not stored in this pass. Coordinates are the atlas precise pin.",
+   "halls": "Official Visit Lisboa / Associação Turismo de Lisboa venue page: Sala Multiusos of about 1,900 m² (cerca de — not stored as exact exhibition_sqm); central atrium 180 m²; two foyers 280 m²; Salão Nobre 180 m²; Sala dos Azulejos 123 m²; support pantry 113 m².",
+   "description": "Historic multi-use pavilion in Lisbon, published as the venue for Building the Future 2027. Official Visit Lisboa venues page describes a multipurpose hall of about 1,900 m² and several smaller official rooms (atrium 180 m², two foyers 280 m², Salão Nobre 180 m², Sala dos Azulejos 123 m²). The “cerca de 1,900 m²” wording is not stored as exact exhibition_sqm. No official street address was published on the retrieved information page, so address is null. Coordinates are the named exhibition-centre Nominatim pin, matching the atlas precise pin.",
    "photo": null,
    "linked_event_slugs": [
     "building-the-future-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Sala Multiusos",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Visit Lisboa: cerca de 1,900 m² — approximate, not stored as exact area_sqm.",
+     "source_url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html"
+    },
+    {
+     "name": "Átrio central",
+     "type": null,
+     "area_sqm": 180,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html"
+    },
+    {
+     "name": "Salão Nobre",
+     "type": null,
+     "area_sqm": 180,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html"
+    },
+    {
+     "name": "Sala dos Azulejos",
+     "type": null,
+     "area_sqm": 123,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html"
+    }
+   ],
    "documents": []
   },
   {
@@ -288490,21 +295778,47 @@ window.ATLASDATA={
    "country": "Portugal",
    "cc": "PT",
    "city": "Coimbra",
-   "address": null,
+   "address": "Avenida da Guarda Inglesa, n.º 1A, 3040-193 Santa Clara, Coimbra, Portugal",
    "lat": 40.2037267,
    "lon": -8.4359495,
-   "url": null,
-   "capacity": null,
+   "url": "https://www.coimbraconvento.pt/pt/",
+   "capacity": 1093,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Historic convent and events venue in Coimbra, published as the venue for JNation 2027. Official conference-capacity figures were not stored in this pass. Coordinates are the atlas precise pin.",
+   "halls": "Official municipal Coimbra Cultura e Congressos pages: Grande Auditório 1,093 seats (stage area 650 m²). Other named rooms include Antiga Igreja, Sala Aeminium, Sala Almedina and further breakout rooms.",
+   "description": "Official Coimbra municipal culture and congress centre in the Convento São Francisco, published as the venue for JNation 2027. Official contact page: Avenida da Guarda Inglesa, n.º 1A, 3040-193 Santa Clara, Coimbra;. Official Grande Auditório page: capacity 1,093 seats (stored as capacity_max_delegates); stage area 650 m². Coordinates are the named Nominatim pin for Convento de São Francisco - Centro de Cultura e Congressos, matching the atlas precise pin.",
    "photo": null,
    "linked_event_slugs": [
     "jnation-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://www.coimbraconvento.pt/pt/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://coimbraconvento.pt/pt/espacos/grande-auditorio/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.coimbraconvento.pt/pt/contactos/",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
-   "spaces": [],
+   "spaces": [
+    {
+     "name": "Grande Auditório",
+     "type": null,
+     "area_sqm": 650,
+     "capacity_max": 1093,
+     "capacity_theatre": 1093,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 1,093 seats; 650 m² is the published stage area (área palco), not the auditorium floor.",
+     "source_url": "https://coimbraconvento.pt/pt/espacos/grande-auditorio/"
+    }
+   ],
    "documents": []
   },
   {
@@ -288514,19 +295828,28 @@ window.ATLASDATA={
    "country": "Portugal",
    "cc": "PT",
    "city": "Alcobaça",
-   "address": "2460-075 Alcobaça",
-   "lat": 39.5485549,
-   "lon": -8.9774881,
-   "url": null,
+   "address": "Rua Silvério Raposo, n.º 2, 2460-075 Alcobaça, Portugal",
+   "lat": 39.548457,
+   "lon": -8.977337,
+   "url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/home",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Hotel in a historic monastic setting in Alcobaça, published as the venue for IEEE ICDLT 2026. Official meeting-room capacities and an official Turismo de Portugal RNET star classification were not confirmed in this pass. The atlas venue string includes the postcode 2460-075; a full street address was not copied from an official contact page. Coordinates are the atlas precise pin.",
+   "halls": "Official events page names the Claustro do Rachadouro and Salão da Biblioteca as flexible meeting spaces but does not publish exact room capacities on the retrieved page (a 3D brochure is offered). Official contact page publishes RNET n.º 10567; no star class was stated on that page, so star_rating remains null.",
+   "description": "Official Montebelo Mosteiro de Alcobaça Historic Hotel, published as the venue for IEEE ICDLT 2026. Official contact page: Rua Silvério Raposo, n.º 2, 2460-075 Alcobaça;; RNET n.º 10567. Official GPS on the same page: N 39.548457°, W 8.977337° (stored as coordinates, replacing the previous atlas pin). Exact meeting-room capacities were not published as figures on the retrieved events page, so those fields are null. No official Turismo de Portugal star class was stated next to the RNET number.",
    "photo": null,
    "linked_event_slugs": [
     "ieee-icdlt-2026"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/contactos",
+     "label": "Official source"
+    },
+    {
+     "url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/eventos",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
    "documents": []
@@ -288538,19 +295861,28 @@ window.ATLASDATA={
    "country": "Portugal",
    "cc": "PT",
    "city": "Lisbon",
-   "address": null,
+   "address": "Rua da Manutenção 71, 1900-500 Lisboa, Portugal",
    "lat": null,
    "lon": null,
-   "url": null,
+   "url": "https://unicornfactorylisboa.com/",
    "capacity": null,
    "exhibition_sqm": null,
-   "halls": null,
-   "description": "Lisbon venue published for NFC Summit 2027. Official address, website and capacities were not confirmed in this pass. Coordinates are left null because the atlas pin was not precise.",
+   "halls": "Official Unicorn Factory Lisboa / Beato Innovation District pages identify the campus at the former military-industrial complex but do not publish a conference-hall capacity schedule on the retrieved home and Beato pages.",
+   "description": "Official Unicorn Factory Lisboa innovation campus in the Beato Innovation District, published as the venue for NFC Summit 2027. Official Beato page: Rua da Manutenção 71, 1900-500 Lisboa; also. The factory home page publishes. No official conference capacities were published on the retrieved pages. Coordinates are left null: the atlas pin was imprecise, and Nominatim did not return a distinct named pin at Rua da Manutenção 71.",
    "photo": null,
    "linked_event_slugs": [
     "nfc-summit-2027"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "url": "https://unicornfactorylisboa.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://en.beato.unicornfactorylisboa.com/",
+     "label": "Official source"
+    }
+   ],
    "star_rating": null,
    "spaces": [],
    "documents": []
@@ -289078,7 +296410,37 @@ window.ATLASDATA={
      "source_url": "https://romexpo.ro/en/home/servicii/descopera-pavilioanele-b/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RomexpoSA",
+     "verified_via": "official website footer",
+     "source_url": "https://romexpo.ro/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@romexpobucuresti",
+     "verified_via": "official website footer",
+     "source_url": "https://romexpo.ro/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/romexpo-bucuresti",
+     "verified_via": "official website footer",
+     "source_url": "https://romexpo.ro/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/romexpo",
+     "verified_via": "official website footer",
+     "source_url": "https://romexpo.ro/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "cluj-innovation-park",
@@ -289294,6 +296656,29 @@ window.ATLASDATA={
      "href": "https://sajam.rs/wp-content/uploads/prezentacija_bgsajam_corpo_eng_2025.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sajambeograd",
+     "verified_via": "official website footer",
+     "source_url": "https://sajam.rs/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCwb-LqiMrr4W1XyGeCiJBlA",
+     "verified_via": "official website footer",
+     "source_url": "https://sajam.rs/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beogradski_sajam",
+     "verified_via": "official website footer",
+     "source_url": "https://sajam.rs/en/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -289339,36 +296724,31 @@ window.ATLASDATA={
    "address": null,
    "lat": -1.955288,
    "lon": 30.093782,
-   "url": "https://www.kcc.rw/",
-   "capacity": 2600,
+   "url": null,
+   "capacity": null,
    "exhibition_sqm": null,
-   "halls": "Official homepage: main auditorium under the dome seats up to 2,600 people; operators say the complex can host more than 5,000 delegates at once (not stored as an exact campus max). Official copy also cites a complex of some 53,000 square metres and a Kigali IT Park of around 32,200 m² of office and retail space, which are not exhibition figures. No official exhibition-hall total was published on the retrieved homepage (contact paths returned 404).",
-   "description": "Rwanda’s national convention centre in Kigali, officially described on kcc.rw. Official homepage: the main auditorium under the dome seats up to 2,600 people (stored as capacity_max_delegates). The official wording “more than 5,000 delegates at once” is not stored as an exact campus maximum. No official street address or exhibition_sqm figure was published on the retrieved official homepage, and /contact paths returned 404, so those fields are null. Coordinates are the named conference-centre Nominatim pin, matching the atlas precise pin. Linked: Africa Startup Congress and Inclusive Fintech Forum 2027; MWC Kigali 2027 is also linked with a TBC-dates note (the atlas flag is imprecise, but the usual venue is KCC and the pin matches this building).",
+   "halls": null,
+   "description": "Rwanda’s national convention centre in Kigali, at the named conference-centre Nominatim pin (matching the atlas precise pin). The previously listed kcc.rw address currently serves a WordPress tourism blog (gorilla-trekking and car-rental pages) rather than an official operator site, so that URL was dropped and is not used as a source. A Radisson Blu operator property page could not be verified this pass (requests were blocked). Street address, official capacities and exhibition_sqm are left null pending a confirmed official source. Linked: Africa Startup Congress and Inclusive Fintech Forum 2027; MWC Kigali 2027 is also linked with a TBC-dates note (the atlas flag is imprecise, but the usual venue is KCC and the pin matches this building).",
    "photo": null,
    "linked_event_slugs": [
     "africa-startup-congress-2027",
     "inclusive-fintech-forum-2027",
     "mwc-kigali-2027"
    ],
-   "sources": [
-    {
-     "url": "https://www.kcc.rw/",
-     "label": "Official source"
-    }
-   ],
+   "sources": [],
    "star_rating": null,
    "spaces": [
     {
      "name": "Main auditorium",
      "type": null,
      "area_sqm": null,
-     "capacity_max": 2600,
-     "capacity_theatre": 2600,
+     "capacity_max": null,
+     "capacity_theatre": null,
      "capacity_classroom": null,
      "capacity_banquet": null,
      "capacity_reception": null,
-     "notes": "Official: seats up to 2,600 people under the dome.",
-     "source_url": "https://www.kcc.rw/"
+     "notes": "Figures previously taken from kcc.rw were dropped; that domain currently serves a tourism blog, not an official operator site.",
+     "source_url": null
     }
    ],
    "documents": []
@@ -290143,7 +297523,37 @@ window.ATLASDATA={
      "source_url": "https://svenskamassan.se/utforska-oss/om-oss/snabbfakta/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/svenskamassan",
+     "verified_via": "official website footer",
+     "source_url": "https://en.svenskamassan.se/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/svenskamassan",
+     "verified_via": "official website footer",
+     "source_url": "https://en.svenskamassan.se/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SvenskaMassan",
+     "verified_via": "official website footer",
+     "source_url": "https://en.svenskamassan.se/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/svenska-massan",
+     "verified_via": "official website footer",
+     "source_url": "https://en.svenskamassan.se/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "stockholmsmassan",
@@ -290237,6 +297647,29 @@ window.ATLASDATA={
      "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
      "href": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stockholmsmassan",
+     "verified_via": "official website footer",
+     "source_url": "https://stockholmsmassan.se/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stockholmsmassan",
+     "verified_via": "official website footer",
+     "source_url": "https://stockholmsmassan.se/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/stockholmsmassan",
+     "verified_via": "official website footer",
+     "source_url": "https://stockholmsmassan.se/en/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -291127,7 +298560,44 @@ window.ATLASDATA={
      "source_url": "https://www.gr.si/en/halls"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gr-ljubljana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gr.si/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/grljubljana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gr.si/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grljubljana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gr.si/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gr_ljubljana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gr.si/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@gr-ljubljana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.gr.si/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-perla-nova-gorica",
@@ -291386,7 +298856,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BITEC.BURI",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bitec.co.th/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/bitec_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bitec.co.th/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bitec_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bitec.co.th/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bitec_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bitec.co.th/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@bitec_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bitec.co.th/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "queen-sirikit-national-convention-center",
@@ -291640,6 +299147,86 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "parc-des-expositions-du-kram",
+   "name": "Parc des Expositions du Kram",
+   "type": "exhibition_grounds",
+   "country": "Tunisia",
+   "cc": "TN",
+   "city": "Tunis",
+   "address": "Parc des Expositions du Kram, Le Kram, Tunis, Tunisia",
+   "lat": null,
+   "lon": null,
+   "url": "https://fkram.com.tn/",
+   "capacity": 400,
+   "exhibition_sqm": 23000,
+   "halls": "Official spaces page: total area of the three halls 23,000 m² (Halle 1 8,900 m²; Halle 2 7,900 m²; Halle 3 6,200 m²), stored as exhibition_sqm. Official outdoor exhibition space 15,000 m² is excluded. A separate International Trade Centre of 10,000 m² is noted and not added into exhibition_sqm. Official conference rooms: two of 150 seats and one of 400 seats. The official homepage also states “40,000 m² d’exposition couverte,” which disagrees with the 23,000 m² three-hall total; the detailed hall schedule is stored and 40,000 is not.",
+   "description": "Official Parc des Expositions du Kram (Foire Internationale de Tunis), described on its official site as Tunisia’s largest exhibition centre. Official address Le Kram, Tunis;. Official three-hall total 23,000 m² stored as exhibition_sqm; outdoor 15,000 m² excluded. Official largest named conference room 400 seats (stored as capacity_max_delegates). The homepage’s 40,000 m² covered-exhibition figure is noted and not stored. Coordinates are null (no named Nominatim pin in this pass). No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://fkram.com.tn/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://fkram.com.tn/spaces.php?lang=fr",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halle 1",
+     "type": null,
+     "area_sqm": 8900,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fkram.com.tn/spaces.php?lang=fr"
+    },
+    {
+     "name": "Halle 2",
+     "type": null,
+     "area_sqm": 7900,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fkram.com.tn/spaces.php?lang=fr"
+    },
+    {
+     "name": "Halle 3",
+     "type": null,
+     "area_sqm": 6200,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fkram.com.tn/spaces.php?lang=fr"
+    },
+    {
+     "name": "Conference hall (400 seats)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fkram.com.tn/spaces.php?lang=fr"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "tuyap-fair-congress-center-istanbul",
    "name": "TÜYAP Fair, Convention & Congress Center, Istanbul",
    "type": "exhibition_grounds",
@@ -291685,7 +299272,37 @@ window.ATLASDATA={
      "source_url": "https://www.tuyap.com.tr/en/istanbul/fair-convention-center"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tuyap",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tuyap.com.tr/en/istanbul/fair-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Tuyap",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tuyap.com.tr/en/istanbul/fair-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tuyapfuarcilik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tuyap.com.tr/en/istanbul/fair-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/t-yap-fuarc-l-k-yap-m-a---",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tuyap.com.tr/en/istanbul/fair-convention-center",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "istanbul-expo-center",
@@ -291864,6 +299481,36 @@ window.ATLASDATA={
      "source_url": "https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-en-2025-05.pdf",
      "href": "https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-en-2025-05.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/istanbulfuarmerkezi",
+     "verified_via": "official website footer",
+     "source_url": "https://ifm.com.tr/en/about-us/about-ifm",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/istfuarmerkezi",
+     "verified_via": "official website footer",
+     "source_url": "https://ifm.com.tr/en/about-us/about-ifm",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/istanbulfuarmerkezi",
+     "verified_via": "official website footer",
+     "source_url": "https://ifm.com.tr/en/about-us/about-ifm",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/i%cc%87stanbul-fuar-merkezi",
+     "verified_via": "official website footer",
+     "source_url": "https://ifm.com.tr/en/about-us/about-ifm",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -292247,6 +299894,41 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.sinica.edu.tw/en/paragraph/10",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "international-exhibition-centre-kyiv",
+   "name": "International Exhibition Centre, Kyiv",
+   "type": "exhibition_grounds",
+   "country": "Ukraine",
+   "cc": "UA",
+   "city": "Kyiv",
+   "address": "15 Brovarskoy Ave., UA-02002 Kyiv, Ukraine",
+   "lat": 50.4523824,
+   "lon": 30.5912228,
+   "url": "https://mvc-expo.com.ua/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official site lists four pavilions and publishes 2026 and 2027 exhibition calendars, together with operational safety notices asking visitors to use designated shelters during air-raid alerts. Official hall-area figures were not copied from the retrieved home and contact pages (the English “main points” path returned 404), so exhibition_sqm is null.",
+   "description": "Ukraine’s official International Exhibition Centre in Kyiv, added only as an operating venue: the official site was live on 24 November 2026 with 2026 and 2027 exhibition lists and current safety/shelter guidance. Official contact address: 15 Brovarskoy Ave., UA-02002 Kyiv. Coordinates are the named exhibition-centre Nominatim pin. Hall areas were not stored pending a live official hall-schedule page. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://mvc-expo.com.ua/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mvc-expo.com.ua/en/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mvc-expo.com.ua/en/exhibitions-and-actions/",
      "label": "Official source"
     }
    ],
@@ -293481,6 +301163,50 @@ window.ATLASDATA={
      "href": "https://www.laconventioncenter.com/assets/doc/Level1-ExhibitHalls-2026-0332fea215.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/conventioncenterla",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ConventionLA",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/conventioncenterla",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCdyODtg7DH_2aldtUGzRLIA",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@conventioncenterla",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/conventionla",
+     "verified_via": "official website footer",
+     "source_url": "https://www.laconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -293666,7 +301392,49 @@ window.ATLASDATA={
      "source_url": "https://www.signatureboston.com/bcec"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SignatureBoston",
+     "operator": "Signature Boston",
+     "verified_via": "official Signature Boston venue page footer (operator accounts for the BCEC and sister Boston venues)",
+     "source_url": "https://www.signatureboston.com/bcec",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SignatureBOS",
+     "operator": "Signature Boston",
+     "verified_via": "official Signature Boston venue page footer (operator accounts for the BCEC and sister Boston venues)",
+     "source_url": "https://www.signatureboston.com/bcec",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIoXbrH3WUic5SC8-Tu3UIA",
+     "operator": "Signature Boston",
+     "verified_via": "official Signature Boston venue page footer (operator accounts for the BCEC and sister Boston venues)",
+     "source_url": "https://www.signatureboston.com/bcec",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/boston-convention-marketing-center",
+     "operator": "Signature Boston",
+     "verified_via": "official Signature Boston venue page footer (operator accounts for the BCEC and sister Boston venues)",
+     "source_url": "https://www.signatureboston.com/bcec",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/signatureboston",
+     "operator": "Signature Boston",
+     "verified_via": "official Signature Boston venue page footer (operator accounts for the BCEC and sister Boston venues)",
+     "source_url": "https://www.signatureboston.com/bcec",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "music-city-center",
@@ -293778,6 +301546,43 @@ window.ATLASDATA={
      "href": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/phoenixconvctr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.phoenixconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PhoenixConvCntr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.phoenixconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PhoenixConCtr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.phoenixconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PhxConvCntr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.phoenixconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/phoenixconventioncenter",
+     "verified_via": "official website footer",
+     "source_url": "https://www.phoenixconventioncenter.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -293836,7 +301641,49 @@ window.ATLASDATA={
      "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center/fact-sheet"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/TheEventsDc",
+     "operator": "Events DC",
+     "verified_via": "official website footer (Events DC operator accounts linked from the venue page)",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OfficialEventsDC",
+     "operator": "Events DC",
+     "verified_via": "official website footer (Events DC operator accounts linked from the venue page)",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCSwhO7SU3DuXgKfppFIV14Q",
+     "operator": "Events DC",
+     "verified_via": "official website footer (Events DC operator accounts linked from the venue page)",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/events-dc",
+     "operator": "Events DC",
+     "verified_via": "official website footer (Events DC operator accounts linked from the venue page)",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/eventsdc",
+     "operator": "Events DC",
+     "verified_via": "official website footer (Events DC operator accounts linked from the venue page)",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "long-beach-convention-and-entertainment-center",
@@ -294176,6 +302023,43 @@ window.ATLASDATA={
      "href": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/VisitSanJose",
+     "verified_via": "official Visit San Jose convention-centre page footer (CVB / destination-organisation accounts)",
+     "source_url": "https://www.sanjose.org/meet/conventioncenter",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@visitsanjose",
+     "verified_via": "official Visit San Jose convention-centre page footer (CVB / destination-organisation accounts)",
+     "source_url": "https://www.sanjose.org/meet/conventioncenter",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/visitsanjose",
+     "verified_via": "official Visit San Jose convention-centre page footer (CVB / destination-organisation accounts)",
+     "source_url": "https://www.sanjose.org/meet/conventioncenter",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/teamsanjose408",
+     "verified_via": "official Visit San Jose convention-centre page footer (CVB / destination-organisation accounts)",
+     "source_url": "https://www.sanjose.org/meet/conventioncenter",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/visitsanjose",
+     "verified_via": "official Visit San Jose convention-centre page footer (CVB / destination-organisation accounts)",
+     "source_url": "https://www.sanjose.org/meet/conventioncenter",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -294230,7 +302114,33 @@ window.ATLASDATA={
      "source_url": "https://www.latu.org.uy/servicios-latu/mas-servicios/centro-de-reuniones-y-eventos-cre"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCrpk5Jwdn2OI64J53iJAnDg",
+     "operator": "LATU",
+     "verified_via": "official LATU organisation website footer (parent science-and-technology park accounts)",
+     "source_url": "https://www.latu.org.uy/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LATU_uy",
+     "operator": "LATU",
+     "verified_via": "official LATU organisation website footer (parent science-and-technology park accounts)",
+     "source_url": "https://www.latu.org.uy/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/latu",
+     "operator": "LATU",
+     "verified_via": "official LATU organisation website footer (parent science-and-technology park accounts)",
+     "source_url": "https://www.latu.org.uy/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "saigon-exhibition-convention-centre",
@@ -294293,7 +302203,16 @@ window.ATLASDATA={
      "source_url": "https://secc.com.vn/venue/1581452596/exhibition-hall-b"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/secc",
+     "verified_via": "official website footer",
+     "source_url": "https://secc.com.vn/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-reverie-saigon",
@@ -294816,7 +302735,44 @@ window.ATLASDATA={
      "source_url": "https://expocentre.co.za/venue/hall-10/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pages/Johannesburg-Expo-Centre-Nasrec/514977938603380",
+     "verified_via": "official website footer",
+     "source_url": "https://expocentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/jhbexpocentre1",
+     "verified_via": "official website footer",
+     "source_url": "https://expocentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/johannesburgexpocentre",
+     "verified_via": "official website footer",
+     "source_url": "https://expocentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/johannesburg-expo-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://expocentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCLXXVEp5QHxCXxF8aEjeRAA",
+     "verified_via": "official website footer",
+     "source_url": "https://expocentre.co.za/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "century-city-conference-centre",
@@ -294882,6 +302838,29 @@ window.ATLASDATA={
      "source_url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
      "href": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/centurycityconferencecentre",
+     "verified_via": "official website footer",
+     "source_url": "https://ccconferencecentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centurycityconferencecentre",
+     "verified_via": "official website footer",
+     "source_url": "https://ccconferencecentre.co.za/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/century-city-conference-centre",
+     "verified_via": "official website footer",
+     "source_url": "https://ccconferencecentre.co.za/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -295143,7 +303122,7 @@ window.ATLASDATA={
   },
   "expo": 187,
   "hotels": 594,
-  "venues": 494,
+  "venues": 505,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,
