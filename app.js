@@ -1572,23 +1572,37 @@ function visibleEvents(){
     return true;
   });
 }
+function isVerifiedEvent(e){
+  if(!e) return false;
+  if(typeof GCONFCLAIM!=='undefined' && typeof GCONFCLAIM.isVerified==='function'){
+    return !!GCONFCLAIM.isVerified('event', e);
+  }
+  return !!(e.verified && (e.verified.at || e.verified.verified_at));
+}
+function verifiedTie(x,y){
+  return (isVerifiedEvent(y)?1:0) - (isVerifiedEvent(x)?1:0);
+}
+function dateSoonest(x,y){
+  return (x.start_date||'9999').localeCompare(y.start_date||'9999') || verifiedTie(x,y) || (x.name||'').localeCompare(y.name||'');
+}
 function sortEvents(a){
   const s = st.sort;
   const copy = a.slice();
   const minP = e => e.price_eur_min!=null?e.price_eur_min:(e.ticket_price_min!=null?e.ticket_price_min:9e12);
   const maxP = e => e.price_eur_max!=null?e.price_eur_max:(e.ticket_price_max!=null?e.ticket_price_max:0);
   copy.sort((x,y) => {
-    if(s==='name') return (x.name||'').localeCompare(y.name||'');
-    if(s==='city') return (x.city||'').localeCompare(y.city||'') || (x.name||'').localeCompare(y.name||'');
+    if(s==='name') return (x.name||'').localeCompare(y.name||'') || verifiedTie(x,y);
+    if(s==='city') return (x.city||'').localeCompare(y.city||'') || verifiedTie(x,y) || (x.name||'').localeCompare(y.name||'');
+    // Explicit price sorts stay by price only — no verified boost.
     if(s==='price') return minP(x)-minP(y);
     if(s==='price-desc') return maxP(y)-maxP(x);
     if(s==='attendance'){
       const ay = attendanceValue(y), ax = attendanceValue(x);
       if(ay!==ax) return ay-ax;
-      return (x.name||'').localeCompare(y.name||'');
+      return verifiedTie(x,y) || (x.name||'').localeCompare(y.name||'');
     }
-    if(s==='date-desc') return (y.start_date||'0000').localeCompare(x.start_date||'0000') || (x.name||'').localeCompare(y.name||'');
-    return (x.start_date||'9999').localeCompare(y.start_date||'9999') || (x.name||'').localeCompare(y.name||'');
+    if(s==='date-desc') return (y.start_date||'0000').localeCompare(x.start_date||'0000') || verifiedTie(x,y) || (x.name||'').localeCompare(y.name||'');
+    return dateSoonest(x,y);
   });
   return copy;
 }
@@ -2484,7 +2498,7 @@ function renderTimeline(){
   const scrub = $('#tlscrub');
   if(!body) return;
   tlDisconnect();
-  const list = visibleEvents().filter(e => !isPostponed(e)).slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+  const list = visibleEvents().filter(e => !isPostponed(e)).slice().sort(dateSoonest);
   if(!list.length){
     body.innerHTML = `<div class="tl-empty">${emptyMessage()}</div>`;
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
@@ -2625,7 +2639,7 @@ function playReduced(){
   return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
 }
 function playEvents(){
-  return visibleEvents().filter(hasDates).slice().sort((a,b) => (a.start_date||'9999').localeCompare(b.start_date||'9999') || (a.name||'').localeCompare(b.name||''));
+  return visibleEvents().filter(hasDates).slice().sort(dateSoonest);
 }
 function playMapVisible(){
   return !!(PLAY.on && $('#map'));
@@ -3582,6 +3596,7 @@ function playUserInteract(ev){
   if(mob) mob.addEventListener('click', () => { if(PLAY.on && !PLAY.paused) playPause(); });
   document.addEventListener('keydown', ev => {
     if(!PLAY.on) return;
+    if(document.documentElement.classList.contains('claim-open')) return;
     const tag = (ev.target && ev.target.tagName || '').toLowerCase();
     if(tag==='input' || tag==='textarea' || ev.target.isContentEditable) return;
     if(LB.open) return;
@@ -3635,8 +3650,11 @@ function viewHotel(h){
   const venueLink = h.venue_slug ? `<div class="dsec"><h4>Venue page</h4><p><a href="#/venue/${esc(h.venue_slug)}">Open venue listing</a></p></div>` : '';
   const socials = socialsHtml(h);
   const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
+  const ph = h.photos||[];
+  const gal = (typeof galHtml==='function') ? galHtml(ph, (ph[0]&&ph[0].credit)||'') : '';
+  const photoCap = (ph[0] && typeof photoCreditLine==='function' && photoCreditLine(ph[0])) ? `<div class="hcredit">${photoCreditLine(ph[0])}</div>` : '';
   const claim = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.claimSectionHtml('hotel', rec) : '';
-  return close + hero + facts + socialSec + venueLink + evSec + claim;
+  return close + gal + hero + photoCap + facts + socialSec + venueLink + evSec + claim;
 }
 
 function route(){
@@ -3795,7 +3813,7 @@ function swList(){
   const a = visibleEvents().slice();
   if(SW.sort==='price') a.sort((x,y)=>(x.price_eur_min!=null?x.price_eur_min:9e12)-(y.price_eur_min!=null?y.price_eur_min:9e12));
   else if(SW.sort==='price-desc') a.sort((x,y)=>(y.price_eur_max||0)-(x.price_eur_max||0));
-  else a.sort((x,y)=>(x.start_date||'9999').localeCompare(y.start_date||'9999'));
+  else a.sort(dateSoonest);
   return a;
 }
 function swCard(e,k){
@@ -4095,6 +4113,7 @@ if(gridExpandBtn) gridExpandBtn.onclick = () => setGridMin(false, {focus:'collap
 window.addEventListener('hashchange', route);
 document.addEventListener('keydown', e => {
   if(e.key==='Escape'){
+    if(document.documentElement.classList.contains('claim-open')) return;
     if(LB.open) return;
     if(PLAY.on) return;
     if(/^#\/timeline\/event/.test(location.hash)) location.hash=filtersHash('timeline');

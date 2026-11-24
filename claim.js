@@ -127,6 +127,7 @@
       '<div class="claim-dialog-inner">' +
       '<h2 id="claim-dialog-title">Claim this listing</h2>' +
       '<p class="claim-lead">GConf reviews claims by hand. Follow our official accounts and repost the listing so we can verify the claim before we update the record.</p>' +
+      '<p class="claim-benefit">Verified listings get a Verified by organiser badge and rank higher in the atlas.</p>' +
       '<div class="claim-top-steps">' +
       '<section class="claim-step" aria-labelledby="claim-step-1">' +
       '<h3 id="claim-step-1">1. Follow GConf</h3>' +
@@ -206,15 +207,20 @@
       follows.appendChild(row);
     });
 
-    dlg.querySelector(".claim-close").addEventListener("click", close);
-    dlg.addEventListener("click", function (ev) {
-      if (ev.target === dlg) close();
+    dlg.querySelector(".claim-close").addEventListener("click", function (ev) {
+      ev.preventDefault();
+      ev.stopPropagation();
+      close();
     });
-    dlg.addEventListener("cancel", function () {
-      document.documentElement.classList.remove("claim-open");
+    dlg.addEventListener("click", function (ev) {
+      if (clickedBackdrop(ev)) close();
+    });
+    dlg.addEventListener("cancel", function (ev) {
+      ev.preventDefault();
+      close();
     });
     dlg.addEventListener("close", function () {
-      document.documentElement.classList.remove("claim-open");
+      unlockScroll();
     });
     dlg.querySelector("#claim-copy-link").addEventListener("click", copyLink);
     dlg.querySelector("#claim-form").addEventListener("submit", onSubmit);
@@ -452,23 +458,77 @@
     });
   }
 
-  function open(rec) {
+  var openerEl = null;
+  var closing = false;
+
+  function isDialogOpen() {
+    return !!(dlg && (dlg.open || dlg.hasAttribute("open")));
+  }
+  function unlockScroll() {
+    document.documentElement.classList.remove("claim-open");
+    if (document.body) document.body.classList.remove("claim-open");
+  }
+  function restoreFocus() {
+    var el = openerEl;
+    openerEl = null;
+    if (el && document.contains(el) && typeof el.focus === "function" && !el.disabled) {
+      try { el.focus(); } catch (err) {}
+      return;
+    }
+    var fallback = document.querySelector("#detail.open .claim-cta, #dbody .claim-cta, .claim-cta");
+    if (fallback && typeof fallback.focus === "function" && !fallback.disabled) {
+      try { fallback.focus(); } catch (err) {}
+    }
+  }
+  function clickedBackdrop(ev) {
+    if (!dlg) return false;
+    if (ev.target === dlg) return true;
+    if (ev.target && ev.target.closest && ev.target.closest(".claim-dialog-inner, .claim-close")) return false;
+    var r = dlg.getBoundingClientRect();
+    return ev.clientX < r.left || ev.clientX > r.right || ev.clientY < r.top || ev.clientY > r.bottom;
+  }
+  function open(rec, fromEl) {
     if (!rec) return;
     if (isVerified(rec.type, rec)) return;
     ensureDialog();
     fillListing(rec);
-    document.documentElement.classList.add("claim-open");
+    openerEl = fromEl || document.activeElement || null;
+    if (openerEl && (openerEl === document.body || openerEl === document.documentElement || (dlg && dlg.contains(openerEl)))) {
+      openerEl = fromEl || null;
+    }
+    // showModal first so the UA snapshots the pre-lock overflow and can restore it on close.
     if (typeof dlg.showModal === "function") dlg.showModal();
     else dlg.setAttribute("open", "");
+    document.documentElement.classList.add("claim-open");
     var first = dlg.querySelector(".claim-follow-row .btn") || dlg.querySelector(".claim-close");
     if (first) first.focus();
   }
   function close() {
-    if (!dlg) return;
-    if (dlg.open && typeof dlg.close === "function") dlg.close();
-    else dlg.removeAttribute("open");
-    document.documentElement.classList.remove("claim-open");
+    if (closing) return;
+    closing = true;
+    unlockScroll();
+    try {
+      if (dlg) {
+        if (dlg.open && typeof dlg.close === "function") dlg.close();
+        else dlg.removeAttribute("open");
+      }
+    } catch (err) {
+      if (dlg) {
+        try { dlg.removeAttribute("open"); } catch (err2) {}
+      }
+    }
+    closing = false;
+    restoreFocus();
   }
+
+  document.addEventListener("keydown", function (ev) {
+    if (ev.key !== "Escape" && ev.key !== "Esc") return;
+    if (!isDialogOpen()) return;
+    ev.preventDefault();
+    ev.stopPropagation();
+    if (typeof ev.stopImmediatePropagation === "function") ev.stopImmediatePropagation();
+    close();
+  }, true);
   function bindButton(btn, rec) {
     if (!btn || !rec) return;
     if (isVerified(rec.type, rec)) {
@@ -484,7 +544,7 @@
     }
     btn.onclick = function (ev) {
       ev.preventDefault();
-      open(rec);
+      open(rec, ev.currentTarget || btn);
     };
   }
   function claimSectionHtml(type, rec) {
@@ -540,6 +600,6 @@
       city: btn.getAttribute("data-claim-city") || "",
       canonical: btn.getAttribute("data-claim-url") || ""
     };
-    open(rec);
+    open(rec, btn);
   });
 })(window);

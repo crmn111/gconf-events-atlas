@@ -89,10 +89,17 @@ button.claim-claimed{
   color:var(--claim-ink);
   box-shadow:var(--claim-shadow);
   font:15px/1.5 var(--claim-sans);
-  display:flex;
   flex-direction:column;
   overflow:hidden;
   z-index:10000;
+}
+/* UA dialog { display:none } is weaker than a class rule. Without this, a
+   closed .claim-dialog stays on screen and intercepts clicks (including its
+   own close control appearing to do nothing). */
+.claim-dialog:not([open]){ display:none; }
+.claim-dialog[open]{
+  display:flex;
+  flex-direction:column;
 }
 .claim-dialog::backdrop{
   background:rgba(10,14,18,.55);
@@ -114,6 +121,8 @@ html[data-theme="dark"] .claim-dialog::backdrop{
 .claim-dialog .claim-close{
   position:absolute;
   top:12px;right:12px;
+  z-index:5;
+  pointer-events:auto;
   width:36px;height:36px;
   border:0;
   background:transparent;
@@ -132,9 +141,19 @@ html[data-theme="dark"] .claim-dialog::backdrop{
   line-height:1.2;
 }
 .claim-lead{
-  margin:0 0 20px;
+  margin:0 0 12px;
   color:var(--claim-muted);
   font-size:14px;
+}
+.claim-benefit{
+  margin:0 0 20px;
+  padding:10px 12px;
+  border-radius:10px;
+  border:1px solid var(--claim-line);
+  background:color-mix(in srgb, var(--claim-lime) 18%, var(--claim-bg));
+  color:var(--claim-ink);
+  font-size:13.5px;
+  line-height:1.45;
 }
 .claim-step{
   margin:0 0 20px;
@@ -272,6 +291,7 @@ html[data-theme="dark"] .claim-step{
     border-radius:14px;
   }
   .claim-dialog-inner{padding:20px 16px 22px;max-height:calc(100vh - 24px)}
+  .claim-dialog .claim-close{width:44px;height:44px;top:8px;right:8px;z-index:5}
   .claim-top-steps,
   .claim-fields{grid-template-columns:1fr}
   .claim-follow-row, .claim-share-row{flex-direction:column;align-items:stretch}
