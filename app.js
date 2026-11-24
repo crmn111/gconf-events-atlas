@@ -4,7 +4,7 @@ const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education', finance:'Finance', yachting:'Boat & Yacht'};
+const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education', finance:'Finance', yachting:'Boat & Yacht', meetup:'Meetups'};
 const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:'Culture', other:'Other'};
 const CAT_SPORTS = {motorsport:'Motorsport', tennis:'Tennis', football:'Football', golf:'Golf', other:'Other Sports'};
 const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
@@ -451,7 +451,7 @@ function openEventFromPin(e){
   setTimeout(panForOpenPopup, 780);
 }
 function evIcon(e){
-  const label = pillText(e);
+  const label = String(pillText(e)||'').trim() || 'TBA';
   const w = Math.ceil(Math.max(40, 22 + [...String(label)].length * 7.6));
   const h = 36;
   return L.divIcon({
@@ -489,6 +489,7 @@ const WHEN = [
 const st = {
   kind:'conference',
   region:'all',
+  country:null,
   cats: {ai:true, tech:true, crypto:true},
   when:'any', from:null, to:null,
   cities: new Set(),
@@ -505,7 +506,7 @@ function kindPool(){
   return EV.filter(e => evKind(e)===st.kind && (st.region==='all' || evRegion(e)===st.region));
 }
 function cityList(){
-  const pool = kindPool();
+  const pool = kindPool().filter(e => !st.country || placeSlug(e.country)===placeSlug(st.country));
   const map = new Map();
   pool.forEach(e => {
     const key = (e.city||'Unknown')+'|'+(e.country||'');
@@ -590,7 +591,7 @@ function setRegion(r, opts){
   if(r!=='all' && !isKnownRegion(r)) r='all';
   const changed = st.region!==r;
   st.region = r;
-  if(changed){ st.cities.clear(); st.topics.clear(); }
+  if(changed){ st.cities.clear(); st.topics.clear(); st.country = null; }
   updateRegionChrome();
   if(changed){ renderCities(); renderTopics(); render(); }
   if(opts.fit!==false) fitToVisible();
@@ -681,6 +682,9 @@ function renderCities(){
     if(!k){ st.cities.clear(); }
     else if(st.cities.has(k)) st.cities.delete(k);
     else st.cities.add(k);
+    const countries = new Set([...st.cities].map(key => (key.split('|')[1]||'').trim()).filter(Boolean));
+    if(countries.size===1) st.country = [...countries][0];
+    else if(countries.size>1) st.country = null;
     renderCities(); render();
   });
 }
@@ -787,6 +791,7 @@ function visibleEvents(){
   return EV.filter(e => {
     if(evKind(e)!==st.kind) return false;
     if(st.region!=='all' && evRegion(e)!==st.region) return false;
+    if(st.country && placeSlug(e.country)!==placeSlug(st.country)) return false;
     if(!st.cats[e.category]) return false;
     if(!overlapsDate(e)) return false;
     if(st.cities.size){
@@ -876,14 +881,31 @@ function bindListThumbs(){
         else fail(img);
       };
       img.src = url;
+      if(img.complete && img.naturalWidth > 0){
+        img.dataset.ok='1';
+        img.classList.add('ld');
+        delete img.dataset.busy;
+      }
     };
     if(!thumb){ fail(img); return; }
     apply(thumb, !full || full===thumb);
   };
-  /* Native loading=lazy is unreliable in a nested sidebar scroller
-     (#app does not scroll, only #sidebar does). Load list thumbs
-     immediately; they are small -t.jpg files. */
-  $$('#list .th img[data-src]').forEach(load);
+  const imgs = $$('#list .th img[data-src]');
+  const side = $('#sidebar');
+  if(typeof IntersectionObserver==='function' && imgs.length){
+    const root = (side && getComputedStyle(side).display!=='none') ? side : null;
+    listThumbObs = new IntersectionObserver((entries) => {
+      entries.forEach(en => {
+        if(en.isIntersecting){ load(en.target); listThumbObs.unobserve(en.target); }
+      });
+    }, {root, rootMargin:'500px 0px', threshold:0.01});
+    imgs.forEach((img,i) => {
+      if(i<25) load(img);
+      else listThumbObs.observe(img);
+    });
+  }else{
+    imgs.forEach(load);
+  }
 }
 function bindMediaFallback(sel){
   $$(sel).forEach(img => {
@@ -923,7 +945,11 @@ function render(){
   const vis = sortEvents(visibleEvents());
   $('#count').textContent = vis.length + (vis.length===1?' event':' events');
   $('#list').innerHTML = vis.length ? vis.map(cardHtml).join('') : `<div class="empty">${emptyMessage()}</div>`;
-  $$('#list .card[data-r]').forEach(c => c.onclick = () => { location.hash = '#/'+c.dataset.r; });
+  bindListThumbs();
+  $$('#list .card[data-r]').forEach(c => c.onclick = () => {
+    const slug = (c.dataset.r||'').replace(/^event\//,'');
+    location.hash = slug ? eventHash(slug) : '#/'+c.dataset.r;
+  });
 
   clusters.clearLayers();
   vis.forEach(e => { const mk = markers[e.slug]; if(mk) clusters.addLayer(mk); });
@@ -962,6 +988,8 @@ function render(){
   if($('#mapwrap') && $('#mapwrap').classList.contains('timeline-on')){ renderTimeline(); bindMediaFallback('#tlbody img'); }
   if($('#mapwrap') && $('#mapwrap').classList.contains('grid-on')) renderGrid();
   if(PLAY.on) playReconcile();
+  if(typeof updateTlFiltersChrome==='function') updateTlFiltersChrome();
+  if(typeof syncHash==='function') syncHash();
 }
 
 /* ---------- detail ---------- */
@@ -1036,7 +1064,7 @@ function viewEvent(e){
   }).join('');
   const srcSec = `<div class="dsec"><h4>Sources</h4>${srcs?`<ul class="src-list">${srcs}</ul>`:'<p>No source URLs were attached to this record.</p>'}${e.website_url?`<p style="margin-top:10px"><a class="btn cyan block" href="${esc(e.website_url)}" target="_blank" rel="noopener">Visit event website ↗</a></p>`:''}</div>`;
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
-  const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt=""> <img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""> <span>Powered by GConf</span></a></p>`;
+  const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt="GConf"><img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""></a></p>`;
   return close + gal + hero + facts + about + claim + srcSec + views + powered;
 }
 
@@ -1093,6 +1121,222 @@ function stubViews(e){
 
 
 /* ---------- views + timeline ---------- */
+
+function placeSlug(s){
+  return String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
+    .replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+}
+function countryFromSlug(slug){
+  const s = placeSlug(slug);
+  if(!s) return null;
+  const names = [...new Set(EV.map(e => e.country).filter(Boolean))];
+  return names.find(n => placeSlug(n)===s) || null;
+}
+function cityFromSlug(country, slug){
+  const s = placeSlug(slug);
+  if(!s) return null;
+  const cities = [...new Set(EV.filter(e => !country || placeSlug(e.country)===placeSlug(country)).map(e => e.city).filter(Boolean))];
+  return cities.find(n => placeSlug(n)===s) || null;
+}
+function allCatsOn(kind){
+  const keys = catKeys(kind);
+  return keys.length>0 && keys.every(k => st.cats[k]);
+}
+function selectedCat(kind){
+  const keys = catKeys(kind);
+  const on = keys.filter(k => st.cats[k]);
+  if(on.length===1) return on[0];
+  if(st.kind==='conference' && st.cats.meetup && Object.keys(st.cats).filter(k=>st.cats[k]).length===1) return 'meetup';
+  return null;
+}
+function activeFilterCount(){
+  let n = 0;
+  if((st.q||'').trim()) n++;
+  if(st.region && st.region!=='all') n++;
+  if(st.country) n++;
+  if(st.cities.size) n++;
+  if(st.topics.size) n++;
+  if(st.when && st.when!=='any') n++;
+  if(st.pmin!==0 || st.pmax!==PT || st.unknown===false) n++;
+  if(!allCatsOn(st.kind)) n++;
+  return n;
+}
+function resetAtlasFilters(){
+  st.q = '';
+  const q = $('#q'); if(q) q.value='';
+  st.region = 'all';
+  st.country = null;
+  st.cities.clear();
+  st.topics.clear();
+  st.cityq = '';
+  const cq = $('#f-cityq'); if(cq) cq.value='';
+  st.when = 'any'; st.from = null; st.to = null;
+  const custom = $('#f-custom'); if(custom) custom.hidden = true;
+  st.pmin = 0; st.pmax = PT; st.unknown = true;
+  const unk = $('#f-unknown'); if(unk) unk.checked = true;
+  if(typeof setP==='function') try{ setP(0, PT); }catch(_){ }
+  st.cats = Object.fromEntries(catKeys(st.kind).map(c => [c, true]));
+  updateKindbar();
+  updateRegionChrome();
+  renderCatChips();
+  renderTopics();
+  renderCities();
+  renderLegend();
+  render();
+  fitToVisible();
+}
+let TL_FILTERS_OPEN = false;
+function placeTimelineFilters(v){
+  const drawer = $('#tl-filters');
+  const top = document.querySelector('#sidebar .sidetop, .sidetop');
+  const kind = $('#kindbar');
+  const side = $('#sidebar');
+  if(!top) return;
+  if(v==='timeline' && drawer){
+    if(kind && kind.parentNode!==drawer) drawer.insertBefore(kind, drawer.firstChild);
+    if(top.parentNode!==drawer) drawer.appendChild(top);
+  }else if(side){
+    const stats = $('#stats');
+    if(kind && kind.parentNode!==side){
+      if(stats) side.insertBefore(kind, stats);
+      else side.insertBefore(kind, top);
+    }
+    const listhead = side.querySelector('.listhead');
+    if(top.parentNode!==side) side.insertBefore(top, listhead || null);
+  }
+  updateTlFiltersChrome();
+}
+function updateTlFiltersChrome(){
+  const btn = $('#tl-filters-btn');
+  const clr = $('#tl-filters-clear');
+  const drawer = $('#tl-filters');
+  if(!btn) return;
+  const n = activeFilterCount();
+  btn.innerHTML = n ? ('Filters <span class="tl-filters-count">· '+n+'</span>') : 'Filters';
+  btn.setAttribute('aria-expanded', TL_FILTERS_OPEN && lastMainView==='timeline' ? 'true' : 'false');
+  if(drawer && lastMainView==='timeline'){
+    drawer.hidden = !TL_FILTERS_OPEN;
+  }
+  if(clr) clr.hidden = !(lastMainView==='timeline' && n>0);
+}
+function setTlFiltersOpen(on){
+  TL_FILTERS_OPEN = !!on;
+  const drawer = $('#tl-filters');
+  if(drawer) drawer.hidden = !TL_FILTERS_OPEN;
+  updateTlFiltersChrome();
+}
+function bindTimelineFilters(){
+  const btn = $('#tl-filters-btn');
+  const clr = $('#tl-filters-clear');
+  if(btn) btn.onclick = () => setTlFiltersOpen(!TL_FILTERS_OPEN);
+  if(clr) clr.onclick = () => resetAtlasFilters();
+}
+
+let HASH_APPLYING = false;
+let HASH_READY = false;
+function filtersHash(v){
+  v = v || currentView();
+  if(v==='privacy') return '#/privacy';
+  const parts = [];
+  if(v==='timeline' || v==='grid' || v==='swipe') parts.push(v);
+  const oneCat = selectedCat(st.kind);
+  if(st.kind==='festival') parts.push('festivals');
+  else if(st.kind==='sports') parts.push('sports');
+  else if(oneCat==='meetup' && st.kind==='conference') parts.push('meetups');
+  else if(st.kind==='conference' && oneCat){ parts.push('conferences'); parts.push(oneCat); }
+  else if(st.kind==='conference' && !oneCat && !allCatsOn('conference')) parts.push('conferences');
+  else if(st.kind==='conference' && allCatsOn('conference')) { /* default kind omitted unless a place filter needs a kind? keep bare */ }
+  else if(st.kind==='conference') { /* bare */ }
+  if(st.kind==='festival' && oneCat) parts.push(oneCat);
+  if(st.kind==='sports' && oneCat) parts.push(oneCat);
+  let country = st.country;
+  let city = null;
+  if(st.cities.size===1){
+    const key = [...st.cities][0];
+    const bits = key.split('|');
+    city = bits[0]||'';
+    country = country || bits[1]||'';
+  }
+  if(country){
+    parts.push('country');
+    parts.push(placeSlug(country));
+    if(city && city!=='Unknown') parts.push(placeSlug(city));
+  }
+  if(!parts.length) return '#/';
+  return '#/'+parts.join('/');
+}
+function parseFilterHash(hash){
+  let raw = String(hash||'').replace(/^#\/?/,'').replace(/\/+$/,'');
+  const tokens = raw.split('/').filter(Boolean).map(t => decodeURIComponent(t));
+  const out = {view:'map', kind:null, cat:null, country:null, city:null, explicitKind:false, explicitPlace:false, bare:true};
+  if(!tokens.length) return out;
+  const views = {timeline:1, map:1, grid:1, swipe:1};
+  let i = 0;
+  if(views[tokens[0]]){ out.view = tokens[0]==='map'?'map':tokens[0]; i++; }
+  const reserved = {event:1, play:1, privacy:1, alerts:1, claim:1, country:1};
+  if(i>=tokens.length || reserved[tokens[i]]) {
+    if(tokens[i]==='country'){ /* place only */ }
+    else { out.bare = tokens.slice(i).length===0; return out; }
+  }
+  const kinds = {conferences:'conference', conference:'conference', meetups:'conference', meetup:'conference', festivals:'festival', festival:'festival', sports:'sports', sport:'sports'};
+  if(i<tokens.length && kinds[tokens[i]]){
+    out.kind = kinds[tokens[i]];
+    out.explicitKind = true;
+    out.bare = false;
+    if(tokens[i]==='meetups' || tokens[i]==='meetup') out.cat = 'meetup';
+    i++;
+  }
+  const allCats = Object.assign({}, CAT_CONF, (typeof CAT_FEST!=='undefined'?CAT_FEST:{}), (typeof CAT_SPORTS!=='undefined'?CAT_SPORTS:{}));
+  if(i<tokens.length && allCats[tokens[i]] && tokens[i]!=='country'){
+    out.cat = tokens[i];
+    out.explicitKind = true;
+    out.bare = false;
+    i++;
+  }
+  if(i<tokens.length && tokens[i]==='country'){
+    i++;
+    if(i<tokens.length){
+      out.country = countryFromSlug(tokens[i]) || tokens[i];
+      out.explicitPlace = true;
+      out.bare = false;
+      i++;
+      if(i<tokens.length && tokens[i]!=='event'){
+        out.city = cityFromSlug(out.country, tokens[i]) || tokens[i];
+      }
+    }
+  }
+  return out;
+}
+function applyParsedFilters(parsed){
+  if(!parsed) return;
+  if(parsed.explicitKind){
+    st.kind = parsed.kind || 'conference';
+    try{ localStorage.setItem('gconf-atlas-kind', st.kind); }catch(_){}
+    const keys = new Set(catKeys(st.kind));
+    if(parsed.cat){
+      st.cats = Object.fromEntries([...keys].map(c => [c, c===parsed.cat]));
+      if(!st.cats[parsed.cat]) st.cats[parsed.cat] = true;
+    }else{
+      st.cats = Object.fromEntries([...keys].map(c => [c, true]));
+    }
+  }
+  if(parsed.explicitPlace){
+    st.country = parsed.country || null;
+    st.cities.clear();
+    if(parsed.city && st.country){
+      const cityName = cityFromSlug(st.country, parsed.city) || parsed.city;
+      st.cities.add(cityName+'|'+st.country);
+    }
+    if(st.country){
+      const ev = EV.find(e => placeSlug(e.country)===placeSlug(st.country) && e.region);
+      if(ev && ev.region) st.region = evRegion(ev);
+    }
+  }else if(parsed.explicitKind){
+    st.country = null;
+    st.cities.clear();
+  }
+}
+
 function currentView(){
   const h = location.hash||'';
   if(/^#\/timeline/.test(h)) return 'timeline';
@@ -1102,11 +1346,18 @@ function currentView(){
   return 'map';
 }
 function viewHomeHash(v){
-  v = v || currentView();
-  if(v==='timeline') return '#/timeline';
-  if(v==='grid') return '#/grid';
-  if(v==='swipe') return '#/swipe';
-  return '#/';
+  return filtersHash(v || currentView());
+}
+function syncHash(){
+  if(HASH_APPLYING || !HASH_READY) return;
+  const h = location.hash||'';
+  if(/^#\/privacy/.test(h)) return;
+  if(/^#\/alerts/.test(h)) return;
+  if(/\/event\//.test(h)) return;
+  if(/^#\/timeline\/play/.test(h)) return;
+  if(/^#\/swipe\/.+/.test(h) && /event\//.test(h)) return;
+  const next = filtersHash(currentView());
+  if((h||'')!==next) history.replaceState(null, '', next);
 }
 function eventHash(slug, v){
   v = v || currentView();
@@ -1192,6 +1443,7 @@ function setMainView(v){
     const side = $('#sidebar');
     if(side && !GRID.min) side.classList.remove('collapsed');
   }
+  if(typeof placeTimelineFilters==='function') placeTimelineFilters(v);
   return was!==v;
 }
 let gridThumbObs = null;
@@ -1226,20 +1478,25 @@ function bindGridThumbs(){
       };
       img.loading = 'eager';
       img.src = url;
+      if(img.complete && img.naturalWidth > 0){
+        img.dataset.ok='1';
+        img.classList.add('ld');
+        delete img.dataset.busy;
+      }
     };
     if(!thumb){ fail(img); return; }
     apply(thumb, !full || full===thumb);
   };
   const imgs = $$('#gridbody .gcard-photo img[data-src]');
   if(!imgs.length) return;
-  if(typeof IntersectionObserver==='function' && root){
+  if(typeof IntersectionObserver==='function'){
     gridThumbObs = new IntersectionObserver((entries) => {
       entries.forEach(en => {
         if(en.isIntersecting){ load(en.target); gridThumbObs.unobserve(en.target); }
       });
-    }, {root, rootMargin:'280px 0px', threshold:0.01});
+    }, {root: root||null, rootMargin:'500px 0px', threshold:0.01});
     imgs.forEach((img,i) => {
-      if(i<12) load(img);
+      if(i<25) load(img);
       else gridThumbObs.observe(img);
     });
   }else{
@@ -1316,6 +1573,7 @@ function tlIcon(cat){
   if(cat==='education') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#B8C0FF" stroke-width="2.2" d="M8 16 24 10l16 6v18L24 40 8 34V16z"/><path fill="none" stroke="#B8C0FF" stroke-width="2" d="M24 10v30M8 16l16 6 16-6"/></svg>`;
   if(cat==='finance') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="10" width="20" height="28" rx="2" fill="none" stroke="#3ECFC8" stroke-width="2.2"/><path stroke="#3ECFC8" stroke-width="2" d="M18 20h12M18 26h12M18 32h8"/></svg>`;
   if(cat==='yachting') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#5BA3E0" stroke-width="2.2" d="M24 8v22L10 30h28L24 30"/><path fill="none" stroke="#5BA3E0" stroke-width="2" d="M8 36c4 4 28 4 32 0"/></svg>`;
+  if(cat==='meetup') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="18" cy="18" r="5" fill="none" stroke="#F07AA8" stroke-width="2.2"/><circle cx="30" cy="18" r="5" fill="none" stroke="#F07AA8" stroke-width="2.2"/><path fill="none" stroke="#F07AA8" stroke-width="2.2" d="M10 34c2-6 8-8 8-8s6 2 8 8M22 34c2-6 8-8 8-8s4 1.4 6 5"/></svg>`;
   if(cat==='motorsport') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="14" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><circle cx="34" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><path fill="none" stroke="#FF6B5A" stroke-width="2.2" d="M10 32 16 18h14l8 14M20 18l-2-6h8"/></svg>`;
   if(cat==='tennis') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#E6D84A" stroke-width="2.2"/><path fill="none" stroke="#E6D84A" stroke-width="2" d="M16 16c8 4 8 12 0 16M32 16c-8 4-8 12 0 16"/></svg>`;
   if(cat==='football') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#4ECF70" stroke-width="2.2"/><path fill="none" stroke="#4ECF70" stroke-width="2" d="M24 12v24M14 20h20M16 30h16"/></svg>`;
@@ -1545,8 +1803,10 @@ function renderTimeline(){
 }
 $$('#viewbar button').forEach(b => b.onclick = () => {
   const v = b.dataset.v;
-  if(v==='timeline' && /^#\/timeline/.test(location.hash||'')) return;
-  location.hash = v==='map' ? '#/' : '#/'+v;
+  const next = filtersHash(v);
+  if((location.hash||'')===next) return;
+  history.replaceState(null, '', next);
+  route();
 });
 
 
@@ -2533,7 +2793,8 @@ function route(){
       playExit({silent:true, keepHash:true});
     }
   }
-  if(entered && onTimeline && !playMatch && !/^#\/timeline\/event/.test(hash) && !playReduced() && !PLAY.suppressAuto){
+  const bareTimeline = /^#\/timeline\/?$/.test(hash);
+  if(entered && onTimeline && !playMatch && bareTimeline && !playReduced() && !PLAY.suppressAuto){
     playEnter({auto:true});
     return;
   }
@@ -2542,13 +2803,30 @@ function route(){
     const n = $('#alert-confirmed');
     if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
   }
-  const m = hash.match(/^#\/(?:(?:timeline|grid)\/)?event\/([^/]+)(\/claim)?/);
+  const m = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?event\/([^/]+)(\/claim)?/);
   const det = $('#detail');
   if(!m){
     det.classList.remove('open'); det.setAttribute('aria-hidden','true'); det.querySelector('#dbody').innerHTML='';
     carStop();
     updateAlertPrefs();
     gridMarkOpen('');
+    HASH_APPLYING = true;
+    try{
+      const parsed = parseFilterHash(hash);
+      if(parsed && (parsed.explicitKind || parsed.explicitPlace)){
+        applyParsedFilters(parsed);
+        updateKindbar();
+        updateRegionChrome();
+        renderCatChips();
+        renderTopics();
+        renderCities();
+        renderLegend();
+      }
+      render();
+    }finally{
+      HASH_APPLYING = false;
+    }
+    if(typeof syncHash==='function') syncHash();
     return;
   }
   const slug = decodeURIComponent(m[1]);
@@ -2879,9 +3157,9 @@ document.addEventListener('keydown', e => {
   if(e.key==='Escape'){
     if(LB.open) return;
     if(PLAY.on) return;
-    if(/^#\/timeline\/event/.test(location.hash)) location.hash='#/timeline';
-    else if(/^#\/grid\/event/.test(location.hash)) location.hash='#/grid';
-    else if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash='#/';
+    if(/^#\/timeline\/event/.test(location.hash)) location.hash=filtersHash('timeline');
+    else if(/^#\/grid\/event/.test(location.hash)) location.hash=filtersHash('grid');
+    else if(/^#\/(event|swipe|privacy)/.test(location.hash)) location.hash=filtersHash('map');
   }
 });
 
@@ -3023,4 +3301,7 @@ function bindPanelResizers(){
 
 bindPanelResizers();
 renderRegionChips();
+bindTimelineFilters();
 route();
+HASH_READY = true;
+syncHash();

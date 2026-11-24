@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611240739">
+<link rel="stylesheet" href="style.css?v=202611240756">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -163,8 +163,11 @@
           <img src="img/brand/gconf-mark-lime.svg" alt="" width="32" height="30">
         </a>
         <button type="button" id="tlplay" class="tl-playbtn" aria-label="Play timeline presentation">▶ Play</button>
+        <button type="button" id="tl-filters-btn" class="tl-filters-btn" aria-expanded="false" aria-controls="tl-filters">Filters</button>
+        <button type="button" id="tl-filters-clear" class="tl-filters-clear" hidden>Reset</button>
         <nav class="tl-scrub" id="tlscrub" aria-label="Jump to month" hidden></nav>
       </div>
+      <div id="tl-filters" class="tl-filters" hidden></div>
       <div class="tl-scroll" id="tlbody"></div>
     </div>
     <section id="grid" aria-hidden="true" aria-label="Event grid">
@@ -282,8 +285,8 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611240739"></script>
-<script src="data.js?v=202611240739"></script>
-<script src="app.js?v=202611240739"></script>
+<script src="config.js?v=202611240756"></script>
+<script src="data.js?v=202611240756"></script>
+<script src="app.js?v=202611240756"></script>
 </body>
 </html>
