@@ -3169,3 +3169,7 @@ table.venue-spaces{
 .socials a:focus-visible{outline:var(--focus-ring);outline-offset:var(--focus-offset)}
 .socials svg{width:16px;height:16px;display:block;fill:currentColor}
 .hk-pop .socials{margin-top:10px}
+.socials-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:10px 12px}
+.socials-wrap .socials{margin:0}
+.socials-via{font-size:11.5px;color:var(--muted);line-height:1.3}
+

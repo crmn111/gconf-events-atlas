@@ -182,7 +182,9 @@ const ISO = {
   Monaco:'MC', 'Isle of Man':'IM', Azerbaijan:'AZ', Bahrain:'BH',
   Macau:'MO', 'Antigua and Barbuda':'AG', Malaysia:'MY', Argentina:'AR',
   India:'IN', China:'CN', Japan:'JP', Australia:'AU', Canada:'CA',
-  Mexico:'MX', Brazil:'BR', Chile:'CL', Colombia:'CO', 'South Africa':'ZA', 'Saudi Arabia':'SA',
+  Mexico:'MX', Brazil:'BR', Chile:'CL', Colombia:'CO', Panama:'PA', Peru:'PE', Uruguay:'UY', 'South Africa':'ZA', 'Saudi Arabia':'SA',
+  Jordan:'JO', Nigeria:'NG', Kuwait:'KW', Oman:'OM',
+  Indonesia:'ID',
   'Sri Lanka':'LK',
   Taiwan:'TW',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
@@ -538,7 +540,7 @@ function officialSocials(record){
   const raw = record && record.socials;
   const out = [];
   const seen = new Set();
-  const push = (platform, url) => {
+  const push = (platform, url, operator) => {
     url = String(url||'').trim();
     if(!/^https?:\/\//i.test(url)) return;
     if(/^mailto:|^tel:|^javascript:/i.test(url)) return;
@@ -548,13 +550,13 @@ function officialSocials(record){
     seen.add(low);
     const id = socialPlatformId(platform);
     const label = (SOCIAL_PLATFORMS[id]||{}).label || (id.charAt(0).toUpperCase()+id.slice(1));
-    out.push({platform:id, url, label});
+    out.push({platform:id, url, label, operator: String(operator||'').trim()});
   };
   if(Array.isArray(raw)){
     raw.forEach(item => {
       if(!item) return;
       if(typeof item==='string') push('website', item);
-      else push(item.platform||item.name||item.label, item.url||item.href);
+      else push(item.platform||item.name||item.label, item.url||item.href, item.operator);
     });
   }else if(raw && typeof raw==='object'){
     Object.keys(raw).forEach(k => push(k, raw[k]));
@@ -566,9 +568,14 @@ function socialsHtml(record){
   if(!items.length) return '';
   const links = items.map(s => {
     const icon = SOCIAL_ICONS[s.platform] || SOCIAL_ICONS.website;
-    return `<li><a href="${esc(s.url)}" target="_blank" rel="noopener nofollow" aria-label="${esc(s.label)}" title="${esc(s.label)}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">${icon}</svg></a></li>`;
+    const lab = s.operator ? (s.label+' via '+s.operator) : s.label;
+    return `<li><a href="${esc(s.url)}" target="_blank" rel="noopener nofollow" aria-label="${esc(lab)}" title="${esc(lab)}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">${icon}</svg></a></li>`;
   }).join('');
-  return `<ul class="socials" aria-label="Official social profiles">${links}</ul>`;
+  const ops = items.map(s => s.operator).filter(Boolean);
+  const allSame = ops.length && items.every(s => s.operator===ops[0]);
+  const via = allSame ? `<span class="socials-via">via ${esc(ops[0])}</span>` : '';
+  const aria = allSame ? ('Official social profiles via '+ops[0]) : 'Official social profiles';
+  return `<div class="socials-wrap"><ul class="socials" aria-label="${esc(aria)}">${links}</ul>${via}</div>`;
 }
 
 /* ---------- hotels (map layer only; never in lists/counts) ---------- */
@@ -594,8 +601,12 @@ function hotelDistance(h, slug){
   return isFinite(n) ? n : null;
 }
 function hotelQuoteForEvent(h, slug){
-  const pr = h && h.price;
-  if(!pr || !slug || pr.event_slug!==slug) return null;
+  if(!h || !slug) return null;
+  const bag = h.prices_by_event;
+  let pr = null;
+  if(bag && typeof bag==='object' && bag[slug]) pr = bag[slug];
+  else if(h.price && h.price.event_slug===slug) pr = h.price;
+  if(!pr) return null;
   if(pr.amount==null || pr.amount==='') return null;
   const n = Number(pr.amount);
   if(!isFinite(n)) return null;
@@ -712,11 +723,18 @@ function hotelAaaLabel(raw){
   return 'AAA '+s;
 }
 function hotelRatingLabel(h){
-  // Honest published rating. US hotels must never be labelled "official 5-star" or "5★".
+  // Honest published rating. Never label a Forbes/AAA/AA hotel as official "5★".
   const parts = [];
   if(h && h.forbes_rating) parts.push(hotelForbesLabel(h.forbes_rating));
   if(h && h.aaa_rating) parts.push(hotelAaaLabel(h.aaa_rating));
   if(parts.length) return parts.join(' / ');
+  const rs = String(h && h.rating_system || '').trim().toLowerCase();
+  if(rs==='aa' || rs.startsWith('aa ')){
+    if(h && h.stars===5) return 'AA 5-Star';
+    if(h && h.stars===4.5) return 'AA 4.5-Star';
+    if(h && h.stars===4) return 'AA 4-Star';
+    return 'AA';
+  }
   if(h && h.stars===5) return '5★';
   if(h && h.stars===4.5) return '4.5★';
   if(h && h.stars===4) return '4★';
@@ -753,12 +771,15 @@ function hotelPopup(h, slug){
   const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
   const venueLink = h.venue_slug ? `<p><a href="#/venue/${esc(h.venue_slug)}">Venue page</a></p>` : '';
-  return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
+  const ph = (h.photos && h.photos[0]) || null;
+  const phHtml = ph ? `<img src="${esc(ph.thumb||ph.src)}" alt="${esc((ph.caption||h.name||''))}" style="width:100%;border-radius:8px;margin:0 0 8px">` : '';
+  const phCap = ph && photoCreditLine(ph) ? `<p class="hk-meta">${photoCreditLine(ph)}</p>` : '';
+  return `<div class="hk-pop">${phHtml}<p class="hk-name">${esc(h.name||'Hotel')}</p>
     <p class="hk-meta">${esc(ratingLab||((tier===5?'5':'4')+'-tier hotel'))}</p>
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
-    ${partner}${link}${venueLink}${socialsHtml(h)}</div>`;
+    ${partner}${link}${venueLink}${socialsHtml(h)}${phCap}</div>`;
 }
 function openEventSlug(){
   const m = (location.hash||'').match(/event\/([^/]+)/);
@@ -1057,7 +1078,10 @@ function viewVenue(v){
   const srcSec = srcItems ? `<div class="dsec"><h4>Sources</h4><ul>${srcItems}</ul></div>` : '';
   const socials = socialsHtml(v);
   const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
-  return close + hero + facts + about + socialSec + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
+  const ph = v.photos||[];
+  const gal = (typeof galHtml==='function') ? galHtml(ph, (ph[0]&&ph[0].credit)||'') : '';
+  const photoCap = (ph[0] && photoCreditLine(ph[0])) ? `<div class="hcredit">${photoCreditLine(ph[0])}</div>` : '';
+  return close + gal + hero + photoCap + facts + about + socialSec + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
 }
 (function bindVenuesToggle(){
   const btn = $('#venues-btn');
@@ -1684,6 +1708,18 @@ function srcLink(u, label){
   if(!u) return esc(label||'');
   return `<a class="srclink" href="${esc(u)}" target="_blank" rel="noopener">${esc(label||u)} ↗</a>`;
 }
+function photoCreditLine(p, fallbackCredit){
+  const credit = ((p && p.credit) || fallbackCredit || '').trim();
+  const cap = ((p && p.caption) || '').trim();
+  const lab = credit.replace(/^Photo:\s*/i, '');
+  let credHtml = '';
+  if(lab){
+    credHtml = (p && p.page) ? ('Photo: ' + srcLink(p.page, lab)) : ('Photo: ' + esc(lab));
+  }
+  if(cap && credHtml) return esc(cap) + ' ' + credHtml;
+  if(cap) return esc(cap);
+  return credHtml;
+}
 function galHtml(photos, credit){
   const P = photos||[];
   if(!P.length) return '';
@@ -1716,7 +1752,7 @@ function viewEvent(e){
     <div class="loc">${esc(locBits)}${isApprox(e)?' · ◌ approximate pin':(!hasPin(e)?' · pin not yet placed':'')}</div>
     <div class="bigprice">${esc(fmtPrice(e))}${e.currency && hasPrice(e)?`<small>${esc(e.currency)}${e.ticket_url?' · tickets on the organiser site':''}</small>`: (hasPrice(e)?'': '<small>No verified ticket price yet</small>')}</div>
     <div class="htags">${tags}</div>
-    ${credit?`<div class="hcredit">Photo: ${ph[0]&&ph[0].page?srcLink(ph[0].page, credit):esc(credit)}</div>`:''}
+    ${photoCreditLine(ph[0], credit)?`<div class="hcredit">${photoCreditLine(ph[0], credit)}</div>`:''}
   </div>`;
   const about = e.notes ? `<div class="dsec"><h4>Notes</h4><p>${esc(e.notes)}</p></div>` : '';
   const attend = e.expected_attendance ? fact('Attendance', e.expected_attendance) : '';
@@ -3571,6 +3607,7 @@ function route(){
     if(PLAY.on) playExit({silent:true, keepHash:true});
     $('#dbody').innerHTML = viewVenue(v);
     det.classList.add('open'); det.setAttribute('aria-hidden','false');
+    if(typeof bindGallery==='function') bindGallery(v);
     gridMarkOpen('');
     const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
     if(lat!=null && lon!=null && !onTimeline && !onGrid){
@@ -3795,8 +3832,16 @@ function lbShow(){
   im.src = x.src || x.thumb;
   lbQ('#lbcount').textContent = `${LB.i+1} / ${LB.list.length}`;
   lbQ('#lbtitle').textContent = LB.title||'';
-  const page = x.page, credit = x.credit || LB.credit || '';
-  lbQ('#lbcred').innerHTML = credit ? (page?`Photo: <a href="${esc(page)}" target="_blank" rel="noopener">${esc(credit)} ↗</a>`:`Photo: ${esc(credit)}`) : (page?`<a href="${esc(page)}" target="_blank" rel="noopener">Photo source ↗</a>`:'');
+  const page = x.page;
+  const cap = (x.caption||'').trim();
+  const credit = ((x.credit || LB.credit || '').trim()).replace(/^Photo:\s*/i, '');
+  let cred = '';
+  if(credit){
+    cred = page ? (`Photo: <a href="${esc(page)}" target="_blank" rel="noopener">${esc(credit)} ↗</a>`) : (`Photo: ${esc(credit)}`);
+  }else if(page){
+    cred = `<a href="${esc(page)}" target="_blank" rel="noopener">Photo source ↗</a>`;
+  }
+  lbQ('#lbcred').innerHTML = [cap?esc(cap):'', cred].filter(Boolean).join(' ');
   const n = LB.list.length;
   lbQ('.lbp').style.display = lbQ('.lbn').style.display = n<2?'none':'';
   const nxt = LB.list[(LB.i+1)%n], prv = LB.list[(LB.i-1+n)%n];

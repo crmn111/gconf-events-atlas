@@ -180,3 +180,7 @@ table.venue-spaces{width:100%;border-collapse:collapse;font:14px var(--sans);col
 .socials a:focus-visible{outline:3px solid var(--cyan);outline-offset:3px;border-radius:999px}
 .socials svg{width:16px;height:16px;display:block;fill:currentColor}
 li .socials{margin:8px 0 0}
+.socials-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:0 0 22px}
+.socials-wrap .socials{margin:0}
+.socials-via{font-size:12px;color:var(--muted);line-height:1.3}
+
