@@ -153,3 +153,30 @@ table.venue-spaces{width:100%;border-collapse:collapse;font:14px var(--sans);col
 .venue-docs{list-style:none;margin:0 0 20px;padding:0}
 .venue-docs li{margin:0 0 8px}
 .venue-docs .doc-type{color:var(--muted);font:11px var(--sans);letter-spacing:.08em;text-transform:uppercase;margin-left:6px}
+
+/* Official social profile row. */
+.socials{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:8px;
+  margin:0 0 22px;
+  padding:0;
+  list-style:none;
+}
+.socials a{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:36px;
+  height:36px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  color:var(--ink);
+  background:var(--panel);
+  text-decoration:none;
+}
+.socials a:hover{border-color:var(--ink)}
+.socials a:focus-visible{outline:3px solid var(--cyan);outline-offset:3px;border-radius:999px}
+.socials svg{width:16px;height:16px;display:block;fill:currentColor}
+li .socials{margin:8px 0 0}

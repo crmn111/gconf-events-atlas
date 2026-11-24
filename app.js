@@ -182,7 +182,7 @@ const ISO = {
   Monaco:'MC', 'Isle of Man':'IM', Azerbaijan:'AZ', Bahrain:'BH',
   Macau:'MO', 'Antigua and Barbuda':'AG', Malaysia:'MY', Argentina:'AR',
   India:'IN', China:'CN', Japan:'JP', Australia:'AU', Canada:'CA',
-  Mexico:'MX', Brazil:'BR', 'South Africa':'ZA', 'Saudi Arabia':'SA',
+  Mexico:'MX', Brazil:'BR', Chile:'CL', Colombia:'CO', 'South Africa':'ZA', 'Saudi Arabia':'SA',
   'Sri Lanka':'LK',
   Taiwan:'TW',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
@@ -498,6 +498,79 @@ EV.forEach(e => {
   markers[e.slug] = mk;
 });
 
+
+const SOCIAL_PLATFORMS = {
+  x:{label:'X', aliases:['x','twitter','x.com']},
+  linkedin:{label:'LinkedIn', aliases:['linkedin','linked-in','linkedin.com']},
+  instagram:{label:'Instagram', aliases:['instagram','ig']},
+  facebook:{label:'Facebook', aliases:['facebook','fb']},
+  youtube:{label:'YouTube', aliases:['youtube','youtu','yt']},
+  tiktok:{label:'TikTok', aliases:['tiktok']},
+  threads:{label:'Threads', aliases:['threads']},
+  bluesky:{label:'Bluesky', aliases:['bluesky','bsky']},
+  mastodon:{label:'Mastodon', aliases:['mastodon']},
+  github:{label:'GitHub', aliases:['github']},
+  website:{label:'Website', aliases:['website','www','web','homepage']}
+};
+const SOCIAL_ICONS = {
+  x:'<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>',
+  linkedin:'<path d="M4.98 3.5A2.48 2.48 0 1 1 2.5 6 2.48 2.48 0 0 1 4.98 3.5M3 8.25h3.95V21H3zM9.25 8.25H13v1.74h.06A4.13 4.13 0 0 1 16.8 8c3.3 0 3.91 2.17 3.91 5V21H16.8v-7.07c0-1.69 0-3.86-2.35-3.86s-2.71 1.84-2.71 3.74V21H9.25z"/>',
+  instagram:'<path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4m10 1.75H7A2.25 2.25 0 0 0 4.75 7v10A2.25 2.25 0 0 0 7 19.25h10A2.25 2.25 0 0 0 19.25 17V7A2.25 2.25 0 0 0 17 4.75M12 7.75A4.25 4.25 0 1 1 7.75 12 4.25 4.25 0 0 1 12 7.75m0 1.5A2.75 2.75 0 1 0 14.75 12 2.75 2.75 0 0 0 12 9.25M17 7.2a.8.8 0 1 1-.8.8.8.8 0 0 1 .8-.8"/>',
+  facebook:'<path d="M14 8.25h2.75V5.5H14A3.75 3.75 0 0 0 10.25 9.25v2H8v2.75h2.25V21h2.75v-7h2.2l.55-2.75h-2.75v-1.5A.75.75 0 0 1 14 8.25"/>',
+  youtube:'<path d="M23 12.16s0-3.13-.4-4.51a2.88 2.88 0 0 0-2.03-2.04C18.9 5.2 12 5.2 12 5.2s-6.9 0-8.57.41A2.88 2.88 0 0 0 1.4 7.65C1 9.03 1 12.16 1 12.16s0 3.13.4 4.51a2.88 2.88 0 0 0 2.03 2.04c1.67.41 8.57.41 8.57.41s6.9 0 8.57-.41a2.88 2.88 0 0 0 2.03-2.04c.4-1.38.4-4.51.4-4.51M9.75 15.5v-6.7l6.1 3.35z"/>',
+  tiktok:'<path d="M14.5 3h2.2a5.6 5.6 0 0 0 3.8 3.7v2.35A7.7 7.7 0 0 1 16.7 7.5v7.1A5.6 5.6 0 1 1 11 8.96v2.3a3.3 3.3 0 1 0 3.5 3.34V3z"/>',
+  threads:'<path d="M16.6 11.3c-.1-2.2-1.3-3.7-3.6-3.8-2.6 0-4.1 1.7-4.1 4.5 0 3.2 1.8 5 4.6 5 1.7 0 3-.5 3.9-1.5l-1.3-1.1c-.6.7-1.5 1-2.6 1-1.7 0-2.7-1.1-2.8-3.1.6.3 1.3.5 2.1.5 2.7 0 4.1-1.3 4.2-3.6m-2.18.7c0 1.2-.7 1.9-1.9 1.9-.5 0-1-.1-1.4-.3.1-1.8.8-2.6 2-2.6.8 0 1.3.4 1.3 1zm5.08-6.1A10.5 10.5 0 1 0 12 22.5 10.5 10.5 0 0 0 19.5 6z"/>',
+  bluesky:'<path d="M6.3 4.8c2.1 1.6 4.4 4.8 5.7 6.5 1.3-1.7 3.6-4.9 5.7-6.5 1.5-1.1 4-2 4-4.4v-.2C19.5 2.8 16.7 8 12 11.7 7.3 8 4.5 2.8 2.3.2v.2c0 2.4 2.5 3.3 4 4.4m15.4 7.3c-2.3-.7-4.8.4-6.2 2.1 2.7 1.2 4.6 3 4.6 5.4 0 1.8-1.6 3-3.3 3-2.6 0-4.2-2-4.8-4.6-.2-.8-.3-1.6-.3-2.4v-1.2h-1.4v1.2c0 .8-.1 1.6-.3 2.4-.6 2.6-2.2 4.6-4.8 4.6-1.7 0-3.3-1.2-3.3-3 0-2.4 1.9-4.2 4.6-5.4-1.4-1.7-3.9-2.8-6.2-2.1C.7 13 0 15.6 0 18.2 0 21.6 2.8 24 6.2 24c3.2 0 5.6-1.8 6.8-4.7 1.2 2.9 3.6 4.7 6.8 4.7 3.4 0 6.2-2.4 6.2-5.8 0-2.6-.7-5.2-2.3-6.1"/>',
+  mastodon:'<path d="M12 2C7.2 2 3.6 5.1 3.6 10.2c0 2.3.2 4.6.6 6.9.5 2.6 3.3 3.3 5.7 3.5 1.1.1 2.3.1 3.4 0v-2.1c-2.4.5-5.1.3-5.3-1.5-.1-.6-.1-1.2-.1-1.8 1.1.3 2.3.4 3.5.5 2 .1 4 .1 5.9-.5 2.1-.6 2.3-3.1 2.4-5C19.7 5.1 16.8 2 12 2m-2.2 8.2c0 .9-.5 1.6-1.5 1.6S6.8 11.1 6.8 10.2V7.5c0-.9.5-1.6 1.5-1.6s1.5.7 1.5 1.6zm6.9 0c0 .9-.5 1.6-1.5 1.6s-1.5-.7-1.5-1.6V7.5c0-.9.5-1.6 1.5-1.6s1.5.7 1.5 1.6z"/>',
+  github:'<path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.9 1.54 2.36 1.1 2.94.84.09-.65.35-1.1.63-1.35-2.22-.25-4.56-1.11-4.56-4.95 0-1.09.39-1.99 1.03-2.69-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0 1 12 6.8a9.5 9.5 0 0 1 2.5.34c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.6 1.03 2.69 0 3.85-2.34 4.7-4.57 4.95.36.31.68.92.68 1.85v2.74c0 .26.18.58.69.48A10 10 0 0 0 12 2"/>',
+  website:'<path d="M12 3a9 9 0 1 1 0 18 9 9 0 0 1 0-18m0 1.7A12.6 12.6 0 0 0 8.4 12 12.6 12.6 0 0 0 12 19.3 12.6 12.6 0 0 0 15.6 12 12.6 12.6 0 0 0 12 4.7m-7.2 6.45h14.4v1.7H4.8z"/>'
+};
+function socialPlatformId(raw){
+  const s = String(raw||'').trim().toLowerCase().replace(/https?:\/\//,'').replace(/^www\./,'').split(/[/?#]/)[0];
+  const key = String(raw||'').trim().toLowerCase();
+  for(const [id, meta] of Object.entries(SOCIAL_PLATFORMS)){
+    if(id===key || (meta.aliases||[]).includes(key) || (s && (meta.aliases||[]).some(a => s===a || s.endsWith('.'+a)))) return id;
+  }
+  const clean = key.replace(/[^a-z0-9]+/g,'');
+  return SOCIAL_PLATFORMS[clean] ? clean : (clean || 'website');
+}
+function officialSocials(record){
+  const raw = record && record.socials;
+  const out = [];
+  const seen = new Set();
+  const push = (platform, url) => {
+    url = String(url||'').trim();
+    if(!/^https?:\/\//i.test(url)) return;
+    if(/^mailto:|^tel:|^javascript:/i.test(url)) return;
+    if(/@/.test(url) && !/^https?:\/\//i.test(url)) return;
+    const low = url.toLowerCase();
+    if(seen.has(low)) return;
+    seen.add(low);
+    const id = socialPlatformId(platform);
+    const label = (SOCIAL_PLATFORMS[id]||{}).label || (id.charAt(0).toUpperCase()+id.slice(1));
+    out.push({platform:id, url, label});
+  };
+  if(Array.isArray(raw)){
+    raw.forEach(item => {
+      if(!item) return;
+      if(typeof item==='string') push('website', item);
+      else push(item.platform||item.name||item.label, item.url||item.href);
+    });
+  }else if(raw && typeof raw==='object'){
+    Object.keys(raw).forEach(k => push(k, raw[k]));
+  }
+  return out;
+}
+function socialsHtml(record){
+  const items = officialSocials(record);
+  if(!items.length) return '';
+  const links = items.map(s => {
+    const icon = SOCIAL_ICONS[s.platform] || SOCIAL_ICONS.website;
+    return `<li><a href="${esc(s.url)}" target="_blank" rel="noopener nofollow" aria-label="${esc(s.label)}" title="${esc(s.label)}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">${icon}</svg></a></li>`;
+  }).join('');
+  return `<ul class="socials" aria-label="Official social profiles">${links}</ul>`;
+}
+
 /* ---------- hotels (map layer only; never in lists/counts) ---------- */
 const HOTELS_ALL = (D.hotels||[]).filter(h => h && (h.event_slugs||[]).length);
 const HOTELS = HOTELS_ALL.filter(h => h.lat!=null && (h.lon!=null || h.lng!=null));
@@ -685,7 +758,7 @@ function hotelPopup(h, slug){
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
-    ${partner}${link}${venueLink}</div>`;
+    ${partner}${link}${venueLink}${socialsHtml(h)}</div>`;
 }
 function openEventSlug(){
   const m = (location.hash||'').match(/event\/([^/]+)/);
@@ -982,7 +1055,9 @@ function viewVenue(v){
     return url ? `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(lab)}</a></li>` : '';
   }).filter(Boolean).join('');
   const srcSec = srcItems ? `<div class="dsec"><h4>Sources</h4><ul>${srcItems}</ul></div>` : '';
-  return close + hero + facts + about + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
+  const socials = socialsHtml(v);
+  const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
+  return close + hero + facts + about + socialSec + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
 }
 (function bindVenuesToggle(){
   const btn = $('#venues-btn');
@@ -1674,12 +1749,14 @@ function viewEvent(e){
     const field = (s.field && String(s.field).toLowerCase()!==String(lab).toLowerCase()) ? s.field : '';
     return `<li>${field?`<span class="field">${esc(field)}</span>`:''}${s.url?srcLink(s.url, lab):esc(lab)}</li>`;
   }).join('');
+  const socials = socialsHtml(e);
+  const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
   const srcSec = `<div class="dsec"><h4>Sources</h4>${srcs?`<ul class="src-list">${srcs}</ul>`:'<p>No source URLs were attached to this record.</p>'}${e.website_url?`<p style="margin-top:10px"><a class="btn cyan block" href="${esc(e.website_url)}" target="_blank" rel="noopener">Visit event website ↗</a></p>`:''}</div>`;
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
   const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt="GConf"><img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""></a></p>`;
   const hotels = (typeof hotelsSectionHtml==='function') ? hotelsSectionHtml(e) : '';
   const venues = (typeof venuesSectionHtml==='function') ? venuesSectionHtml(e) : '';
-  return close + gal + hero + facts + about + hotels + venues + claim + srcSec + views + powered;
+  return close + gal + hero + facts + about + socialSec + hotels + venues + claim + srcSec + views + powered;
 }
 
 function detailPane(root){

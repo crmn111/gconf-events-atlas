@@ -3140,3 +3140,32 @@ table.venue-spaces{
   text-transform:uppercase;
   margin-left:6px;
 }
+
+/* Official social profile row (GEA-10 tokens). */
+.socials{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:var(--s-2);
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.dsec .socials{margin:0}
+.socials a{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:36px;
+  height:36px;
+  border:1px solid var(--line);
+  border-radius:var(--r-pill);
+  color:var(--ink);
+  background:var(--card);
+  text-decoration:none;
+  transition:border-color var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.socials a:hover{border-color:var(--ink);background:var(--bg)}
+.socials a:focus-visible{outline:var(--focus-ring);outline-offset:var(--focus-offset)}
+.socials svg{width:16px;height:16px;display:block;fill:currentColor}
+.hk-pop .socials{margin-top:10px}

@@ -3,3 +3,9 @@ _build/__pycache__/
 _build/**/__pycache__/
 *.pyc
 .venv/
+
+# Private contact files must never be published (they live outside this tree)
+contacts/
+contacts_*
+**/contacts/
+**/contacts_*

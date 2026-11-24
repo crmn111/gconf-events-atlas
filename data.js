@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T10:41:30Z",
+ "generated": "2026-11-24T10:59:07Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -257672,6 +257672,267 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "espacio-riesco",
+   "name": "Espacio Riesco",
+   "type": "convention_centre",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Huechuraba",
+   "address": "Avenida El Salto 5000, Huechuraba, Santiago de Chile",
+   "lat": -33.3851,
+   "lon": -70.6233682,
+   "url": "https://www.espacioriesco.cl/",
+   "capacity": 10000,
+   "exhibition_sqm": 17000,
+   "halls": "Pabellón Ferial, Expocenter and a three-level convention centre, plus official open areas",
+   "description": "Chile’s main convention and events centre in Huechuraba, officially at Avenida El Salto 5000, Santiago de Chile. Official Spanish homepage: 27,000 m² of covered halls and pavilions on a 160,000 m² site. Official exhibition buildings are the Pabellón Ferial (12,000 m² available, 13 m height on the dedicated hall page) and the Expocenter (5,000 m² constructed surface); those two official areas sum to 17,000 m², stored as exhibition_sqm. The convention centre is published as 10,000 m² of constructed surface, including a 1,620 m² main ballroom, and is not added into exhibition_sqm. Official copy also says events of 50 to 10,000 people, stored as capacity_max_delegates; the 10,000 figure includes indoor or outdoor use. Official open areas are 57,500 m² in Spanish and 57,200 m² in English, used mainly as parking or outdoor exhibition, and are not included in exhibition_sqm. Coordinates are the atlas precise pin; Nominatim returned only bus-stop pins of the same name, which were discarded.",
+   "photo": null,
+   "linked_event_slugs": [
+    "comic-con-chile-2027",
+    "america-digital-congreso-2027",
+    "chile-fintech-forum-2027",
+    "ia-fest-chile-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.espacioriesco.cl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.espacioriesco.cl/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.espacioriesco.cl/salones-y-espacios/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.espacioriesco.cl/contacto/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.espacioriesco.cl/salones-y-espacios/pabellon-ferial/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Pabellón Ferial",
+     "type": null,
+     "area_sqm": 12000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: 12,000 m², 13 m height, air-conditioned.",
+     "source_url": "https://www.espacioriesco.cl/salones-y-espacios/pabellon-ferial/"
+    },
+    {
+     "name": "Expocenter",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official homepage: 5,000 m² constructed surface.",
+     "source_url": "https://www.espacioriesco.cl/"
+    },
+    {
+     "name": "Centro de Convenciones",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 10,000 m² constructed surface over three floors, including a 1,620 m² main ballroom. Not included in exhibition_sqm.",
+     "source_url": "https://www.espacioriesco.cl/"
+    },
+    {
+     "name": "Salón principal",
+     "type": null,
+     "area_sqm": 1620,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official main ballroom within the convention centre.",
+     "source_url": "https://www.espacioriesco.cl/"
+    },
+    {
+     "name": "Áreas Libres",
+     "type": null,
+     "area_sqm": 57500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Spanish open-area figure 57,500 m² (English page 57,200 m²); mainly parking or outdoor exhibition. Not included in indoor exhibition_sqm.",
+     "source_url": "https://www.espacioriesco.cl/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "estacion-mapocho",
+   "name": "Centro Cultural Estación Mapocho",
+   "type": "other",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Santiago",
+   "address": null,
+   "lat": -33.4322389,
+   "lon": -70.6546037,
+   "url": "https://www.estacionmapocho.cl/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Santiago cultural centre in the former Mapocho railway station, used by Congreso Futuro and FILSA. Official contact email gestion@estacionmapocho.cl. A complete official street address and published hall or delegate totals were not copied from the retrieved official pages. Coordinates are the atlas precise pin, matching Nominatim’s arts-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "congreso-futuro-2027",
+    "filsa-2027"
+   ],
+   "contact_email": "gestion@estacionmapocho.cl",
+   "sources": [
+    {
+     "url": "https://www.estacionmapocho.cl/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "centro-cultural-gabriela-mistral",
+   "name": "Centro Cultural Gabriela Mistral (GAM)",
+   "type": "other",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Santiago",
+   "address": "Av. Libertador Bernardo O'Higgins 227, Santiago, Chile",
+   "lat": -33.4393115,
+   "lon": -70.6399272,
+   "url": "https://gam.cl/es/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Santiago cultural centre officially at Av. Libertador Bernardo O'Higgins 227, used by Nerdearla Chile. Official contact email info@gam.cl. Official meeting or exhibition totals were not copied from the retrieved homepage. Coordinates are the atlas precise pin, matching Nominatim’s arts-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nerdearla-chile-2027"
+   ],
+   "contact_email": "info@gam.cl",
+   "sources": [
+    {
+     "url": "https://gam.cl/es/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "centro-de-extension-uc",
+   "name": "Centro de Extensión UC",
+   "type": "other",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Santiago",
+   "address": null,
+   "lat": -33.4413467,
+   "lon": -70.6412931,
+   "url": "https://extension.uc.cl/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Pontificia Universidad Católica de Chile extension centre in Santiago, used by the Summit Internacional de Educación UC. The official Extensión Cultural site at extension.uc.cl lists Centro de Extensión Alameda (CEA) and other UC extension rooms; a dedicated hall-capacity table and a complete street address were not copied from the retrieved page. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "summit-internacional-educacion-uc-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://extension.uc.cl/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "metropolitan-santiago",
+   "name": "Metropolitan Santiago Convention & Event Center",
+   "type": "convention_centre",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Vitacura",
+   "address": "Costanera Sur S.J.E. de Balaguer 5600, Vitacura, Santiago, Chile",
+   "lat": null,
+   "lon": null,
+   "url": "https://metropolitansantiago.cl/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "12 official salones from 152 m² to 1,435 m², on upper and lower floors",
+   "description": "Vitacura convention and events centre officially at Costanera Sur S.J.E. de Balaguer 5600, also styled Metropolitan Santiago Convention & Event Center. Official homepage: 12 halls from 152 m² to 1,435 m², plus more than 16,000 m² of park and esplanade for outdoor or hybrid events; that outdoor figure is not stored as exhibition_sqm. A published indoor exhibition total and a campus delegate maximum were not taken from the retrieved official pages. The atlas CHACO pin is not marked precise, and Nominatim returned only a parking POI of the same name, so coordinates are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "chaco-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://metropolitansantiago.cl/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hotel-intercontinental-santiago",
+   "name": "Hotel InterContinental Santiago",
+   "type": "hotel_conference_venue",
+   "country": "Chile",
+   "cc": "CL",
+   "city": "Santiago",
+   "address": null,
+   "lat": -33.4132771,
+   "lon": -70.603026,
+   "url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Santiago conference hotel used by the IA Summit Chile. Chile has no official property-level hotel star register used in this pass, so star_rating is left null. The official IHG property page returned 403 in this pass, so street address and meeting-room capacities were not copied. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin (Avenida Vitacura 2885 in the Nominatim label, not stored as the official address).",
+   "photo": null,
+   "linked_event_slugs": [
+    "ia-summit-chile-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "shenzhen-world-exhibition-and-convention-center",
    "name": "Shenzhen World Exhibition & Convention Center (Bao'an)",
    "type": "convention_centre",
@@ -258034,6 +258295,755 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegyh/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "corferias",
+   "name": "Corferias",
+   "type": "exhibition_grounds",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Bogotá",
+   "address": "Carrera 37 # 24-67, Bogotá",
+   "lat": 4.630468,
+   "lon": -74.0886863,
+   "url": "https://corferias.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Bogotá’s international business and exhibition centre, officially at Carrera 37 # 24-67, with public email serviciocliente@corferias.com. The retrieved official recinto and home pages did not publish a current indoor exhibition total or a campus delegate maximum, so those fields are left null rather than taken from UFI or third-party figures. An official 12 March 2026 announcement describes a modernisation that, after new column-free Pabellón Norte (20,000 m²) and Pabellón Sur (15,000 m²) halls plus the Gran Salón, would maintain a total exhibition capacity of 50,000 m²; that is a planned post-works figure and is not stored as current exhibition_sqm. Coordinates are the atlas precise pin; Nominatim returned only a bus-stop pin of the same name, which was discarded.",
+   "photo": null,
+   "linked_event_slugs": [
+    "filbo-2027",
+    "expoartesanias-2026",
+    "baum-festival-2027",
+    "edutechnia-2027"
+   ],
+   "contact_email": "serviciocliente@corferias.com",
+   "sources": [
+    {
+     "url": "https://corferias.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://corferias.com/es/el-recinto",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.corferias.com/pdf/relevant/2026/comunicado-corferias-2030-12-marzo-2026.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Corferias modernisation announcement, 12 March 2026",
+     "doc_type": "other",
+     "language": "es",
+     "source_url": "https://www.corferias.com/pdf/relevant/2026/comunicado-corferias-2030-12-marzo-2026.pdf",
+     "href": "https://www.corferias.com/pdf/relevant/2026/comunicado-corferias-2030-12-marzo-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "plaza-mayor-medellin",
+   "name": "Plaza Mayor Medellín",
+   "type": "convention_centre",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Medellín",
+   "address": "Calle 41 N° 55-80, Medellín",
+   "lat": null,
+   "lon": null,
+   "url": "https://plazamayor.com.co/",
+   "capacity": 5724,
+   "exhibition_sqm": 13142,
+   "halls": "Five exhibition pavilions and 23 convention/meeting salones, plus supporting official spaces",
+   "description": "Medellín’s official convention and exhibition centre at Calle 41 N° 55-80. Official espacios page: 23,726 m² covered area, 20 spaces, five exhibition pavilions totalling 13,142 m² (stored as exhibition_sqm) and 23 convention salones totalling 10,584 m². The largest official website capacity is Pabellón Amarillo up to 5,724 people, stored as capacity_max_delegates. An official service portfolio PDF lists the same five pavilions with areas summing to 16,705 m² (Amarillo 4,912; Verde 4,323; Blanco 2,989; Azul 2,349; Rojo 2,132) and a higher Amarillo aforo of 6,664; the current website totals and capacities are preferred, and the PDF figures are noted on the spaces. Gran Salón website capacity is 2,900, while the PDF lists 2,240 m² / aforo 4,386. The official outdoor Plazoleta Descubierta is not included in exhibition_sqm. The atlas Startco pin is not marked precise, so coordinates are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "startco-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://plazamayor.com.co/espacios/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://plazamayor.com.co/exposiciones/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://plazamayor.com.co/wp-content/uploads/docs/portafolio-de-servicios.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Pabellón Amarillo",
+     "type": null,
+     "area_sqm": 4912,
+     "capacity_max": 5724,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official espacios page: up to 5,724 people. Official portfolio PDF: 4,912 m² / aforo 6,664; the current website capacity is stored.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    },
+    {
+     "name": "Pabellón Verde",
+     "type": null,
+     "area_sqm": 4323,
+     "capacity_max": 1986,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Website capacity up to 1,986. Official PDF: 4,323 m² / aforo 2,132.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    },
+    {
+     "name": "Pabellón Blanco",
+     "type": null,
+     "area_sqm": 2989,
+     "capacity_max": 2629,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Website capacity up to 2,629. Official PDF: 2,989 m² / aforo 2,730.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    },
+    {
+     "name": "Pabellón Azul",
+     "type": null,
+     "area_sqm": 2349,
+     "capacity_max": 2745,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Website capacity up to 2,745. Official PDF: 2,349 m² / aforo 2,936.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    },
+    {
+     "name": "Pabellón Rojo",
+     "type": null,
+     "area_sqm": 2132,
+     "capacity_max": 2002,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Website capacity up to 2,002. Official PDF: 2,132 m² / aforo 2,588.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    },
+    {
+     "name": "Gran Salón",
+     "type": null,
+     "area_sqm": 2240,
+     "capacity_max": 2900,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Website capacity up to 2,900. Official PDF: 2,240 m² / aforo 4,386. Not included in the 13,142 m² pavilion exhibition total.",
+     "source_url": "https://plazamayor.com.co/espacios/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Plaza Mayor Medellín service portfolio",
+     "doc_type": "brochure",
+     "language": "es",
+     "source_url": "https://plazamayor.com.co/wp-content/uploads/docs/portafolio-de-servicios.pdf",
+     "href": "https://plazamayor.com.co/wp-content/uploads/docs/portafolio-de-servicios.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "centro-de-eventos-valle-del-pacifico",
+   "name": "Centro de Eventos Valle del Pacífico",
+   "type": "convention_centre",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Yumbo",
+   "address": "Calle 15 # 26-120, Arroyohondo, Yumbo, Valle del Cauca, Colombia",
+   "lat": 3.5283773,
+   "lon": -76.4975802,
+   "url": "https://valledelpacifico.co/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Cali-area convention and events centre officially at Calle 15 # 26-120, Arroyohondo, Yumbo, Valle del Cauca, with public email comercial@valledelpacifico.co. Used by Smart City Expo Cali. Headline indoor exhibition and delegate totals were not copied from the retrieved official homepage (animated counters rendered as zero) or from the first pages of the official ferial PDF, so those fields are left null. Coordinates are the atlas precise pin, matching Nominatim’s conference-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "smart-city-expo-cali-2027"
+   ],
+   "contact_email": "comercial@valledelpacifico.co",
+   "sources": [
+    {
+     "url": "https://valledelpacifico.co/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://valledelpacifico.co/wp-content/uploads/2026/02/PRESENTACION-Ferial.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Centro de Eventos Valle del Pacífico exhibition presentation",
+     "doc_type": "brochure",
+     "language": "es",
+     "source_url": "https://valledelpacifico.co/wp-content/uploads/2026/02/PRESENTACION-Ferial.pdf",
+     "href": "https://valledelpacifico.co/wp-content/uploads/2026/02/PRESENTACION-Ferial.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "agora-bogota",
+   "name": "Ágora Bogotá",
+   "type": "congress_centre",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Bogotá",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://agora-bogota.com/",
+   "capacity": 4000,
+   "exhibition_sqm": null,
+   "halls": "More than 18 official meeting salones across five floors",
+   "description": "Bogotá international convention centre included as a remaining major congress venue next to the Corferias district. Official design page: total area 64,883 m² (the building footprint is described as an 81 × 81 m square, 49 m high); that total building area is not stored as exhibition_sqm. Official copy: a multifunctional building on five floors with more than 18 meeting rooms, and a top-floor capacity of 4,000 people, stored as capacity_max_delegates. A complete official street address and a confirmed Nominatim named-venue pin were not obtained in this pass, so address and coordinates are left null. An official 2023 capacity table PDF is stored; current webpage figures are preferred for the headline fields.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://agora-bogota.com/es/acerca-del-diseno",
+     "label": "Official source"
+    },
+    {
+     "url": "https://agora-bogota.com/pdf/tabla-capacidades-2023.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Ágora Bogotá capacity table 2023",
+     "doc_type": "capacity_chart",
+     "language": "es",
+     "source_url": "https://agora-bogota.com/pdf/tabla-capacidades-2023.pdf",
+     "href": "https://agora-bogota.com/pdf/tabla-capacidades-2023.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "hilton-bogota-corferias",
+   "name": "Hilton Bogotá Corferias",
+   "type": "hotel_conference_venue",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Bogotá",
+   "address": null,
+   "lat": 4.6290109,
+   "lon": -74.090309,
+   "url": "https://www.hilton.com/en/hotels/bogccci-hilton-bogota-corferias/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Conference hotel at the Corferias district, used by the Data Center & AI Infrastructure LATAM North conference. Colombia’s official hotel classification was not retrieved as a property-level listing in this pass, so star_rating is left null. The official Hilton property page returned 403 in this pass, so meeting-room capacities and a complete street address were not copied. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "data-center-ai-infrastructure-latam-north-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/bogccci-hilton-bogota-corferias/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hotel-intercontinental-medellin",
+   "name": "Hotel InterContinental Medellín",
+   "type": "hotel_conference_venue",
+   "country": "Colombia",
+   "cc": "CO",
+   "city": "Medellín",
+   "address": null,
+   "lat": 6.2136796,
+   "lon": -75.5582467,
+   "url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Medellín conference hotel used by Colombia Blockchain Week. No official property-level star listing was retrieved in this pass, so star_rating is left null. The official IHG property page returned 403 in this pass, so meeting-room capacities and a published street address were not copied. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "colombia-blockchain-week-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "brno-exhibition-centre",
+   "name": "Brno Exhibition Centre",
+   "type": "exhibition_grounds",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Brno",
+   "address": "Výstaviště 405/1, 603 00 Brno, The Czech Republic",
+   "lat": 49.1883694,
+   "lon": 16.5857816,
+   "url": "https://www.bvv.cz/en/",
+   "capacity": 12500,
+   "exhibition_sqm": 130000,
+   "halls": "14 exhibition halls and 19 conference halls, plus official outdoor areas",
+   "description": "Brno’s official exhibition grounds, operated by Veletrhy Brno, at Výstaviště 405/1, 603 00 Brno. Official about page: more than 130,000 sq m of net exhibition area, stored as exhibition_sqm with that “more than” caveat. Official rental pages: the compound covers 450,000 m² (site area, not stored as exhibition) with 14 halls and 19 conference halls. Official hall table (gross floor area / maximum capacity): Hall P 15,085 m² / 12,500 persons, stored as capacity_max_delegates; Hall V 12,020 m² / 4,592; Hall Z 9,017 m² / 3,266; Hall F 7,788 m² / 2,748; Hall B 6,791 m² / 4,597, and other named halls as listed in spaces. Hall P’s official net exhibition area is separately described as over 10,000 sq m. Coordinates are the atlas precise pin for MSV and Amper.",
+   "photo": null,
+   "linked_event_slugs": [
+    "amper-2027",
+    "msv-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.bvv.cz/en/about-the-company",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bvv.cz/en/rental",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bvv.cz/pronajmy/vystavni-haly",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bvv.cz/en/contacts",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A1",
+     "type": null,
+     "area_sqm": 3984,
+     "capacity_max": 2194,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 19.2 m; first gallery.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall A2",
+     "type": null,
+     "area_sqm": 4045,
+     "capacity_max": 2194,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 19.2 m; first gallery.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 6791,
+     "capacity_max": 4597,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 18 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 3049,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 31 m; galleries 1–3.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall E",
+     "type": null,
+     "area_sqm": 3912,
+     "capacity_max": 2506,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 4.5 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall F",
+     "type": null,
+     "area_sqm": 7788,
+     "capacity_max": 2748,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 11 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall G1",
+     "type": null,
+     "area_sqm": 4994,
+     "capacity_max": 3982,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 10.5 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall G2",
+     "type": null,
+     "area_sqm": 5112,
+     "capacity_max": 3960,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 6 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall H",
+     "type": null,
+     "area_sqm": 1438,
+     "capacity_max": 905,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 9.5 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Pavilon Morava",
+     "type": null,
+     "area_sqm": 300,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 5–12 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall P",
+     "type": null,
+     "area_sqm": 15085,
+     "capacity_max": 12500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area 15,085 m², 200 × 80 m, height 11–12 m, maximum 12,500 persons. The about page also describes Hall P as over 10,000 sq m of net exhibition area.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall V",
+     "type": null,
+     "area_sqm": 12020,
+     "capacity_max": 4592,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; height 9–12 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall Y",
+     "type": null,
+     "area_sqm": 444,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; diameter 23 m; no official maximum capacity published in the retrieved table.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    },
+    {
+     "name": "Hall Z",
+     "type": null,
+     "area_sqm": 9017,
+     "capacity_max": 3266,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: gross floor area; diameter 105 m, height 38 m.",
+     "source_url": "https://www.bvv.cz/pronajmy/vystavni-haly"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "pva-expo-praha",
+   "name": "PVA EXPO PRAHA",
+   "type": "exhibition_grounds",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Prague",
+   "address": "Beranových 667, 199 00 Praha 9",
+   "lat": 50.1303699,
+   "lon": 14.516266,
+   "url": "https://www.pvaexpo.cz/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Prague exhibition centre officially at Beranových 667, 199 00 Praha 9, with public email info@pvaexpo.cz. Official homepage: a total of 105,000 sqm of indoor and outdoor space; that combined indoor-and-outdoor figure is not stored as exhibition_sqm. A published indoor exhibition total and a campus delegate maximum were not taken from the retrieved official pages. Used by Gaudeamus Prague (halls 3 and 4) and For Boat Prague. Coordinates are the atlas precise pin, matching Nominatim’s exhibition-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "gaudeamus-prague-2027",
+    "for-boat-prague-2027"
+   ],
+   "contact_email": "info@pvaexpo.cz",
+   "sources": [
+    {
+     "url": "https://www.pvaexpo.cz/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://pvaexpo.cz/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "o2-universum",
+   "name": "O2 universum",
+   "type": "congress_centre",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Prague",
+   "address": "Českomoravská 2345/17a, 190 00 Prague 9, Czech Republic",
+   "lat": 50.1038407,
+   "lon": 14.4933559,
+   "url": "https://www.o2universum.cz/en/",
+   "capacity": 10000,
+   "exhibition_sqm": null,
+   "halls": "Official brochure: 38 halls, including Hall A, Halls B1–B3, Halls C1–C3, Halls D and E, and a 17-room Meeting Hub",
+   "description": "Prague congress and multifunctional centre officially at Českomoravská 2345/17a, 190 00 Prague 9, with public email o2universum@bestsport.cz. Official 2024 brochure: overall capacity up to 10,000, stored as capacity_max_delegates, and 38 halls with capacities from 40 to more than 4,500 people. Official Hall A: 4,500 seats and less than 1,800 m² (the area is a less-than figure and is not stored as an exact area_sqm). Official Halls B1–B3: 1,300 seats / less than 1,400 m²; Halls C1–C3: 1,000 seats / less than 1,000 m²; Meeting Hub 17 halls, 30–110 m², listed with a 1,335 figure in the brochure table. Used by Comic-Con Prague and Machine Learning Prague. Coordinates are the atlas precise pin, matching the Nominatim named building pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "comic-con-prague-2027",
+    "machine-learning-prague-2027"
+   ],
+   "contact_email": "o2universum@bestsport.cz",
+   "sources": [
+    {
+     "url": "https://www.o2universum.cz/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.o2universum.cz/saly/hlavni-sal-a-pro-3-800-4-500-osob/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 4500,
+     "capacity_theatre": 4500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page and brochure: 3,800–4,500 people and 4,500 seats; area published as <1,800 m², so area_sqm is left null. Ceiling height 6.6 m.",
+     "source_url": "https://www.o2universum.cz/saly/hlavni-sal-a-pro-3-800-4-500-osob/"
+    },
+    {
+     "name": "Halls B1, B2 and B3",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official brochure: 1,300 seats; area published as <1,400 m², so area_sqm is left null.",
+     "source_url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf"
+    },
+    {
+     "name": "Halls C1, C2 and C3",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official brochure: 1,000 seats; area published as <1,000 m², so area_sqm is left null.",
+     "source_url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf"
+    },
+    {
+     "name": "Meeting Hub (17 halls)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official brochure table: 17 halls of 30–110 m², with a 1,335 figure in the table (not stored as a single hall area).",
+     "source_url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "O2 universum congress brochure 2024",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf",
+     "href": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "vystaviste-praha",
+   "name": "Výstaviště Praha",
+   "type": "exhibition_grounds",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Prague",
+   "address": null,
+   "lat": 50.1069218,
+   "lon": 14.4304527,
+   "url": "https://navystavisti.cz/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Prague Exhibition Grounds (Výstaviště Praha / Na Výstavišti), used by Svět knihy in the Průmyslový palác and by the Prague Quadrennial. Official English rental pages and the 2024 grounds PDF did not retrieve successfully in this pass, so indoor exhibition area, hall breakdowns and a street address are left null rather than taken from secondary reports. Coordinates are Nominatim’s exhibition-centre pin (not the theme-park or ticket POIs of the same name). The Průmyslový palác is treated as part of this campus, not a second venue.",
+   "photo": null,
+   "linked_event_slugs": [
+    "svet-knihy-2027",
+    "prague-quadrennial-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://navystavisti.cz/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "palac-lucerna",
+   "name": "Palác Lucerna",
+   "type": "other",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Prague",
+   "address": "Štěpánská 61, 116 02 Prague 1",
+   "lat": 50.0811324,
+   "lon": 14.4260386,
+   "url": "https://www.lucerna.cz/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Historic Prague palace and cultural passage officially at Štěpánská 61, 116 02 Prague 1, with public email lucerna@lucerna.cz. Used by WebExpo. The atlas listed the venue as Lucerna Palace, Vodičkova 704/36, an alternative entrance on the same building; the official site address is stored. Official meeting or hall capacities were not copied from the retrieved homepage. Coordinates are Nominatim’s civic palace pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "webexpo-2027"
+   ],
+   "contact_email": "lucerna@lucerna.cz",
+   "sources": [
+    {
+     "url": "https://www.lucerna.cz/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "fit-but-brno",
+   "name": "FIT BUT",
+   "type": "other",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Brno",
+   "address": null,
+   "lat": 49.2268877,
+   "lon": 16.5968561,
+   "url": "https://www.fit.vut.cz/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Faculty of Information Technology, Brno University of Technology campus, used by DevConf.CZ, with official site fit.vut.cz and public email info@fit.vut.cz. Official conference-hall totals and a complete street address were not copied from the retrieved faculty homepage. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "devconf-cz-2027"
+   ],
+   "contact_email": "info@fit.vut.cz",
+   "sources": [
+    {
+     "url": "https://www.fit.vut.cz/en/",
      "label": "Official source"
     }
    ],
@@ -259330,6 +260340,173 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.mch.dk/om-os/lokationer/mch-messecenter-herning",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "kultuurikatel",
+   "name": "Kultuurikatel",
+   "type": "other",
+   "country": "Estonia",
+   "cc": "EE",
+   "city": "Tallinn",
+   "address": null,
+   "lat": 59.4442823,
+   "lon": 24.7512399,
+   "url": "https://kultuurikatel.ee/en/rooms/",
+   "capacity": 900,
+   "exhibition_sqm": null,
+   "halls": "Official capacity chart covering Cauldron Hall, Black Box Hall and other named rooms",
+   "description": "Tallinn Creative Hub (Kultuurikatel), used by Latitude59, Nordic Tech Days and Baltic Fintech Days. Official 2025 rooms capacity PDF: Black Box Hall 537 m² / theatre 600 / gala 320 / reception 900, stored as capacity_max_delegates; Cauldron Hall 780 m² / theatre 250 / reception 700; Small Hall 175 m² / theatre 220; Stalker Hall 163 m² / theatre 150; Atrium 551 m² / reception 500. A complete official street address was not copied from the retrieved pages (the contact page returned 404). Coordinates are the atlas precise pin, matching Nominatim’s events-venue pin at Põhja pst 27a (that street number is from Nominatim, not stored as the official address).",
+   "photo": null,
+   "linked_event_slugs": [
+    "latitude59-2027",
+    "nordic-tech-days-2027",
+    "baltic-fintech-days-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://kultuurikatel.ee/en/rooms/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Black Box Hall",
+     "type": null,
+     "area_sqm": 537,
+     "capacity_max": 900,
+     "capacity_theatre": 600,
+     "capacity_classroom": 230,
+     "capacity_banquet": 320,
+     "capacity_reception": 900,
+     "notes": "Official chart: 29 × 18.5 m; no daylight.",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf"
+    },
+    {
+     "name": "Cauldron Hall",
+     "type": null,
+     "area_sqm": 780,
+     "capacity_max": 700,
+     "capacity_theatre": 250,
+     "capacity_classroom": 80,
+     "capacity_banquet": 170,
+     "capacity_reception": 700,
+     "notes": "Official chart: 35 × 28.4 m; daylight.",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf"
+    },
+    {
+     "name": "Small Hall",
+     "type": null,
+     "area_sqm": 175,
+     "capacity_max": null,
+     "capacity_theatre": 220,
+     "capacity_classroom": 60,
+     "capacity_banquet": 100,
+     "capacity_reception": 300,
+     "notes": "Official chart: 14 × 12.4 m.",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf"
+    },
+    {
+     "name": "Stalker Hall",
+     "type": null,
+     "area_sqm": 163,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 44,
+     "capacity_banquet": 70,
+     "capacity_reception": 170,
+     "notes": "Official chart: 14.9 × 9.4 m.",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf"
+    },
+    {
+     "name": "Atrium",
+     "type": null,
+     "area_sqm": 551,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 500,
+     "notes": "Official chart: 30.4 × 12.3 m; no theatre figure published.",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Kultuurikatel capacity of all rooms",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf",
+     "href": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "tallinn-university",
+   "name": "Tallinn University",
+   "type": "other",
+   "country": "Estonia",
+   "cc": "EE",
+   "city": "Tallinn",
+   "address": null,
+   "lat": 59.4393125,
+   "lon": 24.7723471,
+   "url": "https://www.tlu.ee/en",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Tallinn University campus, used by NORMA and INTERACT, with official site tlu.ee and public email tlu@tlu.ee. Official conference-room totals and a complete street address were not copied from the retrieved homepage. Coordinates are the atlas precise pin, matching Nominatim’s university pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "norma-2027",
+    "interact-2027"
+   ],
+   "contact_email": "tlu@tlu.ee",
+   "sources": [
+    {
+     "url": "https://www.tlu.ee/en",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "national-library-of-estonia",
+   "name": "National Library of Estonia (RaRa)",
+   "type": "other",
+   "country": "Estonia",
+   "cc": "EE",
+   "city": "Tallinn",
+   "address": null,
+   "lat": 59.4303655,
+   "lon": 24.7391818,
+   "url": "https://www.rara.ee/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "National Library of Estonia (RaRa / Eesti Rahvusraamatukogu), used by the Nordic EdTech Summit, with official site rara.ee. The retrieved official homepage states that the main building is closed for reconstruction and lists other service locations, including an Embassy in Solaris; a conference-room table and a complete street address for the summit venue were not copied. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nordic-edtech-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rara.ee/en/",
      "label": "Official source"
     }
    ],
@@ -267551,6 +268728,492 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "mitec",
+   "name": "Malaysia International Trade and Exhibition Centre",
+   "type": "exhibition_grounds",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": "Kompleks MITEC, No.8, Jalan Dutamas 2, 50480 Kuala Lumpur, Malaysia",
+   "lat": 3.1790267,
+   "lon": 101.6678236,
+   "url": "https://www.mitec.com.my/",
+   "capacity": 18000,
+   "exhibition_sqm": 52000,
+   "halls": "11 official exhibition halls, a grand ballroom and a junior ballroom, plus meeting rooms, a 742 sqm Novel hall and The Gallery",
+   "description": "Malaysia’s international trade and exhibition centre in KL Metropolis, officially at Kompleks MITEC, No.8, Jalan Dutamas 2, 50480 Kuala Lumpur, with public email info@mitec.com.my. Official homepage and about page: 52,000 sqm and 11 exhibition halls, stored as exhibition_sqm, including Malaysia’s largest pillar-less hall of 12,960 sqm on a single level. Official venues page: Level 3 pillarless halls can be combined for a theatre setup of up to 18,000 pax (stored as capacity_max_delegates) or banquet 6,700; Level 1 and Level 2 are published per hall as theatre up to 4,000 / banquet 1,500 / up to 200 booths of 3 × 3 m. Used by SEMICON Southeast Asia, Smart Nation Expo, CyberDSA, Infocomm Asia, APAIE and Nijigen Expo. Coordinates are the atlas precise pin, matching Nominatim’s exhibition-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nijigen-expo-2027",
+    "semicon-southeast-asia-2027",
+    "smart-nation-expo-2027",
+    "cyberdsa-2027",
+    "infocomm-asia-2027",
+    "apaie-2027"
+   ],
+   "contact_email": "info@mitec.com.my",
+   "sources": [
+    {
+     "url": "https://www.mitec.com.my/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mitec.com.my/organise/venues",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mitec.com.my/about/who-we-are",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Level 3 (combined pillarless halls)",
+     "type": null,
+     "area_sqm": 12960,
+     "capacity_max": 18000,
+     "capacity_theatre": 18000,
+     "capacity_classroom": null,
+     "capacity_banquet": 6700,
+     "capacity_reception": null,
+     "notes": "Official about page: 12,960 sqm column-free space on a single level. Official venues page: theatre up to 18,000 pax, banquet up to 6,700, up to 660 booths of 3 × 3 m.",
+     "source_url": "https://www.mitec.com.my/organise/venues"
+    },
+    {
+     "name": "Level 2 (per hall)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 4000,
+     "capacity_classroom": null,
+     "capacity_banquet": 1500,
+     "capacity_reception": null,
+     "notes": "Official venues page per-hall figures; pillared halls, three-hall combination available.",
+     "source_url": "https://www.mitec.com.my/organise/venues"
+    },
+    {
+     "name": "Level 1 (per hall)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 4000,
+     "capacity_classroom": null,
+     "capacity_banquet": 1500,
+     "capacity_reception": null,
+     "notes": "Official venues page per-hall figures; heavy-machinery floor loading up to 5 t/sqm.",
+     "source_url": "https://www.mitec.com.my/organise/venues"
+    },
+    {
+     "name": "Novel",
+     "type": null,
+     "area_sqm": 742,
+     "capacity_max": null,
+     "capacity_theatre": 700,
+     "capacity_classroom": null,
+     "capacity_banquet": 350,
+     "capacity_reception": null,
+     "notes": "Official: carpeted pillarless space that can be partitioned into two halls.",
+     "source_url": "https://www.mitec.com.my/organise/venues"
+    },
+    {
+     "name": "The Gallery",
+     "type": null,
+     "area_sqm": 373,
+     "capacity_max": null,
+     "capacity_theatre": 500,
+     "capacity_classroom": null,
+     "capacity_banquet": 200,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mitec.com.my/organise/venues"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "world-trade-centre-kuala-lumpur",
+   "name": "World Trade Centre Kuala Lumpur",
+   "type": "convention_centre",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": "No.41, Jalan Tun Ismail, 50480 Kuala Lumpur, Malaysia",
+   "lat": 3.1687535,
+   "lon": 101.6915588,
+   "url": "https://worldtradecentrekl.com/",
+   "capacity": 3000,
+   "exhibition_sqm": null,
+   "halls": "Dewan Merdeka, Tun Dr. Ismail, Tun Hussein Onn, Tun Razak 3, Tun Razak 4, Mawar Hall and meeting rooms",
+   "description": "Kuala Lumpur convention and exhibition centre officially at No.41, Jalan Tun Ismail, 50480 Kuala Lumpur. Official venues page: Dewan Merdeka spans over 2,000 m² (17.7 m height) and accommodates up to 3,000 guests, stored as capacity_max_delegates; Tun Dr. Ismail 1,003 m² / 1,000 guests, divisible into 500 m² halls; Tun Hussein Onn 1,003 m² / 1,000 guests, similarly divisible; Tun Razak 3 is a large-scale exhibition hall spanning over 4,500 m² (3.5 m ceiling) for up to 3,000 guests; Tun Razak 4 spans over 2,700 m² (8.08 m ceiling) for up to 2,500 guests; Mawar Hall banquet up to 500. The “over 2,000 / 4,500 / 2,700 m²” figures are not stored as exact exhibition_sqm, and a complete official indoor exhibition total was not published on the retrieved pages. Used by the Kuala Lumpur International Book Fair, Malaysia Technology Expo and the Malaysia Art Ecosystem Fair (Dewan Tun Razak 3 & 4). Coordinates are the atlas precise pin, matching Nominatim’s named commercial pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "kuala-lumpur-international-book-fair-2027",
+    "malaysia-technology-expo-2027",
+    "malaysia-art-ecosystem-fair-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://worldtradecentrekl.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://worldtradecentrekl.com/venues/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Dewan Merdeka",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 3000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: over 2,000 m², 17.7 m ceiling, up to 3,000 guests; area_sqm left null because the figure is “over 2,000”.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    },
+    {
+     "name": "Tun Dr. Ismail",
+     "type": null,
+     "area_sqm": 1003,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7.01 m ceiling; divisible into Hall A or B of 500 m² each.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    },
+    {
+     "name": "Tun Hussein Onn",
+     "type": null,
+     "area_sqm": 1003,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7.01 m ceiling; divisible into Hall A or B of 500 m² each.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    },
+    {
+     "name": "Tun Razak 3",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 3000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: over 4,500 m², 3.5 m ceiling, up to 3,000 guests; area_sqm left null because the figure is “over 4,500”.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    },
+    {
+     "name": "Tun Razak 4",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: over 2,700 m², 8.08 m ceiling, up to 2,500 guests; area_sqm left null because the figure is “over 2,700”.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    },
+    {
+     "name": "Mawar Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 500,
+     "capacity_reception": null,
+     "notes": "Official: banquet up to 500 guests.",
+     "source_url": "https://worldtradecentrekl.com/venues/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kuala-lumpur-convention-centre",
+   "name": "Kuala Lumpur Convention Centre",
+   "type": "convention_centre",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.klccconventioncentre.com/",
+   "capacity": 4500,
+   "exhibition_sqm": 18194,
+   "halls": "Eight official exhibition halls, plus a Plenary Hall and a Large Hall",
+   "description": "Purpose-built convention and exhibition centre beside the PETRONAS Twin Towers in Kuala Lumpur City Centre, with public email info@klccconventioncentre.com. Official about page: more than 38,670 sqm of flexible event space (not stored as exhibition_sqm); Plenary Hall approximately 2,991 delegates; Large Hall up to 4,500 attendees, stored as capacity_max_delegates. Official technical specifications (gross floor area): Hall 1 2,502 m², Hall 2 2,332 m², Hall 3 560 m², Hall 4 2,071 m², Hall 5 2,245 m², Halls 6, 7 and 8 each 2,828 m², which sum to 18,194 m², stored as exhibition_sqm. A complete official street address was not copied from the retrieved pages. The atlas Comic Fiesta pin is not marked precise, and the Nominatim result for “Kuala Lumpur Convention Centre” resolved to a different building in Bangsar, which was discarded, so coordinates are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "comic-fiesta-2026"
+   ],
+   "contact_email": "info@klccconventioncentre.com",
+   "sources": [
+    {
+     "url": "https://www.klccconventioncentre.com/about/about-the-centre",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 2502,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official gross floor area; 29.0 × 86.61 × 9.36 m; column-free.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 2",
+     "type": null,
+     "area_sqm": 2332,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official gross floor area; 29.0 × 80.44 × 9.36 m; column-free.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 3",
+     "type": null,
+     "area_sqm": 560,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official gross floor area; column-free.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 4",
+     "type": null,
+     "area_sqm": 2071,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official gross floor area; 29.0 × 71.44 × 9.36 m.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 5",
+     "type": null,
+     "area_sqm": 2245,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official gross floor area; 29.0 × 77.44 × 9.36 m.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 6 (6A, 6B, 6C)",
+     "type": null,
+     "area_sqm": 2828,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official combined gross floor area.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 7 (7A, 7B, 7C)",
+     "type": null,
+     "area_sqm": 2828,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official combined gross floor area.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Exhibition Hall 8 (8A, 8B, 8C)",
+     "type": null,
+     "area_sqm": 2828,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official combined gross floor area.",
+     "source_url": "https://www.klccconventioncentre.com/organisers/plan-an-event/organiser-kit/guidelines/technical-specifications/exhibition-halls"
+    },
+    {
+     "name": "Plenary Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2991,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official about page: approximately 2,991 delegates.",
+     "source_url": "https://www.klccconventioncentre.com/about/about-the-centre"
+    },
+    {
+     "name": "Large Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 4500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official about page: up to 4,500 attendees.",
+     "source_url": "https://www.klccconventioncentre.com/about/about-the-centre"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "putrajaya-international-convention-centre",
+   "name": "Putrajaya International Convention Centre",
+   "type": "convention_centre",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Putrajaya",
+   "address": "Precinct 5, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",
+   "lat": 2.8944611,
+   "lon": 101.6771361,
+   "url": "https://www.picc.com.my/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Putrajaya’s official international convention centre in Precinct 5, 62000 Putrajaya, with public email enquiry@picc.com.my, included as a remaining major national convention centre. Official hall areas and a campus delegate maximum were not copied from the retrieved homepage. Coordinates are Nominatim’s conference-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "enquiry@picc.com.my",
+   "sources": [
+    {
+     "url": "https://www.picc.com.my/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "mandarin-oriental-kuala-lumpur",
+   "name": "Mandarin Oriental, Kuala Lumpur",
+   "type": "hotel_conference_venue",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": null,
+   "lat": 3.1557412,
+   "lon": 101.7118967,
+   "url": "https://www.mandarinoriental.com/en/kuala-lumpur/petronas-towers",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Kuala Lumpur conference hotel used by BETT Asia. Malaysia’s official MOTAC hotel rating was not retrieved as a property-level listing in this pass, so star_rating is left null. The official Mandarin Oriental Kuala Lumpur site was retrieved; meeting-room capacities and a published street address were not copied from it in this pass. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "bett-asia-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.mandarinoriental.com/en/kuala-lumpur/petronas-towers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hilton-kuala-lumpur",
+   "name": "Hilton Kuala Lumpur",
+   "type": "hotel_conference_venue",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": null,
+   "lat": 3.1352656,
+   "lon": 101.6857595,
+   "url": "https://www.hilton.com/en/hotels/kulhitw-hilton-kuala-lumpur/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "KL Sentral conference hotel used by the AISEAN Summit. No official MOTAC property-level star listing was retrieved in this pass, so star_rating is left null. The official Hilton property page returned 403 in this pass, so meeting-room capacities and a published street address were not copied. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin at Jalan Stesen Sentral 3 (that street number is from Nominatim, not stored as the official address).",
+   "photo": null,
+   "linked_event_slugs": [
+    "aisean-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/kulhitw-hilton-kuala-lumpur/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "intercontinental-kuala-lumpur",
+   "name": "InterContinental Kuala Lumpur",
+   "type": "hotel_conference_venue",
+   "country": "Malaysia",
+   "cc": "MY",
+   "city": "Kuala Lumpur",
+   "address": "165 Jalan Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+   "lat": 3.1594561,
+   "lon": 101.7179652,
+   "url": "https://kualalumpur.intercontinental.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official: nine meeting rooms and two pillarless ballrooms",
+   "description": "Kuala Lumpur conference hotel used by LiveX Kuala Lumpur, officially at 165 Jalan Ampang, 50450 Kuala Lumpur, with public email intercontinental.kualalumpur@ihg.com. Official site: nine meeting rooms and two pillarless ballrooms. Individual official capacities were not copied from the retrieved page. The site’s “5 Star” wording is hotel marketing, not an official MOTAC property-level listing, so star_rating is left null. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "livex-kuala-lumpur-2027"
+   ],
+   "contact_email": "intercontinental.kualalumpur@ihg.com",
+   "sources": [
+    {
+     "url": "https://kualalumpur.intercontinental.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "rai-amsterdam",
    "name": "RAI Amsterdam",
    "type": "exhibition_grounds",
@@ -272042,6 +273705,547 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "gospodarsko-razstavisce",
+   "name": "Gospodarsko razstavišče",
+   "type": "exhibition_grounds",
+   "country": "Slovenia",
+   "cc": "SI",
+   "city": "Ljubljana",
+   "address": "Dunajska cesta 18, 1000 Ljubljana",
+   "lat": 46.0609798,
+   "lon": 14.5085067,
+   "url": "https://www.gr.si/en/",
+   "capacity": 2500,
+   "exhibition_sqm": 12323,
+   "halls": "23 official multipurpose halls, plus outdoor areas",
+   "description": "Ljubljana Exhibition and Convention Centre (Gospodarsko razstavišče), officially at Dunajska cesta 18, 1000 Ljubljana, with public email info@gr.si. Official halls page: 23 multipurpose halls with a total of 12,323 m² of indoor space, stored as exhibition_sqm, and 8,844 m² of outdoor areas, which are not included. Official about page also cites 21,162 m² total event space (indoor plus outdoor; 12,323 + 8,844 = 21,167 m², a 5 m² rounding difference) and 2,500 seats in the largest hall, stored as capacity_max_delegates, matching official Kocka Hall A2 (2,456 m² / 2,500). Used by the Slovenian Book Fair and Na meji nevidnega. Coordinates are the atlas precise pin, matching Nominatim’s events-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "slovenian-book-fair-2026",
+    "na-meji-nevidnega-2027"
+   ],
+   "contact_email": "info@gr.si",
+   "sources": [
+    {
+     "url": "https://www.gr.si/en/halls",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.gr.si/en/get-to-know-gr-ljubljana",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Kocka Hall A2",
+     "type": null,
+     "area_sqm": 2456,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor; largest hall, 2,500 seats.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Kupola Hall A",
+     "type": null,
+     "area_sqm": 1731,
+     "capacity_max": 1600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor; height 8.0–12.0 m.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Steklena Hall C",
+     "type": null,
+     "area_sqm": 1700,
+     "capacity_max": 1600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor; natural daylight.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Marmorna Hall B",
+     "type": null,
+     "area_sqm": 1618,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor; can be divided into two halls.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Stebrna Hall",
+     "type": null,
+     "area_sqm": 1310,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: −1st floor.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Marmorna Hall Foyer B2",
+     "type": null,
+     "area_sqm": 730,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor; registrations and exhibitions.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Povodni mož Hall",
+     "type": null,
+     "area_sqm": 665,
+     "capacity_max": 600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: −1st floor; can be divided into four halls.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Urška Hall",
+     "type": null,
+     "area_sqm": 645,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 2nd floor; can be divided into four halls.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Jurček Pavilion",
+     "type": null,
+     "area_sqm": 498,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: ground floor.",
+     "source_url": "https://www.gr.si/en/halls"
+    },
+    {
+     "name": "Outdoor areas",
+     "type": null,
+     "area_sqm": 8844,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor exhibition/event area; not included in indoor exhibition_sqm.",
+     "source_url": "https://www.gr.si/en/halls"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "hotel-perla-nova-gorica",
+   "name": "Hotel Perla",
+   "type": "hotel_conference_venue",
+   "country": "Slovenia",
+   "cc": "SI",
+   "city": "Nova Gorica",
+   "address": null,
+   "lat": 45.958551,
+   "lon": 13.649827,
+   "url": "https://www.hit.si/en/hotels/perla/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Nova Gorica hotel used by Infosek. The official HIT page styles the property PERLA, Resort & Entertainment****; that four-star marketing copy is not an official Hotelstars Union property-level listing, so star_rating is left null. Official meeting-room capacities and a complete street address were not copied from the retrieved page. Coordinates are the atlas precise pin, matching Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "infosek-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hit.si/en/hotels/perla/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "impact-muang-thong-thani",
+   "name": "IMPACT Muang Thong Thani",
+   "type": "exhibition_grounds",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Pak Kret",
+   "address": "47/569-576 Popular 3 Road, Banmai Sub-district, Pakkred District, Nonthaburi 11120, Thailand",
+   "lat": 13.9134256,
+   "lon": 100.5476259,
+   "url": "https://www.impact.co.th/en/",
+   "capacity": null,
+   "exhibition_sqm": 107000,
+   "halls": "IMPACT Exhibition and Convention Center (Halls 5–12), IMPACT Challenger (Halls 1–3), IMPACT Forum Hall 4 and IMPACT Arena",
+   "description": "Thailand’s main exhibition and convention campus at Muang Thong Thani, Pak Kret, Nonthaburi, officially described as comprising IMPACT Arena, IMPACT Exhibition and Convention Center, IMPACT Challenger, IMPACT Forum Hall 4 and The Portal Lifestyle Complex. Official Exhibition Center page: eight multi-purpose halls with a combined 47,000 square metres (Halls 5–8 are pillar-free at 5,000 sqm each / 20,000 sqm; Halls 9–12 encompass 27,000 sqm). Official Challenger page: three interconnected column-free halls totalling 60,000 square metres (131.2 × 459 × 25.7 m). Exhibition_sqm 107,000 is the sum of those two official exhibition-hall totals; Forum Hall 4 and the Arena are additional and are not included. Official contact address: 10th Fl., Bangkok Land Building, 47/569-576 Popular 3 Road, Banmai, Pakkred, Nonthaburi 11120. A published campus delegate maximum was not taken from the retrieved official pages, and contact emails were obfuscated. Used by THAIFEX – Anuga Asia and by events in Challenger Hall. Coordinates are Nominatim’s exhibition-centre pin (station and stop pins of the same name were discarded).",
+   "photo": null,
+   "linked_event_slugs": [
+    "thaifex-anuga-asia-2027",
+    "lalala-festival-bangkok-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.impact.co.th/en/organizers/venues/impact-exhibition-center",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.impact.co.th/en/organizers/venues/impact-challenger",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.impact.co.th/en/contact-us",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "IMPACT Challenger (Halls 1–3)",
+     "type": null,
+     "area_sqm": 60000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: three interconnected column-free halls totalling 60,000 sqm; 131.2 × 459 × 25.7 m.",
+     "source_url": "https://www.impact.co.th/en/organizers/venues/impact-challenger"
+    },
+    {
+     "name": "IMPACT Exhibition and Convention Center (Halls 5–12)",
+     "type": null,
+     "area_sqm": 47000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: eight multi-purpose halls with a combined 47,000 sqm.",
+     "source_url": "https://www.impact.co.th/en/organizers/venues/impact-exhibition-center"
+    },
+    {
+     "name": "Halls 5–8",
+     "type": null,
+     "area_sqm": 20000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: pillar-free, 5,000 sqm per hall / 20,000 sqm combined.",
+     "source_url": "https://www.impact.co.th/en/organizers/venues/impact-exhibition-center"
+    },
+    {
+     "name": "Halls 9–12",
+     "type": null,
+     "area_sqm": 27000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 27,000 sqm, convertible into a 13,500 sqm space for smaller events.",
+     "source_url": "https://www.impact.co.th/en/organizers/venues/impact-exhibition-center"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "bitec",
+   "name": "Bangkok International Trade & Exhibition Centre (BITEC)",
+   "type": "exhibition_grounds",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Bangkok",
+   "address": "88 Debaratna Road (km. 1), Bangna Tai, Bangna, Bangkok 10260, Thailand",
+   "lat": 13.669801,
+   "lon": 100.6085436,
+   "url": "https://www.bitec.co.th/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official floor plans name exhibition halls EH98–EH104, plus convention and entertainment halls including BITEC Live and BHIRAJ Hall",
+   "description": "Bangkok exhibition centre officially at 88 Debaratna Road (km. 1), Bangna Tai, Bangna, Bangkok 10260. Official venue and plan pages name exhibition halls EH98–EH104. Official homepage also describes BITEC Live as 7,000 sq.m. of concert hall with 10,000 standing or 6,500 seated attendees; that entertainment hall is not stored as exhibition_sqm. Animated official counters for column-free exhibition space rendered as zero in the retrieved HTML, and a confirmed indoor exhibition campus total was not copied, so exhibition_sqm and capacity_max_delegates are left null. Used by Manufacturing Expo and Together Festival (EH 103). Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "manufacturing-expo-2027",
+    "together-festival-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.bitec.co.th/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bitec.co.th/about-bitec",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bitec.co.th/plan-and-event",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bitec.co.th/organizer/venue",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "queen-sirikit-national-convention-center",
+   "name": "Queen Sirikit National Convention Center",
+   "type": "convention_centre",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Bangkok",
+   "address": "60 Queen Sirikit National Convention Center, Ratchadaphisek Road, Khlong Toei Sub-district, Khlong Toei District, Bangkok 10110, Thailand",
+   "lat": 13.7242403,
+   "lon": 100.558736,
+   "url": "https://www.qsncc.com/en/",
+   "capacity": 22494,
+   "exhibition_sqm": 45085,
+   "halls": "Eight exhibition halls, four plenary halls, four ballrooms and 50 meeting rooms",
+   "description": "Bangkok’s national convention centre officially at 60 Queen Sirikit National Convention Center, Ratchadaphisek Road, Khlong Toei, Bangkok 10110, with public email sales@qsncc.com. Official venue-space pages: eight event halls, four plenary halls, four ballrooms and 50 meeting rooms, within 78,500 sq.m of event space (that broader event-space figure is not stored as exhibition_sqm; the glance page also describes a 300,000 square-metre total space). Official Level G: Exhibition Halls 1–4 total 22,335 sq.m (theatre 22,494). Official Level LG: Exhibition Halls 5–8 total 22,750 sq.m (theatre 21,251). Exhibition_sqm 45,085 is the sum of those two official combined hall totals. Capacity_max_delegates 22,494 is the official Halls 1–4 theatre figure, the largest published hall capacity. Foyers are listed separately and are not included in exhibition_sqm. Coordinates are the atlas precise pin, matching Nominatim’s conference-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "bangkok-international-book-fair-2027",
+    "gamescom-asia-thailand-game-show-2027",
+    "techsauce-global-summit-2027",
+    "money2020-asia-2027",
+    "binance-blockchain-week-bangkok-2026",
+    "cybersec-asia-2027"
+   ],
+   "contact_email": "sales@qsncc.com",
+   "sources": [
+    {
+     "url": "https://www.qsncc.com/en/about/at-a-glance/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qsncc.com/en/plan/venue-space/level-g/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qsncc.com/en/plan/venue-space/level-lg/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 5430,
+     "capacity_max": null,
+     "capacity_theatre": 5688,
+     "capacity_classroom": 3888,
+     "capacity_banquet": 2990,
+     "capacity_reception": 5688,
+     "notes": "Official Level G table: 50.27 × 108 × 13.5 m; 324 booths of 3 × 3 m.",
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-g/"
+    },
+    {
+     "name": "Exhibition Hall 2",
+     "type": null,
+     "area_sqm": 5800,
+     "capacity_max": null,
+     "capacity_theatre": 5688,
+     "capacity_classroom": 3888,
+     "capacity_banquet": 2990,
+     "capacity_reception": 5688,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-g/"
+    },
+    {
+     "name": "Exhibition Hall 3",
+     "type": null,
+     "area_sqm": 5800,
+     "capacity_max": null,
+     "capacity_theatre": 5688,
+     "capacity_classroom": 3888,
+     "capacity_banquet": 2990,
+     "capacity_reception": 5688,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-g/"
+    },
+    {
+     "name": "Exhibition Hall 4",
+     "type": null,
+     "area_sqm": 5305,
+     "capacity_max": null,
+     "capacity_theatre": 5214,
+     "capacity_classroom": 3564,
+     "capacity_banquet": 2760,
+     "capacity_reception": 5214,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-g/"
+    },
+    {
+     "name": "Exhibition Halls 1–4 combined",
+     "type": null,
+     "area_sqm": 22335,
+     "capacity_max": 22494,
+     "capacity_theatre": 22494,
+     "capacity_classroom": 15582,
+     "capacity_banquet": 11730,
+     "capacity_reception": 22494,
+     "notes": "Official combined Level G total.",
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-g/"
+    },
+    {
+     "name": "Exhibition Hall 5",
+     "type": null,
+     "area_sqm": 5588,
+     "capacity_max": null,
+     "capacity_theatre": 5214,
+     "capacity_classroom": 3564,
+     "capacity_banquet": 2880,
+     "capacity_reception": 5214,
+     "notes": "Official Level LG table: 51.74 × 108 × 7 m.",
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-lg/"
+    },
+    {
+     "name": "Exhibition Hall 6",
+     "type": null,
+     "area_sqm": 5863,
+     "capacity_max": null,
+     "capacity_theatre": 5688,
+     "capacity_classroom": 3888,
+     "capacity_banquet": 3120,
+     "capacity_reception": 5688,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-lg/"
+    },
+    {
+     "name": "Exhibition Hall 7",
+     "type": null,
+     "area_sqm": 5863,
+     "capacity_max": null,
+     "capacity_theatre": 5688,
+     "capacity_classroom": 3888,
+     "capacity_banquet": 3120,
+     "capacity_reception": 5688,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-lg/"
+    },
+    {
+     "name": "Exhibition Hall 8",
+     "type": null,
+     "area_sqm": 5436,
+     "capacity_max": null,
+     "capacity_theatre": 5214,
+     "capacity_classroom": 3564,
+     "capacity_banquet": 2640,
+     "capacity_reception": 5214,
+     "notes": null,
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-lg/"
+    },
+    {
+     "name": "Exhibition Halls 5–8 combined",
+     "type": null,
+     "area_sqm": 22750,
+     "capacity_max": 21251,
+     "capacity_theatre": 21251,
+     "capacity_classroom": 14628,
+     "capacity_banquet": 11270,
+     "capacity_reception": 21252,
+     "notes": "Official combined Level LG total.",
+     "source_url": "https://www.qsncc.com/en/plan/venue-space/level-lg/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "paragon-hall",
+   "name": "Paragon Hall",
+   "type": "other",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Bangkok",
+   "address": "991 Siam Paragon Shopping Center, Rama 1, Pathumwan, Bangkok 10330",
+   "lat": 13.7467785,
+   "lon": 100.534954,
+   "url": "https://www.paragonhall.com/en",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Event hall at Siam Paragon in Bangkok, used by Animonium. Official site of Royal Paragon Enterprise Co., Ltd.: 991 Siam Paragon Shopping Center, Rama 1, Pathumwan, Bangkok 10330, with public email sales@paragonhall.com. Official hall areas were not copied from the retrieved homepage. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "animonium-2027"
+   ],
+   "contact_email": "sales@paragonhall.com",
+   "sources": [
+    {
+     "url": "https://www.paragonhall.com/en",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "true-digital-park-west",
+   "name": "True Digital Park West",
+   "type": "other",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Bangkok",
+   "address": "101 Sukhumvit Road, Bangkok 10260, Thailand",
+   "lat": 13.685581,
+   "lon": 100.6113077,
+   "url": "https://www.truedigitalpark.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official event spaces named Grand Hall, Auditorium & Open Space, Town Hall and workshop rooms",
+   "description": "Bangkok digital campus used by the FOSSASIA Summit. Official site: 101 Sukhumvit Road, Bangkok 10260, with named event spaces including Grand Hall, Auditorium & Open Space, Town Hall and workshop rooms. Official hall areas and a campus delegate maximum were not copied from the retrieved homepage. Coordinates are the atlas precise pin, close to Nominatim’s named True Digital Park West pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fossasia-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.truedigitalpark.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "tainex",
    "name": "Taipei Nangang Exhibition Center (TaiNEX)",
    "type": "convention_centre",
@@ -274951,7 +277155,7 @@ window.ATLASDATA={
   },
   "expo": 187,
   "hotels": 384,
-  "venues": 388,
+  "venues": 423,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,
