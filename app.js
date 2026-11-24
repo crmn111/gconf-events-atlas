@@ -90,6 +90,24 @@ function evKind(e){
   if(String(e && e.category || '').toLowerCase()==='expo' || k==='expo' || k==='expos') return 'expo';
   return 'conference';
 }
+function alsoCategories(e){
+  const raw = e && e.also_categories;
+  if(!Array.isArray(raw)) return [];
+  return raw.map(s => String(s||'').toLowerCase().trim()).filter(Boolean);
+}
+function inKindView(e, kind){
+  if(evKind(e)===kind) return true;
+  // Conferences with also_categories:['expo'] also appear in the Expos view.
+  if(kind==='expo' && alsoCategories(e).includes('expo')) return true;
+  return false;
+}
+function matchesCatChip(e, kind, cats){
+  kind = kind||st.kind;
+  cats = cats||st.cats;
+  if(evKind(e)===kind) return !!cats[e.category];
+  if(kind==='expo' && alsoCategories(e).includes('expo')) return !!cats.expo;
+  return false;
+}
 function evRegion(e){
   const r = String((e && e.region) || '').toLowerCase().trim();
   return r || 'europe';
@@ -134,7 +152,11 @@ function catDict(kind){
 function catKeys(kind){
   kind = kind||st.kind;
   const d = catDict(kind);
-  const present = new Set(EV.filter(e => evKind(e)===kind).map(e => e.category));
+  const present = new Set();
+  EV.filter(e => inKindView(e, kind)).forEach(e => {
+    if(evKind(e)===kind) present.add(e.category);
+    else if(kind==='expo' && alsoCategories(e).includes('expo')) present.add('expo');
+  });
   const keys = Object.keys(d).slice();
   present.forEach(k => { if(!keys.includes(k)) keys.push(k); });
   return keys;
@@ -161,6 +183,7 @@ const ISO = {
   Macau:'MO', 'Antigua and Barbuda':'AG', Malaysia:'MY', Argentina:'AR',
   India:'IN', China:'CN', Japan:'JP', Australia:'AU', Canada:'CA',
   Mexico:'MX', Brazil:'BR', 'South Africa':'ZA', 'Saudi Arabia':'SA',
+  'Sri Lanka':'LK',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
   Thailand:'TH', Singapore:'SG', 'Hong Kong':'HK', 'South Korea':'KR',
   'New Zealand':'NZ', 'United States':'US', USA:'US'
@@ -917,7 +940,7 @@ try{
 }catch(_){}
 
 function kindPool(){
-  return EV.filter(e => evKind(e)===st.kind && (st.region==='all' || evRegion(e)===st.region));
+  return EV.filter(e => inKindView(e, st.kind) && (st.region==='all' || evRegion(e)===st.region));
 }
 function countryList(){
   const pool = kindPool();
@@ -946,9 +969,9 @@ function topicList(){
 function renderCatChips(){
   const keys = catKeys(st.kind);
   if(!keys.some(k => st.cats[k]) && !Object.keys(st.cats).some(k => st.cats[k])) keys.forEach(k => st.cats[k] = true);
-  const pool = EV.filter(e => evKind(e)===st.kind);
+  const pool = EV.filter(e => inKindView(e, st.kind));
   $('#f-cat').innerHTML = keys.map(c => {
-    const n = pool.filter(e => e.category===c).length;
+    const n = pool.filter(e => matchesCatChip(e, st.kind, {[c]:true})).length;
     const lab = catDict()[c] || (c.charAt(0).toUpperCase()+c.slice(1));
     return `<button type="button" data-v="${esc(c)}" class="${st.cats[c]?'on':''} ${esc(c)}"><i class="dot ${esc(c)}"></i>${esc(lab)} <small>${n}</small></button>`;
   }).join('');
@@ -970,10 +993,10 @@ function updateKindbar(){
     b.setAttribute('aria-selected', on?'true':'false');
   });
   const nc = $('#kind-n-conference'), nf = $('#kind-n-festival'), ns = $('#kind-n-sports'), ne = $('#kind-n-expo');
-  if(nc) nc.textContent = EV.filter(e => evKind(e)==='conference').length;
-  if(nf) nf.textContent = EV.filter(e => evKind(e)==='festival').length;
-  if(ns) ns.textContent = EV.filter(e => evKind(e)==='sports').length;
-  if(ne) ne.textContent = EV.filter(e => evKind(e)==='expo').length;
+  if(nc) nc.textContent = EV.filter(e => inKindView(e, 'conference')).length;
+  if(nf) nf.textContent = EV.filter(e => inKindView(e, 'festival')).length;
+  if(ns) ns.textContent = EV.filter(e => inKindView(e, 'sports')).length;
+  if(ne) ne.textContent = EV.filter(e => inKindView(e, 'expo')).length;
   const app = $('#app');
   if(app) app.dataset.kind = st.kind;
 }
@@ -990,7 +1013,7 @@ function setKind(k){
   st.cityq = '';
   const q = $('#f-cityq'); if(q) q.value='';
   st.cats = Object.fromEntries(catKeys(k).map(c => [c, true]));
-  if(st.region!=='all' && !EV.some(e => evKind(e)===k && evRegion(e)===st.region)){
+  if(st.region!=='all' && !EV.some(e => inKindView(e, k) && evRegion(e)===st.region)){
     st.region = 'all';
   }
   if(st.country && !kindPool().some(e => placeSlug(e.country)===placeSlug(st.country))){
@@ -1009,7 +1032,7 @@ function setKind(k){
   const m = (location.hash||'').match(/event\/([^/]+)/);
   if(m){
     const ev = EV.find(x => x.slug===decodeURIComponent(m[1]));
-    if(ev && evKind(ev)!==k){
+    if(ev && !inKindView(ev, k)){
       const next = viewHomeHash();
       if(location.hash!==next) location.hash = next;
     }
@@ -1294,10 +1317,10 @@ function priceOk(e){
 function visibleEvents(){
   const q = st.q;
   return EV.filter(e => {
-    if(evKind(e)!==st.kind) return false;
+    if(!inKindView(e, st.kind)) return false;
     if(st.region!=='all' && evRegion(e)!==st.region) return false;
     if(st.country && placeSlug(e.country)!==placeSlug(st.country)) return false;
-    if(!st.cats[e.category]) return false;
+    if(!matchesCatChip(e, st.kind, st.cats)) return false;
     if(!overlapsDate(e)) return false;
     if(st.cities.size){
       const key = (e.city||'Unknown')+'|'+(e.country||'');
@@ -1433,7 +1456,7 @@ function bindMediaFallback(sel){
 
 
 function emptyMessage(){
-  const kindAll = EV.filter(e => evKind(e)===st.kind);
+  const kindAll = EV.filter(e => inKindView(e, st.kind));
   if(!kindAll.length){
     return st.kind==='festival'
       ? 'Festival listings are still being compiled.'
