@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T13:34:09Z",
+ "generated": "2026-11-24T13:36:57Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -310073,7 +310073,7 @@ window.ATLASDATA={
    "exhibition_sqm": 400000,
    "halls": "Official NECC Shanghai materials describe a four-leaf-clover layout with 400,000 m² of indoor exhibition halls and 100,000 m² of outdoor exhibition space (500,000 m² exhibition area in total if indoor and outdoor are added). Headline exhibition_sqm uses the official indoor 400,000 m² figure.",
    "description": "National Exhibition and Convention Center (Shanghai), the ‘four-leaf clover’ at Hongqiao, named for Auto Shanghai, SNEC PV+ES, CIIE and Comicup. Atlas strings that add ‘(Four-leaf Clover)’ are this campus. exhibition_sqm is the official indoor exhibition figure of 400,000 m²; official outdoor 100,000 m² is not included. A detailed official English venue page did not return usable HTML in this pass; figures follow official NECC Shanghai pages/materials cited in source_urls. Official people capacities for a campus headline were not confirmed here, so capacity_max_delegates is null. A street number was not confirmed from the captured official text. Coordinates are the atlas precise pin.",
-   "photo": "img/venues/national-exhibition-and-convention-center-shanghai-1.jpg",
+   "photo": null,
    "linked_event_slugs": [
     "auto-shanghai-2027",
     "snec-pv-es-expo-2027",
@@ -310117,17 +310117,7 @@ window.ATLASDATA={
      "source_url": "https://www.neccsh.com/cecsh/industryevents/265.jhtml"
     }
    ],
-   "documents": [],
-   "photos": [
-    {
-     "src": "img/venues/national-exhibition-and-convention-center-shanghai-1.jpg",
-     "thumb": "img/venues/national-exhibition-and-convention-center-shanghai-1-t.jpg",
-     "orig": "",
-     "page": "https://commons.wikimedia.org/wiki/File:China_Eastern_Airlines_fly_above_National_Exhibition_and_Convention_Centre.jpg",
-     "credit": "Photo: Simon Wade / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Aerial view from a landing aircraft of the clover-shaped National Exhibition and Convention Center (Shanghai), 2020."
-    }
-   ]
+   "documents": []
   },
   {
    "slug": "national-exhibition-and-convention-center-tianjin",
@@ -313468,7 +313458,7 @@ window.ATLASDATA={
    "exhibition_sqm": 120000,
    "halls": "Official facts-and-figures page: 120,000 m² of exhibition space divided into seven halls of 10,500 m² each, a multifunctional trade fair and event hall of 26,800 m², Hall 10 of 14,600 m², and a hall in the ICS International Congress Center Stuttgart of 4,900 m².",
    "description": "Stuttgart's airport-adjacent exhibition and congress campus, operated by Landesmesse Stuttgart. Official company facts give 120,000 m² of exhibition space across the hall mix above, including the ICS International Congress Center. No atlas-listed conference or expo was linked to this venue in the current unique event set, so it is included as one of Germany's largest remaining centres.",
-   "photo": "img/venues/messe-stuttgart-1.jpg",
+   "photo": null,
    "linked_event_slugs": [],
    "sources": [
     {
@@ -313479,16 +313469,6 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "photos": [
-    {
-     "src": "img/venues/messe-stuttgart-1.jpg",
-     "thumb": "img/venues/messe-stuttgart-1-t.jpg",
-     "orig": "",
-     "page": "https://commons.wikimedia.org/wiki/File:Stuttgart_Airport_and_Messe_Stuttgart_with_Bosch_Car_Park_(2019)_crop.jpg",
-     "credit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Aerial view of Messe Stuttgart beside Stuttgart Airport, Germany, in 2019."
-    }
-   ],
    "socials": [
     {
      "platform": "linkedin",
