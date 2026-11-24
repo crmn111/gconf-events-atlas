@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crmn111.github.io/gconf-events-atlas/sitemap.xml
