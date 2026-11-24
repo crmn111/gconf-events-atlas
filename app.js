@@ -185,6 +185,8 @@ const ISO = {
   Mexico:'MX', Brazil:'BR', Chile:'CL', Colombia:'CO', Panama:'PA', Peru:'PE', Uruguay:'UY', 'South Africa':'ZA', 'Saudi Arabia':'SA',
   Jordan:'JO', Nigeria:'NG', Kuwait:'KW', Oman:'OM',
   Indonesia:'ID',
+  'Costa Rica':'CR', Cyprus:'CY', Philippines:'PH', Rwanda:'RW', Vietnam:'VN',
+  Macao:'MO',
   'Sri Lanka':'LK',
   Taiwan:'TW',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',

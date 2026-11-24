@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T11:32:51Z",
+ "generated": "2026-11-24T11:38:06Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -2062,33 +2062,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://seoul.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://seoul.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://seoul.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-autumn-itapa-2026",
@@ -2213,37 +2187,7 @@ window.ATLASDATA={
    "price_eur_min": 110.0,
    "price_eur_max": 450.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/itapask",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCbPoNH7Yx2oqJLkfNbbpygw",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/itapa.bratislava",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/itapa",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-davis-cup-finals-2026",
@@ -2317,49 +2261,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/daviscup",
-     "operator": "Davis Cup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.daviscup.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@daviscup",
-     "operator": "Davis Cup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.daviscup.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCsyvlpbK0BTEc3jec6nhPyQ",
-     "operator": "Davis Cup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.daviscup.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/daviscup",
-     "operator": "Davis Cup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.daviscup.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/DavisCupTennis",
-     "operator": "Davis Cup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.daviscup.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-gaming-pulse-2026",
@@ -2442,41 +2344,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/deloitte",
-     "operator": "Deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/deloitte",
-     "operator": "Deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/deloitte",
-     "operator": "Deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/deloittevideo",
-     "operator": "Deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-majlis-ai-gatherings-khobar",
@@ -2540,16 +2408,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/majlis.ai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://majlisai.sa/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-taipei-py-meetup",
@@ -2613,16 +2472,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/taipei_py",
-     "verified_via": "official_listing",
-     "source_url": "https://www.meetup.com/taipei_py/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-seoul-independent-film-festival-2026",
@@ -2687,37 +2537,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/siff.kr",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://siff.kr/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EC%A0%9C",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://siff.kr/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/siff_kr",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://siff.kr/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/siff.kr",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://siff.kr/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ae-global-summit-2026",
@@ -2823,23 +2643,7 @@ window.ATLASDATA={
    "price_eur_min": 52.2,
    "price_eur_max": 104.4,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/thoughtchannel_",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.algopreneurship.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "luma",
-     "url": "https://luma.com/8uu3vclv",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.algopreneurship.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-wellington",
@@ -2908,33 +2712,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wellington.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wellington.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wellington.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-buch-wien-2026",
@@ -3036,37 +2814,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@buch_wien",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.buchwien.at/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/buchwien",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.buchwien.at/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/buchwien",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.buchwien.at/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/buch-wien",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.buchwien.at/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-crypto-hub-malta-meetup",
@@ -3136,30 +2884,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/cryptohubmalta",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cryptohubmalta.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/crypto-%C4%A7ub-malta",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cryptohubmalta.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/crypto-hub-malta",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cryptohubmalta.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-deai-summit-malta-2026",
@@ -3222,51 +2947,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/deai-summit",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/deaisummit",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/deaisummit",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/deaisummit",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@DeAISummit",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "luma",
-     "url": "https://luma.com/phjit31c",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://deaisummit.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-didac-india-2026",
@@ -3332,44 +3013,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/didac-india",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.didacindia.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/didacindia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.didacindia.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/DidacIndia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.didacindia.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/didacindia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.didacindia.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/DidacIndia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.didacindia.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-dubai-international-boat-show-2026",
@@ -3434,51 +3078,7 @@ window.ATLASDATA={
    "price_eur_min": 15.0,
    "price_eur_max": 15.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/dibshow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/dubai-international-boat-show",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/dubaiboat",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/DubaiBoatShow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/DubaiBoatShow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@boatshowdubai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://boatshowdubai.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-idc-cio-summit-qatar-2026",
@@ -3596,25 +3196,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/idc-meta",
-     "operator": "IDC",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://event.idc.com/event/idc-cio-summit-qatar/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@idcmetaevents",
-     "operator": "IDC",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://event.idc.com/event/idc-cio-summit-qatar/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-korea-fintech-week-2026",
@@ -3679,23 +3261,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/fintechcenterkorea",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fintechweek.or.kr/en/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/c/KORfintech",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fintechweek.or.kr/en/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-paris-nautic-show-2026",
@@ -3769,30 +3335,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/paris.nautic.show",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.parisnauticshow.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/paris_nautic_show",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.parisnauticshow.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/paris-nautic-show",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.parisnauticshow.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-python-user-group-singapore",
@@ -3866,23 +3409,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/python-user-group-singapore",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://pugs.org.sg/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/singapore-python-user-group",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://pugs.org.sg/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-sydjs-sydney",
@@ -3956,37 +3483,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/en-AU/sydjs-classic",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydjs.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/sydjs",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydjs.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/sydjs",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydjs.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@SydJSMeetup",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydjs.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-vancouver-ai-meetup",
@@ -4060,51 +3557,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/britishcolumbia-ai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/bc.ai.ecosystem",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@van_ai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/vancouver_ai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/v4nc0uv3r",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "luma",
-     "url": "https://luma.com/nov-vanai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://bc-ai.ca/events",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-sao-paulo",
@@ -4173,33 +3626,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://saopaulo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://saopaulo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://saopaulo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-tokyo",
@@ -4268,33 +3695,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tokyo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tokyo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tokyo.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-toronto",
@@ -4363,33 +3764,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://toronto.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://toronto.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://toronto.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-affordable-art-fair-singapore-2026",
@@ -4453,16 +3828,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/affordableartfairsg",
-     "verified_via": "site_in_bio",
-     "source_url": "https://affordableartfair.com/fairs/singapore/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-amsterdam-light-festival-2026",
@@ -4543,37 +3909,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/AmsterdamLightFestival",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://amsterdamlightfestival.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/amsterdamlightfestival",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://amsterdamlightfestival.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/AmsterLightFestival",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://amsterdamlightfestival.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/amsterdam-light-festival",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://amsterdamlightfestival.com/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-boot-fun-berlin-2026",
@@ -4651,38 +3987,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/BOOTUNDFUN",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.outventure-berlin.de/de",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCA7P-p963UCzweUWoGsILjQ",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.outventure-berlin.de/de",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/boot-fun-berlin",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.outventure-berlin.de/de",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/outventure.berlin",
-     "operator": "OutVenture",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.outventure-berlin.de/de",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-brave-ai-poznan",
@@ -4751,37 +4056,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "luma",
-     "url": "https://luma.com/poznan_Q4",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/poznan_Q4",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/brave.courses",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/poznan_Q4",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@bravecourses",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/poznan_Q4",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/brave-courses",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/poznan_Q4",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-china-hi-tech-fair-2026",
@@ -4960,48 +4235,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "luma",
-     "url": "https://luma.com/claude-meetup-mvd-26nov",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/thisisqubika",
-     "operator": "Qubika",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/thisisqubika",
-     "operator": "Qubika",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@thisisqubika",
-     "operator": "Qubika",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/qubika",
-     "operator": "Qubika",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://luma.com/claude-meetup-mvd-26nov",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-data-science-summit-2026",
@@ -5074,37 +4308,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/dssconf",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://main.dssconf.pl/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/dssconf",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://main.dssconf.pl/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/dssconf",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://main.dssconf.pl/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/Data-Science-Warsaw",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://main.dssconf.pl/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-fauna-primavera-2026",
@@ -5169,16 +4373,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/faunaprimaverafest",
-     "verified_via": "named_on_official_site",
-     "source_url": "https://faunaprimavera.cl/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-hive-furniture-show-2026",
@@ -5480,44 +4675,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/Pykonik",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.pykonik.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Pykonik-87835845639",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.pykonik.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/pykonik",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.pykonik.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@pykonik-krk",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.pykonik.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "github",
-     "url": "https://github.com/meetpy",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.pykonik.org/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-sydpy-sydney",
@@ -5660,37 +4818,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/techxpoeu",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://techxpo.eu/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/techxpoeu",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://techxpo.eu/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/techxpoeu",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://techxpo.eu/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@techxpoeu",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://techxpo.eu/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-anime-festival-asia-singapore-2026",
@@ -5796,30 +4924,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/animefestivalasia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://animefestival.asia/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/animefestasia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://animefestival.asia/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/animefestivalasia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://animefestival.asia/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-christmas-wonderland-2026",
@@ -6003,51 +5108,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "discord",
-     "url": "https://discord.gg/dreamhack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/dreamhack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/dreamhack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@dreamhack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/DreamHack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/dreamhack",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://dreamhack.com/stockholm/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ethwarsaw-meetup",
@@ -6122,23 +5183,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "telegram",
-     "url": "https://t.me/joinethwarsaw",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ethwarsaw.dev/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/ethwarsaw",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ethwarsaw.dev/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-f1-qatar-grand-prix-2026",
@@ -6240,41 +5285,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Formula1",
-     "operator": "F1",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/f1",
-     "operator": "F1",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/f1",
-     "operator": "F1",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/F1",
-     "operator": "F1",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.formula1.com/en/racing/2026/qatar",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-malaysia-art-ecosystem-fair-2026",
@@ -6508,81 +5519,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/MotoGP",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/motogp",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "threads",
-     "url": "https://www.threads.net/@motogp",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/MotoGP",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@motogp",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/MotoGP",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/motogp",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "whatsapp",
-     "url": "https://www.whatsapp.com/channel/0029Va4R14Z1iUxYGtYvLg2M",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "telegram",
-     "url": "https://t.me/motogp",
-     "operator": "MotoGP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.motogp.com/en/calendar/2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-other-voices-dingle-2026",
@@ -6661,44 +5598,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@OtherVoicesLive",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.othervoices.ie/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/othervoiceslive",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.othervoices.ie/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/othervoiceslive",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.othervoices.ie/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/othervoices",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.othervoices.ie/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@othervoices",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.othervoices.ie/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-pattaya-international-fireworks-festival-2026",
@@ -6762,17 +5662,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/Tourism.Pattaya.Office",
-     "operator": "Tourism Pattaya Office",
-     "verified_via": "linked_from_official_listing",
-     "source_url": "https://www.thailandtravel.or.jp/news/170948/",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-together-festival-2026",
@@ -6841,16 +5731,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/TogetherFestival",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.bitec.co.th/event/together-festival-2026",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-world-bachata-festival-kuala-lumpur-2026",
@@ -6998,58 +5879,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "discord",
-     "url": "https://discord.com/invite/Fxeyxp8Za4",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/rAgeNationGG",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/ragenation_gg",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/rAgeNation_GG",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@rAgeNationLive",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@ragenation_gg",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/rage-nation",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://ragenation.gg/info",
-     "accessed_at": "2026-11-24T12:10:00+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-binance-blockchain-week-bangkok-2026",
@@ -7119,51 +5949,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/binance",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/Binance/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/binanceyoutube",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/binance",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/binance",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@binance",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.binanceblockchainweek.com/event/Bangkok2026",
-     "accessed_at": "2026-11-24T12:03:36+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-chart-book-print-fair-2026",
@@ -7245,16 +6031,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/chartartfaircph",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://chartartfair.com/",
-     "accessed_at": "2026-11-24T12:16:59+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-coca-cola-flow-fest-2026",
@@ -7318,44 +6095,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/CocaColaFlow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/CocaCola_Flow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/cocacola_flow/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@cocacola_flow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "threads",
-     "url": "https://www.threads.net/@cocacola_flow",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.cocacolaflowfest.com.mx/informacion",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-cryptocon-sydney-2026",
@@ -7434,37 +6174,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AusCryptoCon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydneycryptocon.com/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/auscryptocon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydneycryptocon.com/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/auscryptocon/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydneycryptocon.com/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/australian-crypto-convention",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sydneycryptocon.com/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-devfest-amman-2026",
@@ -7621,51 +6331,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/filgdl",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/filguadalajara",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@filguadalajara",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/filguadalajara",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/filguadalajara/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/filguadalajara",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.fil.com.mx/info/informacion.asp",
-     "accessed_at": "2026-11-24T12:03:35+01:00"
-    }
-   ]
+   "photoCredit": "Photo: Freddy eduardo / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-hanoi-international-film-festival-2026",
@@ -7813,37 +6479,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/jaffjogja/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jaff-filmfest.org/schedule/",
-     "accessed_at": "2026-11-24T12:12:03+01:00"
-    },
-    {
-     "platform": "threads",
-     "url": "https://www.threads.net/@jaffjogja",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jaff-filmfest.org/schedule/",
-     "accessed_at": "2026-11-24T12:12:03+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/jaffjogja",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jaff-filmfest.org/schedule/",
-     "accessed_at": "2026-11-24T12:12:03+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/JAFFJogja",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jaff-filmfest.org/schedule/",
-     "accessed_at": "2026-11-24T12:12:03+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-joyland-festival-jakarta-2026",
@@ -8003,33 +6639,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/ComicConIndia",
-     "operator": "Comic Con India",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
-     "accessed_at": "2026-11-24T12:03:34+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@Comicconindia10",
-     "operator": "Comic Con India",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
-     "accessed_at": "2026-11-24T12:03:34+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/comicconindia/",
-     "operator": "Comic Con India",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/navi-mumbai-comic-con",
-     "accessed_at": "2026-11-24T12:03:34+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-primavera-sound-buenos-aires-2026",
@@ -8215,30 +6825,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/salsaalparque",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://salsaalparque.gov.co/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/FestalParque",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://salsaalparque.gov.co/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/festivalsalsaalparque/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://salsaalparque.gov.co/",
-     "accessed_at": "2026-11-24T12:03:32+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ascilite-2026",
@@ -8366,37 +6953,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/ExpertsLiveKSA",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://expertslive.sa",
-     "accessed_at": "2026-11-24T12:03:38+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/ExpertsLiveKSA",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://expertslive.sa",
-     "accessed_at": "2026-11-24T12:03:38+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/c/CloudMechanics",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://expertslive.sa",
-     "accessed_at": "2026-11-24T12:03:38+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/expertsliveksa",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://expertslive.sa",
-     "accessed_at": "2026-11-24T12:03:38+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-aws-reinvent-2026",
@@ -8498,49 +7055,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/awscloud",
-     "operator": "AWS",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://reinvent.awsevents.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/amazonwebservices",
-     "operator": "AWS",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://reinvent.awsevents.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/amazon-web-services",
-     "operator": "AWS",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://reinvent.awsevents.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/amazonwebservices/",
-     "operator": "AWS",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://reinvent.awsevents.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/AmazonWebServices",
-     "operator": "AWS",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://reinvent.awsevents.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-animateka-2026",
@@ -8631,37 +7146,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/animateka",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.animateka.si/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UC2h_O3B7f7PEl0JvgnWHAIg",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.animateka.si/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/animateka_festival/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.animateka.si/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/animateka",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.animateka.si/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-christmas-jazz-2026",
@@ -8730,41 +7215,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/jazzkaar",
-     "operator": "Jazzkaar",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/jazzkaar/",
-     "operator": "Jazzkaar",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/jazzkaar",
-     "operator": "Jazzkaar",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCvhwpvskzVc34ffa8L6oL6A",
-     "operator": "Jazzkaar",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.jazzkaar.ee/joulujazzi-kogu-programm-on-avalik/",
-     "accessed_at": "2026-11-24T12:03:39+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-sigma-south-asia-2026",
@@ -9003,33 +7454,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/nagalandt",
-     "operator": "Nagaland Tourism",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tourism.nagaland.gov.in/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/tourismdeptgon",
-     "operator": "Nagaland Tourism",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tourism.nagaland.gov.in/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/nagalandtourism/",
-     "operator": "Nagaland Tourism",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://tourism.nagaland.gov.in/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    }
-   ]
+   "photoCredit": "Photo: Sarangakrishnachetia / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-ai-salon-gdansk",
@@ -9098,49 +7523,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "luma",
-     "url": "https://lu.ma/wo1ghtii",
-     "operator": "AI Salon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://luma.com/wo1ghtii",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/aisalon.ai/",
-     "operator": "AI Salon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://luma.com/wo1ghtii",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/aisalonai",
-     "operator": "AI Salon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://luma.com/wo1ghtii",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@AISalonGlobal",
-     "operator": "AI Salon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://luma.com/wo1ghtii",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/aisalon-ai",
-     "operator": "AI Salon",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://luma.com/wo1ghtii",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-blockchain-life-2026",
@@ -9207,37 +7590,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "telegram",
-     "url": "https://t.me/BlockchainLifeSupport",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blockchain-life.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/BlLife_Forum",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blockchain-life.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/blockchain_life_forum/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blockchain-life.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/blockchainlife2025",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://blockchain-life.com/",
-     "accessed_at": "2026-11-24T12:03:40+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-blockchain-for-europe-2026",
@@ -9301,23 +7654,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "luma",
-     "url": "https://lu.ma/bc4eu-summit-2026",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.blockchain4eu.eu/",
-     "accessed_at": "2026-11-24T12:03:41+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/blockchain-for-europe",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.blockchain4eu.eu/",
-     "accessed_at": "2026-11-24T12:03:41+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-fintech-connect-2026",
@@ -9501,23 +7838,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-accelerator-institute",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/ai_ainstitute",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://world.aiacceleratorinstitute.com/location/london/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-konark-dance-festival-2026",
@@ -9830,30 +8151,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@SuperReturnTV",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://informaconnect.com/superreturn-africa/",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/SuperReturn",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://informaconnect.com/superreturn-africa/",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/showcase/superreturn",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://informaconnect.com/superreturn-africa/",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-apidays-paris-2026",
@@ -9918,33 +8216,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/apidays-conferences",
-     "operator": "APIdays",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.apidays.global/paris/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/APIdaysGlobal",
-     "operator": "APIdays",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.apidays.global/paris/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@apidays",
-     "operator": "APIdays",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.apidays.global/paris/",
-     "accessed_at": "2026-11-24T12:03:42+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-seattle",
@@ -10125,23 +8397,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/athens.boatshow.gr",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://athensboatshow.gr/en/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/athensboatshow/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://athensboatshow.gr/en/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-build-stuff-2026",
@@ -10316,37 +8572,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/cloud-expo-nl",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cybersec.nl/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/cloudexponl",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cybersec.nl/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/cloud_expo_nl/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cybersec.nl/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/CloudExpo2026",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://cybersec.nl/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-edix-fukuoka-2026",
@@ -10410,33 +8636,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/EDIXEXPO",
-     "operator": "EDIX",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.edix-expo.jp/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/EDIX_expo",
-     "operator": "EDIX",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.edix-expo.jp/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@EDIX教育総合展",
-     "operator": "EDIX",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.edix-expo.jp/",
-     "accessed_at": "2026-11-24T12:03:47+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-educatech-expo-2026",
@@ -10699,16 +8899,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/radioromania.gaudeamus",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.gaudeamus.ro/",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-global-technology-summit-2026",
@@ -10795,44 +8986,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/CarnegieIndia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://globaltechnologysummit.com/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/carnegie-india",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://globaltechnologysummit.com/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/carnegieindia/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://globaltechnologysummit.com/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@carnegieindia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://globaltechnologysummit.com/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/carnegieindia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://globaltechnologysummit.com/",
-     "accessed_at": "2026-11-24T12:03:46+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-oeb-global-2026",
@@ -11115,44 +9269,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/SAP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/SAP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/sap",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/sap/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/SAP",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.sap.com/mena/events/sapnowriyadh.html",
-     "accessed_at": "2026-11-24T12:03:48+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-vareet-2026",
@@ -11220,23 +9337,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/vareetfest/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://vareet.fi/",
-     "accessed_at": "2026-11-24T12:03:45+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/profile.php?id=61572011213333",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://vareet.fi/",
-     "accessed_at": "2026-11-24T12:03:45+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-yow-melbourne-2026",
@@ -11300,41 +9401,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/yow_conf",
-     "operator": "YOW!",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://yowcon.com/melbourne-2026",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/yow-conference",
-     "operator": "YOW!",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://yowcon.com/melbourne-2026",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/yowconf",
-     "operator": "YOW!",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://yowcon.com/melbourne-2026",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    },
-    {
-     "platform": "bluesky",
-     "url": "https://bsky.app/profile/yowconf.bsky.social",
-     "operator": "YOW!",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://yowcon.com/melbourne-2026",
-     "accessed_at": "2026-11-24T12:03:43+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-13th-evolving-practice-of-ophthalmology-middle-east-conference-epomec-2026",
@@ -11398,44 +9465,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/EPOMECUAE",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.epomec.ae/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/EPOMECUAE",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.epomec.ae/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/epomec-uae",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.epomec.ae/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/epomec/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.epomec.ae/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/channel/UCg4f4sViPfIMPqjKFwSvAyg",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.epomec.ae/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-san-francisco",
@@ -11505,33 +9535,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sf.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sf.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://sf.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ai-tinkerers-singapore",
@@ -11600,33 +9604,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/AITinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://singapore.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:53+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@aitinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://singapore.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:53+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/ai-tinkerers",
-     "operator": "AI Tinkerers",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://singapore.aitinkerers.org/",
-     "accessed_at": "2026-11-24T12:03:53+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-adopt-ai-2026",
@@ -11696,40 +9674,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "x",
-     "url": "https://x.com/Artefact_Global",
-     "operator": "Artefact",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://adoptai.artefact.com/",
-     "accessed_at": "2026-11-24T12:03:50+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/artefact_global/",
-     "operator": "Artefact",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://adoptai.artefact.com/",
-     "accessed_at": "2026-11-24T12:03:50+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@AdoptAI-GrandPalais",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://adoptai.artefact.com/",
-     "accessed_at": "2026-11-24T12:03:50+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/artefact-global",
-     "operator": "Artefact",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://adoptai.artefact.com/",
-     "accessed_at": "2026-11-24T12:03:50+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-bio-29-2026",
@@ -11824,23 +9769,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/MAO.Slovenia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.bio.si/en/bio29",
-     "accessed_at": "2026-11-24T12:03:54+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/bio_ljubljana/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.bio.si/en/bio29",
-     "accessed_at": "2026-11-24T12:03:54+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-ccxp-2026",
@@ -11928,44 +9857,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/ccxpoficial/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ccxp.com.br/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/ccxpoficial",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ccxp.com.br/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/ccxpoficial",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ccxp.com.br/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "threads",
-     "url": "https://www.threads.net/@ccxpoficial",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ccxp.com.br/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@ccxpoficial",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.ccxp.com.br/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    }
-   ]
+   "photoCredit": "Photo: Lucio Luiz / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-ieee-icdlt-2026",
@@ -12133,44 +10025,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/jewellerybridearabia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jewellerybridearabia.com/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/jewellerybridearabia/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jewellerybridearabia.com/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/jewellery-bride-arabia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jewellerybridearabia.com/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/jbadubai",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jewellerybridearabia.com/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@JewelleryBrideArabia",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://jewellerybridearabia.com/",
-     "accessed_at": "2026-11-24T12:03:49+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-lianzhou-foto-festival-2026",
@@ -12363,44 +10218,7 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/@StockholmMLOps",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.stockholmmlops.se/events",
-     "accessed_at": "2026-11-24T12:03:52+01:00"
-    },
-    {
-     "platform": "meetup",
-     "url": "https://www.meetup.com/stockholm-mlops-community/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.stockholmmlops.se/events",
-     "accessed_at": "2026-11-24T12:03:52+01:00"
-    },
-    {
-     "platform": "luma",
-     "url": "https://lu.ma/StockholmMLOps",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.stockholmmlops.se/events",
-     "accessed_at": "2026-11-24T12:03:52+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/stockholmmlops/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.stockholmmlops.se/events",
-     "accessed_at": "2026-11-24T12:03:52+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/stockholmmlops",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.stockholmmlops.se/events",
-     "accessed_at": "2026-11-24T12:03:52+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-wonderfruit-2026",
@@ -12487,30 +10305,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
-   "socials": [
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/wonderfruit/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wonderfruit.co/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    },
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/wonderfruitfest",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wonderfruit.co/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/Wonderfruitfest",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://wonderfruit.co/",
-     "accessed_at": "2026-11-24T12:03:55+01:00"
-    }
-   ]
+   "photoCredit": ""
   },
   {
    "event_id": "GCE-agf-2026",
@@ -246324,6 +244119,416 @@ window.ATLASDATA={
    "prices_by_event": null
   },
   {
+   "name": "Emiliano São Paulo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "384 Rua Oscar Freire, 01426-000 São Paulo",
+   "lat": -23.5660349,
+   "lon": -46.6652554,
+   "distance_km": {
+    "gamescom-latam-2027": 6.01,
+    "anime-friends-2027": 6.01,
+    "brasil-game-show-2027": 6.01,
+    "febraban-tech-2027": 6.01,
+    "carnaval-sao-paulo-2027": 5.88,
+    "ccxp-2026": 9.51,
+    "vtex-day-2027": 9.51,
+    "futurecom-2027": 9.51,
+    "bangers-open-air-2027": 4.28,
+    "bett-brasil-2027": 8.23,
+    "bienal-de-sao-paulo-2027": 2.51,
+    "sp-arte-2027": 2.51,
+    "c6-fest-2027": 2.51,
+    "geduc-2027": 6.37
+   },
+   "url": "https://www.forbestravelguide.com/hotels/sao-paulo-brazil/emiliano-sao-paulo",
+   "event_slugs": [
+    "anime-friends-2027",
+    "bangers-open-air-2027",
+    "bett-brasil-2027",
+    "bienal-de-sao-paulo-2027",
+    "brasil-game-show-2027",
+    "c6-fest-2027",
+    "carnaval-sao-paulo-2027",
+    "ccxp-2026",
+    "febraban-tech-2027",
+    "futurecom-2027",
+    "gamescom-latam-2027",
+    "geduc-2027",
+    "sp-arte-2027",
+    "vtex-day-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Hotel Fasano São Paulo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Rua Vitório Fasano, 01415-009 São Paulo",
+   "lat": -23.56445,
+   "lon": -46.6695253,
+   "distance_km": {
+    "gamescom-latam-2027": 6.04,
+    "anime-friends-2027": 6.04,
+    "brasil-game-show-2027": 6.04,
+    "febraban-tech-2027": 6.04,
+    "carnaval-sao-paulo-2027": 5.88,
+    "ccxp-2026": 9.85,
+    "vtex-day-2027": 9.85,
+    "futurecom-2027": 9.85,
+    "bangers-open-air-2027": 4.13,
+    "bett-brasil-2027": 8.4,
+    "bienal-de-sao-paulo-2027": 2.82,
+    "sp-arte-2027": 2.82,
+    "c6-fest-2027": 2.82,
+    "geduc-2027": 6.19,
+    "mind-the-sec-2027": 10.64,
+    "gartner-it-symposium-xpo-brazil-2027": 5.63
+   },
+   "url": "https://www.forbestravelguide.com/hotels/sao-paulo-brazil/hotel-fasano-sao-paulo",
+   "event_slugs": [
+    "anime-friends-2027",
+    "bangers-open-air-2027",
+    "bett-brasil-2027",
+    "bienal-de-sao-paulo-2027",
+    "brasil-game-show-2027",
+    "c6-fest-2027",
+    "carnaval-sao-paulo-2027",
+    "ccxp-2026",
+    "febraban-tech-2027",
+    "futurecom-2027",
+    "gamescom-latam-2027",
+    "gartner-it-symposium-xpo-brazil-2027",
+    "geduc-2027",
+    "mind-the-sec-2027",
+    "sp-arte-2027",
+    "vtex-day-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Palácio Tangará",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Rua Deputado Laércio Corte, 05707-400 São Paulo",
+   "lat": -23.6318149,
+   "lon": -46.7225683,
+   "distance_km": {
+    "ccxp-2026": 9.59,
+    "vtex-day-2027": 9.59,
+    "futurecom-2027": 9.59,
+    "lollapalooza-brasil-2027": 8.21,
+    "the-town-2027": 8.21,
+    "bangers-open-air-2027": 12.97,
+    "bienal-de-sao-paulo-2027": 8.16,
+    "sp-arte-2027": 8.16,
+    "c6-fest-2027": 8.16,
+    "mind-the-sec-2027": 1.94,
+    "gartner-it-symposium-xpo-brazil-2027": 3.72
+   },
+   "url": "https://www.forbestravelguide.com/hotels/sao-paulo-brazil/palacio-tangara",
+   "event_slugs": [
+    "bangers-open-air-2027",
+    "bienal-de-sao-paulo-2027",
+    "c6-fest-2027",
+    "ccxp-2026",
+    "futurecom-2027",
+    "gartner-it-symposium-xpo-brazil-2027",
+    "lollapalooza-brasil-2027",
+    "mind-the-sec-2027",
+    "sp-arte-2027",
+    "the-town-2027",
+    "vtex-day-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 630.09,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "ccxp-2026",
+    "check_in": "2026-12-03",
+    "check_out": "2026-12-05",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "ccxp-2026": {
+     "amount": 630.09,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "ccxp-2026",
+     "check_in": "2026-12-03",
+     "check_out": "2026-12-05",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Four Seasons Hotel Toronto",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "60 Yorkville Avenue, M4W 1L5 Toronto",
+   "lat": 43.6718141,
+   "lon": -79.3898576,
+   "distance_km": {
+    "fan-expo-canada-2027": 3.12,
+    "toronto-comicon-2027": 3.12,
+    "sector-2027": 3.12,
+    "canadian-national-exhibition-2027": 4.81,
+    "toronto-international-boat-show-2027": 4.47,
+    "tiff-2027": 2.79
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/four-seasons-hotel-toronto",
+   "event_slugs": [
+    "canadian-national-exhibition-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Shangri-La Hotel, Toronto",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "188 University Avenue, M5H 2L2 Toronto",
+   "lat": 43.6492023,
+   "lon": -79.3862916,
+   "distance_km": {
+    "fan-expo-canada-2027": 0.6,
+    "toronto-comicon-2027": 0.6,
+    "sector-2027": 0.6,
+    "canadian-national-exhibition-2027": 3.07,
+    "toronto-international-boat-show-2027": 2.66,
+    "tiff-2027": 0.44,
+    "cdao-canada-2027": 0.54,
+    "canadian-ai-2027": 1.19
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/shangri-la-hotel-toronto",
+   "event_slugs": [
+    "canadian-ai-2027",
+    "canadian-national-exhibition-2027",
+    "cdao-canada-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Hazelton Hotel",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "118 Yorkville Avenue, M5R 1C2 Toronto",
+   "lat": 43.6708919,
+   "lon": -79.3936683,
+   "distance_km": {
+    "fan-expo-canada-2027": 3.06,
+    "toronto-comicon-2027": 3.06,
+    "sector-2027": 3.06,
+    "canadian-national-exhibition-2027": 4.58,
+    "toronto-international-boat-show-2027": 4.25,
+    "tiff-2027": 2.7,
+    "cdao-canada-2027": 2.72,
+    "canadian-ai-2027": 1.3
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/the-hazelton-hotel",
+   "event_slugs": [
+    "canadian-ai-2027",
+    "canadian-national-exhibition-2027",
+    "cdao-canada-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The St. Regis Toronto",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "325 Bay Street, M5H 4G3 Toronto",
+   "lat": 43.6497715,
+   "lon": -79.3803057,
+   "distance_km": {
+    "fan-expo-canada-2027": 0.84,
+    "toronto-comicon-2027": 0.84,
+    "sector-2027": 0.84,
+    "canadian-national-exhibition-2027": 3.51,
+    "toronto-international-boat-show-2027": 3.1,
+    "tiff-2027": 0.89,
+    "cdao-canada-2027": 1.0,
+    "canadian-ai-2027": 1.31
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/the-st-regis-toronto",
+   "event_slugs": [
+    "canadian-ai-2027",
+    "canadian-national-exhibition-2027",
+    "cdao-canada-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Park Hyatt Toronto",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "4 Avenue Road, M5S 1M4 Toronto",
+   "lat": 43.6691956,
+   "lon": -79.3946177,
+   "distance_km": {
+    "fan-expo-canada-2027": 2.89,
+    "toronto-comicon-2027": 2.89,
+    "sector-2027": 2.89,
+    "canadian-national-exhibition-2027": 4.38,
+    "toronto-international-boat-show-2027": 4.05,
+    "tiff-2027": 2.52,
+    "cdao-canada-2027": 2.54,
+    "canadian-ai-2027": 1.15
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/park-hyatt-toronto",
+   "event_slugs": [
+    "canadian-ai-2027",
+    "canadian-national-exhibition-2027",
+    "cdao-canada-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Ritz-Carlton, Toronto",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "181 Wellington Street West, M5V 3C7 Toronto",
+   "lat": 43.6453385,
+   "lon": -79.3870849,
+   "distance_km": {
+    "fan-expo-canada-2027": 0.17,
+    "toronto-comicon-2027": 0.17,
+    "sector-2027": 0.17,
+    "canadian-national-exhibition-2027": 2.79,
+    "toronto-international-boat-show-2027": 2.38,
+    "tiff-2027": 0.32,
+    "cdao-canada-2027": 0.4,
+    "canadian-ai-2027": 1.61
+   },
+   "url": "https://www.forbestravelguide.com/hotels/toronto-canada/the-ritz-carlton-toronto",
+   "event_slugs": [
+    "canadian-ai-2027",
+    "canadian-national-exhibition-2027",
+    "cdao-canada-2027",
+    "fan-expo-canada-2027",
+    "sector-2027",
+    "tiff-2027",
+    "toronto-comicon-2027",
+    "toronto-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
    "name": "SO/Berlin Das Stue",
    "stars": 5,
    "rating_system": null,
@@ -257458,6 +255663,738 @@ window.ATLASDATA={
    "prices_by_event": null
   },
   {
+   "name": "Four Seasons Hotel Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "8 Finance Street, Central and Western District",
+   "lat": 22.2866255,
+   "lon": 114.156663,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.75,
+    "acghk-2027": 1.75,
+    "art-basel-hong-kong-2027": 1.75,
+    "hktdc-education-careers-expo-2027": 1.75,
+    "innoex-2027": 1.75,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.75,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.75,
+    "filmart-2027": 1.75,
+    "hong-kong-web3-festival-2027": 1.75,
+    "learning-teaching-expo-2027": 1.75,
+    "bitcoin-asia-2027": 1.75,
+    "consensus-hong-kong-2027": 1.75,
+    "ai-plus-power-2027": 1.75,
+    "aws-summit-hong-kong-2027": 1.75,
+    "asian-financial-forum-2027": 1.75,
+    "clockenflap-2026": 0.67,
+    "art-central-2027": 0.67,
+    "hong-kong-arts-festival-2027": 1.62,
+    "hong-kong-international-film-festival-2027": 1.62,
+    "mid-autumn-lantern-carnival-2027": 3.39,
+    "westk-funfest-2027": 1.8
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/four-seasons-hotel-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Mandarin Oriental The Landmark, Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "15 Queen's Road Central, Central and Western District",
+   "lat": 22.2808167,
+   "lon": 114.157722,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.59,
+    "acghk-2027": 1.59,
+    "art-basel-hong-kong-2027": 1.59,
+    "hktdc-education-careers-expo-2027": 1.59,
+    "innoex-2027": 1.59,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.59,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.59,
+    "filmart-2027": 1.59,
+    "hong-kong-web3-festival-2027": 1.59,
+    "learning-teaching-expo-2027": 1.59,
+    "bitcoin-asia-2027": 1.59,
+    "consensus-hong-kong-2027": 1.59,
+    "ai-plus-power-2027": 1.59,
+    "aws-summit-hong-kong-2027": 1.59,
+    "asian-financial-forum-2027": 1.59,
+    "clockenflap-2026": 0.6,
+    "art-central-2027": 0.6,
+    "mid-autumn-lantern-carnival-2027": 3.23,
+    "westk-funfest-2027": 2.39
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/mandarin-oriental-the-landmark-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Mandarin Oriental, Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "5 Connaught Road Central, Central and Western District",
+   "lat": 22.2818858,
+   "lon": 114.1593965,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.41,
+    "acghk-2027": 1.41,
+    "art-basel-hong-kong-2027": 1.41,
+    "hktdc-education-careers-expo-2027": 1.41,
+    "innoex-2027": 1.41,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.41,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.41,
+    "filmart-2027": 1.41,
+    "hong-kong-web3-festival-2027": 1.41,
+    "learning-teaching-expo-2027": 1.41,
+    "bitcoin-asia-2027": 1.41,
+    "consensus-hong-kong-2027": 1.41,
+    "ai-plus-power-2027": 1.41,
+    "aws-summit-hong-kong-2027": 1.41,
+    "asian-financial-forum-2027": 1.41,
+    "clockenflap-2026": 0.39,
+    "art-central-2027": 0.39,
+    "hong-kong-arts-festival-2027": 1.74,
+    "hong-kong-international-film-festival-2027": 1.74,
+    "mid-autumn-lantern-carnival-2027": 3.06,
+    "westk-funfest-2027": 2.23
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/mandarin-oriental-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Regent Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "18 Salisbury Road, Tsim Sha Tsui",
+   "lat": 22.293893,
+   "lon": 114.1738373,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.26,
+    "acghk-2027": 1.26,
+    "art-basel-hong-kong-2027": 1.26,
+    "hktdc-education-careers-expo-2027": 1.26,
+    "innoex-2027": 1.26,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.26,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.26,
+    "filmart-2027": 1.26,
+    "hong-kong-web3-festival-2027": 1.26,
+    "learning-teaching-expo-2027": 1.26,
+    "bitcoin-asia-2027": 1.26,
+    "consensus-hong-kong-2027": 1.26,
+    "ai-plus-power-2027": 1.26,
+    "aws-summit-hong-kong-2027": 1.26,
+    "asian-financial-forum-2027": 1.26,
+    "clockenflap-2026": 1.61,
+    "art-central-2027": 1.61,
+    "hong-kong-arts-festival-2027": 0.35,
+    "hong-kong-international-film-festival-2027": 0.35,
+    "mid-autumn-lantern-carnival-2027": 2.11,
+    "westk-funfest-2027": 1.41
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/regent-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Peninsula Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "22 Salisbury Road, Yau Tsim Mong District",
+   "lat": 22.295066,
+   "lon": 114.1717888,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.39,
+    "acghk-2027": 1.39,
+    "art-basel-hong-kong-2027": 1.39,
+    "hktdc-education-careers-expo-2027": 1.39,
+    "innoex-2027": 1.39,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.39,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.39,
+    "filmart-2027": 1.39,
+    "hong-kong-web3-festival-2027": 1.39,
+    "learning-teaching-expo-2027": 1.39,
+    "bitcoin-asia-2027": 1.39,
+    "consensus-hong-kong-2027": 1.39,
+    "ai-plus-power-2027": 1.39,
+    "aws-summit-hong-kong-2027": 1.39,
+    "asian-financial-forum-2027": 1.39,
+    "clockenflap-2026": 1.57,
+    "art-central-2027": 1.57,
+    "hong-kong-arts-festival-2027": 0.2,
+    "hong-kong-international-film-festival-2027": 0.2,
+    "mid-autumn-lantern-carnival-2027": 2.35,
+    "westk-funfest-2027": 1.17
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/the-peninsula-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Ritz-Carlton, Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 Austin Road West, Hong Kong",
+   "lat": 22.3033024,
+   "lon": 114.1601775,
+   "distance_km": {
+    "hong-kong-arts-festival-2027": 1.5,
+    "hong-kong-international-film-festival-2027": 1.5,
+    "westk-funfest-2027": 0.34
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/the-ritz-carlton-hong-kong",
+   "event_slugs": [
+    "hong-kong-arts-festival-2027",
+    "hong-kong-international-film-festival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The St. Regis Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 Harbour Drive, Hong Kong",
+   "lat": 22.2801557,
+   "lon": 114.1748252,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 0.33,
+    "acghk-2027": 0.33,
+    "art-basel-hong-kong-2027": 0.33,
+    "hktdc-education-careers-expo-2027": 0.33,
+    "innoex-2027": 0.33,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 0.33,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 0.33,
+    "filmart-2027": 0.33,
+    "hong-kong-web3-festival-2027": 0.33,
+    "learning-teaching-expo-2027": 0.33,
+    "bitcoin-asia-2027": 0.33,
+    "consensus-hong-kong-2027": 0.33,
+    "ai-plus-power-2027": 0.33,
+    "aws-summit-hong-kong-2027": 0.33,
+    "asian-financial-forum-2027": 0.33,
+    "clockenflap-2026": 1.33,
+    "art-central-2027": 1.33,
+    "hong-kong-arts-festival-2027": 1.57,
+    "hong-kong-international-film-festival-2027": 1.57,
+    "mid-autumn-lantern-carnival-2027": 1.48
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/the-st-regis-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Grand Hyatt Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Convention Avenue, Wan Chai District",
+   "lat": 22.2812682,
+   "lon": 114.172048,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 0.18,
+    "acghk-2027": 0.18,
+    "art-basel-hong-kong-2027": 0.18,
+    "hktdc-education-careers-expo-2027": 0.18,
+    "innoex-2027": 0.18,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 0.18,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 0.18,
+    "filmart-2027": 0.18,
+    "hong-kong-web3-festival-2027": 0.18,
+    "learning-teaching-expo-2027": 0.18,
+    "bitcoin-asia-2027": 0.18,
+    "consensus-hong-kong-2027": 0.18,
+    "ai-plus-power-2027": 0.18,
+    "aws-summit-hong-kong-2027": 0.18,
+    "asian-financial-forum-2027": 0.18,
+    "clockenflap-2026": 1.02,
+    "art-central-2027": 1.02,
+    "hong-kong-arts-festival-2027": 1.39,
+    "hong-kong-international-film-festival-2027": 1.39,
+    "mid-autumn-lantern-carnival-2027": 1.76,
+    "westk-funfest-2027": 2.46
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/grand-hyatt-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Island Shangri-La, Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "88 Queensway, Hong Kong",
+   "lat": 22.2772027,
+   "lon": 114.164467,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.07,
+    "acghk-2027": 1.07,
+    "art-basel-hong-kong-2027": 1.07,
+    "hktdc-education-careers-expo-2027": 1.07,
+    "innoex-2027": 1.07,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.07,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.07,
+    "filmart-2027": 1.07,
+    "hong-kong-web3-festival-2027": 1.07,
+    "learning-teaching-expo-2027": 1.07,
+    "bitcoin-asia-2027": 1.07,
+    "consensus-hong-kong-2027": 1.07,
+    "ai-plus-power-2027": 1.07,
+    "aws-summit-hong-kong-2027": 1.07,
+    "asian-financial-forum-2027": 1.07,
+    "clockenflap-2026": 0.77,
+    "art-central-2027": 0.77,
+    "mid-autumn-lantern-carnival-2027": 2.58
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/island-shangri-la-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Kowloon Shangri-La",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "64 Mody Road, Yau Tsim Mong District",
+   "lat": 22.2970544,
+   "lon": 114.1770022,
+   "distance_km": {
+    "hong-kong-arts-festival-2027": 0.77,
+    "hong-kong-international-film-festival-2027": 0.77,
+    "mid-autumn-lantern-carnival-2027": 2.16,
+    "westk-funfest-2027": 1.53
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/kowloon-shangri-la",
+   "event_slugs": [
+    "hong-kong-arts-festival-2027",
+    "hong-kong-international-film-festival-2027",
+    "mid-autumn-lantern-carnival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Murray, Hong Kong, a Niccolo Hotel",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "22 Garden Road, Hong Kong",
+   "lat": 22.2780694,
+   "lon": 114.1601224,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 1.43,
+    "acghk-2027": 1.43,
+    "art-basel-hong-kong-2027": 1.43,
+    "hktdc-education-careers-expo-2027": 1.43,
+    "innoex-2027": 1.43,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 1.43,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 1.43,
+    "filmart-2027": 1.43,
+    "hong-kong-web3-festival-2027": 1.43,
+    "learning-teaching-expo-2027": 1.43,
+    "bitcoin-asia-2027": 1.43,
+    "consensus-hong-kong-2027": 1.43,
+    "ai-plus-power-2027": 1.43,
+    "aws-summit-hong-kong-2027": 1.43,
+    "asian-financial-forum-2027": 1.43,
+    "clockenflap-2026": 0.69,
+    "art-central-2027": 0.69,
+    "westk-funfest-2027": 2.65
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/the-murray-hong-kong-a-niccolo-hotel",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Upper House Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Justice Drive, Hong Kong",
+   "lat": 22.2774946,
+   "lon": 114.1663908,
+   "distance_km": {
+    "hong-kong-book-fair-2027": 0.89,
+    "acghk-2027": 0.89,
+    "art-basel-hong-kong-2027": 0.89,
+    "hktdc-education-careers-expo-2027": 0.89,
+    "innoex-2027": 0.89,
+    "hktdc-hong-kong-electronics-fair-spring-2027": 0.89,
+    "hktdc-hong-kong-electronics-fair-autumn-2027": 0.89,
+    "filmart-2027": 0.89,
+    "hong-kong-web3-festival-2027": 0.89,
+    "learning-teaching-expo-2027": 0.89,
+    "bitcoin-asia-2027": 0.89,
+    "consensus-hong-kong-2027": 0.89,
+    "ai-plus-power-2027": 0.89,
+    "aws-summit-hong-kong-2027": 0.89,
+    "asian-financial-forum-2027": 0.89,
+    "clockenflap-2026": 0.82,
+    "art-central-2027": 0.82,
+    "hong-kong-arts-festival-2027": 1.85,
+    "hong-kong-international-film-festival-2027": 1.85,
+    "mid-autumn-lantern-carnival-2027": 2.37
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/upper-house-hong-kong",
+   "event_slugs": [
+    "acghk-2027",
+    "ai-plus-power-2027",
+    "art-basel-hong-kong-2027",
+    "art-central-2027",
+    "asian-financial-forum-2027",
+    "aws-summit-hong-kong-2027",
+    "bitcoin-asia-2027",
+    "clockenflap-2026",
+    "consensus-hong-kong-2027",
+    "filmart-2027",
+    "hktdc-education-careers-expo-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hong-kong-arts-festival-2027",
+    "hong-kong-book-fair-2027",
+    "hong-kong-international-film-festival-2027",
+    "hong-kong-web3-festival-2027",
+    "innoex-2027",
+    "learning-teaching-expo-2027",
+    "mid-autumn-lantern-carnival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "W Hong Kong",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "1 Austin Road West, Yau Tsim Mong District",
+   "lat": 22.3046362,
+   "lon": 114.1605933,
+   "distance_km": {
+    "hong-kong-arts-festival-2027": 1.58,
+    "hong-kong-international-film-festival-2027": 1.58,
+    "westk-funfest-2027": 0.41
+   },
+   "url": "https://www.forbestravelguide.com/hotels/hong-kong-china/w-hong-kong",
+   "event_slugs": [
+    "hong-kong-arts-festival-2027",
+    "hong-kong-international-film-festival-2027",
+    "westk-funfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
    "name": "Bulgari Hotels & Resorts Milano",
    "stars": 5,
    "rating_system": "Classificazione regionale Lombardia (open data PoliS-Lombardia / Comune di Milano)",
@@ -258046,6 +256983,694 @@ window.ATLASDATA={
      "type": "event_dates_lowest"
     }
    }
+  },
+  {
+   "name": "Bvlgari Hotel Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "Tokyo Midtown Yaesu, 104-0028 Tokyo",
+   "lat": 35.67891,
+   "lon": 139.7691006,
+   "distance_km": {
+    "comic-market-109": 5.82,
+    "comic-market-110": 5.82,
+    "design-festa-vol-65": 5.82,
+    "sushi-tech-tokyo-2027": 5.82,
+    "japan-it-week-spring-2027": 5.82,
+    "semicon-japan-2026": 5.82,
+    "webx-2027": 5.82,
+    "nextech-week-tokyo-spring-2027": 5.82,
+    "edix-tokyo-2027": 5.82,
+    "content-tokyo-2027": 5.82,
+    "google-cloud-next-tokyo-2027": 5.82,
+    "art-fair-tokyo-2027": 0.55,
+    "teamz-summit-2027": 5.74,
+    "tokyo-gendai-2027": 4.65,
+    "developers-summit-2027": 5.66
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/bvlgari-hotel-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "developers-summit-2027",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "tokyo-gendai-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Mandarin Oriental, Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "Chuo-dori Avenue, 103-0022 Tokyo",
+   "lat": 35.687145,
+   "lon": 139.772888,
+   "distance_km": {
+    "comic-market-109": 6.53,
+    "comic-market-110": 6.53,
+    "design-festa-vol-65": 6.53,
+    "sushi-tech-tokyo-2027": 6.53,
+    "japan-it-week-spring-2027": 6.53,
+    "semicon-japan-2026": 6.53,
+    "webx-2027": 6.53,
+    "nextech-week-tokyo-spring-2027": 6.53,
+    "edix-tokyo-2027": 6.53,
+    "content-tokyo-2027": 6.53,
+    "google-cloud-next-tokyo-2027": 6.53,
+    "art-fair-tokyo-2027": 1.43
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/mandarin-oriental-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Palace Hotel Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "Uchibori Street, 100-0005 Tokyo",
+   "lat": 35.6845039,
+   "lon": 139.7612448,
+   "distance_km": {
+    "comic-market-109": 6.7,
+    "comic-market-110": 6.7,
+    "design-festa-vol-65": 6.7,
+    "sushi-tech-tokyo-2027": 6.7,
+    "japan-it-week-spring-2027": 6.7,
+    "semicon-japan-2026": 6.7,
+    "webx-2027": 6.7,
+    "nextech-week-tokyo-spring-2027": 6.7,
+    "edix-tokyo-2027": 6.7,
+    "content-tokyo-2027": 6.7,
+    "google-cloud-next-tokyo-2027": 6.7,
+    "art-fair-tokyo-2027": 0.88
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/palace-hotel-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Capitol Hotel Tokyu",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "10 3, 100-0014 Tokyo",
+   "lat": 35.6741016,
+   "lon": 139.7409221,
+   "distance_km": {
+    "comic-market-109": 6.95,
+    "comic-market-110": 6.95,
+    "design-festa-vol-65": 6.95,
+    "sushi-tech-tokyo-2027": 6.95,
+    "japan-it-week-spring-2027": 6.95,
+    "semicon-japan-2026": 6.95,
+    "webx-2027": 6.95,
+    "nextech-week-tokyo-spring-2027": 6.95,
+    "edix-tokyo-2027": 6.95,
+    "content-tokyo-2027": 6.95,
+    "google-cloud-next-tokyo-2027": 6.95,
+    "art-fair-tokyo-2027": 2.06,
+    "teamz-summit-2027": 4.09
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-capitol-hotel-tokyu",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Okura Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "4 10, 105-0001 Tokyo",
+   "lat": 35.6669949,
+   "lon": 139.7439875,
+   "distance_km": {
+    "comic-market-109": 6.22,
+    "comic-market-110": 6.22,
+    "design-festa-vol-65": 6.22,
+    "sushi-tech-tokyo-2027": 6.22,
+    "japan-it-week-spring-2027": 6.22,
+    "semicon-japan-2026": 6.22,
+    "webx-2027": 6.22,
+    "nextech-week-tokyo-spring-2027": 6.22,
+    "edix-tokyo-2027": 6.22,
+    "content-tokyo-2027": 6.22,
+    "google-cloud-next-tokyo-2027": 6.22,
+    "art-fair-tokyo-2027": 2.08,
+    "teamz-summit-2027": 3.42,
+    "tokyo-gendai-2027": 5.18,
+    "developers-summit-2027": 5.94
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-okura-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "developers-summit-2027",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "tokyo-gendai-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Peninsula Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 8, 100-0006 Tokyo",
+   "lat": 35.6745325,
+   "lon": 139.7607169,
+   "distance_km": {
+    "comic-market-109": 5.79,
+    "comic-market-110": 5.79,
+    "design-festa-vol-65": 5.79,
+    "sushi-tech-tokyo-2027": 5.79,
+    "japan-it-week-spring-2027": 5.79,
+    "semicon-japan-2026": 5.79,
+    "webx-2027": 5.79,
+    "nextech-week-tokyo-spring-2027": 5.79,
+    "edix-tokyo-2027": 5.79,
+    "content-tokyo-2027": 5.79,
+    "google-cloud-next-tokyo-2027": 5.79,
+    "art-fair-tokyo-2027": 0.36,
+    "teamz-summit-2027": 4.9,
+    "tokyo-gendai-2027": 4.63,
+    "developers-summit-2027": 5.58
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-peninsula-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "developers-summit-2027",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "tokyo-gendai-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "2 1, 102-8585 Tokyo",
+   "lat": 35.6796228,
+   "lon": 139.7369332,
+   "distance_km": {
+    "teamz-summit-2027": 4.62
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-prince-gallery-tokyo-kioicho-a-luxury-collection-hotel",
+   "event_slugs": [
+    "teamz-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Ritz-Carlton, Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 7, 107-0052 Tokyo",
+   "lat": 35.666329,
+   "lon": 139.7313616,
+   "distance_km": {
+    "teamz-summit-2027": 3.09
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-ritz-carlton-tokyo",
+   "event_slugs": [
+    "teamz-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Aman Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Nishikicho-Yurakucho Line, 100-0004 Tokyo",
+   "lat": 35.6855948,
+   "lon": 139.7653865,
+   "distance_km": {
+    "art-fair-tokyo-2027": 0.99
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/aman-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Conrad Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "105-7337 Tokyo",
+   "lat": 35.6630388,
+   "lon": 139.7614085,
+   "distance_km": {
+    "comic-market-109": 4.76,
+    "comic-market-110": 4.76,
+    "design-festa-vol-65": 4.76,
+    "sushi-tech-tokyo-2027": 4.76,
+    "japan-it-week-spring-2027": 4.76,
+    "semicon-japan-2026": 4.76,
+    "webx-2027": 4.76,
+    "nextech-week-tokyo-spring-2027": 4.76,
+    "edix-tokyo-2027": 4.76,
+    "content-tokyo-2027": 4.76,
+    "google-cloud-next-tokyo-2027": 4.76,
+    "tokyo-gendai-2027": 3.65,
+    "developers-summit-2027": 4.51
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/conrad-tokyo",
+   "event_slugs": [
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "developers-summit-2027",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "tokyo-gendai-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Four Seasons Hotel Tokyo at Marunouchi",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Pacific Century Place Marunouchi, 1-11-1 Marunouchi, 100-6221 Tokyo",
+   "lat": 35.6779792,
+   "lon": 139.7669386,
+   "distance_km": {
+    "art-fair-tokyo-2027": 0.33
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/four-seasons-hotel-tokyo-at-marunouchi",
+   "event_slugs": [
+    "art-fair-tokyo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Grand Hyatt Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "3 10, 106-0032 Tokyo",
+   "lat": 35.6598511,
+   "lon": 139.7282948,
+   "distance_km": {
+    "teamz-summit-2027": 2.37
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/grand-hyatt-tokyo",
+   "event_slugs": [
+    "teamz-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Imperial Hotel, Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "1 1, 100-8558 Tokyo",
+   "lat": 35.6718986,
+   "lon": 139.7589849,
+   "distance_km": {
+    "comic-market-109": 5.65,
+    "comic-market-110": 5.65,
+    "design-festa-vol-65": 5.65,
+    "sushi-tech-tokyo-2027": 5.65,
+    "japan-it-week-spring-2027": 5.65,
+    "semicon-japan-2026": 5.65,
+    "webx-2027": 5.65,
+    "nextech-week-tokyo-spring-2027": 5.65,
+    "edix-tokyo-2027": 5.65,
+    "content-tokyo-2027": 5.65,
+    "google-cloud-next-tokyo-2027": 5.65,
+    "art-fair-tokyo-2027": 0.68
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/imperial-hotel-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027",
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Shangri-La Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Staircase K, 100-0005 Tokyo",
+   "lat": 35.6822284,
+   "lon": 139.7691983,
+   "distance_km": {
+    "art-fair-tokyo-2027": 0.79
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/shangri-la-tokyo",
+   "event_slugs": [
+    "art-fair-tokyo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Okura Heritage Wing Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "4 10, 105-0001 Tokyo",
+   "lat": 35.6676042,
+   "lon": 139.743911,
+   "distance_km": {
+    "teamz-summit-2027": 3.48
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-okura-heritage-wing-tokyo",
+   "event_slugs": [
+    "teamz-summit-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Prince Park Tower Tokyo",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Circular Route 3, 105-0011 Tokyo",
+   "lat": 35.6553648,
+   "lon": 139.7470925,
+   "distance_km": {
+    "comic-market-109": 5.26,
+    "comic-market-110": 5.26,
+    "design-festa-vol-65": 5.26,
+    "sushi-tech-tokyo-2027": 5.26,
+    "japan-it-week-spring-2027": 5.26,
+    "semicon-japan-2026": 5.26,
+    "webx-2027": 5.26,
+    "nextech-week-tokyo-spring-2027": 5.26,
+    "edix-tokyo-2027": 5.26,
+    "content-tokyo-2027": 5.26,
+    "google-cloud-next-tokyo-2027": 5.26,
+    "teamz-summit-2027": 2.46,
+    "tokyo-gendai-2027": 4.33,
+    "developers-summit-2027": 4.95
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-prince-park-tower-tokyo",
+   "event_slugs": [
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "developers-summit-2027",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "tokyo-gendai-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Prince Sakura Tower Tokyo, Autograph Collection",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "Sakura-Zaka St., 108-8612 Tokyo",
+   "lat": 35.6309455,
+   "lon": 139.7354921,
+   "distance_km": {
+    "comic-market-109": 5.63,
+    "comic-market-110": 5.63,
+    "design-festa-vol-65": 5.63,
+    "sushi-tech-tokyo-2027": 5.63,
+    "japan-it-week-spring-2027": 5.63,
+    "semicon-japan-2026": 5.63,
+    "webx-2027": 5.63,
+    "nextech-week-tokyo-spring-2027": 5.63,
+    "edix-tokyo-2027": 5.63,
+    "content-tokyo-2027": 5.63,
+    "google-cloud-next-tokyo-2027": 5.63,
+    "teamz-summit-2027": 1.01
+   },
+   "url": "https://www.forbestravelguide.com/hotels/tokyo-japan/the-prince-sakura-tower-tokyo-autograph-collection",
+   "event_slugs": [
+    "comic-market-109",
+    "comic-market-110",
+    "content-tokyo-2027",
+    "design-festa-vol-65",
+    "edix-tokyo-2027",
+    "google-cloud-next-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "nextech-week-tokyo-spring-2027",
+    "semicon-japan-2026",
+    "sushi-tech-tokyo-2027",
+    "teamz-summit-2027",
+    "webx-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
   },
   {
    "name": "Grand Hotel Excelsior",
@@ -262232,6 +261857,557 @@ window.ATLASDATA={
    "prices_by_event": null
   },
   {
+   "name": "Capella Singapore",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 The Knolls, 098297 Singapore",
+   "lat": 1.2496982,
+   "lon": 103.8244312,
+   "distance_km": {
+    "singapore-comic-con-2026": 5.25,
+    "art-sg-2027": 5.25,
+    "tech-week-singapore-2027": 5.25,
+    "token2049-singapore-2027": 5.25,
+    "govware-2027": 5.25,
+    "gitex-ai-asia-2027": 5.25,
+    "superai-singapore-2027": 5.25,
+    "edutech-asia-2027": 5.25,
+    "black-hat-asia-2027": 5.25,
+    "ieee-cai-2027": 5.25,
+    "christmas-wonderland-2026": 5.67,
+    "anime-festival-asia-singapore-2026": 6.09,
+    "kalaa-utsavam-2026": 5.66,
+    "pesta-raya-2027": 5.66,
+    "affordable-art-fair-singapore-2026": 6.42
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/capella-singapore",
+   "event_slugs": [
+    "affordable-art-fair-singapore-2026",
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "kalaa-utsavam-2026",
+    "pesta-raya-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null,
+   "venue_slug": "capella-singapore"
+  },
+  {
+   "name": "Raffles Hotel Singapore",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "1 Beach Road, 189673 Singapore",
+   "lat": 1.2946815,
+   "lon": 103.8546412,
+   "distance_km": {
+    "singapore-comic-con-2026": 1.44,
+    "art-sg-2027": 1.44,
+    "tech-week-singapore-2027": 1.44,
+    "token2049-singapore-2027": 1.44,
+    "govware-2027": 1.44,
+    "gitex-ai-asia-2027": 1.44,
+    "superai-singapore-2027": 1.44,
+    "edutech-asia-2027": 1.44,
+    "black-hat-asia-2027": 1.44,
+    "ieee-cai-2027": 1.44,
+    "christmas-wonderland-2026": 1.75,
+    "anime-festival-asia-singapore-2026": 0.32,
+    "kalaa-utsavam-2026": 0.58,
+    "pesta-raya-2027": 0.58,
+    "affordable-art-fair-singapore-2026": 1.07
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/raffles-hotel-singapore",
+   "event_slugs": [
+    "affordable-art-fair-singapore-2026",
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "kalaa-utsavam-2026",
+    "pesta-raya-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 1533.29,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "affordable-art-fair-singapore-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-28",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "affordable-art-fair-singapore-2026": {
+     "amount": 1533.29,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "affordable-art-fair-singapore-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-28",
+     "type": "event_dates_lowest"
+    },
+    "anime-festival-asia-singapore-2026": {
+     "amount": 1552.4,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "anime-festival-asia-singapore-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    },
+    "christmas-wonderland-2026": {
+     "amount": 1552.4,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "christmas-wonderland-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "The Paiza Collection at Marina Bay Sands",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "10 Bayfront Avenue, 018956 Singapore",
+   "lat": 1.2836965,
+   "lon": 103.8607226,
+   "distance_km": {
+    "singapore-comic-con-2026": 0.29,
+    "art-sg-2027": 0.29,
+    "tech-week-singapore-2027": 0.29,
+    "token2049-singapore-2027": 0.29,
+    "govware-2027": 0.29,
+    "gitex-ai-asia-2027": 0.29,
+    "superai-singapore-2027": 0.29,
+    "edutech-asia-2027": 0.29,
+    "black-hat-asia-2027": 0.29,
+    "ieee-cai-2027": 0.29,
+    "christmas-wonderland-2026": 0.4,
+    "anime-festival-asia-singapore-2026": 1.16,
+    "kalaa-utsavam-2026": 0.85,
+    "pesta-raya-2027": 0.85,
+    "affordable-art-fair-singapore-2026": 0.98
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/the-paiza-collection-at-marina-bay-sands",
+   "event_slugs": [
+    "affordable-art-fair-singapore-2026",
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "kalaa-utsavam-2026",
+    "pesta-raya-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "Conrad Singapore Marina Bay",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "2 Temasek Boulevard, 038982 Singapore",
+   "lat": 1.293525,
+   "lon": 103.8587748,
+   "distance_km": {
+    "anime-festival-asia-singapore-2026": 0.17,
+    "affordable-art-fair-singapore-2026": 0.59
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/conrad-singapore-marina-bay",
+   "event_slugs": [
+    "affordable-art-fair-singapore-2026",
+    "anime-festival-asia-singapore-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 421.77,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "affordable-art-fair-singapore-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-28",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "affordable-art-fair-singapore-2026": {
+     "amount": 421.77,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "affordable-art-fair-singapore-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-28",
+     "type": "event_dates_lowest"
+    },
+    "anime-festival-asia-singapore-2026": {
+     "amount": 398.54,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "anime-festival-asia-singapore-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Mandarin Oriental, Singapore",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "5 Raffles Avenue, 039797 Singapore",
+   "lat": 1.2906606,
+   "lon": 103.858324,
+   "distance_km": {
+    "singapore-comic-con-2026": 0.93,
+    "art-sg-2027": 0.93,
+    "tech-week-singapore-2027": 0.93,
+    "token2049-singapore-2027": 0.93,
+    "govware-2027": 0.93,
+    "gitex-ai-asia-2027": 0.93,
+    "superai-singapore-2027": 0.93,
+    "edutech-asia-2027": 0.93,
+    "black-hat-asia-2027": 0.93,
+    "ieee-cai-2027": 0.93,
+    "christmas-wonderland-2026": 1.15,
+    "anime-festival-asia-singapore-2026": 0.34,
+    "kalaa-utsavam-2026": 0.29,
+    "pesta-raya-2027": 0.29
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/mandarin-oriental-singapore",
+   "event_slugs": [
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "kalaa-utsavam-2026",
+    "pesta-raya-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 436.63,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "anime-festival-asia-singapore-2026",
+    "check_in": "2026-11-27",
+    "check_out": "2026-11-29",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "anime-festival-asia-singapore-2026": {
+     "amount": 436.63,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "anime-festival-asia-singapore-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    },
+    "christmas-wonderland-2026": {
+     "amount": 436.63,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "christmas-wonderland-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "Marina Bay Sands",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "10 Bayfront Avenue, 018956 Singapore",
+   "lat": 1.2836965,
+   "lon": 103.8607226,
+   "distance_km": {
+    "singapore-comic-con-2026": 0.29,
+    "art-sg-2027": 0.29,
+    "tech-week-singapore-2027": 0.29,
+    "token2049-singapore-2027": 0.29,
+    "govware-2027": 0.29,
+    "gitex-ai-asia-2027": 0.29,
+    "superai-singapore-2027": 0.29,
+    "edutech-asia-2027": 0.29,
+    "black-hat-asia-2027": 0.29,
+    "ieee-cai-2027": 0.29,
+    "christmas-wonderland-2026": 0.4,
+    "anime-festival-asia-singapore-2026": 1.16
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/marina-bay-sands",
+   "event_slugs": [
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": null,
+   "prices_by_event": null
+  },
+  {
+   "name": "The Fullerton Bay Hotel Singapore",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "80 Collyer Quay, 049326 Singapore",
+   "lat": 1.2833389,
+   "lon": 103.8533943,
+   "distance_km": {
+    "singapore-comic-con-2026": 0.58,
+    "art-sg-2027": 0.58,
+    "tech-week-singapore-2027": 0.58,
+    "token2049-singapore-2027": 0.58,
+    "govware-2027": 0.58,
+    "gitex-ai-asia-2027": 0.58,
+    "superai-singapore-2027": 0.58,
+    "edutech-asia-2027": 0.58,
+    "black-hat-asia-2027": 0.58,
+    "ieee-cai-2027": 0.58,
+    "christmas-wonderland-2026": 1.18
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/the-fullerton-bay-hotel-singapore",
+   "event_slugs": [
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 575.98,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "christmas-wonderland-2026",
+    "check_in": "2026-11-27",
+    "check_out": "2026-11-29",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "christmas-wonderland-2026": {
+     "amount": 575.98,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "christmas-wonderland-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
+   "name": "The Ritz-Carlton, Millenia Singapore",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "7 Raffles Avenue, 039799 Singapore",
+   "lat": 1.2905344,
+   "lon": 103.8600739,
+   "distance_km": {
+    "singapore-comic-con-2026": 0.93,
+    "art-sg-2027": 0.93,
+    "tech-week-singapore-2027": 0.93,
+    "token2049-singapore-2027": 0.93,
+    "govware-2027": 0.93,
+    "gitex-ai-asia-2027": 0.93,
+    "superai-singapore-2027": 0.93,
+    "edutech-asia-2027": 0.93,
+    "black-hat-asia-2027": 0.93,
+    "ieee-cai-2027": 0.93,
+    "christmas-wonderland-2026": 1.04,
+    "anime-festival-asia-singapore-2026": 0.46,
+    "kalaa-utsavam-2026": 0.47,
+    "pesta-raya-2027": 0.47,
+    "affordable-art-fair-singapore-2026": 0.45
+   },
+   "url": "https://www.forbestravelguide.com/hotels/singapore-singapore/the-ritz-carlton-millenia-singapore",
+   "event_slugs": [
+    "affordable-art-fair-singapore-2026",
+    "anime-festival-asia-singapore-2026",
+    "art-sg-2027",
+    "black-hat-asia-2027",
+    "christmas-wonderland-2026",
+    "edutech-asia-2027",
+    "gitex-ai-asia-2027",
+    "govware-2027",
+    "ieee-cai-2027",
+    "kalaa-utsavam-2026",
+    "pesta-raya-2027",
+    "singapore-comic-con-2026",
+    "superai-singapore-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.forbestravelguide.com/award-winners",
+   "price": {
+    "amount": 478.44,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "affordable-art-fair-singapore-2026",
+    "check_in": "2026-11-26",
+    "check_out": "2026-11-28",
+    "type": "event_dates_lowest"
+   },
+   "prices_by_event": {
+    "affordable-art-fair-singapore-2026": {
+     "amount": 478.44,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "affordable-art-fair-singapore-2026",
+     "check_in": "2026-11-26",
+     "check_out": "2026-11-28",
+     "type": "event_dates_lowest"
+    },
+    "anime-festival-asia-singapore-2026": {
+     "amount": 501.66,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "anime-festival-asia-singapore-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    },
+    "christmas-wonderland-2026": {
+     "amount": 501.66,
+     "currency": "USD",
+     "as_of": "2026-11-24",
+     "source": "HotelSearch (Duffel)",
+     "event_slug": "christmas-wonderland-2026",
+     "check_in": "2026-11-27",
+     "check_out": "2026-11-29",
+     "type": "event_dates_lowest"
+    }
+   }
+  },
+  {
    "name": "Taipei Garden Hotel",
    "stars": 5,
    "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
@@ -264865,6 +265041,35 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "nelsons-dockyard",
+   "name": "Nelson’s Dockyard",
+   "type": "other",
+   "country": "Antigua and Barbuda",
+   "cc": "AG",
+   "city": "English Harbour",
+   "address": "English Harbour, Antigua",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.nationalparksantigua.com/tours/nelsons-dockyard-national-park/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official National Parks Authority page describes a working Georgian naval dockyard and UNESCO World Heritage site (Antigua Naval Dockyard and Related Archaeological Sites). It is not a convention centre and does not publish conference-hall capacities on the retrieved page.",
+   "description": "Named historic harbour venue for the Antigua Charter Yacht Show 2026, officially managed by the National Parks Authority, with public email and official address English Harbour, Antigua. The atlas pin is imprecise and coincides with the Nominatim national-park pin for a large protected area, so coordinates are left null rather than using a park centroid. No separate official convention centre with confirmed figures was added in this tight pass; the American University of Antigua convention facility was not confirmed on a current official capacity page.",
+   "photo": null,
+   "linked_event_slugs": [
+    "antigua-charter-yacht-show-2026"
+   ],
+   "sources": [
+    {
+     "url": "https://www.nationalparksantigua.com/tours/nelsons-dockyard-national-park/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "la-rural-predio-ferial-buenos-aires",
    "name": "La Rural, Predio Ferial de Buenos Aires",
    "type": "exhibition_grounds",
@@ -266965,6 +267170,37 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "baku-expo-center",
+   "name": "Baku Expo Center",
+   "type": "exhibition_grounds",
+   "country": "Azerbaijan",
+   "cc": "AZ",
+   "city": "Baku",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://bakuexpocenter.az/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "The official venue website did not return content on 24 Nov 2026 (HTTPS connection failed; HTTP about/halls pages returned 500). Hall-area figures circulating from earlier official pages were not reconfirmed and are not stored.",
+   "description": "Azerbaijan’s principal exhibition centre in Baku, identified as the leftover national centre after skipping the sports-only Baku City Circuit atlas venue. Official pages at bakuexpocenter.az could not be retrieved in this pass (connection failure / HTTP 500), and Nominatim returned only a bus-stop pin, which was not used. Address, coordinates and exhibition_sqm are therefore null pending a live official page. No atlas conference event is linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://bakuexpocenter.az/",
+     "label": "Official source"
+    },
+    {
+     "url": "http://www.bakuexpocenter.az/en/about.php",
      "label": "Official source"
     }
    ],
@@ -271097,6 +271333,170 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "crowne-plaza-san-jose-la-sabana",
+   "name": "Crowne Plaza San José La Sabana",
+   "type": "hotel_conference_venue",
+   "country": "Costa Rica",
+   "cc": "CR",
+   "city": "San José",
+   "address": "Mata Redonda, Costado Norte del parque La Sabana, 10108 San José, Costa Rica",
+   "lat": 9.9395852,
+   "lon": -84.0991353,
+   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+   "capacity": 1000,
+   "exhibition_sqm": null,
+   "halls": "Official Costa Rica Tourism Board (Visit Costa Rica) listing: 14 meeting rooms and banquet facilities accommodating up to 1,000 people.",
+   "description": "Atlas-hosting hotel for ALTEC 2027, listed by the official Costa Rica Tourism Board as Crowne Plaza Corobicí (the same La Sabana property) at Mata Redonda, north side of Parque La Sabana, 10108 San José, with 14 meeting rooms and banquet facilities accommodating up to 1,000 people (stored as capacity_max_delegates). The official IHG hotel pages returned HTTP 403 on retrieval, so room-by-room figures were not taken from IHG. Coordinates are the atlas precise hotel pin. No official Costa Rican hotel-classification listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "altec-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://www.visitcostarica.com/planning-your-trip/hotels/crowne-plaza-corobici",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Meeting and banquet facilities (combined)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official ICT listing: banquet facilities accommodating up to 1,000 people, across 14 meeting rooms.",
+     "source_url": "https://www.visitcostarica.com/planning-your-trip/hotels/crowne-plaza-corobici"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "costa-rica-convention-center",
+   "name": "Costa Rica Convention Center",
+   "type": "convention_centre",
+   "country": "Costa Rica",
+   "cc": "CR",
+   "city": "San José",
+   "address": "General Cañas Highway, San José, Costa Rica",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.costaricacc.com/en/",
+   "capacity": 5800,
+   "exhibition_sqm": null,
+   "halls": "Official rooms page and March 2025 capacity chart: Talamanca Main Hall 3,739.42 m² (theatre 4,000); Central Room 1,274.65 m² (theatre 1,360); Guanacaste Room 421.40 m² (theatre 441), plus meeting rooms and foyers. The three named mountain-range halls are officially described as having capacity for 5,800 people.",
+   "description": "Costa Rica’s national convention centre, officially addressed on the March 2025 capacity-chart footer as General Cañas Highway, San José, Costa Rica, with public email. Official rooms page: the Talamanca, Central and Guanacaste halls are the largest areas, with capacity for 5,800 people (stored as capacity_max_delegates). Official chart: Talamanca Main Hall 3,739.42 m², theatre 4,000. No official campus-wide exhibition total is published, so exhibition_sqm is left null rather than summing the halls. Nominatim did not return a named convention-centre pin (only a bus stop and unrelated buildings), so coordinates are null. Leftover national centre, not an atlas-hosting venue in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.costaricacc.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.costaricacc.com/en/rooms/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.costaricacc.com/en/fairs-and-expositions/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Talamanca Main Hall",
+     "type": null,
+     "area_sqm": 3739,
+     "capacity_max": null,
+     "capacity_theatre": 4000,
+     "capacity_classroom": 2270,
+     "capacity_banquet": 2600,
+     "capacity_reception": 3500,
+     "notes": "Official chart area is 3,739.42 m²; banquet 2,600 is the 10-pax-table column (8-pax is 2,000).",
+     "source_url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Central Room",
+     "type": null,
+     "area_sqm": 1275,
+     "capacity_max": null,
+     "capacity_theatre": 1360,
+     "capacity_classroom": 780,
+     "capacity_banquet": 850,
+     "capacity_reception": 1300,
+     "notes": "Official chart area 1,274.65 m²; banquet 850 is the 10-pax-table column.",
+     "source_url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Guanacaste Room",
+     "type": null,
+     "area_sqm": 421,
+     "capacity_max": null,
+     "capacity_theatre": 441,
+     "capacity_classroom": 288,
+     "capacity_banquet": 280,
+     "capacity_reception": 420,
+     "notes": "Official chart area 421.40 m².",
+     "source_url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Costa Rica Convention Center capacity chart (March 2025)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf",
+     "href": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "cyprus-state-fair",
+   "name": "Cyprus State Fair (ExpoCyprus)",
+   "type": "exhibition_grounds",
+   "country": "Cyprus",
+   "cc": "CY",
+   "city": "Nicosia",
+   "address": "6 Georgiou Seferi Street, Egkomi, 2415 Nicosia, Cyprus",
+   "lat": 35.1510043,
+   "lon": 33.3143474,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official organiser pages name the Cyprus State Fair as the Comic Con venue but do not publish hall areas. A current official State Fairs Authority hall schedule was not retrieved.",
+   "description": "Named Nicosia exhibition grounds (Kratiki Ekthesi / ExpoCyprus) hosting Cyprus Comic Con 2027. The official organiser location and 2027 event pages give the address as 6 Georgiou Seferi Street, Egkomi, 2415 Nicosia, Cyprus. No official State Fairs Authority website or hall-area figures were confirmed on a live official page in this pass (csfa.org.cy was not confirmed live), so exhibition_sqm and capacity_max_delegates are null. Coordinates are the named Nominatim pin for Κρατική Έκθεση Κύπρου, matching the atlas precise pin. The Warehouse, Limassol, and Kolla, Limassol, are named atlas venues with precise pins but were left for a later pass (no official venue pages retrieved). Filoxenia Conference Centre was not added: its reported official site fcc.com.cy did not respond.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cyprus-comic-con-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://cypruscomiccon.org/location/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://cypruscomiccon.org/event/cyprus-comic-con-2027/",
      "label": "Official source"
     }
    ],
@@ -278228,6 +278628,99 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "villa-marina-douglas",
+   "name": "Villa Marina",
+   "type": "congress_centre",
+   "country": "Isle of Man",
+   "cc": "IM",
+   "city": "Douglas",
+   "address": "Harris Promenade, Douglas, Isle of Man, IM1 2HP",
+   "lat": 54.1569822,
+   "lon": -4.4779604,
+   "url": "https://www.villagaiety.com/about-us/our-venues",
+   "capacity": 1360,
+   "exhibition_sqm": null,
+   "halls": "Official VillaGaiety visiting-companies PDF: Royal Hall maximum seated capacity of 1,360 for full theatre-style shows and maximum standing capacity of 1,620; Gaiety Theatre maximum capacity 858 when all levels are open. Official Visit Isle of Man travel-trade listing gives Royal Hall theatre 1,340 (noted; the operator PDF figure 1,360 is stored). Other official Visit IOM capacities: Promenade Suite theatre 180, Colonnade Suite theatre 150, Broadway Cinema conference theatre 150, Villa Arcade theatre 120.",
+   "description": "Isle of Man Government (VillaGaiety) entertainment and conference complex on Harris Promenade, Douglas, IM1 2HP, added as the island’s principal indoor conference venue after skipping the sports-only Snaefell Mountain Course atlas event. Official operator PDF: Royal Hall seated theatre 1,360 (stored as capacity_max_delegates). Official Visit Isle of Man listing publishes Royal Hall theatre 1,340, which is noted and not stored. Coordinates are the named theatre Nominatim pin for Villa Marina. No atlas conference event is linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.villagaiety.com/about-us/our-venues",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitisleofman.com/traveltrade/information/product-catch-all/villa-marina-p1587871",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Royal Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1620,
+     "capacity_theatre": 1360,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official operator PDF: 1,360 seated full theatre style; 1,620 standing. Visit Isle of Man lists theatre 1,340.",
+     "source_url": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf"
+    },
+    {
+     "name": "Promenade Suite",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 180,
+     "capacity_classroom": 150,
+     "capacity_banquet": 130,
+     "capacity_reception": 200,
+     "notes": null,
+     "source_url": "https://www.visitisleofman.com/traveltrade/information/product-catch-all/villa-marina-p1587871"
+    },
+    {
+     "name": "Colonnade Suite",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 90,
+     "capacity_banquet": 120,
+     "capacity_reception": 200,
+     "notes": null,
+     "source_url": "https://www.visitisleofman.com/traveltrade/information/product-catch-all/villa-marina-p1587871"
+    },
+    {
+     "name": "Broadway Cinema",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.visitisleofman.com/traveltrade/information/product-catch-all/villa-marina-p1587871"
+    }
+   ],
+   "documents": [
+    {
+     "title": "VillaGaiety useful information for visiting companies",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
+     "href": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "bangalore-international-exhibition-centre",
    "name": "Bangalore International Exhibition Centre",
    "type": "convention_centre",
@@ -281044,6 +281537,202 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "luxexpo-the-box",
+   "name": "Luxexpo The Box",
+   "type": "exhibition_grounds",
+   "country": "Luxembourg",
+   "cc": "LU",
+   "city": "Luxembourg",
+   "address": "10, Circuit de la Foire Internationale, L-1347 Luxembourg-Kirchberg",
+   "lat": 49.6352827,
+   "lon": 6.17172,
+   "url": "https://thebox.lu/en",
+   "capacity": null,
+   "exhibition_sqm": 30000,
+   "halls": "Official why-exhibit/FAQ: 7 modular halls, 30,000 m² combined, plus 45,000 m² outdoor space (excluded). The same official pages also state 34,250 m² of modular indoor space across 7 halls. Spaces page: 5 halls ranging from 4,500 m² to 6,400 m² each, and a modular space of 1,800 m².",
+   "description": "Kirchberg exhibition and events campus officially at 10, Circuit de la Foire Internationale, L-1347 Luxembourg-Kirchberg. Official why-exhibit page: 7 modular halls, 30,000 m² combined (stored as exhibition_sqm). The same official site also states 34,250 m² of total modular indoor space; 34,250 is noted and not stored as exhibition_sqm because it is the broader modular-indoor total. Outdoor 45,000 m² is excluded. Official capacity is given as “from 100 to 3,000+” / “over 3,000 participants,” which is not stored as an exact capacity_max_delegates. Coordinates are the named exhibition-hall Nominatim pin, matching the atlas precise pin. Linked: Nexus Luxembourg 2027.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nexus-luxembourg-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://thebox.lu/en",
+     "label": "Official source"
+    },
+    {
+     "url": "https://thebox.lu/en/why-exhibit-luxexpo-box",
+     "label": "Official source"
+    },
+    {
+     "url": "https://thebox.lu/en/organise/our-spaces",
+     "label": "Official source"
+    },
+    {
+     "url": "https://thebox.lu/en/contact",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Modular exhibition halls (combined)",
+     "type": null,
+     "area_sqm": 30000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7 modular halls, 30,000 m² combined. Official FAQ also cites 34,250 m² of modular indoor space across 7 halls, not stored here.",
+     "source_url": "https://thebox.lu/en/why-exhibit-luxexpo-box"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "european-convention-center-luxembourg",
+   "name": "European Convention Center Luxembourg",
+   "type": "congress_centre",
+   "country": "Luxembourg",
+   "cc": "LU",
+   "city": "Luxembourg",
+   "address": "4 Place de l’Europe, L-1499 Luxembourg",
+   "lat": 49.6182606,
+   "lon": 6.1438726,
+   "url": "https://eccl.lu/en/",
+   "capacity": 800,
+   "exhibition_sqm": null,
+   "halls": "Official home and Plenary 1 pages: two plenary rooms with a maximum capacity of 800 people (Plenary 1 theatre 800, banquet 630, cabaret 380) and a prestigious amphitheatre. Postal address for Luxembourg Congress: 1 rue du Fort Thüngen, L-1499 Luxembourg.",
+   "description": "Official congress centre at 4 Place de l’Europe, L-1499 Luxembourg, with public email. Official site: two plenary rooms with a maximum capacity of 800 people; Plenary 1 is published at theatre 800 (stored as capacity_max_delegates). Coordinates are the named conference-centre Nominatim pin, matching the atlas precise pin. Linked: ALFI Global Asset Management Conference 2027.",
+   "photo": null,
+   "linked_event_slugs": [
+    "alfi-global-asset-management-conference-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://eccl.lu/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://eccl.lu/en/our-spaces/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://eccl.lu/en/contact-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://eccl.lu/en/room/plenary-1/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Plenary 1",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 800,
+     "capacity_theatre": 800,
+     "capacity_classroom": null,
+     "capacity_banquet": 630,
+     "capacity_reception": null,
+     "notes": "Official: banquet 630, theatre 800, cabaret 380.",
+     "source_url": "https://eccl.lu/en/room/plenary-1/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kipsala-international-exhibition-centre",
+   "name": "Ķīpsala International Exhibition Centre",
+   "type": "exhibition_grounds",
+   "country": "Latvia",
+   "cc": "LV",
+   "city": "Riga",
+   "address": "Kipsalas str 8, Riga, LV-1048, Latvia",
+   "lat": 56.9551544,
+   "lon": 24.079093,
+   "url": "https://www.rigaexpo.lv/",
+   "capacity": 6500,
+   "exhibition_sqm": 14900,
+   "halls": "Official rooms page: two pavilions (Hall I 5,700 m² / 3,500 persons; Hall II 9,200 m² / 6,500 persons) and two fixed conference rooms. The same page’s introduction also cites conference rooms for 220 and 500 persons, which disagrees with the room-by-room figures (150 and 350); the room-specification lines are stored.",
+   "description": "Riga’s official international exhibition centre at Kipsalas str 8, LV-1048, with public administrator email (published as info(at)rigaexpo.lv). Official rooms page: the complex includes two pavilions of 5,700 m² and 9,200 m² (stored as exhibition_sqm 14,900, the sum of those two official pavilion figures) and Hall II capacity 6,500 persons (stored as capacity_max_delegates). Conference Room 1 is 250 m² / 150 persons and Conference Room 3 is 680 m² / 350 persons; the same official page also says “two fixed conference rooms for 220 and 500 persons,” which is noted and not stored. Coordinates are the named exhibition-centre Nominatim pin, matching the atlas precise pin. Linked atlas events: Unicon Winter, Skola and Riga Comm 2027. The official pages sit on a dated RE2017 path (copyright 2016); figures are taken from the still-served official rooms page.",
+   "photo": null,
+   "linked_event_slugs": [
+    "unicon-winter-2027",
+    "skola-2027",
+    "riga-comm-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://www.rigaexpo.lv/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rigaexpo.lv/RE2017/telpas_en.php",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rigaexpo.lv/RE2017/kontakti_en.php",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall I",
+     "type": null,
+     "area_sqm": 5700,
+     "capacity_max": 3500,
+     "capacity_theatre": 3500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rigaexpo.lv/RE2017/telpas_en.php"
+    },
+    {
+     "name": "Hall II",
+     "type": null,
+     "area_sqm": 9200,
+     "capacity_max": 6500,
+     "capacity_theatre": 6500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rigaexpo.lv/RE2017/telpas_en.php"
+    },
+    {
+     "name": "Conference Room 1",
+     "type": null,
+     "area_sqm": 250,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official room line 150 pers.; the same page’s introduction cites 220 for the fixed conference rooms.",
+     "source_url": "https://www.rigaexpo.lv/RE2017/telpas_en.php"
+    },
+    {
+     "name": "Conference Room 3",
+     "type": null,
+     "area_sqm": 680,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official room line 350 pers.; the same page’s introduction cites 500 for the fixed conference rooms.",
+     "source_url": "https://www.rigaexpo.lv/RE2017/telpas_en.php"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "palais-des-congres-marrakech-movenpick",
    "name": "Palais des Congrès Marrakech — Mövenpick Hotel Mansour Eddahbi",
    "type": "hotel_conference_venue",
@@ -281199,6 +281888,205 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "grimaldi-forum",
+   "name": "Grimaldi Forum",
+   "type": "congress_centre",
+   "country": "Monaco",
+   "cc": "MC",
+   "city": "Monaco",
+   "address": "10 Av. Princesse Grace, 98000 Monaco",
+   "lat": 43.743977,
+   "lon": 7.4319176,
+   "url": "https://www.grimaldiforum.com/en/",
+   "capacity": 2650,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: 85,000 m² total surface area; 41,000 m² of modular indoor space and 3,800 m² of outdoor spaces (outdoor excluded). Official spaces page also labels “41 000 m² of modular exhibition spaces.” Official Ravel Hall: 4,201 m² (2,660 m² pillar-free), theatre 2,650, catering 2,208, terrace 587 m². Official auditoria: Salle des Princes 1,864; Prince Pierre 800; Camille Blanc 405; Nijinski 415. Other official modular spaces include Diaghilev Hall 3,501 m² and Pinede Hall 3,198 m².",
+   "description": "Monaco’s official congress and cultural centre at 10 Av. Princesse Grace, 98000 Monaco. Official homepage: 85,000 m² total surface and 41,000 m² of modular indoor space; the spaces page also calls this “modular exhibition spaces.” Because official planner wording also describes 41,000 m² of versatile surface, including 12,000 m² of exhibition and catering space, 41,000 is not stored as exhibition_sqm (nor is the mixed 12,000 exhibition-and-catering figure). Official Ravel Hall theatre capacity is 2,650 (stored as capacity_max_delegates), larger than Salle des Princes at 1,864. Coordinates are the named events-venue Nominatim pin for Grimaldi Forum; the atlas FundForum pin is imprecise and coincides with a bus-stop/bike-rental pin, so it was not used. Linked: FundForum International 2027.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fundforum-international-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://www.grimaldiforum.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.grimaldiforum.com/en/our-spaces",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.grimaldiforum.com/en/ravel-hall",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ravel Hall and its terrace",
+     "type": null,
+     "area_sqm": 4201,
+     "capacity_max": null,
+     "capacity_theatre": 2650,
+     "capacity_classroom": null,
+     "capacity_banquet": 2208,
+     "capacity_reception": null,
+     "notes": "Official: 4,201 m², of which 2,660 m² pillar-free; terrace 587 m²; 196 stands of 9 m².",
+     "source_url": "https://www.grimaldiforum.com/en/ravel-hall"
+    },
+    {
+     "name": "Diaghilev Hall",
+     "type": null,
+     "area_sqm": 3501,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    },
+    {
+     "name": "Pinede Hall",
+     "type": null,
+     "area_sqm": 3198,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    },
+    {
+     "name": "Salle des Princes",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 1864,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    },
+    {
+     "name": "Prince Pierre Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    },
+    {
+     "name": "Nijinski Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 415,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    },
+    {
+     "name": "Camille Blanc Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 405,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.grimaldiforum.com/en/our-spaces"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "venetian-macao-cotai-expo",
+   "name": "Cotai Expo at The Venetian Macao",
+   "type": "exhibition_grounds",
+   "country": "Macao",
+   "cc": "MO",
+   "city": "Macao",
+   "address": "Estrada da Baía de N. Senhora da Esperança, s/n, Taipa, Macao SAR, P.R. China",
+   "lat": 22.1481996,
+   "lon": 113.560472,
+   "url": "https://en.sandsresortsmacao.com/meetings/venues/venetian/cotai-expo.html",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official current Cotai Expo page: approximately 71,000 square metres of exhibition space on Levels 1 and 3; 3,818 booths; complemented by 6,500 square metres of pillar-less ballroom space and 108 meeting rooms with more than 18,600 square metres of flexible meeting space. Official MICE factsheet (same operator, “accurate at time of printing”): Cotai Expo 75,000 sq.m of exhibition space. Because the current official webpage is approximate and disagrees with the factsheet, exhibition_sqm is left null. Cotai Arena seating figures also disagree (webpage up to 15,000; factsheet 13,000) and are not stored as this venue’s capacity_max_delegates.",
+   "description": "Cotai Expo, the official exhibition centre at The Venetian Macao, officially addressed as Estrada da Baía de N. Senhora da Esperança, s/n, Taipa, Macao SAR, with public email. The current official venue page states “approximately 71,000 square metres” of exhibition space; the official MICE factsheet states 75,000 sq.m. Neither figure is stored as exhibition_sqm (approximate wording on the current page, and a disagreement with a possibly older factsheet). Coordinates are the named Nominatim hotel pin for The Venetian Macao (no distinct Cotai Expo hall pin was returned). The sports-only Guia Circuit atlas event is not linked. Leftover national exhibition centre, included as requested.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://en.sandsresortsmacao.com/meetings/venues/venetian/cotai-expo.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.sandsresortsmacao.cn/content/dam/macao/venetianmacao/master/main/home/pdfs/venetian-macao-mice-factsheet-en.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Cotai Expo (official current page, approximate)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official current page: approximately 71,000 m² of exhibition space; 3,818 booths. Not stored as exact area.",
+     "source_url": "https://en.sandsresortsmacao.com/meetings/venues/venetian/cotai-expo.html"
+    },
+    {
+     "name": "Cotai Expo (official factsheet)",
+     "type": null,
+     "area_sqm": 75000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet: 75,000 sq.m of exhibition space. Disagrees with the current official webpage’s “approximately 71,000”; not copied to the venue-level exhibition_sqm field.",
+     "source_url": "https://assets.sandsresortsmacao.cn/content/dam/macao/venetianmacao/master/main/home/pdfs/venetian-macao-mice-factsheet-en.pdf"
+    },
+    {
+     "name": "The Venetian Ballroom",
+     "type": null,
+     "area_sqm": 6500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 6,500 m² pillar-free ballroom (factsheet agrees).",
+     "source_url": "https://en.sandsresortsmacao.com/meetings/venues/venetian/cotai-expo.html"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Venetian Macao MICE factsheet",
+     "doc_type": "factsheet",
+     "language": "en",
+     "source_url": "https://assets.sandsresortsmacao.cn/content/dam/macao/venetianmacao/master/main/home/pdfs/venetian-macao-mice-factsheet-en.pdf",
+     "href": "https://assets.sandsresortsmacao.cn/content/dam/macao/venetianmacao/master/main/home/pdfs/venetian-macao-mice-factsheet-en.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "mediterranean-conference-centre",
@@ -286281,6 +287169,180 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "grand-hyatt-manila",
+   "name": "Grand Hyatt Manila",
+   "type": "hotel_conference_venue",
+   "country": "Philippines",
+   "cc": "PH",
+   "city": "Taguig",
+   "address": "8th Avenue Corner 35th Street, Bonifacio Global City, Taguig City 1634, Philippines",
+   "lat": 14.5570876,
+   "lon": 121.0520373,
+   "url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+   "capacity": 1550,
+   "exhibition_sqm": null,
+   "halls": "Official August 2021 capacity chart: Grand Ballroom 1,190 m², theatre 1,550, banquet 900, cocktails 1,400, plus pre-function and breakout rooms. The current official hotel website returned HTTP 403 on retrieval, so the 2021 chart was used with that dating note.",
+   "description": "Official hotel conference venue at 8th Avenue Corner 35th Street, Bonifacio Global City, Taguig City 1634, with public email, taken from the official Hyatt capacity chart. Official chart (dated August 2021): Grand Ballroom theatre 1,550 (stored as capacity_max_delegates), 1,190 m². The live hotel website returned HTTP 403, so figures were not reconfirmed on a current page. Coordinates are the named Nominatim hotel pin, matching the atlas precise pin. Linked: Cloud & Datacenter Convention Philippines 2027. No official Philippine hotel-classification listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cloud-datacenter-convention-philippines-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1190,
+     "capacity_max": null,
+     "capacity_theatre": 1550,
+     "capacity_classroom": 900,
+     "capacity_banquet": 900,
+     "capacity_reception": 1400,
+     "notes": "Official 2021 chart.",
+     "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Grand Hyatt Manila capacity chart (August 2021)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
+     "href": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "smx-megatrade-hall",
+   "name": "SMX Megatrade Hall",
+   "type": "convention_centre",
+   "country": "Philippines",
+   "cc": "PH",
+   "city": "Mandaluyong",
+   "address": "5th Level, Mega B, SM Megamall, EDSA Corner Julia Vargas Avenue, Mandaluyong City 1555, Philippines",
+   "lat": 14.5847281,
+   "lon": 121.0568831,
+   "url": "https://www.smxconventioncenter.com/megatrade-hall/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official SMX page: 3 event halls, 2 meeting rooms and a conference room, totalling over 4,226 square metres of leasable space; 3 trade halls that can be merged into a total leasable space of up to 3,878 square metres and accommodate up to 3,878 guests; a gathering of up to 4,214 people. “Over” and “up to” figures are not stored as exact exhibition_sqm or capacity_max_delegates.",
+   "description": "Official SMX Convention Center hall on the 5th Level, Mega B, SM Megamall, EDSA corner Julia Vargas Avenue, Mandaluyong City 1555. Official page publishes “over 4,226 square metres” of leasable space and a gathering “up to 4,214 people”; those are not stored as exact exhibition_sqm or capacity_max_delegates. Coordinates are the atlas precise pin for MegaTrade Halls, 5F SM Megamall Building B. Linked: ToyCon Christmas Toyfair 2026.",
+   "photo": null,
+   "linked_event_slugs": [
+    "toycon-christmas-toyfair-2026"
+   ],
+   "sources": [
+    {
+     "url": "https://www.smxconventioncenter.com/megatrade-hall/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Trade halls (combined, official ‘up to’)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 3 halls that can be merged into a total leasable space of up to 3,878 square metres and accommodate up to 3,878 guests. Not stored as exact area or capacity.",
+     "source_url": "https://www.smxconventioncenter.com/megatrade-hall/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "smx-convention-center-manila",
+   "name": "SMX Convention Center Manila",
+   "type": "convention_centre",
+   "country": "Philippines",
+   "cc": "PH",
+   "city": "Pasay",
+   "address": "Seashell Lane, Mall of Asia Complex, Pasay City 1300, Philippines",
+   "lat": 14.5320342,
+   "lon": 120.9815806,
+   "url": "https://www.smxconventioncenter.com/smx-manila/",
+   "capacity": null,
+   "exhibition_sqm": 9130,
+   "halls": "Official SMX Manila page: 4 exhibition halls, 5 function rooms and 14 meeting rooms, totalling 17,170 square metres (that combined leasable total is not stored as exhibition_sqm). The 4 purpose-built halls have a total floor area of 9,130 square metres, stored as exhibition_sqm. An official 2019 capacity chart confirms Halls 1 or 4 2,750 sq m, Halls 2 or 3 1,815 sq m, and Halls 1–4 9,130 sq m.",
+   "description": "Official SMX Convention Center Manila at Seashell Lane, Mall of Asia Complex, Pasay City 1300. Official page: four purpose-built halls totalling 9,130 square metres (stored as exhibition_sqm). The wider 17,170 square-metre total of halls, function rooms and meeting rooms is noted and not stored as exhibition_sqm. Coordinates are the named events-venue Nominatim pin. Leftover national exhibition centre; no atlas event is linked at this campus in this pass (ToyCon is at Megatrade Hall).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.smxconventioncenter.com/smx-manila/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1 or Hall 4",
+     "type": null,
+     "area_sqm": 2750,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2019 chart; current official page confirms the four-hall total of 9,130 sq m.",
+     "source_url": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf"
+    },
+    {
+     "name": "Hall 2 or Hall 3",
+     "type": null,
+     "area_sqm": 1815,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf"
+    },
+    {
+     "name": "Halls 1–4 (combined)",
+     "type": null,
+     "area_sqm": 9130,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.smxconventioncenter.com/smx-manila/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "SMX Manila capacity chart (2019)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf",
+     "href": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "mtp-poznan-expo",
    "name": "MTP Poznań Expo / Poznań Congress Center",
    "type": "exhibition_grounds",
@@ -288061,6 +289123,257 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "belgrade-fair",
+   "name": "Belgrade Fair (Beogradski sajam)",
+   "type": "exhibition_grounds",
+   "country": "Serbia",
+   "cc": "RS",
+   "city": "Belgrade",
+   "address": "Bulevar vojvode Mišića 14, 11040 Belgrade, Serbia",
+   "lat": 44.7968533,
+   "lon": 20.437565,
+   "url": "https://sajam.rs/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official hall pages publish exhibiting space for Hall 1 (15,030 sq m), Hall 1A (1,163 sq m), Hall 2 (9,239 sq m), Hall 3 (4,438 sq m), Hall 3A (1,468 sq m), Hall 4 ground floor 8,320 sq m and gallery 3,345 sq m, and Hall 5 2,409 sqm, plus conference halls. The official 2025 corporate presentation says exhibition space in all halls of approx. 100,000 m² and open exhibition space of approx. 35,000 m²; those approximate campus totals are not stored as exhibition_sqm.",
+   "description": "Official Belgrade exhibition complex at Bulevar vojvode Mišića 14, 11040 Belgrade, with public email. Official hall pages give exhibiting areas hall by hall (stored in spaces). The official 2025 corporate presentation’s “approx. 100,000 m²” indoor hall total and “approx. 35,000 m²” open space are not stored as exhibition_sqm. Coordinates are the named exhibition-centre Nominatim pin, matching the atlas precise pin. Linked: GITEX AI Belgrade, Belgrade Book Fair, DSC Europe and Belgrade Tango Encuentro (the last also uses Dorćol Platz as a separate additional venue, which is not merged into this record).",
+   "photo": null,
+   "linked_event_slugs": [
+    "gitex-ai-belgrade-2027",
+    "belgrade-book-fair-2027",
+    "dsc-europe-2026",
+    "belgrade-tango-encuentro-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://sajam.rs/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-1/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-1a/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-2/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-3/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-3a/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-4/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-5/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sajam.rs/wp-content/uploads/prezentacija_bgsajam_corpo_eng_2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 15030,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: total hall area 21,280 sq m, of which exhibiting space 15,030 sq m.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-1/"
+    },
+    {
+     "name": "Hall 1A",
+     "type": null,
+     "area_sqm": 1163,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: total area 3,333 sq m, of which 1,163 sq m used for exhibitions.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-1a/"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 9239,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: total hall area 14,427 sq m, of which 9,239 sq m exhibiting space.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-2/"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 4438,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: total area 8,109 sq m, of which exhibiting space 4,438 sq m.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-3/"
+    },
+    {
+     "name": "Hall 3A",
+     "type": null,
+     "area_sqm": 1468,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: two levels totalling 2,190 sq m, of which 1,468 sq m exhibiting space.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-3a/"
+    },
+    {
+     "name": "Hall 4 ground floor",
+     "type": null,
+     "area_sqm": 8320,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-4/"
+    },
+    {
+     "name": "Hall 4 gallery",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-4/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 2409,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: exhibiting area 2,409 sqm.",
+     "source_url": "https://sajam.rs/en/about-us/exhibitions-halls/hall-5/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Belgrade Fair corporate presentation 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://sajam.rs/wp-content/uploads/prezentacija_bgsajam_corpo_eng_2025.pdf",
+     "href": "https://sajam.rs/wp-content/uploads/prezentacija_bgsajam_corpo_eng_2025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "expo-belgrade-2027-complex",
+   "name": "EXPO 2027 Belgrade complex, Surčin",
+   "type": "exhibition_grounds",
+   "country": "Serbia",
+   "cc": "RS",
+   "city": "Belgrade",
+   "address": null,
+   "lat": 44.7631643,
+   "lon": 20.3020422,
+   "url": "https://www.expobelgrade2027.org/en/about",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official site describes a future EXPO complex in Surčin for the Specialised Exhibition, 15 May–15 August 2027. No official hall-area schedule was published on the about or contact pages retrieved.",
+   "description": "Named official EXPO 2027 Belgrade campus in Surčin, with public email. Official FAQ: the exhibition takes place at the future EXPO complex in Surčin. No official street address or exhibition-area total was published on the official about and contact pages retrieved, so those fields are null. Coordinates are the atlas precise pin for the named EXPO complex (Nominatim did not return a distinct named pin in this pass).",
+   "photo": null,
+   "linked_event_slugs": [
+    "expo-2027-belgrade"
+   ],
+   "sources": [
+    {
+     "url": "https://www.expobelgrade2027.org/en/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.expobelgrade2027.org/en/contact",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "kigali-convention-centre",
+   "name": "Kigali Convention Centre",
+   "type": "convention_centre",
+   "country": "Rwanda",
+   "cc": "RW",
+   "city": "Kigali",
+   "address": null,
+   "lat": -1.955288,
+   "lon": 30.093782,
+   "url": "https://www.kcc.rw/",
+   "capacity": 2600,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: main auditorium under the dome seats up to 2,600 people; operators say the complex can host more than 5,000 delegates at once (not stored as an exact campus max). Official copy also cites a complex of some 53,000 square metres and a Kigali IT Park of around 32,200 m² of office and retail space, which are not exhibition figures. No official exhibition-hall total was published on the retrieved homepage (contact paths returned 404).",
+   "description": "Rwanda’s national convention centre in Kigali, officially described on kcc.rw. Official homepage: the main auditorium under the dome seats up to 2,600 people (stored as capacity_max_delegates). The official wording “more than 5,000 delegates at once” is not stored as an exact campus maximum. No official street address or exhibition_sqm figure was published on the retrieved official homepage, and /contact paths returned 404, so those fields are null. Coordinates are the named conference-centre Nominatim pin, matching the atlas precise pin. Linked: Africa Startup Congress and Inclusive Fintech Forum 2027; MWC Kigali 2027 is also linked with a TBC-dates note (the atlas flag is imprecise, but the usual venue is KCC and the pin matches this building).",
+   "photo": null,
+   "linked_event_slugs": [
+    "africa-startup-congress-2027",
+    "inclusive-fintech-forum-2027",
+    "mwc-kigali-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://www.kcc.rw/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Main auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2600,
+     "capacity_theatre": 2600,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: seats up to 2,600 people under the dome.",
+     "source_url": "https://www.kcc.rw/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "riyadh-front-exhibition-and-conference-center",
    "name": "Riyadh Front Exhibition & Conference Center",
    "type": "convention_centre",
@@ -289658,7 +290971,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Capella Singapore"
   },
   {
    "slug": "gospodarsko-razstavisce",
@@ -289837,6 +291151,70 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.hit.si/en/hotels/perla/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "crowne-plaza-bratislava",
+   "name": "Crowne Plaza Bratislava",
+   "type": "hotel_conference_venue",
+   "country": "Slovakia",
+   "cc": "SK",
+   "city": "Bratislava",
+   "address": null,
+   "lat": 48.1473925,
+   "lon": 17.1081649,
+   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/bratislava/btscp/hoteldetail",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official IHG hotel pages returned HTTP 403 on retrieval, so meeting-room figures and the official street address were not taken from the hotel site this pass. The atlas lists Hodžovo námestie 2; that address is not stored because it was not confirmed on a retrieved official hotel page.",
+   "description": "Atlas-hosting hotel for Autumn ITAPA 2026. Coordinates are the named Nominatim hotel pin, which matches the atlas precise pin. The official IHG property page returned HTTP 403, so address and capacities are null pending an official page retrieve. No Hotelstars Union property-level listing was retrieved in this pass (the Slovakia directory path returned 404), so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "autumn-itapa-2026"
+   ],
+   "sources": [
+    {
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/bratislava/btscp/hoteldetail",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "incheba-expo-bratislava",
+   "name": "Incheba Expo Bratislava",
+   "type": "exhibition_grounds",
+   "country": "Slovakia",
+   "cc": "SK",
+   "city": "Bratislava",
+   "address": "Viedenská cesta 3-7, 851 01 Bratislava, Slovakia",
+   "lat": 48.1342415,
+   "lon": 17.1012508,
+   "url": "https://www.incheba.sk/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official contact and about pages identify Incheba Expo Bratislava as Slovakia’s largest exhibition grounds but do not publish a campus exhibition-area total on the pages retrieved. Visitor parking is officially given as 3,531 spaces.",
+   "description": "Official Slovak exhibition complex at Viedenská cesta 3-7, 851 01 Bratislava, with public email. Official about copy calls it the largest Slovak exhibition grounds but does not state an exact exhibition_sqm figure on the retrieved pages, so that field is null (a widely repeated 46,000 m² figure from non-official sites is not stored). Coordinates are the named exhibition-centre Nominatim pin. Leftover national centre; no atlas event is linked in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.incheba.sk/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.incheba.sk/kontakt/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.incheba.sk/o-nas/",
      "label": "Official source"
     }
    ],
@@ -292855,6 +294233,127 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "saigon-exhibition-convention-centre",
+   "name": "Saigon Exhibition and Convention Center (SECC)",
+   "type": "convention_centre",
+   "country": "Vietnam",
+   "cc": "VN",
+   "city": "Ho Chi Minh City",
+   "address": "799 Nguyen Van Linh, Tan My Ward, Ho Chi Minh City, Vietnam",
+   "lat": 10.7312094,
+   "lon": 106.7214782,
+   "url": "https://secc.com.vn/",
+   "capacity": null,
+   "exhibition_sqm": 18000,
+   "halls": "Official hall pages: Exhibition Hall A 9,000 m² (divisible A1/A2, 475 booths) and Exhibition Hall B 9,000 m² (divisible B1/B2, 475 booths). Official venue page: outdoor venue 22,000 sqm, which is excluded.",
+   "description": "Ho Chi Minh City exhibition and convention centre officially at 799 Nguyen Van Linh, Tan My Ward, with public email. Official Hall A and Hall B pages each publish 9,000 m² of exhibition space; those two official hall figures are stored as exhibition_sqm 18,000. The official outdoor venue of 22,000 sqm is excluded. Coordinates are the atlas precise pin for Hall A (Nominatim did not return a named SECC pin in this pass). Linked: Vietnam ICTComm and Smart Tech Vietnam 2027, both named at Hall A.",
+   "photo": null,
+   "linked_event_slugs": [
+    "vietnam-ictcomm-2027",
+    "smart-tech-vietnam-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://secc.com.vn/venue",
+     "label": "Official source"
+    },
+    {
+     "url": "https://secc.com.vn/venue/1581449427/exhibition-hall-a",
+     "label": "Official source"
+    },
+    {
+     "url": "https://secc.com.vn/venue/1581452596/exhibition-hall-b",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall A",
+     "type": null,
+     "area_sqm": 9000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: divisible A1/A2; 475 booths; 12 m clearance.",
+     "source_url": "https://secc.com.vn/venue/1581449427/exhibition-hall-a"
+    },
+    {
+     "name": "Exhibition Hall B",
+     "type": null,
+     "area_sqm": 9000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: divisible B1/B2; 475 booths; 12 m clearance.",
+     "source_url": "https://secc.com.vn/venue/1581452596/exhibition-hall-b"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "the-reverie-saigon",
+   "name": "The Reverie Saigon",
+   "type": "hotel_conference_venue",
+   "country": "Vietnam",
+   "cc": "VN",
+   "city": "Ho Chi Minh City",
+   "address": "Times Square Building, 22–36 Nguyen Hue Boulevard & 57–69F Dong Khoi Street, Sai Gon Ward, Ho Chi Minh City, Vietnam",
+   "lat": 10.7733278,
+   "lon": 106.705039,
+   "url": "https://www.thereveriesaigon.com/",
+   "capacity": 600,
+   "exhibition_sqm": null,
+   "halls": "Official La Scala Ballroom page: pillar-less ballroom; La Scala A + B 617 m², theatre 600; A + B + corridor 812 m², theatre 700.",
+   "description": "Official hotel conference venue at the Times Square Building, 22–36 Nguyen Hue Boulevard and 57–69F Dong Khoi Street, Sai Gon Ward, with public email. Official La Scala capacity table: A + B theatre 600 (stored as capacity_max_delegates for the named ballroom); A + B + corridor theatre 700 is noted and not used as the campus max. Coordinates are the atlas precise La Scala pin (Nominatim’s hotel pin is nearby at 10.7738731, 106.7048650 and was not substituted). Linked: Vietnam Cloud & Datacenter Convention 2027. No official Vietnamese hotel-classification listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "vietnam-cloud-datacenter-convention-2027"
+   ],
+   "sources": [
+    {
+     "url": "https://www.thereveriesaigon.com/meetings/la-scala-ballroom/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.thereveriesaigon.com/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "La Scala Ballroom A + B",
+     "type": null,
+     "area_sqm": 617,
+     "capacity_max": null,
+     "capacity_theatre": 600,
+     "capacity_classroom": 315,
+     "capacity_banquet": 350,
+     "capacity_reception": 550,
+     "notes": null,
+     "source_url": "https://www.thereveriesaigon.com/meetings/la-scala-ballroom/"
+    },
+    {
+     "name": "La Scala Ballroom A + B + Corridor",
+     "type": null,
+     "area_sqm": 812,
+     "capacity_max": null,
+     "capacity_theatre": 700,
+     "capacity_classroom": 430,
+     "capacity_banquet": 450,
+     "capacity_reception": 700,
+     "notes": null,
+     "source_url": "https://www.thereveriesaigon.com/meetings/la-scala-ballroom/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "sandton-convention-centre",
    "name": "Sandton Convention Centre",
    "type": "convention_centre",
@@ -293643,8 +295142,8 @@ window.ATLASDATA={
    "south_america": 214
   },
   "expo": 187,
-  "hotels": 547,
-  "venues": 473,
+  "hotels": 594,
+  "venues": 494,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,
