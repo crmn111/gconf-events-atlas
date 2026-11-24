@@ -577,12 +577,13 @@ function hotelPopup(h, slug){
   const priceLab = hotelPriceLabel(h, slug);
   const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
+  const venueLink = h.venue_slug ? `<p><a href="#/venue/${esc(h.venue_slug)}">Venue page</a></p>` : '';
   return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
     <p class="hk-meta">${stars}★ hotel</p>
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
-    ${partner}${link}</div>`;
+    ${partner}${link}${venueLink}</div>`;
 }
 function openEventSlug(){
   const m = (location.hash||'').match(/event\/([^/]+)/);
@@ -627,8 +628,9 @@ function hotelsSectionHtml(e){
     const priceLab = hotelPriceLabel(h, slug);
     const partner = hotelIsPartner(h, slug) ? 'Official partner' : '';
     const name = h.url ? `<a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name||'Hotel')}</a>` : esc(h.name||'Hotel');
+    const venueLink = h.venue_slug ? ` <a href="#/venue/${esc(h.venue_slug)}">Venue page</a>` : '';
     const meta = [h.address, distLab, priceLab, partner].filter(Boolean).join(' · ');
-    return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
+    return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${venueLink}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
   }).join('');
   return `<div class="dsec hotels"><h4>Hotels</h4><ul>${items}</ul></div>`;
 }
@@ -808,9 +810,14 @@ function syncVenueLayer(){
   const list = evSlug
     ? VENUES.filter(v => (v.linked_event_slugs||[]).includes(evSlug))
     : VENUES;
+  const hotelVenueSlugs = evSlug
+    ? new Set((typeof hotelsForSlug==='function' ? hotelsForSlug(evSlug, true) : []).map(h => h.venue_slug).filter(Boolean))
+    : new Set();
   list.forEach(v => {
     const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
     if(lat==null || lon==null) return;
+    // Same place as a hotel marker: keep the hotel pin, skip the duplicate venue pin.
+    if(evSlug && hotelVenueSlugs.has(v.slug)) return;
     const mk = L.marker([lat, lon], {icon:venueIcon(v), title:v.name, riseOnHover:true, keyboard:true, pane:'venues'});
     mk.bindPopup(venuePopup(v), {className:'ppop', maxWidth:300});
     mk.bindTooltip(v.name, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-14]});
@@ -855,6 +862,7 @@ function viewVenue(v){
     ${fact('Capacity', cap)}
     ${fact('Exhibition space', sqm)}
     ${fact('Website', siteLab, v.url)}
+    ${fact('Also listed as a hotel', v.hotel_name)}
   </dl></div>`;
   const about = v.description ? `<div class="dsec"><h4>About</h4><p>${esc(v.description)}</p></div>` : '';
   const evItems = (v.linked_event_slugs||[]).map(slug => {

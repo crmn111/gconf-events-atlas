@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T09:09:27Z",
+ "generated": "2026-11-24T09:19:40Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -6797,7 +6797,7 @@ window.ATLASDATA={
    "city": "Las Vegas",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "The Venetian Convention & Expo Center and Caesars Forum",
    "industry": "Cloud / AI",
    "format": "In-person",
    "organizer": "Amazon Web Services",
@@ -6813,7 +6813,7 @@ window.ATLASDATA={
    "year": 2026,
    "source_url": "https://reinvent.awsevents.com/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "Runs across multiple Las Vegas Strip venues; hybrid livestream also offered. US dates are local to the host city.",
+   "notes": "Official page title lists Nov 30-Dec 4, Las Vegas. Official re:Invent FAQs name Caesars Forum, Caesars Palace, Encore, MGM Grand, The Venetian and Wynn; the atlas records The Venetian Convention & Expo Center and Caesars Forum. US dates are local to the host city.",
    "lat": 36.1674263,
    "lng": -115.1484131,
    "precise": false,
@@ -6858,6 +6858,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://reinvent.awsevents.com/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://aws.amazon.com/events/reinvent/faqs/",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -6872,8 +6877,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Las Vegas, Clark County, Nevada, United States (query: Las Vegas, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official page title \"AWS re:Invent 2026 | ... | Nov 30-Dec 4, Las Vegas\", fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official page title \"AWS re:Invent 2026 | ... | Nov 30-Dec 4, Las Vegas\", fetched 23 Nov 2026. Venues from the official re:Invent FAQs (https://aws.amazon.com/events/reinvent/faqs/), fetched 24 Nov 2026: the event runs across Caesars Forum, Caesars Palace, Encore, MGM Grand, The Venetian and Wynn; the atlas links The Venetian Convention & Expo Center and Caesars Forum. The event stays on a city-level pin (precise=false) because it is a multi-campus Las Vegas event.",
    "id": "aws-reinvent-2026",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -21491,7 +21496,7 @@ window.ATLASDATA={
    "city": "Las Vegas",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Las Vegas Convention Center and The Venetian Convention & Expo Center",
    "industry": "Consumer technology",
    "format": "In-person",
    "organizer": "Consumer Technology Association (CTA)",
@@ -21507,7 +21512,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.ces.tech/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "Official homepage lists \"January 6-9 Las Vegas, NV\" alongside CES 2027 news; CES runs across several Las Vegas venues (no single venue named on the page fetched). US dates are local to the host city.",
+   "notes": "Official homepage lists \"January 6-9 Las Vegas, NV\" alongside CES 2027 news. Official CES 2027 maps name a multi-campus footprint; the atlas records the Las Vegas Convention Center and The Venetian Convention & Expo Center. US dates are local to the host city.",
    "lat": 36.1674263,
    "lng": -115.1484131,
    "precise": false,
@@ -21532,6 +21537,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.ces.tech/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.ces.tech/media/1kqatmqa/lvcc-map-ces-2027.pdf",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -21546,8 +21556,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Las Vegas, Clark County, Nevada, United States (query: Las Vegas, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official CES homepage (headless render), fetched 23 Nov 2026; page text says \"January 6-9 Las Vegas, NV\" with CES 2027 headlines, year taken from that context.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official CES homepage (headless render), fetched 23 Nov 2026; page text says \"January 6-9 Las Vegas, NV\" with CES 2027 headlines, year taken from that context. Venues from the official CES 2027 LVCC map and ces.tech, fetched 24 Nov 2026: Las Vegas Convention Center and The Venetian Convention & Expo Center (Venetian Campus). Other official map campuses were not given standalone atlas records. The event stays on a city-level pin (precise=false) because it runs across several Las Vegas sites.",
    "id": "ces-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -59928,7 +59938,7 @@ window.ATLASDATA={
    "city": "San Jose",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "San Jose McEnery Convention Center, 150 W. San Carlos Street, San Jose, CA 95113",
    "industry": "Artificial intelligence",
    "format": "In-person",
    "organizer": "NVIDIA",
@@ -59944,7 +59954,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.nvidia.com/gtc/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "Official GTC homepage lists March 15–18 in San Jose. Official GTC FAQ names San Jose McEnery Convention Center, 150 W. San Carlos Street, San Jose, CA 95113, plus venues throughout San Jose. US dates are local to the host city.",
    "lat": 37.3361663,
    "lng": -121.890591,
    "precise": false,
@@ -59961,6 +59971,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.nvidia.com/gtc/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.nvidia.com/gtc/faq/",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -59975,8 +59990,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: San Jose, Santa Clara County, California, United States (query: San Jose, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Official GTC page: \"NVIDIA GTC 2027 March 15–18 ... returns to San Jose\", fetched 23 Nov 2026 (headless render). Venue not named on the page.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official GTC page: \"NVIDIA GTC 2027 March 15–18 ... returns to San Jose\", fetched 23 Nov 2026 (headless render). Venue from the official GTC FAQ (https://www.nvidia.com/gtc/faq/), fetched 24 Nov 2026: San Jose McEnery Convention Center, 150 W. San Carlos Street, San Jose, CA 95113, plus venues throughout San Jose. Dates on the event remain 15–18 March as stated on the official homepage; the FAQ also mentions 14–18 March. The pin stays city-level (precise=false) because the FAQ names additional venues around San Jose.",
    "id": "nvidia-gtc-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -236312,7 +236327,8 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
-   "price": null
+   "price": null,
+   "venue_slug": "hotel-adlon-kempinski-berlin"
   },
   {
    "name": "Hotel de Rome",
@@ -237200,7 +237216,8 @@ window.ATLASDATA={
     "check_in": "2027-01-20",
     "check_out": "2027-01-22",
     "type": "event_dates_lowest"
-   }
+   },
+   "venue_slug": "intercontinental-london-the-o2"
   },
   {
    "name": "Canary Riverside Plaza London, Vignette Collection",
@@ -238188,7 +238205,8 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "London & Partners / London Convention Bureau, Partner Index 2026 (PDF), https://www.conventionbureau.london/-/media/files/london/convention-bureau/assets/partner-index-2026.pdf",
-   "price": null
+   "price": null,
+   "venue_slug": "park-plaza-victoria-london"
   },
   {
    "name": "Park Plaza Westminster Bridge London",
@@ -238331,7 +238349,8 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "London & Partners / London Convention Bureau, Partner Index 2026 (PDF), https://www.conventionbureau.london/-/media/files/london/convention-bureau/assets/partner-index-2026.pdf",
-   "price": null
+   "price": null,
+   "venue_slug": "hilton-london-metropole"
   },
   {
    "name": "The Chancery Rosewood",
@@ -238490,7 +238509,8 @@ window.ATLASDATA={
     "check_in": "2026-11-25",
     "check_out": "2026-11-26",
     "type": "event_dates_lowest"
-   }
+   },
+   "venue_slug": "grand-hotel-excelsior-malta"
   },
   {
    "name": "The Phoenicia Malta",
@@ -238540,7 +238560,8 @@ window.ATLASDATA={
     "check_in": "2026-11-25",
     "check_out": "2026-11-26",
     "type": "event_dates_lowest"
-   }
+   },
+   "venue_slug": "phoenicia-malta"
   },
   {
    "name": "Rosselli AX Privilege",
@@ -238665,7 +238686,8 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "https://mta.com.mt/licences/csv/hotels.csv",
-   "price": null
+   "price": null,
+   "venue_slug": "the-palace-sliema"
   },
   {
    "name": "Palais Le Brun",
@@ -238850,7 +238872,8 @@ window.ATLASDATA={
     "check_in": "2026-11-26",
     "check_out": "2026-11-27",
     "type": "event_dates_lowest"
-   }
+   },
+   "venue_slug": "corinthia-palace-malta"
   },
   {
    "name": "The Xara Palace Relais & Châteaux",
@@ -239795,6 +239818,309 @@ window.ATLASDATA={
    "sources": [],
    "star_rating": null,
    "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "atlantis-the-royal",
+   "name": "Atlantis The Royal",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Dubai",
+   "address": "Crescent Road, The Palm, Dubai, United Arab Emirates",
+   "lat": 25.137842,
+   "lon": 55.1273367,
+   "url": "https://www.atlantis.com/dubai/atlantis-the-royal",
+   "capacity": 1200,
+   "exhibition_sqm": null,
+   "halls": "Official Kerzner MICE brochure for Atlantis The Royal (2 October 2025): Diamond Ballroom 1,018.80 m² (approximate dimensions), divisible into three sections, with official chart figures of 1,200 reception, 1,173 theatre, 660 banquet, 648 classroom and 102 U-shape. Narrative pages in the same brochure also describe the main ballroom as approximately 1,000 m² with seating capacity of approximately 660. Six Galleria-level meeting rooms and a VIP Majlis are also listed. Official hotel schema on the property site states 795 rooms; the same brochure states 760 rooms. Star rating left null: no public DET hotel-level register hit in this pass.",
+   "description": "Palm Jumeirah hotel and conference centre (official address Crescent Road, The Palm, Dubai). Official MICE brochure capacity chart: Diamond Ballroom 1,018.80 m², 1,200 reception and 1,173 theatre, divisible into three sections. The brochure's earlier narrative rounds this to approximately 1,000 m² and a seating capacity of approximately 660 (matching the chart's banquet figure). Official property schema on the hotel site lists 795 rooms; the brochure lists 760 — both official figures are noted. No public Dubai DET hotel-level classification was confirmed, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.atlantis.com/dubai/atlantis-the-royal",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.atlantis.com/dubai/meetings-and-events/corporate-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Diamond Ballroom",
+     "type": null,
+     "area_sqm": 1018.8,
+     "capacity_max": null,
+     "capacity_theatre": 1173,
+     "capacity_classroom": 648,
+     "capacity_banquet": 660,
+     "capacity_reception": 1200,
+     "notes": "Official chart: 24.9 x 46.5 m, height 8.5 m. Dimensions are marked as approximate because of the room's layout and shape. Narrative pages in the same brochure say approximately 1,000 m² and seating capacity approximately 660.",
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    },
+    {
+     "name": "Diamond Ballroom A",
+     "type": null,
+     "area_sqm": 341.7,
+     "capacity_max": null,
+     "capacity_theatre": 414,
+     "capacity_classroom": 234,
+     "capacity_banquet": 216,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    },
+    {
+     "name": "Diamond Ballroom B",
+     "type": null,
+     "area_sqm": 338.4,
+     "capacity_max": null,
+     "capacity_theatre": 414,
+     "capacity_classroom": 234,
+     "capacity_banquet": 180,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    },
+    {
+     "name": "Topaz",
+     "type": null,
+     "area_sqm": 83.58,
+     "capacity_max": null,
+     "capacity_theatre": 56,
+     "capacity_classroom": 36,
+     "capacity_banquet": 60,
+     "capacity_reception": null,
+     "notes": "Official chart also lists boardroom 18 and U-shape 24.",
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    },
+    {
+     "name": "Business District Terrace",
+     "type": null,
+     "area_sqm": 90.2,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 100,
+     "notes": null,
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    },
+    {
+     "name": "VIP Majlis",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 20,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official brochure: seating capacity approximately 20.",
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Atlantis The Royal MICE brochure (2 October 2025)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025",
+     "href": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "emirates-palace-mandarin-oriental",
+   "name": "Emirates Palace Mandarin Oriental, Abu Dhabi",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Abu Dhabi",
+   "address": "West Corniche Road, P.O. Box 39999, Abu Dhabi, United Arab Emirates",
+   "lat": 24.4623864,
+   "lon": 54.3174746,
+   "url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+   "capacity": 2400,
+   "exhibition_sqm": null,
+   "halls": "Official Mandarin Oriental press kit: total meeting and conference space exceeding 7,000 m²; the Auditorium and Ballroom can accommodate up to 1,100 and 2,400 guests respectively; over 40 meeting rooms, six large terraces and pre-function areas. The same kit describes a spacious 3,000 m² auditorium with capacity to accommodate 1,100 seated guests, called the largest theatre in any hotel globally. Star rating left null: no public DCT hotel-level register hit in this pass.",
+   "description": "Abu Dhabi Corniche palace hotel (official press-kit address West Corniche Road, P.O. Box 39999). Official Mandarin Oriental press kit: more than 7,000 m² of meeting and conference space, an auditorium of 3,000 m² for 1,100 seated guests, and a ballroom for up to 2,400 guests, plus more than 40 meeting rooms. No public Abu Dhabi DCT hotel-level classification was confirmed, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official press kit: Auditorium and Ballroom can accommodate up to 1,100 and 2,400 guests respectively. A separate published area for the ballroom was not clearly isolated from the two-column press-kit layout in this pass.",
+     "source_url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf"
+    },
+    {
+     "name": "Auditorium",
+     "type": null,
+     "area_sqm": 3000,
+     "capacity_max": null,
+     "capacity_theatre": 1100,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official press kit: a spacious 3,000 m² auditorium with capacity to accommodate 1,100 seated guests; described as the largest theatre in any hotel globally.",
+     "source_url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Emirates Palace Mandarin Oriental, Abu Dhabi official press kit",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
+     "href": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "conrad-abu-dhabi-etihad-towers",
+   "name": "Conrad Abu Dhabi Etihad Towers",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Abu Dhabi",
+   "address": "West Corniche, P.O. Box 111929, Abu Dhabi, United Arab Emirates",
+   "lat": 24.4583909,
+   "lon": 54.322254,
+   "url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/",
+   "capacity": 2000,
+   "exhibition_sqm": null,
+   "halls": "Official Hilton events page and official hotel fact sheet (13 October 2025): 13 meeting rooms on Podium Level 4 and the 1,920 m² Mezzoon Ballroom, divisible into four sections, with a large pre-function area. The events page and fact-sheet prose both say the ballroom accommodates up to 1,000 guests. The official fact sheet's function-room capacity chart (image table) lists Mezzoon Ballroom at 1,920 m² with reception 2,000, banquet 1,000, classroom 792 and theatre 1,400. Headline capacity uses the official chart's largest published figure (2,000 reception). Fact sheet: 377 rooms and suites. Star rating left null: no public DCT hotel-level register hit in this pass.",
+   "description": "Abu Dhabi Corniche hotel and conference centre in the Etihad Towers complex (official fact-sheet address West Corniche, P.O. Box 111929). Official Hilton events page and fact sheet: 13 meeting rooms and a 1,920 m² Mezzoon Ballroom. The prose on both official sources says the ballroom accommodates up to 1,000 guests; the official fact-sheet capacity chart also lists 2,000 reception and 1,400 theatre for the same room. Headline capacity follows the official chart (2,000 reception), with the 1,000-guest prose figure noted. No public DCT hotel-level classification was confirmed, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Mezzoon Ballroom",
+     "type": null,
+     "area_sqm": 1920,
+     "capacity_max": null,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 792,
+     "capacity_banquet": 1000,
+     "capacity_reception": 2000,
+     "notes": "Official fact-sheet capacity chart. Official Hilton events page and fact-sheet prose state that the ballroom accommodates up to 1,000 guests and can be divided into four fully functional sections. Chart cabaret figure is also published on the same table (700).",
+     "source_url": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf"
+    },
+    {
+     "name": "Meeting Rooms (13, Podium Level 4)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official events page and fact sheet: 13 meeting rooms on Podium Level 4. Individual room figures are on the official fact-sheet chart image; they are not all transcribed here.",
+     "source_url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/events/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Conrad Abu Dhabi Etihad Towers hotel fact sheet (23 April 2025 / published 13 October 2025)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf",
+     "href": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "address-downtown",
+   "name": "Address Downtown",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Dubai",
+   "address": "Downtown Dubai, United Arab Emirates",
+   "lat": 25.19404,
+   "lon": 55.2789117,
+   "url": "https://www.addresshotels.com/en/hotels/address-downtown/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Address Hotels events page confirms fully equipped meeting rooms and an events team (events@emaarhospitality.com) but, in the text retrieved in this pass, publishes numerical capacities only for a restaurant buyout of Cetara (120 cocktail / 100 sit-down dinner). A current official ballroom or conference-centre capacity chart was not retrieved. Star rating left null: no public DET hotel-level register hit in this pass.",
+   "description": "Downtown Dubai hotel in the Address Hotels + Resorts portfolio. Official events page: events team at events@emaarhospitality.com and +971 4 436 8888. The retrieved official events page did not publish a named ballroom capacity chart, so meeting-room headline figures are left null rather than taken from non-official directories. Cetara restaurant buyout capacities are recorded under spaces. A more specific official street address was not present in the retrieved events-page text.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events@emaarhospitality.com",
+   "sources": [
+    {
+     "url": "https://www.addresshotels.com/en/hotels/address-downtown/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.addresshotels.com/en/hotels/address-downtown/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Cetara",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 100,
+     "capacity_reception": 120,
+     "notes": "Official events page: restaurant buyout, 120 cocktail reception or 100 sit-down dinner. Not a conference ballroom.",
+     "source_url": "https://www.addresshotels.com/en/hotels/address-downtown/events/"
+    }
+   ],
    "documents": []
   },
   {
@@ -240829,7 +241155,8 @@ window.ATLASDATA={
      "href": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf",
      "local": false
     }
-   ]
+   ],
+   "hotel_name": "Hotel Adlon Kempinski Berlin"
   },
   {
    "slug": "fira-barcelona-gran-via",
@@ -241452,10 +241779,7 @@ window.ATLASDATA={
     "learning-technologies-france-2027",
     "open-source-experience-2026",
     "big-data-ai-paris-2027",
-    "educatech-expo-2026",
-    "wine-paris-2027",
-    "salon-international-agriculture-2027",
-    "foire-de-paris-2027"
+    "educatech-expo-2026"
    ],
    "contact_email": "sales@viparis.com",
    "sources": [
@@ -241496,12 +241820,7 @@ window.ATLASDATA={
    "halls": "VIPARIS describes this as France's largest exhibition centre. The spaces page states 243,515 m²; the homepage rounds the interior to 250,000 m² of modular interior space, plus 360,000 m² outdoor space, 9 halls, 200,000 m² of green space, 2 amphitheatres of up to 628 seats and 38 meeting rooms. Official hall areas: Hall 1 16,455 m²; Hall 2 16,389 m²; Hall 3 19,347 m²; Hall 4 19,316 m²; Hall 5A 49,734 m²; Hall 5B 26,611 m²; Hall 6 46,598 m²; Hall 7 34,065 m²; Hall 8 15,000 m². exhibition_sqm uses the detailed 243,515 m² spaces-page total. A reliable hall-centroid coordinate was not obtained (Nominatim returned the RER station rather than the halls), so lat/lon are null.",
    "description": "France's largest exhibition park, in Villepinte near Paris-Charles de Gaulle Airport and on RER B at Parc des Expositions, operated by VIPARIS. Official pages call out nine halls and a detailed interior area of 243,515 m² (the homepage also says 250,000 m²). No atlas-listed event is currently linked; included as the largest remaining French centre.",
    "photo": null,
-   "linked_event_slugs": [
-    "maison-objet-paris-january-2027",
-    "premiere-vision-paris-2027",
-    "jec-world-2027",
-    "intermat-2027"
-   ],
+   "linked_event_slugs": [],
    "contact_email": "sales@viparis.com",
    "sources": [
     {
@@ -241534,8 +241853,7 @@ window.ATLASDATA={
    "description": "VIPARIS exhibition centre at Le Bourget, known for the International Paris Air Show and other large outdoor-capable events. Official figures are 86,242 m² in five halls and 250,000 m² outdoors. The atlas lists the Paris Nautic Show here (city field Paris; the grounds are in Le Bourget / Dugny). Coordinates follow the atlas's precise geocode for this venue.",
    "photo": null,
    "linked_event_slugs": [
-    "paris-nautic-show-2026",
-    "paris-air-show-2027"
+    "paris-nautic-show-2026"
    ],
    "contact_email": "sales@viparis.com",
    "sources": [
@@ -241565,8 +241883,7 @@ window.ATLASDATA={
    "description": "Lyon's main exhibition park at Chassieu, operated by GL events, which the official site calls the largest exhibition park in France outside Paris. Official figures include 150,000 m² of surface area, seven ground-floor halls and a 4,200-seat auditorium. The atlas lists SIDO Lyon here. Coordinates follow the atlas's precise Eurexpo geocode; the city is recorded as Chassieu, where the grounds stand.",
    "photo": null,
    "linked_event_slugs": [
-    "sido-lyon-2027",
-    "global-industrie-2027"
+    "sido-lyon-2027"
    ],
    "contact_email": null,
    "sources": [
@@ -241641,8 +241958,7 @@ window.ATLASDATA={
    "linked_event_slugs": [
     "ethcc-10-2027",
     "waicf-2027",
-    "ipem-wealth-2027",
-    "mipim-2027"
+    "ipem-wealth-2027"
    ],
    "contact_email": null,
    "sources": [
@@ -241920,6 +242236,233 @@ window.ATLASDATA={
      "capacity_reception": 280,
      "notes": null,
      "source_url": "https://www.hotelducollectionneur.com/en/meetings"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "intercontinental-paris-le-grand",
+   "name": "InterContinental Paris Le Grand",
+   "type": "hotel_conference_venue",
+   "country": "France",
+   "cc": "FR",
+   "city": "Paris",
+   "address": "2 rue Scribe, 75009 Paris, France",
+   "lat": 48.8707271,
+   "lon": 2.3303365,
+   "url": "https://parislegrand.intercontinental.com/",
+   "capacity": 580,
+   "exhibition_sqm": null,
+   "halls": "Official Atout France 5-star Hôtel de tourisme, classified 9 March 2022, 446 rooms (the official 2025 meeting brochure states 455 rooms including 82 suites). Official event-venues page: Salon Opéra 450 m², theatre 556-580. Official 2025 brochure: more than 2,000 m² of event and conference space, 13 first-floor meeting rooms, Salon Opéra theatre 600 / cocktail 600 / banquet 500, and combined Opéra / Ravel / Verrière cocktail 1,000 (or 1,200 with the lobby). Headline capacity uses the current official venues page for the single largest room (Opéra theatre 580).",
+   "description": "Official Atout France 5-star hotel facing the Palais Garnier (classified 9 March 2022, 2 rue Scribe, 75009 Paris, 446 rooms). Official event-venues page: Salon Opéra 450 m², theatre 556-580, classroom 350-370; Salon Berlioz also 450 m², theatre 370-450. The official 2025 meeting brochure lists higher single-room figures for Opéra (theatre 600) and combined configurations up to 1,200 cocktail; those brochure figures are recorded in spaces/notes rather than used as the headline. Banquets and events contact on the official brochure: paris.banquets@ihg.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "paris.banquets@ihg.com",
+   "sources": [
+    {
+     "url": "https://parislegrand.intercontinental.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://parislegrand.intercontinental.com/en/event-venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Salon Opéra",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": null,
+     "capacity_theatre": 580,
+     "capacity_classroom": 370,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page publishes ranges: theatre 556-580, classroom 350-370, cabaret 235-329; seated dinner 490 (1.50 m tables) or 330 (1.80 m). Official 2025 brochure lists Opéra at theatre 600 / classroom 350 / cocktail 600 / banquet 500.",
+     "source_url": "https://parislegrand.intercontinental.com/en/event-venues/"
+    },
+    {
+     "name": "Salon Berlioz",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": null,
+     "capacity_theatre": 450,
+     "capacity_classroom": 280,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page ranges: theatre 370-450, classroom 240-280. Official 2025 brochure lists Berlioz at theatre 500 / classroom 300 / cocktail 500 / banquet 400.",
+     "source_url": "https://parislegrand.intercontinental.com/en/event-venues/"
+    },
+    {
+     "name": "Salon Ravel",
+     "type": null,
+     "area_sqm": 126,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 130,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page ranges: theatre 176-200, classroom 117-130.",
+     "source_url": "https://parislegrand.intercontinental.com/en/event-venues/"
+    },
+    {
+     "name": "Opéra / Ravel / Verrière (combined, brochure)",
+     "type": null,
+     "area_sqm": 796,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 800,
+     "capacity_reception": 1000,
+     "notes": "Official 2025 brochure combined configuration, not a single room. The same brochure lists Verrière / Lobby / Ravel / Opéra at 1,164 m² / 1,200 cocktail / 920 banquet.",
+     "source_url": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf"
+    },
+    {
+     "name": "Salon Lulli",
+     "type": null,
+     "area_sqm": 142,
+     "capacity_max": null,
+     "capacity_theatre": 172,
+     "capacity_classroom": 130,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page ranges: theatre 161-172, classroom 117-130.",
+     "source_url": "https://parislegrand.intercontinental.com/en/event-venues/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "InterContinental Paris Le Grand réunions & événements brochure",
+     "doc_type": "brochure",
+     "language": "fr",
+     "source_url": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
+     "href": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "sofitel-lyon-bellecour",
+   "name": "Sofitel Lyon Bellecour",
+   "type": "hotel_conference_venue",
+   "country": "France",
+   "cc": "FR",
+   "city": "Lyon",
+   "address": "20 quai Gailleton, 69002 Lyon, France",
+   "lat": 45.7544834,
+   "lon": 4.8341639,
+   "url": "https://sofitel.accor.com/en/hotels/0553.html",
+   "capacity": 300,
+   "exhibition_sqm": null,
+   "halls": "Official Atout France 5-star Hôtel de tourisme, classified 23 July 2024, 164 rooms. Official meetings page key facts: 6 meeting rooms, up to 300 attendees; the same page's introduction also says 11 flexible meeting rooms. Configuration table: Confluent 317 m² (theatre 200, banquet 96, cocktail 300 in the room narrative); Ampère A-D 270 m² (theatre 300, classroom 150, banquet 110); plus Beaujeu, Jacquard A-C and Rhône.",
+   "description": "Official Atout France 5-star hotel on the Rhône at 20 quai Gailleton, Lyon (classified 23 July 2024, 164 rooms). Official meetings page: largest theatre capacity is 300 in Ampère A-D (270 m²); Confluent is the largest room by area at 317 m², with a published cocktail capacity of 300. Property mailbox on the official meetings page: H0553@sofitel.com. The page states both 6 and 11 meeting rooms; the published configuration table names six main spaces plus the 45 m² Rhône room.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "H0553@sofitel.com",
+   "sources": [
+    {
+     "url": "https://sofitel.accor.com/en/hotels/0553.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sofitel.accor.com/en/hotels/0553/meetings.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://all.accor.com/hotel/0553/index.en.shtml",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Ampère A B C D",
+     "type": null,
+     "area_sqm": 270,
+     "capacity_max": null,
+     "capacity_theatre": 300,
+     "capacity_classroom": 150,
+     "capacity_banquet": 110,
+     "capacity_reception": null,
+     "notes": "Official table: height 3.30 m, U-shape 80, boardroom 300. Divisible into four rooms. Official narrative: maximum 300 theatre.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Confluent",
+     "type": null,
+     "area_sqm": 317,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 54,
+     "capacity_banquet": 96,
+     "capacity_reception": 300,
+     "notes": "Largest room by area. Official narrative: maximum 300 for cocktail; can be combined with Ampère. Official table also lists boardroom 300 and U-shape 50.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Beaujeu",
+     "type": null,
+     "area_sqm": 135,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": 30,
+     "capacity_banquet": 80,
+     "capacity_reception": null,
+     "notes": "Official narrative: panoramic lounge, divisible into two rooms, maximum 110 according to arrangement. Official table lists boardroom 110.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Jacquard A",
+     "type": null,
+     "area_sqm": 75,
+     "capacity_max": null,
+     "capacity_theatre": 40,
+     "capacity_classroom": 25,
+     "capacity_banquet": 18,
+     "capacity_reception": null,
+     "notes": "Height 2.20 m.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Jacquard C",
+     "type": null,
+     "area_sqm": 75,
+     "capacity_max": null,
+     "capacity_theatre": 40,
+     "capacity_classroom": 25,
+     "capacity_banquet": 18,
+     "capacity_reception": null,
+     "notes": "Height 2.20 m.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Jacquard B",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 12 only; height 2.20 m.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
+    },
+    {
+     "name": "Rhône",
+     "type": null,
+     "area_sqm": 45,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official narrative: intimate space, maximum 10 people.",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
     }
    ],
    "documents": []
@@ -242384,7 +242927,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Park Plaza Victoria London"
   },
   {
    "slug": "hilton-london-metropole",
@@ -242456,7 +243000,8 @@ window.ATLASDATA={
      "source_url": "https://www.hilton.com/en/hotels/lonmetw-hilton-london-metropole/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Hilton London Metropole"
   },
   {
    "slug": "hilton-brighton-metropole",
@@ -242517,7 +243062,8 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "hotel_name": "InterContinental London – The O2"
   },
   {
    "slug": "sec-centre-glasgow",
@@ -244165,7 +244711,8 @@ window.ATLASDATA={
      "source_url": "https://phoeniciamalta.com/events-celebrations/meetings-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "hotel_name": "The Phoenicia Malta"
   },
   {
    "slug": "grand-hotel-excelsior-malta",
@@ -244270,7 +244817,8 @@ window.ATLASDATA={
      "source_url": "https://excelsior.com.mt/meetings-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Grand Hotel Excelsior"
   },
   {
    "slug": "casino-maltese",
@@ -244370,6 +244918,846 @@ window.ATLASDATA={
     }
    ],
    "documents": []
+  },
+  {
+   "slug": "hard-rock-hotel-malta",
+   "name": "Hard Rock Hotel Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "St. George's Bay, St. Julian's, Malta",
+   "lat": 35.9277044,
+   "lon": 14.4883137,
+   "url": "https://hotel.hardrock.com/malta/",
+   "capacity": 380,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page and breakout brochure: 1,350 m² of flexible event space, a 466 m² Melodia Ballroom and six additional meeting rooms, plus a 219 m² pre-function area. MTA licence HTL-34041, 397 bedrooms, official 5-star. The official brochure is titled as an opening / coming-in-2026 document; the hotel is on the 2026 MTA register (licence from 5 August 2026).",
+   "description": "MTA official 5-star hotel on St George's Bay, St Julian's (licence HTL-34041 / H/0489, 397 bedrooms). The official meetings page and breakout brochure publish 1,350 m² of flexible event space. Melodia Ballroom is 466 m² with 380 theatre and 310 round-table (standard rounds 260; elegant spacing 200). Sonata Conference 1-3 combined is 140 m² / 115 theatre and can be divided into three sections. Contact on the official brochure and meetings page: sales@hrhmalta.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales@hrhmalta.com",
+   "sources": [
+    {
+     "url": "https://hotel.hardrock.com/malta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hotel.hardrock.com/malta/meetings-and-events.aspx",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Melodia Ballroom",
+     "type": null,
+     "area_sqm": 466,
+     "capacity_max": null,
+     "capacity_theatre": 380,
+     "capacity_classroom": null,
+     "capacity_banquet": 310,
+     "capacity_reception": null,
+     "notes": "Official chart also lists tight-fit rounds 310, standard 260 and elegant spacing 200.",
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Pre-Function Area",
+     "type": null,
+     "area_sqm": 219,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: ideal for registration and cocktails; no theatre/rounds figures published.",
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Sonata Conference 1, 2, 3",
+     "type": null,
+     "area_sqm": 140,
+     "capacity_max": null,
+     "capacity_theatre": 115,
+     "capacity_classroom": null,
+     "capacity_banquet": 64,
+     "capacity_reception": null,
+     "notes": "Can be divided into three sections (52, 44 and 44 m²).",
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Skala Conference Room",
+     "type": null,
+     "area_sqm": 81,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 32,
+     "capacity_reception": null,
+     "notes": "Official chart publishes rounds only (32); official web page gives capacity 32.",
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Tempo Conference Room",
+     "type": null,
+     "area_sqm": 62,
+     "capacity_max": null,
+     "capacity_theatre": 50,
+     "capacity_classroom": null,
+     "capacity_banquet": 24,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Korda Conference Room",
+     "type": null,
+     "area_sqm": 74,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": null,
+     "capacity_banquet": 32,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Nota Conference Room",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": null,
+     "capacity_theatre": 55,
+     "capacity_classroom": null,
+     "capacity_banquet": 32,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    },
+    {
+     "name": "Intervall Conference Room",
+     "type": null,
+     "area_sqm": 47,
+     "capacity_max": null,
+     "capacity_theatre": 35,
+     "capacity_classroom": null,
+     "capacity_banquet": 16,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hard Rock Hotel Malta meetings breakout brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
+     "href": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "hyatt-regency-malta",
+   "name": "Hyatt Regency Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "St George's Bay, St Julian's, STJ 3311, Malta",
+   "lat": 35.9241794,
+   "lon": 14.4869968,
+   "url": "https://www.hyatt.com/en-US/hotel/malta/hyatt-regency-malta/mlarm",
+   "capacity": 200,
+   "exhibition_sqm": null,
+   "halls": "Official Hyatt newsroom opening release (12 October 2020): 1,571 sq ft (479 m²) of flexible meeting, event and exhibition space, accommodating 10 to 200 guests. Official 2025 floor-plans PDF names the Meetings Centre (Regency Ballroom, Executive Boardroom, meetings foyer, Daffodil, Daisy, Orchid, Lavender, Regency Club and terrace) plus Pjazza / Seed and rooftop GIN-ger, but does not publish a numerical capacity chart. MTA licence HTL-22940, 151 bedrooms, official 5-star.",
+   "description": "MTA official 5-star hotel at St George's Bay, St Julian's (licence HTL-22940 / H/0120, 151 bedrooms). Individual room capacities are not printed in the official floor-plans PDF retrieved in this pass (the file is titled as a fact sheet and capacity chart but the pages are floor plans only). Headline capacity 200 and total 479 m² are taken from the official Hyatt newsroom release for the hotel's opening. Official PDF contact: sales.malta@hyatt.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales.malta@hyatt.com",
+   "sources": [
+    {
+     "url": "https://www.hyatt.com/en-US/hotel/malta/hyatt-regency-malta/mlarm",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://newsroom.hyatt.com/news-releases?item=124006",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Meetings Centre (Regency Ballroom and supporting rooms)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Named on the official floor-plans PDF; no numerical capacities on the retrieved pages.",
+     "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hyatt Regency Malta floor plans (titled fact sheet and capacity chart)",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf",
+     "href": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "malta-marriott-resort-and-spa",
+   "name": "Malta Marriott Resort & Spa",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "39 Main Street, Balluta Bay, St. Julian's, STJ1017, Malta",
+   "lat": 35.9140376,
+   "lon": 14.4929795,
+   "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/",
+   "capacity": 650,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events page: an entire floor dedicated to meetings, with figures given both as 13 meeting rooms covering 1,363 m² and, elsewhere on the same page, 12 event rooms / 1,358 m² total event space. The largest published space is The Gallery, capacity 650. The Ballroom is described as the largest meeting space with natural daylight, for meetings of up to 300 people and a gala dinner for 150. MTA licence HTL-04467 is listed as \"Marriot Hotel & Spa\" at 39 Triq il-Kbira, St Julian's, STJ 1017 (301 bedrooms, official 5-star); the official website on the MTA CSV is the former Le Méridien St Julian's site. The current official hotel and events pages use the Malta Marriott Resort & Spa name.",
+   "description": "MTA official 5-star hotel on Balluta Bay, St Julian's, recorded on the MTA register as \"Marriot Hotel & Spa\" (licence HTL-04467 / H/0393, 301 bedrooms) and operated under the current official name Malta Marriott Resort & Spa. Official events page: The Gallery is the largest-capacity space at 650; the Ballroom hosts meetings of up to 300 and gala dinners for 150. Same-page totals of 13 rooms / 1,363 m² and 12 rooms / 1,358 m² are both published; both are recorded rather than reconciled.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "The Gallery",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 650,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 650,
+     "notes": "Official FAQ: the largest-capacity event room is The Gallery, capacity 650. Same page also describes the Gallery as suited to lunches, dinners, exhibitions and pre-function gatherings, with an outdoor terrace overlooking Balluta Bay.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/events/"
+    },
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 300,
+     "capacity_classroom": null,
+     "capacity_banquet": 150,
+     "capacity_reception": null,
+     "notes": "Official events page: largest meeting space with natural daylight; meetings up to 300, gala dinner for 150.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/events/"
+    },
+    {
+     "name": "Boardroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official events page: boardroom with twelve seats.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlamc-malta-marriott-resort-and-spa/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "corinthia-palace-malta",
+   "name": "Corinthia Palace Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Balzan",
+   "address": "Vjal de Paule, Balzan, BZN 9023, Malta",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.corinthia.com/en-gb/palace/",
+   "capacity": 650,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page lists indoor and outdoor venues. Largest indoor room is the Corinthia Ballroom (up to 450 guests). Largest published venue is the outdoor Secret Garden (up to 650 guests). MTA licence HTL-04353, 158 bedrooms, official 5-star.",
+   "description": "MTA official 5-star hotel in Balzan (licence HTL-04353 / H/0001, 158 bedrooms), opposite San Anton Gardens. Official meetings and events page: Corinthia Ballroom up to 450 guests; outdoor Secret Garden up to 650 guests; Caprice Garden up to 200; Caprice Lounge up to 100; Veuve Clicquot Lounge up to 80; Vogue Room up to 50; Executive Lounge up to 40; Balzan Room up to 30; Mdina and Lija rooms up to 18 each. Events team: events.palace@corinthia.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events.palace@corinthia.com",
+   "sources": [
+    {
+     "url": "https://www.corinthia.com/en-gb/palace/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Secret Garden",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 650,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Outdoor. Official page: up to 650 guests.",
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Corinthia Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 450,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Largest indoor venue on the official page; setup style not specified.",
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Caprice Garden",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Outdoor. Official page: up to 200 guests.",
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Caprice Lounge",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Veuve Clicquot Lounge",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Vogue Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Executive Lounge",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Balzan Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Mdina Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 18,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    },
+    {
+     "name": "Lija Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 18,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.corinthia.com/en-gb/palace/meetings-and-events/"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "Corinthia Palace Malta"
+  },
+  {
+   "slug": "radisson-blu-resort-malta-st-julians",
+   "name": "Radisson Blu Resort, Malta St Julian's",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "Ix-Xatt ta' San Gorg, St Julian's, Malta",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+   "capacity": 800,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page publishes a seven-room capacity table. The Grand Ballroom is 585 m² (ceiling 5.5 m) with 550 theatre / 300 classroom / 250 rounds / 800 reception. The same page's narrative also says the event facilities can accommodate as many as 1,500 guests, that there are five meeting rooms in one passage and seven in another, and that the Grand Ballroom can host 500-700 guests. Headline capacity uses the official room table (800 reception in the Grand Ballroom). MTA licence HTL-20226, 243 bedrooms, official 5-star.",
+   "description": "MTA official 5-star resort on the St Julian's seafront (licence HTL-20226 / H/0247, 243 bedrooms). Official meetings capacity table: Grand Ballroom 585 m², 550 theatre and 800 reception; Carlson Suite 236 m² and Marie Louise (full) 230 m², each 200 theatre. Sales contact on the official page: sales.stjulians@rdbmalta.com. The 1,500-guest narrative figure is recorded as a same-page discrepancy and is not used as the headline room capacity.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales.stjulians@rdbmalta.com",
+   "sources": [
+    {
+     "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "The Grand Ballroom",
+     "type": null,
+     "area_sqm": 585,
+     "capacity_max": null,
+     "capacity_theatre": 550,
+     "capacity_classroom": 300,
+     "capacity_banquet": 250,
+     "capacity_reception": 800,
+     "notes": "Official table also: boardroom 100, cabaret 184, U-shape 80. Ceiling height 5.5 m. Same page narrative says 500-700 guests.",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "The Carlson Suite",
+     "type": null,
+     "area_sqm": 236,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 100,
+     "capacity_banquet": 100,
+     "capacity_reception": 200,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "Marie Louise (full)",
+     "type": null,
+     "area_sqm": 230,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 100,
+     "capacity_banquet": 100,
+     "capacity_reception": 200,
+     "notes": "Official room description also states a total area of 231 m² and ceiling height 2.8 m.",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "Marie Louise (half)",
+     "type": null,
+     "area_sqm": 115,
+     "capacity_max": null,
+     "capacity_theatre": 70,
+     "capacity_classroom": 45,
+     "capacity_banquet": 50,
+     "capacity_reception": 80,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "Clemont",
+     "type": null,
+     "area_sqm": 95,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": 40,
+     "capacity_banquet": 40,
+     "capacity_reception": 80,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "Reading Room",
+     "type": null,
+     "area_sqm": 115,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": 40,
+     "capacity_banquet": 50,
+     "capacity_reception": 80,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    },
+    {
+     "name": "Executive Boardroom",
+     "type": null,
+     "area_sqm": 32,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 12 only.",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kempinski-hotel-san-lawrenz",
+   "name": "Kempinski Hotel San Lawrenz",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "San Lawrenz",
+   "address": "Triq ir-Rokon, San Lawrenz, SLZ 1040, Gozo, Malta",
+   "lat": 36.0528846,
+   "lon": 14.2079255,
+   "url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+   "capacity": 400,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page lists four venues. Il-Kappella is 265 m² (400 reception / 220 banquet / 300 theatre). Il-Kappella Terrace is 500 m² (400 reception / 250 banquet). Id-Dwejra 89 m² / 60 theatre; L-Għorfa 55 m² / 30 theatre. MTA licence HTL-04456, 117 bedrooms, official 5-star.",
+   "description": "MTA official 5-star hotel in San Lawrenz, Gozo (licence HTL-04456 / H/0329, 117 bedrooms). Official meetings page: largest published room capacities are 300 theatre and 400 reception in Il-Kappella, with the adjoining terrace also listed at 400 reception. Sales contact on the official site: sales.sanlawrenz@kempinski.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales.sanlawrenz@kempinski.com",
+   "sources": [
+    {
+     "url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events/venues/il-kappella",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Il-Kappella",
+     "type": null,
+     "area_sqm": 265,
+     "capacity_max": null,
+     "capacity_theatre": 300,
+     "capacity_classroom": null,
+     "capacity_banquet": 220,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events"
+    },
+    {
+     "name": "Il-Kappella Terrace",
+     "type": null,
+     "area_sqm": 500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 250,
+     "capacity_reception": 400,
+     "notes": "Official page does not publish a theatre figure for the terrace.",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events"
+    },
+    {
+     "name": "Id-Dwejra",
+     "type": null,
+     "area_sqm": 89,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events"
+    },
+    {
+     "name": "L-Għorfa",
+     "type": null,
+     "area_sqm": 55,
+     "capacity_max": null,
+     "capacity_theatre": 30,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "barcelo-fortina-malta",
+   "name": "Barceló Fortina Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Sliema",
+   "address": "Tigné Seafront, SLM 3012, Sliema, Malta",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+   "capacity": 210,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: seven rooms, capacities from 12 to 210 people; two rooms can be joined to create an open-plan 280 m² space. Europe 1+2 is 280 m² / 210 theatre / 108 school. MTA licence HTL-26363, 183 bedrooms, official 5-star.",
+   "description": "MTA official 5-star hotel on the Tigne seafront in Sliema (licence HTL-26363 / H/0011, 183 bedrooms). Official meetings page: Europe 1 and Europe 2 are each 140 m² / 105 theatre and combine to 280 m² / 210 theatre. Events contact on the official page: fortinamalta.events@barcelo.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "fortinamalta.events@barcelo.com",
+   "sources": [
+    {
+     "url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Europe 1+2",
+     "type": null,
+     "area_sqm": 280,
+     "capacity_max": null,
+     "capacity_theatre": 210,
+     "capacity_classroom": 108,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page also lists U-shape 34 for the combined hall.",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Europe 1",
+     "type": null,
+     "area_sqm": 140,
+     "capacity_max": null,
+     "capacity_theatre": 105,
+     "capacity_classroom": 54,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Ceiling height 3.5 m; dividable. Official page also lists U-shape 28, cabaret 80, banquet 80.",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Europe 2",
+     "type": null,
+     "area_sqm": 140,
+     "capacity_max": null,
+     "capacity_theatre": 105,
+     "capacity_classroom": 54,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Ceiling height 3.5 m; dividable.",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Karwela + Atlantis",
+     "type": null,
+     "area_sqm": 67,
+     "capacity_max": null,
+     "capacity_theatre": 66,
+     "capacity_classroom": 18,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Karwela",
+     "type": null,
+     "area_sqm": 38,
+     "capacity_max": null,
+     "capacity_theatre": 40,
+     "capacity_classroom": 10,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Atlantis",
+     "type": null,
+     "area_sqm": 29,
+     "capacity_max": null,
+     "capacity_theatre": 33,
+     "capacity_classroom": 8,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Ceiling height 3 m.",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    },
+    {
+     "name": "Maurice",
+     "type": null,
+     "area_sqm": 28,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: boardroom 12 only.",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "the-palace-sliema",
+   "name": "The Palace, Sliema",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Sliema",
+   "address": "High Street, Sliema, SLM 1542, Malta",
+   "lat": 35.9123827,
+   "lon": 14.5035874,
+   "url": "https://www.thepalacemalta.com/",
+   "capacity": 600,
+   "exhibition_sqm": null,
+   "halls": "Official AX Hotels venue pages for the hotel. State Hall & Alexandra Gardens: reception 600, theatre 200, classroom 84, banquet 100, boardroom 50, U-shape 40, cabaret 70. Royal Hall: reception 300, theatre 225, classroom 120, banquet 140, boardroom 70, U-shape 60, cabaret 90. MTA licence HTL-21867, 140 bedrooms, official 5-star.",
+   "description": "MTA official 5-star hotel on High Street, Sliema (licence HTL-21867 / H/0422, 140 bedrooms), also presented as AX The Palace on the official brand site. Official venue pages: the largest published capacity is 600 reception for State Hall & Alexandra Gardens (the page covers the hall with the gardens). The largest indoor theatre figure is 225 in the Royal Hall, which can be partitioned into two areas. Events team: events.palace@axhotelsmalta.com.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events.palace@axhotelsmalta.com",
+   "sources": [
+    {
+     "url": "https://www.thepalacemalta.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://axhotelsmalta.com/the-palace/event-venues-malta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://axhotelsmalta.com/the-palace/event-venues-malta/group-travel-incentives/royal-hall-mice/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://axhotelsmalta.com/the-palace/event-venues-malta/small-parties/state-hall-alexandra-gardens/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "State Hall & Alexandra Gardens",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 84,
+     "capacity_banquet": 100,
+     "capacity_reception": 600,
+     "notes": "Official capacity tab on the combined State Hall & Alexandra Gardens page; the 600 reception figure includes the gardens.",
+     "source_url": "https://axhotelsmalta.com/the-palace/event-venues-malta/small-parties/state-hall-alexandra-gardens/"
+    },
+    {
+     "name": "Royal Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 225,
+     "capacity_classroom": 120,
+     "capacity_banquet": 140,
+     "capacity_reception": 300,
+     "notes": "Official capacity tab also lists cabaret 90, boardroom 70 and U-shape 60. The hall can be partitioned into two areas.",
+     "source_url": "https://axhotelsmalta.com/the-palace/event-venues-malta/group-travel-incentives/royal-hall-mice/"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "AX The Palace"
   },
   {
    "slug": "rai-amsterdam",
@@ -245692,9 +247080,7 @@ window.ATLASDATA={
    "description": "Lisbon's international exhibition park in Parque das Nações. Official pavilion pages state four multifunctional pavilions of 10,000 m² each (40,000 m² in total) inside a complex of more than 100,000 m². Each pavilion is about 142 m by 72 m; Pavilion 1 is 15 m high and Pavilions 2–4 are 12 m high. Official floor plans for the site and each pavilion are stored. The official address is Rua do Bojador, Parque das Nações, 1998-010 Lisbon, and lisboacc@ccl.fil.pt is the published venue enquiry address (shared with the separately recorded Lisbon Congress Centre, which is in Alcântara). Coordinates are the atlas precise pin.",
    "photo": null,
    "linked_event_slugs": [
-    "futuralia-2027",
-    "btl-2027",
-    "tektonica-2027"
+    "futuralia-2027"
    ],
    "contact_email": "lisboacc@ccl.fil.pt",
    "sources": [
@@ -246242,6 +247628,253 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "four-seasons-hotel-ritz-lisbon",
+   "name": "Four Seasons Hotel Ritz Lisbon",
+   "type": "hotel_conference_venue",
+   "country": "Portugal",
+   "cc": "PT",
+   "city": "Lisbon",
+   "address": "Rua Rodrigo da Fonseca, 88, 1099-039 Lisbon, Portugal",
+   "lat": 38.7258933,
+   "lon": -9.1550947,
+   "url": "https://www.fourseasons.com/lisbon/",
+   "capacity": 750,
+   "exhibition_sqm": null,
+   "halls": "Official press facts: 282 rooms (242 guest rooms and 40 suites); meeting rooms total size 1,838 m²; largest ballroom 456 m²; 16 breakout spaces; press-facts banquet / meet-and-feed capacity 320. Official Pedro Leitão Ballroom page: 456 m², max occupancy 750, theatre 450, reception 750, banquet rounds 360, classroom 288. RNET star rating not confirmed in a public listing in this pass, so star_rating is null.",
+   "description": "Lisbon hotel facing Eduardo VII Park (official press-kit address Rua Rodrigo da Fonseca, 88, 1099-039 Lisbon). Official ballroom page: Pedro Leitão Ballroom 456 m², maximum occupancy 750 (reception 750 / theatre 450 / banquet rounds 360). Official press facts give a meeting-room total of 1,838 m² and a banquet / meet-and-feed capacity of 320, which differs from the ballroom page's 360 banquet figure; headline capacity follows the official ballroom max occupancy of 750. No public Turismo de Portugal RNET confirmation was recorded, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fourseasons.com/lisbon/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fourseasons.com/lisbon/meetings-and-events.html/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fourseasons.com/lisbon/meetings-and-events/function-rooms/lobby-level/pedro_leitao_ballroom/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://press.fourseasons.com/lisbon/hotel-facts/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Pedro Leitão Ballroom",
+     "type": null,
+     "area_sqm": 456,
+     "capacity_max": 750,
+     "capacity_theatre": 450,
+     "capacity_classroom": 288,
+     "capacity_banquet": 360,
+     "capacity_reception": 750,
+     "notes": "Official page: 30.2 x 15.1 m, height 4.2 m; also conference/boardroom 72, hollow square 102, U-shape 99. Official press facts list a banquet / meet-and-feed capacity of 320 for the hotel, which differs from this 360 banquet figure.",
+     "source_url": "https://www.fourseasons.com/lisbon/meetings-and-events/function-rooms/lobby-level/pedro_leitao_ballroom/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "pestana-palace-lisboa",
+   "name": "Pestana Palace Lisboa",
+   "type": "hotel_conference_venue",
+   "country": "Portugal",
+   "cc": "PT",
+   "city": "Lisbon",
+   "address": "Rua Jau, 54, 1300-314 Lisbon, Portugal",
+   "lat": 38.704047,
+   "lon": -9.1871503,
+   "url": "https://www.pestana.com/en/hotel/pestana-palace",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Pestana Palace Lisboa site confirms the hotel hosts meetings and conferences and publishes an events contact (groups.lisbon@pestana.com). A current official room-by-room capacity chart was not present on the official hotel page retrieved in this pass, so capacities are left null rather than taken from non-official directories. RNET star rating not confirmed in a public listing in this pass, so star_rating is null (the official marketing site describes the hotel as 5-star, which is not used as classification).",
+   "description": "Historic palace hotel in Lisbon (official address Rua Jau, 54, 1300-314 Lisbon). Official site events contact: groups.lisbon@pestana.com. Meeting-room capacities are left null because an official capacity chart was not retrieved from the hotel's own pages in this pass. No public RNET confirmation was recorded, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "groups.lisbon@pestana.com",
+   "sources": [
+    {
+     "url": "https://www.pestana.com/en/hotel/pestana-palace",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-yeatman",
+   "name": "The Yeatman",
+   "type": "hotel_conference_venue",
+   "country": "Portugal",
+   "cc": "PT",
+   "city": "Vila Nova de Gaia",
+   "address": "Rua do Choupelo, Santa Marinha, 4400-088 Vila Nova de Gaia, Portugal",
+   "lat": 41.1339187,
+   "lon": -8.6129183,
+   "url": "https://www.the-yeatman-hotel.com/",
+   "capacity": 350,
+   "exhibition_sqm": null,
+   "halls": "Official floor-plans and fact-sheet page lists 13 meeting/event rooms. Largest published conference configuration is Alentejo + Bairrada + Madeira, 350 people (webpage 244 m²; official MICE fact-sheet PDF 274 m²). Several room areas and some capacities differ between the current official webpage and the official fact-sheet PDF still linked from that page; headline 350 is published on both. RNET star rating not confirmed in a public listing in this pass, so star_rating is null.",
+   "description": "Hotel and conference venue in Vila Nova de Gaia overlooking Porto and the Douro (official address Rua do Choupelo, Santa Marinha, 4400-088). Official events page: the combined Alentejo, Bairrada and Madeira rooms form the largest conference space, maximum 350 people. Porto + Douro combine to 165 m² / 180 people on the webpage (PDF 167 m² / 180). Official events contact: events@theyeatman.com. Room areas on the current webpage and the official MICE fact sheet differ in several cases; spaces below use the current official webpage, with PDF figures in the notes. No public RNET confirmation was recorded, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events@theyeatman.com",
+   "sources": [
+    {
+     "url": "https://www.the-yeatman-hotel.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Alentejo, Bairrada and Madeira (combined)",
+     "type": null,
+     "area_sqm": 244,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 244 m², maximum 350. Official fact-sheet PDF: 274 m², cocktail 350 / menu 192 / buffet 170 (no theatre figure).",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Alentejo and Bairrada (combined)",
+     "type": null,
+     "area_sqm": 192,
+     "capacity_max": 270,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 192 m², space for 270. Official PDF: 220 m², theatre 190 / cocktail 270 / menu 160.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Porto and Douro (combined)",
+     "type": null,
+     "area_sqm": 165,
+     "capacity_max": 180,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 165 m², seating up to 180. Official PDF: 167 m², theatre 180 / cocktail 180.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "The Orangerie",
+     "type": null,
+     "area_sqm": 230,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 230 m², seating up to 200. Official PDF: 216 m², cocktail 270 / menu 180 / buffet 120 (no theatre figure).",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Alentejo",
+     "type": null,
+     "area_sqm": 104,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 104 m², up to 120, no natural light. Official PDF: 130 m², theatre 120 / cocktail 120 / menu 100.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Porto",
+     "type": null,
+     "area_sqm": 100,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 100 m², capacity 100, with adjoining terrace. Official PDF: 102 m², theatre 90 / cocktail 100 / menu 80.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Bairrada",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 88 m², up to 90. Official PDF: 90 m², theatre 90 / cocktail 80.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Douro",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 65 m², capacity 70. Official PDF: 65 m², theatre 70 / cocktail 50.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Dão",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 54 m², maximum 40. Official PDF: 54 m², theatre 38 / cocktail 40.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    },
+    {
+     "name": "Minho",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official webpage: 42 m², capacity 30. Official PDF: 42 m², theatre 26 / cocktail 30.",
+     "source_url": "https://www.the-yeatman-hotel.com/en/conference-events/floor-plans-fact-sheet/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Yeatman meeting and event rooms capacities fact sheet",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
+     "href": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "sands-expo-marina-bay-sands",
    "name": "Sands Expo & Convention Centre",
    "type": "convention_centre",
@@ -246659,7 +248292,8 @@ window.ATLASDATA={
     "sema-show-2027",
     "nab-show-2027",
     "automate-2027",
-    "money2020-usa-2027"
+    "money2020-usa-2027",
+    "ces-2027"
    ],
    "contact_email": "meetings@lvcva.com",
    "sources": [
@@ -246669,6 +248303,14 @@ window.ATLASDATA={
     },
     {
      "url": "https://res.cloudinary.com/simpleview/image/upload/v1724280629/clients/lasvegas/LVCC_Brochure_July2024_db66b844_b86a_477a_b3ad_9e68621cf531_pages_56557153-0397-43b7-b83e-20e5f11cc4be.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ces.tech/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ces.tech/media/1kqatmqa/lvcc-map-ces-2027.pdf",
      "label": "Official source"
     }
    ],
@@ -246916,8 +248558,7 @@ window.ATLASDATA={
     "snowflake-summit-2027",
     "ai-engineer-worlds-fair-2027",
     "stripe-sessions-2027",
-    "rsac-2027",
-    "databricks-data-ai-summit-2027"
+    "rsac-2027"
    ],
    "contact_email": "Events@moscone.com",
    "sources": [
@@ -246927,6 +248568,10 @@ window.ATLASDATA={
     },
     {
      "url": "https://moscone.com/exhibit-halls",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rsaconference.com/",
      "label": "Official source"
     }
    ],
@@ -246976,8 +248621,7 @@ window.ATLASDATA={
    "description": "Atlanta’s principal convention centre, operated by the Georgia World Congress Center Authority. Official text gives 1.5 million square feet of contiguous exhibit space and more than 4 million square feet of flexible meeting and event space, without a more precise exhibit integer, so exhibition_sqm is left null. The October 2025 official floor-plan booklet is stored. Coordinates are the atlas precise pin.",
    "photo": null,
    "linked_event_slugs": [
-    "dtech-2027",
-    "neurips-2026-atlanta"
+    "dtech-2027"
    ],
    "contact_email": null,
    "sources": [
@@ -247314,7 +248958,9 @@ window.ATLASDATA={
    "linked_event_slugs": [
     "isc-west-2027",
     "fintech-meetup-2027",
-    "ai4-2027"
+    "ai4-2027",
+    "ces-2027",
+    "aws-reinvent-2026"
    ],
    "contact_email": null,
    "sources": [
@@ -247328,6 +248974,18 @@ window.ATLASDATA={
     },
     {
      "url": "https://www.venetianlasvegas.com/meetings.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ces.tech/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ces.tech/media/1kqatmqa/lvcc-map-ces-2027.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://aws.amazon.com/events/reinvent/faqs/",
      "label": "Official source"
     }
    ],
@@ -247507,8 +249165,7 @@ window.ATLASDATA={
    "linked_event_slugs": [
     "consensus-2027",
     "fintech-americas-miami-2027",
-    "miami-international-boat-show-2027",
-    "emerge-americas-2027"
+    "miami-international-boat-show-2027"
    ],
    "contact_email": null,
    "sources": [
@@ -247572,11 +249229,11 @@ window.ATLASDATA={
    "address": "1201 South Figueroa Street, Los Angeles, CA 90015",
    "lat": 34.0414677,
    "lon": -118.2689803,
-   "url": "https://www.lacclink.com/",
-   "capacity": null,
-   "exhibition_sqm": null,
-   "halls": null,
-   "description": "Los Angeles’s downtown convention centre. Official street address and identity are confirmed from Nominatim for the named venue at 1201 South Figueroa Street, matching the atlas precise pin. A verified official exhibit-area total was not recorded from the official site in this pass (the homepage was not used as a source of numeric claims), so capacity and exhibition fields are left null.",
+   "url": "https://www.laconventioncenter.com/",
+   "capacity": 22870,
+   "exhibition_sqm": 66890,
+   "halls": "Official venue-maps page: a combined total of 720,000 square feet of exhibit space, 64 meeting rooms, and four outdoor plazas, in the West and South buildings plus Kentia Hall. Official exhibit-halls page: South Hall nearly 350,000 sq ft (official 2024 floor-plans PDF: South Hall GHJK combined 346,890 sq ft), 1,720 10x10 booths, theatre 22,870, banquet 12,800; West Hall 210,685 sq ft, 1,050 booths, theatre 15,000, banquet 10,000; Kentia Hall 160,000 sq ft on the webpage / 162,000 sq ft on the official PDF, 844 10x10 booths plus 64 additional, banquet 5,000; Concourse Hall and Petree Hall 26,342 sq ft each.",
+   "description": "Los Angeles's downtown convention centre at 1201 South Figueroa Street. Official laconventioncenter.com venue-maps page: 720,000 square feet of exhibit space (used for exhibition_sqm), 64 meeting rooms and four outdoor plazas. Official exhibit-halls page and 2024 floor-plans PDF: the largest published hall theatre capacity is 22,870 in South Hall (346,890 sq ft combined GHJK on the official PDF, described on the website as nearly 350,000 sq ft). West Hall is 210,685 sq ft / 15,000 theatre. The official Kentia Hall area is 160,000 sq ft on the current exhibit-halls page and 162,000 sq ft on the official PDF. Existing atlas event: OFC 2027.",
    "photo": null,
    "linked_event_slugs": [
     "ofc-2027"
@@ -247584,13 +249241,111 @@ window.ATLASDATA={
    "contact_email": null,
    "sources": [
     {
+     "url": "https://www.laconventioncenter.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.laconventioncenter.com/plan/venue-maps",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.laconventioncenter.com/assets/doc/LACC.2024-Floor-Plans-9ae0be744b.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.laconventioncenter.com/assets/doc/Level1-ExhibitHalls-2026-0332fea215.pdf",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.lacclink.com/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
-   "spaces": [],
-   "documents": []
+   "spaces": [
+    {
+     "name": "South Hall (GHJK combined)",
+     "type": null,
+     "area_sqm": 32227,
+     "capacity_max": null,
+     "capacity_theatre": 22870,
+     "capacity_classroom": null,
+     "capacity_banquet": 12800,
+     "capacity_reception": null,
+     "notes": "Official exhibit-halls page: nearly 350,000 sq ft, 1,720 10x10 booths, theatre 22,870, banquet 12,800. Official 2024 floor-plans PDF: GHJK combined 346,890 sq ft. Divisible into up to three unique spaces.",
+     "source_url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls"
+    },
+    {
+     "name": "West Hall (AB combined)",
+     "type": null,
+     "area_sqm": 19573,
+     "capacity_max": null,
+     "capacity_theatre": 15000,
+     "capacity_classroom": null,
+     "capacity_banquet": 10000,
+     "capacity_reception": null,
+     "notes": "Official page: 210,685 sq ft, 1,050 10x10 booths, theatre 15,000, banquet 10,000. Divisible into two unique spaces.",
+     "source_url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls"
+    },
+    {
+     "name": "Kentia Hall",
+     "type": null,
+     "area_sqm": 14864,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 5000,
+     "capacity_reception": null,
+     "notes": "Official exhibit-halls page: 160,000 sq ft, 844 10x10 booths with space for an additional 64, banquet 5,000 (no theatre figure on the webpage). Official 2024 floor-plans PDF lists Kentia Hall at 162,000 sq ft.",
+     "source_url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls"
+    },
+    {
+     "name": "Concourse Hall",
+     "type": null,
+     "area_sqm": 2447,
+     "capacity_max": null,
+     "capacity_theatre": 2700,
+     "capacity_classroom": null,
+     "capacity_banquet": 1400,
+     "capacity_reception": null,
+     "notes": "Official page: 26,342 sq ft, 135 10x10 booths; divisible into eight rooms.",
+     "source_url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls"
+    },
+    {
+     "name": "Petree Hall",
+     "type": null,
+     "area_sqm": 2447,
+     "capacity_max": null,
+     "capacity_theatre": 2000,
+     "capacity_classroom": null,
+     "capacity_banquet": 1000,
+     "capacity_reception": null,
+     "notes": "Official page: 26,342 sq ft, 100 10x10 booths; divisible into two rooms.",
+     "source_url": "https://www.laconventioncenter.com/plan/spaces/exhibit-halls"
+    }
+   ],
+   "documents": [
+    {
+     "title": "LACC 2024 floor plans and specifications",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://www.laconventioncenter.com/assets/doc/LACC.2024-Floor-Plans-9ae0be744b.pdf",
+     "href": "https://www.laconventioncenter.com/assets/doc/LACC.2024-Floor-Plans-9ae0be744b.pdf",
+     "local": false
+    },
+    {
+     "title": "LACC Level 1 exhibit halls brochure (2026)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.laconventioncenter.com/assets/doc/Level1-ExhibitHalls-2026-0332fea215.pdf",
+     "href": "https://www.laconventioncenter.com/assets/doc/Level1-ExhibitHalls-2026-0332fea215.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "anaheim-convention-center",
@@ -247603,10 +249358,10 @@ window.ATLASDATA={
    "lat": 33.8005839,
    "lon": -117.9208047,
    "url": "https://www.anaheimconventioncenter.com/",
-   "capacity": null,
-   "exhibition_sqm": null,
-   "halls": null,
-   "description": "Anaheim’s convention centre, adjacent to the Disneyland Resort area. Official address 800 W Katella Avenue is used on the atlas event listing and matches a Nominatim result for the named convention centre (atlas precise pin). The official website could not be read in this pass because of a site-protection block, so capacity and exhibition figures are left null rather than taken from non-official directories.",
+   "capacity": 15000,
+   "exhibition_sqm": 75587,
+   "halls": "Official Visit Anaheim exhibit-hall capacities page (official convention bureau for the Anaheim Convention Center): exhibit halls A-E total 813,607 square feet. Hall D is the largest hall at 221,284 sq ft / 15,000 theatre / 13,800 banquet. The Arena is listed separately at 28,140 sq ft (flat floor) with 7,500 stadium-style seating. An official ACC Spec Guide 2025 PDF is freely linked from that Visit Anaheim page but is about 39 MB, so only the URL is recorded.",
+   "description": "Anaheim Convention Center at 800 W Katella Avenue, adjacent to the Disneyland Resort area. Official Visit Anaheim exhibit-hall capacities page: halls A-E total 813,607 square feet of exhibit space (used for exhibition_sqm). The largest published exhibit-hall theatre capacity is 15,000 in Hall D (221,284 sq ft). The Arena is a separate 28,140 sq ft space with 7,500 stadium-style seats and is not included in the 813,607 exhibit-hall total. Existing atlas event: NAMM Show 2027. The official venue website is anaheimconventioncenter.com; figures in this update come from the official Visit Anaheim capacity tables after the venue site was previously unreadable.",
    "photo": null,
    "linked_event_slugs": [
     "namm-show-2027"
@@ -247616,11 +249371,113 @@ window.ATLASDATA={
     {
      "url": "https://www.anaheimconventioncenter.com/",
      "label": "Official source"
+    },
+    {
+     "url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/anaheimca/ACC_Spec_Guide_2025_v8_print_1__b2a9af9b-2d38-484b-ad19-113afdd8fb03.pdf",
+     "label": "Official source"
     }
    ],
    "star_rating": null,
-   "spaces": [],
-   "documents": []
+   "spaces": [
+    {
+     "name": "Exhibit Halls A-E (combined)",
+     "type": null,
+     "area_sqm": 75587,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Visit Anaheim total for the five exhibit halls: 813,607 sq ft.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Hall D",
+     "type": null,
+     "area_sqm": 20558,
+     "capacity_max": null,
+     "capacity_theatre": 15000,
+     "capacity_classroom": null,
+     "capacity_banquet": 13800,
+     "capacity_reception": null,
+     "notes": "Official table: 325' x 472'-530', ceiling 25', 1,140 10x10 booths.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 14462,
+     "capacity_max": null,
+     "capacity_theatre": 12900,
+     "capacity_classroom": null,
+     "capacity_banquet": 9700,
+     "capacity_reception": null,
+     "notes": "Official table: 245' x 575', 791 booths (759 10x10 + 32 8x10).",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 13688,
+     "capacity_max": null,
+     "capacity_theatre": 12250,
+     "capacity_classroom": null,
+     "capacity_banquet": 9200,
+     "capacity_reception": null,
+     "notes": "Official table: 250' x 530', 736 booths.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 13549,
+     "capacity_max": null,
+     "capacity_theatre": 12000,
+     "capacity_classroom": null,
+     "capacity_banquet": 9000,
+     "capacity_reception": null,
+     "notes": "Official table: 250' x 530', 736 booths.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Hall E",
+     "type": null,
+     "area_sqm": 13329,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 8000,
+     "capacity_reception": null,
+     "notes": "Official table: 270' x 535', ceiling 13'8\", 650 10x10 booths; no theatre figure published.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    },
+    {
+     "name": "Arena",
+     "type": null,
+     "area_sqm": 2614,
+     "capacity_max": null,
+     "capacity_theatre": 7500,
+     "capacity_classroom": null,
+     "capacity_banquet": 1200,
+     "capacity_reception": null,
+     "notes": "Official table: 28,140 sq ft flat floor, ceiling 45'-89', 7,500 stadium-style seating; not included in the 813,607 exhibit-hall total.",
+     "source_url": "https://www.visitanaheim.org/meetings/anaheim-convention-center/floor-plans-and-specifications/exhibit-hall-capacities/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Anaheim Convention Center Spec Guide 2025 (Visit Anaheim)",
+     "doc_type": "tech_spec",
+     "language": "en",
+     "source_url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/anaheimca/ACC_Spec_Guide_2025_v8_print_1__b2a9af9b-2d38-484b-ad19-113afdd8fb03.pdf",
+     "href": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/anaheimca/ACC_Spec_Guide_2025_v8_print_1__b2a9af9b-2d38-484b-ad19-113afdd8fb03.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "boston-convention-exhibition-center",
@@ -247639,8 +249496,7 @@ window.ATLASDATA={
    "description": "Boston’s Seaport convention centre, operated as part of the Massachusetts Convention Center Authority / Signature Boston campus (the official site also refers to it as MCEC). Official figures give 516,000 sq ft of contiguous exhibit space (converted to 47,938 m²) and an 82-room meeting programme. The 2.1 million square feet figure is a building total, not stored as exhibition_sqm. Coordinates are the atlas precise pin, which matches a Nominatim result for the named exhibition centre at 415 Summer Street.",
    "photo": null,
    "linked_event_slugs": [
-    "atd-2027",
-    "red-hat-summit-2027"
+    "atd-2027"
    ],
    "contact_email": "sales@signatureboston.com",
    "sources": [
@@ -247958,8 +249814,7 @@ window.ATLASDATA={
    "description": "Convention resort at National Harbor, Maryland, listed in the atlas as the venue for Nacha Smarter Faster Payments 2027. Address and coordinates are a Nominatim result for the named hotel. Official meeting-room capacities were not recorded from the Marriott events page in this pass, so numeric fields are left null. star_rating is null; the US has no official government hotel classification, and Forbes or AAA ratings were not used.",
    "photo": null,
    "linked_event_slugs": [
-    "nacha-smarter-faster-payments-2027",
-    "gartner-security-risk-summit-2027"
+    "nacha-smarter-faster-payments-2027"
    ],
    "contact_email": null,
    "sources": [
@@ -248031,6 +249886,174 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "caesars-forum",
+   "name": "Caesars Forum",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "Las Vegas, Nevada, United States",
+   "lat": 36.1189571,
+   "lon": -115.1661889,
+   "url": "https://www.caesars.com/caesars-forum",
+   "capacity": 10000,
+   "exhibition_sqm": null,
+   "halls": "Official Caesars Entertainment 2022 fact sheet: a 550,000-square-foot conference center on a single level, able to accommodate up to 10,000 participants at one time; Forum and Summit ballrooms described as the two largest pillarless ballrooms, each \"110,00 square feet\" on the fact sheet (a typographical rendering of 110,000 sq ft given the surrounding official description); Forum Plaza is a 100,000-square-foot dedicated outdoor meeting and event space; six 1,250-square-foot boardrooms. No dedicated exhibit-hall total is published, so exhibition_sqm is left null. Official street address was not printed on the retrieved fact sheet or events page text and is left to be confirmed by a precise Nominatim pin for the named venue.",
+   "description": "Purpose-built conference centre on the Las Vegas Strip, officially named by AWS as one of the venues for re:Invent 2026 (together with Caesars Palace, Encore, MGM Grand, The Venetian and Wynn). Official 2022 Caesars fact sheet: 550,000 sq ft, up to 10,000 participants at one time, and two pillarless ballrooms (Forum and Summit). exhibition_sqm is null because the official source describes meeting/conference space rather than a dedicated exhibit-hall total. Linked atlas event: aws-reinvent-2026. The US has no official government hotel star system; this is a convention venue, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "aws-reinvent-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.caesars.com/caesars-forum",
+     "label": "Official source"
+    },
+    {
+     "url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://aws.amazon.com/events/reinvent/faqs/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Forum Ballroom",
+     "type": null,
+     "area_sqm": 10219,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2022 fact sheet describes Forum and Summit as the two largest pillarless ballrooms, each typeset as \"110,00 square feet\" in a context that clearly refers to 110,000 sq ft. No official theatre figure was published on this fact sheet.",
+     "source_url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf"
+    },
+    {
+     "name": "Summit Ballroom",
+     "type": null,
+     "area_sqm": 10219,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Same official 2022 fact sheet as Forum Ballroom. \"110,00 square feet\" typesetting noted.",
+     "source_url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf"
+    },
+    {
+     "name": "Forum Plaza",
+     "type": null,
+     "area_sqm": 9290,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official fact sheet: the only 100,000-square-foot dedicated outdoor meeting and event space in Las Vegas.",
+     "source_url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "CAESARS FORUM official fact sheet (2022)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf",
+     "href": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "san-jose-mcenery-convention-center",
+   "name": "San Jose McEnery Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "San Jose",
+   "address": "150 W San Carlos Street, San Jose, CA 95113, United States",
+   "lat": 37.3289453,
+   "lon": -121.8890159,
+   "url": "https://www.sanjose.org/meet/conventioncenter",
+   "capacity": 3900,
+   "exhibition_sqm": 19952,
+   "halls": "Official Visit San Jose convention-centre page and official at-a-glance PDF: total convention center space 294,760 sq ft; combined / total convention center exhibit space 214,760 sq ft; total contiguous exhibit space 165,000 sq ft. The same official page also describes the exhibit halls as 143,000 sq ft opening to 165,000 sq ft of contiguous space, and lists 43 meeting rooms with capacities from 50 to 3,900 (theater style), plus ballrooms of 35,194 sq ft (Grand Ballroom on the PDF) and 22,000 sq ft. exhibition_sqm uses the official 214,760 sq ft total exhibit figure.",
+   "description": "San Jose's convention centre at 150 W San Carlos Street (address confirmed on the official Visit San Jose convention-centre page and on NVIDIA's official GTC FAQ). Official at-a-glance PDF and official webpage: 214,760 sq ft of convention-centre exhibit space and 165,000 sq ft contiguous; the exhibit-halls narrative also cites 143,000 sq ft opening to 165,000. Official page: 43 meeting rooms with capacities from 50 to 3,900 theatre style (used as headline capacity). Linked atlas event: nvidia-gtc-2027, which the official GTC FAQ places here (plus venues throughout San Jose) for 14-18 March 2027 (the GTC homepage also gives 15-18 March). The US has no official government star system; star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nvidia-gtc-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.sanjose.org/meet/conventioncenter",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.nvidia.com/gtc/faq/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibit halls (total convention-centre exhibit space)",
+     "type": null,
+     "area_sqm": 19952,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official at-a-glance PDF and official webpage: 214,760 sq ft total convention center exhibit space. Official webpage also says the exhibit halls provide 143,000 sq ft, with flexibility to open to 165,000 sq ft contiguous (the PDF's contiguous figure).",
+     "source_url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance"
+    },
+    {
+     "name": "Contiguous exhibit space",
+     "type": null,
+     "area_sqm": 15329,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official at-a-glance PDF: total contiguous exhibit space 165,000 sq ft.",
+     "source_url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 3270,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official at-a-glance PDF: 35,194 sq ft. The official webpage also mentions a 22,000 sq ft ballroom.",
+     "source_url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance"
+    }
+   ],
+   "documents": [
+    {
+     "title": "San Jose McEnery Convention Center at-a-glance",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance",
+     "href": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance",
+     "local": false
+    }
+   ]
   }
  ],
  "sourceMissing": [],
@@ -248054,7 +250077,7 @@ window.ATLASDATA={
   },
   "expo": 180,
   "hotels": 77,
-  "venues": 168,
+  "venues": 187,
   "europe": 1351,
   "middle_east": 156,
   "asia": 508,
