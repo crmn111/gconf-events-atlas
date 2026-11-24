@@ -8,4 +8,8 @@
     <loc>https://crmn111.github.io/gconf-events-atlas/sitemaps/sitemap-events.xml</loc>
     <lastmod>2026-11-24</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://crmn111.github.io/gconf-events-atlas/sitemaps/sitemap-venues.xml</loc>
+    <lastmod>2026-11-24</lastmod>
+  </sitemap>
 </sitemapindex>
