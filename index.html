@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>GConf Events Atlas · Conferences and festivals in Europe and the UAE</title>
-<meta name="description" content="A map of upcoming conferences and festivals in Europe and the UAE. Every fact is cited. Built by GConf AI.">
+<title>GConf Events Atlas · Conferences, festivals and sports in Europe and the UAE</title>
+<meta name="description" content="A map of upcoming conferences, festivals and sports in Europe and the UAE. Every fact is cited. Built by GConf AI.">
 <meta name="theme-color" content="#F3F5F7" id="theme-color">
 <script>(function(){try{var t=localStorage.getItem('gconf-atlas-theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611240611">
+<link rel="stylesheet" href="style.css?v=202611240739">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -42,6 +42,7 @@
     <div class="kindbar" id="kindbar" role="tablist" aria-label="Event type">
       <button type="button" role="tab" data-k="conference" class="on" aria-selected="true">Conferences <small id="kind-n-conference"></small></button>
       <button type="button" role="tab" data-k="festival" aria-selected="false">Festivals <small id="kind-n-festival"></small></button>
+      <button type="button" role="tab" data-k="sports" aria-selected="false">Sports <small id="kind-n-sports"></small></button>
     </div>
     <div class="stats" id="stats"></div>
     <div class="sidetop">
@@ -140,7 +141,7 @@
       </form>
     </section>
     <footer class="foot">
-      A <a href="https://gconf.ai" target="_blank" rel="noopener">GConf.ai</a> map of upcoming conferences and festivals in Europe and the UAE.
+      A <a href="https://gconf.ai" target="_blank" rel="noopener">GConf.ai</a> map of upcoming conferences, festivals and sports in Europe and the UAE.
       Research as of <span id="upd"></span>. Every fact is cited on its event page.
       ◌ marks an approximate pin. Ticket-price comparisons in euro are indicative.
       Basemaps © Esri and OpenStreetMap contributors. Photos © their publishers, credited on each page.
@@ -281,8 +282,8 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611240611"></script>
-<script src="data.js?v=202611240611"></script>
-<script src="app.js?v=202611240611"></script>
+<script src="config.js?v=202611240739"></script>
+<script src="data.js?v=202611240739"></script>
+<script src="app.js?v=202611240739"></script>
 </body>
 </html>

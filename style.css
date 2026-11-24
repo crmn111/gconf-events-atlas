@@ -55,6 +55,22 @@
   --culture:#1F8A7A;
   --other:#5C6570;
   --on-fest:#FFFFFF;
+  --finance:#0F6E6A;
+  --yachting:#155A9C;
+  --motorsport:#C4281C;
+  --tennis:#C7A008;
+  --football:#1F6B3A;
+  --golf:#A67C2A;
+  --sport-other:#5C3D99;
+  --sports:#163A5F;
+  --on-finance:#FFFFFF;
+  --on-yachting:#FFFFFF;
+  --on-motorsport:#FFFFFF;
+  --on-tennis:#0A0E12;
+  --on-football:#FFFFFF;
+  --on-golf:#0A0E12;
+  --on-sport-other:#FFFFFF;
+  --on-sports:#FFFFFF;
   --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
   --sans:'Space Grotesk',system-ui,sans-serif;
   color-scheme:light;
@@ -104,6 +120,22 @@ html[data-theme="dark"]{
   --culture:#3AA899;
   --other:#8B939C;
   --on-fest:#0A0E12;
+  --finance:#3ECFC8;
+  --yachting:#5BA3E0;
+  --motorsport:#FF6B5A;
+  --tennis:#E6D84A;
+  --football:#4ECF70;
+  --golf:#E0B35A;
+  --sport-other:#B49AE8;
+  --sports:#5BA3D0;
+  --on-finance:#0A0E12;
+  --on-yachting:#0A0E12;
+  --on-motorsport:#0A0E12;
+  --on-tennis:#0A0E12;
+  --on-football:#0A0E12;
+  --on-golf:#0A0E12;
+  --on-sport-other:#0A0E12;
+  --on-sports:#0A0E12;
   color-scheme:dark;
 }
 *{box-sizing:border-box}
@@ -121,13 +153,14 @@ html[data-theme="dark"] .powered-by img.logo-on-dark{display:block!important}
 .logo img{width:28px;height:26px}
 .eyebrow{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--eyebrow);font-weight:500}
 h1{font-weight:600;font-size:22px;margin:2px 0 0;letter-spacing:-.02em}
-.kindbar{display:grid;grid-template-columns:1fr 1fr;gap:6px;padding:10px 22px 12px;background:var(--header);border-bottom:1px solid var(--line)}
-.kindbar button{border:1px solid var(--line);background:var(--input);border-radius:12px;padding:10px 8px 8px;font:600 14.5px var(--sans);color:var(--muted);cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:1px;letter-spacing:-.01em}
+.kindbar{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px;padding:10px 16px 12px;background:var(--header);border-bottom:1px solid var(--line)}
+.kindbar button{border:1px solid var(--line);background:var(--input);border-radius:12px;padding:9px 4px 7px;font:600 13px var(--sans);color:var(--muted);cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:1px;letter-spacing:-.01em;min-width:0}
 .kindbar button small{font:500 11px var(--mono);opacity:.75;letter-spacing:0}
 .kindbar button.on{background:var(--ink);color:var(--on-ink);border-color:var(--ink);box-shadow:var(--shadow)}
 .kindbar button.on small{opacity:.8}
 .kindbar button:focus-visible{outline:3px solid var(--cyan);outline-offset:2px}
 .kindbar button[data-k="festival"].on{background:var(--music);border-color:var(--music);color:var(--on-fest)}
+.kindbar button[data-k="sports"].on{background:var(--sports);border-color:var(--sports);color:var(--on-sports)}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);background:var(--header);color:var(--ink);padding:12px 22px 16px;gap:8px}
 .stats div{background:var(--stat);border:1px solid var(--line);border-radius:10px;padding:8px 8px}
 .stats b{display:block;font-size:18px;font-weight:600;letter-spacing:-.02em}
@@ -821,6 +854,101 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
   #app.play-on #detail{transition:none}
 }
 
+
+
+/* Finance, Boat & Yacht, and Sports categories */
+.chips button.on.finance{background:var(--finance);border-color:var(--finance);color:var(--on-finance)}
+.chips button.on.yachting{background:var(--yachting);border-color:var(--yachting);color:var(--on-yachting)}
+.chips button.on.motorsport{background:var(--motorsport);border-color:var(--motorsport);color:var(--on-motorsport)}
+.chips button.on.tennis{background:var(--tennis);border-color:var(--tennis);color:var(--on-tennis)}
+.chips button.on.football{background:var(--football);border-color:var(--football);color:var(--on-football)}
+.chips button.on.golf{background:var(--golf);border-color:var(--golf);color:var(--on-golf)}
+#app[data-kind="sports"] .chips button.on.other{background:var(--sport-other);border-color:var(--sport-other);color:var(--on-sport-other)}
+.dot.finance{background:var(--finance)}.dot.yachting{background:var(--yachting)}
+.dot.motorsport{background:var(--motorsport)}.dot.tennis{background:var(--tennis)}
+.dot.football{background:var(--football)}.dot.golf{background:var(--golf)}
+#app[data-kind="sports"] .dot.other{background:var(--sport-other)}
+.card .th.ph.finance{background:linear-gradient(135deg,#062624,#0F6E6A)}
+.card .th.ph.yachting{background:linear-gradient(135deg,#0A2540,#155A9C)}
+.card .th.ph.motorsport{background:linear-gradient(135deg,#2a0a08,#C4281C)}
+.card .th.ph.tennis{background:linear-gradient(135deg,#2a2208,#C7A008)}
+.card .th.ph.football{background:linear-gradient(135deg,#0a1a10,#1F6B3A)}
+.card .th.ph.golf{background:linear-gradient(135deg,#2a1c08,#A67C2A)}
+#app[data-kind="sports"] .card .th.ph.other{background:linear-gradient(135deg,#1a1230,#5C3D99)}
+.tag.finance{color:var(--finance);border-color:color-mix(in srgb,var(--finance) 45%,transparent)}
+.tag.yachting{color:var(--yachting);border-color:color-mix(in srgb,var(--yachting) 45%,transparent)}
+.tag.motorsport{color:var(--motorsport);border-color:color-mix(in srgb,var(--motorsport) 45%,transparent)}
+.tag.tennis{color:var(--tennis);border-color:color-mix(in srgb,var(--tennis) 45%,transparent)}
+.tag.football{color:var(--football);border-color:color-mix(in srgb,var(--football) 45%,transparent)}
+.tag.golf{color:var(--golf);border-color:color-mix(in srgb,var(--golf) 45%,transparent)}
+#app[data-kind="sports"] .tag.other{color:var(--sport-other);border-color:color-mix(in srgb,var(--sport-other) 45%,transparent)}
+.pin-s.finance{background:var(--finance)}.pin-s.yachting{background:var(--yachting)}
+.pin-s.motorsport{background:var(--motorsport)}.pin-s.tennis{background:var(--tennis)}
+.pin-s.football{background:var(--football)}.pin-s.golf{background:var(--golf)}
+#app[data-kind="sports"] .pin-s.other{background:var(--sport-other)}
+.mk.finance .pill{background:var(--finance);color:var(--on-finance);border-color:var(--finance)}
+.mk.yachting .pill{background:var(--yachting);color:var(--on-yachting);border-color:var(--yachting)}
+.mk.motorsport .pill{background:var(--motorsport);color:var(--on-motorsport);border-color:var(--motorsport)}
+.mk.tennis .pill{background:var(--tennis);color:var(--on-tennis);border-color:var(--tennis)}
+.mk.football .pill{background:var(--football);color:var(--on-football);border-color:var(--football)}
+.mk.golf .pill{background:var(--golf);color:var(--on-golf);border-color:var(--golf)}
+#app[data-kind="sports"] .mk.other .pill{background:var(--sport-other);color:var(--on-sport-other);border-color:var(--sport-other)}
+.mk.finance::after{border-top-color:var(--finance)}
+.mk.yachting::after{border-top-color:var(--yachting)}
+.mk.motorsport::after{border-top-color:var(--motorsport)}
+.mk.tennis::after{border-top-color:var(--tennis)}
+.mk.football::after{border-top-color:var(--football)}
+.mk.golf::after{border-top-color:var(--golf)}
+#app[data-kind="sports"] .mk.other::after{border-top-color:var(--sport-other)}
+.dhero.finance{background:linear-gradient(135deg,#062624,#0F6E6A)}
+.dhero.yachting{background:linear-gradient(135deg,#0A2540,#155A9C)}
+.dhero.motorsport{background:linear-gradient(135deg,#2a0a08,#C4281C)}
+.dhero.tennis{background:linear-gradient(135deg,#2a2208,#C7A008)}
+.dhero.football{background:linear-gradient(135deg,#0a1a10,#1F6B3A)}
+.dhero.golf{background:linear-gradient(135deg,#2a1c08,#A67C2A)}
+#app[data-kind="sports"] .dhero.other{background:linear-gradient(135deg,#1a1230,#5C3D99)}
+.swc.finance .swtier{background:var(--finance);color:var(--on-finance)}
+.swc.yachting .swtier{background:var(--yachting);color:var(--on-yachting)}
+.swc.motorsport .swtier{background:var(--motorsport);color:var(--on-motorsport)}
+.swc.tennis .swtier{background:var(--tennis);color:var(--on-tennis)}
+.swc.football .swtier{background:var(--football);color:var(--on-football)}
+.swc.golf .swtier{background:var(--golf);color:var(--on-golf)}
+#app[data-kind="sports"] .swc.other .swtier{background:var(--sport-other);color:var(--on-sport-other)}
+.tl-item.finance .tl-dot{border-color:var(--finance);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--finance) 70%,transparent)}
+.tl-item.yachting .tl-dot{border-color:var(--yachting);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--yachting) 70%,transparent)}
+.tl-item.motorsport .tl-dot{border-color:var(--motorsport);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--motorsport) 70%,transparent)}
+.tl-item.tennis .tl-dot{border-color:var(--tennis);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--tennis) 70%,transparent)}
+.tl-item.football .tl-dot{border-color:var(--football);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--football) 70%,transparent)}
+.tl-item.golf .tl-dot{border-color:var(--golf);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--golf) 70%,transparent)}
+#app[data-kind="sports"] .tl-item.other .tl-dot{border-color:var(--sport-other);box-shadow:0 0 0 4px var(--bg),0 0 16px color-mix(in srgb,var(--sport-other) 70%,transparent)}
+.tl-hero.ph.finance{background:radial-gradient(ellipse at 20% 0%,rgba(15,110,106,.5),transparent 55%),linear-gradient(165deg,#062624,#0F6E6A 70%,#041614)}
+.tl-hero.ph.yachting{background:radial-gradient(ellipse at 80% 0%,rgba(21,90,156,.5),transparent 50%),linear-gradient(165deg,#0A2540,#155A9C 70%,#071828)}
+.tl-hero.ph.motorsport{background:radial-gradient(ellipse at 50% 0%,rgba(196,40,28,.5),transparent 50%),linear-gradient(165deg,#2a0a08,#C4281C 70%,#1a0806)}
+.tl-hero.ph.tennis{background:radial-gradient(ellipse at 20% 20%,rgba(199,160,8,.5),transparent 50%),linear-gradient(165deg,#2a2208,#C7A008 70%,#1a1606)}
+.tl-hero.ph.football{background:radial-gradient(ellipse at 80% 0%,rgba(31,107,58,.5),transparent 50%),linear-gradient(165deg,#0a1a10,#1F6B3A 70%,#06140c)}
+.tl-hero.ph.golf{background:radial-gradient(ellipse at 50% 0%,rgba(166,124,42,.5),transparent 50%),linear-gradient(165deg,#2a1c08,#A67C2A 70%,#1a1206)}
+#app[data-kind="sports"] .tl-hero.ph.other{background:radial-gradient(ellipse at 20% 0%,rgba(92,61,153,.5),transparent 50%),linear-gradient(165deg,#1a1230,#5C3D99 70%,#120c20)}
+.tl-cat.finance{background:var(--finance);color:var(--on-finance)}
+.tl-cat.yachting{background:var(--yachting);color:var(--on-yachting)}
+.tl-cat.motorsport{background:var(--motorsport);color:var(--on-motorsport)}
+.tl-cat.tennis{background:var(--tennis);color:var(--on-tennis)}
+.tl-cat.football{background:var(--football);color:var(--on-football)}
+.tl-cat.golf{background:var(--golf);color:var(--on-golf)}
+#app[data-kind="sports"] .tl-cat.other{background:var(--sport-other);color:var(--on-sport-other)}
+.tour-pin.finance{background:var(--finance);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--finance)}
+.tour-pin.yachting{background:var(--yachting);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--yachting)}
+.tour-pin.motorsport{background:var(--motorsport);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--motorsport)}
+.tour-pin.tennis{background:var(--tennis);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--tennis)}
+.tour-pin.football{background:var(--football);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--football)}
+.tour-pin.golf{background:var(--golf);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--golf)}
+#app[data-kind="sports"] .tour-pin.other{background:var(--sport-other);box-shadow:0 0 0 3px var(--bg),0 0 18px var(--sport-other)}
+.gcard-photo.ph.finance{background:linear-gradient(135deg,#062624,#0F6E6A)}
+.gcard-photo.ph.yachting{background:linear-gradient(135deg,#0A2540,#155A9C)}
+.gcard-photo.ph.motorsport{background:linear-gradient(135deg,#2a0a08,#C4281C)}
+.gcard-photo.ph.tennis{background:linear-gradient(135deg,#2a2208,#C7A008)}
+.gcard-photo.ph.football{background:linear-gradient(135deg,#0a1a10,#1F6B3A)}
+.gcard-photo.ph.golf{background:linear-gradient(135deg,#2a1c08,#A67C2A)}
+#app[data-kind="sports"] .gcard-photo.ph.other{background:linear-gradient(135deg,#1a1230,#5C3D99)}
 
 /* Festival categories */
 .pin-s.music{background:var(--music)}.pin-s.arts{background:var(--arts)}.pin-s.film{background:var(--film)}

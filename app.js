@@ -4,8 +4,9 @@ const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education'};
+const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education', finance:'Finance', yachting:'Boat & Yacht'};
 const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:'Culture', other:'Other'};
+const CAT_SPORTS = {motorsport:'Motorsport', tennis:'Tennis', football:'Football', golf:'Golf', other:'Other Sports'};
 const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 
@@ -81,7 +82,12 @@ function pillText(e){
 function hasPin(e){ return e.lat!=null && e.lng!=null; }
 function isApprox(e){ return hasPin(e) && e.precise!==true; }
 function where(e){ return [e.venue, [e.city, e.country].filter(Boolean).join(', ')].filter(Boolean).join(' · '); }
-function evKind(e){ return e && e.kind==='festival' ? 'festival' : 'conference'; }
+function evKind(e){
+  const k = String(e && e.kind || '').toLowerCase();
+  if(k==='festival' || k==='festivals' || k==='fest') return 'festival';
+  if(k==='sports' || k==='sport' || k==='sporting') return 'sports';
+  return 'conference';
+}
 function evRegion(e){
   const r = String((e && e.region) || '').toLowerCase().trim();
   return r || 'europe';
@@ -110,8 +116,18 @@ function regionList(){
 function isKnownRegion(r){
   return r==='all' || regionList().includes(r);
 }
-function catLabel(e){ return CAT[e.category] || (e.category ? e.category.charAt(0).toUpperCase()+e.category.slice(1) : 'Event'); }
-function catDict(kind){ return (kind||st.kind)==='festival' ? CAT_FEST : CAT_CONF; }
+function catLabel(e){
+  const d = catDict(evKind(e));
+  const c = e && e.category;
+  if(c && d[c]) return d[c];
+  return (c ? c.charAt(0).toUpperCase()+c.slice(1) : 'Event');
+}
+function catDict(kind){
+  kind = kind||st.kind;
+  if(kind==='festival') return CAT_FEST;
+  if(kind==='sports') return CAT_SPORTS;
+  return CAT_CONF;
+}
 function catKeys(kind){
   kind = kind||st.kind;
   const d = catDict(kind);
@@ -137,7 +153,14 @@ const ISO = {
   'Great Britain':'GB', Ireland:'IE', Sweden:'SE', Norway:'NO', Denmark:'DK',
   Finland:'FI', Poland:'PL', Hungary:'HU', Romania:'RO', Slovakia:'SK',
   Slovenia:'SI', Croatia:'HR', Bulgaria:'BG', Lithuania:'LT', Iceland:'IS',
-  Serbia:'RS', 'United Arab Emirates':'AE', UAE:'AE'
+  Serbia:'RS', 'United Arab Emirates':'AE', UAE:'AE',
+  Monaco:'MC', 'Isle of Man':'IM', Azerbaijan:'AZ', Bahrain:'BH',
+  Macau:'MO', 'Antigua and Barbuda':'AG', Malaysia:'MY', Argentina:'AR',
+  India:'IN', China:'CN', Japan:'JP', Australia:'AU', Canada:'CA',
+  Mexico:'MX', Brazil:'BR', 'South Africa':'ZA', 'Saudi Arabia':'SA',
+  Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
+  Thailand:'TH', Singapore:'SG', 'Hong Kong':'HK', 'South Korea':'KR',
+  'New Zealand':'NZ', 'United States':'US', USA:'US'
 };
 function flagOf(country){
   const iso = ISO[country];
@@ -475,7 +498,7 @@ const st = {
 };
 try{
   const k = localStorage.getItem('gconf-atlas-kind');
-  if(k==='festival'||k==='conference') st.kind = k;
+  if(k==='festival'||k==='conference'||k==='sports') st.kind = k;
 }catch(_){}
 
 function kindPool(){
@@ -521,16 +544,19 @@ function updateKindbar(){
     b.classList.toggle('on', on);
     b.setAttribute('aria-selected', on?'true':'false');
   });
-  const nc = $('#kind-n-conference'), nf = $('#kind-n-festival');
+  const nc = $('#kind-n-conference'), nf = $('#kind-n-festival'), ns = $('#kind-n-sports');
   if(nc) nc.textContent = EV.filter(e => evKind(e)==='conference').length;
   if(nf) nf.textContent = EV.filter(e => evKind(e)==='festival').length;
+  if(ns) ns.textContent = EV.filter(e => evKind(e)==='sports').length;
+  const app = $('#app');
+  if(app) app.dataset.kind = st.kind;
 }
 function updateRegionChrome(){
   $$('#f-region button').forEach(b => b.classList.toggle('on', b.dataset.r===st.region));
   $$('#regions button').forEach(b => b.classList.toggle('on', st.region!=='all' && b.dataset.r===st.region));
 }
 function setKind(k){
-  if(k!=='festival') k='conference';
+  if(k!=='festival' && k!=='sports') k='conference';
   if(st.kind===k) return;
   st.kind = k;
   st.cities.clear();
@@ -884,7 +910,9 @@ function emptyMessage(){
   if(!kindAll.length){
     return st.kind==='festival'
       ? 'Festival listings are still being compiled.'
-      : 'No upcoming events have been published yet. The research feed is still being compiled.';
+      : st.kind==='sports'
+        ? 'Sports listings are still being compiled.'
+        : 'No upcoming events have been published yet. The research feed is still being compiled.';
   }
   if(st.region!=='all' && !kindAll.some(e => evRegion(e)===st.region)){
     return 'No '+regionLabel(st.region)+' listings have been published yet for this view.';
@@ -907,13 +935,13 @@ function render(){
   $('#upd').textContent = D.updated || '—';
   if(D.scope && !window._scopeApplied){
     window._scopeApplied = true;
-    const titleBits = String(D.scope).replace(/^Conferences and festivals in /i, '');
+    const titleBits = String(D.scope).replace(/^Conferences, festivals and sports in /i, '').replace(/^Conferences and festivals in /i, '');
     if(titleBits){
-      document.title = 'GConf Events Atlas · Conferences and festivals in ' + titleBits;
+      document.title = 'GConf Events Atlas · Conferences, festivals and sports in ' + titleBits;
       const mapEl = $('#map');
       if(mapEl) mapEl.setAttribute('aria-label', 'Map of events in ' + titleBits);
       const desc = document.querySelector('meta[name="description"]');
-      if(desc) desc.setAttribute('content', 'A map of upcoming conferences and festivals in '+titleBits+'. Every fact is cited. Built by GConf AI.');
+      if(desc) desc.setAttribute('content', 'A map of upcoming conferences, festivals and sports in '+titleBits+'. Every fact is cited. Built by GConf AI.');
       document.querySelectorAll('footer.foot').forEach(foot => {
         foot.innerHTML = foot.innerHTML.replace(/upcoming conferences and festivals in [^.<]+/, 'upcoming conferences and festivals in '+titleBits);
       });
@@ -1222,7 +1250,7 @@ function gridCardHtml(e){
   const ph = leadPhoto(e);
   const attend = fmtAttendance(e);
   const place = [e.city, e.country].filter(Boolean).join(', ');
-  const kind = evKind(e)==='festival' ? 'Festival' : 'Conference';
+  const kind = evKind(e)==='festival' ? 'Festival' : evKind(e)==='sports' ? 'Sports' : 'Conference';
   const photo = ph
     ? `<div class="gcard-photo ${esc(e.category||'')}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`
     : `<div class="gcard-photo ph ${esc(e.category||'')}" aria-hidden="true"><span>${esc(catLabel(e))}</span></div>`;
@@ -1286,6 +1314,12 @@ function tlIcon(cat){
   if(cat==='tech') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="14" width="20" height="20" rx="3" fill="none" stroke="#CFF55A" stroke-width="2.2"/><path stroke="#CFF55A" stroke-width="2" d="M24 8v6M24 34v6M8 24h6M34 24h6"/><circle cx="24" cy="24" r="3.5" fill="#CFF55A"/></svg>`;
   if(cat==='ai') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#8FE3F2" d="M24 6l3.2 10.2L37 16.8 29.8 23l2.7 10.4L24 28.2 15.5 33.4 18.2 23 11 16.8l9.8-0.6z"/></svg>`;
   if(cat==='education') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#B8C0FF" stroke-width="2.2" d="M8 16 24 10l16 6v18L24 40 8 34V16z"/><path fill="none" stroke="#B8C0FF" stroke-width="2" d="M24 10v30M8 16l16 6 16-6"/></svg>`;
+  if(cat==='finance') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="10" width="20" height="28" rx="2" fill="none" stroke="#3ECFC8" stroke-width="2.2"/><path stroke="#3ECFC8" stroke-width="2" d="M18 20h12M18 26h12M18 32h8"/></svg>`;
+  if(cat==='yachting') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#5BA3E0" stroke-width="2.2" d="M24 8v22L10 30h28L24 30"/><path fill="none" stroke="#5BA3E0" stroke-width="2" d="M8 36c4 4 28 4 32 0"/></svg>`;
+  if(cat==='motorsport') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="14" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><circle cx="34" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><path fill="none" stroke="#FF6B5A" stroke-width="2.2" d="M10 32 16 18h14l8 14M20 18l-2-6h8"/></svg>`;
+  if(cat==='tennis') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#E6D84A" stroke-width="2.2"/><path fill="none" stroke="#E6D84A" stroke-width="2" d="M16 16c8 4 8 12 0 16M32 16c-8 4-8 12 0 16"/></svg>`;
+  if(cat==='football') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#4ECF70" stroke-width="2.2"/><path fill="none" stroke="#4ECF70" stroke-width="2" d="M24 12v24M14 20h20M16 30h16"/></svg>`;
+  if(cat==='golf') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="#E0B35A" d="M24 8 36 16 24 16z"/><path fill="none" stroke="#E0B35A" stroke-width="2.2" d="M24 8v26"/><ellipse cx="24" cy="36" rx="12" ry="4" fill="none" stroke="#E0B35A" stroke-width="2"/></svg>`;
   return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#fff" stroke-width="2.2" d="M10 34c6-14 22-14 28 0"/><circle cx="18" cy="18" r="3" fill="#fff"/><circle cx="30" cy="16" r="3" fill="#fff"/><circle cx="24" cy="22" r="2.5" fill="#fff"/></svg>`;
 }
 function startsOnOrAfterToday(e){
