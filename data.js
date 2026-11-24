@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T05:04:41Z",
+ "generated": "2026-11-24T05:11:08Z",
  "scope": "Conferences and festivals in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -1964,6 +1964,125 @@ window.ATLASDATA={
    "id": "slovenian-book-fair-2026",
    "price_eur_min": null,
    "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-autumn-itapa-2026",
+   "slug": "autumn-itapa-2026",
+   "name": "Autumn ITAPA 2026",
+   "website_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+   "start_date": "2026-11-24",
+   "end_date": "2026-11-26",
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Crowne Plaza Bratislava, Hodžovo námestie 2",
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "ITAPA",
+   "expected_attendance": null,
+   "ticket_price_min": 110.0,
+   "ticket_price_max": 450.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official Autumn ITAPA 2026 page: three-day pass €450 incl. VAT; one-day pass €199 incl. VAT (Health, Cybersec or Digi Day); discounted passes for healthcare professionals €149 incl. VAT and for NGOs and startups €110 incl. VAT; online pass €85 incl. VAT (live stream and recordings, not used as the min/max in-person range).",
+   "ticket_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+   "price_source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.1473925,
+   "lng": 17.1081649,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "eGovernment",
+    "digital public services",
+    "cybersecurity",
+    "health IT",
+    "artificial intelligence"
+   ],
+   "photos": [
+    {
+     "src": "img/events/autumn-itapa-2026-1.jpg",
+     "thumb": "img/events/autumn-itapa-2026-1-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/25956.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/autumn-itapa-2026-2.jpg",
+     "thumb": "img/events/autumn-itapa-2026-2-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/25940.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/autumn-itapa-2026-3.jpg",
+     "thumb": "img/events/autumn-itapa-2026-3-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/25948.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/autumn-itapa-2026-4.jpg",
+     "thumb": "img/events/autumn-itapa-2026-4-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/25964.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/autumn-itapa-2026-5.jpg",
+     "thumb": "img/events/autumn-itapa-2026-5-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/26052.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/autumn-itapa-2026-6.jpg",
+     "thumb": "img/events/autumn-itapa-2026-6-t.jpg",
+     "orig": "https://www.itapa.sk/data/images/26054.jpg",
+     "page": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.itapa.sk/20284-en/jesenna-itapa-2026/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.itapa.sk/jesenna-itapa-2026/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.itapa.sk/get-to-know-the-itapa-events/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 6,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Crowne Plaza, 568/2, Hodžovo námestie, Oblasť Žilinská, Bratislava, District of Bratislava I, Bratislava, Region of Bratislava, 811 06, Slovakia (query: Crowne Plaza, Bratislava, Slovakia). Official English page names Crowne Plaza Bratislava as the 2026 venue (Hodžovo námestie 2).",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official itapa.sk English page fetched 24 Nov 2026 headlines ‘Autumn ITAPA 2026’ / ‘24. - 26. November 2026 | Crowne Plaza Bratislava’ and ‘25 years towards the future’. The congress was still running on the access date (start 24 Nov 2026) and is in scope like other still-upcoming late-2026 editions. Category is tech (digital public administration, cybersec, health IT and AI themes), not an AI-only summit. No official 2027 Congress dates were published. No official expected-attendance figure.",
+   "id": "autumn-itapa-2026",
+   "price_eur_min": 110.0,
+   "price_eur_max": 450.0,
    "has_price": true,
    "photoCredit": ""
   },
@@ -46590,6 +46709,86 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-pycon-sk-2027",
+   "slug": "pycon-sk-2027",
+   "name": "PyCon SK 2027",
+   "website_url": "https://pycon.sk/",
+   "start_date": "2027-03-12",
+   "end_date": "2027-03-13",
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "FIIT STU, Bratislava",
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "Erudo",
+   "expected_attendance": null,
+   "ticket_price_min": 49.0,
+   "ticket_price_max": 229.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official pycon.sk ticket block: Student/Teacher ticket 49 €; Individual/Personal ticket 79 €; Business ticket 129 €; Community Supporter ticket 229 € (includes a T-shirt). An online price of 25 € is also listed and is not used as the in-person min/max range.",
+   "ticket_url": "https://pycon.sk/",
+   "price_source_url": "https://pycon.sk/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://pycon.sk/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.1535477,
+   "lng": 17.0716259,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "Python",
+    "software engineering",
+    "data",
+    "artificial intelligence"
+   ],
+   "photos": [
+    {
+     "src": "img/events/pycon-sk-2027-2.jpg",
+     "thumb": "img/events/pycon-sk-2027-2-t.jpg",
+     "orig": "https://python.erudo.sk/media/images/SLA_8300.original.jpg",
+     "page": "https://pycon.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pycon-sk-2027-3.jpg",
+     "thumb": "img/events/pycon-sk-2027-3-t.jpg",
+     "orig": "https://python.erudo.sk/media/images/pyconsk-hall.original.jpg",
+     "page": "https://pycon.sk/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://pycon.sk/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": 7,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Faculty of Informatics and Information Technologies, 2, Ilkovičova, Tôňava, Mlynská dolina, Bratislava, District of Bratislava IV, Bratislava, Borinka, Region of Bratislava, 842 16, Slovakia (query: FIIT STU, Ilkovičova 2, Bratislava, Slovakia). Official homepage names the venue as FIIT STU, Bratislava; pinned to the STU Faculty of Informatics and Information Technologies building.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official pycon.sk homepage fetched 24 Nov 2026 headlines ‘PyCon SK 2027’, ‘Get ready for the 7th edition of Slovakia's biggest Python conference!’, dates ‘12–13 March 2027’ and venue ‘FIIT STU, Bratislava’. Footer/legal names Erudo as the organiser. A standing ‘600+ attendees’ marketing figure was not treated as 2027 expected attendance.",
+   "id": "pycon-sk-2027",
+   "price_eur_min": 49.0,
+   "price_eur_max": 229.0,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-startup-mahakumbh-2027",
    "slug": "startup-mahakumbh-2027",
    "name": "Startup Mahakumbh 6.0",
@@ -50396,6 +50595,71 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-animeshow-2027",
+   "slug": "animeshow-2027",
+   "name": "AnimeSHOW 2027",
+   "website_url": "https://www.comics-salon.sk/",
+   "start_date": "2027-03-19",
+   "end_date": "2027-03-21",
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "DK Ružinov, Bratislava",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Comics Salón",
+   "expected_attendance": null,
+   "ticket_price_min": 39.9,
+   "ticket_price_max": 39.9,
+   "currency": "EUR",
+   "ticket_price_text": "Official ticket block: Comics Salón 3-DAY PASS 39,90€ for 19–21 March 2027 at DK Ružinov (Fri 13:00–21:00, Sat 09:00–21:00, Sun 09:00–17:00).",
+   "ticket_url": "https://www.comics-salon.sk/",
+   "price_source_url": "https://www.comics-salon.sk/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.comics-salon.sk/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.1564788,
+   "lng": 17.1646109,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "comics",
+    "anime",
+    "pop culture",
+    "cosplay"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.comics-salon.sk/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 8,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Dom kultúry Ružinov, 28, Ružinovská, Pošeň, Bratislava, District of Bratislava II, Bratislava, Region of Bratislava, 821 03, Slovakia (query: Dom kultúry Ružinov, Bratislava, Slovakia). Official ticket block names DK Ružinov as the 2027 venue.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official comics-salon.sk page fetched 24 Nov 2026 presents AnimeSHOW 2027 as the 20th edition of the Slovak comic-con and lists ‘Comics Salón 3-DAY PASS 39,90€ / 19 – 21. 3. 2027 / 19.–21. marca 2027, DK Ružinov’. Leftover aftermovie copy for AnimeSHOW 26 (27–29 March 2026) and third-party listings of 27–29 March 2027 were not used. No official expected-attendance figure.",
+   "id": "animeshow-2027",
+   "price_eur_min": 39.9,
+   "price_eur_max": 39.9,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -98006,6 +98270,88 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-iff-art-film-2027",
+   "slug": "iff-art-film-2027",
+   "name": "IFF Art Film 2027",
+   "website_url": "https://iffartfilm.com/blog/aktuality/2026/11/iff-art-film-ohlasuje-termin-33-rocnika-a-spusta-predaj-prvych-cinepassov/",
+   "start_date": "2027-06-18",
+   "end_date": "2027-06-25",
+   "city": "Košice",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Venues in Košice",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "ART FILM FEST s.r.o.",
+   "expected_attendance": null,
+   "ticket_price_min": 30.0,
+   "ticket_price_max": 45.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official 9 November 2026 announcement of the 33rd edition: classic full-festival Cinepass €45; student full-festival Cinepass €30; senior Cinepass €30, on sale at aff.cinepass.sk at unchanged prices.",
+   "ticket_url": "https://aff.cinepass.sk/",
+   "price_source_url": "https://aff.cinepass.sk/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://iffartfilm.com/blog/aktuality/2026/11/iff-art-film-ohlasuje-termin-33-rocnika-a-spusta-predaj-prvych-cinepassov/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.7172272,
+   "lng": 21.2496774,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "world cinema",
+    "feature film",
+    "Central and Eastern European film"
+   ],
+   "photos": [
+    {
+     "src": "img/events/iff-art-film-2027-1.jpg",
+     "thumb": "img/events/iff-art-film-2027-1-t.jpg",
+     "orig": "https://iffartfilm.com/wp-content/uploads/2026/09/Artfilm-29-970x720.jpg",
+     "page": "https://iffartfilm.com/blog/aktuality/2026/11/iff-art-film-ohlasuje-termin-33-rocnika-a-spusta-predaj-prvych-cinepassov/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://iffartfilm.com/blog/aktuality/2026/11/iff-art-film-ohlasuje-termin-33-rocnika-a-spusta-predaj-prvych-cinepassov/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://iffartfilm.com/en/festival/rules-regulations/",
+     "field": "official"
+    },
+    {
+     "label": "Ticket price",
+     "url": "https://aff.cinepass.sk/",
+     "field": "ticket_price"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 9,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Košice, Region of Košice, Slovakia (query: Košice, Slovakia). Official rules and the 2027 date announcement place the festival in Košice without naming a single lead cinema; city-level pin.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official iffartfilm.com news of 9 November 2026, re-fetched 24 Nov 2026, announces the 33rd IFF Art Film in Košice on 18–25 June 2027 and opens Cinepass sales. Official English regulations confirm: ‘The Festival will take place from 18 to 25 June 2027 in Košice, Slovakia.’ Main organiser is ART FILM FEST s.r.o. No official expected-attendance figure.",
+   "id": "iff-art-film-2027",
+   "price_eur_min": 30.0,
+   "price_eur_max": 45.0,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-penang-tech-supply-chain-expo-2027",
    "slug": "penang-tech-supply-chain-expo-2027",
    "name": "PDX2027 - Penang Tech Supply Chain Expo",
@@ -109616,6 +109962,94 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-pohoda-2027",
+   "slug": "pohoda-2027",
+   "name": "Pohoda Festival 2027",
+   "website_url": "https://www.pohodafestival.sk/en",
+   "start_date": "2027-07-08",
+   "end_date": "2027-07-10",
+   "city": "Trenčín",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Trenčín Airport",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Pohoda Festival",
+   "expected_attendance": null,
+   "ticket_price_min": 69.0,
+   "ticket_price_max": 169.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official shop (fetched 24 Nov 2026): 3-day adult ticket for 8–10 July 2027 at Trenčín Airport is currently €169 (camping included); Junior 3-day €119; Kids 6–14 3-day €69. A separately ticketed 4-day adult ticket with Adéla Day (7–10 July 2027) is currently €258, and a standalone Adéla Day ticket for Wednesday 7 July is currently €99; those are not the main 3-day festival product and are not used to set the official start date.",
+   "ticket_url": "https://shop.pohodafestival.sk/en/tickets-2027",
+   "price_source_url": "https://shop.pohodafestival.sk/en/tickets-2027",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.pohodafestival.sk/en",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Official pages re-fetched 24 Nov 2026 publish the main festival on 8–10 July 2027 at Trenčín Airport. A separately ticketed Adéla Day on Wednesday 7 July 2027 is not included in the official 3-day festival window. Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.8665128,
+   "lng": 18.0061162,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "multi-genre",
+    "indie"
+   ],
+   "photos": [
+    {
+     "src": "img/events/pohoda-2027-1.jpg",
+     "thumb": "img/events/pohoda-2027-1-t.jpg",
+     "orig": "https://www.pohodafestival.sk/og_image.2023.jpg",
+     "page": "https://www.pohodafestival.sk/en",
+     "credit": ""
+    },
+    {
+     "src": "img/events/pohoda-2027-2.jpg",
+     "thumb": "img/events/pohoda-2027-2-t.jpg",
+     "orig": "https://www.pohodafestival.sk/uploads/news/detail/prvi-headlineri-pohody-2027-su-znami.1793288727.png",
+     "page": "https://www.pohodafestival.sk/en/news/the-first-headliners-of-pohoda-2027-are-here",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.pohodafestival.sk/en",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.pohodafestival.sk/en/news/the-first-headliners-of-pohoda-2027-are-here",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://shop.pohodafestival.sk/en/tickets-2027",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 1,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'large' (30,000-100,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Trenčianske letisko generála Štefana Jurecha, Záhumenská, Noviny, Biskupice, Trenčín, okres Trenčín, Trenčiansky kraj, 911 04, Slovensko (query: Trenčín Airport, Trenčín, Slovakia).",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "DATE PATCH: festivals.json listed pohoda-2027 as dates TBA when checked on 23 Nov 2026. Official pohodafestival.sk/en homepage re-fetched 24 Nov 2026 headlines ‘Pohoda Festival 8. – 10.7.2027’ at Trenčín Airport; official news of 29 Oct 2026 states ‘July 8–10, 2027’; the official shop lists the 3-day adult ticket for 8.–10.7.2027. Homepage also shows ‘7. & 8.—10. 7. 2027’ because of separately ticketed Adéla Day on 7 July — start/end follow the official 3-day festival, not the extra day. Official news of 23 Nov 2026 says less than a third of capacity is left; no official expected-attendance figure is published, so the existing record stays estimate (tier large). Existing photos 2–6 were typographic, doodle, app-mockup or popup assets and were dropped in research/sk/photo_drop_sk.txt (shared photo_drop.txt was not edited).",
+   "id": "pohoda-2027",
+   "price_eur_min": 69.0,
+   "price_eur_max": 169.0,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-parnu-music-festival-2027",
    "slug": "parnu-music-festival-2027",
    "name": "Pärnu Music Festival 2027",
@@ -118382,6 +118816,83 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-janosikove-dni-2027",
+   "slug": "janosikove-dni-2027",
+   "name": "Jánošíkove dni 2027",
+   "website_url": "https://www.janosikovedni.sk/",
+   "start_date": "2027-07-28",
+   "end_date": "2027-08-01",
+   "city": "Terchová",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Festival grounds in Terchová (amfiteáter Nad bôrami and stages around the village)",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Obec Terchová",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.janosikovedni.sk/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 49.2543551,
+   "lng": 19.0454185,
+   "precise": true,
+   "category": "culture",
+   "topics": [
+    "folklore",
+    "folk music",
+    "traditional culture"
+   ],
+   "photos": [
+    {
+     "src": "img/events/janosikove-dni-2027-1.jpg",
+     "thumb": "img/events/janosikove-dni-2027-1-t.jpg",
+     "orig": "https://www.janosikovedni.sk/images/fotografie/2026/DSC_5546.jpg",
+     "page": "https://www.janosikovedni.sk/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.janosikovedni.sk/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.janosikovedni.sk/aktuality/233-janosikove-dni-2026-strucne-zhodnotenie-festivalu",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 3,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Amfiteáter Nad Bôrami, Sv. Martina, Nižní Berešovci, Terchová, District of Žilina, Region of Žilina, 013 06, Slovakia (query: Amfiteáter Nad bôrami, Terchová, Slovakia). Official 2026 recap names the lead stages, including amfiteáter Nad bôrami; the 2027 invitation is to Terchová. Pinned to the amphitheatre when OpenStreetMap has it.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official janosikovedni.sk recap of the 64th edition, published 4 August 2026 and re-fetched 24 Nov 2026, states that the jubilee 65th edition ‘sa uskutoční 28. júla – 1. augusta 2027’ (28 July–1 August 2027) in Terchová, with the key word Čas / subtitle Panta rhei, and is signed by dramaturg Peter Cabadaj. The festival is organised by Obec Terchová. Third-party ticket sites were not used as the date source. No official 2027 expected-attendance figure (the recap’s 1,650 performers is a 2026 participant count, not attendance).",
+   "id": "janosikove-dni-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-tolminator-2027",
    "slug": "tolminator-2027",
    "name": "Tolminator 2027",
@@ -126465,6 +126976,88 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-grape-festival-2027",
+   "slug": "grape-festival-2027",
+   "name": "Grape Festival 2027",
+   "website_url": "https://www.grapefestival.sk/en/",
+   "start_date": "2027-08-13",
+   "end_date": "2027-08-14",
+   "city": "Trenčín",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Trenčín Airport",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Grape Festival",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "Official info page: tickets are sold exclusively via the festival e-shop; two types (standard two-day tickets, and discounted tickets for disabled visitors and their carers, also valid for both days). Children aged 12 and under have free entry. Official 2027 prices were not published in the static shop/info pages fetched 24 Nov 2026 (the shop is a client-side cart), so ticket_price_min/max are left blank.",
+   "ticket_url": "https://www.grapefestival.sk/en/shop",
+   "price_source_url": "https://www.grapefestival.sk/en/shop",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.grapefestival.sk/en/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.8665128,
+   "lng": 18.0061162,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "indie",
+    "alternative",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/grape-festival-2027-1.jpg",
+     "thumb": "img/events/grape-festival-2027-1-t.jpg",
+     "orig": "https://www.grapefestival.sk/images/grape-zoo/hero-poster.webp?v=1794837406",
+     "page": "https://www.grapefestival.sk/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.grapefestival.sk/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://grapefestival.sk/en/info",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.grapefestival.sk/en/shop",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 2,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": "Official grapefestival.sk/en/info page fetched 24 Nov 2026 states ‘The festival capacity is 30 000 visitors.’ That is a capacity cap, not a 2027 expected-attendance figure, and is not stored as expected_attendance. Ranked by our estimated size tier 'large' (30,000-100,000 attendees/visits), a judgement from that official capacity and the festival’s scale, not an official expected number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Trenčianske letisko generála Štefana Jurecha, Záhumenská, Noviny, Biskupice, Trenčín, okres Trenčín, Trenčiansky kraj, 911 04, Slovensko (query: Trenčín Airport, Trenčín, Slovakia). Official 2027 pages place the festival at Airport Trenčín / Trenčín Airport, the same airfield as Pohoda.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official grapefestival.sk/en homepage fetched 24 Nov 2026 headlines ‘13. - 14. 8. 2027 | Grape Festival 2027’ at Trenčín Airport. The official info page restates 13–14 August 2027 at Airport Trenčín and an official festival capacity of 30,000 visitors. VATRA warm-up is Thursday 12 August 2027 from 18:00 for warm-up ticket holders only and is not added to the official two-day festival window. Camping is included from Friday morning. The official 30,000 figure is capacity, not expected attendance.",
+   "id": "grape-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-malmofestivalen-2027",
    "slug": "malmofestivalen-2027",
    "name": "Malmöfestivalen 2027",
@@ -132377,6 +132970,91 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-uprising-2027",
+   "slug": "uprising-2027",
+   "name": "Uprising Festival 2027",
+   "website_url": "https://www.uprising.sk/en/",
+   "start_date": "2027-08-27",
+   "end_date": "2027-08-28",
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Zlaté piesky, Bratislava",
+   "industry": "Music",
+   "format": "In-person",
+   "organizer": "Uprising Festival",
+   "expected_attendance": null,
+   "ticket_price_min": 20.0,
+   "ticket_price_max": 109.0,
+   "currency": "EUR",
+   "ticket_price_text": "Official 2027 tickets page: ticket+merch combo (two-day entrance on 27–28 August 2027 plus a T-shirt or sweatshirt) from €84; two-day festival pass purchased onsite €109; one-day ticket at the venue €75 (if capacity remains); Junior two-day onsite €29; Junior one-day €20. Discounted disability two-day pass €75 and one-day €55, obtained on site; wheelchair users enter free. Children up to 3 years enter free with a paying adult. Camping and parking are extra.",
+   "ticket_url": "https://www.uprising.sk/en/tickets-3/",
+   "price_source_url": "https://www.uprising.sk/en/tickets-3/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.uprising.sk/en/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.1847577,
+   "lng": 17.1902141,
+   "precise": true,
+   "category": "music",
+   "topics": [
+    "reggae",
+    "ska",
+    "dancehall",
+    "multi-genre"
+   ],
+   "photos": [
+    {
+     "src": "img/events/uprising-2027-1.jpg",
+     "thumb": "img/events/uprising-2027-1-t.jpg",
+     "orig": "https://www.uprising.sk/wp-content/uploads/2026/11/ragga-twins-uprising-2027-artists_news-1024x512.webp",
+     "page": "https://www.uprising.sk/en/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/uprising-2027-2.jpg",
+     "thumb": "img/events/uprising-2027-2-t.jpg",
+     "orig": "https://www.uprising.sk/wp-content/uploads/2026/08/detska-zona-news-uprising-1-1024x512.jpg",
+     "page": "https://www.uprising.sk/en/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.uprising.sk/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.uprising.sk/en/tickets-3/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 4,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Zlaté piesky, Bratislava, District of Bratislava II, Bratislava, Region of Bratislava, Slovakia (query: Zlaté piesky, Bratislava, Slovakia). Official 2027 site is titled Uprising Festival 2027, Bratislava. The festival’s long-standing venue is Zlaté piesky; a 24 August news item on the same 2027 site still refers to the festival at Bratislava’s Zlaté piesky. 2027 dates are taken from the ticket text, not from leftover homepage copy that still mentions August 28–29, 2026.",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official uprising.sk/en/ tickets page fetched 24 Nov 2026 states entrance to the festival area on 27.–28.8.2027 (20th anniversary edition). The homepage title is ‘Uprising Festival 2027 Bratislava’. Leftover 2026 copy about 28–29 August 2026 must not be used. No official expected-attendance figure.",
+   "id": "uprising-2027",
+   "price_eur_min": 20.0,
+   "price_eur_max": 109.0,
+   "has_price": true,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-victorious-festival-2027",
    "slug": "victorious-festival-2027",
    "name": "Victorious Festival 2027",
@@ -134164,6 +134842,118 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-cinematik-2027",
+   "slug": "cinematik-2027",
+   "name": "Cinematik 2027",
+   "website_url": "https://cinematik.sk/",
+   "start_date": "2027-09-07",
+   "end_date": "2027-09-12",
+   "city": "Piešťany",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Venues in Piešťany",
+   "industry": "Film",
+   "format": "In-person",
+   "organizer": "MFF Cinematik",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "The official Festival Pass page fetched 24 Nov 2026 still lists a 2026 price ladder (early bird €40, presale to 31 August 2026 €50, from 1 September 2026 €60) and 2026 box-office hours, so those prices are not stored as 2027 ticket_price_min/max.",
+   "ticket_url": "https://cinematik.sk/festival-pass/",
+   "price_source_url": "https://cinematik.sk/festival-pass/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://cinematik.sk/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": "Dates are local civil dates in Slovakia (Central European Time, UTC+1 / UTC+2 in summer).",
+   "lat": 48.5895247,
+   "lng": 17.8213848,
+   "precise": false,
+   "category": "film",
+   "topics": [
+    "world cinema",
+    "feature film",
+    "documentary"
+   ],
+   "photos": [
+    {
+     "src": "img/events/cinematik-2027-1.jpg",
+     "thumb": "img/events/cinematik-2027-1-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/09/videodennikynavraty.jpg",
+     "page": "https://cinematik.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cinematik-2027-2.jpg",
+     "thumb": "img/events/cinematik-2027-2-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/09/divackacena.jpg",
+     "page": "https://cinematik.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cinematik-2027-3.jpg",
+     "thumb": "img/events/cinematik-2027-3-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/09/kovalcikova.jpg",
+     "page": "https://cinematik.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cinematik-2027-4.jpg",
+     "thumb": "img/events/cinematik-2027-4-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/09/DSC1796.jpg",
+     "page": "https://cinematik.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cinematik-2027-5.jpg",
+     "thumb": "img/events/cinematik-2027-5-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/09/DSC1270.jpg",
+     "page": "https://cinematik.sk/",
+     "credit": ""
+    },
+    {
+     "src": "img/events/cinematik-2027-6.jpg",
+     "thumb": "img/events/cinematik-2027-6-t.jpg",
+     "orig": "https://cinematik.sk/wp-content/uploads/2026/06/20190910_cinematik__DSC8580_Szold-1024x690.webp",
+     "page": "https://cinematik.sk/festival-pass/",
+     "credit": ""
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://cinematik.sk/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://cinematik.sk/festival-pass/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "rank": 10,
+   "ranking_basis": "estimate",
+   "size_estimate": "small",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'small' (under 10,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Piešťany, District of Piešťany, Region of Trnava, 921 01, Slovakia (query: Piešťany, Slovakia). Official 2027 homepage names International Film Festival Cinematik Piešťany but does not yet name a single 2027 lead venue; city-level pin. (The Festival Pass page still describes the 2026 box office at Dom umenia, Nábrežie Ivana Krasku 1.)",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official cinematik.sk homepage fetched 24 Nov 2026 headlines ‘7. – 12. SEPT. 2027 INTERNATIONAL FILM FESTIVAL CINEMATIK PIEŠŤANY’. The Festival Pass / price page still carries leftover 2026 dates and prices (including ‘nedeľu 13.9.2026’) and was not used for 2027 ticket amounts. No official expected-attendance figure.",
+   "id": "cinematik-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -171924,6 +172714,75 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-vychodna-2027",
+   "slug": "vychodna-2027",
+   "name": "Folklórny festival Východná 2027",
+   "website_url": "https://festivalvychodna.sk/",
+   "start_date": null,
+   "end_date": null,
+   "city": "Východná",
+   "country": "Slovakia",
+   "region": "europe",
+   "venue": "Festival grounds, Východná",
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Národné osvetové centrum",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://festivalvychodna.sk/",
+   "last_scraped_at": "2026-11-24T06:40:00+01:00",
+   "notes": null,
+   "lat": 49.0612289,
+   "lng": 19.8946117,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "folklore",
+    "folk music",
+    "traditional culture"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://festivalvychodna.sk/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://festivalvychodna.sk/2026/informacie/",
+     "field": "official"
+    }
+   ],
+   "status": "dates TBA",
+   "kind": "festival",
+   "rank": 5,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": "No organiser attendance figure found on the official pages fetched 24 Nov 2026. Ranked by our estimated size tier 'medium' (10,000-30,000 attendees/visits), a judgement from format, venue and scale, not an official number.",
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-24: Východná, District of Liptovský Mikuláš, Region of Žilina, 032 32, Slovakia (query: Východná, Slovakia). Official 2027 calendar days are not published; pin is the village of Východná (city-level / settlement-level).",
+   "source_accessed_at": "2026-11-24T06:40:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official festivalvychodna.sk homepage fetched 24 Nov 2026 greets visitors with ‘Uvidíme sa opäť v roku 2027’ (See you again in 2027), so a 2027 edition is announced, but no 2027 calendar days are published. Traditional ‘first July weekend’ wording on older copy was not used as official 2027 dates. Status is dates TBA. Main organiser is Národné osvetové centrum (contact on the official site); co-organiser Obec Východná.",
+   "id": "vychodna-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-forbidden-fruit-2027",
    "slug": "forbidden-fruit-2027",
    "name": "Forbidden Fruit 2027",
@@ -183040,109 +183899,6 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
-   "event_id": "GCE-pohoda-2027",
-   "slug": "pohoda-2027",
-   "name": "Pohoda Festival 2027",
-   "website_url": "https://www.pohodafestival.sk/en",
-   "start_date": null,
-   "end_date": null,
-   "city": "Trenčín",
-   "country": "Slovakia",
-   "region": "europe",
-   "venue": "Trenčín Airport",
-   "industry": "Music",
-   "format": "In-person",
-   "organizer": "Pohoda Festival",
-   "expected_attendance": null,
-   "ticket_price_min": null,
-   "ticket_price_max": null,
-   "currency": null,
-   "ticket_price_text": "",
-   "ticket_url": null,
-   "price_source_url": null,
-   "sponsor_page_url": null,
-   "sponsorship_prospectus_url": null,
-   "year": 2027,
-   "source_url": "https://www.pohodafestival.sk/en",
-   "last_scraped_at": "2026-11-23T18:45:00+01:00",
-   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
-   "lat": 48.8665128,
-   "lng": 18.0061162,
-   "precise": true,
-   "category": "music",
-   "topics": [
-    "multi-genre",
-    "indie"
-   ],
-   "photos": [
-    {
-     "src": "img/events/pohoda-2027-1.jpg",
-     "thumb": "img/events/pohoda-2027-1-t.jpg",
-     "orig": "https://www.pohodafestival.sk/og_image.2023.jpg",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    },
-    {
-     "src": "img/events/pohoda-2027-2.jpg",
-     "thumb": "img/events/pohoda-2027-2-t.jpg",
-     "orig": "https://www.pohodafestival.sk/assets/img/2027/doodles/pero.webp",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    },
-    {
-     "src": "img/events/pohoda-2027-3.jpg",
-     "thumb": "img/events/pohoda-2027-3-t.jpg",
-     "orig": "https://www.pohodafestival.sk/assets_2025/img/app_mobile.png",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    },
-    {
-     "src": "img/events/pohoda-2027-4.jpg",
-     "thumb": "img/events/pohoda-2027-4-t.jpg",
-     "orig": "https://www.pohodafestival.sk/assets_2025/img/app_mobile_mobile.png",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    },
-    {
-     "src": "img/events/pohoda-2027-5.jpg",
-     "thumb": "img/events/pohoda-2027-5-t.jpg",
-     "orig": "https://www.pohodafestival.sk/assets/img/2027/adela_popup_en.webp",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    },
-    {
-     "src": "img/events/pohoda-2027-6.jpg",
-     "thumb": "img/events/pohoda-2027-6-t.jpg",
-     "orig": "https://www.pohodafestival.sk/assets/img/2026/app/app-phone-screen.jpg",
-     "page": "https://www.pohodafestival.sk/en",
-     "credit": ""
-    }
-   ],
-   "sources": [
-    {
-     "label": "Official",
-     "url": "https://www.pohodafestival.sk/en",
-     "field": "official"
-    }
-   ],
-   "status": "dates TBA",
-   "kind": "festival",
-   "lineup_url": null,
-   "attendance_note": null,
-   "attendance_source_url": null,
-   "price_checked_at": null,
-   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Trenčianske letisko generála Štefana Jurecha, Záhumenská, Noviny, Biskupice, Trenčín, okres Trenčín, Trenčiansky kraj, 911 04, Slovensko (query: Trenčín Airport, Trenčín, Slovakia).",
-   "source_accessed_at": "2026-11-23T18:45:00+01:00",
-   "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed).",
-   "id": "pohoda-2027",
-   "price_eur_min": null,
-   "price_eur_max": null,
-   "has_price": false,
-   "photoCredit": ""
-  },
-  {
    "event_id": "GCE-prambanan-jazz-festival-2027",
    "slug": "prambanan-jazz-festival-2027",
    "name": "Prambanan Jazz Festival 2027",
@@ -192576,14 +193332,14 @@ window.ATLASDATA={
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 967,
-  "festival": 1492,
-  "dated": 1982,
+  "conference": 969,
+  "festival": 1499,
+  "dated": 1991,
   "dates_tba": 474,
   "postponed": 3,
-  "duplicates_merged": 236,
+  "duplicates_merged": 237,
   "regions": {
-   "europe": 1060,
+   "europe": 1069,
    "middle_east": 133,
    "asia": 426,
    "africa": 135,
@@ -192592,7 +193348,7 @@ window.ATLASDATA={
    "north_america": 271,
    "oceania": 137
   },
-  "europe": 1060,
+  "europe": 1069,
   "middle_east": 133,
   "asia": 426,
   "africa": 135,
