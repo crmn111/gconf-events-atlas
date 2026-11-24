@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T14:28:54Z",
+ "generated": "2026-11-24T14:42:03Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -21038,6 +21038,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/tomorrowlandthailand",
+     "operator": "Tomorrowland",
      "verified_via": "official_site_checked",
      "source_url": "https://thailand.tomorrowland.com/en/welcome/",
      "accessed_at": "2026-11-24T12:50:00+01:00"
@@ -21045,6 +21046,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/tmlthailand_",
+     "operator": "Tomorrowland",
      "verified_via": "official_site_checked",
      "source_url": "https://thailand.tomorrowland.com/en/welcome/",
      "accessed_at": "2026-11-24T12:50:00+01:00"
@@ -21052,6 +21054,7 @@ window.ATLASDATA={
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@tomorrowland_thailand",
+     "operator": "Tomorrowland",
      "verified_via": "official_site_checked",
      "source_url": "https://thailand.tomorrowland.com/en/welcome/",
      "accessed_at": "2026-11-24T12:50:00+01:00"
@@ -66379,6 +66382,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/Daytona",
+     "operator": "Daytona International Speedway",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.daytonainternationalspeedway.com/daytona-500/",
      "accessed_at": "2026-11-24"
@@ -66386,6 +66390,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/daytona",
+     "operator": "Daytona International Speedway",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.daytonainternationalspeedway.com/daytona-500/",
      "accessed_at": "2026-11-24"
@@ -66393,6 +66398,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/daytona",
+     "operator": "Daytona International Speedway",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.daytonainternationalspeedway.com/daytona-500/",
      "accessed_at": "2026-11-24"
@@ -68899,7 +68905,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-los-angeles",
+     "accessed_at": "2026-11-24T14:42:07+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-los-angeles",
+     "accessed_at": "2026-11-24T14:42:07+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-los-angeles",
+     "accessed_at": "2026-11-24T14:42:07+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-itsx-summit-2027",
@@ -71347,6 +71379,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
      "verified_via": "official HKTDC fair page",
      "source_url": "https://www.hktdc.com/event/hkdgp/en",
      "accessed_at": "2026-11-24T15:22:00+01:00"
@@ -71354,6 +71387,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
      "verified_via": "official HKTDC fair page",
      "source_url": "https://www.hktdc.com/event/hkdgp/en",
      "accessed_at": "2026-11-24T15:22:00+01:00"
@@ -71618,7 +71652,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/JavaLandConf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.javaland.eu/en/home/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-moneylive-summit-2027",
@@ -73163,6 +73206,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
      "verified_via": "official HKTDC fair page",
      "source_url": "https://www.hktdc.com/event/hkjewellery/en",
      "accessed_at": "2026-11-24T15:22:00+01:00"
@@ -73170,6 +73214,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
      "verified_via": "official HKTDC fair page",
      "source_url": "https://www.hktdc.com/event/hkjewellery/en",
      "accessed_at": "2026-11-24T15:22:00+01:00"
@@ -88832,6 +88877,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88839,6 +88885,7 @@ window.ATLASDATA={
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88846,6 +88893,7 @@ window.ATLASDATA={
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/TomorrowlandChannel",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88853,6 +88901,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88860,6 +88909,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88867,6 +88917,7 @@ window.ATLASDATA={
     {
      "platform": "whatsapp",
      "url": "https://www.whatsapp.com/channel/0029VbALQDq6BIEf7pUL5m2M",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -88874,6 +88925,7 @@ window.ATLASDATA={
     {
      "platform": "discord",
      "url": "https://tomorrow.land/discord",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://winter.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -106101,7 +106153,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.hktdc.com/event/hkelectronicsfairse/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.hktdc.com/event/hkelectronicsfairse/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-innoex-2027",
@@ -106210,7 +106280,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.hktdc.com/event/innoex/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.hktdc.com/event/innoex/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hong-kong-trade-development-council",
+     "operator": "HKTDC",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.hktdc.com/event/innoex/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lubricant-expo-middle-east-2027",
@@ -107487,7 +107583,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/RubyKaigi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rubykaigi.org/2027/",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://ruby.social/@rubykaigi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rubykaigi.org/2027/",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-south-summit-brazil-2027",
@@ -109679,7 +109791,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Sechselaeuten",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sechselaeuten.ch/de",
+     "accessed_at": "2026-11-24T14:49:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-donaufestival-2027",
@@ -112712,7 +112833,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Eurofi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.eurofi.net/",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-international-de-louisiane-2027",
@@ -119944,7 +120074,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/PalmaBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://palmainternationalboatshow.com/en",
+     "accessed_at": "2026-11-24T14:14:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ju-education-digital-ai-conference-2027",
@@ -121936,6 +122075,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121943,6 +122083,7 @@ window.ATLASDATA={
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121950,6 +122091,7 @@ window.ATLASDATA={
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/TomorrowlandChannel",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121957,6 +122099,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121964,6 +122107,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121971,6 +122115,7 @@ window.ATLASDATA={
     {
      "platform": "whatsapp",
      "url": "https://www.whatsapp.com/channel/0029VbALQDq6BIEf7pUL5m2M",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -121978,6 +122123,7 @@ window.ATLASDATA={
     {
      "platform": "discord",
      "url": "https://tomorrow.land/discord",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://www.tomorrowlandbrasil.com/",
      "accessed_at": "2026-11-24"
@@ -133893,7 +134039,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/cphcomics",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagencomics.dk/",
+     "accessed_at": "2026-11-24T14:56:06+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expo-2027-belgrade",
@@ -151420,7 +151575,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GOVirtualexpoHK",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aipluspower.com/",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/govirtualexpohk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aipluspower.com/",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-craft-2027",
@@ -151773,7 +151944,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/qubevents",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qubevents_",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/qubevents",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCOidMStOYuZFK137D_MHOXw",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@qube.events",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/qube-events",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.qubevents.com/nextgen-payments-regtech-dublin",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-norrsken-africa-week-2027",
@@ -154331,7 +154546,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DECAustralia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.deconference.com.au/",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DigitalEconomyCouncil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.deconference.com.au/",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/digitaleconomycouncil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.deconference.com.au/",
+     "accessed_at": "2026-11-24T14:22:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-borstnikovo-srecanje-2027",
@@ -162085,7 +162323,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/canadian-artificial-intelligence-association-caiac",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.caiac.ca/en/conferences/canadianai-2027/home",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/c-a-i-a-c.bsky.social",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.caiac.ca/en/conferences/canadianai-2027/home",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-china-home-life-2027",
@@ -168979,7 +169233,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/JadaraUniversit",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://jadara.edu.jo/aisci2027/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jadaraedu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://jadara.edu.jo/aisci2027/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JadaraUniversity",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://jadara.edu.jo/aisci2027/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://youtube.com/channel/UCjwVWXmAGaD71jCj7Qt4UIA",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://jadara.edu.jo/aisci2027/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jadara-university",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://jadara.edu.jo/aisci2027/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ieee-democon-2027",
@@ -170292,7 +170583,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/1summitia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.summitdeinteligenciaartificial.com/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/summit-de-ia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.summitdeinteligenciaartificial.com/",
+     "accessed_at": "2026-11-24T14:28:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-techsylvania-2027",
@@ -192458,6 +192765,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192465,6 +192773,7 @@ window.ATLASDATA={
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192472,6 +192781,7 @@ window.ATLASDATA={
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/TomorrowlandChannel",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192479,6 +192789,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192486,6 +192797,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/tomorrowland",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192493,6 +192805,7 @@ window.ATLASDATA={
     {
      "platform": "whatsapp",
      "url": "https://www.whatsapp.com/channel/0029VbALQDq6BIEf7pUL5m2M",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -192500,6 +192813,7 @@ window.ATLASDATA={
     {
      "platform": "discord",
      "url": "https://tomorrow.land/discord",
+     "operator": "Tomorrowland",
      "verified_via": "linked from official site (browser pass)",
      "source_url": "https://belgium.tomorrowland.com/",
      "accessed_at": "2026-11-24"
@@ -195411,7 +195725,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/narcon.event",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.narcon.se/festivalen",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NarConX",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.narcon.se/festivalen",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@narcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.narcon.se/festivalen",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/narcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.narcon.se/festivalen",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-outlook-origins-2027",
@@ -195826,7 +196170,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/womadfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://womad.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/womadfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://womad.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/WOMADofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://womad.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-australian-festival-of-chamber-music-2027",
@@ -196570,7 +196937,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/secret_solstice",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.secretsolstice.is/en",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-shambhala-music-festival-2027",
@@ -197506,7 +197882,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/waterbomb_official/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waterbombfestival.com/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/waterbomb_seoul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waterbombfestival.com/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@waterbomb_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waterbombfestival.com/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@waterbomb_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waterbombfestival.com/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Waterbomb.Worldwide",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waterbombfestival.com/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mubadala-citi-dc-open-2027",
@@ -203197,7 +203610,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LocarnoFilmFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.locarnofestival.ch/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FilmFestLocarno",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.locarnofestival.ch/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/filmfestlocarno",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.locarnofestival.ch/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@filmfestlocarno",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.locarnofestival.ch/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCgusVOT_sFEZLS0jhLwRjWg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.locarnofestival.ch/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-open-flair-2027",
@@ -207761,7 +208211,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/BoomtownFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boomtownfair.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/boomtownfairofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boomtownfair.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/boomtownofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boomtownfair.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/BoomtownFairOfficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boomtownfair.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@boomtownfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boomtownfair.co.uk/",
+     "accessed_at": "2026-11-24T15:01:20+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-enterprise-ai-global-sydney-2027",
@@ -215359,7 +215846,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/pgatour",
+     "operator": "PGA TOUR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tourchampionship.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PGATour",
+     "operator": "PGA TOUR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tourchampionship.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pgatour",
+     "operator": "PGA TOUR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tourchampionship.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/pgatour",
+     "operator": "PGA TOUR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tourchampionship.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@pgatour",
+     "operator": "PGA TOUR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tourchampionship.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gamescom-2027",
@@ -215541,7 +216070,7 @@ window.ATLASDATA={
   {
    "event_id": "GCE-icann-2027",
    "slug": "icann-2027",
-   "name": "ICANN 2027",
+   "name": "ICANN 2027 – 36th International Conference on Artificial Neural Networks",
    "website_url": "https://e-nns.org/icann2027/",
    "start_date": "2027-08-24",
    "end_date": "2027-08-27",
@@ -219510,7 +220039,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/usopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.usopen.org/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/usopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.usopen.org/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/usopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.usopen.org/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/USOPEN",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.usopen.org/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@usopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.usopen.org/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ecml-pkdd-2027",
@@ -222007,7 +222573,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DarlingtonRaceway",
+     "operator": "Darlington Raceway",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nascar.com/nascar-cup-series/2027/schedule/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tootoughtotame",
+     "operator": "Darlington Raceway",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nascar.com/nascar-cup-series/2027/schedule/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/DarlingtonRaceway",
+     "operator": "Darlington Raceway",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nascar.com/nascar-cup-series/2027/schedule/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-datacloud-africa-2027",
@@ -222742,6 +223334,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
      "verified_via": "official_site_checked",
      "source_url": "https://www.hktdc.com/event/hkwatchfair/en",
      "accessed_at": "2026-11-24T14:27:38+01:00"
@@ -222749,6 +223342,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
      "verified_via": "official_site_checked",
      "source_url": "https://www.hktdc.com/event/hkwatchfair/en",
      "accessed_at": "2026-11-24T14:27:38+01:00"
@@ -224242,7 +224836,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-seoul",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-seoul",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/friezeofficial",
+     "operator": "Frieze",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.frieze.com/fairs/frieze-seoul",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-habitare-2027",
@@ -230136,7 +230756,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Goodwood.Revival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.goodwood.com/motorsport/goodwood-revival/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/goodwoodrevival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.goodwood.com/motorsport/goodwood-revival/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/goodwoodrevival/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.goodwood.com/motorsport/goodwood-revival/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kaunas-biennial-2027",
@@ -231689,7 +232332,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/sibos/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sibos.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sibos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sibos.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sibos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sibos.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SibosTV",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sibos.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-singapore-tennis-open-2027",
@@ -231908,7 +232581,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Dreamforce",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salesforce.com/dreamforce/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-food-hospitality-malaysia-2027",
@@ -237505,7 +238187,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/japanopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.japanopentennis.com/",
+     "accessed_at": "2026-11-24T14:51:08+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lf-energy-summit-europe-2027",
@@ -239530,7 +240221,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/balloonfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://balloonfiesta.com/",
+     "accessed_at": "2026-11-24T14:44:01+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/balloonfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://balloonfiesta.com/",
+     "accessed_at": "2026-11-24T14:44:01+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@balloonfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://balloonfiesta.com/",
+     "accessed_at": "2026-11-24T14:44:01+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/balloonfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://balloonfiesta.com/",
+     "accessed_at": "2026-11-24T14:44:01+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/balloonfiesta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://balloonfiesta.com/",
+     "accessed_at": "2026-11-24T14:44:01+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-biennale-musica-2027",
@@ -245979,7 +246707,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/efdevcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devcon.org/lisbon/",
+     "accessed_at": "2026-11-24T14:20:30+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/efdevcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devcon.org/lisbon/",
+     "accessed_at": "2026-11-24T14:20:30+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-superreturn-middle-east-2027",
@@ -250689,7 +251433,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/asia.gamescom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gamescomasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gamescom-asia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gamescomasia/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@gamescomasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gamescomasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.asia/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-armageddon-expo-auckland-spring-2027",
@@ -255697,7 +256485,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/afrotech.conference/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://experience.afrotech.com/",
+     "accessed_at": "2026-11-24T14:20:30+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AFROTECH",
+     "verified_via": "official_site_checked",
+     "source_url": "https://experience.afrotech.com/",
+     "accessed_at": "2026-11-24T14:20:30+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BlavityAFROTECH",
+     "verified_via": "official_site_checked",
+     "source_url": "https://experience.afrotech.com/",
+     "accessed_at": "2026-11-24T14:20:30+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-estonian-music-days-2027",
@@ -256484,7 +257295,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Nick Ares, Wikimedia Commons, CC BY-SA 2.0"
+   "photoCredit": "Nick Ares, Wikimedia Commons, CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/SEMASHOW",
+     "verified_via": "official_site_checked",
+     "source_url": "https://semashow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/semashow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://semashow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/semashow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://semashow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SEMAChannel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://semashow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-switch-singapore-2027",
@@ -261930,7 +262771,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/COMPAMED",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.compamed-tradefair.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-airshow-2027",
@@ -277755,7 +278605,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/coscup/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://coscup.org/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/coscup",
+     "verified_via": "official_site_checked",
+     "source_url": "https://coscup.org/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/thecoscup",
+     "verified_via": "official_site_checked",
+     "source_url": "https://coscup.org/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/coscupchat",
+     "verified_via": "official_site_checked",
+     "source_url": "https://coscup.org/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/coscup-tw/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://coscup.org/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cairo-international-film-festival-2027",
@@ -282460,7 +283347,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DiriyahSeason",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.diriyahseason.sa/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-doc-edge-festival-2027",
@@ -290777,6 +291673,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/HKTDC.Exhibition",
+     "operator": "HKTDC",
      "verified_via": "official_site_checked",
      "source_url": "https://www.hktdc.com/event/hkelectronicsfairae/en",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -290784,6 +291681,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/hktdclifestyle",
+     "operator": "HKTDC",
      "verified_via": "official_site_checked",
      "source_url": "https://www.hktdc.com/event/hkelectronicsfairae/en",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -294110,7 +295008,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/IsleofMTV",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.isleofmtv.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-istanbul-jazz-festival-2027",
@@ -294810,7 +295717,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/javazone",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.javazone.no/",
+     "accessed_at": "2026-11-24T14:13:37+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jazz-gunung-bromo-2027",
@@ -300096,7 +301012,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MacauGrandPrix",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.macau.grandprix.gov.mo/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/GrandePremiodeMacau",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.macau.grandprix.gov.mo/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mad-cool-2027",
@@ -300273,7 +301205,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/magneticfields",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.magneticfields.in/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-maha-songkran-world-water-festival-2027",
@@ -302135,7 +303076,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/NBOFilmFest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nbofilmfest.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nbofilmfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nbofilmfest.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nh7-weekender-2027",
@@ -309406,7 +310363,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sansebastianfes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sansebastianfes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sansebastianfes/",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC6ScD2J0bxxAQhbsWcjraRw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sansebastianfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/sansebastianfestival.com",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@sansebastianfes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sansebastianfestival.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sandbox-festival-2027",
@@ -318321,7 +319329,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Silwerskermfees",
+     "verified_via": "official_site_checked",
+     "source_url": "https://silwerskermfees.co.za/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-meet-js-gdansk",
