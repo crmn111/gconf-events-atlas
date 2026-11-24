@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T09:23:13Z",
+ "generated": "2026-11-24T09:27:16Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -242206,6 +242206,1690 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "icc-sydney",
+   "name": "International Convention Centre Sydney",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "14 Darling Drive, Sydney, NSW 2000, Australia",
+   "lat": -33.8751704,
+   "lon": 151.1997485,
+   "url": "https://iccsydney.com.au/",
+   "capacity": 9000,
+   "exhibition_sqm": 35000,
+   "halls": "Official general fact sheet (January 2026): 35,000 sqm internal exhibition capacity; 70 meeting rooms totalling 8,000 sqm; premier theatre 8,000 seated / 9,000 general admission, scalable to 6,000 or 5,000; 2,500-delegate and 1,000-delegate tiered plenary theatres; 800-delegate flat-floor plenary; Grand Ballroom banquet 2,000.",
+   "description": "NSW Government convention and exhibition centre at Darling Harbour, managed by Legends Global. Official total internal exhibition capacity is 35,000 sqm. The official About page states 2,400 sqm of multipurpose space plus 32,600 sqm in the exhibition halls. The official FAQ gives both 2,400 sqm and 2,600 sqm for that multipurpose component on the same page; exhibition_sqm is the agreed 35,000 sqm internal total, and the 2,400/2,600 discrepancy is not resolved into a third figure. capacity_max_delegates is 9,000, the official general-admission capacity of the TikTok Entertainment Centre / premier tiered theatre (8,000 seated in the January 2026 general fact sheet and the official capacity summary). The official FAQ also states that if all four theatres were at capacity the centre could host up to 12,000 delegates at one time; that concurrent figure is not used as the headline. Official capacity-summary Grand Ballroom (B1+B2+B3) cocktail is 2,880, while the general fact sheet says the ballroom can host more than 3,500 in cocktail mode; spaces follow the capacity-summary chart. The atlas string 'ICC Sydney and Cockle Bay, Darling Harbour' is linked here: Cockle Bay Room is an official ICC meeting room, and the boat show also occupies the Darling Harbour foreshore, which is not recorded as a separate venue. Coordinates are the atlas precise pin. Australia has no current official government hotel star scheme, and this is not a hotel, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "enterprise-ai-global-sydney-2027",
+    "fine-food-australia-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "contact_email": "sales@iccsydney.com",
+   "sources": [
+    {
+     "url": "https://iccsydney.com.au/about/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/organisers/toolkit/faqs/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/about/fact-sheets/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_general_1_v1g.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "TikTok Entertainment Centre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 9000,
+     "capacity_theatre": 8000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity summary: 8,000 tiered, scalable to 6,000 or 5,000; 9,000 in general-admission standing floor mode. Official FAQ also calls this an ultramodern theatre with a capacity of 9,000.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Darling Harbour Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": 2500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity summary and general fact sheet: 2,500-delegate tiered plenary theatre.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Pyrmont Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": 1000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity summary and general fact sheet: 1,000-delegate tiered plenary theatre.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Grand Ballroom (B1+B2+B3)",
+     "type": null,
+     "area_sqm": 2880,
+     "capacity_max": 2880,
+     "capacity_theatre": 2784,
+     "capacity_classroom": 1764,
+     "capacity_banquet": 2000,
+     "capacity_reception": 2880,
+     "notes": "Official capacity summary figures. Official general fact sheet describes Australia’s largest ballroom as banquet 2,000 and cocktail more than 3,500; spaces follow the capacity-summary chart.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 4379,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 2",
+     "type": null,
+     "area_sqm": 4511,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 3",
+     "type": null,
+     "area_sqm": 5413,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 4",
+     "type": null,
+     "area_sqm": 4740,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 5",
+     "type": null,
+     "area_sqm": 4483,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 6",
+     "type": null,
+     "area_sqm": 4530,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Exhibition Hall 7",
+     "type": null,
+     "area_sqm": 4511,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Integrated Exhibitions fact sheet.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf"
+    },
+    {
+     "name": "Event Deck",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 4100,
+     "notes": "Official capacity summary: open-air Event Deck 5,000 sqm, cocktail 4,100; maximum structure size 3,000 sqm, cocktail 2,500. Official Integrated Exhibitions fact sheet also lists Event Deck 3,000 temporary / 5,000 open air including a 1,000 sqm bar.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Parkside Ballroom",
+     "type": null,
+     "area_sqm": 1260,
+     "capacity_max": 1429,
+     "capacity_theatre": 1429,
+     "capacity_classroom": 825,
+     "capacity_banquet": 700,
+     "capacity_reception": 1260,
+     "notes": null,
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "Cockle Bay Room",
+     "type": null,
+     "area_sqm": 742,
+     "capacity_max": 790,
+     "capacity_theatre": 790,
+     "capacity_classroom": 480,
+     "capacity_banquet": 470,
+     "capacity_reception": 740,
+     "notes": "An official ICC meeting room. The Darling Harbour Cockle Bay outdoor/harbour precinct used with some events is not a separate recorded venue.",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    },
+    {
+     "name": "The Gallery",
+     "type": null,
+     "area_sqm": 2407,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 2410,
+     "notes": null,
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "ICC Sydney Integrated Exhibitions fact sheet",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf",
+     "href": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf",
+     "local": false
+    },
+    {
+     "title": "ICC Sydney general fact sheet (January 2026)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_general_1_v1g.pdf",
+     "href": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_general_1_v1g.pdf",
+     "local": false
+    },
+    {
+     "title": "ICC Sydney venue capacity summary",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf",
+     "href": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "melbourne-convention-and-exhibition-centre",
+   "name": "Melbourne Convention and Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Melbourne",
+   "address": "1 Convention Centre Place, South Wharf, Victoria 3006, Australia",
+   "lat": -37.8253455,
+   "lon": 144.9524458,
+   "url": "https://www.mcec.com.au/",
+   "capacity": 5564,
+   "exhibition_sqm": 40000,
+   "halls": "Official exhibitions page: 40,000 sqm of pillarless exhibition space. Official 2026 Floor Plans and Space Capacities Guide: 39,000 sqm of air-conditioned pillar-less Exhibition Bays, and Entire Plenary theatre 5,564 (Plenary 1: 1,482; Plenary 2: 2,468; Plenary 3: 1,484).",
+   "description": "Victoria’s principal convention and exhibition centre at South Wharf. Official address on the 2026 Floor Plans and Space Capacities Guide is 1 Convention Centre Place, South Wharf; some atlas event strings use 2 Clarendon Street, which is an adjoining frontage of the same campus and is not recorded as a second venue. exhibition_sqm follows the current official exhibitions webpage (40,000 sqm pillarless). The official 2026 capacity guide, whose footer is dated 31 March 2026, instead states 39,000 sqm of pillar-less Exhibition Bays; that figure is kept on the Exhibition Bays space and is not averaged with the webpage. capacity_max_delegates is the official Entire Plenary theatre figure of 5,564 from that guide (AIPC and other third-party sheets quoting 5,500 were not used). A virtual-tour line on official material mentions 70,000 square metres of space; that is a campus-wide marketing figure, not the exhibition total. Contact email is the public sales address on the official guide. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cybercon-2027",
+    "the-ai-summit-australia-2027",
+    "programmable-melbourne-2027",
+    "enterprise-ai-global-melbourne-2027",
+    "australian-manufacturing-week-2027",
+    "pax-aus-2027"
+   ],
+   "contact_email": "sales@mcec.com.au",
+   "sources": [
+    {
+     "url": "https://www.mcec.com.au/plan-an-event/exhibitions",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mcec.com.au/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Bays",
+     "type": null,
+     "area_sqm": 39000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 Floor Plans and Space Capacities Guide: 39,000 sqm of air-conditioned, pillar-less space, configurable with operable walls. The current official exhibitions webpage instead says 40,000 sqm of pillarless space; exhibition_sqm uses the webpage figure.",
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities"
+    },
+    {
+     "name": "Entire Plenary",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 5564,
+     "capacity_theatre": 5564,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 guide theatre capacity for the combined Plenary.",
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities"
+    },
+    {
+     "name": "Plenary 1",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 1482,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities"
+    },
+    {
+     "name": "Plenary 2",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 2468,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities"
+    },
+    {
+     "name": "Plenary 3",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 1484,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities"
+    }
+   ],
+   "documents": [
+    {
+     "title": "MCEC Floor Plans and Space Capacities Guide (2026)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities",
+     "href": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "brisbane-convention-and-exhibition-centre",
+   "name": "Brisbane Convention & Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Brisbane",
+   "address": "Cnr Merivale and Glenelg Streets, South Bank, Brisbane, Queensland, Australia",
+   "lat": -27.4763836,
+   "lon": 153.0183017,
+   "url": "https://bcec.com.au/",
+   "capacity": 8000,
+   "exhibition_sqm": 20000,
+   "halls": "Official exhibitions page: four pillarless halls totalling 20,000 sqm, plus an additional 5,000 sqm when used with the Great Hall. Official foyer-level table: Halls 1–4 each 5,000 m² (narrative also 72×72 m / 5,040 sqm), banquet 2,000 and cocktail 4,000 each; Great Hall 4,088 m², theatre 3,958, banquet 2,800, cocktail 4,000. Official narrative: Great Hall can accommodate 4,000 and can extend to 8,000 for conventions.",
+   "description": "South Bank convention and exhibition centre owned by South Bank Corporation and managed by Legends Global. Official exhibitions page: four pillarless halls totalling 20,000 sqm, with an additional 5,000 sqm when used with the Great Hall. Each hall is described as 72×72 m totalling 5,040 sqm, while the official foyer-level capacity table lists 5,000 m² per hall; spaces use the table’s 5,000 m² and note the 5,040 figure. capacity_max_delegates is 8,000 from the official Great Hall narrative (capability to extend to 8,000 for conventions with raiseable seating, divisible into four). The official table’s standard Great Hall theatre figure is 3,958. Official floor-plan brochure is dated September 2025. Competitor directory figures were not used. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "gartner-it-symposium-xpo-australia-2027",
+    "yow-brisbane-2026",
+    "robosoft-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://bcec.com.au/event-spaces/exhibitions/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bcec.com.au/event-spaces/foyer-level/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bcec.com.au/lets-talk/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 2000,
+     "capacity_reception": 4000,
+     "notes": "Official foyer-level table 5,000 m². Official exhibitions page also describes each hall as 72×72 m totalling 5,040 sqm.",
+     "source_url": "https://bcec.com.au/event-spaces/foyer-level/"
+    },
+    {
+     "name": "Exhibition Hall 2",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 2000,
+     "capacity_reception": 4000,
+     "notes": "Official foyer-level table 5,000 m²; exhibitions page also 5,040 sqm.",
+     "source_url": "https://bcec.com.au/event-spaces/foyer-level/"
+    },
+    {
+     "name": "Exhibition Hall 3",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 2000,
+     "capacity_reception": 4000,
+     "notes": "Official foyer-level table 5,000 m²; exhibitions page also 5,040 sqm.",
+     "source_url": "https://bcec.com.au/event-spaces/foyer-level/"
+    },
+    {
+     "name": "Exhibition Hall 4",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 2000,
+     "capacity_reception": 4000,
+     "notes": "Official foyer-level table 5,000 m²; exhibitions page also 5,040 sqm.",
+     "source_url": "https://bcec.com.au/event-spaces/foyer-level/"
+    },
+    {
+     "name": "Great Hall",
+     "type": null,
+     "area_sqm": 4088,
+     "capacity_max": 8000,
+     "capacity_theatre": 3958,
+     "capacity_classroom": null,
+     "capacity_banquet": 2800,
+     "capacity_reception": 4000,
+     "notes": "Official table: 4,088 m², theatre 3,958, banquet 2,800, cocktail 4,000. Official narrative: can accommodate 4,000 with capability to extend to 8,000 for conventions (raiseable seating, divisible into four). Headline capacity_max is that 8,000 extension figure.",
+     "source_url": "https://bcec.com.au/event-spaces/foyer-level/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "BCEC floor-plan brochure (September 2025)",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
+     "href": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "national-convention-centre-canberra",
+   "name": "National Convention Centre Canberra",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Canberra",
+   "address": "31 Constitution Avenue, Canberra, ACT 2601, Australia",
+   "lat": -35.2846854,
+   "lon": 149.1343829,
+   "url": "https://nccc.com.au/",
+   "capacity": 2000,
+   "exhibition_sqm": 2000,
+   "halls": "Official Exhibition Hall page: 2,000 square metres, ceiling height 9 metres, vehicle access height 3.9 metres, around 10–2,000 attendees, and up to 120 exhibitor booths (3×3 m).",
+   "description": "Canberra’s national convention centre on Constitution Avenue, overlooking Glebe Park. Official Exhibition Hall page gives 2,000 square metres and a host range of around 10–2,000 attendees; capacity_max_delegates and exhibition_sqm use those official figures. An official 2025 capacity-chart PDF is stored; the file did not yield a reliable text extract in this pass, so no additional room figures were taken from it. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "bsides-canberra-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://nccc.com.au/event-venues/exhibition-hall/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall",
+     "type": null,
+     "area_sqm": 2000,
+     "capacity_max": 2000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 2,000 square metres; around 10–2,000 attendees; up to 120 standard 3×3 m booths; ceiling height 9 m.",
+     "source_url": "https://nccc.com.au/event-venues/exhibition-hall/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "National Convention Centre Canberra capacity chart 2025",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
+     "href": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "perth-convention-and-exhibition-centre",
+   "name": "Perth Convention and Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Perth",
+   "address": "Mounts Bay Road, Perth, Western Australia, Australia",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.pcec.com.au/",
+   "capacity": 10000,
+   "exhibition_sqm": 16644,
+   "halls": "Official exhibitions/our-spaces pages: six pavilions configurable individually or combined to 16,644 square metres of uninterrupted floor space, accommodating over 10,000 people; Riverside Theatre seats up to 2,500 in a tiered configuration; BelleVue Ballroom; 23 meeting rooms.",
+   "description": "Perth’s purpose-built convention and exhibition centre on the Swan River. Official exhibitions page: six pavilions can be combined into up to 16,644 square metres of uninterrupted floor space, accommodating over 10,000 people; exhibition_sqm is 16,644 and capacity_max_delegates is 10,000, with the official wording ‘over 10,000 people’ noted. Official FAQ/our-spaces text: the Riverside Theatre seats up to 2,500 in a tiered configuration and is the largest tiered theatre in Perth; the campus also includes the BelleVue Ballroom and 23 meeting rooms. Official pages locate the main entrance on Mounts Bay Road, Perth, but do not publish a street number in the text captured for this pass, so the stored address is that official road description only. No precise Nominatim pin was stored in this pass; lat/lon left null rather than using an imprecise city pin. Public sales email used is info@pcec.com.au (named staff mailboxes on the same pages were not stored).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "info@pcec.com.au",
+   "sources": [
+    {
+     "url": "https://www.pcec.com.au/our-spaces/exhibitions/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.pcec.com.au/organisers/our-spaces/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition pavilions (combined)",
+     "type": null,
+     "area_sqm": 16644,
+     "capacity_max": 10000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: six pavilions combined to 16,644 square metres of uninterrupted floor space, accommodating over 10,000 people.",
+     "source_url": "https://www.pcec.com.au/our-spaces/exhibitions/"
+    },
+    {
+     "name": "Riverside Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": 2500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official our-spaces/FAQ text: seats up to 2,500 people in a tiered configuration.",
+     "source_url": "https://www.pcec.com.au/organisers/our-spaces/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "gold-coast-convention-and-exhibition-centre",
+   "name": "Gold Coast Convention and Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Broadbeach",
+   "address": "Broadbeach, Gold Coast, Queensland, Australia",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.gccec.com.au/",
+   "capacity": 6000,
+   "exhibition_sqm": 10000,
+   "halls": "Official venue-overview key features: 10,000 sqm of ground-floor exhibition space, 6,000-seat tiered arena, 22 meeting rooms, and 2,000 sqm of parklands and external space.",
+   "description": "Gold Coast convention and exhibition centre at Broadbeach. Official venue-overview page: 10,000 sqm of ground-floor exhibition space, a 6,000-seat tiered arena, 22 meeting rooms, and 2,000 sqm of parklands and external space. exhibition_sqm is the official 10,000 sqm ground-floor exhibition figure (parkland/external space is not included). capacity_max_delegates is the official 6,000-seat tiered arena. Official pages name Broadbeach but the street number was not present in the text captured for this pass, so the stored address is the official locality only. Coordinates left null pending a precise named Nominatim pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.gccec.com.au/venue-overview/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.gccec.com.au/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ground-floor exhibition space",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venue-overview key features: 10,000 sqm of ground-floor exhibition space.",
+     "source_url": "https://www.gccec.com.au/venue-overview/"
+    },
+    {
+     "name": "Tiered arena",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 6000,
+     "capacity_theatre": 6000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venue-overview key features: 6,000-seat tiered arena.",
+     "source_url": "https://www.gccec.com.au/venue-overview/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "adelaide-convention-centre",
+   "name": "Adelaide Convention Centre",
+   "type": "convention_centre",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Adelaide",
+   "address": "North Terrace, Adelaide, South Australia 5000, Australia",
+   "lat": -34.9209118,
+   "lon": 138.5943781,
+   "url": "https://www.adelaidecc.com.au/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official site publishes individual exhibition hall pages (including Halls F, G, H, J and combined Halls LMN). A campus-wide official exhibition total was not confirmed from the official pages and 2025–26 Exhibition Handbook captured in this pass, so exhibition_sqm and capacity_max_delegates are left null rather than taken from an association fact sheet.",
+   "description": "South Australia’s principal convention centre on North Terrace, operated by Adelaide Venue Management. Official footer address is North Terrace, Adelaide, South Australia 5000. Official hall pages (not used as a summed campus total in this pass, because not every hall area was verified together from official pages) include published areas such as Hall F 1,060 m², Hall G 990 m², Hall H 2,980 m², Hall J 1,150 m² and Halls LMN combined 2,655 m²; those individual official hall figures can be backfilled into spaces[] in a later pass. The official 2025–26 Exhibition Handbook is stored; it is primarily an operational handbook and did not yield a usable official campus exhibition total. AIPC member figures were not used. Coordinates are the Nominatim named conference-centre pin for Adelaide Convention Centre on North Terrace.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.adelaidecc.com.au/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adelaidecc.com.au/spaces/hall-f/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adelaidecc.com.au/spaces/hall-g/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adelaidecc.com.au/spaces/hall-h/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.adelaidecc.com.au/spaces/hall-lmn/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Adelaide Convention Centre Exhibition Handbook 2025–2026",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
+     "href": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "adelaide-showground",
+   "name": "Adelaide Showground",
+   "type": "exhibition_grounds",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Wayville",
+   "address": "Goodwood Road, Wayville, South Australia 5034, Australia",
+   "lat": -34.9459602,
+   "lon": 138.586533,
+   "url": "https://www.adelaideshowground.com.au/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Wayville showground used for exhibitions including AIMEX 2027, whose atlas/organiser venue string is ‘Adelaide Showground, Goodwood Road, Wayville, South Australia 5034’. Official exhibition-area and people-capacity figures were not confirmed from an official showground page in this pass, so those fields are null. Coordinates are the atlas precise pin for this named venue. Official website is the showground’s public site; the homepage was not successfully fetched in this pass, so no additional spaces were added.",
+   "photo": null,
+   "linked_event_slugs": [
+    "aimex-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.adelaideshowground.com.au/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "melbourne-town-hall",
+   "name": "Melbourne Town Hall",
+   "type": "other",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Melbourne",
+   "address": "Swanston Street, Melbourne, Victoria, Australia",
+   "lat": -37.8149155,
+   "lon": 144.9668486,
+   "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "City of Melbourne civic hall, hosting atlas conferences including Open Summit AI Melbourne and DDD Melbourne. Official room-capacity figures were not confirmed from City of Melbourne official pages in this pass, so capacity fields are null. Official pages locate the Town Hall on Swanston Street; a street number was not captured from an official page in this pass. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "open-summit-ai-melbourne-2027",
+    "ddd-melbourne-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.melbourne.vic.gov.au/melbourne-town-hall",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "federation-square",
+   "name": "Federation Square",
+   "type": "other",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Melbourne",
+   "address": "Federation Square, Melbourne, Victoria 3000, Australia",
+   "lat": -37.8177396,
+   "lon": 144.9691559,
+   "url": "https://fedsquare.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Civic and cultural precinct in central Melbourne, named as the venue for AI Engineer Melbourne 2027. Official conference-room or hall capacities were not confirmed from the official Federation Square site in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "ai-engineer-melbourne-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://fedsquare.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "unsw-roundhouse",
+   "name": "UNSW Roundhouse",
+   "type": "other",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "University of New South Wales, Kensington, NSW, Australia",
+   "lat": -33.9165038,
+   "lon": 151.2268966,
+   "url": "https://www.arc.unsw.edu.au/roundhouse",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Campus venue at UNSW Kensington, named for Bitcoin Alive 2027. Official published conference capacities were not confirmed in this pass, so capacity fields are null. Coordinates are the atlas precise pin for the named Roundhouse. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "bitcoin-alive-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.arc.unsw.edu.au/roundhouse",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "qut-gardens-point",
+   "name": "QUT Gardens Point",
+   "type": "other",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Brisbane",
+   "address": "QUT Gardens Point Campus, Brisbane, Queensland, Australia",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Queensland University of Technology Gardens Point campus, named as the venue for Everything Open 2027. The atlas pin for this event is not marked precise, so coordinates are left null rather than storing an imprecise campus or city pin. Official room-level conference capacities were not confirmed in this pass. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "everything-open-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-fullerton-hotel-sydney",
+   "name": "The Fullerton Hotel Sydney",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "No. 1 Martin Place, Sydney, New South Wales 2000, Australia",
+   "lat": -33.867868,
+   "lon": 151.2077229,
+   "url": "https://www.fullertonhotels.com/fullerton-hotel-sydney",
+   "capacity": 1400,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page and official meetings-and-events PDF: The Grand Ballroom is described as the largest pillarless hotel ballroom in Sydney, banquet up to 1,000 and theatre 1,400, divisible into four; Heritage Ballroom and Heritage Conference Centre also published on the official capacity chart.",
+   "description": "Hotel in Sydney’s former General Post Office building. Official address on the meetings-and-events PDF: No. 1 Martin Place, Sydney, New South Wales 2000. Official page and PDF: The Grand Ballroom banquet capacity up to 1,000; official PDF chart also gives theatre 1,400, classroom 660, cocktail 1,200, cabaret 800, and 1,058 m². capacity_max_delegates is the official Grand Ballroom theatre figure of 1,400. Public enquiries address on the official PDF is fsy.enquiries@fullertonhotels.com. Australia has no current official government hotel star classification scheme, so star_rating is null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "adapt-data-ai-edge-2027"
+   ],
+   "contact_email": "fsy.enquiries@fullertonhotels.com",
+   "sources": [
+    {
+     "url": "https://www.fullertonhotels.com/fullerton-hotel-sydney/meetings-and-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The Grand Ballroom",
+     "type": null,
+     "area_sqm": 1058,
+     "capacity_max": 1400,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 660,
+     "capacity_banquet": 1000,
+     "capacity_reception": 1200,
+     "notes": "Official PDF chart: 1,058 m², theatre 1,400, classroom 660, cocktail 1,200, banquet 1,000, cabaret 800. Official webpage highlights banquet up to 1,000. Capacities are maximum and, per the official PDF, do not allow for staging or AV.",
+     "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf"
+    },
+    {
+     "name": "The Grand Ballroom I",
+     "type": null,
+     "area_sqm": 303,
+     "capacity_max": null,
+     "capacity_theatre": 350,
+     "capacity_classroom": 190,
+     "capacity_banquet": 250,
+     "capacity_reception": 350,
+     "notes": null,
+     "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf"
+    },
+    {
+     "name": "Heritage Ballroom",
+     "type": null,
+     "area_sqm": 400,
+     "capacity_max": null,
+     "capacity_theatre": 350,
+     "capacity_classroom": 160,
+     "capacity_banquet": 250,
+     "capacity_reception": 350,
+     "notes": "Official PDF: 400 m², 11 m ceiling, in the historic GPO building.",
+     "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Fullerton Hotel Sydney meetings and events guide",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
+     "href": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "hilton-sydney",
+   "name": "Hilton Sydney",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "Sydney, New South Wales, Australia",
+   "lat": -33.8718187,
+   "lon": 151.2076005,
+   "url": "https://www.hilton.com/en/hotels/sydhitw-hilton-sydney/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "CBD hotel named for AI Engineer Sydney 2026 and ADAPT Digital + AI + Edge 2027. Official events pages returned an access restriction in this research pass, so a street address and meeting capacities were not taken from the official site. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ai-engineer-sydney-2026",
+    "adapt-digital-ai-edge-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/sydhitw-hilton-sydney/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "sheraton-grand-sydney-hyde-park",
+   "name": "Sheraton Grand Sydney Hyde Park",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "Sydney, New South Wales, Australia",
+   "lat": -33.8717322,
+   "lon": 151.2099196,
+   "url": "https://www.marriott.com/en-us/hotels/sydgs-sheraton-grand-sydney-hyde-park/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Hotel facing Hyde Park, named for Programmable Sydney 2027 and the Digital Economy Conference 2027. Official Marriott events pages were not successfully fetched in this pass, so street address and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "programmable-sydney-2027",
+    "digital-economy-conference-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/sydgs-sheraton-grand-sydney-hyde-park/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "pullman-melbourne-albert-park",
+   "name": "Pullman Melbourne Albert Park",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Melbourne",
+   "address": "Melbourne, Victoria, Australia",
+   "lat": -37.850241,
+   "lon": 144.9787984,
+   "url": "https://www.pullmanmelbournealbertpark.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Albert Park hotel named for YOW! Melbourne 2026. Official meetings pages were not successfully fetched in this pass, so street address and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "yow-melbourne-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.pullmanmelbournealbertpark.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "racv-royal-pines-resort",
+   "name": "RACV Royal Pines Resort",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Gold Coast",
+   "address": "Gold Coast, Queensland, Australia",
+   "lat": -28.0046443,
+   "lon": 153.3760783,
+   "url": "https://www.racv.com.au/travel-leisure/racv-resorts/royal-pines.html",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Gold Coast resort named for AusCERT 2027. Official meetings URL variants returned 404 in this pass, so street address and meeting capacities are not recorded from the official site. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "auscert-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.racv.com.au/travel-leisure/racv-resorts/royal-pines.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "crown-sydney",
+   "name": "Crown Sydney",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Sydney",
+   "address": "Barangaroo, Sydney, New South Wales, Australia",
+   "lat": -33.862028,
+   "lon": 151.2010487,
+   "url": "https://www.crownsydney.com.au/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Barangaroo hotel-casino named in atlas strings as ‘Crown Sydney, Barangaroo’ and ‘Crown Sydney’ (XRP Australia 2027 and CTO Day Sydney 2027), recorded as one venue. Official meetings URL variants returned 404 in this pass, so a street number and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "xrp-australia-2027",
+    "cto-day-sydney-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.crownsydney.com.au/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "crown-promenade-melbourne",
+   "name": "Crown Promenade Melbourne",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Melbourne",
+   "address": "Melbourne, Victoria, Australia",
+   "lat": -37.8240418,
+   "lon": 144.9601785,
+   "url": "https://www.crownmelbourne.com.au/hotels/crown-promenade",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Southbank hotel named for CTO Day Melbourne 2027. Official meetings URL variants returned 404 in this pass, so a street address and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cto-day-melbourne-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.crownmelbourne.com.au/hotels/crown-promenade",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "rydges-south-bank",
+   "name": "Rydges South Bank",
+   "type": "hotel_conference_venue",
+   "country": "Australia",
+   "cc": "AU",
+   "city": "Brisbane",
+   "address": "South Bank, Brisbane, Queensland, Australia",
+   "lat": -27.4773481,
+   "lon": 153.0204352,
+   "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "South Bank hotel named for ASCILITE 2026. Official meetings pages returned an access restriction in this pass, so a street address and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ascilite-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "vancouver-convention-centre",
+   "name": "Vancouver Convention Centre",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Vancouver",
+   "address": "1055 Canada Place, Vancouver, BC V6C 0C3, Canada",
+   "lat": 49.2889066,
+   "lon": -123.1160773,
+   "url": "https://www.vancouverconventioncentre.com/",
+   "capacity": 14933,
+   "exhibition_sqm": 28940,
+   "halls": "Official exhibition-halls page: 311,500 ft² (28,940 m²) of exhibition space in six halls, three in each building. West halls A, B & C usable area 220,500 sq ft (20,485 m²), theatre 14,933, reception 14,933, banquet 11,400, classroom 13,866. East Building halls total 91,000 sq ft (8,455–8,500 m² depending on official rounding on the same page family).",
+   "description": "Waterfront convention centre at Canada Place. Official exhibition total is 311,500 ft² (28,940 m²); exhibition_sqm uses the official metric figure 28,940 rather than a freshly converted 28,939. Official West Exhibition Halls A, B & C theatre and reception are both 14,933, which is used as capacity_max_delegates. East halls are smaller (official East Exhibition Hall A theatre 2,250). Atlas strings ‘Vancouver Convention Centre’ and ‘Vancouver Convention Centre West’ are the same campus and are linked here. Official address: 1055 Canada Place, Vancouver, BC V6C 0C3. Coordinates are the atlas precise pin. Canada no longer has a current national official hotel star scheme (Canada Select was discontinued); this is not a hotel, so star_rating is null. Competitor-platform PDFs were not used.",
+   "photo": null,
+   "linked_event_slugs": [
+    "web-summit-vancouver-2027",
+    "fan-expo-vancouver-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.vancouverconventioncentre.com/facility/spaces/exhibition-halls",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.vancouverconventioncentre.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "West Exhibition Halls A, B & C",
+     "type": null,
+     "area_sqm": 20485,
+     "capacity_max": 14933,
+     "capacity_theatre": 14933,
+     "capacity_classroom": 13866,
+     "capacity_banquet": 11400,
+     "capacity_reception": 14933,
+     "notes": "Official page: usable area 220,500 sq ft (20,485 m²).",
+     "source_url": "https://www.vancouverconventioncentre.com/facility/spaces/exhibition-halls"
+    },
+    {
+     "name": "East exhibition halls (combined official area)",
+     "type": null,
+     "area_sqm": 8500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: East 91,000 sq ft (8,500 m²) as the East building exhibition total.",
+     "source_url": "https://www.vancouverconventioncentre.com/facility/spaces/exhibition-halls"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "metro-toronto-convention-centre",
+   "name": "Metro Toronto Convention Centre",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "North Building 255 Front Street West; South Building 222 Bremner Boulevard, Toronto, Ontario, Canada",
+   "lat": 43.6438376,
+   "lon": -79.3866925,
+   "url": "https://www.mtccc.com/",
+   "capacity": 1232,
+   "exhibition_sqm": 41063,
+   "halls": "Official exhibit-halls page and 2025 At a Glance PDF: 442,000 square feet of exhibit space in seven halls (North Building halls A–C at 255 Front Street West; South Building halls D–G at 222 Bremner Boulevard). Official At a Glance: 1,232 seats in the Theatre; more than 700,000 square feet of space campus-wide (that larger figure is not used as exhibition_sqm).",
+   "description": "Toronto’s downtown convention centre on two connected buildings. Official exhibit total is 442,000 square feet; exhibition_sqm is 41,063 using 1 sq ft = 0.09290304 m². capacity_max_delegates is the official Theatre seating figure of 1,232 from the 2025 At a Glance PDF; official exhibit-hall people capacities were not taken from the short At a Glance sheet alone. Public email on the official exhibit-halls page is info@mtccc.com. PDAC 2027 is officially/atlas-named at both MTCC (222 Bremner Blvd) and Fairmont Royal York, so the event is linked here and also to the Fairmont record. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sector-2027",
+    "pdac-2027",
+    "fan-expo-canada-2027",
+    "toronto-comicon-2027"
+   ],
+   "contact_email": "info@mtccc.com",
+   "sources": [
+    {
+     "url": "https://www.mtccc.com/facility/rooms-and-spaces/exhibit-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mtccc.com/wp-content/uploads/2025/10/MTCC-At-a-Glance_2025_re-aoda.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibit halls (seven halls, official campus total)",
+     "type": null,
+     "area_sqm": 41063,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 442,000 square feet of exhibition space in seven exhibit halls.",
+     "source_url": "https://www.mtccc.com/facility/rooms-and-spaces/exhibit-halls/"
+    },
+    {
+     "name": "The Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1232,
+     "capacity_theatre": 1232,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2025 At a Glance: 1,232 seats in the Theatre.",
+     "source_url": "https://www.mtccc.com/wp-content/uploads/2025/10/MTCC-At-a-Glance_2025_re-aoda.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "MTCC At a Glance 2025",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.mtccc.com/wp-content/uploads/2025/10/MTCC-At-a-Glance_2025_re-aoda.pdf",
+     "href": "https://www.mtccc.com/wp-content/uploads/2025/10/MTCC-At-a-Glance_2025_re-aoda.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "palais-des-congres-de-montreal",
+   "name": "Palais des congrès de Montréal",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Montreal",
+   "address": "Montréal, Québec, Canada",
+   "lat": 45.5051255,
+   "lon": -73.5607046,
+   "url": "https://congresmtl.com/en/",
+   "capacity": 13863,
+   "exhibition_sqm": 36863,
+   "halls": "Official floor-plans and capacities PDF: 396,785 sq. ft. (36,863 m²) of exhibition venues; 113 rooms and venues; 508,756 sq. ft. (47,265 m²) of rental space. Official main column-free hall combination rooms 210–220–230: 18,493 m² / 199,052 sq. ft., 13,863 people. Official level 2 narrative also states about 18,500 m² of contiguous space.",
+   "description": "Montréal’s downtown convention centre. Official floor-plans PDF: exhibition venues 36,863 m²; capacity_max_delegates is the official 13,863-person figure for rooms 210–220–230 (18,493 m²). The 47,265 m² rental-space total and 32,798 m² meeting-room total on the same official PDF are not used as exhibition_sqm. Public email on the official site is info@congresmtl.com. A public street address for the hall entrance was not clearly separated, in the captured official text, from a 9th-floor office-style schema address on rue Saint-Antoine Ouest, so the stored address is the city only rather than an unverified office floor. Coordinates are the Nominatim named events-venue pin for Palais des congrès de Montréal (OSM places it on Avenue Viger Ouest; that street label is not stored as the official address because it was not taken from the official site).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "info@congresmtl.com",
+   "sources": [
+    {
+     "url": "https://congresmtl.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://congresmtl.com/en/event-planning/trade-shows/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://congresmtl.com/pdf/PCM_Floor_Plans_Capacities.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Rooms 210–220–230",
+     "type": null,
+     "area_sqm": 18493,
+     "capacity_max": 13863,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official PDF: 18,493 m² / 199,052 sq. ft., 13,863 people. Official level-2 narrative also refers to about 18,500 m² of contiguous space.",
+     "source_url": "https://congresmtl.com/pdf/PCM_Floor_Plans_Capacities.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Palais des congrès de Montréal floor plans and capacities",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://congresmtl.com/pdf/PCM_Floor_Plans_Capacities.pdf",
+     "href": "https://congresmtl.com/pdf/PCM_Floor_Plans_Capacities.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "enercare-centre",
+   "name": "Enercare Centre",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "Exhibition Place, Toronto, Ontario, Canada",
+   "lat": 43.6353558,
+   "lon": -79.4132369,
+   "url": "https://www.explace.on.ca/venues/enercare-centre",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Exhibition Place exhibit venue in Toronto, named for the Toronto International Boat Show 2027. A convention/exhibition centre that also hosts a boat show is recorded (the boat show itself is not treated as a marine-only site). Official hall-area and people-capacity figures were not confirmed from an official Exhibition Place page in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "toronto-international-boat-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.explace.on.ca/venues/enercare-centre",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "toronto-congress-centre",
+   "name": "Toronto Congress Centre",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "Toronto, Ontario, Canada",
+   "lat": 43.6934671,
+   "lon": -79.578651,
+   "url": "https://www.torontocongresscentre.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "West Toronto exhibition and congress venue, named for Anime North 2027. Official published exhibition totals were not confirmed from a successfully parsed official page in this pass, so capacity and exhibition fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "anime-north-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.torontocongresscentre.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "edmonton-expo-centre",
+   "name": "Edmonton Expo Centre",
+   "type": "convention_centre",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Edmonton",
+   "address": "Edmonton, Alberta, Canada",
+   "lat": 53.5687097,
+   "lon": -113.4580962,
+   "url": "https://www.edmontonexpocentre.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Edmonton exhibition centre, named for Edmonton Expo 2027. Official hall-area and people-capacity figures were not confirmed from an official page in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "edmonton-expo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.edmontonexpocentre.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hotel-bonaventure-montreal",
+   "name": "Hotel Bonaventure Montreal",
+   "type": "hotel_conference_venue",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Montreal",
+   "address": "Montreal, Québec, Canada",
+   "lat": 45.4989265,
+   "lon": -73.5655907,
+   "url": "https://hotelbonaventure.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Downtown Montréal hotel named for ConFoo 2027. Official meeting capacities and a confirmed official street address were not captured from a successfully fetched official events page in this pass, so those fields are conservative. Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "confoo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://hotelbonaventure.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hyatt-regency-toronto",
+   "name": "Hyatt Regency Toronto",
+   "type": "hotel_conference_venue",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "Toronto, Ontario, Canada",
+   "lat": 43.6464543,
+   "lon": -79.3918088,
+   "url": "https://www.hyatt.com/hyatt-regency/en-US/torrt-hyatt-regency-toronto",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Downtown Toronto hotel named for CDAO Canada 2027. Official meeting capacities were not confirmed from a successfully fetched official events page in this pass. Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cdao-canada-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hyatt.com/hyatt-regency/en-US/torrt-hyatt-regency-toronto",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "le-centre-sheraton-montreal",
+   "name": "Le Centre Sheraton Montreal Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Montreal",
+   "address": "Montreal, Québec, Canada",
+   "lat": 45.4980338,
+   "lon": -73.5715359,
+   "url": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Downtown Montréal Sheraton hotel named for the IEEE Symposium on Security and Privacy 2027. Official meeting capacities were not confirmed from a successfully fetched official events page in this pass. Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ieee-symposium-security-privacy-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "sheraton-toronto-airport-hotel-and-conference-centre",
+   "name": "Sheraton Toronto Airport Hotel & Conference Centre",
+   "type": "hotel_conference_venue",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "Toronto, Ontario, Canada",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/yyzsi-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Airport-area Toronto Sheraton named for the Big Data & Analytics Summit Canada 2027. The atlas pin is not marked precise (it resolved to a city-level location), so coordinates are left null rather than storing an imprecise city pin. Official meeting capacities were not confirmed from a successfully fetched official events page in this pass. Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories.",
+   "photo": null,
+   "linked_event_slugs": [
+    "big-data-analytics-summit-canada-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/yyzsi-sheraton-toronto-airport-hotel-and-conference-centre/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "fairmont-royal-york",
+   "name": "Fairmont Royal York",
+   "type": "hotel_conference_venue",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "100 Front Street West, Toronto, Ontario, Canada",
+   "lat": 43.6459092,
+   "lon": -79.3813637,
+   "url": "https://www.fairmont.com/royal-york-toronto/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Downtown Toronto hotel named together with Metro Toronto Convention Centre for PDAC 2027 (atlas/official venue string: Fairmont Royal York Hotel, 100 Front St W). Official meeting capacities were not confirmed from a successfully fetched official events page in this pass, so they are null. Coordinates are the Nominatim named hotel pin for Fairmont Royal York Hotel at 100 Front Street West (the PDAC atlas pin is the MTCC pin, not this hotel). Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories.",
+   "photo": null,
+   "linked_event_slugs": [
+    "pdac-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fairmont.com/royal-york-toronto/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "mars-discovery-district",
+   "name": "MaRS Discovery District",
+   "type": "other",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Toronto",
+   "address": "Toronto, Ontario, Canada",
+   "lat": 43.6597515,
+   "lon": -79.3889243,
+   "url": "https://www.marsdd.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Toronto urban-innovation campus named for Canadian AI 2027. Official auditorium or conference-room capacities were not confirmed from an official MaRS page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "canadian-ai-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marsdd.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "simon-fraser-university-burnaby",
+   "name": "Simon Fraser University (Burnaby campus)",
+   "type": "other",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Burnaby",
+   "address": "Burnaby, British Columbia, Canada",
+   "lat": 49.2792968,
+   "lon": -122.9203518,
+   "url": "https://www.sfu.ca/campuses/burnaby.html",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "SFU Burnaby campus, named for the Congress of the Humanities and Social Sciences 2027. Official individual-hall conference capacities were not confirmed in this pass, so capacity fields are null. Coordinates are the atlas precise pin for the named Burnaby campus. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "congress-humanities-social-sciences-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.sfu.ca/campuses/burnaby.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "grand-quay-port-of-montreal",
+   "name": "Grand Quay of the Port of Montreal",
+   "type": "other",
+   "country": "Canada",
+   "cc": "CA",
+   "city": "Montreal",
+   "address": "Grand Quay, Port of Montreal, Montréal, Québec, Canada",
+   "lat": 45.5027244,
+   "lon": -73.550422,
+   "url": "https://www.port-montreal.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Port of Montreal waterfront quay named for Startupfest 2027. Official event-space capacities were not confirmed from an official Port of Montreal page in this pass, so capacity fields are null. This is a named official waterfront venue, not a marine-show mix of stadium and marina. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "startupfest-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.port-montreal.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "messe-muenchen",
    "name": "Messe München",
    "type": "exhibition_grounds",
@@ -245827,6 +247511,872 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "tokyo-big-sight",
+   "name": "Tokyo Big Sight (Tokyo International Exhibition Center)",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "3-11-1 Ariake, Koto-ku, Tokyo, Japan",
+   "lat": 35.6320533,
+   "lon": 139.7978048,
+   "url": "https://www.bigsight.jp/english/",
+   "capacity": 1000,
+   "exhibition_sqm": 115420,
+   "halls": "Official annual report and facility guide: indoor exhibition area 115,420 m² across 16 halls in three buildings, plus a 6,000 m² rooftop exhibition area not included in exhibition_sqm. Official East Hall 7 is the largest hall at 11,680 m². International Conference Hall 1,000 seats; Reception Hall 1,700 m²; 22 meeting rooms from 35 m² to 760 m² (a Japanese facilities page also mentions 24 conference rooms).",
+   "description": "Tokyo International Exhibition Center in Ariake, operated by Tokyo Big Sight Inc. Official indoor exhibition area is 115,420 m² (16 halls in three buildings). The official 6,000 m² rooftop exhibition area is recorded as a space but is not included in exhibition_sqm. Official facility guide hall areas: East Halls 1–6 8,670 / 8,350 / 8,670 / 8,670 / 8,350 / 8,670 m², East 7 11,680 m², East 8 3,080 m², Link Space 1,120 m²; West Halls 1–2 8,880 m² each, West 3 4,680 m², West 4 6,840 m², West atrium 2,000 m²; South Halls 1–4 5,000 m² each. capacity_max_delegates is the official International Conference Hall seating figure of 1,000; official people capacities for the exhibition halls themselves were not published in the pages and PDFs used here, so the conference-hall figure is a conservative headline rather than a campus-wide attendance maximum. Atlas strings that name West Hall, East Halls or West Halls 1–3 are the same campus and are linked here. Coordinates are the atlas precise pin. Japan has no official government hotel star classification used in this dataset; this is not a hotel, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "automotive-world-tokyo-2027",
+    "japan-shop-2027",
+    "foodex-japan-2027",
+    "hcj-2027",
+    "sushi-tech-tokyo-2027",
+    "japan-it-week-spring-2027",
+    "semicon-japan-2026",
+    "webx-2027",
+    "nextech-week-tokyo-spring-2027",
+    "edix-tokyo-2027",
+    "content-tokyo-2027",
+    "google-cloud-next-tokyo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.bigsight.jp/english/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.bigsight.jp/english/visitor/company/pdf/tokyobigsight_annualreport_2024_en.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "East Hall 1",
+     "type": null,
+     "area_sqm": 8670,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 2",
+     "type": null,
+     "area_sqm": 8350,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 3",
+     "type": null,
+     "area_sqm": 8670,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 4",
+     "type": null,
+     "area_sqm": 8670,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 5",
+     "type": null,
+     "area_sqm": 8350,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 6",
+     "type": null,
+     "area_sqm": 8670,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 7",
+     "type": null,
+     "area_sqm": 11680,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facility guide: largest hall in the facility.",
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "East Hall 8",
+     "type": null,
+     "area_sqm": 3080,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "West Hall 1",
+     "type": null,
+     "area_sqm": 8880,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "West Hall 2",
+     "type": null,
+     "area_sqm": 8880,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "West Hall 3",
+     "type": null,
+     "area_sqm": 4680,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "West Hall 4",
+     "type": null,
+     "area_sqm": 6840,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "South Hall 1",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "South Hall 2",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "South Hall 3",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "South Hall 4",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "Rooftop exhibition area",
+     "type": null,
+     "area_sqm": 6000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official rooftop exhibition area. Not included in the 115,420 m² indoor exhibition_sqm total.",
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "International Conference Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": 1000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facility guide: capacity of 1,000 seats / 1,000 people.",
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    },
+    {
+     "name": "Reception Hall",
+     "type": null,
+     "area_sqm": 1700,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Tokyo Big Sight facility information guide",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf",
+     "href": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf",
+     "local": false
+    },
+    {
+     "title": "Tokyo Big Sight Annual Report 2024 (English)",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://www.bigsight.jp/english/visitor/company/pdf/tokyobigsight_annualreport_2024_en.pdf",
+     "href": "https://www.bigsight.jp/english/visitor/company/pdf/tokyobigsight_annualreport_2024_en.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "makuhari-messe",
+   "name": "Makuhari Messe",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Chiba",
+   "address": "2-1, Nakase, Mihama-ku, Chiba-city, 261-8550, Japan",
+   "lat": 35.6473019,
+   "lon": 140.0346524,
+   "url": "https://www.m-messe.co.jp/en/",
+   "capacity": 9000,
+   "exhibition_sqm": 75000,
+   "halls": "Official organisers’ guide: site area 210,000 m²; total exhibition area 75,000 m². Exhibition Halls 1–8 54,000 m² (divisible); Halls 9–11 18,000 m² (Hall 9 9,000 m²; Halls 10 and 11 4,500 m² each); Makuhari Event Hall arena 3,098 m², up to 9,000 people. International Conference Hall / Convention Hall 1,600 people, plus 22 conference rooms.",
+   "description": "Chiba’s international exhibition and convention complex, operated by Makuhari Messe, Inc. Official total exhibition area is 75,000 m². Official breakdown: Halls 1–8 54,000 m² and Halls 9–11 18,000 m² (72,000 m²), with the Makuhari Event Hall arena officially 3,098 m²; 54,000 + 18,000 + 3,098 = 75,098, two figures above the official 75,000 total, so exhibition_sqm follows the official ‘total exhibition area is 75,000 m²’ wording rather than a summed remainder. capacity_max_delegates is the official Event Hall figure of up to 9,000 people. Official convention hall capacity is 1,600 people with 22 additional conference rooms. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "interop-tokyo-2027",
+    "ceatec-2027",
+    "japan-it-week-autumn-2027",
+    "nextech-week-tokyo-autumn-2027",
+    "tokyo-game-show-2027",
+    "jump-festa-2027",
+    "countdown-japan-26-27",
+    "tokyo-comic-con-2026",
+    "wonder-festival-2027-winter"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.m-messe.co.jp/en/organizers/guide/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.m-messe.co.jp/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Halls 1–8",
+     "type": null,
+     "area_sqm": 54000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official guide: 54,000 m², divisible with movable partitions.",
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    },
+    {
+     "name": "Exhibition Hall 9",
+     "type": null,
+     "area_sqm": 9000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    },
+    {
+     "name": "Exhibition Hall 10",
+     "type": null,
+     "area_sqm": 4500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    },
+    {
+     "name": "Exhibition Hall 11",
+     "type": null,
+     "area_sqm": 4500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    },
+    {
+     "name": "Makuhari Event Hall",
+     "type": null,
+     "area_sqm": 3098,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official guide: Event Hall arena 3,098 m², up to 9,000 people.",
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    },
+    {
+     "name": "Convention Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official guide: convention hall that can accommodate 1,600 people, with 22 additional conference rooms.",
+     "source_url": "https://www.m-messe.co.jp/en/organizers/guide/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "pacifico-yokohama",
+   "name": "PACIFICO Yokohama",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Yokohama",
+   "address": "Nishi-ku, Yokohama, Kanagawa, Japan",
+   "lat": 35.4575027,
+   "lon": 139.6371213,
+   "url": "https://www.pacifico.co.jp/english/",
+   "capacity": null,
+   "exhibition_sqm": 20000,
+   "halls": "Official Exhibition Hall guide: exhibition area of 20,000 m², column-free, maximum ceiling height 19 metres, divisible into four units and six layout patterns.",
+   "description": "Yokohama’s waterfront convention and exhibition complex. Official Exhibition Hall PDF: 20,000 m² column-free exhibition area, divisible into four units. Official people capacities for the hall were not confirmed from that official guide in this pass, so capacity_max_delegates is null. The atlas string for the Japan International Boat Show 2027 names ‘Pacifico Yokohama and Yokohama Bayside Marina’; only PACIFICO Yokohama is recorded here, and the marina is not added as a conference venue. A street number was not confirmed from the official English pages captured in this pass, so the stored address is the official Nishi-ku / Yokohama locality rather than an invented street. Coordinates are the Nominatim named events-centre pin for パシフィコ横浜 (the atlas event pin was marked imprecise because it covered the dual marina string).",
+   "photo": null,
+   "linked_event_slugs": [
+    "japan-international-boat-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.pacifico.co.jp/english/guide/exhibition",
+     "label": "Official source"
+    },
+    {
+     "url": "https://lp.pacifico.co.jp/hubfs/exhi/guide/english/Exhibition_Hall_en.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall",
+     "type": null,
+     "area_sqm": 20000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English exhibition-hall guide: 20,000 m², column-free, maximum ceiling height 19 m, divisible into four units.",
+     "source_url": "https://lp.pacifico.co.jp/hubfs/exhi/guide/english/Exhibition_Hall_en.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "PACIFICO Yokohama Exhibition Hall guide (English)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://lp.pacifico.co.jp/hubfs/exhi/guide/english/Exhibition_Hall_en.pdf",
+     "href": "https://lp.pacifico.co.jp/hubfs/exhi/guide/english/Exhibition_Hall_en.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "intex-osaka",
+   "name": "INTEX Osaka",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Osaka",
+   "address": "Suminoe-ku, Osaka, Japan",
+   "lat": 34.637259,
+   "lon": 135.4200149,
+   "url": "https://www.intex-osaka.com/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Osaka’s international exhibition centre (Intex Osaka), named for Japan IT Week Osaka 2027 and also used for festival events including AnimeJapan 2027 and Radio Crazy 2026. Official about/pamphlet URLs did not respond in this research pass, so exhibition_sqm and people capacities are left null rather than taken from unofficial directories or from an unverified secondary citation of 70,078 m². Coordinates are the atlas precise pin, which matches the Nominatim named conference-centre pin for インテックス大阪. A detailed official street address was not captured from a live official page in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "japan-it-week-osaka-2027",
+    "animejapan-2027",
+    "radio-crazy-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.intex-osaka.com/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "port-messe-nagoya",
+   "name": "Port Messe Nagoya (Nagoya International Exhibition Hall)",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Nagoya",
+   "address": "Kinjo-futo, Minato-ku, Nagoya, Aichi, Japan",
+   "lat": 35.0478934,
+   "lon": 136.8442943,
+   "url": "https://www.portmesse.com/en/",
+   "capacity": null,
+   "exhibition_sqm": 40236,
+   "halls": "Official English facility listing: Exhibition Hall 1 20,160 m², Exhibition Hall 2 6,576 m², Exhibition Hall 3 13,500 m², Convention Hall 1,000 m², Event Hall 725 m², Main Hall 537 m².",
+   "description": "Nagoya International Exhibition Hall (Port Messe Nagoya) at Kinjo-futo, Minato-ku. exhibition_sqm is the sum of the three official Exhibition Halls (20,160 + 6,576 + 13,500 = 40,236 m²); the official Convention Hall, Event Hall and Main Hall areas are recorded as spaces but are not added into that exhibition total. Official people capacities were not published on the English facility listing captured here, so capacity_max_delegates is null. Public contact email on the official English page is unnei@portmesse.jp. Coordinates are the atlas precise pin for the named ポートメッセなごや.",
+   "photo": null,
+   "linked_event_slugs": [
+    "japan-it-week-nagoya-2027"
+   ],
+   "contact_email": "unnei@portmesse.jp",
+   "sources": [
+    {
+     "url": "https://www.portmesse.com/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 20160,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    },
+    {
+     "name": "Exhibition Hall 2",
+     "type": null,
+     "area_sqm": 6576,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    },
+    {
+     "name": "Exhibition Hall 3",
+     "type": null,
+     "area_sqm": 13500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    },
+    {
+     "name": "Convention Hall",
+     "type": null,
+     "area_sqm": 1000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    },
+    {
+     "name": "Event Hall",
+     "type": null,
+     "area_sqm": 725,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    },
+    {
+     "name": "Main Hall",
+     "type": null,
+     "area_sqm": 537,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.portmesse.com/en/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "grand-cube-osaka",
+   "name": "Grand Cube Osaka (Osaka International Convention Center)",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Osaka",
+   "address": "Nakanoshima, Kita-ku, Osaka, Japan",
+   "lat": 34.6893887,
+   "lon": 135.4862728,
+   "url": "https://www.gco.co.jp/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Osaka International Convention Center (Grand Cube Osaka) on Nakanoshima, named for EDIX Osaka 2027. Official English facility/capacity figures were not extracted from a successfully parsed official English facility page in this pass (the official site loaded, but the captured homepage did not publish hall areas or theatre totals in the text used here), so capacity and exhibition fields are null. Official pages place the venue in Nakanoshima; a street number was not confirmed from that captured text. Coordinates are the atlas precise pin, which matches the Nominatim named conference-centre pin for 大阪府立国際会議場.",
+   "photo": null,
+   "linked_event_slugs": [
+    "edix-osaka-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.gco.co.jp/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "marine-messe-fukuoka",
+   "name": "Marine Messe Fukuoka",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Fukuoka",
+   "address": "Hakata-ku, Fukuoka, Japan",
+   "lat": 33.6072794,
+   "lon": 130.4021041,
+   "url": "https://www.marinemesse.or.jp/eng/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Fukuoka convention-centre campus venue named for EDIX Fukuoka 2026. Official English facility pages did not return usable capacity or hall-area text in this pass, so those fields are null. Coordinates are the atlas precise pin, which matches the Nominatim named exhibition-centre pin for マリンメッセ福岡.",
+   "photo": null,
+   "linked_event_slugs": [
+    "edix-fukuoka-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marinemesse.or.jp/eng/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "tokyo-international-forum",
+   "name": "Tokyo International Forum",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "5-1 Marunouchi 3-chome, Chiyoda-ku, Tokyo, Japan",
+   "lat": 35.6767901,
+   "lon": 139.7635414,
+   "url": "https://www.t-i-forum.co.jp/en/",
+   "capacity": 5012,
+   "exhibition_sqm": null,
+   "halls": "Official About page: 8 small-to-large halls and 34 conference rooms. Official Hall A is a raked auditorium with 5,012 seats (3,025 on the first level, 1,987 on the second). Official Hall B7 is a flat floor of 1,400 m², divisible into two 670 m² sections.",
+   "description": "Tokyo Metropolitan Government convention and arts centre in Marunouchi, administered by Tokyo International Forum Co., Ltd. Official address: 5-1 Marunouchi 3-chome, Chiyoda-ku, Tokyo. Official overview also gives a site area of approximately 27,000 m² and total floor area of approximately 145,000 m²; those campus/building figures are not used as exhibition_sqm. capacity_max_delegates is the official Hall A seating figure of 5,012. Coordinates are the Nominatim named pin for 東京国際フォーラム.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.t-i-forum.co.jp/en/about/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.t-i-forum.co.jp/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 5012,
+     "capacity_theatre": 5012,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official About page: raked auditorium, 5,012 seats (3,025 first level, 1,987 second level).",
+     "source_url": "https://www.t-i-forum.co.jp/en/about/"
+    },
+    {
+     "name": "Hall B7",
+     "type": null,
+     "area_sqm": 1400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official About page: flat floor 1,400 m², divisible into two 670 m² sections.",
+     "source_url": "https://www.t-i-forum.co.jp/en/about/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kyoto-international-conference-center",
+   "name": "Kyoto International Conference Center",
+   "type": "convention_centre",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Kyoto",
+   "address": "Sakyo-ku, Kyoto, Japan",
+   "lat": 35.0610839,
+   "lon": 135.7831473,
+   "url": "https://www.icckyoto.or.jp/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Japan’s national Kyoto International Conference Center (ICC Kyoto) in Sakyo-ku. Official English homepage was fetched, but it did not publish a usable hall-area or headline theatre total in the text captured for this pass, so capacity and exhibition fields are null. Coordinates are the Nominatim named conference-centre pin for 国立京都国際会館.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.icckyoto.or.jp/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "happo-en",
+   "name": "Happo-en",
+   "type": "other",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "Shirokanedai, Minato-ku, Tokyo, Japan",
+   "lat": 35.6385451,
+   "lon": 139.7294687,
+   "url": "https://www.happo-en.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Historic garden and banquet venue in Shirokanedai, named for TEAMZ Summit 2027. Official meeting capacities were not confirmed from an official Happo-en page in this pass, so capacity fields are null. Coordinates are the atlas precise pin for 八芳園. A Nominatim restaurant POI at the same complex was discarded; the stored pin is the named garden/venue pin, not the restaurant.",
+   "photo": null,
+   "linked_event_slugs": [
+    "teamz-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.happo-en.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "ariake-central-tower-hall-and-conference",
+   "name": "Ariake Central Tower Hall & Conference",
+   "type": "other",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "Ariake, Koto-ku, Tokyo, Japan",
+   "lat": 35.6321695,
+   "lon": 139.7938498,
+   "url": "https://www.tosei-hotel.co.jp/ariake/conference/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Hall and conference facility in Ariake Central Tower, named for Developers Summit 2027. Official room capacities were not confirmed from a successfully fetched official page in this pass, so capacity fields are null. Coordinates are the atlas precise pin, which matches the Nominatim named building pin for 有明セントラルタワー. The website is a commonly cited official hotel-conference page for the tower; if that URL is later found to be stale it should be replaced from the operator’s current official site.",
+   "photo": null,
+   "linked_event_slugs": [
+    "developers-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.tosei-hotel.co.jp/ariake/conference/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "miyazaki-prefectural-arts-theater",
+   "name": "Miyazaki Prefectural Arts Theater (Medikit Kenmin Bunka Center)",
+   "type": "other",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Miyazaki",
+   "address": "Miyazaki, Japan",
+   "lat": 31.9330981,
+   "lon": 131.4200448,
+   "url": "https://www.miyazaki-arts.jp/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Prefectural arts theatre (Medikit Kenmin Bunka Center), named for RubyKaigi 2027. Official seating capacities were not confirmed from an official theatre page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "rubykaigi-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.miyazaki-arts.jp/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "ana-intercontinental-tokyo",
+   "name": "ANA InterContinental Tokyo",
+   "type": "hotel_conference_venue",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "Akasaka, Minato-ku, Tokyo, Japan",
+   "lat": 35.6680126,
+   "lon": 139.7406833,
+   "url": "https://www.anaintercontinental-tokyo.jp/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Akasaka hotel named for MoneyX 2027. The atlas event pin was marked imprecise; coordinates stored here are the Nominatim named hotel pin for ANA Intercontinental Tokyo. Official meeting-room capacities were not confirmed from a successfully fetched official events page in this pass, so capacity fields are null. Japan has no official government hotel star classification used in this dataset, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "moneyx-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.anaintercontinental-tokyo.jp/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "mediterranean-conference-centre",
    "name": "Mediterranean Conference Centre",
    "type": "congress_centre",
@@ -247842,6 +250392,422 @@ window.ATLASDATA={
    ],
    "documents": [],
    "hotel_name": "AX The Palace"
+  },
+  {
+   "slug": "centro-citibanamex",
+   "name": "Centro Citibanamex",
+   "type": "convention_centre",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Av. del Conscripto 311, Lomas de Sotelo, Hipódromo de las Américas, Miguel Hidalgo, 11610 Ciudad de México, CDMX, Mexico",
+   "lat": 19.440265,
+   "lon": -99.2240735,
+   "url": "https://centrobanamex.mx/",
+   "capacity": 31632,
+   "exhibition_sqm": 34283,
+   "halls": "Official rooms page: more than 34,000 m² of column-free halls. Official capacity table: Salas A–D total 34,283 m², combined auditorium 31,632 and cocktail 28,569. Individual official areas and auditorium figures: Sala A 5,103 m² / 5,280; Sala B 7,128 m² / 7,600; Sala C 8,856 m² / 8,664; Sala D 13,196 m² / 13,128.",
+   "description": "Mexico City exhibition and convention centre at Hipódromo de las Américas, also still referred to as Centro Banamex on some atlas and organiser strings; both names are this one campus. Official capacity table (100% occupancy) gives a combined Salas A–B–C–D area of 34,283 m² and auditorium capacity of 31,632, used as exhibition_sqm and capacity_max_delegates. The official rooms webpage says ‘más de 34,000 m²’. Official address: Av. del Conscripto 311, Lomas de Sotelo, 11610 Ciudad de México, CDMX. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "expo-cihac-2027",
+    "expo-seguridad-mexico-2027",
+    "zona-maco-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://centrobanamex.mx/salas/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://centrobanamex.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Sala A",
+     "type": null,
+     "area_sqm": 5103,
+     "capacity_max": 5280,
+     "capacity_theatre": 5280,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 3000,
+     "capacity_reception": 4252,
+     "notes": "Official table banquet without stage (sin estrado) 3,000; banquet with stage without dance floor 2,520.",
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf"
+    },
+    {
+     "name": "Sala B",
+     "type": null,
+     "area_sqm": 7128,
+     "capacity_max": 7600,
+     "capacity_theatre": 7600,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 3960,
+     "capacity_reception": 5940,
+     "notes": null,
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf"
+    },
+    {
+     "name": "Sala C",
+     "type": null,
+     "area_sqm": 8856,
+     "capacity_max": 8664,
+     "capacity_theatre": 8664,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 4730,
+     "capacity_reception": 7380,
+     "notes": null,
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf"
+    },
+    {
+     "name": "Sala D",
+     "type": null,
+     "area_sqm": 13196,
+     "capacity_max": 13128,
+     "capacity_theatre": 13128,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 6450,
+     "capacity_reception": 10996,
+     "notes": null,
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf"
+    },
+    {
+     "name": "Salas A–B–C–D",
+     "type": null,
+     "area_sqm": 34283,
+     "capacity_max": 31632,
+     "capacity_theatre": 31632,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 28569,
+     "notes": "Official combined row for the four exhibition halls at 100% occupancy.",
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Centro Citibanamex tabla de capacidades, salas y salones",
+     "doc_type": "capacity_chart",
+     "language": "es",
+     "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf",
+     "href": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "expo-guadalajara",
+   "name": "Expo Guadalajara",
+   "type": "convention_centre",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Guadalajara",
+   "address": "Guadalajara, Jalisco, Mexico",
+   "lat": 20.653107,
+   "lon": -103.3914611,
+   "url": "https://www.expoguadalajara.mx/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Guadalajara exhibition and convention centre, named for Expo ANTAD 2027 and FIL Guadalajara 2026. Official hall-area and people-capacity figures were not confirmed from a successfully parsed official page in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "expo-antad-2027",
+    "fil-guadalajara-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.expoguadalajara.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "expo-santa-fe",
+   "name": "Expo Santa Fe",
+   "type": "convention_centre",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Santa Fe, Ciudad de México, Mexico",
+   "lat": 19.3635788,
+   "lon": -99.2626661,
+   "url": "https://www.exposantafe.com.mx/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Mexico City Santa Fe exhibition centre, named for Talent Land Mexico 2027 and Smart City Expo LATAM Congress 2027. Official hall-area and people-capacity figures were not confirmed from a successfully parsed official page in this pass, so those fields are null. Coordinates are the atlas precise pin. Not the same venue as The Westin Santa Fe.",
+   "photo": null,
+   "linked_event_slugs": [
+    "talent-land-mexico-2027",
+    "smart-city-expo-latam-congress-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.exposantafe.com.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "world-trade-center-mexico-city",
+   "name": "World Trade Center Ciudad de México",
+   "type": "convention_centre",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Ciudad de México, Mexico",
+   "lat": 19.3941112,
+   "lon": -99.1738964,
+   "url": "https://www.wtcmexico.com.mx/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Mexico City World Trade Center exhibition and convention complex. Atlas strings ‘World Trade Center Ciudad de México’ and ‘Centro Internacional de Exposiciones y Convenciones WTC’ share the same precise pin and are recorded as this one complex. Official hall-area and people-capacity figures were not confirmed from a successfully parsed official page in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "america-digital-mexico-2027",
+    "edufest-mexico-2027",
+    "la-mole-supercon-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.wtcmexico.com.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "cintermex",
+   "name": "Cintermex",
+   "type": "convention_centre",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Monterrey",
+   "address": "Monterrey, Nuevo León, Mexico",
+   "lat": 25.6785945,
+   "lon": -100.2881294,
+   "url": "https://www.cintermex.com.mx/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Monterrey exhibition and convention centre. Atlas strings ‘Cintermex (Sala D)’ and ‘Cintermex’ are the same campus and are linked here; Sala D is not recorded as a second venue. Official hall-area and people-capacity figures were not confirmed from a successfully parsed official page in this pass, so those fields are null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "expodrone-2027",
+    "expo-seguridad-monterrey-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.cintermex.com.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "tecnologico-de-monterrey-campus-monterrey",
+   "name": "Tecnológico de Monterrey, Campus Monterrey",
+   "type": "other",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Monterrey",
+   "address": "Campus Monterrey, Monterrey, Nuevo León, Mexico",
+   "lat": 25.6507267,
+   "lon": -100.289319,
+   "url": "https://tec.mx/es/monterrey",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Tecnológico de Monterrey’s Monterrey campus, named for INCMTY 2027 and the IFE Conference 2027. Official auditorium capacities were not confirmed in this pass, so capacity fields are null. Coordinates are the atlas precise pin for Campus Monterrey. The atlas string for GITMA 2027 is only the generic ‘Tecnológico de Monterrey’ with an imprecise city pin, so that event is not linked here and no second campus record was invented. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "incmty-2027",
+    "ife-conference-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://tec.mx/es/monterrey",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "papalote-museo-del-nino",
+   "name": "Papalote Museo del Niño",
+   "type": "other",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Ciudad de México, Mexico",
+   "lat": 19.4117493,
+   "lon": -99.1945367,
+   "url": "https://www.papalote.org.mx/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Mexico City children’s museum, named for Fintech México Festival 2027. Official event-space capacities were not confirmed from an official museum page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "fintech-mexico-festival-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.papalote.org.mx/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "lunario-del-auditorio-nacional",
+   "name": "Lunario del Auditorio Nacional",
+   "type": "other",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Auditorio Nacional, Ciudad de México, Mexico",
+   "lat": 19.4245076,
+   "lon": -99.1953585,
+   "url": "https://www.auditorio.com.mx/lunario",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Auditorio Nacional’s Lunario venue, named for Never Ending Evolution 2027. Official seating or standing capacities were not confirmed from an official Auditorio Nacional page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
+   "photo": null,
+   "linked_event_slugs": [
+    "never-ending-evolution-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.auditorio.com.mx/lunario",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "barcelo-maya-grand-resort",
+   "name": "Barceló Maya Grand Resort",
+   "type": "hotel_conference_venue",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Riviera Maya",
+   "address": "Riviera Maya, Quintana Roo, Mexico",
+   "lat": 20.4879725,
+   "lon": -87.2455602,
+   "url": "https://www.barcelo.com/en-mx/barcelo-maya-grand-resort/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Riviera Maya resort named for DCD Connect Latam 2027. No public official hotel-level star list from SECTUR or a state classification body was tied to this named property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "dcd-connect-latam-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.barcelo.com/en-mx/barcelo-maya-grand-resort/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-st-regis-mexico-city",
+   "name": "The St. Regis Mexico City",
+   "type": "hotel_conference_venue",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Ciudad de México, Mexico",
+   "lat": 19.4256625,
+   "lon": -99.1723556,
+   "url": "https://www.marriott.com/en-us/hotels/mexrx-the-st-regis-mexico-city/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Mexico City St. Regis hotel named for Open Finance 2050 2027. No public official hotel-level star list from SECTUR or a state classification body was tied to this named property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "open-finance-2050-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mexrx-the-st-regis-mexico-city/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-westin-santa-fe-mexico-city",
+   "name": "The Westin Santa Fe, Mexico City",
+   "type": "hotel_conference_venue",
+   "country": "Mexico",
+   "cc": "MX",
+   "city": "Mexico City",
+   "address": "Santa Fe, Ciudad de México, Mexico",
+   "lat": 19.365417,
+   "lon": -99.2587945,
+   "url": "https://www.marriott.com/en-us/hotels/mexsw-the-westin-santa-fe-mexico-city/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Santa Fe hotel named for IA Expo Internacional 2027, recorded separately from Expo Santa Fe. No public official hotel-level star list from SECTUR or a state classification body was tied to this named property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ia-expo-internacional-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mexsw-the-westin-santa-fe-mexico-city/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "rai-amsterdam",
@@ -252161,7 +255127,7 @@ window.ATLASDATA={
   },
   "expo": 180,
   "hotels": 160,
-  "venues": 187,
+  "venues": 245,
   "europe": 1351,
   "middle_east": 156,
   "asia": 508,
