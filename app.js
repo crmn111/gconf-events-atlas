@@ -1776,6 +1776,21 @@ function setGridMin(on, opts){
 }
 
 let lastMainView = 'map';
+function isCompact(){ return window.innerWidth<=860; }
+let TL_SCROLL = 0;
+function saveTlScroll(){
+  const tl = $('#timeline');
+  if(tl) TL_SCROLL = tl.scrollTop||0;
+}
+function restoreTlScroll(){
+  const tl = $('#timeline');
+  if(!tl) return;
+  const y = TL_SCROLL||0;
+  const apply = () => { tl.scrollTop = y; };
+  apply();
+  requestAnimationFrame(apply);
+}
+
 function setMainView(v){
   const wrap = $('#mapwrap');
   const was = lastMainView;
@@ -1795,10 +1810,11 @@ function setMainView(v){
   if(grid) grid.setAttribute('aria-hidden', v==='grid' ? 'false' : 'true');
   $$('#viewbar button').forEach(b => b.classList.toggle('on', b.dataset.v===v));
   setGridMin(GRID.min, {view:v, persist:false});
-  if(v==='timeline') renderTimeline();
-  if(v==='grid') renderGrid();
+  if(v==='timeline' && was!=='timeline') renderTimeline();
+  if(v==='grid' && was!=='grid') renderGrid();
   if(innerWidth<=860 && (v==='timeline' || v==='swipe')) $('#sidebar').classList.add('collapsed');
-  if(v==='timeline' || (was==='timeline' && v!=='timeline') || v==='grid' || (was==='grid' && v!=='grid')){
+  const skipMap = isCompact() && v==='timeline';
+  if(!skipMap && (v==='timeline' || (was==='timeline' && v!=='timeline') || v==='grid' || (was==='grid' && v!=='grid'))){
     try{ map.invalidateSize({animate:false}); }catch(_){}
     setTimeout(() => {
       try{
@@ -2160,7 +2176,13 @@ function renderTimeline(){
   });
   $$('#tlbody .tl-card[data-slug]').forEach(c => {
     const go = () => {
+      saveTlScroll();
       if(PLAY.on){
+        if(isCompact()){
+          playExit({silent:true, keepHash:true});
+          location.hash = '#/timeline/event/'+c.dataset.slug;
+          return;
+        }
         playPause();
         const idx = PLAY.list.findIndex(x => x.slug===c.dataset.slug);
         if(idx>=0) playShow(idx, {replace:true});
@@ -2257,6 +2279,8 @@ function tourTeardown(){
   try{ map.invalidateSize({animate:false}); }catch(_){}
 }
 function tourPrep(){
+  /* Mobile timeline play is list-only: never reveal or animate the map. */
+  if(isCompact()) return;
   const wrap = $('#mapwrap'), app = $('#app');
   if(wrap) wrap.classList.add('play-tour');
   if(app) app.classList.add('play-tour');
@@ -2701,6 +2725,10 @@ function tourFlyPlane(pts, duration, done){
 }
 function tourTo(e){
   tourClearTimers();
+  if(isCompact()){
+    if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
+    return;
+  }
   if(TOUR.plane){ try{ map.removeLayer(TOUR.plane); }catch(_){} TOUR.plane=null; }
   tourCaption(e);
   const reduce = playReduced();
@@ -2769,6 +2797,29 @@ function atlasCloseDetail(){
   location.hash = viewHomeHash();
 }
 window.atlasCloseDetail = atlasCloseDetail;
+
+function bindDetailSheet(){
+  const btn = $('#detail-close');
+  if(btn) btn.onclick = () => atlasCloseDetail();
+  const det = $('#detail');
+  if(!det || det.dataset.sheetBound) return;
+  det.dataset.sheetBound = '1';
+  let startY=0, startX=0, tracking=false;
+  det.addEventListener('touchstart', ev => {
+    if(!isCompact() || !det.classList.contains('open') || PLAY.on) return;
+    const body = $('#dbody');
+    if(body && body.scrollTop>8) return;
+    const t = ev.changedTouches[0];
+    startY = t.clientY; startX = t.clientX; tracking = true;
+  }, {passive:true});
+  det.addEventListener('touchend', ev => {
+    if(!tracking) return;
+    tracking = false;
+    const t = ev.changedTouches[0];
+    const dy = t.clientY - startY, dx = t.clientX - startX;
+    if(dy>80 && dy>Math.abs(dx)*1.2) atlasCloseDetail();
+  }, {passive:true});
+}
 
 function playSetHash(slug, replace){
   const h = slug ? '#/timeline/play/'+slug : '#/timeline/play';
@@ -2840,6 +2891,8 @@ function playWrapDetailPane(body){
   return pane;
 }
 function playOpenPanel(e){
+  /* On compact screens, Play only highlights and scrolls the timeline. */
+  if(isCompact()) return;
   const det = $('#detail');
   const body = $('#dbody');
   det.classList.add('open'); det.setAttribute('aria-hidden','false');
@@ -3172,8 +3225,10 @@ function route(){
   }
   const bareTimeline = /^#\/timeline\/?$/.test(hash);
   if(entered && onTimeline && !playMatch && bareTimeline && !playReduced() && !PLAY.suppressAuto){
-    playEnter({auto:true});
-    return;
+    if(!isCompact()){
+      playEnter({auto:true});
+      return;
+    }
   }
   if(!onTimeline) PLAY.suppressAuto = false;
   if(/^#\/alerts\/confirmed/.test(hash)){
@@ -3204,14 +3259,16 @@ function route(){
   }
   const m = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?event\/([^/]+)(\/claim)?/);
   if(!m){
-    det.classList.remove('open'); det.setAttribute('aria-hidden','true'); det.querySelector('#dbody').innerHTML='';
+    det.classList.remove('open'); det.setAttribute('aria-hidden','true');
+    const dbody = det.querySelector('#dbody'); if(dbody) dbody.innerHTML='';
     carStop();
     updateAlertPrefs();
     gridMarkOpen('');
     HASH_APPLYING = true;
     try{
       const parsed = parseFilterHash(hash);
-      if(parsed && (parsed.explicitKind || parsed.explicitPlace)){
+      const needFilters = parsed && (parsed.explicitKind || parsed.explicitPlace);
+      if(needFilters){
         applyParsedFilters(parsed);
         updateKindbar();
         updateRegionChrome();
@@ -3221,7 +3278,13 @@ function route(){
         renderCities();
         renderLegend();
       }
-      render();
+      const keepTl = onTimeline && !needFilters && $('#tlbody') && $('#tlbody').children.length;
+      if(keepTl){
+        restoreTlScroll();
+      }else{
+        render();
+        if(onTimeline) restoreTlScroll();
+      }
     }finally{
       HASH_APPLYING = false;
     }
@@ -3703,6 +3766,7 @@ function bindPanelResizers(){
 bindPanelResizers();
 renderRegionChips();
 bindTimelineFilters();
+bindDetailSheet();
 route();
 HASH_READY = true;
 syncHash();

@@ -37,7 +37,7 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611240855">
+<link rel="stylesheet" href="style.css?v=202611240904">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -282,7 +282,7 @@
       <div><i class="pin-s crypto"></i>Crypto / Web3</div>
       <div class="muted">Dashed pin ring = approximate location</div>
     </div>
-    <button id="mobtoggle" type="button" aria-label="Toggle list">☰ List</button>
+    <button id="mobtoggle" type="button" aria-label="Toggle list"><span class="mobtoggle-ico" aria-hidden="true">☰</span><span class="mobtoggle-lab">List</span></button>
   </main>
   <section id="swipe" aria-hidden="true" role="dialog" aria-label="Swipe events">
     <header class="swhead">
@@ -303,7 +303,7 @@
     </div>
     <div class="swfoot">← / → keys or swipe · Esc to close · follows the active filters</div>
   </section>
-  <section id="detail" aria-hidden="true"><div class="dscroll" id="dbody"></div></section>
+  <section id="detail" aria-hidden="true"><button class="close" type="button" id="detail-close" aria-label="Close">✕</button><div class="dscroll" id="dbody"></div></section>
       <div class="panel-resizer" id="resize-left" data-side="left" role="separator" aria-orientation="vertical" aria-label="Resize left panel" tabindex="0"></div>
   <div class="panel-resizer" id="resize-right" data-side="right" role="separator" aria-orientation="vertical" aria-label="Resize detail panel" tabindex="0"></div>
     <div id="playdock" class="playdock" hidden>
@@ -353,9 +353,9 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611240855"></script>
-<script src="data.js?v=202611240855"></script>
-<script src="app.js?v=202611240855"></script>
+<script src="config.js?v=202611240904"></script>
+<script src="data.js?v=202611240904"></script>
+<script src="app.js?v=202611240904"></script>
 
 <!-- atlas-seo-directory:start -->
 <nav id="atlas-directory" class="atlas-directory" aria-label="Event directories">

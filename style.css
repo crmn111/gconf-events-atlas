@@ -1927,6 +1927,11 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .atlas-directory .dir-list .place{color:var(--dim);font:12px var(--sans)}
 .atlas-directory .dir-list.cities li{min-width:220px}
 
+
+/* Keep the crawlable homepage directory in the DOM but out of the app viewport. */
+html,body{overflow:hidden}
+.atlas-directory{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;pointer-events:none}
+
 /* ---------- Breakpoint audit: mobile timeline + usable chrome (max 860px) ----------
    Desktop (861px+) layout is unchanged. On phones and portrait tablets the
    Timeline view is a single-thread, centre-spine list with no map, no map
@@ -1945,19 +1950,7 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
     max-width:100%;
     overflow:hidden;
   }
-  /* SEO directory stays in the HTML for crawlers; keep it out of the interactive viewport. */
-  .atlas-directory{
-    position:absolute;
-    left:0;
-    width:1px;
-    height:1px;
-    overflow:hidden;
-    clip:rect(0 0 0 0);
-    clip-path:inset(50%);
-    white-space:nowrap;
-    pointer-events:none;
-  }
-
+  
   /* ----- Shared chrome: 44px targets, no collisions ----- */
   #mobtoggle{
     display:inline-flex;
@@ -1986,14 +1979,23 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
   }
   .chrome-right{
     top:calc(max(10px, env(safe-area-inset-top, 0px)) + 52px);
+    left:max(10px, env(safe-area-inset-left, 0px));
     right:max(10px, env(safe-area-inset-right, 0px));
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:flex-end;
     align-items:center;
     gap:6px;
-    max-width:calc(100% - 20px);
+    max-width:none;
+    width:auto;
     z-index:670;
+  }
+  .chrome-right .basemaps{
+    flex:1 0 100%;
+    justify-content:flex-end;
+    max-width:100%;
+    box-sizing:border-box;
+    overflow:visible;
   }
   .theme button,
   .basemaps button,
@@ -2007,7 +2009,7 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
     min-width:44px;
   }
   .regions{
-    top:calc(max(10px, env(safe-area-inset-top, 0px)) + 100px);
+    top:calc(max(10px, env(safe-area-inset-top, 0px)) + 156px);
     left:max(10px, env(safe-area-inset-left, 0px));
     right:max(10px, env(safe-area-inset-right, 0px));
     transform:none;
@@ -2072,7 +2074,8 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
     background:var(--bg) !important;
     backdrop-filter:none !important;
     -webkit-backdrop-filter:none !important;
-    container-type:normal;
+    container-type:normal !important;
+    container-name:none !important;
     z-index:600;
     overflow:auto;
     -webkit-overflow-scrolling:touch;
@@ -2177,29 +2180,46 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
     height:16px;
     z-index:3;
   }
+  /* Spine runs in the gaps and behind cards, not over titles. */
+  #mapwrap.timeline-on .tl-list > .tl-spine,
+  #mapwrap.timeline-on.play-tour .tl-list > .tl-spine{
+    z-index:0;
+  }
+  #mapwrap.timeline-on .tl-item{
+    z-index:1;
+  }
+  #mapwrap.timeline-on .tl-card{
+    position:relative;
+    z-index:2;
+  }
   #mapwrap.timeline-on .tl-item.tl-today,
   #mapwrap.timeline-on.play-tour .tl-item.tl-today,
   #app.play-on #mapwrap.timeline-on .tl-item.tl-today{
     display:flex !important;
-    justify-content:center;
+    flex-direction:column !important;
+    justify-content:flex-start;
     align-items:center;
-    padding:12px 0 18px !important;
+    padding:22px 0 16px !important;
     margin:0 0 8px !important;
     grid-template-columns:none !important;
+    min-height:56px;
   }
   #mapwrap.timeline-on .tl-item.tl-today .tl-dot,
   #mapwrap.timeline-on.play-tour .tl-item.tl-today .tl-dot{
     position:absolute !important;
     left:50% !important;
-    top:50% !important;
+    top:6px !important;
     margin:0 !important;
-    transform:translate(-50%, -50%);
+    transform:translateX(-50%);
     grid-column:auto !important;
+    z-index:3;
   }
   #mapwrap.timeline-on .tl-item.tl-today .tl-today-label{
-    grid-column:auto;
-    margin-left:0;
+    grid-column:auto !important;
+    margin:18px 0 0 !important;
     justify-self:auto;
+    position:relative;
+    z-index:2;
   }
   #mapwrap.timeline-on .tl-hero{
     height:160px;
