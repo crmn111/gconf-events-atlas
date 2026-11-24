@@ -1853,7 +1853,7 @@ function viewEvent(e){
   const socialSec = socials ? `<div class="dsec"><h4>Social</h4>${socials}</div>` : '';
   const srcSec = `<div class="dsec"><h4>Sources</h4>${srcs?`<ul class="src-list">${srcs}</ul>`:'<p>No source URLs were attached to this record.</p>'}${e.website_url?`<p style="margin-top:10px"><a class="btn cyan block" href="${esc(e.website_url)}" target="_blank" rel="noopener">Visit event website ↗</a></p>`:''}</div>`;
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
-  const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt="GConf"><img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""></a></p>`;
+  const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="${esc(imgUrl('img/brand/gconf-logo-ink.svg'))}" alt="GConf"><img class="logo-on-dark" src="${esc(imgUrl('img/brand/gconf-logo-dark.svg'))}" alt=""></a></p>`;
   const hotels = (typeof hotelsSectionHtml==='function') ? hotelsSectionHtml(e) : '';
   const venues = (typeof venuesSectionHtml==='function') ? venuesSectionHtml(e) : '';
   return close + gal + hero + facts + about + socialSec + hotels + venues + claim + srcSec + views + powered;
