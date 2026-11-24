@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T14:42:03Z",
+ "generated": "2026-11-24T15:22:13Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -10478,7 +10478,7 @@ window.ATLASDATA={
    "event_id": "GCE-konark-dance-festival-2026",
    "slug": "konark-dance-festival-2026",
    "name": "Konark Dance Festival 2026",
-   "website_url": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/konark-festival-2026",
+   "website_url": "https://odishatourism.gov.in/en/konark-festival",
    "start_date": "2026-12-01",
    "end_date": "2026-12-05",
    "city": "Konark",
@@ -10498,7 +10498,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2026,
-   "source_url": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/konark-festival-2026",
+   "source_url": "https://odishatourism.gov.in/en/konark-festival",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Dates are local to the host city (India Standard Time, UTC+5:30).",
    "lat": 19.8875639,
@@ -10532,13 +10532,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/konark-festival-2026",
+     "url": "https://odishatourism.gov.in/en/konark-festival",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://odishatourism.gov.in/en/konark-festival",
-     "field": "official"
+     "label": "Previous listing",
+     "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/konark-festival-2026",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -10559,7 +10559,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/odisha_tourism",
+     "operator": "Odisha Tourism",
+     "verified_via": "official Odisha Tourism Konark Festival page; X also platform verified government with official website in bio",
+     "source_url": "https://odishatourism.gov.in/en/konark-festival",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/odishatourismofficial",
+     "operator": "Odisha Tourism",
+     "verified_via": "official Odisha Tourism Konark Festival page; X also platform verified government with official website in bio",
+     "source_url": "https://odishatourism.gov.in/en/konark-festival",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@odishatourismofficial",
+     "operator": "Odisha Tourism",
+     "verified_via": "official Odisha Tourism Konark Festival page; X also platform verified government with official website in bio",
+     "source_url": "https://odishatourism.gov.in/en/konark-festival",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-natural-intelligence-ai-festival-khobar-2026",
@@ -55883,7 +55909,7 @@ window.ATLASDATA={
    "event_id": "GCE-carnaval-rio-2027",
    "slug": "carnaval-rio-2027",
    "name": "Rio Carnival 2027 (Sambódromo parades)",
-   "website_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+   "website_url": "https://liesa.com.br/carnaval/",
    "start_date": "2027-02-05",
    "end_date": "2027-02-09",
    "city": "Rio de Janeiro",
@@ -55903,7 +55929,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+   "source_url": "https://liesa.com.br/carnaval/",
    "last_scraped_at": "2026-11-24T00:25:15+01:00",
    "notes": "Série Ouro parades 5-6 Feb, Grupo Especial 7-9 Feb 2027. Street carnival (blocos) runs city-wide around the same dates. Brazil dates are local (Brasília time, UTC-3, unless the venue is in another Brazilian time zone, e.g. Manaus UTC-4).",
    "lat": -22.9109879,
@@ -55929,8 +55955,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+     "url": "https://liesa.com.br/carnaval/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -55955,7 +55986,7 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Sambadrome Marquês de Sapucaí, Rua Professor Clementino Fraga, Bairro de Fátima, Centro, Rio de Janeiro, Southeast Region, 20230-250, Brazil (query: Sambódromo da Marquês de Sapucaí).",
    "source_accessed_at": "2026-11-24T00:25:15+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "carnaval-rio-2027",
    "also_categories": [],
    "price_eur_min": null,
@@ -55966,23 +55997,30 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/riotur.rio",
-     "verified_via": "official_listing_checked",
-     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
-     "accessed_at": "2026-11-24T13:27:00+01:00"
+     "verified_via": "official LIESA carnival page and official Rio Carnaval site",
+     "source_url": "https://liesa.com.br/carnaval/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/riodejaneiro",
-     "verified_via": "official_listing_checked",
-     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
-     "accessed_at": "2026-11-24T13:27:00+01:00"
+     "verified_via": "official LIESA carnival page and official Rio Carnaval site",
+     "source_url": "https://liesa.com.br/carnaval/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
     },
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/riodejaneiro",
-     "verified_via": "official_listing_checked",
-     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
-     "accessed_at": "2026-11-24T13:27:00+01:00"
+     "verified_via": "official LIESA carnival page and official Rio Carnaval site",
+     "source_url": "https://liesa.com.br/carnaval/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@riocarnaval_oficial",
+     "verified_via": "official LIESA carnival page and official Rio Carnaval site",
+     "source_url": "https://liesa.com.br/carnaval/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
     }
    ]
   },
@@ -68999,7 +69037,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/digitfyi",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.itsxsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/digit-events/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.itsxsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.itsxsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.itsxsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DIGITFYI",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.itsxsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mlds-2027",
@@ -74386,7 +74466,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/portfairyfolkfestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://portfairyfolkfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/portfairyfolkfestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://portfairyfolkfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@PortFairyFolkFestivalOfficial",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://portfairyfolkfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@portfairyfolkfestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://portfairyfolkfestival.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-rainbow-serpent-2027",
@@ -76459,7 +76569,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/THEPLAYERS",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.theplayers.com/media-resources",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/THEPLAYERS",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.theplayers.com/media-resources",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theplayers",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.theplayers.com/media-resources",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/the-players-championship",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.theplayers.com/media-resources",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-tempo-documentary-festival-2027",
@@ -81447,7 +81587,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/security-risk-management-australia",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-industrie-2027",
@@ -87228,7 +87410,7 @@ window.ATLASDATA={
    "event_id": "GCE-cieet-2027",
    "slug": "cieet-2027",
    "name": "China International Education Exhibition Tour 2027 (CIEET, Beijing)",
-   "website_url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxtz/2026092416025027388/index.html",
+   "website_url": "https://cieet.cscse.edu.cn/",
    "start_date": "2027-03-19",
    "end_date": "2027-03-20",
    "city": "Beijing",
@@ -87248,7 +87430,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxtz/2026092416025027388/index.html",
+   "source_url": "https://cieet.cscse.edu.cn/",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Seven-city spring tour from 19 to 29 March 2027; this record is the Beijing leg (with the China Study Abroad Forum on 19 March). Shanghai leg 28-29 March 2027. Dates are local to the host city (China Standard Time, UTC+8).",
    "lat": 39.9057136,
@@ -87264,8 +87446,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxtz/2026092416025027388/index.html",
+     "url": "https://cieet.cscse.edu.cn/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxtz/2026092416025027388/index.html",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -89368,7 +89555,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Adobe",
+     "operator": "Adobe",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://summit.adobe.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Adobe",
+     "operator": "Adobe",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://summit.adobe.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/adobe",
+     "operator": "Adobe",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://summit.adobe.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adobe",
+     "operator": "Adobe",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://summit.adobe.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AdobeSystems",
+     "operator": "Adobe",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://summit.adobe.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-idc-ai-leadership-summit-saudi-arabia-2027",
@@ -91588,7 +91817,17 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/semi",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconchina.org/en/1",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-sharjah-childrens-reading-festival-2027",
@@ -92070,7 +92309,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@iFXEXPOOfficialChannel",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ifxexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/iFXEXPO",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ifxexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/iFXEXPO",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ifxexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ifxexpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ifxexpo.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ifxexpoofficial",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ifxexpo.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-bifff-2027",
@@ -94251,13 +94527,47 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SEMIAmericas",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconwest.org/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/semi-americas",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconwest.org/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SEMIAmericas",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconwest.org/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/semi_americas",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconwest.org/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-upskill-fest-2027",
    "slug": "upskill-fest-2027",
    "name": "Upskill Fest 2027 (Tech in Asia)",
-   "website_url": "https://www.techinasia.com/events/live",
+   "website_url": "https://upskillfest.com/",
    "start_date": "2027-03-30",
    "end_date": "2027-03-30",
    "city": "Jakarta",
@@ -94277,7 +94587,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.techinasia.com/events/live",
+   "source_url": "https://upskillfest.com/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Indonesia dates (Jakarta/Yogyakarta WIB UTC+7; Bali WITA UTC+8).",
    "lat": -6.1754049,
@@ -94303,8 +94613,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.techinasia.com/events/live",
+     "url": "https://upskillfest.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.techinasia.com/events/live",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -94330,7 +94645,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techinasia",
+     "operator": "Tech in Asia",
+     "verified_via": "official UpSkillFest 2027 website",
+     "source_url": "https://upskillfest.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/techinasia",
+     "operator": "Tech in Asia",
+     "verified_via": "official UpSkillFest 2027 website",
+     "source_url": "https://upskillfest.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techinasia/",
+     "operator": "Tech in Asia",
+     "verified_via": "official UpSkillFest 2027 website",
+     "source_url": "https://upskillfest.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@TechinAsia",
+     "operator": "Tech in Asia",
+     "verified_via": "official UpSkillFest 2027 website",
+     "source_url": "https://upskillfest.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tech-in-asia",
+     "operator": "Tech in Asia",
+     "verified_via": "official UpSkillFest 2027 website",
+     "source_url": "https://upskillfest.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fft27-2027",
@@ -94799,7 +95156,7 @@ window.ATLASDATA={
    "event_id": "GCE-cloud-datacenter-convention-philippines-2027",
    "slug": "cloud-datacenter-convention-philippines-2027",
    "name": "Cloud & Datacenter Convention Philippines 2027",
-   "website_url": "https://clouddatacenter.events/event-region/southeast-asia-events/",
+   "website_url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
    "start_date": "2027-04-01",
    "end_date": "2027-04-01",
    "city": "Taguig",
@@ -94819,7 +95176,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://clouddatacenter.events/event-region/southeast-asia-events/",
+   "source_url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Philippine dates (PHT, UTC+8).",
    "lat": 14.5570876,
@@ -94836,8 +95193,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://clouddatacenter.events/event-region/southeast-asia-events/",
+     "url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://clouddatacenter.events/event-region/southeast-asia-events/",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -94858,7 +95220,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wmedia.tech",
+     "operator": "W Media",
+     "verified_via": "official Cloud Datacenter Convention Philippines 2027 event page",
+     "source_url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/w-media/",
+     "operator": "W Media",
+     "verified_via": "official Cloud Datacenter Convention Philippines 2027 event page",
+     "source_url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@w.mediastudios",
+     "operator": "W Media",
+     "verified_via": "official Cloud Datacenter Convention Philippines 2027 event page",
+     "source_url": "https://www.clouddatacenter.events/events/philippines-cloud-datacenter-convention-2027",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ncaa-womens-final-four-2027",
@@ -94975,7 +95363,7 @@ window.ATLASDATA={
    "event_id": "GCE-scot-secure-summit-2027",
    "slug": "scot-secure-summit-2027",
    "name": "Scot-Secure Summit 2027",
-   "website_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "website_url": "https://www.scot-secure.com/",
    "start_date": "2027-04-01",
    "end_date": "2027-04-01",
    "city": "Edinburgh",
@@ -94995,7 +95383,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "source_url": "https://www.scot-secure.com/",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": "Organiser describes it as Scotland's largest annual cybersecurity conference (13th edition).",
    "lat": 55.9461813,
@@ -95019,8 +95407,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "url": "https://www.scot-secure.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -95034,13 +95427,55 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Edinburgh International Conference Centre (EICC), 150, Morrison Street, The Exchange, Tollcross, City of Edinburgh, Alba / Scotland, EH3 8EE, United Kingdom (query: Edinburgh International Conference Centre, Morrison Street, Edinburgh).",
    "source_accessed_at": "2026-11-23T23:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "scot-secure-summit-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/digitfyi",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.scot-secure.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/digit-events/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.scot-secure.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.scot-secure.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.scot-secure.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DIGITFYI",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.scot-secure.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-international-horse-championsip-2027",
@@ -101800,7 +102235,44 @@ window.ATLASDATA={
    "price_eur_min": 75.0,
    "price_eur_max": 350.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tallinnmusicweek",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://tmw.ee/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tallinnmusicweek",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://tmw.ee/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tallinnmusicweek",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://tmw.ee/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/tallinnmusicweek",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://tmw.ee/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tallinn-music-week",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://tmw.ee/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-the-masters-2027",
@@ -104922,7 +105394,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hci-ksa",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/HCI_KSA",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hci_ksa",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCOvRcUO7ST4iOP_Kc6z3zSg",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HCIKSA2024",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@hci_ksa",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.humancapabilityinitiative.org/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-imf-world-bank-spring-meetings-2027",
@@ -107015,7 +107531,65 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AERAEdResearch",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AERA_EdResearch",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aera_edresearch",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/american-educational-research-association",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/aeranews",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@aera_edresearch",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/aeraedresearch.bsky.social",
+     "operator": "American Educational Research Association",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.aera.net/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-expo-korea-2027",
@@ -107519,7 +108093,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ethglobal",
+     "operator": "ETHGlobal",
+     "verified_via": "official ETHGlobal events page; X also platform verified business with official website in bio",
+     "source_url": "https://ethglobal.com/events",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ethglobal",
+     "operator": "ETHGlobal",
+     "verified_via": "official ETHGlobal events page; X also platform verified business with official website in bio",
+     "source_url": "https://ethglobal.com/events",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rubykaigi-2027",
@@ -114496,7 +115088,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BaliSpiritFestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.balispiritfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/balispiritfest",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.balispiritfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/balispiritfest",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.balispiritfestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/BaliSpiritBali",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.balispiritfestival.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-calgary-expo-2027",
@@ -117244,7 +117866,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TALLADEGA",
+     "operator": "Talladega Superspeedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.talladegasuperspeedway.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TALLADEGA",
+     "operator": "Talladega Superspeedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.talladegasuperspeedway.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/talladega",
+     "operator": "Talladega Superspeedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.talladegasuperspeedway.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-afrikaburn-2027",
@@ -117548,7 +118196,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Kuwait.International.Fair",
+     "operator": "Kuwait International Fair",
+     "verified_via": "official Kuwait International Fair Baytek event page",
+     "source_url": "https://www.kif.net/event-detail-pages/baytek_kif.html",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kifexpo/",
+     "operator": "Kuwait International Fair",
+     "verified_via": "official Kuwait International Fair Baytek event page",
+     "source_url": "https://www.kif.net/event-detail-pages/baytek_kif.html",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kifexpo",
+     "operator": "Kuwait International Fair",
+     "verified_via": "official Kuwait International Fair Baytek event page",
+     "source_url": "https://www.kif.net/event-detail-pages/baytek_kif.html",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-changenow-2027",
@@ -119770,7 +120444,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cheltfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/jazz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cheltenhamfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/jazz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cheltfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/jazz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/cheltenhamfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/jazz",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-dtx-manchester-2027",
@@ -120305,7 +121013,7 @@ window.ATLASDATA={
    "event_id": "GCE-fs-technology-summit-2027",
    "slug": "fs-technology-summit-2027",
    "name": "FS Technology Summit 2027",
-   "website_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "website_url": "https://www.fstechsummit.com/",
    "start_date": "2027-04-29",
    "end_date": "2027-04-29",
    "city": "Edinburgh",
@@ -120325,7 +121033,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "source_url": "https://www.fstechsummit.com/",
    "last_scraped_at": "2026-11-24T06:35:25+01:00",
    "notes": "Dates are local civil dates for the FS Technology Summit 2027 at EICC.",
    "lat": 55.9461813,
@@ -120341,8 +121049,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "url": "https://www.fstechsummit.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -120363,7 +121076,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/digitfyi",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.fstechsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/digit-events/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.fstechsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.fstechsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/digitfyi/",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.fstechsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DIGITFYI",
+     "operator": "DIGIT Events",
+     "verified_via": "official event website; DIGIT Events organiser accounts linked from that site",
+     "source_url": "https://www.fstechsummit.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festa-da-flor-madeira-2027",
@@ -123099,7 +123854,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/vivarockjp",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://vivalarock.jp/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vivalarock",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://vivalarock.jp/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@VIVALAROCK_official",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://vivalarock.jp/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-aibc-malta-2027",
@@ -124994,7 +125772,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/internazionalibnlditalia",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.internazionalibnlditalia.com/it/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/internazionalibnlditalia",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.internazionalibnlditalia.com/it/home",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-seatrade-maritime-2027",
@@ -125137,7 +125931,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/servicenow",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/servicenowinc",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/servicenow",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/servicenow",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/servicenow",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@servicenow",
+     "operator": "ServiceNow",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.servicenow.com/events/knowledge.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-stripe-sessions-2027",
@@ -126772,7 +127616,45 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/welcometorockville",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://welcometorockvillefestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/welcometorockville",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://welcometorockvillefestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/rockvillefest",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://welcometorockvillefestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@welcometorockville",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://welcometorockvillefestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DannyWimmerPresents",
+     "operator": "Danny Wimmer Presents",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://welcometorockvillefestival.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-brighton-fringe-2027",
@@ -128539,13 +129421,55 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/data-analytics-uk",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-gartner-it-infrastructure-operations-cloud-sydney-2027",
    "slug": "gartner-it-infrastructure-operations-cloud-sydney-2027",
    "name": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2027 (Sydney)",
-   "website_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+   "website_url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia",
    "start_date": "2027-05-10",
    "end_date": "2027-05-11",
    "city": "Sydney",
@@ -128565,7 +129489,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+   "source_url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": "Dates are local Australian dates (AEST/AEDT, ACST/ACDT or AWST depending on state).",
    "lat": -33.8698439,
@@ -128581,8 +129505,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "url": "https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-australia",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -128597,13 +129526,55 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Sydney, New South Wales, Australia (query: Sydney, New South Wales). Official page names the city/area only (or several venues); city/area-level pin.",
    "source_accessed_at": "2026-11-23T23:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "gartner-it-infrastructure-operations-cloud-sydney-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://emt.gartnerweb.com/ngw/eventassets/common/conference-calendar/2027-destination-conferences-calendar.pdf",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-belgrade-fair-of-technics-2027",
@@ -129092,7 +130063,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vmwareexplore",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.vmware.com/explore/us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vmwareexplore",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.vmware.com/explore/us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/vmware-explore",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.vmware.com/explore/us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/VMwareExplore",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.vmware.com/explore/us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/vmwareexplore",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.vmware.com/explore/us",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-viennaup-2027",
@@ -138631,7 +139639,7 @@ window.ATLASDATA={
    "event_id": "GCE-bitcoin-ireland-conference-2027",
    "slug": "bitcoin-ireland-conference-2027",
    "name": "Bitcoin Ireland Conference 2027",
-   "website_url": "https://www.eventbrite.ie/e/bitcoin-ireland-conference-2027-tickets-1995580067702",
+   "website_url": "https://bitcoinireland.eu/",
    "start_date": "2027-05-21",
    "end_date": "2027-05-23",
    "city": "Dublin",
@@ -138651,7 +139659,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.eventbrite.ie/e/bitcoin-ireland-conference-2027-tickets-1995580067702",
+   "source_url": "https://bitcoinireland.eu/",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": "Dates and venue from the organiser's own Eventbrite listing (Bitcoin Ireland Conference / Bitcoin Ireland Events collection).",
    "lat": 53.3096431,
@@ -138666,8 +139674,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.eventbrite.ie/e/bitcoin-ireland-conference-2027-tickets-1995580067702",
+     "url": "https://bitcoinireland.eu/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.eventbrite.ie/e/bitcoin-ireland-conference-2027-tickets-1995580067702",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -138681,13 +139694,29 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Green Isle Hotel, Naas Road, Clondalkin Village DED 1986, Dublin, South Dublin, County Dublin, Leinster, D22 F9F4, Éire / Ireland (query: Green Isle Hotel, Naas Road, Dublin).",
    "source_accessed_at": "2026-11-23T23:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "bitcoin-ireland-conference-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BitcoinIreland/",
+     "verified_via": "official Bitcoin Ireland Conference 2027 website footer",
+     "source_url": "https://bitcoinireland.eu/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bitcoinconfirl",
+     "verified_via": "official Bitcoin Ireland Conference 2027 website footer",
+     "source_url": "https://bitcoinireland.eu/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-canadian-grand-prix-2027",
@@ -139563,7 +140592,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/EmiratesFACup",
+     "verified_via": "platform verified business X account for the official Emirates FA Cup competition",
+     "source_url": "https://www.thefa.com/competitions/thefacup",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-greenroom-festival-2027",
@@ -142079,7 +143117,7 @@ window.ATLASDATA={
    "event_id": "GCE-itweb-security-summit-cape-town-2027",
    "slug": "itweb-security-summit-cape-town-2027",
    "name": "ITWeb Security Summit Cape Town 2027",
-   "website_url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+   "website_url": "https://www.itweb.co.za/event/itweb-security-summit-cpt-2027/",
    "start_date": "2027-05-25",
    "end_date": "2027-05-25",
    "city": "Cape Town",
@@ -142099,7 +143137,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+   "source_url": "https://www.itweb.co.za/event/itweb-security-summit-cpt-2027/",
    "last_scraped_at": "2026-11-24T02:40:00+01:00",
    "notes": "One-day Cape Town edition (conference and sponsor displays), ahead of the Johannesburg summit. South Africa dates are local (SAST, UTC+2, no daylight saving).",
    "lat": -33.895748,
@@ -142115,8 +143153,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+     "url": "https://www.itweb.co.za/event/itweb-security-summit-cpt-2027/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -142137,7 +143180,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ITWeb_Events",
+     "operator": "ITWeb",
+     "verified_via": "official ITWeb Security Summit 2027 Cape Town event page",
+     "source_url": "https://www.itweb.co.za/event/itweb-security-summit-cpt-2027/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/itweb/",
+     "operator": "ITWeb",
+     "verified_via": "official ITWeb Security Summit 2027 Cape Town event page",
+     "source_url": "https://www.itweb.co.za/event/itweb-security-summit-cpt-2027/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jnation-2027",
@@ -142595,7 +143656,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SEMI-SEA-1998652833526925",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconsea.org/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/semi_southeastasia",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconsea.org/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sea-semi",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semiconsea.org/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-seamless-middle-east-2027",
@@ -143855,7 +144942,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/dublintechsummit",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintechsummit.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dublin-tech-summit",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintechsummit.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dublintechsummit",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintechsummit.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dubtechsummit",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintechsummit.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnpjwZLx0LDKpxNusCmQgoA",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintechsummit.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-feira-do-livro-lisboa-2027",
@@ -147035,30 +148159,37 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/designfesta.tokyo",
-     "verified_via": "official_site_checked",
+     "verified_via": "linked from official site (browser pass)",
      "source_url": "https://designfesta.com/",
-     "accessed_at": "2026-11-24T14:56:06+01:00"
+     "accessed_at": "2026-11-24"
     },
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/designfesta",
-     "verified_via": "official_site_checked",
+     "verified_via": "linked from official site (browser pass)",
      "source_url": "https://designfesta.com/",
-     "accessed_at": "2026-11-24T14:56:06+01:00"
+     "accessed_at": "2026-11-24"
     },
     {
      "platform": "x",
      "url": "https://x.com/designfesta",
-     "verified_via": "official_site_checked",
+     "verified_via": "linked from official site (browser pass)",
      "source_url": "https://designfesta.com/",
-     "accessed_at": "2026-11-24T14:56:06+01:00"
+     "accessed_at": "2026-11-24"
     },
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/@designfesta",
-     "verified_via": "official_site_checked",
+     "verified_via": "linked from official site (browser pass)",
      "source_url": "https://designfesta.com/",
-     "accessed_at": "2026-11-24T14:56:06+01:00"
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@designfestagallery",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://designfesta.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -147886,7 +149017,7 @@ window.ATLASDATA={
    "event_id": "GCE-coca-cola-600-2027",
    "slug": "coca-cola-600-2027",
    "name": "Coca-Cola 600 2027",
-   "website_url": "",
+   "website_url": "https://www.charlottemotorspeedway.com/",
    "start_date": "2027-05-30",
    "end_date": "2027-05-30",
    "city": "Concord",
@@ -147906,7 +149037,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/",
+   "source_url": "https://www.charlottemotorspeedway.com/",
    "last_scraped_at": "2026-11-24T05:30:13+01:00",
    "notes": "Date is the official race day (America/New_York). Charlotte Motor Speedway is in Concord, North Carolina.",
    "lat": 35.351864,
@@ -147922,8 +149053,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/",
+     "url": "https://www.charlottemotorspeedway.com/",
      "field": "official"
+    },
+    {
+     "label": "Season calendar (NASCAR 2027 Cup schedule)",
+     "url": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/",
+     "field": "Season calendar (NASCAR 2027 Cup schedule)"
     },
     {
      "label": "Season calendar",
@@ -147949,7 +149085,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CharlotteMotorSpeedway",
+     "operator": "Charlotte Motor Speedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.charlottemotorspeedway.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CLTMotorSpdwy",
+     "operator": "Charlotte Motor Speedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.charlottemotorspeedway.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/charlottemotorspeedway",
+     "operator": "Charlotte Motor Speedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.charlottemotorspeedway.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CLTMotorSpdwy",
+     "operator": "Charlotte Motor Speedway",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.charlottemotorspeedway.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-krakow-film-festival-2027",
@@ -149271,7 +150441,7 @@ window.ATLASDATA={
    "event_id": "GCE-itweb-security-summit-johannesburg-2027",
    "slug": "itweb-security-summit-johannesburg-2027",
    "name": "ITWeb Security Summit Johannesburg 2027",
-   "website_url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+   "website_url": "https://www.itweb.co.za/event/itweb-security-summit-2027/",
    "start_date": "2027-06-01",
    "end_date": "2027-06-02",
    "city": "Johannesburg",
@@ -149291,7 +150461,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+   "source_url": "https://www.itweb.co.za/event/itweb-security-summit-2027/",
    "last_scraped_at": "2026-11-24T02:40:00+01:00",
    "notes": "Conference and exhibition 1–2 June 2027; workshops scheduled for 3 June 2027 (same venue, per ITWeb article). A Cape Town edition is listed separately. South Africa dates are local (SAST, UTC+2, no daylight saving).",
    "lat": -26.106058,
@@ -149308,8 +150478,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+     "url": "https://www.itweb.co.za/event/itweb-security-summit-2027/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.itweb.co.za/office/itwebsecuritysummit/about",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -149335,7 +150510,25 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ITWeb_Events",
+     "operator": "ITWeb",
+     "verified_via": "official ITWeb Security Summit 2027 event page",
+     "source_url": "https://www.itweb.co.za/event/itweb-security-summit-2027/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/itweb/",
+     "operator": "ITWeb",
+     "verified_via": "official ITWeb Security Summit 2027 event page",
+     "source_url": "https://www.itweb.co.za/event/itweb-security-summit-2027/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-index-exhibition-2027",
@@ -150277,7 +151470,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ilta-edtech-2027",
@@ -152303,7 +153538,7 @@ window.ATLASDATA={
    "event_id": "GCE-us-womens-open-golf-2027",
    "slug": "us-womens-open-golf-2027",
    "name": "U.S. Women's Open 2027",
-   "website_url": "https://www.usga.org/championships/us-womens-open.html",
+   "website_url": "https://www.uswomensopen.com/",
    "start_date": "2027-06-03",
    "end_date": "2027-06-06",
    "city": "Toledo",
@@ -152323,7 +153558,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.lpga.com/tournaments/u-s-womens-open",
+   "source_url": "https://www.uswomensopen.com/",
    "last_scraped_at": "2026-11-24T06:38:07+01:00",
    "notes": "Championship-round dates are local civil dates 3-6 June 2027 at Inverness Club, Toledo, Ohio, as published on the official USGA/LPGA championship listings reviewed 24 Nov 2026.",
    "lat": 41.6465866,
@@ -152339,13 +153574,18 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.lpga.com/tournaments/u-s-womens-open",
+     "url": "https://www.uswomensopen.com/",
      "field": "official"
     },
     {
      "label": "Official",
-     "url": "https://www.usga.org/championships/us-womens-open.html",
+     "url": "https://www.lpga.com/tournaments/u-s-womens-open",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.usga.org/championships/us-womens-open.html",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -152366,7 +153606,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/uswomensopen",
+     "verified_via": "platform verified business X account with official website uswomensopen.com in bio; official 2027 championship site confirmed",
+     "source_url": "https://www.uswomensopen.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wrc-japan-2027",
@@ -154864,7 +156113,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/data-analytics-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/data-analytics-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/data-analytics-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/data-analytics-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/data-analytics-australia",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-hsbc-championships-london-2027",
@@ -155527,7 +156818,7 @@ window.ATLASDATA={
    "event_id": "GCE-snowflake-summit-2027",
    "slug": "snowflake-summit-2027",
    "name": "Snowflake Summit 2027",
-   "website_url": "https://www.snowflake.com/en/summit/",
+   "website_url": "https://www.snowflake.com/en/events/summit/",
    "start_date": "2027-06-07",
    "end_date": "2027-06-10",
    "city": "San Francisco",
@@ -155547,7 +156838,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.snowflake.com/en/summit/",
+   "source_url": "https://www.snowflake.com/en/events/summit/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
    "notes": "US dates are local to the host city.",
    "lat": 37.7847119,
@@ -155572,8 +156863,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.snowflake.com/en/summit/",
+     "url": "https://www.snowflake.com/en/events/summit/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.snowflake.com/en/summit/",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -155588,7 +156884,7 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Moscone Center, 3rd Street, South of Market, Financial District, San Francisco, California, 94105, United States (query: Moscone Center, San Francisco).",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "snowflake-summit-2027",
    "also_categories": [],
    "price_eur_min": null,
@@ -156791,7 +158087,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/praguequadrennial",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://pq.cz/pq2027/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pquadrennial",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://pq.cz/pq2027/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PragueQuadrennial",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://pq.cz/pq2027/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-smart-cities-saudi-expo-2027",
@@ -157675,7 +158994,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/afronation",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.afronation.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@afronation_",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.afronation.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/afronationfestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.afronation.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AfroNation",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.afronation.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AfroNation",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.afronation.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-belgrade-tango-encuentro-2027",
@@ -162750,7 +164106,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-international-appliance-and-electronic-show-2027",
@@ -168318,7 +169716,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hewlett-packard-enterprise",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/hpe",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hpe",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@hpe",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HewlettPackardEnterprise",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@hpe",
+     "operator": "Hewlett Packard Enterprise",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.hpe.com/us/en/discover/lasvegas.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-lexus-eastbourne-open-2027",
@@ -181295,13 +182743,47 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/federationhss",
+     "operator": "Federation for the Humanities and Social Sciences",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.federationhss.ca/en/congress/congress-2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/federationhss",
+     "operator": "Federation for the Humanities and Social Sciences",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.federationhss.ca/en/congress/congress-2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCirwy--DhRDqgLIujCUY4VA",
+     "operator": "Federation for the Humanities and Social Sciences",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.federationhss.ca/en/congress/congress-2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/federation_hss",
+     "operator": "Federation for the Humanities and Social Sciences",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.federationhss.ca/en/congress/congress-2027",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-genesis-scottish-open-2027",
    "slug": "genesis-scottish-open-2027",
    "name": "Genesis Scottish Open 2027",
-   "website_url": "",
+   "website_url": "https://www.europeantour.com/dpworld-tour/genesis-scottish-open-2027/",
    "start_date": "2027-07-05",
    "end_date": "2027-07-11",
    "city": "North Berwick",
@@ -181321,7 +182803,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.pgatour.com/article/news/latest/2026/08/the-pga-tour-announces-2027-schedule-through-tour-championship",
+   "source_url": "https://www.europeantour.com/dpworld-tour/genesis-scottish-open-2027/",
    "last_scraped_at": "2026-11-24T06:38:07+01:00",
    "notes": "Dates are the official PGA Tour 2027 published week of 5-11 July 2027 at The Renaissance Club, North Berwick, Scotland. Championship rounds are traditionally Thursday-Sunday within that week.",
    "lat": 56.0546412,
@@ -181370,8 +182852,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.pgatour.com/article/news/latest/2026/08/the-pga-tour-announces-2027-schedule-through-tour-championship",
+     "url": "https://www.europeantour.com/dpworld-tour/genesis-scottish-open-2027/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.pgatour.com/article/news/latest/2026/08/the-pga-tour-announces-2027-schedule-through-tour-championship",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -197925,7 +199412,7 @@ window.ATLASDATA={
    "event_id": "GCE-mubadala-citi-dc-open-2027",
    "slug": "mubadala-citi-dc-open-2027",
    "name": "Mubadala Citi DC Open 2027",
-   "website_url": "https://www.mubadalacitiopen.com/",
+   "website_url": "https://www.mubadaladcopen.com/en/",
    "start_date": "2027-07-26",
    "end_date": "2027-08-01",
    "city": "Washington",
@@ -197945,7 +199432,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.mubadalacitiopen.com/",
+   "source_url": "https://www.mubadaladcopen.com/en/",
    "last_scraped_at": "2026-11-24T06:09:18+01:00",
    "notes": "Dates are local civil dates for the combined ATP 500 and WTA 500 Mubadala Citi / Mubadala DC Open in Washington, 26 July-1 August 2027, matching both official calendars.",
    "lat": 38.9542208,
@@ -197993,13 +199480,18 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf",
+     "url": "https://www.mubadaladcopen.com/en/",
      "field": "official"
     },
     {
      "label": "Official",
-     "url": "https://www.mubadalacitiopen.com/",
+     "url": "https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.mubadalacitiopen.com/",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -198025,7 +199517,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MubadalaDCOpen",
+     "verified_via": "official Mubadala DC Open website; X also platform verified with official website in bio",
+     "source_url": "https://www.mubadaladcopen.com/en/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mubadaladcopen",
+     "verified_via": "official Mubadala DC Open website; X also platform verified with official website in bio",
+     "source_url": "https://www.mubadaladcopen.com/en/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@mubadaladcopen",
+     "verified_via": "official Mubadala DC Open website; X also platform verified with official website in bio",
+     "source_url": "https://www.mubadaladcopen.com/en/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/mubadaladcopen",
+     "verified_via": "official Mubadala DC Open website; X also platform verified with official website in bio",
+     "source_url": "https://www.mubadaladcopen.com/en/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chinajoy-2027",
@@ -212122,7 +213644,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SEMITaiwan",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semicontaiwan.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/semi-taiwan",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semicontaiwan.org/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC6ljpEUP8U7RrrEJxlsNd5A",
+     "operator": "SEMI",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.semicontaiwan.org/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-summer-breeze-2027",
@@ -217672,7 +219220,7 @@ window.ATLASDATA={
    "event_id": "GCE-gympie-music-muster-2027",
    "slug": "gympie-music-muster-2027",
    "name": "Gympie Music Muster 2027",
-   "website_url": "https://www.muster.com.au/",
+   "website_url": "https://muster.com.au/",
    "start_date": "2027-08-26",
    "end_date": "2027-08-29",
    "city": "Gympie",
@@ -217692,7 +219240,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.muster.com.au/",
+   "source_url": "https://muster.com.au/",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": "Dates are local Australian dates (AEST/AEDT, ACST/ACDT or AWST depending on state).",
    "lat": -26.3761205,
@@ -217732,8 +219280,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.muster.com.au/",
+     "url": "https://muster.com.au/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.muster.com.au/",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -217748,13 +219301,43 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Amamoor Creek, Queensland, Australia (query: Amamoor Creek, Queensland). Official page names the city/area only (or several venues); city/area-level pin.",
    "source_accessed_at": "2026-11-23T23:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "gympie-music-muster-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/gympiemusicmuster",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://muster.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gympiemusicmuster",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://muster.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/MusterAUGympie",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://muster.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gympiemusicmuster",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://muster.com.au/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-idc-it-security-summit-mexico-2027",
@@ -219194,7 +220777,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/enescu.festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Enescu_Festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/enescu_festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/enescufestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@enescu_festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/george-enescu-festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://festivalenescu.ro/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-motogp-austria-2027",
@@ -223563,7 +225190,7 @@ window.ATLASDATA={
    "event_id": "GCE-itm-industry-europe-2027",
    "slug": "itm-industry-europe-2027",
    "name": "ITM Industry Europe 2027",
-   "website_url": "https://itm-europe.pl/en/about-event/itm-industry-europe/",
+   "website_url": "https://itm-europe.pl/en/",
    "start_date": "2027-09-07",
    "end_date": "2027-09-09",
    "city": "Poznań",
@@ -223583,7 +225210,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://itm-europe.pl/en/about-event/itm-industry-europe/",
+   "source_url": "https://itm-europe.pl/en/",
    "last_scraped_at": "2026-11-24T09:06:00+01:00",
    "notes": "Dates are local to the host city. Co-located exhibitions folded: AUTOMA, MACH-TOOL, SURFEX, WELDING, FOCAST, plus DREMA and Subcontracting (same dates, official visitor page). Professionals admitted free.",
    "lat": 52.4032147,
@@ -223601,8 +225228,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://itm-europe.pl/en/about-event/itm-industry-europe/",
+     "url": "https://itm-europe.pl/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://itm-europe.pl/en/about-event/itm-industry-europe/",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -225290,7 +226922,48 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/solana",
+     "operator": "Solana",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://solana.com/breakpoint",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SolanaFndn",
+     "operator": "Solana Foundation",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://solana.com/breakpoint",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "discord",
+     "url": "https://solana.com/discord",
+     "operator": "Solana",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://solana.com/breakpoint",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/solana-foundation",
+     "operator": "Solana Foundation",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://solana.com/breakpoint",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "luma",
+     "url": "https://luma.com/solana-breakpoint-2027",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://solana.com/breakpoint",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-superai-singapore-2027",
@@ -227909,7 +229582,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/apac/symposium-australia",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ryder-cup-2027",
@@ -232952,7 +234667,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/emea/security-risk-management-uk",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-gartner-it-symposium-xpo-brazil-2027",
@@ -233017,7 +234774,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/symposium-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/symposium-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/symposium-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/symposium-brazil",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/pt-br/conferences/la/symposium-brazil",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-grand-pavois-la-rochelle-2027",
@@ -236382,7 +238181,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nederlandsfilmfestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.filmfestival.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/nederlands-film-festival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.filmfestival.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@filmfestivalnl",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.filmfestival.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/nff",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.filmfestival.nl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-techne-summit-cairo-2027",
@@ -238678,7 +240507,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dublintheatrefestival_",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintheatrefestival.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DublinTheatreFestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://dublintheatrefestival.ie/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-filmfest-hamburg-2027",
@@ -243396,7 +245241,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mogafestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mogafestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCufCgw_C2SwrK6wSLBm3A8A",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@mogafestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MogaFestival",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.com/invite/mHzd9KU36K",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://essaouira.mogafestival.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-petit-le-mans-2027",
@@ -245293,7 +247182,7 @@ window.ATLASDATA={
    "event_id": "GCE-cheltenham-literature-festival-2027",
    "slug": "cheltenham-literature-festival-2027",
    "name": "Cheltenham Literature Festival 2027",
-   "website_url": "https://www.cheltenhamfestivals.com/literature",
+   "website_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
    "start_date": "2027-10-08",
    "end_date": "2027-10-17",
    "city": "Cheltenham",
@@ -245313,7 +247202,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.cheltenhamfestivals.com/literature",
+   "source_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": "Official page: save the date 8-17 October 2027. Multi-venue; city-level pin.",
    "lat": 51.8995685,
@@ -245328,8 +247217,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.cheltenhamfestivals.com/literature",
+     "url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.cheltenhamfestivals.com/literature",
+     "field": "Previous listing"
     }
    ],
    "status": "upcoming",
@@ -245343,13 +247237,47 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Cheltenham, Gloucestershire, England, GL52 2RX, United Kingdom (query: Cheltenham, United Kingdom). City/area-level pin: the official page does not name a single geocodable venue.",
    "source_accessed_at": "2026-11-23T23:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "cheltenham-literature-festival-2027",
    "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cheltfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cheltenhamfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cheltfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/cheltenhamfestivals",
+     "operator": "Cheltenham Festivals",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.cheltenhamfestivals.org/festivals/literature-festival",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-singapore-grand-prix-2027",
@@ -248924,7 +250852,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/educause",
+     "operator": "EDUCAUSE",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://events.educause.edu/annual-conference/2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EDUCAUSE",
+     "operator": "EDUCAUSE",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://events.educause.edu/annual-conference/2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/educause",
+     "operator": "EDUCAUSE",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://events.educause.edu/annual-conference/2027",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/educause",
+     "operator": "EDUCAUSE",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://events.educause.edu/annual-conference/2027",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-gartner-it-symposium-xpo-2027",
@@ -249021,7 +250983,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Gartnervideo",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gartner",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GartnerInc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gartner_inc",
+     "operator": "Gartner",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ningbo-open-2027",
@@ -249268,7 +251272,39 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/OracleAIWorld",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.oracle.com/ai-world/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OracleAIworld",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.oracle.com/ai-world/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Oracle",
+     "operator": "Oracle",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.oracle.com/ai-world/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/oracle",
+     "operator": "Oracle",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.oracle.com/ai-world/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-big-data-expo-europe-2027",
@@ -249332,7 +251368,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/techex-events",
+     "operator": "TechEx Events",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ai-expo.net/europe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techexevent",
+     "operator": "TechEx Events",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ai-expo.net/europe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techexevents",
+     "operator": "TechEx Events",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.ai-expo.net/europe/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-beautyworld-dubai-2027",
@@ -250021,7 +252083,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/wetexdubai",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.wetex.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WETEXDubai",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.wetex.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wetexdubai",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.wetex.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/wetexdubai",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.wetex.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/wetexdubai",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.wetex.ae/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-bergen-international-film-festival-2027",
@@ -251885,7 +253984,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hostmilano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://host.fieramilano.it/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/host.fiera.milano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://host.fieramilano.it/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/HostMilano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://host.fieramilano.it/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/5347069",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://host.fieramilano.it/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/HostMilano",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://host.fieramilano.it/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-ji-hlava-2027",
@@ -252733,7 +254869,7 @@ window.ATLASDATA={
    "event_id": "GCE-erste-bank-open-vienna-2027",
    "slug": "erste-bank-open-vienna-2027",
    "name": "Erste Bank Open 2027",
-   "website_url": "",
+   "website_url": "https://www.erstebank-open.com/",
    "start_date": "2027-10-25",
    "end_date": "2027-10-31",
    "city": "Vienna",
@@ -252753,7 +254889,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "",
+   "source_url": "https://www.erstebank-open.com/",
    "last_scraped_at": "2026-11-24T06:09:18+01:00",
    "notes": "Dates are local civil dates for this official ATP 500 week, taken from the official 2027 ATP Tour calendar (and its start/final-day footnotes) fetched 24 Nov 2026.",
    "lat": 48.2019371,
@@ -252801,6 +254937,11 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
+     "url": "https://www.erstebank-open.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
      "url": "https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf",
      "field": "official"
     }
@@ -252823,7 +254964,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ErsteBankOpen",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.erstebank-open.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/erstebankopen",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.erstebank-open.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@erstebankopen",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.erstebank-open.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ErsteBankOpen2026",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.erstebank-open.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-euroshop-middle-east-2027",
@@ -254070,7 +256241,7 @@ window.ATLASDATA={
    "event_id": "GCE-sector-2027",
    "slug": "sector-2027",
    "name": "SecTor 2027",
-   "website_url": "https://www.blackhat.com/sector/2027/",
+   "website_url": "https://www.blackhat.com/upcoming.html",
    "start_date": "2027-10-26",
    "end_date": "2027-10-28",
    "city": "Toronto",
@@ -254090,7 +256261,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.blackhat.com/sector/2027/",
+   "source_url": "https://www.blackhat.com/upcoming.html",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
    "notes": "Canadian dates are local to the host city.",
    "lat": 43.6438376,
@@ -254106,13 +256277,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.blackhat.com/sector/2027/",
+     "url": "https://www.blackhat.com/upcoming.html",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://www.blackhat.com/upcoming.html",
-     "field": "official"
+     "label": "Previous listing (dedicated 2027 path now 404)",
+     "url": "https://www.blackhat.com/sector/2027/",
+     "field": "Previous listing (dedicated 2027 path now 404)"
     }
    ],
    "status": "upcoming",
@@ -254125,9 +256296,9 @@ window.ATLASDATA={
    "attendance_source_url": null,
    "price_checked_at": null,
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23/24: Metro Toronto Convention Centre - North Building, Lower Simcoe Street, Harbourfront-CityPlace, Downtown, Spadina—Fort York, Toronto, Ontario, M5V 2X3, Canada (query: Metro Toronto Convention Centre).",
-   "source_accessed_at": "2026-11-23T23:59:00+01:00",
+   "source_accessed_at": "2026-11-24T16:30:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
+   "last_verified_at": "2026-11-24",
    "id": "sector-2027",
    "also_categories": [],
    "price_eur_min": null,
@@ -254389,7 +256560,41 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/datacenterdynamics",
+     "operator": "Datacenter Dynamics",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.datacenterdynamics.com/en/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DCDNEWS",
+     "operator": "Datacenter Dynamics",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.datacenterdynamics.com/en/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DatacentreDynamics",
+     "operator": "Datacenter Dynamics",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.datacenterdynamics.com/en/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Datacenterdynamicsltd",
+     "operator": "Datacenter Dynamics",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.datacenterdynamics.com/en/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-fort-lauderdale-international-boat-show-2027",
@@ -255196,7 +257401,32 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jazzfestberlin",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.berlinerfestspiele.de/en/jazzfest-berlin",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/berlinerfestspiele",
+     "operator": "Berliner Festspiele",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.berlinerfestspiele.de/en/jazzfest-berlin",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/BerlinerFestspiele",
+     "operator": "Berliner Festspiele",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.berlinerfestspiele.de/en/jazzfest-berlin",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-lucca-comics-and-games-2027",
@@ -259884,7 +262114,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/digital-transformation-kuwait",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://digitaltransformationkuwait.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-brazen-bristol-2027",
@@ -259972,7 +262211,33 @@ window.ATLASDATA={
    "price_eur_min": 229.68,
    "price_eur_max": 229.68,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/techspark-uk",
+     "operator": "TechSPARK",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://techspark.co/brazen/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TechSPARKuk",
+     "operator": "TechSPARK",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://techspark.co/brazen/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techsparkuk",
+     "operator": "TechSPARK",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://techspark.co/brazen/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-cbie-2027",
@@ -264436,7 +266701,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MADEexpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.madeexpo.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/madeexpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.madeexpo.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/made-expo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.madeexpo.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MADEexpo",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.madeexpo.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC817GfWuXtnLP7uhXWcrEbg",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.madeexpo.it/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-abu-dhabi-international-boat-show-2027",
@@ -265392,7 +267694,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/qatarboatshowofficial",
+     "verified_via": "official Qatar Boat Show website",
+     "source_url": "https://boatshowqatar.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/boatshow_qatar",
+     "verified_via": "official Qatar Boat Show website",
+     "source_url": "https://boatshowqatar.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/qatarboatshowofficial",
+     "verified_via": "official Qatar Boat Show website",
+     "source_url": "https://boatshowqatar.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qatarboatshowofficial",
+     "verified_via": "official Qatar Boat Show website",
+     "source_url": "https://boatshowqatar.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@qatarboatshow",
+     "verified_via": "official Qatar Boat Show website",
+     "source_url": "https://boatshowqatar.com/",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-swissdidac-bern-2027",
@@ -265542,7 +267881,7 @@ window.ATLASDATA={
    "event_id": "GCE-boot-fun-berlin-2027",
    "slug": "boot-fun-berlin-2027",
    "name": "BOOT & FUN Berlin at OutVenture 2027",
-   "website_url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/messen",
+   "website_url": "https://www.boot-berlin.de/",
    "start_date": "2027-11-25",
    "end_date": "2027-11-28",
    "city": "Berlin",
@@ -265562,7 +267901,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/messen",
+   "source_url": "https://www.boot-berlin.de/",
    "last_scraped_at": "2026-11-24T06:33:17+01:00",
    "notes": "The 2027 edition of Berlin's boat and watersports world inside OutVenture, following the still-upcoming 26-29 November 2026 edition.",
    "lat": 52.5008528,
@@ -265578,8 +267917,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/messen",
+     "url": "https://www.boot-berlin.de/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/messen",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -265605,7 +267949,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BOOTUNDFUN",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.boot-berlin.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCA7P-p963UCzweUWoGsILjQ",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.boot-berlin.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/boot-fun-berlin",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.boot-berlin.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bootundfunberlin",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.boot-berlin.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-motogp-valencia-2027",
@@ -267606,7 +269980,7 @@ window.ATLASDATA={
    "year": 2028,
    "source_url": "https://www.rockenseine.com/",
    "last_scraped_at": "2026-11-24T02:30:00+01:00",
-   "notes": "Official 2027 calendar dates were not clearly published on the official pages fetched on 23 Nov 2026. Included as the next edition with status dates TBA; dates left blank (never guessed). Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
+   "notes": "Official homepage announces a pause in 2027 because of works around the Domaine National de Saint-Cloud, and gives the next edition as 23–27 August 2028. The published slug rock-en-seine-2027 is reused so the records merge; the name, year and dates follow the official 2028 edition and were not renamed. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 48.8334914,
    "lng": 2.184968,
    "precise": true,
@@ -267643,7 +270017,7 @@ window.ATLASDATA={
    "attendance_source_url": null,
    "price_checked_at": null,
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Domaine national de Saint-Cloud, 1, Avenue de la Grille d'Honneur, Les Bureaux de la Colline, Saint-Cloud, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92210, France (query: Domaine National de Saint-Cloud, Saint-Cloud, France).",
-   "source_accessed_at": "2026-11-24T02:30:00+01:00",
+   "source_accessed_at": "2026-11-24T16:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-24",
    "id": "rock-en-seine-2027",
@@ -267651,7 +270025,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/rockenseine",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.rockenseine.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/rockenseine",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.rockenseine.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@rockenseine",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.rockenseine.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rockenseine",
+     "verified_via": "linked from official site (browser pass)",
+     "source_url": "https://www.rockenseine.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "event_id": "GCE-shanghai-biennale-2027",
@@ -273578,6 +275982,7 @@ window.ATLASDATA={
     {
      "platform": "x",
      "url": "https://x.com/awscloud",
+     "operator": "Amazon Web Services",
      "verified_via": "official_site_checked",
      "source_url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -273585,6 +275990,7 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/amazonwebservices",
+     "operator": "Amazon Web Services",
      "verified_via": "official_site_checked",
      "source_url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -273592,6 +275998,7 @@ window.ATLASDATA={
     {
      "platform": "linkedin",
      "url": "https://www.linkedin.com/company/amazon-web-services",
+     "operator": "Amazon Web Services",
      "verified_via": "official_site_checked",
      "source_url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -273599,6 +276006,7 @@ window.ATLASDATA={
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/amazonwebservices",
+     "operator": "Amazon Web Services",
      "verified_via": "official_site_checked",
      "source_url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -273606,6 +276014,7 @@ window.ATLASDATA={
     {
      "platform": "youtube",
      "url": "https://www.youtube.com/user/AmazonWebServices",
+     "operator": "Amazon Web Services",
      "verified_via": "official_site_checked",
      "source_url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
      "accessed_at": "2026-11-24T14:13:37+01:00"
@@ -275335,7 +277744,7 @@ window.ATLASDATA={
    "event_id": "GCE-aswan-international-women-film-festival-2027",
    "slug": "aswan-international-women-film-festival-2027",
    "name": "Aswan International Women Film Festival 2027",
-   "website_url": "https://www.aiwff.org/en/",
+   "website_url": "https://www.aiwff.org/",
    "start_date": null,
    "end_date": null,
    "city": "Aswan",
@@ -275355,7 +277764,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.aiwff.org/en/",
+   "source_url": "https://www.aiwff.org/",
    "last_scraped_at": "2026-11-24T03:19:00+01:00",
    "notes": "Official aiwff.org (fetched 24 Nov 2026) still presents the 10th edition, 20–25 April 2026, which is past. About-us copy is older (2022). Third-party and FilmFreeway listings of 16–21 April 2027 were not used. Record is dates TBA. Egypt dates are local (Africa/Cairo).",
    "lat": 24.091071,
@@ -275371,8 +277780,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.aiwff.org/en/",
+     "url": "https://www.aiwff.org/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing",
+     "url": "https://www.aiwff.org/en/",
+     "field": "Previous listing"
     },
     {
      "label": "Official",
@@ -354672,7 +357086,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/europaparkEN/",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/europapark",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/europa_park",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/EuropaParkChannel",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@europapark",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/europa-park-rust-germany-",
+     "verified_via": "official Europa-Park social media channels page; X also listed as twitter:site on the official homepage with official website in bio",
+     "source_url": "https://www.europapark.de/en/social-media-channels",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
+    }
+   ]
   },
   {
    "slug": "halle02-heidelberg",
@@ -368125,6 +370583,15 @@ window.ATLASDATA={
      "page": "https://commons.wikimedia.org/wiki/File:Pacifico_Yokohama_North_06.jpg",
      "credit": "Photo: NEO-NEED / Wikimedia Commons / CC BY-SA 4.0",
      "caption": "PACIFICO Yokohama North, Yokohama, Japan, in 2020."
+    }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/PACIFICO_PR_",
+     "verified_via": "platform verified X account with official website pacifico.co.jp in bio",
+     "source_url": "https://www.pacifico.co.jp/",
+     "accessed_at": "2026-11-24T15:41:00+01:00"
     }
    ]
   },
@@ -382568,7 +385035,16 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/reccksa",
+     "verified_via": "platform verified, no official site",
+     "source_url": "https://x.com/reccksa",
+     "accessed_at": "2026-11-24T15:48:00+01:00"
+    }
+   ]
   },
   {
    "slug": "riyadh-international-convention-and-exhibition-center",
