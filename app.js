@@ -496,25 +496,53 @@ function hotelDistance(h, slug){
   const n = Number(d);
   return isFinite(n) ? n : null;
 }
-function fmtHotelPrice(h){
-  const pr = h && h.price || {};
-  if(pr.amount==null || pr.amount==='') return '';
+function hotelQuoteForEvent(h, slug){
+  const pr = h && h.price;
+  if(!pr || !slug || pr.event_slug!==slug) return null;
+  if(pr.amount==null || pr.amount==='') return null;
   const n = Number(pr.amount);
-  if(!isFinite(n)) return '';
-  const num = n===Math.floor(n) ? n.toLocaleString('en-GB') : n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
-  const cur = pr.currency||'';
-  if(cur==='EUR') return '€'+num;
-  if(cur==='USD') return '$'+num;
-  if(cur==='GBP') return '£'+num;
-  return (num+' '+cur).trim();
+  if(!isFinite(n)) return null;
+  return pr;
 }
-function hotelPriceLabel(h){
-  const price = fmtHotelPrice(h);
-  if(price){
-    const asof = h.price && h.price.as_of;
-    return price+(asof ? ' (as of '+asof+')' : '');
+function fmtQuoteDates(checkIn, checkOut){
+  const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const parts = (iso) => {
+    if(!iso) return null;
+    const m = String(iso).split('-');
+    if(m.length<3) return null;
+    const y=+m[0], mo=+m[1], d=+m[2];
+    if(!y || !mo) return null;
+    return {y, mo, d, label: d+' '+months[mo-1]+' '+y};
+  };
+  const a = parts(checkIn), b = parts(checkOut);
+  if(!a) return '';
+  if(!b || (a.y===b.y && a.mo===b.mo && a.d===b.d)) return a.label;
+  if(a.y===b.y && a.mo===b.mo) return a.d+'–'+b.d+' '+months[a.mo-1]+' '+a.y;
+  if(a.y===b.y) return a.d+' '+months[a.mo-1]+' – '+b.d+' '+months[b.mo-1]+' '+a.y;
+  return a.label+' – '+b.label;
+}
+function fmtHotelPrice(h, slug){
+  const pr = hotelQuoteForEvent(h, slug);
+  if(!pr) return '';
+  const n = Number(pr.amount);
+  const num = n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
+  const cur = pr.currency||'USD';
+  return cur+' '+num;
+}
+function hotelPriceLabel(h, slug){
+  const pr = hotelQuoteForEvent(h, slug);
+  if(!pr) return 'Price on request';
+  const n = Number(pr.amount);
+  const num = n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
+  const cur = pr.currency||'USD';
+  const parts = ['from '+cur+' '+num+'/night'];
+  const dates = fmtQuoteDates(pr.check_in, pr.check_out);
+  if(dates) parts.push(dates);
+  if(pr.as_of){
+    const asof = fmtQuoteDates(pr.as_of, pr.as_of);
+    if(asof) parts.push('as of '+asof);
   }
-  return 'Price on request';
+  return parts.join(' · ');
 }
 function hotelDistLabel(h, slug){
   const d = hotelDistance(h, slug);
@@ -531,9 +559,9 @@ function hotelIsPartner(h, slug){
   }
   return !!p;
 }
-function hotelIcon(h){
+function hotelIcon(h, slug){
   const stars = h.stars===5 ? 5 : 4;
-  const price = fmtHotelPrice(h);
+  const price = fmtHotelPrice(h, slug);
   const w = Math.max(36, price ? 8+price.length*6.2 : 36);
   const ht = price ? 40 : 26;
   return L.divIcon({
@@ -546,7 +574,7 @@ function hotelIcon(h){
 function hotelPopup(h, slug){
   const stars = h.stars===5 ? 5 : 4;
   const distLab = hotelDistLabel(h, slug);
-  const priceLab = hotelPriceLabel(h);
+  const priceLab = hotelPriceLabel(h, slug);
   const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
   return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
@@ -581,9 +609,9 @@ function syncHotelLayer(){
   hotelsForSlug(slug, true).forEach(h => {
     const lat = h.lat, lon = (h.lon!=null?h.lon:h.lng);
     if(lat==null || lon==null) return;
-    const mk = L.marker([lat, lon], {icon:hotelIcon(h), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
+    const mk = L.marker([lat, lon], {icon:hotelIcon(h, slug), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
     mk.bindPopup(hotelPopup(h, slug), {className:'ppop', maxWidth:280});
-    const tip = [h.name, (h.stars===5?'5★':'4★'), fmtHotelPrice(h)].filter(Boolean).join(' · ');
+    const tip = [h.name, (h.stars===5?'5★':'4★'), hotelPriceLabel(h, slug)].filter(Boolean).join(' · ');
     mk.bindTooltip(tip, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-12]});
     hotelLayer.addLayer(mk);
   });
@@ -596,7 +624,7 @@ function hotelsSectionHtml(e){
   const items = list.map(h => {
     const stars = h.stars===5 ? 5 : 4;
     const distLab = hotelDistLabel(h, slug);
-    const priceLab = hotelPriceLabel(h);
+    const priceLab = hotelPriceLabel(h, slug);
     const partner = hotelIsPartner(h, slug) ? 'Official partner' : '';
     const name = h.url ? `<a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name||'Hotel')}</a>` : esc(h.name||'Hotel');
     const meta = [h.address, distLab, priceLab, partner].filter(Boolean).join(' · ');
@@ -798,7 +826,8 @@ function venuesSectionHtml(e){
     const name = `<a href="#/venue/${esc(v.slug)}">${esc(v.name||v.slug)}</a>`;
     return `<li>${name}${bits?`<div class="hk-meta">${esc(bits)}</div>`:''}</li>`;
   }).join('');
-  return `<div class="dsec venues"><h4>Venue</h4><ul>${items}</ul></div>`;
+  const heading = list.length>1 ? 'Venues' : 'Venue';
+  return `<div class="dsec venues"><h4>${heading}</h4><ul>${items}</ul></div>`;
 }
 function viewVenue(v){
   const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
