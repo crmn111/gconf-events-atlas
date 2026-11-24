@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T09:19:40Z",
+ "generated": "2026-11-24T09:23:13Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -237151,6 +237151,2088 @@ window.ATLASDATA={
    "price": null
   },
   {
+   "name": "Domaine de la Reine Margot, MGallery",
+   "stars": 5,
+   "address": "3 cours de la Reine Margot, 92130 Issy-les-Moulineaux, France",
+   "lat": 48.8228643,
+   "lon": 2.2770887,
+   "distance_km": {
+    "big-data-ai-paris-2027": 1.09,
+    "educatech-expo-2026": 1.09,
+    "learning-technologies-france-2027": 1.09,
+    "open-source-experience-2026": 1.09,
+    "paris-games-week-2027": 1.09,
+    "salon-du-chocolat-paris-2027": 1.09,
+    "vivatech-2027": 1.09
+   },
+   "url": "https://all.accor.com/hotel/B599/index.en.shtml",
+   "event_slugs": [
+    "big-data-ai-paris-2027",
+    "educatech-expo-2026",
+    "learning-technologies-france-2027",
+    "open-source-experience-2026",
+    "paris-games-week-2027",
+    "salon-du-chocolat-paris-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Square Hôtel Paris",
+   "stars": 5,
+   "address": "3 RUE DE BOULAINVILLIERS, 75016 Paris, France",
+   "lat": 48.851603,
+   "lon": 2.277712,
+   "distance_km": {
+    "big-data-ai-paris-2027": 2.67,
+    "educatech-expo-2026": 2.67,
+    "learning-technologies-france-2027": 2.67,
+    "open-source-experience-2026": 2.67,
+    "paris-games-week-2027": 2.67,
+    "salon-du-chocolat-paris-2027": 2.67,
+    "solidays-2027": 3.34,
+    "vivatech-2027": 2.67
+   },
+   "url": "https://www.hotelsquare.com",
+   "event_slugs": [
+    "big-data-ai-paris-2027",
+    "educatech-expo-2026",
+    "learning-technologies-france-2027",
+    "open-source-experience-2026",
+    "paris-games-week-2027",
+    "salon-du-chocolat-paris-2027",
+    "solidays-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Molitor Hôtel & Spa Paris, MGallery",
+   "stars": 5,
+   "address": "13 rue Nungesser et Coli, 75016 Paris, France",
+   "lat": 48.844985,
+   "lon": 2.25248,
+   "distance_km": {
+    "big-data-ai-paris-2027": 3.23,
+    "educatech-expo-2026": 3.23,
+    "learning-technologies-france-2027": 3.23,
+    "open-source-experience-2026": 3.23,
+    "paris-games-week-2027": 3.23,
+    "salon-du-chocolat-paris-2027": 3.23,
+    "solidays-2027": 2.01,
+    "vivatech-2027": 3.23
+   },
+   "url": "https://www.molitorparis.com/fr/",
+   "event_slugs": [
+    "big-data-ai-paris-2027",
+    "educatech-expo-2026",
+    "learning-technologies-france-2027",
+    "open-source-experience-2026",
+    "paris-games-week-2027",
+    "salon-du-chocolat-paris-2027",
+    "solidays-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Le Cinq Codet",
+   "stars": 5,
+   "address": "5 rue Louis Codet, 75007 Paris, France",
+   "lat": 48.854988,
+   "lon": 2.308367,
+   "distance_km": {
+    "paris-games-week-2027": 3.25,
+    "vivatech-2027": 3.25
+   },
+   "url": "https://lecinqcodet.com/fr/",
+   "event_slugs": [
+    "paris-games-week-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Mandarin Oriental Lutetia, Paris",
+   "stars": 5,
+   "address": "45 boulevard Raspail, 75006 Paris, France",
+   "lat": 48.85117,
+   "lon": 2.327156,
+   "distance_km": {
+    "paris-games-week-2027": 3.75,
+    "vivatech-2027": 3.75
+   },
+   "url": "https://www.hotellutetia.com/fr",
+   "event_slugs": [
+    "paris-games-week-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "The One Alma Paris",
+   "stars": 5,
+   "address": "10-12 rue Cognacq Jay, 75007 Paris, France",
+   "lat": 48.861881,
+   "lon": 2.303909,
+   "distance_km": {
+    "paris-games-week-2027": 3.85,
+    "vivatech-2027": 3.85
+   },
+   "url": "https://www.hotelstheone.com/es/hoteles-paris/the-one-alma-paris?tc_alt=32403&n_okw=the%20one%20alma%20paris_b__c_185496624452",
+   "event_slugs": [
+    "paris-games-week-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Novotel Paris Porte de Versailles",
+   "stars": 4,
+   "address": "4 avenue de la Porte de la Plaine, 75015 Paris, France",
+   "lat": 48.830077,
+   "lon": 2.292245,
+   "distance_km": {
+    "big-data-ai-paris-2027": 0.28,
+    "educatech-expo-2026": 0.28,
+    "learning-technologies-france-2027": 0.28,
+    "open-source-experience-2026": 0.28,
+    "paris-games-week-2027": 0.28,
+    "salon-du-chocolat-paris-2027": 0.28,
+    "vivatech-2027": 0.28
+   },
+   "url": "https://all.accor.com/hotel/A7L6/index.en.shtml",
+   "event_slugs": [
+    "big-data-ai-paris-2027",
+    "educatech-expo-2026",
+    "learning-technologies-france-2027",
+    "open-source-experience-2026",
+    "paris-games-week-2027",
+    "salon-du-chocolat-paris-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Oceania Paris Porte de Versailles",
+   "stars": 4,
+   "address": "6 rue Ernest Renan, 92130 Issy-les-Moulineaux, France",
+   "lat": 48.830117,
+   "lon": 2.284239,
+   "distance_km": {
+    "big-data-ai-paris-2027": 0.38,
+    "educatech-expo-2026": 0.38,
+    "learning-technologies-france-2027": 0.38,
+    "open-source-experience-2026": 0.38,
+    "paris-games-week-2027": 0.38,
+    "salon-du-chocolat-paris-2027": 0.38,
+    "vivatech-2027": 0.38
+   },
+   "url": "https://www.oceaniahotels.com/fr/hotel/hotel-oceania-paris-porte-de-versailles",
+   "event_slugs": [
+    "big-data-ai-paris-2027",
+    "educatech-expo-2026",
+    "learning-technologies-france-2027",
+    "open-source-experience-2026",
+    "paris-games-week-2027",
+    "salon-du-chocolat-paris-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Courtyard by Marriott Paris Porte de Versailles",
+   "stars": 4,
+   "address": "3-5-7 rue Ernest Renan, 92130 Issy-les-Moulineaux, France",
+   "lat": 48.829624,
+   "lon": 2.283852,
+   "distance_km": {
+    "paris-games-week-2027": 0.39,
+    "vivatech-2027": 0.39
+   },
+   "url": "https://www.marriott.fr/parcv",
+   "event_slugs": [
+    "paris-games-week-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Mercure Paris Vaugirard Porte de Versailles",
+   "stars": 4,
+   "address": "69 boulevard Victor, 75015 Paris, France",
+   "lat": 48.833061,
+   "lon": 2.287973,
+   "distance_km": {
+    "paris-games-week-2027": 0.49,
+    "vivatech-2027": 0.49
+   },
+   "url": "https://all.accor.com/hotel/1131/index.fr.shtml",
+   "event_slugs": [
+    "paris-games-week-2027",
+    "vivatech-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Maison Albar Hôtel Le Champs-Élysées",
+   "stars": 5,
+   "address": "3 avenue Mac-Mahon, 75017 Paris, France",
+   "lat": 48.875449,
+   "lon": 2.294494,
+   "distance_km": {
+    "devoxx-france-2027": 0.85,
+    "ipem-global-2027": 0.92,
+    "machina-summit-2027": 0.85,
+    "neurips-2026-paris": 0.85,
+    "raise-summit-2027": 0.85,
+    "signal-week-2027": 0.85
+   },
+   "url": "https://www.maison-albar-hotels-le-champs-elysees.com/",
+   "event_slugs": [
+    "devoxx-france-2027",
+    "ipem-global-2027",
+    "machina-summit-2027",
+    "neurips-2026-paris",
+    "raise-summit-2027",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Étoile Park",
+   "stars": 5,
+   "address": "10 avenue Mac Mahon, 75017 Paris, France",
+   "lat": 48.876088,
+   "lon": 2.294906,
+   "distance_km": {
+    "apidays-paris-2026": 4.48,
+    "devoxx-france-2027": 0.86,
+    "ipem-global-2027": 0.92,
+    "machina-summit-2027": 0.86,
+    "neurips-2026-paris": 0.86,
+    "raise-summit-2027": 0.86,
+    "signal-week-2027": 0.86
+   },
+   "url": "https://www.etoileparkhotel.com/fr/",
+   "event_slugs": [
+    "apidays-paris-2026",
+    "devoxx-france-2027",
+    "ipem-global-2027",
+    "machina-summit-2027",
+    "neurips-2026-paris",
+    "raise-summit-2027",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel L'Aventure",
+   "stars": 5,
+   "address": "4 AVENUE VICTOR HUGO, 75116 Paris, France",
+   "lat": 48.872972,
+   "lon": 2.292813,
+   "distance_km": {
+    "devoxx-france-2027": 0.9,
+    "ipem-global-2027": 0.98,
+    "machina-summit-2027": 0.9,
+    "neurips-2026-paris": 0.9,
+    "raise-summit-2027": 0.9,
+    "signal-week-2027": 0.9
+   },
+   "url": "https://www.laventurehotel.com/",
+   "event_slugs": [
+    "devoxx-france-2027",
+    "ipem-global-2027",
+    "machina-summit-2027",
+    "neurips-2026-paris",
+    "raise-summit-2027",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Renaissance Paris Arc de Triomphe",
+   "stars": 5,
+   "address": "39 avenue de Wagram, 75017 Paris, France",
+   "lat": 48.876981,
+   "lon": 2.297078,
+   "distance_km": {
+    "neurips-2026-paris": 0.99,
+    "signal-week-2027": 0.99
+   },
+   "url": "https://www.marriott.fr/hotels/travel/parwg-renaissance-paris-arc-de-triomphe-hotel",
+   "event_slugs": [
+    "neurips-2026-paris",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "The Peninsula Paris",
+   "stars": 5,
+   "address": "19 avenue Kléber, 75116 Paris, France",
+   "lat": 48.871017,
+   "lon": 2.293321,
+   "distance_km": {
+    "neurips-2026-paris": 1.08,
+    "signal-week-2027": 1.08
+   },
+   "url": "https://www.peninsula.com/fr/default",
+   "event_slugs": [
+    "neurips-2026-paris",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Napoléon",
+   "stars": 5,
+   "address": "40 avenue de Friedland, 75008 Paris, France",
+   "lat": 48.874251,
+   "lon": 2.298051,
+   "distance_km": {
+    "neurips-2026-paris": 1.14,
+    "signal-week-2027": 1.14
+   },
+   "url": "http://www.hotelnapoleon.com/",
+   "event_slugs": [
+    "neurips-2026-paris",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Le Méridien Paris Arc de Triomphe",
+   "stars": 4,
+   "address": "81 boulevard Gouvion Saint Cyr, 75017 Paris, France",
+   "lat": 48.879473,
+   "lon": 2.284958,
+   "distance_km": {
+    "devoxx-france-2027": 0.14,
+    "ipem-global-2027": 0.13,
+    "machina-summit-2027": 0.14,
+    "neurips-2026-paris": 0.14,
+    "raise-summit-2027": 0.14,
+    "signal-week-2027": 0.14
+   },
+   "url": "https://www.lemeridienparis.com",
+   "event_slugs": [
+    "devoxx-france-2027",
+    "ipem-global-2027",
+    "machina-summit-2027",
+    "neurips-2026-paris",
+    "raise-summit-2027",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hyatt Regency Paris Étoile",
+   "stars": 4,
+   "address": "3 place du Général Koenig, 75017 Paris, France",
+   "lat": 48.880639,
+   "lon": 2.284624,
+   "distance_km": {
+    "devoxx-france-2027": 0.25,
+    "ipem-global-2027": 0.19,
+    "machina-summit-2027": 0.25,
+    "neurips-2026-paris": 0.25,
+    "raise-summit-2027": 0.25,
+    "signal-week-2027": 0.25
+   },
+   "url": "https://www.hyatt.com/hyatt-regency/fr-FR/parhr-hyatt-regency-paris-etoile",
+   "event_slugs": [
+    "devoxx-france-2027",
+    "ipem-global-2027",
+    "machina-summit-2027",
+    "neurips-2026-paris",
+    "raise-summit-2027",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null,
+   "venue_slug": "hyatt-regency-paris-etoile"
+  },
+  {
+   "name": "La Maison Champs Élysées",
+   "stars": 5,
+   "address": "8 rue Jean Goujon, 75008 Paris, France",
+   "lat": 48.866605,
+   "lon": 2.309065,
+   "distance_km": {
+    "adopt-ai-2026": 0.24,
+    "changenow-2027": 0.24,
+    "festival-du-livre-paris-2027": 0.24,
+    "paris-photo-2027": 0.24
+   },
+   "url": "http://www.lamaisonchampselysees.com",
+   "event_slugs": [
+    "adopt-ai-2026",
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel San Régis",
+   "stars": 5,
+   "address": "12 Rue Jean Goujon, 75008 Paris, France",
+   "lat": 48.866464,
+   "lon": 2.308524,
+   "distance_km": {
+    "adopt-ai-2026": 0.27,
+    "changenow-2027": 0.27,
+    "festival-du-livre-paris-2027": 0.27,
+    "paris-photo-2027": 0.27
+   },
+   "url": "https://www.hotel-sanregis.fr/",
+   "event_slugs": [
+    "adopt-ai-2026",
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Le Damantin Hôtel & Spa",
+   "stars": 5,
+   "address": "1 rue Bayard, 75008 Paris, France",
+   "lat": 48.865014,
+   "lon": 2.307787,
+   "distance_km": {
+    "adopt-ai-2026": 0.35,
+    "changenow-2027": 0.35,
+    "festival-du-livre-paris-2027": 0.35,
+    "paris-photo-2027": 0.35
+   },
+   "url": "https://www.ledamantin.com",
+   "event_slugs": [
+    "adopt-ai-2026",
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel La Réserve Paris",
+   "stars": 5,
+   "address": "42 Avenue Gabriel, 75008 Paris, France",
+   "lat": 48.8697,
+   "lon": 2.313271,
+   "distance_km": {
+    "changenow-2027": 0.4,
+    "festival-du-livre-paris-2027": 0.4,
+    "paris-photo-2027": 0.4
+   },
+   "url": "https://www.lareserve-paris.com/",
+   "event_slugs": [
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Marignan Paris",
+   "stars": 5,
+   "address": "12 rue de Marignan, 75008 Paris, France",
+   "lat": 48.868512,
+   "lon": 2.306476,
+   "distance_km": {
+    "changenow-2027": 0.49,
+    "festival-du-livre-paris-2027": 0.49,
+    "paris-photo-2027": 0.49
+   },
+   "url": "http://www.hotelmarignan.fr",
+   "event_slugs": [
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Plaza Athénée",
+   "stars": 5,
+   "address": "25 avenue Montaigne, 75008 Paris, France",
+   "lat": 48.866225,
+   "lon": 2.304357,
+   "distance_km": {
+    "changenow-2027": 0.58,
+    "festival-du-livre-paris-2027": 0.58,
+    "paris-photo-2027": 0.58
+   },
+   "url": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+   "event_slugs": [
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Mathis Élysées",
+   "stars": 4,
+   "address": "3 RUE DE PONTHIEU, 75008 Paris, France",
+   "lat": 48.870066,
+   "lon": 2.311324,
+   "distance_km": {
+    "adopt-ai-2026": 0.44,
+    "changenow-2027": 0.44,
+    "festival-du-livre-paris-2027": 0.44,
+    "paris-photo-2027": 0.44
+   },
+   "url": "http://www.hotelmathis.com/",
+   "event_slugs": [
+    "adopt-ai-2026",
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "NH Collection Paris Champs Élysées",
+   "stars": 4,
+   "address": "24 rue de ponthieu, 75008 Paris, France",
+   "lat": 48.870854,
+   "lon": 2.309252,
+   "distance_km": {
+    "adopt-ai-2026": 0.57,
+    "changenow-2027": 0.57,
+    "festival-du-livre-paris-2027": 0.57,
+    "paris-photo-2027": 0.57
+   },
+   "url": "https://www.bing.com/aclick?ld=e81GV2mSRcrghvGWPaZbduWDVUCUwJZCeHGZ-ee9vdXkGucvk8e1BlLi1qa3Z1Jkftic6rtTpDuhL_0apVD85dpRa9Asx6pNmfFmDz92hD1UtptN8JVgLog5t1CIEnb36YUgWPkEg8S3Iu0Kd6esIzZdK7E6Mdu4t2XQYaSGXwGA8VoVYC426hsYF0iCKxf8INAsR8tlWCI6kcpvSct1hVzFO22Vg&u=",
+   "event_slugs": [
+    "adopt-ai-2026",
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Pullman Paris La Défense",
+   "stars": 5,
+   "address": "11 avenue de l'Arche, 92400 Courbevoie, France",
+   "lat": 48.89518,
+   "lon": 2.238932,
+   "distance_km": {
+    "apidays-paris-2026": 0.27
+   },
+   "url": "https://all.accor.com/hotel/3013/index.fr.shtml",
+   "event_slugs": [
+    "apidays-paris-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Nest Paris La Défense, MGallery",
+   "stars": 5,
+   "address": "33 voie des Sculpteurs, 92800 Puteaux, France",
+   "lat": 48.88852,
+   "lon": 2.247027,
+   "distance_km": {
+    "apidays-paris-2026": 0.74,
+    "solidays-2027": 3.57
+   },
+   "url": "https://all.accor.com/hotel/0912/index.fr.shtml",
+   "event_slugs": [
+    "apidays-paris-2026",
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": {
+    "amount": 460.13,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "apidays-paris-2026",
+    "check_in": "2026-12-01",
+    "check_out": "2026-12-03",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Hilton Paris La Défense",
+   "stars": 4,
+   "address": "2 Place Carpeaux, 92800 Puteaux, France",
+   "lat": 48.893887,
+   "lon": 2.239664,
+   "distance_km": {
+    "apidays-paris-2026": 0.13
+   },
+   "url": "https://www.hilton.com/en/hotels/parldhi-hilton-paris-la-defense/",
+   "event_slugs": [
+    "apidays-paris-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Meliá Paris La Défense",
+   "stars": 4,
+   "address": "2 esplanade du Général de Gaulle, 92400 Courbevoie, France",
+   "lat": 48.888003,
+   "lon": 2.251162,
+   "distance_km": {
+    "apidays-paris-2026": 1.02
+   },
+   "url": "https://www.melia.com/fr/hotels/france/paris/melia-paris-la-defense/index.htm",
+   "event_slugs": [
+    "apidays-paris-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": {
+    "amount": 405.33,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "apidays-paris-2026",
+    "check_in": "2026-12-01",
+    "check_out": "2026-12-03",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Hôtel Paris Bastille Boutet, MGallery",
+   "stars": 5,
+   "address": "22-24 rue Faidherbe, 75011 Paris, France",
+   "lat": 48.851955,
+   "lon": 2.383743,
+   "distance_km": {
+    "big-bpifrance-2027": 1.52,
+    "fft27-2027": 2.19,
+    "france-digitale-ai-day-2027": 2.19,
+    "mobile-makers-2027": 2.2,
+    "we-love-green-2027": 4.33
+   },
+   "url": "https://all.accor.com/hotel/A064/index.fr.shtml",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "fft27-2027",
+    "france-digitale-ai-day-2027",
+    "mobile-makers-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "SO/ Paris",
+   "stars": 5,
+   "address": "10 rue Agrippa d'Aubigné, 75004 Paris, France",
+   "lat": 48.849979,
+   "lon": 2.362374,
+   "distance_km": {
+    "big-bpifrance-2027": 1.73,
+    "fft27-2027": 1.88,
+    "france-digitale-ai-day-2027": 1.88,
+    "mobile-makers-2027": 2.59,
+    "we-love-green-2027": 5.64
+   },
+   "url": "https://soparis.com/fr/",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "fft27-2027",
+    "france-digitale-ai-day-2027",
+    "mobile-makers-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Maison Bréguet",
+   "stars": 5,
+   "address": "8 rue Bréguet, 75011 Paris, France",
+   "lat": 48.856664,
+   "lon": 2.371894,
+   "distance_km": {
+    "big-bpifrance-2027": 2.06,
+    "fft27-2027": 2.51,
+    "france-digitale-ai-day-2027": 2.51,
+    "mobile-makers-2027": 2.89,
+    "we-love-green-2027": 5.34
+   },
+   "url": "http://www.maisonbreguet.com/fr/",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "fft27-2027",
+    "france-digitale-ai-day-2027",
+    "mobile-makers-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Novotel Paris Bercy",
+   "stars": 4,
+   "address": "85 rue de Bercy, 75012 Paris, France",
+   "lat": 48.83887,
+   "lon": 2.380623,
+   "distance_km": {
+    "big-bpifrance-2027": 0.14,
+    "fft27-2027": 0.87,
+    "france-digitale-ai-day-2027": 0.87
+   },
+   "url": "https://all.accor.com/hotel/0935/index.fr.shtml",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "fft27-2027",
+    "france-digitale-ai-day-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Mercure Paris Bercy Bibliothèque",
+   "stars": 4,
+   "address": "6 BOULEVARD VINCENT AURIOL, 75013 Paris, France",
+   "lat": 48.837405,
+   "lon": 2.372996,
+   "distance_km": {
+    "big-bpifrance-2027": 0.45,
+    "fft27-2027": 0.39,
+    "france-digitale-ai-day-2027": 0.39
+   },
+   "url": "http://www.accorhotels.com/fr/hotel-0934-hotel-mercure-paris-bercy-bibliotheque/index.shtml",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "fft27-2027",
+    "france-digitale-ai-day-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Pullman Paris Centre Bercy",
+   "stars": 4,
+   "address": "1 rue de Libourne, 75012 Paris, France",
+   "lat": 48.831522,
+   "lon": 2.387074,
+   "distance_km": {
+    "big-bpifrance-2027": 1.0,
+    "mobile-makers-2027": 0.15
+   },
+   "url": "https://all.accor.com/hotel/2192/index.en.shtml",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "mobile-makers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "TOO Hôtel Paris, MGallery",
+   "stars": 4,
+   "address": "65 rue Bruneseau, 75013 Paris, France",
+   "lat": 48.824926,
+   "lon": 2.383665,
+   "distance_km": {
+    "mobile-makers-2027": 0.82
+   },
+   "url": "https://all.accor.com/hotel/B870/index.en.shtml",
+   "event_slugs": [
+    "mobile-makers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "citizenM Paris Gare de Lyon",
+   "stars": 4,
+   "address": "8 Rue van Gogh, 75012 Paris, France",
+   "lat": 48.843759,
+   "lon": 2.371708,
+   "distance_km": {
+    "big-bpifrance-2027": 0.76
+   },
+   "url": "https://www.citizenm.com/destinations/paris/paris-gare-de-lyon-hotel",
+   "event_slugs": [
+    "big-bpifrance-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Best Western Hôtel Saint Louis",
+   "stars": 4,
+   "address": "2 bis rue Robert Giraudineau, 94300 Vincennes, France",
+   "lat": 48.845247,
+   "lon": 2.435223,
+   "distance_km": {
+    "we-love-green-2027": 1.53
+   },
+   "url": "http://www.hotel-saint-louis-vincennes.com/fr/index-fr.html",
+   "event_slugs": [
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Best Western Plus Hôtel 61 Paris Nation",
+   "stars": 4,
+   "address": "61 rue de la voûte, 75012 Paris, France",
+   "lat": 48.846525,
+   "lon": 2.410239,
+   "distance_km": {
+    "we-love-green-2027": 2.42
+   },
+   "url": "https://www.61-paris-nation-hotel.com/",
+   "event_slugs": [
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Pavillon de la Reine",
+   "stars": 5,
+   "address": "28 place des Vosges, 75003 Paris, France",
+   "lat": 48.856244,
+   "lon": 2.366032,
+   "distance_km": {
+    "big-bpifrance-2027": 2.16,
+    "we-love-green-2027": 5.69
+   },
+   "url": "http://www.pavillon-de-la-reine.com/fr/",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Cour des Vosges",
+   "stars": 5,
+   "address": "19 place des Vosges, 75004 Paris, France",
+   "lat": 48.856221,
+   "lon": 2.364705,
+   "distance_km": {
+    "big-bpifrance-2027": 2.2,
+    "we-love-green-2027": 5.78
+   },
+   "url": "https://www.courdesvosges.com/",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Maison Colbert",
+   "stars": 5,
+   "address": "7 Rue De L'Hôtel Colbert, 75005 Paris, France",
+   "lat": 48.851596,
+   "lon": 2.348592,
+   "distance_km": {
+    "big-bpifrance-2027": 2.63,
+    "we-love-green-2027": 6.65
+   },
+   "url": "https://www.melia.com/fr/hotels/france/paris/melia-paris-notre-dame/index.html",
+   "event_slugs": [
+    "big-bpifrance-2027",
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Paris Boulogne",
+   "stars": 4,
+   "address": "20-22 rue des abondances, 92100 Boulogne-Billancourt, France",
+   "lat": 48.843886,
+   "lon": 2.229767,
+   "distance_km": {
+    "solidays-2027": 1.56
+   },
+   "url": "http://kyriad-prestige-paris-ouest-boulogne.fr",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Le Parchamp",
+   "stars": 4,
+   "address": "114 ROUTE DE LA REINE, 92100 Boulogne-Billancourt, France",
+   "lat": 48.840242,
+   "lon": 2.235503,
+   "distance_km": {
+    "solidays-2027": 1.95
+   },
+   "url": "https://www.marriott.com/fr/hotels/parbt-le-parchamp-paris-boulogne-a-tribute-portfolio-hotel/overview/",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Le Dokhan's, a Tribute Portfolio Hotel",
+   "stars": 5,
+   "address": "117 rue Lauriston, 75116 Paris, France",
+   "lat": 48.866371,
+   "lon": 2.286757,
+   "distance_km": {
+    "solidays-2027": 4.05
+   },
+   "url": "https://www.marriott.fr/hotels/travel/partx-le-dokhans-paris-arc-de-triomphe-a-tribute-portfolio-hotel/",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "La Clef Tour Eiffel Paris",
+   "stars": 5,
+   "address": "83 Avenue Kléber, 75116 Paris, France",
+   "lat": 48.864631,
+   "lon": 2.28869,
+   "distance_km": {
+    "solidays-2027": 4.15
+   },
+   "url": "https://www.discoverasr.com/fr/the-crest-collection/france/la-clef-tour-eiffel-paris",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Sofitel Paris Baltimore Tour Eiffel",
+   "stars": 5,
+   "address": "88 bis avenue Kléber, 75116 Paris, France",
+   "lat": 48.866362,
+   "lon": 2.289371,
+   "distance_km": {
+    "solidays-2027": 4.24
+   },
+   "url": "https://all.accor.com/hotel/2789/index.fr.shtml",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel du Parc Roissy Villepinte Parc des Expositions",
+   "stars": 4,
+   "address": "53 avenue des Nations, 93420 Villepinte, France",
+   "lat": 48.972618,
+   "lon": 2.511924,
+   "distance_km": {
+    "comic-con-france-2027": 1.08,
+    "japan-expo-paris-2027": 1.08
+   },
+   "url": "https://www.hotels-parcexpo.com/hotel-du-parc/",
+   "event_slugs": [
+    "comic-con-france-2027",
+    "japan-expo-paris-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hyatt Place Paris Charles de Gaulle Airport",
+   "stars": 4,
+   "address": "241 rue de la Belle Étoile, 95700 Roissy-en-France, France",
+   "lat": 48.986117,
+   "lon": 2.510245,
+   "distance_km": {
+    "comic-con-france-2027": 1.84,
+    "japan-expo-paris-2027": 1.84
+   },
+   "url": "https://www.hyatt.com/fr-FR/hotel/france/hyatt-place-paris-charles-de-gaulle-airport/cdgzp",
+   "event_slugs": [
+    "comic-con-france-2027",
+    "japan-expo-paris-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Novotel Suites Paris CDG Airport Villepinte",
+   "stars": 4,
+   "address": "335 rue de la Belle Etoile, 95700 Roissy-en-France, France",
+   "lat": 48.988875,
+   "lon": 2.514175,
+   "distance_km": {
+    "comic-con-france-2027": 1.93,
+    "japan-expo-paris-2027": 1.93
+   },
+   "url": "https://all.accor.com/hotel/3324/index.fr.shtml",
+   "event_slugs": [
+    "comic-con-france-2027",
+    "japan-expo-paris-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "L'Esprit Libre Hôtel Paris Roissy",
+   "stars": 4,
+   "address": "4 allée des Vergers, 95700 Roissy-en-France, France",
+   "lat": 49.004028,
+   "lon": 2.520501,
+   "distance_km": {
+    "comic-con-france-2027": 3.41,
+    "japan-expo-paris-2027": 3.41
+   },
+   "url": "https://www.hotelespritlibre.com/chambres",
+   "event_slugs": [
+    "comic-con-france-2027",
+    "japan-expo-paris-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Manolita Paris",
+   "stars": 5,
+   "address": "1 rue Lepic, 75018 Paris, France",
+   "lat": 48.884061,
+   "lon": 2.332827,
+   "distance_km": {
+    "paris-nautic-show-2026": 9.42
+   },
+   "url": "https://www.manolitaparis.com/",
+   "event_slugs": [
+    "paris-nautic-show-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Maison Souquet",
+   "stars": 5,
+   "address": "10 rue de Bruxelles, 75009 Paris, France",
+   "lat": 48.883586,
+   "lon": 2.331455,
+   "distance_km": {
+    "paris-nautic-show-2026": 9.53
+   },
+   "url": "https://www.maisonsouquet.com/fr/",
+   "event_slugs": [
+    "paris-nautic-show-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": {
+    "amount": 494.42,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "paris-nautic-show-2026",
+    "check_in": "2026-11-25",
+    "check_out": "2026-11-27",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Renaissance Paris République",
+   "stars": 5,
+   "address": "40 rue René Boulanger, 75010 Paris, France",
+   "lat": 48.868428,
+   "lon": 2.36094,
+   "distance_km": {
+    "paris-nautic-show-2026": 9.54
+   },
+   "url": "https://www.marriott.fr/hotels/travel/parpr-renaissance-paris-republique-hotel/",
+   "event_slugs": [
+    "paris-nautic-show-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Novotel Paris Saint-Denis Stade Basilique",
+   "stars": 4,
+   "address": "1 place de la Porte de Paris, 93200 Saint-Denis, France",
+   "lat": 48.92996,
+   "lon": 2.35717,
+   "distance_km": {
+    "paris-nautic-show-2026": 5.18
+   },
+   "url": "https://all.accor.com/hotel/9720/index.fr.shtml",
+   "event_slugs": [
+    "paris-nautic-show-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "The Remix Hôtel",
+   "stars": 4,
+   "address": "28 ter avenue Corentin Cariou, 75019 Paris, France",
+   "lat": 48.896823,
+   "lon": 2.385127,
+   "distance_km": {
+    "paris-nautic-show-2026": 5.92
+   },
+   "url": "https://www.remix-hotel.com/",
+   "event_slugs": [
+    "paris-nautic-show-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Five Seas Hôtel Cannes",
+   "stars": 5,
+   "address": "22 rue du Bivouac Napoléon, 06400 Cannes, France",
+   "lat": 43.551989,
+   "lon": 7.018682,
+   "distance_km": {
+    "cannes-2027": 0.17,
+    "cannes-yachting-festival-2027": 0.52,
+    "canneseries-2027": 0.17,
+    "ethcc-10-2027": 0.17,
+    "ipem-wealth-2027": 0.17,
+    "waicf-2027": 0.17
+   },
+   "url": "http://www.fiveseashotel.com",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "canneseries-2027",
+    "ethcc-10-2027",
+    "ipem-wealth-2027",
+    "waicf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Barrière Le Majestic",
+   "stars": 5,
+   "address": "10 Boulevard de la Croisette, 06400 Cannes, France",
+   "lat": 43.550861,
+   "lon": 7.019947,
+   "distance_km": {
+    "cannes-2027": 0.19,
+    "cannes-yachting-festival-2027": 0.51,
+    "canneseries-2027": 0.19,
+    "ethcc-10-2027": 0.19,
+    "ipem-wealth-2027": 0.19,
+    "waicf-2027": 0.19
+   },
+   "url": "http://www.majestic-barriere.com",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "canneseries-2027",
+    "ethcc-10-2027",
+    "ipem-wealth-2027",
+    "waicf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Mondrian Cannes",
+   "stars": 5,
+   "address": "45 Boulevard de La Croisette, 06400 Cannes, France",
+   "lat": 43.55022,
+   "lon": 7.023976,
+   "distance_km": {
+    "cannes-2027": 0.51,
+    "cannes-yachting-festival-2027": 0.77,
+    "canneseries-2027": 0.51,
+    "ethcc-10-2027": 0.51,
+    "ipem-wealth-2027": 0.51,
+    "waicf-2027": 0.51
+   },
+   "url": "https://fr.mondrianhotels.com/cannes/",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "canneseries-2027",
+    "ethcc-10-2027",
+    "ipem-wealth-2027",
+    "waicf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "JW Marriott Cannes",
+   "stars": 5,
+   "address": "50 boulevard de la Croisette, 06400 Cannes, France",
+   "lat": 43.54987,
+   "lon": 7.025319,
+   "distance_km": {
+    "cannes-2027": 0.62,
+    "cannes-yachting-festival-2027": 0.87,
+    "ethcc-10-2027": 0.62
+   },
+   "url": "https://www.marriott.fr/hotels/travel/ncejw-jw-marriott-cannes",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "ethcc-10-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Carlton Cannes, a Regent Hotel",
+   "stars": 5,
+   "address": "58 boulevard de La Croisette, 06400 Cannes, France",
+   "lat": 43.549285,
+   "lon": 7.027109,
+   "distance_km": {
+    "cannes-2027": 0.78,
+    "cannes-yachting-festival-2027": 1.0,
+    "ethcc-10-2027": 0.78
+   },
+   "url": "https://www.carltoncannes.com",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "ethcc-10-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Belle Plage",
+   "stars": 5,
+   "address": "2 rue Brougham, 06400 Cannes, France",
+   "lat": 43.549483,
+   "lon": 7.007531,
+   "distance_km": {
+    "cannes-2027": 0.83,
+    "cannes-yachting-festival-2027": 0.6,
+    "ethcc-10-2027": 0.83
+   },
+   "url": "https://www.hotelbelleplage.fr/fr/page/hotel-belle-plage-hotel-haut-de-gamme-suquet.12321.html",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "ethcc-10-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Splendid Cannes",
+   "stars": 4,
+   "address": "4 rue Félix Faure, 06400 Cannes, France",
+   "lat": 43.552138,
+   "lon": 7.015731,
+   "distance_km": {
+    "cannes-2027": 0.22,
+    "cannes-yachting-festival-2027": 0.44,
+    "canneseries-2027": 0.22,
+    "ethcc-10-2027": 0.22,
+    "ipem-wealth-2027": 0.22,
+    "waicf-2027": 0.22
+   },
+   "url": "https://www.splendid-hotel-cannes.com/",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "canneseries-2027",
+    "ethcc-10-2027",
+    "ipem-wealth-2027",
+    "waicf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel America Cannes",
+   "stars": 4,
+   "address": "16 Rue Notre Dame, 06400 Cannes, France",
+   "lat": 43.551747,
+   "lon": 7.020119,
+   "distance_km": {
+    "cannes-2027": 0.23,
+    "cannes-yachting-festival-2027": 0.58,
+    "canneseries-2027": 0.23,
+    "ethcc-10-2027": 0.23,
+    "ipem-wealth-2027": 0.23,
+    "waicf-2027": 0.23
+   },
+   "url": "https://www.hotel-america.com/",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "canneseries-2027",
+    "ethcc-10-2027",
+    "ipem-wealth-2027",
+    "waicf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Best Western Hôtel Univers Cannes",
+   "stars": 4,
+   "address": "2 rue Maréchal Foch, 06400 Cannes, France",
+   "lat": 43.552635,
+   "lon": 7.018832,
+   "distance_km": {
+    "cannes-2027": 0.24,
+    "cannes-yachting-festival-2027": 0.59,
+    "ethcc-10-2027": 0.24
+   },
+   "url": "http://www.univershotel.com",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "ethcc-10-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Barrière Gray d'Albion",
+   "stars": 4,
+   "address": "38 rue des Serbes, 06400 Cannes, France",
+   "lat": 43.552024,
+   "lon": 7.020773,
+   "distance_km": {
+    "cannes-2027": 0.29,
+    "cannes-yachting-festival-2027": 0.64,
+    "ethcc-10-2027": 0.29
+   },
+   "url": "https://www.hotelsbarriere.com/fr/cannes/le-gray-d-albion.html",
+   "event_slugs": [
+    "cannes-2027",
+    "cannes-yachting-festival-2027",
+    "ethcc-10-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "InterContinental Lyon - Hôtel Dieu",
+   "stars": 5,
+   "address": "20 quai Jules Courmont, 69002 Lyon, France",
+   "lat": 45.758809,
+   "lon": 4.837065,
+   "distance_km": {
+    "nuits-sonores-2027": 4.53,
+    "sido-lyon-2027": 9.42
+   },
+   "url": "https://lyon.intercontinental.com/",
+   "event_slugs": [
+    "nuits-sonores-2027",
+    "sido-lyon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Sofitel Lyon Bellecour",
+   "stars": 5,
+   "address": "20 quai Gailleton, 69002 Lyon, France",
+   "lat": 45.754416,
+   "lon": 4.834354,
+   "distance_km": {
+    "nuits-sonores-2027": 4.0,
+    "sido-lyon-2027": 9.47
+   },
+   "url": "https://all.accor.com/hotel/0553/index.fr.shtml",
+   "event_slugs": [
+    "nuits-sonores-2027",
+    "sido-lyon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null,
+   "venue_slug": "sofitel-lyon-bellecour"
+  },
+  {
+   "name": "Novotel Lyon Gerland Musée des Confluences",
+   "stars": 4,
+   "address": "70 avenue Leclerc, 69007 Lyon, France",
+   "lat": 45.73316,
+   "lon": 4.823174,
+   "distance_km": {
+    "nuits-sonores-2027": 1.48
+   },
+   "url": "https://all.accor.com/hotel/0736/index.fr.shtml",
+   "event_slugs": [
+    "nuits-sonores-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Mercure Lyon Centre Château Perrache",
+   "stars": 4,
+   "address": "12 cours de Verdun Rambaud, 69002 Lyon, France",
+   "lat": 45.749521,
+   "lon": 4.824845,
+   "distance_km": {
+    "nuits-sonores-2027": 3.26
+   },
+   "url": "https://all.accor.com/hotel/1292/index.fr.shtml",
+   "event_slugs": [
+    "nuits-sonores-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Alexandra Lyon",
+   "stars": 4,
+   "address": "49 rue Victor Hugo, 69002 Lyon, France",
+   "lat": 45.752803,
+   "lon": 4.829118,
+   "distance_km": {
+    "nuits-sonores-2027": 3.7
+   },
+   "url": "http://www.hotel-alexandra-lyon.fr/",
+   "event_slugs": [
+    "nuits-sonores-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel de l'Abbaye Lyon",
+   "stars": 4,
+   "address": "20 rue de l'Abbaye d'Ainay, 69002 Lyon, France",
+   "lat": 45.75365,
+   "lon": 4.826883,
+   "distance_km": {
+    "nuits-sonores-2027": 3.74
+   },
+   "url": "https://hotelabbayelyon.com/",
+   "event_slugs": [
+    "nuits-sonores-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Gatsby Hôtel & Restaurant, Chassieu",
+   "stars": 4,
+   "address": "36 rue des Frères Lumière, 69680 Chassieu, France",
+   "lat": 45.733299,
+   "lon": 4.964202,
+   "distance_km": {
+    "sido-lyon-2027": 1.06
+   },
+   "url": "https://hotel-gatsby.com/fr/",
+   "event_slugs": [
+    "sido-lyon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Best Western Plus Hôtel & Spa de Chassieu",
+   "stars": 4,
+   "address": "82 route de Lyon, 69680 Chassieu, France",
+   "lat": 45.738326,
+   "lon": 4.968392,
+   "distance_km": {
+    "sido-lyon-2027": 1.6
+   },
+   "url": "http://www.hotel-de-chassieu.com/",
+   "event_slugs": [
+    "sido-lyon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Le 10Bis",
+   "stars": 4,
+   "address": "10 bis rue du Débarcadère, 75017 Paris, France",
+   "lat": 48.878016,
+   "lon": 2.286509,
+   "distance_km": {
+    "neurips-2026-paris": 0.21,
+    "signal-week-2027": 0.21
+   },
+   "url": "https://www.le10bishotel-paris.com/",
+   "event_slugs": [
+    "neurips-2026-paris",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Les Jardins de la Villa",
+   "stars": 4,
+   "address": "5 rue Belidor, 75017 Paris, France",
+   "lat": 48.880213,
+   "lon": 2.285946,
+   "distance_km": {
+    "neurips-2026-paris": 0.25,
+    "signal-week-2027": 0.25
+   },
+   "url": "https://www.jardinsdelavilla.com/",
+   "event_slugs": [
+    "neurips-2026-paris",
+    "signal-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Élysée Secret",
+   "stars": 4,
+   "address": "5 rue de Ponthieu, 75008 Paris, France",
+   "lat": 48.870123,
+   "lon": 2.311147,
+   "distance_km": {
+    "changenow-2027": 0.45,
+    "festival-du-livre-paris-2027": 0.45,
+    "paris-photo-2027": 0.45
+   },
+   "url": "http://www.hotel-elysee-secret-paris.com",
+   "event_slugs": [
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel du Rond-Point des Champs-Élysées",
+   "stars": 4,
+   "address": "10 rue de Ponthieu, 75008 Paris, France",
+   "lat": 48.870392,
+   "lon": 2.310681,
+   "distance_km": {
+    "changenow-2027": 0.48,
+    "festival-du-livre-paris-2027": 0.48,
+    "paris-photo-2027": 0.48
+   },
+   "url": "https://www.paris-hotel-rondpoint-champselysees.com/",
+   "event_slugs": [
+    "changenow-2027",
+    "festival-du-livre-paris-2027",
+    "paris-photo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Best Western Hôtel Allégro Paris Nation",
+   "stars": 4,
+   "address": "33 AVENUE DU DOCTEUR ARNOLD NETTER, 75012 Paris, France",
+   "lat": 48.843081,
+   "lon": 2.405145,
+   "distance_km": {
+    "we-love-green-2027": 2.48
+   },
+   "url": "https://www.hotelallegroparis.com",
+   "event_slugs": [
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôtel Le 209 Paris Bercy",
+   "stars": 4,
+   "address": "209/211 rue de Charenton, 75012 Paris, France",
+   "lat": 48.839289,
+   "lon": 2.389198,
+   "distance_km": {
+    "we-love-green-2027": 3.4
+   },
+   "url": "https://www.le209.com/fr/",
+   "event_slugs": [
+    "we-love-green-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Hôbou Hôtel",
+   "stars": 4,
+   "address": "9/11 rond point Rhin et Danube, 92100 Boulogne-Billancourt, France",
+   "lat": 48.840368,
+   "lon": 2.228188,
+   "distance_km": {
+    "solidays-2027": 1.96
+   },
+   "url": "https://hobou.com/",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
+   "name": "Radisson Blu Hôtel Paris Boulogne",
+   "stars": 4,
+   "address": "33 avenue Edouard Vaillant, 92100 Boulogne-Billancourt, France",
+   "lat": 48.836309,
+   "lon": 2.252735,
+   "distance_km": {
+    "solidays-2027": 2.79
+   },
+   "url": "https://www.hilton.com/en/hotels/parpbdi-doubletree-paris-boulogne/",
+   "event_slugs": [
+    "solidays-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://data.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+   "price": null
+  },
+  {
    "name": "InterContinental London – The O2",
    "stars": 5,
    "address": "1 Waterview Drive, Greenwich Peninsula, London SE10 0TW, United Kingdom",
@@ -242177,7 +244259,8 @@ window.ATLASDATA={
      "href": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2019/08/15/1026/Hyatt-Regency-Paris-Etoile-Capacity-Chart-French.pdf",
      "local": false
     }
-   ]
+   ],
+   "hotel_name": "Hyatt Regency Paris Étoile"
   },
   {
    "slug": "hotel-du-collectionneur-paris",
@@ -242465,7 +244548,8 @@ window.ATLASDATA={
      "source_url": "https://sofitel.accor.com/en/hotels/0553/meetings.html"
     }
    ],
-   "documents": []
+   "documents": [],
+   "hotel_name": "Sofitel Lyon Bellecour"
   },
   {
    "slug": "excel-london",
@@ -250076,7 +252160,7 @@ window.ATLASDATA={
    "south_america": 213
   },
   "expo": 180,
-  "hotels": 77,
+  "hotels": 160,
   "venues": 187,
   "europe": 1351,
   "middle_east": 156,
