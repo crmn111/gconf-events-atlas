@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T13:14:40Z",
+ "generated": "2026-11-24T13:16:41Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -183206,7 +183206,7 @@ window.ATLASDATA={
    "x_handle": null,
    "last_verified_at": "2026-11-24",
    "also_categories": [
-    "other"
+    "expo"
    ],
    "id": "gamescom-2027",
    "price_eur_min": null,
@@ -341979,7 +341979,7 @@ window.ATLASDATA={
    "north_america": 380,
    "south_america": 214
   },
-  "expo": 187,
+  "expo": 188,
   "hotels": 594,
   "venues": 570,
   "europe": 1352,
