@@ -123,10 +123,11 @@
     dlg.setAttribute("aria-labelledby", "claim-dialog-title");
     dlg.setAttribute("data-nosnippet", "");
     dlg.innerHTML =
-      '<div class="claim-dialog-inner">' +
       '<button type="button" class="claim-close" aria-label="Close">&times;</button>' +
+      '<div class="claim-dialog-inner">' +
       '<h2 id="claim-dialog-title">Claim this listing</h2>' +
       '<p class="claim-lead">GConf reviews claims by hand. Follow our official accounts and repost the listing so we can verify the claim before we update the record.</p>' +
+      '<div class="claim-top-steps">' +
       '<section class="claim-step" aria-labelledby="claim-step-1">' +
       '<h3 id="claim-step-1">1. Follow GConf</h3>' +
       "<p>Follow every official GConf account listed here, then tick to confirm. We use the follow to help verify your claim.</p>" +
@@ -142,25 +143,45 @@
       "</div>" +
       '<p class="claim-status" id="claim-copy-status" hidden></p>' +
       "</section>" +
+      "</div>" +
       '<form id="claim-form" class="claim-step" novalidate>' +
       '<h3 id="claim-step-3">3. Send your claim</h3>' +
       "<p>Tell us who you are at the organiser. We will only use these details to review this claim.</p>" +
+      '<div class="claim-fields">' +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-name">Your name</label>' +
       '<input id="claim-name" name="name" type="text" autocomplete="name" required>' +
+      "</div>" +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-email">Work email</label>' +
       '<input id="claim-email" name="email" type="email" autocomplete="email" required placeholder="you@organiser.com">' +
+      "</div>" +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-role">Your role at the organiser</label>' +
       '<input id="claim-role" name="role" type="text" autocomplete="organization-title" required placeholder="e.g. Head of communications">' +
+      "</div>" +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-listing">Event or venue</label>' +
       '<input id="claim-listing" name="listing_name" type="text" required>' +
+      "</div>" +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-handles">Social handle(s) you used</label>' +
       '<input id="claim-handles" name="social_handles" type="text" required placeholder="@yourhandle">' +
+      "</div>" +
+      '<div class="claim-field">' +
       '<label class="flab" for="claim-repost">Link to your repost</label>' +
       '<input id="claim-repost" name="repost_url" type="url" required placeholder="https://">' +
+      "</div>" +
+      "</div>" +
       '<label class="claim-check" style="margin-top:14px">' +
       '<input id="claim-consent" name="consent" type="checkbox" required>' +
       "<span>I agree to be contacted about this claim.</span>" +
       "</label>" +
+      '<label class="claim-check claim-newsletter" for="claim-newsletter">' +
+      '<input id="claim-newsletter" name="newsletter_optin" type="checkbox">' +
+      "<span>Subscribe to the GConf mailing list (event news and updates)</span>" +
+      "</label>" +
+      '<p class="claim-opt-note">We&#39;ll send a confirmation email first; you can unsubscribe anytime. This is optional and separate from the claim-contact consent above.</p>' +
       '<p class="claim-privacy">Follows and the repost are used to verify that you represent the organiser. Claims are reviewed manually and are not published automatically. We will use your name, work email and the details you send only to assess this claim. See the <a href="' +
       esc(PRIVACY_URL) +
       '" target="_blank" rel="noopener">GConf privacy statement</a>.</p>' +
@@ -259,6 +280,45 @@
       }
     }
   }
+
+  function alertsReady() {
+    var c = cfg();
+    return !!(c.alertsEnabled && c.supabaseUrl && c.subscribeFn);
+  }
+  function newsletterMailtoLine(data) {
+    if (data.newsletter_optin) {
+      return "Newsletter opt-in: yes (pending double opt-in confirmation)";
+    }
+    return "Newsletter opt-in: no";
+  }
+  function subscribeUrl() {
+    var c = cfg();
+    var fn = (c.subscribeFn || "").trim();
+    if (!fn) return "";
+    if (/^https?:/i.test(fn)) return fn;
+    return String(c.supabaseUrl || "").replace(/\/$/, "") + "/functions/v1/subscribe";
+  }
+  function subscribeAlerts(data) {
+    var url = subscribeUrl();
+    if (!url) return Promise.resolve({ ok: false, skipped: true });
+    var body = {
+      email: data.email,
+      alert_consent: true,
+      organiser_share: false,
+      event_slug: data.listing_type === "event" ? data.listing_slug : "",
+      source: "claim-dialog",
+      filters: {}
+    };
+    return fetch(url, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(body)
+    }).then(function (res) {
+      return res.json().catch(function () { return {}; }).then(function (payload) {
+        return { ok: res.ok, message: payload.message, error: payload.error };
+      });
+    });
+  }
   function payloadFromForm(form) {
     var followed = {};
     dlg.querySelectorAll(".claim-followed").forEach(function (box) {
@@ -276,6 +336,7 @@
       repost_url: form.repost_url.value.trim(),
       followed: followed,
       consent: form.consent.checked === true,
+      newsletter_optin: !!(form.newsletter_optin && form.newsletter_optin.checked),
       submitted_at: new Date().toISOString()
     };
   }
@@ -297,6 +358,7 @@
       "Repost URL: " + data.repost_url,
       "Followed official accounts: " + JSON.stringify(data.followed),
       "Consent to be contacted about this claim: yes",
+      newsletterMailtoLine(data),
       "",
       "Submitted at: " + data.submitted_at
     ];
@@ -333,6 +395,34 @@
     var endpoint = (cfg().claimEndpoint || "").trim();
     var submitBtn = dlg.querySelector("#claim-submit");
     submitBtn.disabled = true;
+    function finishOk(msg) {
+      status.textContent = msg;
+      status.className = "claim-status is-ok";
+      submitBtn.disabled = false;
+    }
+    function finishErr(msg) {
+      status.textContent = msg;
+      status.className = "claim-status is-err";
+      submitBtn.disabled = false;
+    }
+    function maybeSubscribe(baseMsg) {
+      if (!data.newsletter_optin) return Promise.resolve(baseMsg);
+      if (!alertsReady()) {
+        return Promise.resolve(
+          baseMsg + " Newsletter: pending double opt-in confirmation."
+        );
+      }
+      return subscribeAlerts(data)
+        .then(function (res) {
+          if (res && res.ok) {
+            return baseMsg + " " + (res.message || "Check your inbox to confirm the mailing-list subscription.");
+          }
+          return baseMsg + " Newsletter: we could not send the confirmation email (pending double opt-in confirmation).";
+        })
+        .catch(function () {
+          return baseMsg + " Newsletter: we could not reach the mailing list (pending double opt-in confirmation).";
+        });
+    }
     if (endpoint) {
       fetch(endpoint, {
         method: "POST",
@@ -342,26 +432,24 @@
         .then(function (res) {
           return res.json().catch(function () { return {}; }).then(function (body) {
             if (!res.ok) throw new Error(body.error || "Could not send the claim.");
-            status.textContent = body.message || "Thank you. GConf will review this claim by hand.";
-            status.className = "claim-status is-ok";
+            return body.message || "Thank you. GConf will review this claim by hand.";
           });
         })
+        .then(function (msg) { return maybeSubscribe(msg); })
+        .then(finishOk)
         .catch(function (err) {
-          status.textContent = (err && err.message) || "Could not send the claim. You can email " + contactEmail() + " instead.";
-          status.className = "claim-status is-err";
-        })
-        .finally(function () {
-          submitBtn.disabled = false;
+          finishErr((err && err.message) || "Could not send the claim. You can email " + contactEmail() + " instead.");
         });
       return;
     }
-    location.href = mailtoHref(data);
-    status.textContent =
+    maybeSubscribe(
       "Your email app should open with the claim filled in. If it does not, write to " +
-      contactEmail() +
-      ".";
-    status.className = "claim-status is-ok";
-    submitBtn.disabled = false;
+        contactEmail() +
+        "."
+    ).then(function (msg) {
+      location.href = mailtoHref(data);
+      finishOk(msg);
+    });
   }
 
   function open(rec) {

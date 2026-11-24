@@ -211,7 +211,15 @@ const ISO = {
   "Côte d'Ivoire":'CI',
   "Cote d'Ivoire":'CI',
   "Senegal":'SN',
-  "Cuba":'CU'
+  "Cuba":'CU',
+  "Zambia":'ZM',
+  "Uganda":'UG',
+  "Botswana":'BW',
+  "Namibia":'NA',
+  "Honduras":'HN',
+  "Bahamas":'BS',
+  "The Bahamas":'BS',
+  "Mongolia":'MN'
 };
 function flagOf(country){
   const iso = ISO[country];

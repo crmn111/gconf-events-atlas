@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T13:04:25Z",
+ "generated": "2026-11-24T13:14:40Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -65272,7 +65272,37 @@ window.ATLASDATA={
    "price_eur_min": 4.0,
    "price_eur_max": 7.6,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PlovdivFair",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fair.bg/en/event/2027/agra-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ifplovdiv",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fair.bg/en/event/2027/agra-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/IFPlovdiv",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fair.bg/en/event/2027/agra-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/international-fair-plovdiv",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fair.bg/en/event/2027/agra-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-anuga-foodtec-2027",
@@ -65347,7 +65377,30 @@ window.ATLASDATA={
    "price_eur_min": 21.0,
    "price_eur_max": 156.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/anugafoodtec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anugafoodtec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/anuga-food-tec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anugafoodtec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AnugaFoodtec-Cologne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anugafoodtec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cdao-uk-2027",
@@ -65427,7 +65480,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/corinium-global-intelligence",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-uk.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CoriniumGlobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-uk.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/coriniumglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-uk.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnuGiXMWAH5bhfXOfWkPIuw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-uk.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-meble-polska-2027",
@@ -65497,7 +65580,23 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCePNH3WRE8gRxzrrxnrWlgg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meblepolska.pl/pl",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/meblepolska",
+     "verified_via": "official_site_checked",
+     "source_url": "https://meblepolska.pl/pl",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-didacta-2027",
@@ -65745,7 +65844,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/confoo.ca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://confoo.ca/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/confoo.ca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://confoo.ca/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/confooca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://confoo.ca/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/confooca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://confoo.ca/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hong-kong-international-literary-festival-2027",
@@ -66034,7 +66163,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/65324545",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.spacecomm.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@space-commexpo3795",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.spacecomm.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-assembly-winter-2027",
@@ -66193,7 +66338,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messetulln.at",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.messe-tulln.at/messe-kalender/austrian-boat-show-boot-tulln/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/messe_tulln",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.messe-tulln.at/messe-kalender/austrian-boat-show-boot-tulln/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCoBsnpRRhghr1jOjmA4vXwg",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.messe-tulln.at/messe-kalender/austrian-boat-show-boot-tulln/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-building-the-future-2027",
@@ -66279,7 +66447,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/buildingthefuture2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://buildingthefuture.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC-2s6BkMl5m4eY4dbei-zkA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://buildingthefuture.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/buildingthefuture2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://buildingthefuture.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/buildingthefuture2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://buildingthefuture.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fintech-mexico-festival-2027",
@@ -66369,7 +66567,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/asociacion-fintech-mexico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechmexicofestival.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fintech.mx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechmexicofestival.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-frieze-los-angeles-2027",
@@ -66471,7 +66685,7 @@ window.ATLASDATA={
    "event_id": "GCE-itsx-summit-2027",
    "slug": "itsx-summit-2027",
    "name": "ITSX Summit 2027",
-   "website_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "website_url": "https://www.itsxsummit.com/",
    "start_date": "2027-02-25",
    "end_date": "2027-02-25",
    "city": "Edinburgh",
@@ -66491,7 +66705,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+   "source_url": "https://www.itsxsummit.com/",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": null,
    "lat": 55.9461813,
@@ -66507,8 +66721,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "url": "https://www.itsxsummit.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (DIGIT.FYI calendar)",
+     "url": "https://www.digit.fyi/digit-events-2027-whats-on/",
+     "field": "Previous listing (DIGIT.FYI calendar)"
     }
    ],
    "status": "upcoming",
@@ -66626,7 +66845,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aimevent",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://mlds.analyticsindiamag.com/ai-conference-bangalore-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aimmediahouse",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://mlds.analyticsindiamag.com/ai-conference-bangalore-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aim.media.house",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://mlds.analyticsindiamag.com/ai-conference-bangalore-2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-narcon-vinter-2027",
@@ -66866,7 +67108,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/abcptza",
+     "verified_via": "official_site_checked",
+     "source_url": "https://za27.adoptingbitcoin.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/ABCT27",
+     "verified_via": "official_site_checked",
+     "source_url": "https://za27.adoptingbitcoin.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@adoptingbitcoin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://za27.adoptingbitcoin.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adoptingbtc_cpt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://za27.adoptingbitcoin.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@adoptingbitcoincpt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://za27.adoptingbitcoin.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-electric-avenue-2027",
@@ -67314,7 +67593,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/edufest.mx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edufest.mx/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edufest_mx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edufest.mx/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edufest_mx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edufest.mx/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fiesta-nacional-de-la-vendimia-2027",
@@ -67547,7 +67849,58 @@ window.ATLASDATA={
    "price_eur_min": 9.0,
    "price_eur_max": 34.0,
    "has_price": true,
-   "photoCredit": "Thesupermat, Wikimedia Commons, CC BY-SA 3.0"
+   "photoCredit": "Thesupermat, Wikimedia Commons, CC BY-SA 3.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salondelagriculture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Salondelagriculture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/salon-agriculture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Salondelagri",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCtO_T44XMtMkoUz9wBZWNqQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@salondelagriculture",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Vb7I6AO96H4Ir7NaUQ2N",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salon-agriculture.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-black-hat-asia-2027",
@@ -67705,7 +68058,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/4yfn_mwc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.4yfn.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FourYearsFromNow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.4yfn.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/4yfn_mwc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.4yfn.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/4yfn---4-years-from-now",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.4yfn.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/4YFN",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.4yfn.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dtech-2027",
@@ -67769,7 +68159,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Distributech",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.distributech.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DISTRIBUTECH",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.distributech.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/distribugram",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.distributech.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@distributechinternational8792",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.distributech.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/distributech-conference-exhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.distributech.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gdc-2027",
@@ -67866,7 +68293,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/official_gdc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdconf.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/official_gdc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdconf.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GDCFestivalofGaming",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdconf.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdconf.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@official_gdc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gdconf.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mwc-barcelona-2027",
@@ -67977,7 +68441,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/MWCHub",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcbarcelona.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mwcseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcbarcelona.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mobileworldcongress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcbarcelona.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/GSMAOnline",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcbarcelona.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/mwcbarcelona",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcbarcelona.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-moneyx-2027",
@@ -68125,7 +68626,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AIBoomi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aiboomi.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-european-robotics-forum-2027",
@@ -68227,7 +68737,7 @@ window.ATLASDATA={
    "event_id": "GCE-hktdc-hong-kong-international-diamond-gem-pearl-show-2027",
    "slug": "hktdc-hong-kong-international-diamond-gem-pearl-show-2027",
    "name": "HKTDC Hong Kong International Diamond, Gem & Pearl Show 2027",
-   "website_url": "https://www.hktdc.com/event/hkdgp/en/fair-at-a-glance",
+   "website_url": "https://www.hktdc.com/event/hkdgp/en",
    "start_date": "2027-03-02",
    "end_date": "2027-03-06",
    "city": "Hong Kong",
@@ -68247,7 +68757,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.hktdc.com/event/hkdgp/en/fair-at-a-glance",
+   "source_url": "https://www.hktdc.com/event/hkdgp/en",
    "last_scraped_at": "2026-11-24T09:30:00+01:00",
    "notes": "Dates are local to the host city. Physical fair 2–6 March 2027 at AsiaWorld-Expo. Official 2026 statistic of 28,281 physical buyers is stored as the previous-edition buyer count. Overlaps the Jewellery Show (4–8 March, HKCEC); official paired shows at two venues, kept as separate records.",
    "lat": 22.3212507,
@@ -68264,8 +68774,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.hktdc.com/event/hkdgp/en/fair-at-a-glance",
+     "url": "https://www.hktdc.com/event/hkdgp/en",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (fair at a glance)",
+     "url": "https://www.hktdc.com/event/hkdgp/en/fair-at-a-glance",
+     "field": "Previous listing (fair at a glance)"
     }
    ],
    "status": "upcoming",
@@ -68292,7 +68807,7 @@ window.ATLASDATA={
    "event_id": "GCE-japan-shop-2027",
    "slug": "japan-shop-2027",
    "name": "JAPAN SHOP 2027",
-   "website_url": "https://messe.nikkei.co.jp/js/info/about/",
+   "website_url": "https://messe.nikkei.co.jp/js/",
    "start_date": "2027-03-02",
    "end_date": "2027-03-05",
    "city": "Tokyo",
@@ -68312,7 +68827,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://messe.nikkei.co.jp/js/info/about/",
+   "source_url": "https://messe.nikkei.co.jp/js/",
    "last_scraped_at": "2026-11-24T09:20:00+01:00",
    "notes": "Dates are local to the host city. Part of Nikkei Messe 街づくり・店づくり総合展. Co-located official shows folded: Architecture & Construction Materials, Lighting & Consumer Electronics Fair, Retail Tech JAPAN, SECURITY SHOW, and others listed on the official about page. Forecast attendance (72,000, combined, 見込み) was not stored.",
    "lat": 35.6320533,
@@ -68329,13 +68844,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://messe.nikkei.co.jp/js/info/about/",
+     "url": "https://messe.nikkei.co.jp/js/",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://messe.nikkei.co.jp/js/",
-     "field": "official"
+     "label": "Previous listing (about page)",
+     "url": "https://messe.nikkei.co.jp/js/info/about/",
+     "field": "Previous listing (about page)"
     }
    ],
    "status": "upcoming",
@@ -68356,7 +68871,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/machi_jp",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://messe.nikkei.co.jp/js/info/about/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/messe.nikkei",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://messe.nikkei.co.jp/js/info/about/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jec-world-2027",
@@ -68426,7 +68957,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jec-composites",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.jec-world.events/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jeccomposites",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.jec-world.events/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-javaland-2027",
@@ -68583,13 +69130,22 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/moneylive",
+     "verified_via": "official_site_checked",
+     "source_url": "https://moneylive-insights.com/events/summit/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-propak-east-africa-2027",
    "slug": "propak-east-africa-2027",
    "name": "Propak East Africa 2027",
-   "website_url": "https://www.propakeastafrica.com/visiting",
+   "website_url": "https://www.propakeastafrica.com/",
    "start_date": "2027-03-02",
    "end_date": "2027-03-04",
    "city": "Nairobi",
@@ -68609,7 +69165,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.propakeastafrica.com/visiting",
+   "source_url": "https://www.propakeastafrica.com/",
    "last_scraped_at": "2026-11-24T10:03:45+01:00",
    "notes": "Dates are local to the host city. Official visiting page: 2–4 March 2027 at Sarit Expo Centre, Nairobi. Opening hours and ticket prices were not listed on that page. Marketing lines ('more than 5,500 attendees', 'over 200 brands') and leftover copy that still describes some sessions as digital/online were not stored as attendance or format facts; the dated listing is an in-person exhibition at Sarit. A corporate organiser name was not clearly labelled on the visiting page. Same venue as nairobi-international-book-fair-2027 (dates TBA, culture) and africa-tech-summit-nairobi-2027, different events.",
    "lat": -1.260347,
@@ -68626,13 +69182,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.propakeastafrica.com/visiting",
+     "url": "https://www.propakeastafrica.com/",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://www.propakeastafrica.com/",
-     "field": "official"
+     "label": "Previous listing (visiting page)",
+     "url": "https://www.propakeastafrica.com/visiting",
+     "field": "Previous listing (visiting page)"
     }
    ],
    "status": "upcoming",
@@ -68653,7 +69209,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/propakea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.propakeastafrica.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/propak-east-africa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.propakeastafrica.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PropakEA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.propakeastafrica.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-emerge-americas-2027",
@@ -68723,7 +69302,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/emergeamericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/emergeamericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/emergeamericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/emerge-americas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@emergeamericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@emergeamericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://emergeamericas.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-arco-madrid-2027",
@@ -69022,7 +69645,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BTL.FIL",
+     "verified_via": "official_site_checked",
+     "source_url": "https://btl.fil.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BolsaTurismoLx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://btl.fil.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/btl_fil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://btl.fil.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/FILCanal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://btl.fil.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/btl-bolsa-de-turismo-de-lisboa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://btl.fil.pt/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mecspe-2027",
@@ -69087,7 +69747,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fieramecspe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mecspe.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mecspe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mecspe.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCg38RRtE136ceayLcv6iOsA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mecspe.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-qualifica-porto-2027",
@@ -69201,7 +69884,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/feira.qualifica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://exponor.pt/qualifica/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qualifica_exponor",
+     "verified_via": "official_site_checked",
+     "source_url": "https://exponor.pt/qualifica/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/105736418",
+     "verified_via": "official_site_checked",
+     "source_url": "https://exponor.pt/qualifica/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/EXPONORtv",
+     "verified_via": "official_site_checked",
+     "source_url": "https://exponor.pt/qualifica/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-best-vienna-2027",
@@ -69265,7 +69978,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bestmesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bestinfo.at/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bestinfo.at",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bestinfo.at/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/BeStinfoMesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bestinfo.at/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cbc-summit-europe-2027",
@@ -69328,7 +70064,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cbcsummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cbcsummit.io/2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cape-town-international-jazz-festival-2027",
@@ -69615,7 +70360,7 @@ window.ATLASDATA={
    "event_id": "GCE-hktdc-hong-kong-international-jewellery-show-2027",
    "slug": "hktdc-hong-kong-international-jewellery-show-2027",
    "name": "HKTDC Hong Kong International Jewellery Show 2027",
-   "website_url": "https://www.hktdc.com/event/hkjewellery/en/fair-at-a-glance",
+   "website_url": "https://www.hktdc.com/event/hkjewellery/en",
    "start_date": "2027-03-04",
    "end_date": "2027-03-08",
    "city": "Hong Kong",
@@ -69635,7 +70380,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.hktdc.com/event/hkjewellery/en/fair-at-a-glance",
+   "source_url": "https://www.hktdc.com/event/hkjewellery/en",
    "last_scraped_at": "2026-11-24T09:30:00+01:00",
    "notes": "Dates are local to the host city. Physical fair 4–8 March 2027 at HKCEC. Official 2026 statistic of 51,054 physical buyers is stored as the previous-edition buyer count, not a total-visitor figure. Opening hours did not render in this fetch and were left blank. A separate official HKTDC Diamond, Gem & Pearl Show runs 2–6 March at AsiaWorld-Expo; the two are paired official shows at two venues, staged as two records.",
    "lat": 22.2826248,
@@ -69651,8 +70396,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.hktdc.com/event/hkjewellery/en/fair-at-a-glance",
+     "url": "https://www.hktdc.com/event/hkjewellery/en",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (fair at a glance)",
+     "url": "https://www.hktdc.com/event/hkjewellery/en/fair-at-a-glance",
+     "field": "Previous listing (fair at a glance)"
     }
    ],
    "status": "upcoming",
@@ -71293,13 +72043,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "github",
+     "url": "https://github.com/londonwebstandards",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://mastodon.world/@webstandards",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/londonwebstandards.org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@londonwebstandards8403",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/londonwebstandards",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/webstandards",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.stateofthebrowser.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fossasia-summit-2027",
    "slug": "fossasia-summit-2027",
    "name": "FOSSASIA Summit 2027",
-   "website_url": "https://eventyay.com/fossasia/summit2027/",
+   "website_url": "https://fossasia.org/",
    "start_date": "2027-03-07",
    "end_date": "2027-03-09",
    "city": "Bangkok",
@@ -71319,7 +72113,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://eventyay.com/fossasia/summit2027/",
+   "source_url": "https://fossasia.org/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Thailand dates (ICT, UTC+7).",
    "lat": 13.685581,
@@ -71345,8 +72139,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://eventyay.com/fossasia/summit2027/",
+     "url": "https://fossasia.org/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Eventyay)",
+     "url": "https://eventyay.com/fossasia/summit2027/",
+     "field": "Previous listing (Eventyay)"
     }
    ],
    "status": "upcoming",
@@ -71500,7 +72299,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KopBiznisForum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kopaonikbusinessforum.rs/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/savezekonomista",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kopaonikbusinessforum.rs/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCgvSBRlKuR2aO7WE1QVxLJQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kopaonikbusinessforum.rs/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ofc-2027",
@@ -71589,7 +72411,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ofc-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ofcconference.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ofcconference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ofcconference.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OFCNFOEC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ofcconference.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pdac-2027",
@@ -71674,7 +72519,7 @@ window.ATLASDATA={
    "event_id": "GCE-prowein-2027",
    "slug": "prowein-2027",
    "name": "ProWein 2027",
-   "website_url": "https://www.prowein.com/en/At_a_glance",
+   "website_url": "https://www.prowein.com/",
    "start_date": "2027-03-07",
    "end_date": "2027-03-09",
    "city": "Düsseldorf",
@@ -71694,7 +72539,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.prowein.com/en/At_a_glance",
+   "source_url": "https://www.prowein.com/",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 51.2597801,
@@ -71710,9 +72555,14 @@ window.ATLASDATA={
    "photos": [],
    "sources": [
     {
+     "label": "Official",
+     "url": "https://www.prowein.com/",
+     "field": "official"
+    },
+    {
      "label": "Official at-a-glance page with dates, venue, tickets and organiser",
      "url": "https://www.prowein.com/en/At_a_glance",
-     "field": "official"
+     "field": "Previous listing (At a glance)"
     }
    ],
    "status": "upcoming",
@@ -71733,7 +72583,44 @@ window.ATLASDATA={
    "price_eur_min": 50.0,
    "price_eur_max": 90.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ProWein.tradefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.prowein.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/prowein",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.prowein.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/prowein-tradefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.prowein.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ProWeinTradeFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.prowein.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/prowein_duesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.prowein.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-tokyo-marathon-2027",
@@ -72324,7 +73211,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/appliedmachinelearningdays",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.appliedmldays.org/amld/2027/overview",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/appliedmldays",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.appliedmldays.org/amld/2027/overview",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aquatech-amsterdam-2027",
@@ -72394,7 +73297,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aquatech-global-events",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aquatechtrade.com/amsterdam",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_aquatech",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aquatechtrade.com/amsterdam",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aquatechtrade",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aquatechtrade.com/amsterdam",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AquatechGlobalEvents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aquatechtrade.com/amsterdam",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@aquatech.global",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aquatechtrade.com/amsterdam",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-eacl-2027",
@@ -72458,7 +73398,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/eaclmeeting",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.eacl.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aclmeeting",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.eacl.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/acl-org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.eacl.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expoagro-2027",
@@ -72532,7 +73495,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Expoagro Argentina, Wikimedia Commons, CC0"
+   "photoCredit": "Expoagro Argentina, Wikimedia Commons, CC0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expoagrocom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpoagroArgentina",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Expoagrocom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCL7FxmRKzatPxn4YIYNuN6Q",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@expoagrocom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/3600445",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expoagro.com.ar/evento/expoagro-2027/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-foodex-japan-2027",
@@ -72602,7 +73609,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@foodexjapan8014",
+     "verified_via": "official_site_checked",
+     "source_url": "https://foodex.jma.or.jp/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-forum-incyber-europe-2027",
@@ -72676,7 +73692,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/forumincyber",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.forum-incyber.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/INCYBER_Europe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.forum-incyber.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ForumInCyber",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.forum-incyber.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-digifest-2027",
@@ -73024,7 +74063,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/voxxedzurich",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdz27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/voxxedzurich.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdz27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://mastodon.social/@voxxedzurich",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdz27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/voxxedzurich",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdz27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/voxxedzurich",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdz27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-documentary-film-festival-ljubljana-2027",
@@ -73261,7 +74337,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CloudAIInfrastructure",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/cloud-ai-infrastructure",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloud-ai-infrastructure-london",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/cloud-ai-infrastructure",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CAI_London",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/cloud-ai-infrastructure",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cybersec-poland-2027",
@@ -73680,7 +74779,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/SmartCityLATAM",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpolatam.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/smart-city-expo-latam-congress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpolatam.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SmartCityLATAM",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpolatam.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/smartcitylatam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpolatam.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCNRgtVFLH8Farbt8034Nkbw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpolatam.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-tampere-film-festival-2027",
@@ -73847,7 +74983,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tech-show-london",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/techshowlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@techshowlondon6568",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@techshowlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techshowlondon.co.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wohnen-interieur-bauen-exterieur-2027",
@@ -73913,7 +75079,37 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wohnenmesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wohnen-interieur.at/bauen-exterieur/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wohneninterieur",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wohnen-interieur.at/bauen-exterieur/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AustrianExhibitionExperts",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wohnen-interieur.at/bauen-exterieur/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wohnenundinterieur",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wohnen-interieur.at/bauen-exterieur/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-fair-tokyo-2027",
@@ -74128,7 +75324,7 @@ window.ATLASDATA={
    "event_id": "GCE-sett-gent-2027",
    "slug": "sett-gent-2027",
    "name": "Sett Gent 2027",
-   "website_url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+   "website_url": "https://www.sett-vlaanderen.be/",
    "start_date": "2027-03-11",
    "end_date": "2027-03-12",
    "city": "Ghent",
@@ -74148,7 +75344,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+   "source_url": "https://www.sett-vlaanderen.be/",
    "last_scraped_at": "2026-11-24T03:00:00+01:00",
    "notes": "Sett alternates annually between Ghent and Mechelen. The 2027 edition is in Ghent; Mechelen 2028 is recorded separately. Slug sett-gent-2027 avoids colliding with Sweden’s sett-2027. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 51.0268207,
@@ -74213,8 +75409,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+     "url": "https://www.sett-vlaanderen.be/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (practical info)",
+     "url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+     "field": "Previous listing (practical info)"
     },
     {
      "label": "Official",
@@ -74240,7 +75441,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SettVlaanderen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sett-vlaanderen.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/sett-vlaanderen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sett-vlaanderen.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/settvlaanderen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sett-vlaanderen.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sofia-international-film-festival-2027",
@@ -74402,7 +75626,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/worldbex",
+     "verified_via": "official_site_checked",
+     "source_url": "https://worldbex.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldbex",
+     "verified_via": "official_site_checked",
+     "source_url": "https://worldbex.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/worldbex",
+     "verified_via": "official_site_checked",
+     "source_url": "https://worldbex.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-caprices-gstaad-2027",
@@ -75019,7 +76266,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/StartupsMahakumbh",
+     "verified_via": "official_site_checked",
+     "source_url": "https://startupmahakumbh.co.in/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/StartupsMission",
+     "verified_via": "official_site_checked",
+     "source_url": "https://startupmahakumbh.co.in/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/startupsmahakumbh",
+     "verified_via": "official_site_checked",
+     "source_url": "https://startupmahakumbh.co.in/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/startups-mahakumbh",
+     "verified_via": "official_site_checked",
+     "source_url": "https://startupmahakumbh.co.in/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@startupmahakumbh5",
+     "verified_via": "official_site_checked",
+     "source_url": "https://startupmahakumbh.co.in/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-womad-nz-2027",
@@ -75401,7 +76685,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "mastodon",
+     "url": "https://g0v.social/@sitcontw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SITCONtw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SITCONtw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sitcon.tw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sitcontw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sitcon-tw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@sitcon.tw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sitcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sxsw-edu-2027",
@@ -75499,7 +76834,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SXSWedu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswedu.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sxswedu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswedu.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/sxsw-edu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswedu.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/sxswedu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswedu.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-st-patricks-festival-2027",
@@ -75886,7 +77251,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cloudfestglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloudfestglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cloudfestglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/cloudfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/cloudfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cloudfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cloudfest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gartner-security-risk-management-summit-sydney-2027",
@@ -76040,7 +77449,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/globalindustrie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.global-industrie.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Gi_Globalindustrie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.global-industrie.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/global-industrie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.global-industrie.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCld_NqeX8K_-O36GYNkJoUg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.global-industrie.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gulfood-exhibition-2027",
@@ -76126,7 +77565,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Gulfood",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gulfood.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Gulfood",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gulfood.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gulfood",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gulfood.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@gulfood6596",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gulfood.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gulfood",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gulfood.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-filmart-2027",
@@ -76262,7 +77738,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/ish-frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ish.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ish_frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ish.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ISHfrankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ish.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "http://www.youtube.com/ISHfrankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ish.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kubecon-eu-2027",
@@ -76359,7 +77865,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/KubeCon_",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/cloudnativefdn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CloudNativeComputingFoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cloudnativecomputingfoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-las-fallas-2027",
@@ -76551,7 +78094,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Jack145945 / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Jack145945 / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NVIDIAGTC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nvidia.com/gtc/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/nvidia-gtc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nvidia.com/gtc/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NVIDIAGTC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nvidia.com/gtc/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nvidia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nvidia.com/gtc/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/nvidia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nvidia.com/gtc/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sxsw-2027",
@@ -76650,7 +78230,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/sxsw.com",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sxswfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sxsw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sxsw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sxsw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/sxsw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sxsw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxsw.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-supernova-antwerp-2027",
@@ -76748,7 +78379,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SuperNova_eu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://supernovafest.eu/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@supernova_eu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://supernovafest.eu/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/supernovafest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://supernovafest.eu/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/supernovafest_eu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://supernovafest.eu/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-cinematografico-internacional-del-uruguay-2027",
@@ -76952,7 +78613,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/poligran",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.poli.edu.co/eventos/6o-congreso-internacional-de-investigacion-en-innovacion-educativa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PolitecnicoGrancolom",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.poli.edu.co/eventos/6o-congreso-internacional-de-investigacion-en-innovacion-educativa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/politecnico-grancolombiano",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.poli.edu.co/eventos/6o-congreso-internacional-de-investigacion-en-innovacion-educativa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/poligrancol",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.poli.edu.co/eventos/6o-congreso-internacional-de-investigacion-en-innovacion-educativa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-data-ai-summit-peru-2027",
@@ -77017,7 +78708,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SeminariumPeru",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/seminariumperu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SeminariumPeru",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/seminariumperu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@seminariumperu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/SeminariumPerúTV",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://seminarium.pe/eventos/9-data-ai-summit-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-amper-2027",
@@ -77091,7 +78826,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "AnaviCh, Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "AnaviCh, Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bvvbrno",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.bvv.cz/en/amper",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bvvbrno",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.bvv.cz/en/amper",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@VeletrhyBrno",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.bvv.cz/en/amper",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/veletrhy-brno-a-s-",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.bvv.cz/en/amper",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-women-in-stem-summit-2027",
@@ -77154,7 +78919,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/WomeninSTEM_ie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://womeninstem.ie/events/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/womeninstem23",
+     "verified_via": "official_site_checked",
+     "source_url": "https://womeninstem.ie/events/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cheltenham-festival-2027",
@@ -77321,7 +79102,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/FinTechAmericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechamericas.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fintech-americas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechamericas.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FinTechAmericas",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechamericas.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hcj-2027",
@@ -77386,7 +79190,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/HCJSecretariat",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hcj.jma.or.jp/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jmahcj",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hcj.jma.or.jp/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jma_hospitality",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hcj.jma.or.jp/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-itb-berlin-2027",
@@ -77451,7 +79278,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ITBBerlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itb.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ITBBerlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itb.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/itb-berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itb.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/itbberlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itb.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ITB_Berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itb.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-inclusive-fintech-forum-2027",
@@ -77520,7 +79384,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/inclusive-fintech-forum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.inclusivefintechforum.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InclusiveFinTechForum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.inclusivefintechforum.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/inclusIFF",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.inclusivefintechforum.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mipim-2027",
@@ -77585,7 +79472,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/mipimworld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mipim.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MIPIM.Official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mipim.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/11038828",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mipim.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/mipimworld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mipim.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mipim_world",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mipim.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-miami-open-2027",
@@ -77770,7 +79694,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/programmable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-smart-city-summit-expo-2027",
@@ -77836,7 +79790,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/4gtaipei",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcity.org.tw/smartcity.php",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TPEsmartcityexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcity.org.tw/smartcity.php",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TPE_SmartCity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcity.org.tw/smartcity.php",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-london-book-fair-2027",
@@ -77918,7 +79895,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: ActuaLitté / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: ActuaLitté / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/LondonBookFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thelondonbookfairexhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/londonbookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/londonbookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/londonbookfairvideo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thelondonbookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.londonbookfair.co.uk/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-embedded-world-2027",
@@ -77990,7 +80011,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/embedded_world_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.embedded-world.de/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/embedded-world-exhibition&conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.embedded-world.de/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@embedded_world_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.embedded-world.de/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-scibt-2027",
@@ -78056,7 +80100,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/aou_oman",
+     "verified_via": "official_site_checked",
+     "source_url": "https://scibt2027.aou.edu.om/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aou_oman",
+     "verified_via": "official_site_checked",
+     "source_url": "https://scibt2027.aou.edu.om/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-polyfest-2027",
@@ -78200,7 +80260,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/en.awe.com.cn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.awe.com.cn/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-booster-2027",
@@ -78692,7 +80761,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fintechnz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechhui.nz/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Fintechnz-1849726651967322",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechhui.nz/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FinTech_NZ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechhui.nz/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/nztechassoc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechhui.nz/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nztech",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechhui.nz/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-futuralia-2027",
@@ -78806,7 +80912,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fil.futuralia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://futuralia.fil.pt/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/futuraliafil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://futuralia.fil.pt/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC5kLwq5uN7JDotCJX2X8aDg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://futuralia.fil.pt/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/futuralia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://futuralia.fil.pt/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-12-hours-of-sebring-2027",
@@ -78976,7 +81112,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/mobiletrends-pl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.mobiletrends.pl/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mobiletrendspl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.mobiletrends.pl/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mobile_trends",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.mobiletrends.pl/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCU9WXm_w16eWN25aQr5x97Q",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.mobiletrends.pl/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@mobile_trends",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.mobiletrends.pl/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-palm-beach-international-boat-show-2027",
@@ -79049,7 +81222,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PalmBeachInternationalBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.pbboatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pbboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.pbboatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/InformaUSBoatShows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.pbboatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pbboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.pbboatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/informa-us-boat-shows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.pbboatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ssba-ssdl-2027",
@@ -79187,7 +81397,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/smartcityexpocuritiba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpocuritiba.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/smart-city-expo-curitiba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpocuritiba.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@smartcityexpocuritiba6329",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpocuritiba.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/smartcityexpocuritiba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpocuritiba.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/scecwb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://smartcityexpocuritiba.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-stockholm-fintech-week-2027",
@@ -79256,7 +81503,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/stockholm-fintech-week",
+     "verified_via": "official_site_checked",
+     "source_url": "https://stockholmfintechweek.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-techchill-2027",
@@ -79320,7 +81576,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techchillHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techchill",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/techchill",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TechChill",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@techchillhq",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCUxKGxYx9RMcF03gP-mUh2Q",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.techchill.co/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-1-54-marrakech-2027",
@@ -79564,7 +81864,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cosmoprofworldwide",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cosmoprof.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Cosmoprofworldwide",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cosmoprof.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cosmoprof-worldwide-bologna",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cosmoprof.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-digital-asset-summit-london-2027",
@@ -80199,7 +82522,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/programmable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nowprogrammable",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.programmable.tech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wrc-safari-kenya-2027",
@@ -80647,7 +83000,65 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/britishblockchain",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Brit_blockchain",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BritishBlockchainAssociation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCJN6GSN2VR5BCJMeSwf2rPw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/brit_blockchain",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029VbBpBXH9xVJiwUmPkO0Z",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@britblockchain",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/thebba.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.britishblockchainassociation.org/isc2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lollapalooza-brasil-2027",
@@ -81027,7 +83438,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/waveofinnovation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/xrp-australia-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/wave_of_innov",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/xrp-australia-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@waveofinnovation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/xrp-australia-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/wave-of-innovation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://luma.com/xrp-australia-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cape-town-carnival-2027",
@@ -81270,7 +83711,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/foodexpogreece",
+     "verified_via": "official_site_checked",
+     "source_url": "https://foodexpo.gr/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/foodexpogreece",
+     "verified_via": "official_site_checked",
+     "source_url": "https://foodexpo.gr/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/FoodExpoGreece",
+     "verified_via": "official_site_checked",
+     "source_url": "https://foodexpo.gr/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/food-expo-greece",
+     "verified_via": "official_site_checked",
+     "source_url": "https://foodexpo.gr/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-megaport-festival-2027",
@@ -81621,7 +84092,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/apaie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://apaie.net/conferences/apaie-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bartok-spring-2027",
@@ -81996,7 +84476,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/idc-mea",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://event.idc.com/event/ai-data-summit-saudi-arabia/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@idcmetaevents",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://event.idc.com/event/ai-data-summit-saudi-arabia/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-national-cyber-security-summit-nz-2027",
@@ -82060,7 +84556,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/brightstarnz",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://brightstar.co.nz/events/cybersecurity/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/brightstarnz",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://brightstar.co.nz/events/cybersecurity/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nzbrightstar",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://brightstar.co.nz/events/cybersecurity/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@NZBrightstar",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://brightstar.co.nz/events/cybersecurity/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-convergence-india-2027",
@@ -82135,7 +84661,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/convergence_india",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.convergenceindia.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ConvergenceIndia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.convergenceindia.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/2494044",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.convergenceindia.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/ExhibitionsIndiaGroup",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.convergenceindia.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Convergenc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.convergenceindia.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-alfi-global-asset-management-conference-2027",
@@ -82204,7 +84767,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/alfi_2",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.alfi.lu/events/global-asset-management-conference-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/alfifunds",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.alfi.lu/events/global-asset-management-conference-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/alfiluxembourg",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.alfi.lu/events/global-asset-management-conference-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-agentic-expo-2027",
@@ -82267,7 +84853,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/agentic-expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://agenticexpo.ai/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Agenticexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://agenticexpo.ai/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-basel-hong-kong-2027",
@@ -82652,7 +85254,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-future-event",
+     "verified_via": "official_site_checked",
+     "source_url": "https://omanlegalsummit.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TheFutureEvent1",
+     "verified_via": "official_site_checked",
+     "source_url": "https://omanlegalsummit.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/the.future.event.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://omanlegalsummit.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIh9HfkWax9t5aeu_L0iRug",
+     "verified_via": "official_site_checked",
+     "source_url": "https://omanlegalsummit.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-the-elevator-show-2027",
@@ -82708,7 +85340,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/the-elevator-show-dubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.elevatorshowdubai.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-muscat-international-book-fair-2027",
@@ -82932,7 +85573,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCmnQ_vn75j905_0gdvyoCMA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.arabplast.info/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ArabplastDubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.arabplast.info/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Arabplast",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.arabplast.info/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/arabplastdubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.arabplast.info/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-asia-ai-infrastructure-malaysia-summit-2027",
@@ -82997,7 +85668,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cybersecasia-org",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://cybersecasia.org/aimy2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCq_aaJNut7beZHcWTyb50ig",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://cybersecasia.org/aimy2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-automechanika-istanbul-2027",
@@ -83067,7 +85754,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/automechanika-istanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/automechanikaistanbul",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/automechanikatr",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/automechanikatr",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCQC6fzIHZePfZQt6B8_5MOA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bangkok-international-book-fair-2027",
@@ -83243,7 +85967,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/corinium-global-intelligence",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-canada.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CoriniumGlobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-canada.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/coriniumglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-canada.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnuGiXMWAH5bhfXOfWkPIuw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cdao-canada.coriniumintelligence.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edugate-west-2027",
@@ -83313,7 +86067,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Edugate2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ethdenver-2027",
@@ -83402,7 +86200,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ethereumdenver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/Ethdenver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/sporkdao",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ethdenver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ethdenver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ETHDenver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ethdenver.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-intellisecai-2027",
@@ -83728,7 +86570,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpoCentreShj",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://expo-centre.ae/event/sharjah-childrens-reading-festival-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expocentreshj",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://expo-centre.ae/event/sharjah-childrens-reading-festival-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpoCentreShj",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://expo-centre.ae/event/sharjah-childrens-reading-festival-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCzDatoFqUluA6TamkYEG15Q",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://expo-centre.ae/event/sharjah-childrens-reading-festival-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/2424844",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://expo-centre.ae/event/sharjah-childrens-reading-festival-2027/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taipei-cycle-2027",
@@ -84390,7 +87269,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/symfony_live",
+     "verified_via": "official_site_checked",
+     "source_url": "https://live.symfony.com/2027-paris/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aldrei-for-eg-sudur-2027",
@@ -85418,7 +88306,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/acm_events",
+     "verified_via": "official_site_checked",
+     "source_url": "https://datacentresaudi.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/advanced-conferences-&-meetings-fz-llc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://datacentresaudi.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-international-pharmaceuticals-and-technologies-conference-and-exhibition-duphat-2027",
@@ -85474,7 +88378,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DUPHAT.UAE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://duphat.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DUPHAT_UAE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://duphat.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/duphat-dubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://duphat.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/duphat_uae",
+     "verified_via": "official_site_checked",
+     "source_url": "https://duphat.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-egypt-energy-show-2027",
@@ -85539,7 +88473,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/egyptenergyshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.egypes.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EgyptEnergyShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.egypes.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/egyptenergyshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.egypes.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@EgyptEnergyShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.egypes.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/egyptenergyshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.egypes.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kuwait-bfsi-cyber-resilience-summit-2027",
@@ -85882,7 +88853,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/geducoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.geducoficial.com.br/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/geducoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.geducoficial.com.br/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-voxxed-days-amsterdam-2027",
@@ -86025,7 +89012,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aucklandboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.auckland-boatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AucklandBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.auckland-boatshow.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-beyond-expo-2027",
@@ -86149,7 +89152,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/beyond.innovation.expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyond-expo.gr/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beyond_expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyond-expo.gr/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCxuVHq3QaifJFJjXnoKgQFw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyond-expo.gr/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/beyondexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.beyond-expo.gr/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cloud-datacenter-convention-philippines-2027",
@@ -86631,7 +89664,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/grazerlinuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/linuxtage.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/linuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/linuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grazer.linuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/linuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/linuxtage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://grazer.linuxtage.at/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ideal-home-show-2027",
@@ -86696,7 +89780,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ideal_home_show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@idealhomeshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@TheIdealHomeShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IdealHomeShowUK",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ideal_home_show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/idealhomeshowuk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idealhomeshow.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-motogp-brazil-2027",
@@ -87298,7 +90426,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ictp.page",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11558/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ictpnews",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11558/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ICTPchannel",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11558/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ictp.news",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11558/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/abdus-salam-international-centre-for-theoretical-physics-ictp-",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11558/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-future-skills-forum-2027",
@@ -87530,7 +90695,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheNABShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/officialnabshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nabshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/nabshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/nabshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@nabshowofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@nabshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nabshow.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rolex-monte-carlo-masters-2027",
@@ -87820,7 +91036,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aacsb-international",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.aacsb.edu/events/2027/04/cn-2027-april-international-conference-and-meetings",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AACSB",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.aacsb.edu/events/2027/04/cn-2027-april-international-conference-and-meetings",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aacsbintl",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.aacsb.edu/events/2027/04/cn-2027-april-international-conference-and-meetings",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bis-sigma-south-america-2027",
@@ -88061,7 +91300,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hannovermesse.fanpage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hannovermesse.de/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hannover_messe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hannovermesse.de/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/hannovermesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hannovermesse.de/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/hannovermesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hannovermesse.de/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-himss-2027",
@@ -88126,7 +91395,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/himss-global-health-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.himssconference.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/himssgc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.himssconference.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@himssgc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.himssconference.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-iapp-uk-intensive-aigg-2027",
@@ -88222,7 +91514,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/iapp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iapp.org/conference/iapp-uk-intensive",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/theiapp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iapp.org/conference/iapp-uk-intensive",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theiapp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iapp.org/conference/iapp-uk-intensive",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-robosoft-2027",
@@ -88286,7 +91601,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ieee-robosoft-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://robosoft27.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ieee-wcnc-2027",
@@ -88356,7 +91680,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/comsoc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wcnc2027.ieee-wcnc.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ieee-communications-society",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wcnc2027.ieee-wcnc.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ieeecomsoc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wcnc2027.ieee-wcnc.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IEEEComSoc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wcnc2027.ieee-wcnc.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCumALaUizr9Ow7giZ39WoAQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wcnc2027.ieee-wcnc.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ife-london-2027",
@@ -88426,7 +91787,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/IFE_Event",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ife.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hotel-restaurant-catering",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ife.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotel_restaurant_catering",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ife.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelRestaurantCatering",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ife.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fooddrinkhospitalityweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ife.co.uk/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-isc-west-2027",
@@ -88490,7 +91888,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/iscevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iscwest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/isc-security-events",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iscwest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/isc_events",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iscwest.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rsac-2027",
@@ -88568,7 +91989,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/one-rsac",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rsaconference.com/usa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OneRSAC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rsaconference.com/usa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/OneRSAC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rsaconference.com/usa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/RSAConference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rsaconference.com/usa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/onersac_community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.rsaconference.com/usa",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-snowbombing-2027",
@@ -88799,7 +92257,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/watchesandwonders",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.watchesandwonders.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@watchesandwonders",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.watchesandwonders.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/watchesandwonders",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.watchesandwonders.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/watchesandwonders",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.watchesandwonders.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/watcheswonders",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.watchesandwonders.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-muscat-international-film-festival-2027",
@@ -88966,7 +92461,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ictp.page",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11559/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ictpnews",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11559/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ICTPchannel",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11559/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ictp.news",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11559/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/abdus-salam-international-centre-for-theoretical-physics-ictp-",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://indico.ictp.it/event/11559/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jordan-ai-data-summit-2027",
@@ -89094,7 +92626,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/igrevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mena-cybersecurity.com/qatar/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/IGREvents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mena-cybersecurity.com/qatar/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IGREventscom-100427589376764",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mena-cybersecurity.com/qatar/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-adapt-data-ai-edge-2027",
@@ -89168,7 +92723,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/2273626",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://adapt.com.au/events",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCoVRrh2O59wOalUKSmWkodQ",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://adapt.com.au/events",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-international-wood-wood-machinery-show-2027",
@@ -89329,7 +92900,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DubaiDerma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubaiderma.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DubaiDerma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubaiderma.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dubai-derma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubaiderma.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dubaiderma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubaiderma.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expo-tech-panama-2027",
@@ -89399,7 +93000,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/innovatics_cciap",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.panacamara.com/expotech/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expocomer-2027",
@@ -89474,7 +93084,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ferias_cciap",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expocomer.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ficci-2027",
@@ -89692,7 +93311,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/sett-scandinavian-education-technology-transformation-",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.settdagarna.se/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/settdagarna",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.settdagarna.se/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/settdagarna",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.settdagarna.se/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-teamz-summit-2027",
@@ -89790,7 +93432,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/teamz_inc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.teamz.co.jp/en",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@teamzincjapan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.teamz.co.jp/en",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/teamz_inc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.teamz.co.jp/en",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/teamz_inc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.teamz.co.jp/en",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/teamz.jp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.teamz.co.jp/en",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-telecoms-ai-summit-2027",
@@ -89853,7 +93532,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/global-telecoms-ai-summit-awards",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.telcoaisummit.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bafici-2027",
@@ -90029,7 +93717,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artdubai.artfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artdubai.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/artdubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artdubai.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/artdubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artdubai.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artdubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artdubai.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/art-dubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artdubai.ae/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-crypto-assets-conference-2027",
@@ -90095,7 +93820,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/crypto-assets-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.crypto-assets-conference.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-designmarch-2027",
@@ -90311,7 +94045,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DevoxxFR",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.devoxx.fr/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/DevoxxFRvideos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.devoxx.fr/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/devoxxfr",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.devoxx.fr/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-diagonale-2027",
@@ -90541,7 +94298,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JapanITWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.japan-it.jp/spring/en-gb.html",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/JapanITWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.japan-it.jp/spring/en-gb.html",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/japanitweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.japan-it.jp/spring/en-gb.html",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@japanitweek4304",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.japan-it.jp/spring/en-gb.html",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-motortec-2027",
@@ -90606,7 +94393,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MOTORTECMadrid",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifema.es/en/motortec",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Motortecferia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifema.es/en/motortec",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/motortecferia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifema.es/en/motortec",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/motortecferia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifema.es/en/motortec",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC71qvfzmM1ZSMPAYRlTXxlA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifema.es/en/motortec",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-opensearchcon-europe-2027",
@@ -90679,7 +94503,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheLinuxFoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/opensearchcon-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/linuxfoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/opensearchcon-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/linux_foundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/opensearchcon-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheLinuxFoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/opensearchcon-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-linux-foundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/opensearchcon-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sp-arte-2027",
@@ -90858,7 +94719,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unblockeu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://unblockeurope.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/unblockeu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://unblockeurope.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/unblockeu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://unblockeurope.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wolves-summit-2027",
@@ -91134,7 +95018,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/malaysiatechnologyexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mte.org.my/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MTE_Innovation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mte.org.my/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@malaysiatechnologyexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mte.org.my/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mte_innovation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mte.org.my/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/mte-official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mte.org.my/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pesta-raya-2027",
@@ -91272,7 +95193,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheLinuxFoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/linuxfoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/linux_foundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheLinuxFoundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-linux-foundation",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://events.linuxfoundation.org/pytorch-conference-europe/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-stockfish-2027",
@@ -92928,7 +96886,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/NACHAOnline",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nacha.org/events/smarter-faster-payments-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/nacha",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nacha.org/events/smarter-faster-payments-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NACHAOnline",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nacha.org/events/smarter-faster-payments-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/nacha",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nacha.org/events/smarter-faster-payments-2027",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-paris-roubaix-2027",
@@ -93170,7 +97158,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Bruno Cordioli, Wikimedia Commons, CC BY 2.0"
+   "photoCredit": "Bruno Cordioli, Wikimedia Commons, CC BY 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vinitalyofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.vinitaly.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "http://www.youtube.com/user/Vinitaly2012",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.vinitaly.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vinitalyofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.vinitaly.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vinitaly",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.vinitaly.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aim-congress-2027",
@@ -93999,7 +98017,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LEAPandInnovate",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/leapandinnovate",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LEAPandInnovate",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/leap-expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@leapandinnovate",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCG8jQ9A7VuhhZXK8VCU9gaQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://onegiantleap.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-porsche-tennis-grand-prix-stuttgart-2027",
@@ -94629,7 +98691,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/googlecloud",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cloud.withgoogle.com/next",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/google-cloud",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cloud.withgoogle.com/next",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/googlecloud",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cloud.withgoogle.com/next",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/googlecloud",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cloud.withgoogle.com/next",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hktdc-hong-kong-electronics-fair-spring-2027",
@@ -98740,7 +102832,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ExpominOFICIAL",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expomin.cl/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ExpominOFICIAL",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expomin.cl/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expominoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expomin.cl/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expominoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expomin.cl/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ExpominOFICIAL",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.expomin.cl/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fha-food-hospitality-asia-2027",
@@ -100050,7 +104179,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IntermatParis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.intermatconstruction.com/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intermat_paris",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.intermatconstruction.com/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/intermat-paris",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.intermatconstruction.com/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/INTERMAT2012",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.intermatconstruction.com/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/intermatparis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.intermatconstruction.com/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-itk-2027",
@@ -100648,7 +104814,44 @@ window.ATLASDATA={
    "price_eur_min": 459.08,
    "price_eur_max": 5519.08,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.token2049.com/dubai",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.token2049.com/dubai",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/TOKEN2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.token2049.com/dubai",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.token2049.com/dubai",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/token2049official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.token2049.com/dubai",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-touch-taiwan-2027",
@@ -101957,7 +106160,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gamescomlatam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://latam.gamescom.global/pt/evento/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gamescomlatam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://latam.gamescom.global/pt/evento/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gamescomlatam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://latam.gamescom.global/pt/evento/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@latamgamescom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://latam.gamescom.global/pt/evento/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gamescomlatam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://latam.gamescom.global/pt/evento/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-yokohama-triennale-2027",
@@ -103305,7 +107545,7 @@ window.ATLASDATA={
    "event_id": "GCE-agrishow-2027",
    "slug": "agrishow-2027",
    "name": "Agrishow 2027",
-   "website_url": "https://www.agrishow.com.br/en/visit/frequently-questions/",
+   "website_url": "https://www.agrishow.com.br/en/",
    "start_date": "2027-04-26",
    "end_date": "2027-04-30",
    "city": "Ribeirão Preto",
@@ -103325,7 +107565,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.agrishow.com.br/en/visit/frequently-questions/",
+   "source_url": "https://www.agrishow.com.br/en/",
    "last_scraped_at": "2026-11-24T09:30:00+01:00",
    "notes": "Dates are local to the host city. 30th edition. Hours 08:00–18:00. Official FAQ: the 2026 edition welcomed more than 180,000 national and international visitors; 180,000 is stored with that wording. Accreditation for 2027 had not opened at the time of the fetch.",
    "lat": -21.2188892,
@@ -103351,8 +107591,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.agrishow.com.br/en/visit/frequently-questions/",
+     "url": "https://www.agrishow.com.br/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (FAQ)",
+     "url": "https://www.agrishow.com.br/en/visit/frequently-questions/",
+     "field": "Previous listing (FAQ)"
     }
    ],
    "status": "upcoming",
@@ -103373,7 +107618,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Bruno Bentivoglio (Little Sunshine), Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "Bruno Bentivoglio (Little Sunshine), Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/feiraagrishowoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agrishow.com.br/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/agrishow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agrishow.com.br/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCHq1-rH2DnRXJWS-yUZj-TA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agrishow.com.br/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@feiraagrishow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agrishow.com.br/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-baytek-kuwait-building-2027",
@@ -103637,7 +107912,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GITEXAfrica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexafrica.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitexafrica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexafrica.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GITEXAfrica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexafrica.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gitexafrica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexafrica.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@GITEXAFRICA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexafrica.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jcon-europe-2027",
@@ -104002,7 +108314,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/transport.logistic.exhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.transportlogistic.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/18198669",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.transportlogistic.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@transportlogisticexhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.transportlogistic.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/transport.logistic.exhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.transportlogistic.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/transport_messe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.transportlogistic.de/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-crossing-europe-2027",
@@ -104668,7 +109017,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asia.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asia.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asia.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/money20_20",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asia.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCip4CIpmM13NOAH-j9GiAzg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asia.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-qatar-economic-forum-2027",
@@ -105756,7 +110142,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gitexasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gitexasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/gitexasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitexasia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC8Kh1YZY_33YBrbQi6iVWgw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://www.whatsapp.com/channel/0029Vao46aQ2UPB7NsNZOO3J",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexasia.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-indielisboa-2027",
@@ -107625,7 +112055,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aibc.world",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aibc.world",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aibc-world",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AIBC_World",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aibcworld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/AIBC_Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aibc.world/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aistats-2027",
@@ -107793,7 +112267,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ATMDubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/atm/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/arabiantravelmarket",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/atm/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/arabiantravelmarket",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/atm/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/arabian_travel_market",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/atm/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCybKBzeS1SK7d5bEj7pHEJg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/atm/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-finovatespring-2027",
@@ -108179,7 +112690,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/OTCevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.otcnet.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/otcevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.otcnet.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/offshore-technology-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.otcnet.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/otcevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.otcnet.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheOTCVideos",
+     "verified_via": "official_site_checked",
+     "source_url": "https://2027.otcnet.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-anifilm-2027",
@@ -108361,7 +112909,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bett.brasil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bettbrasil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BettBrasil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/bett_brasil",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/bettshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/canalbetteducar",
+     "verified_via": "official_site_checked",
+     "source_url": "https://brasil.bettshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cabsat-2027",
@@ -111903,7 +116495,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ligna.hannover",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ligna.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ligna_hannover",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ligna.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/ligna-hannover",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ligna.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-prima-vista-2027",
@@ -112555,7 +117170,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@cyberukonline",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cyberuk.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/cyberukevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cyberuk.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/national-cyber-security-centre",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cyberuk.uk/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expoconstruccion-expodiseno-2027",
@@ -113198,7 +117836,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/interzum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interzum.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/interzum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interzum.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/12589437",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interzum.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-everything-kenya-gitex-kenya-2027",
@@ -113268,7 +117929,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aieverythingkenya",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AIEverythingKenya",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AiEverythingKenyaOfficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aieverythingkenya",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AI_everythingKE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://www.whatsapp.com/channel/0029Vb72X8L0gcfSVmjbtU1y",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aieverythingkenya.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cto-day-sydney-2027",
@@ -113779,7 +118484,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheLinuxFoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lfopensource.cn/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/linuxfoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lfopensource.cn/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/linux_foundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lfopensource.cn/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheLinuxFoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lfopensource.cn/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-linux-foundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lfopensource.cn/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-prague-spring-2027",
@@ -113965,7 +118707,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/pyconus",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.pycon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/pycon.us",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.pycon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pycon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.pycon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://fosstodon.org/@pycon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.pycon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/thepsf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.pycon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rise-of-ai-2027",
@@ -120531,7 +125310,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/big5saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Big5Exhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TheBig5Saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/thebig5-saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-confidence-2027",
@@ -121241,7 +126050,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sxswlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sxswlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sxswlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SXSWLondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sxswlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sxswlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sxswlondon.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sigma-world-2027",
@@ -121851,7 +126704,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gitexbelgrade",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gitexbelgrade.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitexaibelgrade",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gitexbelgrade.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@GITEXAIBelgrade",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gitexbelgrade.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-itweb-security-summit-cape-town-2027",
@@ -122353,7 +127229,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/13656278",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/seamlessmena",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/seamlessmena",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-stockholm-tech-show-2027",
@@ -122736,7 +127635,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/web-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouver.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WebSummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouver.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WebSummitHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouver.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouver.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-utilities-congress-2027",
@@ -127088,7 +132017,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/COMPUTEX.TAITRA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.computextaipei.com.tw/en/index.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/computex__taipei",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.computextaipei.com.tw/en/index.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/computex_taipei",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.computextaipei.com.tw/en/index.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/computextaipei",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.computextaipei.com.tw/en/index.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-e3-cx-conference-2027",
@@ -131948,7 +136907,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LDNtechweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://londontechweek.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LDNTechWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://londontechweek.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UClCJQhJ-4viefSZ0QB5oPrg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://londontechweek.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/london-tech-week",
+     "verified_via": "official_site_checked",
+     "source_url": "https://londontechweek.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ldntechweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://londontechweek.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-metas-2027",
@@ -132709,7 +137705,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Infosecurity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infosecurityeurope.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/infoseceu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infosecurityeurope.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/infosecurity-group",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infosecurityeurope.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Infosecurityeurope",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infosecurityeurope.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-money2020-europe-2027",
@@ -132782,7 +137808,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/money20_20",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCip4CIpmM13NOAH-j9GiAzg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://europe.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-norma-2027",
@@ -132915,7 +137978,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/nor-shipping",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nor-shipping.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NorShipping",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nor-shipping.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/norshipping",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nor-shipping.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NorShipping",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nor-shipping.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NorShipping11",
+     "verified_via": "official_site_checked",
+     "source_url": "https://nor-shipping.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-open-finance-2050-2027",
@@ -133239,7 +138339,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thesmarterE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thesmartere.com/home",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ThesmarterE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thesmartere.com/home",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-smarter-e",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thesmartere.com/home",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thesmartere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thesmartere.com/home",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCXvmG4CnAJLKMv9VTXnePHg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thesmartere.com/home",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-3daysofdesign-2027",
@@ -134197,7 +139334,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/InteropTokyo30",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interop.jp/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InteropTokyo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interop.jp/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@InteropTokyo30",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interop.jp/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/64446566",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.interop.jp/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nova-rock-2027",
@@ -136655,7 +141822,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/infocomm.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InfoCommShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/infocommshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/infocomm-show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@infocommshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@infocommshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/InfoComm",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.infocommshow.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-respect-festival-2027",
@@ -137121,7 +142339,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/achema-2018",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.achema.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-canadian-ai-2027",
@@ -137842,7 +143069,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Tangopaso / Wikimedia Commons / Public domain"
+   "photoCredit": "Photo: Tangopaso / Wikimedia Commons / Public domain",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/international-paris-air-show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/salondubourget",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salondubourget",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SalonDuBourget",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@parisairshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SalonDuBourget",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.siae.fr/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-terra-wortmann-open-halle-2027",
@@ -138091,7 +143362,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/web-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rio.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WebSummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rio.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WebSummitHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rio.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rio.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rio.websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-webinale-berlin-2027",
@@ -141504,7 +146812,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/beautyworldRY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beautyworldRY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/beautyworldRY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/beautyworldRY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@beautyworldRY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-databricks-data-ai-summit-2027",
@@ -142463,7 +147808,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/laser.world.of.photonics",
+     "verified_via": "official_site_checked",
+     "source_url": "https://world-of-photonics.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@LASERWorldofPHOTONICS",
+     "verified_via": "official_site_checked",
+     "source_url": "https://world-of-photonics.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/laserworldofphotonics",
+     "verified_via": "official_site_checked",
+     "source_url": "https://world-of-photonics.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/laserworldofphotonics",
+     "verified_via": "official_site_checked",
+     "source_url": "https://world-of-photonics.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PHOTONICSWORLD",
+     "verified_via": "official_site_checked",
+     "source_url": "https://world-of-photonics.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-luxembourg-national-day-2027",
@@ -142633,7 +148015,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AUTOMATICAfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automatica-munich.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/automatica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automatica-munich.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AUTOMATICAmunich",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automatica-munich.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/automatica.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automatica-munich.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AUTOMATICAfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automatica-munich.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-content-tokyo-2027",
@@ -143185,7 +148604,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/MWCHub",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcshanghai.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mwcseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcshanghai.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/GSMAOnline",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcshanghai.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/mwcshanghai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcshanghai.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nummirock-2027",
@@ -157736,7 +163185,44 @@ window.ATLASDATA={
    "price_eur_min": 120.0,
    "price_eur_max": 2499.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wearedevelopers.com/world-congress",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WeAreDevs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wearedevelopers.com/world-congress",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/wearedevelopers.org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wearedevelopers.com/world-congress",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wearedevelopers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wearedevelopers.com/world-congress",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_wearedevelopers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wearedevelopers.com/world-congress",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-biennale-danza-2027",
@@ -161037,7 +166523,7 @@ window.ATLASDATA={
    "event_id": "GCE-itap-2027",
    "slug": "itap-2027",
    "name": "ITAP 2027 (Industrial Transformation ASIA-PACIFIC)",
-   "website_url": "https://www.hannovermesse.de/en/press/press-releases/hannover-messe/itap-to-return-in-october-2026-ahead-of-full-scale-2027-edition",
+   "website_url": "https://industrial-transformation.com/",
    "start_date": "2027-07-20",
    "end_date": "2027-07-22",
    "city": "Singapore",
@@ -161057,7 +166543,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.hannovermesse.de/en/press/press-releases/hannover-messe/itap-to-return-in-october-2026-ahead-of-full-scale-2027-edition",
+   "source_url": "https://industrial-transformation.com/",
    "last_scraped_at": "2026-11-24T09:06:00+01:00",
    "notes": "Dates are local to the host city. Full-scale return after a smaller October 2026 relaunch edition at Suntec.",
    "lat": 1.2823291,
@@ -161074,8 +166560,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.hannovermesse.de/en/press/press-releases/hannover-messe/itap-to-return-in-october-2026-ahead-of-full-scale-2027-edition",
+     "url": "https://industrial-transformation.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Hannover Messe press release)",
+     "url": "https://www.hannovermesse.de/en/press/press-releases/hannover-messe/itap-to-return-in-october-2026-ahead-of-full-scale-2027-edition",
+     "field": "Previous listing (Hannover Messe press release)"
     }
    ],
    "status": "upcoming",
@@ -167259,7 +172750,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/icmlconf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://icml.cc/Conferences/2027",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-joao-rock-2027",
@@ -168585,7 +174085,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/defcon.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://defcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/DEFCON",
+     "verified_via": "official_site_checked",
+     "source_url": "https://defcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/defcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://defcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wearedefcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://defcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DEFCONConference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://defcon.org/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edmonton-folk-music-festival-2027",
@@ -174978,7 +180515,7 @@ window.ATLASDATA={
    "event_id": "GCE-world-robot-conference-2027",
    "slug": "world-robot-conference-2027",
    "name": "World Robot Conference 2027",
-   "website_url": "https://www.worldrobotconference.com/news_5/",
+   "website_url": "https://www.worldrobotconference.com/",
    "start_date": "2027-08-18",
    "end_date": "2027-08-18",
    "city": "Beijing",
@@ -174998,7 +180535,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.worldrobotconference.com/news_5/",
+   "source_url": "https://www.worldrobotconference.com/",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Official announcement gives the opening day only (18 Aug 2027); the 2026 edition ran five days. end_date is set to the opening day until the organiser publishes the full run. Venue not yet confirmed on the official site. Dates are local to the host city (China Standard Time, UTC+8).",
    "lat": 39.9057136,
@@ -175015,8 +180552,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.worldrobotconference.com/news_5/",
+     "url": "https://www.worldrobotconference.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (news page)",
+     "url": "https://www.worldrobotconference.com/news_5/",
+     "field": "Previous listing (news page)"
     },
     {
      "label": "Official",
@@ -177663,18 +183205,36 @@ window.ATLASDATA={
    "source_accessed_at": "2026-11-24T02:30:00+01:00",
    "x_handle": null,
    "last_verified_at": "2026-11-24",
+   "also_categories": [
+    "other"
+   ],
    "id": "gamescom-2027",
-   "also_categories": [],
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gamescom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.global/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gamescom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.gamescom.global/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-febraban-tech-2027",
    "slug": "febraban-tech-2027",
    "name": "Febraban Tech 2027",
-   "website_url": "https://febrabantech.febraban.org.br/temas/inovacao/febraban-tech-2027-tem-100-dos-estandes-e-das-cotas-de-patrocinio-reservados-no-lancamento",
+   "website_url": "https://febrabantech.febraban.org.br/",
    "start_date": "2027-08-24",
    "end_date": "2027-08-26",
    "city": "São Paulo",
@@ -177694,7 +183254,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://febrabantech.febraban.org.br/temas/inovacao/febraban-tech-2027-tem-100-dos-estandes-e-das-cotas-de-patrocinio-reservados-no-lancamento",
+   "source_url": "https://febrabantech.febraban.org.br/",
    "last_scraped_at": "2026-11-24T00:25:15+01:00",
    "notes": "Formerly CIAB Febraban; 358 commercial areas in 2027. 2026 reportedly drew about 70,000 visits (not confirmed on a page read for this build). Brazil dates are local (Brasília time, UTC-3, unless the venue is in another Brazilian time zone, e.g. Manaus UTC-4).",
    "lat": -23.5161121,
@@ -177721,17 +183281,17 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://febrabantech.febraban.org.br/temas/inovacao/febraban-tech-2027-tem-100-dos-estandes-e-das-cotas-de-patrocinio-reservados-no-lancamento",
+     "url": "https://febrabantech.febraban.org.br/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (sponsorship news)",
+     "url": "https://febrabantech.febraban.org.br/temas/inovacao/febraban-tech-2027-tem-100-dos-estandes-e-das-cotas-de-patrocinio-reservados-no-lancamento",
+     "field": "Previous listing (sponsorship news)"
     },
     {
      "label": "Official",
      "url": "https://portal.febraban.org.br/noticia/4518/pt-br/",
-     "field": "official"
-    },
-    {
-     "label": "Official",
-     "url": "https://febrabantech.febraban.org.br/",
      "field": "official"
     }
    ],
@@ -182241,7 +187801,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ifa_berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/37122179",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ifa.berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@IFABerlinHub",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ifa.berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ifa.berlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ifa-berlin.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pax-west-2027",
@@ -183288,7 +188892,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Matti Blume, Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "Matti Blume, Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/iaamobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IAAmobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/iaamobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UChGybnBWCu8U2LI-76nTjUA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/iaashow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@iaamobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iaa-mobility.com/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ipem-global-2027",
@@ -184068,7 +189716,7 @@ window.ATLASDATA={
    "event_id": "GCE-cioe-2027",
    "slug": "cioe-2027",
    "name": "CIOE 2027 (China International Optoelectronic Exposition)",
-   "website_url": "http://www.cioe.cn/Brief.html",
+   "website_url": "https://www.cioe.cn/en/",
    "start_date": "2027-09-08",
    "end_date": "2027-09-10",
    "city": "Shenzhen",
@@ -184088,7 +189736,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "http://www.cioe.cn/Brief.html",
+   "source_url": "https://www.cioe.cn/en/",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "Co-located with ELEXCON 2027; the organiser projects 'more than 320,000 professional visitors' across the combined shows (a forecast). Dates are local to the host city (China Standard Time, UTC+8).",
    "lat": 22.7011815,
@@ -184115,8 +189763,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "http://www.cioe.cn/Brief.html",
+     "url": "https://www.cioe.cn/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Brief page)",
+     "url": "http://www.cioe.cn/Brief.html",
+     "field": "Previous listing (Brief page)"
     }
    ],
    "status": "upcoming",
@@ -186320,7 +191973,51 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 46.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fabtechexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fabtechexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fabtech-expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fabtechexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fabtechexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/fabtechexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fabtechexpo.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gdynia-film-festival-2027",
@@ -187202,7 +192899,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/money2020me",
+     "verified_via": "official_site_checked",
+     "source_url": "https://money2020middleeast.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/money2020_me",
+     "verified_via": "official_site_checked",
+     "source_url": "https://money2020middleeast.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/money2020me",
+     "verified_via": "official_site_checked",
+     "source_url": "https://money2020middleeast.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@money2020_me",
+     "verified_via": "official_site_checked",
+     "source_url": "https://money2020middleeast.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/money2020_me",
+     "verified_via": "official_site_checked",
+     "source_url": "https://money2020middleeast.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nordic-edtech-summit-2027",
@@ -189244,7 +194978,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SotonBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.southamptonboatshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sotonboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.southamptonboatshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sotonboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.southamptonboatshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bmfwebmaster",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.southamptonboatshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sotonboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.southamptonboatshow.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ultra-japan-2027",
@@ -189389,7 +195160,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/big5saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/Big5Exhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TheBig5Saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/thebig5-saudi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.big5constructsaudi.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fintech-week-london-2027",
@@ -191377,7 +197178,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/monacoyachtshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/monacoyachtshow_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/monaco-yacht-show-s.a.m.",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/mys_monaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCRwzdp8WWY1lWC8QeDGIX-Q",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@monacoyachtshow.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.monacoyachtshow.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ottawa-international-animation-festival-2027",
@@ -193242,7 +199087,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CersaieCostruireAbitarePensare",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cersaie.it/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cersaie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cersaie.it/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cersaie",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cersaie.it/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@CERSAIE2025",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.cersaie.it/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pack-expo-las-vegas-2027",
@@ -193312,7 +199187,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/packexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.packexpolasvegas.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/packexposhow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.packexpolasvegas.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/packexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.packexpolasvegas.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/packexposhow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.packexpolasvegas.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@pmmiorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.packexpolasvegas.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-superreturn-asia-2027",
@@ -193446,7 +199358,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aimexevent",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aimex.com.au/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/asia-pacifics-international-mining-exhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aimex.com.au/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gess-saudi-arabia-2027",
@@ -194738,7 +200666,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SaloneNauticoGenova",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonenautico.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/salonenautico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonenautico.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salonenauticogenova",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonenautico.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC0WDHspoER150rnGLi7XbJA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonenautico.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/salonenautico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonenautico.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-riff-2027",
@@ -196644,7 +202609,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DevoxxForever",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/devoxxcom",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/9185591",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/devoxxbe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/devoxx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/devoxx.com",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "mastodon",
+     "url": "https://mastodon.social/@devoxx",
+     "verified_via": "official_site_checked",
+     "source_url": "https://devoxx.be/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-emo-milano-2027",
@@ -196709,7 +202725,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/emo-milano-2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.emo-milan.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/emo.milano2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.emo-milan.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EMOMILANO2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.emo-milan.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/emomilano2027",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.emo-milan.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCDyMS5NilXXzT72VSuK-ZDw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.emo-milan.com/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expo-real-2027",
@@ -197228,7 +203281,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/gitexnigeria",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexnigeria.ng/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/GITEXNIGERIA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexnigeria.ng/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/gitexnigeria",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexnigeria.ng/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GITEXNG",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexnigeria.ng/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@gitexnigeria",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexnigeria.ng/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hi-tech-industry-scandinavia-2027",
@@ -197471,7 +203561,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/itsa_home_of_it_security",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itsa365.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/it-sa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itsa365.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/itsaexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.itsa365.de/en/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-designblok-2027",
@@ -198240,7 +204353,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.asia.token2049.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.asia.token2049.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/TOKEN2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.asia.token2049.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/token2049",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.asia.token2049.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/token2049official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.asia.token2049.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wave-by-vento-2027",
@@ -200076,7 +206226,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/anugashowcase",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anuga.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/anugacologne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anuga.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/anugacologne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anuga.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCUjQNCTThXXyNZmoBYI8PSw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.anuga.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-brasil-game-show-2027",
@@ -200146,7 +206326,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/brasilgameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brasilgameshow.com.br/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/brasilgameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brasilgameshow.com.br/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/brasilgameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brasilgameshow.com.br/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BrasilGameShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brasilgameshow.com.br/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@brasilgameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brasilgameshow.com.br/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chicago-marathon-2027",
@@ -200963,7 +207180,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/salonnautico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonnautico.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/salonnauticobarcelona",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonnautico.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salonnautico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonnautico.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/salonnautico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonnautico.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/salonnauticobcn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonnautico.com/en/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-expo-cihac-2027",
@@ -202665,7 +208919,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/beautyworlddxb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/beautyworlddxb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beautyworlddxb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/beautyworlddxb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ceatec-2027",
@@ -202769,7 +209053,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ceatec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ceatec.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ceatec_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ceatec.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CEATEC.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ceatec.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/69190876",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ceatec.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CEATEC_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ceatec.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-congreso-latinoamericano-educacion-superior-2027",
@@ -203057,7 +209378,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/money2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/money20_20",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCip4CIpmM13NOAH-j9GiAzg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://us.money2020.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-water-energy-technology-and-environment-exhibition-wetex-2027",
@@ -204150,7 +210508,7 @@ window.ATLASDATA={
    "event_id": "GCE-gamescom-asia-thailand-game-show-2027",
    "slug": "gamescom-asia-thailand-game-show-2027",
    "name": "gamescom asia x Thailand Game Show 2027",
-   "website_url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+   "website_url": "https://www.gamescom.asia/",
    "start_date": "2027-10-21",
    "end_date": "2027-10-24",
    "city": "Bangkok",
@@ -204170,7 +210528,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+   "source_url": "https://www.gamescom.asia/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Thailand dates (ICT, UTC+7).",
    "lat": 13.7242403,
@@ -204196,8 +210554,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+     "url": "https://www.gamescom.asia/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (dates and opening times page)",
+     "url": "https://www.gamescom.asia/about/gamescom-asia/date-time",
+     "field": "Previous listing (dates and opening times page)"
     },
     {
      "label": "Official",
@@ -205363,7 +211726,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/euroshop_middle_east",
+     "verified_via": "official_site_checked",
+     "source_url": "https://euroshop-me.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/euroshop-middle-east",
+     "verified_via": "official_site_checked",
+     "source_url": "https://euroshop-me.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fii10-2027",
@@ -205427,7 +211806,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@FII_INSTITUTE",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fiiinstitute",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FII_Institute1",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fii_institute",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fiiinstitute",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fii_institute",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fii-institute.org/",
+     "accessed_at": "2026-11-24T14:07:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-govware-2027",
@@ -205648,7 +212071,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/seamlessafrica",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-africa/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SeamlessAfrica",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-africa/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Seamless_Africa",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.terrapinn.com/exhibition/seamless-africa/index.stm",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-swiss-indoors-basel-2027",
@@ -205925,7 +212371,7 @@ window.ATLASDATA={
    "event_id": "GCE-formnext-2027",
    "slug": "formnext-2027",
    "name": "Formnext 2027",
-   "website_url": "https://formnext.mesago.com/frankfurt/en/expo/visitor-information/opening-hours.html",
+   "website_url": "https://formnext.mesago.com/frankfurt/en.html",
    "start_date": "2027-10-26",
    "end_date": "2027-10-29",
    "city": "Frankfurt",
@@ -205945,7 +212391,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://formnext.mesago.com/frankfurt/en/expo/visitor-information/opening-hours.html",
+   "source_url": "https://formnext.mesago.com/frankfurt/en.html",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 50.1115781,
@@ -205960,9 +212406,14 @@ window.ATLASDATA={
    "photos": [],
    "sources": [
     {
+     "label": "Official",
+     "url": "https://formnext.mesago.com/frankfurt/en.html",
+     "field": "official"
+    },
+    {
      "label": "Official opening-hours page with 2027 save-the-date",
      "url": "https://formnext.mesago.com/frankfurt/en/expo/visitor-information/opening-hours.html",
-     "field": "official"
+     "field": "Previous listing (opening hours)"
     }
    ],
    "status": "upcoming",
@@ -205983,7 +212434,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/formnext",
+     "verified_via": "official_site_checked",
+     "source_url": "https://formnext.mesago.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/formnext",
+     "verified_via": "official_site_checked",
+     "source_url": "https://formnext.mesago.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCzjmbeO7ExfYei7p9wxDzhA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://formnext.mesago.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/17902365",
+     "verified_via": "official_site_checked",
+     "source_url": "https://formnext.mesago.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-gitex-ai-turkiye-2027",
@@ -206053,7 +212534,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gitex_turkiye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexturkiye.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gitex-t%c3%bcrkiye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexturkiye.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GitexTurkiye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexturkiye.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@GITEX_T%C3%BCrkiye",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexturkiye.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Vb8CIS9JkK74y5PpvR1Y",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gitexturkiye.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-moonshot-2027",
@@ -206518,7 +213036,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/flibsofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flibs.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fortlauderdaleboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flibs.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/flibsofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flibs.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/InformaUSBoatShows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flibs.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/informa-us-boat-shows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.flibs.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-indagra-2027",
@@ -207995,7 +214550,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/adipecofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adipec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/adipecofficialpage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adipec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adipec_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adipec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/10663837",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adipec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnFtPtFwMrRkuGUTk4Rh4tA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adipec.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-afrotech-conference-2027",
@@ -208170,7 +214762,7 @@ window.ATLASDATA={
    "event_id": "GCE-gulfood-manufacturing-2027",
    "slug": "gulfood-manufacturing-2027",
    "name": "Gulfood Manufacturing 2027",
-   "website_url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+   "website_url": "https://www.gulfoodmanufacturing.com/",
    "start_date": "2027-11-01",
    "end_date": "2027-11-03",
    "city": "Dubai",
@@ -208190,7 +214782,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+   "source_url": "https://www.gulfoodmanufacturing.com/",
    "last_scraped_at": "2026-11-23T19:20:00+01:00",
    "notes": "Dates and venue from the official DEC listing (gulfoodmanufacturing.com returned 403 to a scripted fetch on 23 Nov 2026). UAE dates are local (Gulf Standard Time, UTC+4).",
    "lat": 24.9661396,
@@ -208249,8 +214841,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+     "url": "https://www.gulfoodmanufacturing.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Dubai Exhibition Centre calendar)",
+     "url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+     "field": "Previous listing (Dubai Exhibition Centre calendar)"
     }
    ],
    "status": "upcoming",
@@ -208265,7 +214862,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GulfoodManufacturing",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GFManufacturing",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.dubaiexhibitioncentre.com/en/whats-on/gulfood-manufacturing-2027",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-islamic-arts-biennale-2027",
@@ -208436,7 +215049,7 @@ window.ATLASDATA={
    "event_id": "GCE-europort-2027",
    "slug": "europort-2027",
    "name": "Europort 2027",
-   "website_url": "https://www.europort.nl/visitor/practical-information",
+   "website_url": "https://www.europort.nl/",
    "start_date": "2027-11-02",
    "end_date": "2027-11-05",
    "city": "Rotterdam",
@@ -208456,7 +215069,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.europort.nl/visitor/practical-information",
+   "source_url": "https://www.europort.nl/",
    "last_scraped_at": "2026-11-24T09:06:00+01:00",
    "notes": "Dates are local to the host city. 43rd edition; professional event, visitors aged 18+.",
    "lat": 51.8832963,
@@ -208473,8 +215086,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.europort.nl/visitor/practical-information",
+     "url": "https://www.europort.nl/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (practical information)",
+     "url": "https://www.europort.nl/visitor/practical-information",
+     "field": "Previous listing (practical information)"
     },
     {
      "label": "Official",
@@ -208500,7 +215118,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Europort-1491921780838684",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.europort.nl/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/europort_exhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.europort.nl/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/18008410",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.europort.nl/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCAv5RMWjN5dgOdYGFQG5ZPg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.europort.nl/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Europort2025",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.europort.nl/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-salt-london-2027",
@@ -208952,7 +215607,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/smartcityexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.smartcityexpo.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SmartCityExpoWorldCongress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.smartcityexpo.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/smartcityexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.smartcityexpo.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/smartcityexpoworldcongress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.smartcityexpo.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SmartCityExpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.smartcityexpo.com/",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wtm-london-2027",
@@ -209027,7 +215719,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/WTM_London",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/london/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wtmlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/london/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wtmlondon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/london/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/wtm-london",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/london/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Worldtravelmarket",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.wtm.com/london/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dtx-london-2027",
@@ -210547,7 +217276,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cairoict",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cairoict.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CairoICT",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cairoict.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cairoict",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cairoict.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cairoict",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cairoict.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@CairoICT",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cairoict.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-digital-transformation-kuwait-2027",
@@ -210981,7 +217747,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cloud-native-computing-foundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/cloudnativefdn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CloudNativeComputingFoundation",
+     "verified_via": "official_site_checked",
+     "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-web-summit-2027",
@@ -211083,7 +217872,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/web-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WebSummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WebSummitHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://websummit.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-webinale-munich-2027",
@@ -211245,7 +218064,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/automechanikadu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/automechanikadu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AutomechanikaDu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/automecdubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCpUHjMCIYZtOyLfs0-t6oUQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://automechanika-dubai.ae.messefrankfurt.com/dubai/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-eicma-2027",
@@ -211324,7 +218180,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Saggittarius A, Wikimedia Commons, CC BY 4.0"
+   "photoCredit": "Saggittarius A, Wikimedia Commons, CC BY 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EicmaOfficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.eicma.it/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/eicmaofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.eicma.it/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/eicma-spa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.eicma.it/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/infoeicma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.eicma.it/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ecomondo-2027",
@@ -211389,7 +218275,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/11749287",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ecomondo.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/EcomondoRimini",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ecomondo.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ecomondo_expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ecomondo.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ecomondo_it",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ecomondo.com/en",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydney-tech-expo-2027",
@@ -211826,7 +218742,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/singapore-fintech-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechfestival.sg/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sgfintechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechfestival.sg/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sgfintechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechfestival.sg/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sgfintechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechfestival.sg/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCQNI-8DwtJWMFIfSUEOcijA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fintechfestival.sg/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-recod-2027",
@@ -212560,7 +219513,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Matti Blume (MB-one), Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "Matti Blume (MB-one), Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029VbAbZI8Ae5VpgqIo3A3I",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agritechnica.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nitto-atp-finals-2027",
@@ -212710,7 +219672,7 @@ window.ATLASDATA={
    "event_id": "GCE-compamed-2027",
    "slug": "compamed-2027",
    "name": "COMPAMED 2027",
-   "website_url": "https://www.compamed-tradefair.com/en/Exhibit/Information/At_a_glance",
+   "website_url": "https://www.compamed-tradefair.com/",
    "start_date": "2027-11-15",
    "end_date": "2027-11-18",
    "city": "Düsseldorf",
@@ -212730,7 +219692,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.compamed-tradefair.com/en/Exhibit/Information/At_a_glance",
+   "source_url": "https://www.compamed-tradefair.com/",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer). Co-located with MEDICA 2027 (same dates, same venue complex, COMPAMED in halls 8a and 8b).",
    "lat": 51.2597801,
@@ -212746,8 +219708,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.compamed-tradefair.com/en/Exhibit/Information/At_a_glance",
+     "url": "https://www.compamed-tradefair.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (At a glance)",
+     "url": "https://www.compamed-tradefair.com/en/Exhibit/Information/At_a_glance",
+     "field": "Previous listing (At a glance)"
     }
    ],
    "status": "upcoming",
@@ -212868,13 +219835,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@dubaiairshow5655",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dubaiairshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dubai-airshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dubai_airshow_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DubaiAirshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dubaiairshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaiairshow.aero/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-medica-2027",
    "slug": "medica-2027",
    "name": "MEDICA 2027",
-   "website_url": "https://www.medica-tradefair.com/en/Exhibit/Information/At_a_glance",
+   "website_url": "https://www.medica-tradefair.com/",
    "start_date": "2027-11-15",
    "end_date": "2027-11-18",
    "city": "Düsseldorf",
@@ -212894,7 +219905,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.medica-tradefair.com/en/Exhibit/Information/At_a_glance",
+   "source_url": "https://www.medica-tradefair.com/",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer). Co-located with COMPAMED 2027 (same dates, same venue complex).",
    "lat": 51.2597801,
@@ -212920,8 +219931,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.medica-tradefair.com/en/Exhibit/Information/At_a_glance",
+     "url": "https://www.medica-tradefair.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (At a glance)",
+     "url": "https://www.medica-tradefair.com/en/Exhibit/Information/At_a_glance",
+     "field": "Previous listing (At a glance)"
     }
    ],
    "status": "upcoming",
@@ -212942,7 +219958,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Andreas Wiese / Messe Düsseldorf, via Wikimedia Commons, CC BY-SA 3.0"
+   "photoCredit": "Andreas Wiese / Messe Düsseldorf, via Wikimedia Commons, CC BY-SA 3.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MEDICADuesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.medica-tradefair.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/medica-international-trade-fair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.medica-tradefair.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "http://www.youtube.com/user/MEDICATradeFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.medica-tradefair.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/medica_inspires",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.medica-tradefair.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mlcon-berlin-2027",
@@ -213118,7 +220164,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/MWCHub",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mwcseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mobileworldcongress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/gsma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/mwcdoha",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Vb8GeEl4dTnRtsv6tH0J",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwcdoha.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-riskminds-international-2027",
@@ -213390,7 +220480,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/IBTMevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ibtmevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ibtmevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ibtmevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/eibtmteam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ibtmevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ibtmworld.com/en-gb.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-metstrade-2027",
@@ -213729,7 +220863,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/productronica-messe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.productronica.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@productronica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.productronica.com/en/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-future-week-2027",
@@ -213907,7 +221057,7 @@ window.ATLASDATA={
    "event_id": "GCE-made-expo-2027",
    "slug": "made-expo-2027",
    "name": "MADE expo 2027",
-   "website_url": "https://www.fieramilanoasiapacific.com/our-portfolio/",
+   "website_url": "https://www.madeexpo.it/en/",
    "start_date": "2027-11-17",
    "end_date": "2027-11-20",
    "city": "Milan",
@@ -213927,7 +221077,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.fieramilanoasiapacific.com/our-portfolio/",
+   "source_url": "https://www.madeexpo.it/en/",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city.",
    "lat": 45.5211715,
@@ -213944,8 +221094,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.fieramilanoasiapacific.com/our-portfolio/",
+     "url": "https://www.madeexpo.it/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Fiera Milano Asia Pacific portfolio)",
+     "url": "https://www.fieramilanoasiapacific.com/our-portfolio/",
+     "field": "Previous listing (Fiera Milano Asia Pacific portfolio)"
     }
    ],
    "status": "upcoming",
@@ -214068,7 +221223,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/adibs_boatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adibs.ae/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCgu8Wo3_L6fmOzTKH9KuDAA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adibs.ae/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@abudhabiboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adibs.ae/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adibs_boatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.adibs.ae/en",
+     "accessed_at": "2026-11-24T13:48:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-las-vegas-grand-prix-2027",
@@ -214403,7 +221588,7 @@ window.ATLASDATA={
    "event_id": "GCE-sps-2027",
    "slug": "sps-2027",
    "name": "SPS 2027",
-   "website_url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+   "website_url": "https://sps.mesago.com/nuernberg/en.html",
    "start_date": "2027-11-23",
    "end_date": "2027-11-25",
    "city": "Nuremberg",
@@ -214423,7 +221608,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+   "source_url": "https://sps.mesago.com/nuernberg/en.html",
    "last_scraped_at": "2026-11-24T08:40:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 49.4192472,
@@ -214439,8 +221624,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+     "url": "https://sps.mesago.com/nuernberg/en.html",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (opening hours)",
+     "url": "https://sps.mesago.com/nuernberg/en/expo/planning-preparation/opening-hours.html",
+     "field": "Previous listing (opening hours)"
     }
    ],
    "status": "upcoming",
@@ -214461,7 +221651,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/spsmesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sps.mesago.com/nuernberg/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/17926644",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sps.mesago.com/nuernberg/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCwqKLvJMyi50x0NpCPWnqXA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sps.mesago.com/nuernberg/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/spsmesse",
+     "verified_via": "official_site_checked",
+     "source_url": "https://sps.mesago.com/nuernberg/en.html",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-evolve-future-mobility-show-2027",
@@ -215912,7 +223132,7 @@ window.ATLASDATA={
    "event_id": "GCE-sett-mechelen-2028",
    "slug": "sett-mechelen-2028",
    "name": "Sett Mechelen 2028",
-   "website_url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+   "website_url": "https://www.sett-vlaanderen.be/",
    "start_date": "2028-02-23",
    "end_date": "2028-02-24",
    "city": "Mechelen",
@@ -215932,7 +223152,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2028,
-   "source_url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+   "source_url": "https://www.sett-vlaanderen.be/",
    "last_scraped_at": "2026-11-24T03:00:00+01:00",
    "notes": "Official Sett calendar for the Mechelen edition that follows Sett Gent 2027. Mid-2028 window includes February 2028. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 51.0277835,
@@ -215948,8 +223168,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+     "url": "https://www.sett-vlaanderen.be/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (practical info)",
+     "url": "https://www.sett-vlaanderen.be/nl/praktische-info/",
+     "field": "Previous listing (practical info)"
     },
     {
      "label": "Official",
@@ -241986,7 +249211,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/MWCHub",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwckigali.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mwcseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwckigali.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mobileworldcongress",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwckigali.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/gsma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwckigali.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/mwc-kigali",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mwckigali.com/",
+     "accessed_at": "2026-11-24T13:39:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-macau-grand-prix-2027",
@@ -273635,7 +280897,8 @@ window.ATLASDATA={
    },
    "source": "https://dadosabertos.turismodeportugal.pt/maps/turismoportugal::empreendimentos-turísticos-existentes",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "epic-sana-marques-lisbon"
   },
   {
    "name": "Eurostars Universal Lisboa",
@@ -277919,7 +285182,37 @@ window.ATLASDATA={
      "source_url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah/events/listing"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ritz-carlton-difc",
@@ -277965,7 +285258,23 @@ window.ATLASDATA={
      "source_url": "https://www.ritzcarlton.com/en/hotels/dxbif-the-ritz-carlton-dubai-international-financial-centre/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ritzcarltondifc",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/dxbif-the-ritz-carlton-dubai-international-financial-centre/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theritzcarltondifc",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/dxbif-the-ritz-carlton-dubai-international-financial-centre/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "dubai-airshow-site-dwc",
@@ -278448,6 +285757,22 @@ window.ATLASDATA={
      "href": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/atlantistheroyal",
+     "verified_via": "official property website",
+     "source_url": "https://www.atlantis.com/dubai/atlantis-the-royal",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AtlantisTheRoyal",
+     "verified_via": "official property website",
+     "source_url": "https://www.atlantis.com/dubai/atlantis-the-royal",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -278516,6 +285841,22 @@ window.ATLASDATA={
      "source_url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
      "href": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/emiratespalacemandarinoriental",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mo_emiratespalace",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -278694,7 +286035,242 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/jwmarriottmarquisdubai",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jwmarriottmarquisdubai",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "the-st-regis-saadiyat-island-abu-dhabi",
+   "name": "The St. Regis Saadiyat Island Resort, Abu Dhabi",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Abu Dhabi",
+   "address": "Saadiyat Island, P.O. Box 54345, Abu Dhabi",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/",
+   "capacity": 2400,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 14 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "The St. Regis Saadiyat Island Resort, Abu Dhabi official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (2400). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page. This is the Saadiyat Island resort and is not a duplicate of Emirates Palace or Conrad Abu Dhabi Etihad Towers. Official schema includes a Ballroom Terrace (possibly outdoor), which is stored with a note and not used as indoor exhibition area. Largest official schema capacity is the Regal Ballroom at 2,400.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Regal Ballroom",
+     "type": null,
+     "area_sqm": 3024,
+     "capacity_max": 2400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom C",
+     "type": null,
+     "area_sqm": 1008,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom B",
+     "type": null,
+     "area_sqm": 1008,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom A",
+     "type": null,
+     "area_sqm": 1008,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom C1",
+     "type": null,
+     "area_sqm": 672,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom A1",
+     "type": null,
+     "area_sqm": 672,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Ballroom Terrace",
+     "type": null,
+     "area_sqm": 550,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Ballroom Terrace'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom C2",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Regal Ballroom A2",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Majilis",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 20,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Meeting Room 4",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 18,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Meeting Room 1",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Meeting Room 2",
+     "type": null,
+     "area_sqm": 45,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    },
+    {
+     "name": "Meeting Room 3",
+     "type": null,
+     "area_sqm": 36,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stregissaadiyatisland",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/stregissaadiyat",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stregissaadiyatisland",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/auhxr-the-st-regis-saadiyat-island-resort-abu-dhabi/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "nelsons-dockyard",
@@ -278972,7 +286548,7 @@ window.ATLASDATA={
    "exhibition_sqm": 55000,
    "halls": "Official halls page: four multifunctional halls offering up to 55,000 sqm gross area, with capacity for up to 29,000 congress participants or 50,000 trade-fair visitors. Official hall areas: Hall A 15,898 sqm; Hall B 14,492 sqm; Hall C 15,898 sqm; Hall D 8,868 sqm (sum 55,156 sqm). Official foyers A 2,200 sqm and D 2,290 sqm are additional. Headline exhibition_sqm follows the official 'up to 55,000 sqm' gross-area figure.",
    "description": "Vienna congress and exhibition centre, recorded as one venue for all atlas strings that name Messe Wien, VIECON Messe Wien or individual halls C and D. Official exhibition headline is up to 55,000 sqm gross hall area; the published hall areas sum to 55,156 sqm and are listed in spaces rather than averaged into a third figure. capacity_max_delegates is 29,000, the official congress-participant figure. The stored address Messeplatz 1, 1020 Vienna follows the atlas venue string. Coordinates are the atlas precise pin. Buch Wien, BEST Vienna, Ferien-Messe Wien and Wohnen Interieur / Bauen Exterieur are linked here.",
-   "photo": null,
+   "photo": "img/venues/viecon-messe-wien-1.jpg",
    "linked_event_slugs": [
     "buch-wien-2026",
     "best-vienna-2027",
@@ -279076,6 +286652,24 @@ window.ATLASDATA={
      "source_url": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
      "href": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/viecon-messe-wien-1.jpg",
+     "thumb": "img/venues/viecon-messe-wien-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2020_12_04_Wien_083105_566_(50714131112).jpg",
+     "credit": "Photo: János Korom / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The dotted-glass concourse of Messe Wien (VIECON), Vienna, Austria, in 2020."
+    },
+    {
+     "src": "img/venues/viecon-messe-wien-2.jpg",
+     "thumb": "img/venues/viecon-messe-wien-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2020_12_04_Wien_083303_358_(50714051471).jpg",
+     "credit": "Photo: János Korom / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Exterior of Messe Wien (VIECON) in winter, Vienna, Austria, in 2020."
     }
    ],
    "socials": [
@@ -279782,6 +287376,22 @@ window.ATLASDATA={
      "href": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/anantarapalaishansenviennahotel",
+     "verified_via": "official property website",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/anantaravienna",
+     "verified_via": "official property website",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -280120,7 +287730,7 @@ window.ATLASDATA={
    "exhibition_sqm": 40000,
    "halls": "Official exhibitions page: 40,000 sqm of pillarless exhibition space. Official 2026 Floor Plans and Space Capacities Guide: 39,000 sqm of air-conditioned pillar-less Exhibition Bays, and Entire Plenary theatre 5,564 (Plenary 1: 1,482; Plenary 2: 2,468; Plenary 3: 1,484).",
    "description": "Victoria’s principal convention and exhibition centre at South Wharf. Official address on the 2026 Floor Plans and Space Capacities Guide is 1 Convention Centre Place, South Wharf; some atlas event strings use 2 Clarendon Street, which is an adjoining frontage of the same campus and is not recorded as a second venue. exhibition_sqm follows the current official exhibitions webpage (40,000 sqm pillarless). The official 2026 capacity guide, whose footer is dated 31 March 2026, instead states 39,000 sqm of pillar-less Exhibition Bays; that figure is kept on the Exhibition Bays space and is not averaged with the webpage. capacity_max_delegates is the official Entire Plenary theatre figure of 5,564 from that guide (AIPC and other third-party sheets quoting 5,500 were not used). A virtual-tour line on official material mentions 70,000 square metres of space; that is a campus-wide marketing figure, not the exhibition total. Contact the public sales address on the official guide. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/melbourne-convention-and-exhibition-centre-1.jpg",
    "linked_event_slugs": [
     "cybercon-2027",
     "the-ai-summit-australia-2027",
@@ -280216,6 +287826,24 @@ window.ATLASDATA={
      "local": false
     }
    ],
+   "photos": [
+    {
+     "src": "img/venues/melbourne-convention-and-exhibition-centre-1.jpg",
+     "thumb": "img/venues/melbourne-convention-and-exhibition-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Exhibition_Centre-Spencer_Street_view.jpg",
+     "credit": "Photo: Shkuru Afshar / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named facade of the Melbourne Convention and Exhibition Centre from Spencer Street, Melbourne, Australia, in 2023."
+    },
+    {
+     "src": "img/venues/melbourne-convention-and-exhibition-centre-2.jpg",
+     "thumb": "img/venues/melbourne-convention-and-exhibition-centre-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Exhibition_Centre_2.jpg",
+     "credit": "Photo: Pru Mitchell / Wikimedia Commons / CC BY 4.0",
+     "caption": "Melbourne Convention and Exhibition Centre on the Yarra River, Melbourne, Australia, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -280276,7 +287904,7 @@ window.ATLASDATA={
    "exhibition_sqm": 20000,
    "halls": "Official exhibitions page: four pillarless halls totalling 20,000 sqm, plus an additional 5,000 sqm when used with the Great Hall. Official foyer-level table: Halls 1–4 each 5,000 m² (narrative also 72×72 m / 5,040 sqm), banquet 2,000 and cocktail 4,000 each; Great Hall 4,088 m², theatre 3,958, banquet 2,800, cocktail 4,000. Official narrative: Great Hall can accommodate 4,000 and can extend to 8,000 for conventions.",
    "description": "South Bank convention and exhibition centre owned by South Bank Corporation and managed by Legends Global. Official exhibitions page: four pillarless halls totalling 20,000 sqm, with an additional 5,000 sqm when used with the Great Hall. Each hall is described as 72×72 m totalling 5,040 sqm, while the official foyer-level capacity table lists 5,000 m² per hall; spaces use the table’s 5,000 m² and note the 5,040 figure. capacity_max_delegates is 8,000 from the official Great Hall narrative (capability to extend to 8,000 for conventions with raiseable seating, divisible into four). The official table’s standard Great Hall theatre figure is 3,958. Official floor-plan brochure is dated September 2025. Competitor directory figures were not used. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/brisbane-convention-and-exhibition-centre-1.jpg",
    "linked_event_slugs": [
     "gartner-it-symposium-xpo-australia-2027",
     "yow-brisbane-2026",
@@ -280371,6 +287999,16 @@ window.ATLASDATA={
      "source_url": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
      "href": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/brisbane-convention-and-exhibition-centre-1.jpg",
+     "thumb": "img/venues/brisbane-convention-and-exhibition-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Brisbane_Convention_%26_Exhibition_Centre_(1).jpg",
+     "credit": "Photo: Vanbasten 23 / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Named entrance of the Brisbane Convention & Exhibition Centre, Brisbane, Australia, in 2023."
     }
    ],
    "socials": [
@@ -281062,6 +288700,36 @@ window.ATLASDATA={
      "href": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheFullertonHotelSydney",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fullertonhotels.com/fullerton-hotel-sydney",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fullertonhotelsydney",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fullertonhotels.com/fullerton-hotel-sydney",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fullertonsyd",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fullertonhotels.com/fullerton-hotel-sydney",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheFullertonHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fullertonhotels.com/fullerton-hotel-sydney",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -281134,7 +288802,7 @@ window.ATLASDATA={
    "address": "Melbourne, Victoria, Australia",
    "lat": -37.850241,
    "lon": 144.9787984,
-   "url": "https://www.pullmanmelbournealbertpark.com/",
+   "url": "https://www.pullmanalbertpark.com.au/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -281145,13 +288813,40 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.pullmanalbertpark.com.au/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.pullmanmelbournealbertpark.com/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PullmanMelbourneAlbertPark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pullmanalbertpark.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pullmanalbertpark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pullmanalbertpark.com.au/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pullman-melbourne-albert-park",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pullmanalbertpark.com.au/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "racv-royal-pines-resort",
@@ -281163,7 +288858,7 @@ window.ATLASDATA={
    "address": "Gold Coast, Queensland, Australia",
    "lat": -28.0046443,
    "lon": 153.3760783,
-   "url": "https://www.racv.com.au/travel-leisure/racv-resorts/royal-pines.html",
+   "url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -281174,13 +288869,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.racv.com.au/travel-leisure/racv-resorts/royal-pines.html",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/racv",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/racvofficial",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/racv",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/racvofficial",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.racv.com.au/travel-experiences/resorts/royal-pines-gold-coast.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "crown-sydney",
@@ -281210,7 +288939,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crownsydney",
+     "verified_via": "official property website",
+     "source_url": "https://www.crownsydney.com.au",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CrownSydney",
+     "verified_via": "official property website",
+     "source_url": "https://www.crownsydney.com.au",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "crown-promenade-melbourne",
@@ -281239,7 +288984,16 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CrownPromenade",
+     "verified_via": "official website footer",
+     "source_url": "https://www.crownmelbourne.com.au/hotels/crown-promenade",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "rydges-south-bank",
@@ -281356,7 +289110,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official technical pages list Halls 1–11, Hall 12 / ING Arena, plus supporting rooms including Auditorium 2000, Astrid Hall and Patio Hall",
    "description": "Belgium’s main exhibition park at the Heysel, officially at Place de Belgique 1, 1020 Brussels. Official technical information lists Halls 01–11 and Hall 12 (ING Arena) with downloadable documents per hall. A single official indoor exhibition campus total was not published on the retrieved official pages, so exhibition_sqm and capacity_max_delegates are left null rather than taken from secondary UFI or third-party figures. Coordinates are the atlas precise pin, matching the Nominatim events-centre pin.",
-   "photo": null,
+   "photo": "img/venues/brussels-expo-1.jpg",
    "linked_event_slugs": [
     "cybersec-europe-2027",
     "made-in-asia-brussels-2027",
@@ -281380,7 +289134,25 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/brussels-expo-1.jpg",
+     "thumb": "img/venues/brussels-expo-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Brussels_Expo,_Palais_5_(DSCF1226).jpg",
+     "credit": "Photo: Trougnouf (Benoit Brummer) / Wikimedia Commons / CC BY 4.0",
+     "caption": "Palais 5 (Grand Palais) at Brussels Expo, Heysel, Brussels, Belgium, in 2018."
+    },
+    {
+     "src": "img/venues/brussels-expo-2.jpg",
+     "thumb": "img/venues/brussels-expo-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Brussels_Expo,_2022.jpg",
+     "credit": "Photo: Michael Doherty / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Palais 5 at Brussels Expo across the pond, Heysel, Brussels, Belgium, in 2022."
+    }
+   ]
   },
   {
    "slug": "flanders-expo",
@@ -281397,7 +289169,7 @@ window.ATLASDATA={
    "exhibition_sqm": 54000,
    "halls": "Eight halls; official copy also refers to around 54,000 m² of event space, plus outdoor areas listed separately",
    "description": "Ghent exhibition and events centre officially at Maaltekouter 1, 9051 Ghent. Official halls page: eight halls and 54,000 m² of space, stored as exhibition_sqm (also described as “around 54,000 m² of event space”). Official indoor hall areas: Hall 1 19,152 m² (9,000 theatre, 9,000–20,000 reception/party, stored as capacity_max_delegates 20,000); Halls 2–7 each 4,032 m² / 3,500 persons / 2,688 theatre; Hall 8 10,735 m² / 10,000 persons / 8,000 theatre. Those eight halls sum to 54,079 m², consistent with the official 54,000 headline. Official outdoor areas (PA4 5,600, Hall 3 outdoor 1,500, Hall 8 outdoor 5,000, PA1 10,000 m²) are not included in exhibition_sqm.",
-   "photo": null,
+   "photo": "img/venues/flanders-expo-1.jpg",
    "linked_event_slugs": [
     "sett-gent-2027",
     "facts-ghent-2027",
@@ -281514,6 +289286,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/flanders-expo-1.jpg",
+     "thumb": "img/venues/flanders-expo-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Gent_-_Flanders_Expo_1.jpg",
+     "credit": "Photo: LimoWreck / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Main entrance building of Flanders Expo, Ghent, Belgium, in 2008."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -283110,6 +290892,384 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "baha-mar-convention-center",
+   "name": "Baha Mar Convention Center",
+   "type": "convention_centre",
+   "country": "Bahamas",
+   "cc": "BS",
+   "city": "Nassau",
+   "address": "Nassau, The Bahamas",
+   "lat": null,
+   "lon": null,
+   "url": "https://bahamar.com/meetings/",
+   "capacity": 2940,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page lists the Baha Mar Grand Ballroom, Andros Ballroom, New Providence Ballroom and named Andros / New Providence salons, plus further unnamed rooms.",
+   "description": "Official meetings page: 'Operated by Grand Hyatt, the Baha Mar Convention Center'. Official copy also markets 'over 300,000 sq ft of luxurious indoor and outdoor meeting space' and '200,000 square feet of flexible indoor and outdoor spaces' — those combined indoor/outdoor totals are not stored as exhibition_sqm. The largest officially labelled theatre figure retrieved is the Baha Mar Grand Ballroom at 2,940 (stored as capacity_max_delegates). An unnamed 40,000 sq.ft space is published with an unlabelled 4,000-people figure; that is not used as a campus maximum because the layout is unlabelled and the room is unnamed in the extract. Official address on the retrieved pages is given as Nassau, The Bahamas (no street line was clearly published on the meetings page). Areas converted from official sq.ft.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://bahamar.com/meetings/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bahamar.com/floor/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Baha Mar Grand Ballroom",
+     "type": null,
+     "area_sqm": 2750,
+     "capacity_max": 2940,
+     "capacity_theatre": 2940,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 29,600 sq.ft, Theatre 2,940. The same block also prints unlabelled figures of 1,800, 3,000 and 1,575 people; those are not assigned to banquet/classroom/reception because the extracted HTML does not label those three columns clearly.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Ballroom",
+     "type": null,
+     "area_sqm": 1822,
+     "capacity_max": 1800,
+     "capacity_theatre": 1800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 19,610 sq.ft, Theatre 1,800. Unlabelled figures of 1,120, 2,000 and 1,008 people are noted and not assigned to other layouts.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "New Providence Ballroom",
+     "type": null,
+     "area_sqm": 1461,
+     "capacity_max": 1400,
+     "capacity_theatre": 1400,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 15,725 sq.ft, Theatre 1,400. Unlabelled figures of 910, 1,500 and 792 people are noted and not assigned.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "New Providence Salon 4",
+     "type": null,
+     "area_sqm": 784,
+     "capacity_max": 800,
+     "capacity_theatre": 800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 8,435 sq.ft, Theatre 800. Unlabelled 490 / 750 / 432 noted, not assigned.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "New Providence Salon 1",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,810 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "New Providence Salon 2",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,810 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "New Providence Salon 3",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,810 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 1",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page lists Andros Salon 1 with Theatre 156. A room-size line was not clearly attached to this salon in the extracted text, so area_sqm is left null rather than borrowed from a neighbouring 1,800 sq.ft row.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 2",
+     "type": null,
+     "area_sqm": 167,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,800 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 3",
+     "type": null,
+     "area_sqm": 167,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,800 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 4",
+     "type": null,
+     "area_sqm": 158,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,700 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 5",
+     "type": null,
+     "area_sqm": 158,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,700 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 6",
+     "type": null,
+     "area_sqm": 158,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,700 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 7",
+     "type": null,
+     "area_sqm": 167,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,800 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 8",
+     "type": null,
+     "area_sqm": 167,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,800 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    },
+    {
+     "name": "Andros Salon 9",
+     "type": null,
+     "area_sqm": 167,
+     "capacity_max": 156,
+     "capacity_theatre": 156,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 1,800 sq.ft, Theatre 156.",
+     "source_url": "https://bahamar.com/meetings/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BahaMarResorts",
+     "verified_via": "official website footer",
+     "source_url": "https://bahamar.com/meetings/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BahaMarResorts",
+     "verified_via": "official website footer",
+     "source_url": "https://bahamar.com/meetings/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/BahaMarresorts",
+     "verified_via": "official website footer",
+     "source_url": "https://bahamar.com/meetings/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "gaborone-international-convention-centre",
+   "name": "Gaborone International Convention Centre",
+   "type": "convention_centre",
+   "country": "Botswana",
+   "cc": "BW",
+   "city": "Gaborone",
+   "address": "Plot 17989 Bonnington Farm, Molepolole Road, Gaborone, Botswana",
+   "lat": null,
+   "lon": null,
+   "url": "https://grandpalm.bw/venues/",
+   "capacity": 1807,
+   "exhibition_sqm": null,
+   "halls": "Official venue pages publish the Tsodilo Suite plus Halls A–C and listed Hall B combinations (B1+B2, B4).",
+   "description": "Gaborone International Convention Centre (GICC) at The Grand Palm Resort. Official contact page gives the physical address Plot 17989 Bonnington Farm, Molepolole Road, and also 'The Grand Palm Hotel Casino Convention Resort, Cnr Bonnington Farm and Molepolole Road, Gaborone, Botswana'. Banqueting email [email removed]. Official Tsodilo Suite table: 1,550 m², cinema 1,807 (stored as capacity_max_delegates). Cinema columns are stored as capacity_theatre with a note. Star icons on some hall names are not treated as a property-level hotel classification for the convention centre, so star_rating is null. An official 'DOWNLOAD FACT SHEET' link did not retrieve a PDF in this pass; the Peermont group brochure was retrieved but is not used to override the venue-page table.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://grandpalm.bw/venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://grandpalm.bw/tsodilo-suite/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://grandpalm.bw/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Tsodilo Suite",
+     "type": null,
+     "area_sqm": 1550,
+     "capacity_max": 1807,
+     "capacity_theatre": 1807,
+     "capacity_classroom": 1002,
+     "capacity_banquet": 1040,
+     "capacity_reception": 1550,
+     "notes": "Official Grand Palm / GICC table: 1,550 m², cocktail 1,550, banquet 1,040, cinema 1,807 (stored as theatre), schoolroom 1,002, U-shape 700, boardroom 1,500. The official boardroom figure is unusually high relative to other layouts; it is stored only in the notes and not used to raise capacity_max.",
+     "source_url": "https://grandpalm.bw/tsodilo-suite/"
+    },
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 595,
+     "capacity_max": 590,
+     "capacity_theatre": 588,
+     "capacity_classroom": 360,
+     "capacity_banquet": 350,
+     "capacity_reception": 590,
+     "notes": "Official table: 595 m², cocktail 590, banquet 350, cinema 588, schoolroom 360, U-shape 290, boardroom 390.",
+     "source_url": "https://grandpalm.bw/venues/"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 595,
+     "capacity_max": 590,
+     "capacity_theatre": 588,
+     "capacity_classroom": 360,
+     "capacity_banquet": 350,
+     "capacity_reception": 590,
+     "notes": "Official table: 595 m², cocktail 590, banquet 350, cinema 588, schoolroom 360, U-shape 200, boardroom 360.",
+     "source_url": "https://grandpalm.bw/venues/"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 368,
+     "capacity_max": 396,
+     "capacity_theatre": 396,
+     "capacity_classroom": 192,
+     "capacity_banquet": 200,
+     "capacity_reception": 370,
+     "notes": "Official table: 368 m², cocktail 370, banquet 200, cinema 396, schoolroom 192, U-shape 120, boardroom 192.",
+     "source_url": "https://grandpalm.bw/venues/"
+    },
+    {
+     "name": "Hall B1+B2",
+     "type": null,
+     "area_sqm": 298,
+     "capacity_max": 308,
+     "capacity_theatre": 308,
+     "capacity_classroom": 180,
+     "capacity_banquet": 200,
+     "capacity_reception": 300,
+     "notes": "Official table: 298 m², cocktail 300, banquet 200, cinema 308, schoolroom 180, U-shape 140, boardroom 180.",
+     "source_url": "https://grandpalm.bw/venues/"
+    },
+    {
+     "name": "Hall B4",
+     "type": null,
+     "area_sqm": 187,
+     "capacity_max": 190,
+     "capacity_theatre": 162,
+     "capacity_classroom": 105,
+     "capacity_banquet": 90,
+     "capacity_reception": 190,
+     "notes": "Official table: 187 m², cocktail 190, banquet 90, cinema 162, schoolroom 105, U-shape 80, boardroom 100.",
+     "source_url": "https://grandpalm.bw/venues/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GrandPalm",
+     "verified_via": "official website footer",
+     "source_url": "https://grandpalm.bw/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gabsgrandpalm",
+     "verified_via": "official website footer",
+     "source_url": "https://grandpalm.bw/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grandpalmgabs",
+     "verified_via": "official website footer",
+     "source_url": "https://grandpalm.bw/venues/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "vancouver-convention-centre",
    "name": "Vancouver Convention Centre",
    "type": "convention_centre",
@@ -283563,7 +291723,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hotelbonaventuremontreal",
+     "verified_via": "official property website",
+     "source_url": "https://hotelbonaventure.com/fr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BonaventureHTL",
+     "verified_via": "official property website",
+     "source_url": "https://hotelbonaventure.com/fr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelbonaventuremontreal",
+     "verified_via": "official property website",
+     "source_url": "https://hotelbonaventure.com/fr/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hyatt-regency-toronto",
@@ -283679,7 +291862,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fairmontroyalyork",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/toronto/fairmont-royal-york.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fairmontroyalyork",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/toronto/fairmont-royal-york.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FairmontRYH",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/toronto/fairmont-royal-york.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "mars-discovery-district",
@@ -285235,7 +293441,7 @@ window.ATLASDATA={
    "address": "Talstrasse 1, 8001 Zürich, Switzerland",
    "lat": 47.3671121,
    "lon": 8.5393433,
-   "url": null,
+   "url": "https://www.bauraulac.ch/en/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -285244,13 +293450,40 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.bauraulac.ch/en/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-baur-au-lac",
      "label": "Official source"
     }
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BAURAULAC",
+     "verified_via": "official property website",
+     "source_url": "https://www.bauraulac.ch/en.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/baur-au-lac",
+     "verified_via": "official property website",
+     "source_url": "https://www.bauraulac.ch/en.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bauraulac",
+     "verified_via": "official property website",
+     "source_url": "https://www.bauraulac.ch/en.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-dolder-grand",
@@ -285262,7 +293495,7 @@ window.ATLASDATA={
    "address": "Kurhausstrasse 65, 8032 Zürich, Switzerland",
    "lat": 47.3727936,
    "lon": 8.5733694,
-   "url": null,
+   "url": "https://www.thedoldergrand.com/en/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -285271,13 +293504,61 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.thedoldergrand.com/en/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-the-dolder-grand",
      "label": "Official source"
     }
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/TheDolderGrand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thedoldergrand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheDolderGrand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-dolder-grand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thedoldergrand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/doldergrand",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thedoldergrand.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "beau-rivage-palace",
@@ -285308,7 +293589,30 @@ window.ATLASDATA={
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/beaurivagepalace",
+     "verified_via": "official website footer",
+     "source_url": "https://www.brp.ch/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/beaurivagepalace",
+     "verified_via": "official website footer",
+     "source_url": "https://www.brp.ch/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/beau-rivage-palace-lausanne",
+     "verified_via": "official website footer",
+     "source_url": "https://www.brp.ch/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "four-seasons-hotel-des-bergues",
@@ -285320,7 +293624,7 @@ window.ATLASDATA={
    "address": "Quai des Bergues 33, 1201 Genève, Switzerland",
    "lat": 46.2070338,
    "lon": 6.1469866,
-   "url": null,
+   "url": "https://www.fourseasons.com/geneva/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -285329,13 +293633,40 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.fourseasons.com/geneva/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-four-seasons-hotel-des-bergues",
      "label": "Official source"
     }
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/FSGeneva",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/geneva/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FourSeasonsHotelGeneva",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/geneva/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fsgeneva",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/geneva/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-president-wilson-geneva",
@@ -286061,7 +294392,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/santiago/sclha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "shenzhen-world-exhibition-and-convention-center",
@@ -286078,7 +294439,7 @@ window.ATLASDATA={
    "exhibition_sqm": 400000,
    "halls": "Official Shenzhen World brochure and official China Hi-Tech Fair venue page (organiser official page, consistent with the venue): Phase I indoor exhibition area 400,000 m², land area 1.2142 million m², built-up area 1.6005 million m², 19 halls (16 standard halls of 20,000 m², 2 multifunctional halls of 20,000 m², and 1 hall of 50,000 m²), plus about 34,000 m² of conference facilities. Official text also states that total indoor exhibition area will reach 500,000 m² after Phase II, which is not used as the current headline.",
    "description": "Bao'an, Shenzhen exhibition and convention complex adjacent to Shenzhen Airport, at official address No. 1 Zhancheng Road, Fuhai Street, Bao'an District. exhibition_sqm is the official Phase I indoor exhibition area of 400,000 m². The official Phase II figure of 500,000 m² is a future total and is not used. Official people capacities for a campus headline were not confirmed from the captured official brochure/organiser text, so capacity_max_delegates is null. The venue official website is largely script-rendered; figures are taken from the official venue brochure text and the official CHTF venue-info page, which match. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/shenzhen-world-exhibition-and-convention-center-1.jpg",
    "linked_event_slugs": [
     "china-hi-tech-fair-2026",
     "cioe-2027",
@@ -286137,7 +294498,25 @@ window.ATLASDATA={
      "source_url": "https://www.chtf.com/english/Info/Services/VenueInfo/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/shenzhen-world-exhibition-and-convention-center-1.jpg",
+     "thumb": "img/venues/shenzhen-world-exhibition-and-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Shenzhen_World_Exhibition_%26_Convention_Center_(10).jpg",
+     "credit": "Photo: Dinkun Chen / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The main entrance canopy of Shenzhen World Exhibition & Convention Center, Bao’an, Shenzhen, China, in 2026."
+    },
+    {
+     "src": "img/venues/shenzhen-world-exhibition-and-convention-center-2.jpg",
+     "thumb": "img/venues/shenzhen-world-exhibition-and-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Shenzhen_World_Exhibition_%26_Convention_Center_(11).jpg",
+     "credit": "Photo: Dinkun Chen / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Exterior of Shenzhen World Exhibition & Convention Center from the approach road, Bao’an, Shenzhen, China, in 2026."
+    }
+   ]
   },
   {
    "slug": "shanghai-new-international-expo-centre",
@@ -286154,7 +294533,7 @@ window.ATLASDATA={
    "exhibition_sqm": 200000,
    "halls": "Official facilities page: 17 exhibition halls totalling 200,000 sqm of column-free, ground-level indoor space, and outdoor exhibit space of more than 100,000 sqm; 3 entrance halls; 51 meeting rooms.",
    "description": "Pudong, Shanghai exhibition centre (SNIEC). Official address: No. 2345 Longyang Road, Pudong New Area, Shanghai. exhibition_sqm is the official indoor total of 200,000 sqm; official outdoor space of more than 100,000 sqm is not included. Official people capacities for a campus headline were not published on the facilities page captured here, so capacity_max_delegates is null. Public email on the official page is. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/shanghai-new-international-expo-centre-1.jpg",
    "linked_event_slugs": [
     "awe-2027",
     "semicon-china-2027",
@@ -286182,7 +294561,17 @@ window.ATLASDATA={
      "source_url": "https://www.sniec.net/organize_facilities.php"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/shanghai-new-international-expo-centre-1.jpg",
+     "thumb": "img/venues/shanghai-new-international-expo-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%9B%BD%E9%99%85%E5%8D%9A%E8%A7%88%E4%B8%AD%E5%BF%83_%E9%97%A8%E5%8F%A3.jpg",
+     "credit": "Photo: 維基小霸王 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named entrance of the Shanghai New International Expo Centre (SNIEC), Shanghai, China, in 2019."
+    }
+   ]
   },
   {
    "slug": "national-exhibition-and-convention-center-shanghai",
@@ -286397,7 +294786,7 @@ window.ATLASDATA={
   },
   {
    "slug": "beijing-new-yunnan-crowne-plaza-hotel",
-   "name": "Beijing New Yunnan Crowne Plaza Hotel",
+   "name": "Crowne Plaza Beijing Sun Palace",
    "type": "hotel_conference_venue",
    "country": "China",
    "cc": "CN",
@@ -286405,7 +294794,7 @@ window.ATLASDATA={
    "address": "Beijing, China",
    "lat": null,
    "lon": null,
-   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegyh/hoteldetail",
+   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -286416,13 +294805,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegyh/hoteldetail",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegsp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "corferias",
@@ -286848,7 +295271,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/medellin/mdeha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "crowne-plaza-san-jose-la-sabana",
@@ -286894,7 +295347,37 @@ window.ATLASDATA={
      "source_url": "https://www.visitcostarica.com/planning-your-trip/hotels/crowne-plaza-corobici"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-jose/sjocp/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "costa-rica-convention-center",
@@ -287113,7 +295596,7 @@ window.ATLASDATA={
    "exhibition_sqm": 130000,
    "halls": "14 exhibition halls and 19 conference halls, plus official outdoor areas",
    "description": "Brno’s official exhibition grounds, operated by Veletrhy Brno, at Výstaviště 405/1, 603 00 Brno. Official about page: more than 130,000 sq m of net exhibition area, stored as exhibition_sqm with that “more than” caveat. Official rental pages: the compound covers 450,000 m² (site area, not stored as exhibition) with 14 halls and 19 conference halls. Official hall table (gross floor area / maximum capacity): Hall P 15,085 m² / 12,500 persons, stored as capacity_max_delegates; Hall V 12,020 m² / 4,592; Hall Z 9,017 m² / 3,266; Hall F 7,788 m² / 2,748; Hall B 6,791 m² / 4,597, and other named halls as listed in spaces. Hall P’s official net exhibition area is separately described as over 10,000 sq m. Coordinates are the atlas precise pin for MSV and Amper.",
-   "photo": null,
+   "photo": "img/venues/brno-exhibition-centre-1.jpg",
    "linked_event_slugs": [
     "amper-2027",
     "msv-2027"
@@ -287308,6 +295791,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/brno-exhibition-centre-1.jpg",
+     "thumb": "img/venues/brno-exhibition-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Brn%C4%9Bnsk%C3%A9_v%C3%BDstavi%C5%A1t%C4%9B,_Veletr%C5%BEn%C3%AD_kino_07.jpg",
+     "credit": "Photo: Michal Gregor / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Veletržní kino pavilion at Brno Exhibition Centre, Brno, Czechia, in 2020."
+    },
+    {
+     "src": "img/venues/brno-exhibition-centre-2.jpg",
+     "thumb": "img/venues/brno-exhibition-centre-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Brn%C4%9Bnsk%C3%A9_v%C3%BDstavi%C5%A1t%C4%9B,_Pavilon_UMPRUM_03.jpg",
+     "credit": "Photo: Michal Gregor / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The UMPRUM pavilion at Brno Exhibition Centre, Brno, Czechia, in 2020."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -287681,6 +296182,302 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "prague-marriott",
+   "name": "Prague Marriott Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Czech Republic",
+   "cc": "CZ",
+   "city": "Prague",
+   "address": "V Celnici 8, Prague, 110 00",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/",
+   "capacity": 400,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 21 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "Prague Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (400). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Bohemia 1 + 2 + 3",
+     "type": null,
+     "area_sqm": 507,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Foyer Conference Area",
+     "type": null,
+     "area_sqm": 438,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Foyer Conference Area'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Bohemia 1 + 2",
+     "type": null,
+     "area_sqm": 390,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Bohemia 2 + 3",
+     "type": null,
+     "area_sqm": 357,
+     "capacity_max": 319,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 1 + 2 + 3",
+     "type": null,
+     "area_sqm": 264,
+     "capacity_max": 141,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Bohemia 2",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 2 + 3",
+     "type": null,
+     "area_sqm": 196,
+     "capacity_max": 141,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 1 + 2",
+     "type": null,
+     "area_sqm": 177,
+     "capacity_max": 141,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Bohemia 1",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Bohemia 3",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 2",
+     "type": null,
+     "area_sqm": 109,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 3",
+     "type": null,
+     "area_sqm": 87,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio G",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Moravia 1",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio A",
+     "type": null,
+     "area_sqm": 56,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio F",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio E",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio D",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio C",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio B",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    },
+    {
+     "name": "The Board room",
+     "type": null,
+     "area_sqm": 24,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PragueMarriottHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marriottprague",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/prgdt-prague-marriott-hotel/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "messe-muenchen",
    "name": "Messe München",
    "type": "exhibition_grounds",
@@ -287695,7 +296492,7 @@ window.ATLASDATA={
    "exhibition_sqm": 200000,
    "halls": "18 ground-level exhibition halls totalling 200,000 m² indoor space (halls A1–A6 and B1–B6 about 11,000 m² each; C1–C6 about 10,000 m²; B0 about 3,500 m²); 414,000 m² outdoor exhibition ground; ICM – International Congress Center (official total capacity 6,000 people, 20 rooms plus 27 conference rooms, 7,000 m² usable exhibition space); Conference Center North; about 100 conference and meeting rooms near the halls. Hall C1 is published at 10,000 m² for events with up to 9,000 people.",
    "description": "Munich's trade-fair campus in Messestadt Riem. The operator's locations pages describe 18 barrier-free, column-free halls with about 200,000 m² of indoor exhibition space and 414,000 m² of open-air ground, plus the on-site ICM congress centre for plenary sessions of up to 6,000 people. Atlas-listed trade fairs Automatica, productronica and LASER World of PHOTONICS are held here.",
-   "photo": null,
+   "photo": "img/venues/messe-muenchen-1.jpg",
    "linked_event_slugs": [
     "automatica-2027",
     "productronica-2027",
@@ -287733,6 +296530,24 @@ window.ATLASDATA={
      "source_url": "https://d2n1n6byqxibyi.cloudfront.net/asset/933560888063/document_btj2i01d9d5a57i0foevb9u34b/1877052_DE_hallenuebersicht.pdf",
      "href": "pdfs/venues/de/messe-muenchen/hallenuebersicht.pdf",
      "local": true
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/messe-muenchen-1.jpg",
+     "thumb": "img/venues/messe-muenchen-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Neue_Messe_Riem_Muenchen-1.jpg",
+     "credit": "Photo: Rufus46 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Messe München (Neue Messe Riem) across the lake, Munich, Germany, in 2024."
+    },
+    {
+     "src": "img/venues/messe-muenchen-2.jpg",
+     "thumb": "img/venues/messe-muenchen-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Neue_Messe_Riem_Muenchen-2.jpg",
+     "credit": "Photo: Rufus46 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main entrance canopy of Messe München at Messestadt Riem, Munich, Germany, in 2024."
     }
    ],
    "socials": [
@@ -287781,7 +296596,7 @@ window.ATLASDATA={
    "exhibition_sqm": 392453,
    "halls": "30 halls and pavilions; official hall area 392,453 m²; 58,000 m² outdoor area. Deutsche Messe's halls-and-pavilions factsheet also states about 392,500 m² of hall space. Individual published hall areas include Hall 2 (15,635 m²), Hall 13 (23,615 m²) and Hall 27 (30,845 m²). The site is marketed for events from 70 to 70,000 guests.",
    "description": "Deutsche Messe's Hannover exhibition grounds, among the largest trade-fair sites in the world. Official venue pages and the 2026 Hannover location guide give 30 halls and pavilions and 392,453 m² of hall area, with 58,000 m² of outdoor space. Hannover Messe and didacta are among the atlas events staged here.",
-   "photo": null,
+   "photo": "img/venues/messegelande-hannover-1.jpg",
    "linked_event_slugs": [
     "hannover-messe-2027",
     "didacta-2027"
@@ -287826,6 +296641,24 @@ window.ATLASDATA={
      "source_url": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
      "href": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/messegelande-hannover-1.jpg",
+     "thumb": "img/venues/messegelande-hannover-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Messegel%C3%A4nde_Hannover.jpg",
+     "credit": "Photo: Derbrauni / Wikimedia Commons / CC BY 4.0",
+     "caption": "The Convention Center and adjoining halls on the Messegelände Hannover campus, Hanover, Germany, in 2022."
+    },
+    {
+     "src": "img/venues/messegelande-hannover-2.jpg",
+     "thumb": "img/venues/messegelande-hannover-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hannover_Messe_2016_(02).jpg",
+     "credit": "Photo: Bahnfrend / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "West 2 entrance and Hall 27 on the Messegelände Hannover campus during Hannover Messe 2016."
     }
    ],
    "socials": [
@@ -287979,7 +296812,7 @@ window.ATLASDATA={
    "exhibition_sqm": 180000,
    "halls": "16 exhibition halls with 180,000 m² gross indoor exhibition space and up to 50,000 m² gross open-air space. Published hall areas include Hall 1 (10,800 m²), Hall 3 (12,730 m²), Hall 3A (8,400 m²), Hall 3C (9,600 m²), Hall 7 (16,410 m²) and Halls 12.0/12.2 (13,730 / 13,330 m²). Three NürnbergConvention Centers are published with convention space for up to 12,800 attendees. Six entry areas; 13,500 parking spaces.",
    "description": "Nuremberg's compact exhibition centre, including Zaha Hadid-designed Halls 3A and 3C and three convention centres. Official halls-and-site pages give 16 halls, 180,000 m² of gross indoor exhibition space and convention capacity of up to 12,800 people. Atlas events embedded world and it-sa are held here.",
-   "photo": null,
+   "photo": "img/venues/nuernbergmesse-1.jpg",
    "linked_event_slugs": [
     "embedded-world-2027",
     "it-sa-2027"
@@ -287993,6 +296826,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/nuernbergmesse-1.jpg",
+     "thumb": "img/venues/nuernbergmesse-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:It-sa_2017_Messe_N%C3%BCrnberg_Eingang_Mitte-West.jpg",
+     "credit": "Photo: Ordercrazy / Wikimedia Commons / CC0",
+     "caption": "Mitte-West entrance of NürnbergMesse, Nuremberg, Germany, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -288039,7 +296882,7 @@ window.ATLASDATA={
    "exhibition_sqm": 87000,
    "halls": "11 halls with 87,000 m² of exhibition space plus 10,000 m² outdoor area (97,000 m² total exhibition area). Hall sizes are published from 2,878 m² to 13,175 m², with ceiling heights up to 17 m. The wider Hamburg Messe und Congress campus also includes Congress Center Hamburg (CCH), which is not given a separate record in this batch.",
    "description": "The inner-city exhibition grounds of Hamburg Messe und Congress, next to the television tower in the Schanze district. Official venue pages state 11 halls, 87,000 m² of indoor exhibition space and 10,000 m² outdoors. Atlas events 40th Chaos Communication Congress and OMR Festival are listed here.",
-   "photo": null,
+   "photo": "img/venues/hamburg-messe-1.jpg",
    "linked_event_slugs": [
     "40c3-2026",
     "omr-festival-2027"
@@ -288053,6 +296896,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/hamburg-messe-1.jpg",
+     "thumb": "img/venues/hamburg-messe-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2011_06_17_MS%26D_Messe_Piraten_DSCI0024.JPG",
+     "credit": "Photo: Dr. Karl-Heinz Hochhaus / Wikimedia Commons / CC BY 3.0",
+     "caption": "Glass facade of Hamburg Messe und Congress, Hamburg, Germany, in 2011."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -288099,7 +296952,7 @@ window.ATLASDATA={
    "exhibition_sqm": 290000,
    "halls": "Officially around 290,000 m² in 11 connected exhibition halls, plus two congress centres, the Confex conference and exhibition centre, and 100,000 m² of outdoor grounds.",
    "description": "Cologne's inner-city exhibition centre. Koelnmesse's halls-and-grounds pages describe about 290,000 m² of hall space in 11 halls, two congress centres, the newer Confex building and a 100,000 m² open-air site. The atlas lists dmexco here.",
-   "photo": null,
+   "photo": "img/venues/koelnmesse-1.jpg",
    "linked_event_slugs": [
     "dmexco-2027"
    ],
@@ -288112,6 +296965,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/koelnmesse-1.jpg",
+     "thumb": "img/venues/koelnmesse-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Koelnmesse,_Eingang_Ost-0010.jpg",
+     "credit": "Photo: Raimond Spekking / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "East entrance (Eingang Ost) of Koelnmesse, Cologne, Germany, in 2018."
+    },
+    {
+     "src": "img/venues/koelnmesse-2.jpg",
+     "thumb": "img/venues/koelnmesse-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Messehallen_der_Koelnmesse_-_Luftaufnahme-0849.jpg",
+     "credit": "Photo: Raimond Spekking / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Aerial view of the Koelnmesse exhibition halls, Cologne, Germany, in 2020."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -288158,7 +297029,7 @@ window.ATLASDATA={
    "exhibition_sqm": 262727,
    "halls": "18 exhibition halls with 262,727 m² of hall space and 43,000 m² of outdoor grounds.",
    "description": "Düsseldorf's Rhine-side exhibition centre. The operator's official grounds pages state 18 halls, 262,727 m² of hall area and 43,000 m² of outdoor space. The atlas lists boot Düsseldorf here.",
-   "photo": null,
+   "photo": "img/venues/messe-duesseldorf-1.jpg",
    "linked_event_slugs": [
     "boot-dusseldorf-2027"
    ],
@@ -288171,6 +297042,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/messe-duesseldorf-1.jpg",
+     "thumb": "img/venues/messe-duesseldorf-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Messe_D%C3%BCsseldorf_next_to_the_Entrance_Gate_1.jpg",
+     "credit": "Photo: Robert von Oliva (naruciakk) / Wikimedia Commons / CC0",
+     "caption": "Entrance Gate 1 of Messe Düsseldorf, Düsseldorf, Germany, in 2022."
+    },
+    {
+     "src": "img/venues/messe-duesseldorf-2.jpg",
+     "thumb": "img/venues/messe-duesseldorf-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hall_6_at_the_Messe_D%C3%BCsseldorf.jpg",
+     "credit": "Photo: Robert von Oliva (naruciakk) / Wikimedia Commons / CC0",
+     "caption": "Hall 6 on the Messe Düsseldorf campus, Düsseldorf, Germany, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -288224,7 +297113,7 @@ window.ATLASDATA={
    "exhibition_sqm": 392000,
    "halls": "Official June 2026 press briefing: around 392,000 m² of hall area and more than 64,000 m² of outdoor space. On-site congress and event buildings include the Congress Center (15,000 m² over four levels, nine congress halls) and Kap Europa (7,700 m² over four levels, 14 conference rooms), plus the historic Festhalle (Hall 2, 5,600 m²) and Halls 1 and 3–12.",
    "description": "Frankfurt's inner-city exhibition grounds, among the largest worldwide. A 24 June 2026 Messe Frankfurt press briefing puts hall area at around 392,000 m², with more than 64,000 m² of open space, and names the Congress Center and Kap Europa as the two congress centres on the campus. The atlas lists Cloud & AI Infrastructure Frankfurt in Hall 3.",
-   "photo": null,
+   "photo": "img/venues/messe-frankfurt-1.jpg",
    "linked_event_slugs": [
     "cloud-ai-infrastructure-frankfurt-2027"
    ],
@@ -288245,6 +297134,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/messe-frankfurt-1.jpg",
+     "thumb": "img/venues/messe-frankfurt-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Festhalle_Frankfurt_and_Messe_grounds_from_the_Maritim_Hotel_(2025).jpg",
+     "credit": "Photo: Paul Colin Hennig / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Elevated view of the Festhalle and exhibition halls on the Messe Frankfurt grounds, Frankfurt, Germany, in 2025."
+    },
+    {
+     "src": "img/venues/messe-frankfurt-2.jpg",
+     "thumb": "img/venues/messe-frankfurt-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Messe_Frankfurt,_Galleria._3a.jpg",
+     "credit": "Photo: Peter Christian Riemann / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Galleria, the glazed concourse by O. M. Ungers at Messe Frankfurt, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -288500,7 +297407,7 @@ window.ATLASDATA={
    "address": "Friedrichstraße 151, 10117 Berlin",
    "lat": 52.518228,
    "lon": 13.3875,
-   "url": "https://www.maritim.com/en/hotels/germany/proarte-hotel-berlin",
+   "url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -288514,13 +297421,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.maritim.com/en/hotels/germany/proarte-hotel-berlin",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/maritimhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/maritim.hotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/maritim",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/hotelmaritim",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.maritim.com/en/hotels/germany/berlin-proarte-hotel/hotel-overview",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hilton-berlin",
@@ -288549,7 +297490,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/hiltonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.hilton.com/en/hotels/berhitw-hilton-berlin/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hilton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.hilton.com/en/hotels/berhitw-hilton-berlin/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/HiltonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.hilton.com/en/hotels/berhitw-hilton-berlin/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/hilton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.hilton.com/en/hotels/berhitw-hilton-berlin/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-berlin",
@@ -288578,7 +297549,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/berlin/berha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/berlin/berha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/berlin/berha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/berlin/berha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "westin-grand-muenchen",
@@ -289272,6 +298273,43 @@ window.ATLASDATA={
      "href": "pdfs/venues/de/estrel-berlin/estrel-pressemappe.pdf",
      "local": true
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/estrelberlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estrel.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/estrelberlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estrel.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/estrelberlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estrel.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/estrelberlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estrel.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/estrel-berlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estrel.com/en/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -289334,7 +298372,51 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "Hotel Adlon Kempinski Berlin"
+   "hotel_name": "Hotel Adlon Kempinski Berlin",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/19051",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-adlon",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-bayerischer-hof",
@@ -289484,7 +298566,51 @@ window.ATLASDATA={
      "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/19051",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-atlantic-hamburg",
@@ -289569,7 +298695,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Hotel Atlantic Hamburg"
+   "hotel_name": "Hotel Atlantic Hamburg",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hotelatlantic",
+     "verified_via": "official property website",
+     "source_url": "https://www.atlantic.de/en/meet/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelAtlanticHamburg",
+     "verified_via": "official property website",
+     "source_url": "https://www.atlantic.de/en/meet/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelatlantic",
+     "verified_via": "official property website",
+     "source_url": "https://www.atlantic.de/en/meet/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "bella-center-copenhagen",
@@ -289857,6 +299006,230 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "copenhagen-marriott",
+   "name": "Copenhagen Marriott Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": "Kalvebod Brygge 5, Copenhagen, 1560",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/",
+   "capacity": 520,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 15 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "Copenhagen Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (520). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Vesterhavet I & II",
+     "type": null,
+     "area_sqm": 524,
+     "capacity_max": 520,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Vesterhavet II",
+     "type": null,
+     "area_sqm": 262,
+     "capacity_max": 260,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Vesterhavet I",
+     "type": null,
+     "area_sqm": 262,
+     "capacity_max": 260,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Skagerrak & Kattegat",
+     "type": null,
+     "area_sqm": 99,
+     "capacity_max": 96,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Oestersoen & Oeresund",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": 68,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Nordsoen",
+     "type": null,
+     "area_sqm": 57,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Langelandsbaelt",
+     "type": null,
+     "area_sqm": 57,
+     "capacity_max": 48,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Storebaelt",
+     "type": null,
+     "area_sqm": 57,
+     "capacity_max": 48,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Oestersoen",
+     "type": null,
+     "area_sqm": 50,
+     "capacity_max": 48,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Kattegat",
+     "type": null,
+     "area_sqm": 50,
+     "capacity_max": 48,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Skagerrak",
+     "type": null,
+     "area_sqm": 50,
+     "capacity_max": 48,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Lillebaelt",
+     "type": null,
+     "area_sqm": 25,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Samsoebaelt",
+     "type": null,
+     "area_sqm": 25,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Limfjorden",
+     "type": null,
+     "area_sqm": 24,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    },
+    {
+     "name": "Oeresund",
+     "type": null,
+     "area_sqm": 23,
+     "capacity_max": 20,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CopenhagenMarriottHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marriottcopenhagen",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/cphdk-copenhagen-marriott-hotel/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "icc-punta-cana",
@@ -290708,7 +300081,7 @@ window.ATLASDATA={
    "exhibition_sqm": 240000,
    "halls": "13 halls, 85 meeting rooms and 2 convention centres (North auditorium 1,100 plus 18 rooms; South auditorium 600)",
    "description": "Madrid's main trade-fair and congress estate (Recinto Ferial). Official IFEMA pages describe 240,000 m², 13 halls, 85 rooms and two convention centres, with a North auditorium of 1,100 seats and a South auditorium of 600. The published contact address is Avenida del Partenón, 5, 28042 Madrid.",
-   "photo": null,
+   "photo": "img/venues/ifema-madrid-1.jpg",
    "linked_event_slugs": [
     "tech-show-madrid-2027",
     "fitur-2027",
@@ -290752,6 +300125,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/ifema-madrid-1.jpg",
+     "thumb": "img/venues/ifema-madrid-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:XX_IBC_Madrid_IFEMA_July_2024.jpg",
+     "credit": "Photo: Heidi Meudt / Wikimedia Commons / CC BY 4.0",
+     "caption": "Palacio Municipal at IFEMA Madrid, Spain, in July 2024."
+    },
+    {
+     "src": "img/venues/ifema-madrid-2.jpg",
+     "thumb": "img/venues/ifema-madrid-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:IFEMA_Madrid_Venue_for_the_XX_International_Botanical_Congress.jpg",
+     "credit": "Photo: Siobhan Leachman / Wikimedia Commons / CC0",
+     "caption": "Approach to the IFEMA Madrid exhibition halls, with flags, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -291265,7 +300656,7 @@ window.ATLASDATA={
    "exhibition_sqm": 230000,
    "halls": "Current official and regional tourism figures: 19 pavilions, 48 rooms and 3 auditoriums, events for up to 20,000 people",
    "description": "Valencia's main trade-fair complex. Current official and Comunitat Valenciana tourism / economic-impact materials describe more than 230,000 m² of event space, 19 pavilions, 48 rooms, three auditoriums and events for up to 20,000 people. The official address is Avenida de les Fires, s/n, 46035, and is published. A 2015 Foro Centro PDF is archived but states 152,600 m² and 12 pavilions; those figures are treated as superseded. Coordinates are the Nominatim pin for the named Fira València complex.",
-   "photo": null,
+   "photo": "img/venues/feria-valencia-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -291287,6 +300678,24 @@ window.ATLASDATA={
      "source_url": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
      "href": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/feria-valencia-1.jpg",
+     "thumb": "img/venues/feria-valencia-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Feria_Valencia_-_Fira_de_Val%C3%A8ncia_-_Valencia_Trade_Fair_place_04.jpg",
+     "credit": "Photo: Punteador / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The arched glass entrance of Feria Valencia, Valencia, Spain, in 2022."
+    },
+    {
+     "src": "img/venues/feria-valencia-2.jpg",
+     "thumb": "img/venues/feria-valencia-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Feria_Valencia_-_Fira_de_Val%C3%A8ncia_-_Valencia_Trade_Fair_place_02.jpg",
+     "credit": "Photo: Punteador / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Feria Valencia campus and arched hall, Valencia, Spain, in 2022."
     }
    ],
    "socials": [
@@ -291342,7 +300751,7 @@ window.ATLASDATA={
    "exhibition_sqm": 150000,
    "halls": "6 halls, Bizkaia Arena (up to 20,000) and BEC Convenciones (18,000 m²)",
    "description": "The Basque Country's main exhibition and events centre, in Barakaldo. Official about-us pages state 150,000 m², six halls, Bizkaia Arena for up to 20,000 people and BEC Convenciones of 18,000 m². The official address is Ronda de Azkue 1, 48902 Barakaldo; and are published. A 2021 official dossier is archived; it uses older hall-by-hall figures (including four halls of 15,000 m², one of 20,000 m² and an Arena of 26,000 m²) that do not sum to the current 150,000 m² about-us total, so headline figures follow the current official pages. Coordinates are the Nominatim pin for the named Bilbao Exhibition Centre.",
-   "photo": null,
+   "photo": "img/venues/bilbao-exhibition-centre-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -291389,6 +300798,24 @@ window.ATLASDATA={
      "source_url": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
      "href": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/bilbao-exhibition-centre-1.jpg",
+     "thumb": "img/venues/bilbao-exhibition-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Bilbao_Exhibition_Centre.jpg",
+     "credit": "Photo: Tiia Monto / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "The BEC tower at Bilbao Exhibition Centre, Barakaldo, Spain, in 2016."
+    },
+    {
+     "src": "img/venues/bilbao-exhibition-centre-2.jpg",
+     "thumb": "img/venues/bilbao-exhibition-centre-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Baracaldo_-_Bilbao_Exhibition_Center_(BEC)_04.jpg",
+     "credit": "Photo: Zarateman / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Named facade of Bilbao Exhibition Centre, Barakaldo, Spain, in 2013."
     }
    ],
    "socials": [
@@ -291548,6 +300975,36 @@ window.ATLASDATA={
      "href": "https://madrid.intercontinental.com/wp-content/uploads/2023/05/InterContinental-Madrid_Factsheet_EN.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental.madrid",
+     "verified_via": "official property website",
+     "source_url": "https://madrid.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental_madrid",
+     "verified_via": "official property website",
+     "source_url": "https://madrid.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/intercontinental-madrid",
+     "verified_via": "official property website",
+     "source_url": "https://madrid.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/InterConMadrid",
+     "verified_via": "official property website",
+     "source_url": "https://madrid.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -291628,7 +301085,30 @@ window.ATLASDATA={
      "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FourSeasons",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fourseasons",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/fourseasons",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-arts-barcelona",
@@ -291692,7 +301172,30 @@ window.ATLASDATA={
      "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelArts",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/hotelartsbcn",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelartsbarcelona",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "w-barcelona",
@@ -291757,7 +301260,23 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "W Barcelona"
+   "hotel_name": "W Barcelona",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wbarcelonahotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wbarcelona",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "african-union-conference-centre",
@@ -292208,7 +301727,7 @@ window.ATLASDATA={
    "exhibition_sqm": 169400,
    "halls": "VIPARIS venue page (current): 169,400 m² of exhibition space across 5 pavilions, to reach 210,970 m² across 8 pavilions by 2028; 28 conference rooms and 48 meeting rooms. Pavilion 7 is the Paris Convention Centre: 70,163 m² on several levels, with a 5,200-seat plenary hall and modular partitions for around 30 rooms. Other official pavilion areas include Pavilion 1 44,936 m², Pavilion 4 19,240 m², Pavilion 5 18,257 m² and Pavilion 6 15,358 m². A technical sheet and a January 2025 VIPARIS news item also cite 212,545 m² across seven pavilions; that higher figure is noted as a source discrepancy and is not stored as exhibition_sqm. The current official homepage figure of 169,400 m² is used.",
    "description": "Paris's inner-city exhibition park at Porte de Versailles, operated by VIPARIS, including the Paris Convention Centre in Pavilion 7. The official venue page currently states 169,400 m² in five pavilions (with a published 2028 expansion). Atlas events VivaTech, Learning Technologies France, Open Source Experience, Big Data & AI Paris and Educatech Expo are listed across several halls here.",
-   "photo": null,
+   "photo": "img/venues/paris-expo-porte-de-versailles-1.jpg",
    "linked_event_slugs": [
     "vivatech-2027",
     "learning-technologies-france-2027",
@@ -292237,6 +301756,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/paris-expo-porte-de-versailles-1.jpg",
+     "thumb": "img/venues/paris-expo-porte-de-versailles-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Parc_des_expositions_de_la_porte_de_Versailles_vu_depuis_le_dernier_%C3%A9tage_du_Paris_Convention_Centre_2022.jpg",
+     "credit": "Photo: Artvill / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The halls of Paris Expo Porte de Versailles seen from the Paris Convention Centre, Paris, France, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -292295,7 +301824,7 @@ window.ATLASDATA={
    "exhibition_sqm": 243515,
    "halls": "VIPARIS describes this as France's largest exhibition centre. The spaces page states 243,515 m²; the homepage rounds the interior to 250,000 m² of modular interior space, plus 360,000 m² outdoor space, 9 halls, 200,000 m² of green space, 2 amphitheatres of up to 628 seats and 38 meeting rooms. Official hall areas: Hall 1 16,455 m²; Hall 2 16,389 m²; Hall 3 19,347 m²; Hall 4 19,316 m²; Hall 5A 49,734 m²; Hall 5B 26,611 m²; Hall 6 46,598 m²; Hall 7 34,065 m²; Hall 8 15,000 m². exhibition_sqm uses the detailed 243,515 m² spaces-page total. A reliable hall-centroid coordinate was not obtained (Nominatim returned the RER station rather than the halls), so lat/lon are null.",
    "description": "France's largest exhibition park, in Villepinte near Paris-Charles de Gaulle Airport and on RER B at Parc des Expositions, operated by VIPARIS. Official pages call out nine halls and a detailed interior area of 243,515 m² (the homepage also says 250,000 m²). No atlas-listed event is currently linked; included as the largest remaining French centre.",
-   "photo": null,
+   "photo": "img/venues/paris-nord-villepinte-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -292310,6 +301839,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/paris-nord-villepinte-1.jpg",
+     "thumb": "img/venues/paris-nord-villepinte-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Parc_Expositions_Paris_Nord_Villepinte_-_Villepinte_(FR93)_-_2024-08-01_-_1.jpg",
+     "credit": "Photo: Chabe01 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named entrance gate of Paris Nord Villepinte (Parc des Expositions), Villepinte, France, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -293040,7 +302579,30 @@ window.ATLASDATA={
      "source_url": "https://www.hotelducollectionneur.com/en/meetings"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelDuCollectionneur",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hotelducollectionneur.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelducollectionneur",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hotelducollectionneur.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/lhotelducollectionneur",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hotelducollectionneur.com/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-paris-le-grand",
@@ -293144,6 +302706,29 @@ window.ATLASDATA={
      "source_url": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
      "href": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/intercontinental-paris-le-grand",
+     "verified_via": "official website footer",
+     "source_url": "https://parislegrand.intercontinental.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/icparislegrand",
+     "verified_via": "official website footer",
+     "source_url": "https://parislegrand.intercontinental.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InterContinental.ParisLeGrand",
+     "verified_via": "official website footer",
+     "source_url": "https://parislegrand.intercontinental.com/en/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -293266,7 +302851,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Sofitel Lyon Bellecour"
+   "hotel_name": "Sofitel Lyon Bellecour",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SofitelLyonBellecour",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sofitellyon",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SofitelLyon",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/0553.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-peninsula-paris",
@@ -293348,7 +302956,30 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "The Peninsula Paris"
+   "hotel_name": "The Peninsula Paris",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thepeninsulaparis",
+     "verified_via": "official website footer",
+     "source_url": "https://www.peninsula.com/en/paris/5-star-luxury-hotel-16th-arrondissement",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ThePeninsulaParis",
+     "verified_via": "official website footer",
+     "source_url": "https://www.peninsula.com/en/paris/5-star-luxury-hotel-16th-arrondissement",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/peninsulaparis",
+     "verified_via": "official website footer",
+     "source_url": "https://www.peninsula.com/en/paris/5-star-luxury-hotel-16th-arrondissement",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "excel-london",
@@ -293586,7 +303217,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Heritage halls: official conference pages state that the Grand Hall and National Hall together provide 20,000 m²+ for large congresses. Individual hall pages (not summed into exhibition_sqm because a single official estate total was not published): Grand Hall 14,000 m² / up to 7,000; National Hall 8,730 m² / up to 5,000; West Hall ground 3,400 m² / up to 2,250, with West Hall also published at 2,400 seated when used with the ICC. New International Convention Centre at Olympia: main auditorium 800+ theatre seats, secondary auditorium 400, 2,700 m² Central Hall, seven breakout and seminar rooms, business lounges. Henley Suite: eight meeting rooms from 8 to 144 delegates.",
    "description": "Historic exhibition halls in West Kensington, now expanded with a new International Convention Centre, West Hall and on-site hotels. Official organiser pages describe the Grand and National Halls as more than 20,000 m² of heritage exhibition space, alongside the ICC's 800-plus-seat auditorium. Atlas events including London Tech Week, TechEx, Big Data LDN and SuperAI are listed here. No single official estate-wide delegate or square-metre total is stored.",
-   "photo": null,
+   "photo": "img/venues/olympia-london-1.jpg",
    "linked_event_slugs": [
     "big-data-ldn-2027",
     "agentic-expo-2027",
@@ -293618,6 +303249,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/olympia-london-1.jpg",
+     "thumb": "img/venues/olympia-london-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Olympia_London_Venue_Exterior.jpg",
+     "credit": "Photo: delegateconnectimages / Wikimedia Commons / CC BY 2.0",
+     "caption": "Street facade of Olympia London, Hammersmith Road, London, in 2021."
+    },
+    {
+     "src": "img/venues/olympia-london-2.jpg",
+     "thumb": "img/venues/olympia-london-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Olympia_Exhibition_Centre,_Hammersmith_Road,_London_W14_-_geograph.org.uk_-_4329746.jpg",
+     "credit": "Photo: Christine Matthews / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The Grand Hall at Olympia London, United Kingdom, in 2015."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -293769,7 +303418,7 @@ window.ATLASDATA={
    "exhibition_sqm": 186000,
    "halls": "Official exhibitions page: 18 versatile event halls, 32 purpose-built conference suites, 186,000 m² of covered space, on a 440-acre site beside Birmingham Airport and Birmingham International station.",
    "description": "The National Exhibition Centre east of Birmingham, which the operator calls the UK's largest event venue. Official organiser pages state 18 halls, 32 conference suites and 186,000 m² of covered space. The atlas lists Smart Manufacturing Week here. A full street address/postcode was not copied from an official contact page in this pass, so the address is the official venue name only.",
-   "photo": null,
+   "photo": "img/venues/nec-birmingham-1.jpg",
    "linked_event_slugs": [
     "smart-manufacturing-week-2027",
     "spring-fair-2027",
@@ -293784,6 +303433,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/nec-birmingham-1.jpg",
+     "thumb": "img/venues/nec-birmingham-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:National_Exhibition_Centre_main_entrance.jpg",
+     "credit": "Photo: N-allen / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main entrance and NEC letters at the National Exhibition Centre, Birmingham, United Kingdom, in 2015."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -294067,7 +303726,37 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "Park Plaza Victoria London"
+   "hotel_name": "Park Plaza Victoria London",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/parkplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/park-plaza-victoria-london",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ParkPlaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/park-plaza-victoria-london",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/parkplazahotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/park-plaza-victoria-london",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/park-plaza-hotels-resorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/park-plaza-victoria-london",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hilton-london-metropole",
@@ -294139,7 +303828,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Hilton London Metropole"
+   "hotel_name": "Hilton London Metropole",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hiltonlondonmet",
+     "verified_via": "official Hilton London Metropole meetings microsite",
+     "source_url": "https://www.londonmetpresents.com/hotel-overview",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hilton-brighton-metropole",
@@ -294180,7 +303878,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 51.503295,
    "lon": -5.8e-05,
-   "url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonhb/hoteldetail",
+   "url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -294192,6 +303890,10 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonhb/hoteldetail",
      "label": "Official source"
     }
@@ -294199,7 +303901,37 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "InterContinental London – The O2"
+   "hotel_name": "InterContinental London – The O2",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonic/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sec-centre-glasgow",
@@ -294871,7 +304603,30 @@ window.ATLASDATA={
      "source_url": "https://www.fairmont.com/en/hotels/london/the-savoy/meetings.html"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thesavoylondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thesavoylondon.com/venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FairmontSavoy",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thesavoylondon.com/venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thesavoylondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thesavoylondon.com/venues",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "jw-marriott-grosvenor-house-london",
@@ -294937,7 +304692,23 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "JW Marriott Grosvenor House London"
+   "hotel_name": "JW Marriott Grosvenor House London",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/londongrosvenorhouse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-gb/hotels/longh-jw-marriott-grosvenor-house-london/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grosvenorhouselondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-gb/hotels/longh-jw-marriott-grosvenor-house-london/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "park-plaza-westminster-bridge",
@@ -294993,6 +304764,36 @@ window.ATLASDATA={
      "source_url": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
      "href": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ParkPlazaHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/parkplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ParkPlaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/ParkPlazaHotels-live",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -295064,7 +304865,44 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "The Landmark London"
+   "hotel_name": "The Landmark London",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheLandmarkLondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/landmarklondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/the_landmark_london",
+     "verified_via": "official website footer",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LandmarkLondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thelandmarklondon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-london-park-lane",
@@ -295457,6 +305295,237 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "hotel-grande-bretagne-athens",
+   "name": "Hotel Grande Bretagne, a Luxury Collection Hotel, Athens",
+   "type": "hotel_conference_venue",
+   "country": "Greece",
+   "cc": "GR",
+   "city": "Athens",
+   "address": "1 Vasileos Georgiou A' str., Syntagma Square, Athens, 105 64",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/",
+   "capacity": 500,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 15 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "Hotel Grande Bretagne, a Luxury Collection Hotel, Athens official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (500). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The Grand Ballroom",
+     "type": null,
+     "area_sqm": 439,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Golden Room",
+     "type": null,
+     "area_sqm": 311,
+     "capacity_max": 320,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Grand Ballroom B",
+     "type": null,
+     "area_sqm": 146,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Grand Ballroom C",
+     "type": null,
+     "area_sqm": 146,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Royal Room",
+     "type": null,
+     "area_sqm": 143,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Grand Ballroom A",
+     "type": null,
+     "area_sqm": 143,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Athenian Hall",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Golden Room A",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Golden Room B",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Golden Room C",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Golden Room D",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 56,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "The Boardroom",
+     "type": null,
+     "area_sqm": 40,
+     "capacity_max": 12,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "Diplomat's",
+     "type": null,
+     "area_sqm": 27,
+     "capacity_max": 12,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "Chairman's",
+     "type": null,
+     "area_sqm": 27,
+     "capacity_max": 12,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    },
+    {
+     "name": "Churchill's",
+     "type": null,
+     "area_sqm": 21,
+     "capacity_max": 12,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hotelgrandebretagne",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/grandebretagne",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelgrandebretagne",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "tikal-futura-hotel-convention-center",
    "name": "Tikal Futura Hotel & Convention Center",
    "type": "hotel_conference_venue",
@@ -295579,7 +305648,7 @@ window.ATLASDATA={
    "exhibition_sqm": 66000,
    "halls": "Six purpose-built exhibition halls totalling 66,000 sqm, within more than 91,500 sqm of rentable space",
    "description": "Wan Chai convention and exhibition centre (HKCEC). Official exhibitions page: more than 91,500 sqm of rentable space, including six purpose-built exhibition halls totalling 66,000 sqm, stored as exhibition_sqm. The 91,500 sqm figure is rentable space, not stored as exhibition area. Official Hall 1 is 19,890 sqm, divisible into Halls 1A–1E. Official Hall 3B–3E is 14,982 sqm, divisible into four halls. A published campus delegate maximum and a complete official street address were not copied from the retrieved official pages (the contact page returned 403). Coordinates are the atlas precise pin, matching the Nominatim exhibition-centre pin.",
-   "photo": null,
+   "photo": "img/venues/hong-kong-convention-and-exhibition-centre-1.jpg",
    "linked_event_slugs": [
     "hktdc-hong-kong-international-jewellery-show-2027",
     "hktdc-hong-kong-watch-clock-fair-2027",
@@ -295753,6 +305822,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/hong-kong-convention-and-exhibition-centre-1.jpg",
+     "thumb": "img/venues/hong-kong-convention-and-exhibition-centre-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Convention_and_Exhibition_Centre_02-01-2023.jpg",
+     "credit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hong Kong Convention and Exhibition Centre on Victoria Harbour, Hong Kong, in January 2023."
+    },
+    {
+     "src": "img/venues/hong-kong-convention-and-exhibition-centre-2.jpg",
+     "thumb": "img/venues/hong-kong-convention-and-exhibition-centre-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Convention_and_Exhibition_Centre_21-11-2019.jpg",
+     "credit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hong Kong Convention and Exhibition Centre from the water, Hong Kong, in November 2019."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -295785,7 +305872,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "10 ground-level, column-free exhibition halls, including AsiaWorld-Arena (Hall 1), AsiaWorld-Summit (Hall 2) and Runway 11 (Hall 11)",
    "description": "Exhibition, convention and events venue at Hong Kong International Airport, Lantau. Official copy offers more than 70,000 sqm of exhibition space across 10 ground-level, column-free halls; that “more than 70,000” headline is not stored as an exact exhibition_sqm. Official capacity table: AsiaWorld-Arena (Hall 1) 10,880 sqm / theatre 12,500 or 14,000 with standing zone; AsiaWorld-Summit (Hall 2) 8,200 sqm / theatre 5,000; Runway 11 4,400 sqm / theatre 3,800; Halls 6, 8 and 10 combined 17,040 sqm / theatre 8,400; typical Halls 3–11 3,500–45,440 sqm / theatre 2,800–22,400. The official 22,400 upper figure for connected typical halls is stored as capacity_max_delegates. Coordinates are the atlas precise pin, matching the Nominatim exhibition-centre pin (not the station or bus-stop pins of the same name).",
-   "photo": null,
+   "photo": "img/venues/asiaworld-expo-1.jpg",
    "linked_event_slugs": [
     "hktdc-hong-kong-international-diamond-gem-pearl-show-2027",
     "complexcon-hong-kong-2027"
@@ -295872,6 +305959,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/asiaworld-expo-1.jpg",
+     "thumb": "img/venues/asiaworld-expo-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:HK_Arena_%E4%BA%9E%E6%B4%B2%E5%9C%8B%E9%9A%9B%E5%8D%9A%E8%A6%BD%E9%A4%A8_AsiaWorld-Expo_GSOL_%E7%92%B0%E7%90%83%E8%B3%87%E6%BA%90_Global_Sourcing_banner_n_escalators_sign_October_2017_IX1.jpg",
+     "credit": "Photo: Picuexmwiamo / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main atrium and escalators inside AsiaWorld-Expo, Hong Kong, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -295907,6 +306004,60 @@ window.ATLASDATA={
      "url": "https://www.youtube.com/user/asiaworldexpohk",
      "verified_via": "official website footer",
      "source_url": "https://www.asiaworld-expo.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "copantl-hotel-convention-center",
+   "name": "Copantl Hotel & Convention Center",
+   "type": "convention_centre",
+   "country": "Honduras",
+   "cc": "HN",
+   "city": "San Pedro Sula",
+   "address": "Res. Los Arcos, Blvd. del Sur, San Pedro Sula 21104",
+   "lat": null,
+   "lon": null,
+   "url": "https://en.copantl.com/",
+   "capacity": 5000,
+   "exhibition_sqm": null,
+   "halls": "Official site: 17 meeting rooms in the hotel and 19 in the convention center.",
+   "description": "Hotel and convention centre in San Pedro Sula. Official English/Spanish sites give the address Res. Los Arcos / Los Arcos, Blvd. del Sur, San Pedro Sula 21104, with [email removed] and events email [email removed]. Official wording: capacity to host up to 5 thousand people in 19 rooms / capacity from 30 to 5 thousand people. The 5,000 figure is stored as capacity_max_delegates as an official campus 'up to' and is spread across 19 rooms, not a named single-hall maximum — that caveat is noted. A room-by-room official capacity chart was not extracted in this pass, so spaces[] is empty and exhibition_sqm is null. Press figures from unofficial newspapers are not used.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://en.copantl.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.copantl.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hotelcopantl",
+     "verified_via": "official website footer",
+     "source_url": "https://en.copantl.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelcopantl",
+     "verified_via": "official website footer",
+     "source_url": "https://en.copantl.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@hotelcopantloficial",
+     "verified_via": "official website footer",
+     "source_url": "https://en.copantl.com/",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -296191,6 +306342,350 @@ window.ATLASDATA={
      "url": "https://www.youtube.com/user/VasuttortenetiPark",
      "verified_via": "official website footer",
      "source_url": "https://vasuttortenetipark.hu/en/home/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "budapest-marriott",
+   "name": "Budapest Marriott Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Hungary",
+   "cc": "HU",
+   "city": "Budapest",
+   "address": "Apaczai Csere Janos u. 4., Budapest, 1052",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/",
+   "capacity": 650,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 25 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "Budapest Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (650). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Budapest Ballroom",
+     "type": null,
+     "area_sqm": 612,
+     "capacity_max": 650,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Liz Ballroom",
+     "type": null,
+     "area_sqm": 364,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Buda Room",
+     "type": null,
+     "area_sqm": 275,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Liz 1",
+     "type": null,
+     "area_sqm": 265,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Pest Room",
+     "type": null,
+     "area_sqm": 264,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 7-8",
+     "type": null,
+     "area_sqm": 181,
+     "capacity_max": 180,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Ballroom Foyer",
+     "type": null,
+     "area_sqm": 138,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Ballroom Foyer'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 5-6",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Foyer M",
+     "type": null,
+     "area_sqm": 103,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Foyer M'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Liz 2",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 8",
+     "type": null,
+     "area_sqm": 91,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 7",
+     "type": null,
+     "area_sqm": 91,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 3-4",
+     "type": null,
+     "area_sqm": 89,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Foyer B",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Foyer B'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio Kitchen",
+     "type": null,
+     "area_sqm": 71,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 6",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 1",
+     "type": null,
+     "area_sqm": 56,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio 2",
+     "type": null,
+     "area_sqm": 49,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 4",
+     "type": null,
+     "area_sqm": 47,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 5",
+     "type": null,
+     "area_sqm": 47,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 3",
+     "type": null,
+     "area_sqm": 44,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Foyer A",
+     "type": null,
+     "area_sqm": 36,
+     "capacity_max": 25,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK. Space name is 'Foyer A'; foyer/terrace names may be pre-function or outdoor and are not used as an indoor exhibition total.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Studio 1",
+     "type": null,
+     "area_sqm": 36,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "View 2",
+     "type": null,
+     "area_sqm": 29,
+     "capacity_max": 14,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    },
+    {
+     "name": "Office",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": 15,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/budapestmarriott",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marriottbudapest",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/budhu-budapest-marriott-hotel/events/",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -296734,7 +307229,7 @@ window.ATLASDATA={
   },
   {
    "slug": "crowne-plaza-dublin-northwood",
-   "name": "Crowne Plaza Dublin Northwood",
+   "name": "Crowne Plaza Dublin Airport",
    "type": "hotel_conference_venue",
    "country": "Ireland",
    "cc": "IE",
@@ -296742,7 +307237,7 @@ window.ATLASDATA={
    "address": "Northwood Avenue, Dublin 9, D09 X9X2",
    "lat": 53.4044699,
    "lon": -6.2455505,
-   "url": null,
+   "url": "https://www.crowneplazadublinairport.ie/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -296752,6 +307247,10 @@ window.ATLASDATA={
     "cyber-security-digital-resilience-ireland-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.crowneplazadublinairport.ie/",
+     "label": "Official source"
+    },
     {
      "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "label": "Official source"
@@ -296771,6 +307270,22 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CrownePlazaDublinAirport",
+     "verified_via": "official property website",
+     "source_url": "https://www.crowneplazadublinairport.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crowne_plaza_dublin_airport",
+     "verified_via": "official property website",
+     "source_url": "https://www.crowneplazadublinairport.ie/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -296814,6 +307329,36 @@ window.ATLASDATA={
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ferrycarrightl",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ferrycarrighotel.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ferrycarrighotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ferrycarrighotel.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheFerrycarrighotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ferrycarrighotel.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ferrycarrighotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ferrycarrighotel.ie/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -296826,7 +307371,7 @@ window.ATLASDATA={
    "address": "Naas Road, Clondalkin, Dublin 22, D22 F9F4",
    "lat": 53.3096431,
    "lon": -6.4035101,
-   "url": null,
+   "url": "https://greenislehotel.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -296836,6 +307381,10 @@ window.ATLASDATA={
     "bitcoin-ireland-conference-2027"
    ],
    "sources": [
+    {
+     "url": "https://greenislehotel.com/",
+     "label": "Official source"
+    },
     {
      "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "label": "Official source"
@@ -296856,6 +307405,22 @@ window.ATLASDATA={
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GreenIsleLeisureHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://greenislehotel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/greenisle_hoteldublin",
+     "verified_via": "official website footer",
+     "source_url": "https://greenislehotel.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -296868,7 +307433,7 @@ window.ATLASDATA={
    "address": "Simmonscourt Road, Ballsbridge, Dublin 4, D04 A9K8",
    "lat": 53.3267436,
    "lon": -6.2260225,
-   "url": null,
+   "url": "https://www.intercontinentaldublin.ie/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -296876,6 +307441,10 @@ window.ATLASDATA={
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
+    {
+     "url": "https://www.intercontinentaldublin.ie/",
+     "label": "Official source"
+    },
     {
      "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "label": "Official source"
@@ -296895,6 +307464,43 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DublinInterContinental",
+     "verified_via": "official website footer",
+     "source_url": "https://www.intercontinentaldublin.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/InterConDublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.intercontinentaldublin.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercondublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.intercontinentaldublin.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@intercontinentaldublin5931",
+     "verified_via": "official website footer",
+     "source_url": "https://www.intercontinentaldublin.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/intercontinentaldublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.intercontinentaldublin.ie/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -296908,7 +307514,7 @@ window.ATLASDATA={
    "address": "27 Saint Stephen's Green, Dublin 2, D02 H529",
    "lat": null,
    "lon": null,
-   "url": null,
+   "url": "https://theshelbourne.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -296916,6 +307522,10 @@ window.ATLASDATA={
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
+    {
+     "url": "https://theshelbourne.com/",
+     "label": "Official source"
+    },
     {
      "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "label": "Official source"
@@ -296935,6 +307545,29 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pages/The-Shelbourne-Dublin,-A-Renaissance-Hotel/123342457703662",
+     "verified_via": "official website footer",
+     "source_url": "https://theshelbourne.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/theshelbourne",
+     "verified_via": "official website footer",
+     "source_url": "https://theshelbourne.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theshelbournedublin",
+     "verified_via": "official website footer",
+     "source_url": "https://theshelbourne.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -296948,7 +307581,7 @@ window.ATLASDATA={
    "address": "21-24 Merrion Street Upper, Dublin 2, D02 KF79",
    "lat": null,
    "lon": null,
-   "url": null,
+   "url": "https://www.merrionhotel.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -296956,6 +307589,10 @@ window.ATLASDATA={
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
+    {
+     "url": "https://www.merrionhotel.com/",
+     "label": "Official source"
+    },
     {
      "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "label": "Official source"
@@ -296975,6 +307612,36 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/merrionhoteldublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.merrionhotel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MerrionHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.merrionhotel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/merrionhotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.merrionhotel.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheMerrionHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.merrionhotel.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -297048,6 +307715,29 @@ window.ATLASDATA={
      "source_url": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
      "href": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheWestburyHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.doylecollection.com/hotels/the-westbury-hotel",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/westburydublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.doylecollection.com/hotels/the-westbury-hotel",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westburydublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.doylecollection.com/hotels/the-westbury-hotel",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -297134,6 +307824,22 @@ window.ATLASDATA={
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AnantaraTheMarkerDublin",
+     "verified_via": "official property website",
+     "source_url": "https://www.anantara.com/en/the-marker-dublin",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/anantarathemarkerdublin",
+     "verified_via": "official property website",
+     "source_url": "https://www.anantara.com/en/the-marker-dublin",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -297218,6 +307924,36 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FitzwilliamDublin",
+     "verified_via": "official property website",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FitzwilliamDUB",
+     "verified_via": "official property website",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/FitzwilliamDublin",
+     "verified_via": "official property website",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fitzwilliamhotel",
+     "verified_via": "official property website",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -297316,6 +308052,36 @@ window.ATLASDATA={
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/dylanhotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.dylan.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dylandublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.dylan.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@dylanhoteldublin4",
+     "verified_via": "official website footer",
+     "source_url": "https://www.dylan.ie/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dylan-hotel-dublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.dylan.ie/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -297396,6 +308162,29 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/morrisondublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.morrisonhotel.ie",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/morrisonhoteldublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.morrisonhotel.ie",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/morrisondublin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.morrisonhotel.ie",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -298159,7 +308948,289 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fairmonthotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fairmonthotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/fairmonthotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fairmonthotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fairmonthotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fairmont-hotels-and-resorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "the-leela-mumbai",
+   "name": "The Leela Mumbai",
+   "type": "hotel_conference_venue",
+   "country": "India",
+   "cc": "IN",
+   "city": "Mumbai",
+   "address": "Sahar, Andheri East, Mumbai",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.theleela.com/the-leela-mumbai",
+   "capacity": 1000,
+   "exhibition_sqm": null,
+   "halls": "Official July 2024 factsheet: Grand Ballroom divisible into five parts, plus five first-floor meeting rooms and lounge 059.",
+   "description": "Official meetings page and July 2024 factsheet (retrieved 2026-11-24). The factsheet and meetings page agree that the Grand Ballroom reception / max guests figure is 1,000 (stored as capacity_max_delegates); theatre for the combined Grand Ballroom is 700. Areas on the factsheet are in square feet and were converted. Official copy places the hotel in Sahar / Andheri East, five minutes from the international airport; a fuller street address was not printed on the retrieved factsheet or meetings page. Hotel marketing language that the property is five-star is not used as star_rating: no property-level NIDHI+ / HRACC classified listing was confirmed on a fetched official row in this pass, so star_rating is null. The official image-based capacity-chart PDF is stored; extractable layout figures used here come from the official factsheet table, which labels the columns explicitly.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.theleela.com/the-leela-mumbai",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.theleela.com/the-leela-mumbai/meetings",
+     "label": "Official source"
+    },
+    {
+     "url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://theleelaassets.com/static/2026-04/the-leela-mumbai-capacity-chart.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1091,
+     "capacity_max": 1000,
+     "capacity_theatre": 700,
+     "capacity_classroom": 236,
+     "capacity_banquet": null,
+     "capacity_reception": 1000,
+     "notes": "Official July 2024 factsheet: 11,742 sq.ft, theatre 700, classroom 236, cluster 236, reception 1,000. Official meetings page also states '1,000 Max guests' for the Grand Ballroom. U-shape and boardroom columns are blank on the combined Grand Ballroom row. The hotel says the ballroom is divisible into five parts (Ballroom I–V below).",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Ballroom I",
+     "type": null,
+     "area_sqm": 218,
+     "capacity_max": 150,
+     "capacity_theatre": 130,
+     "capacity_classroom": 60,
+     "capacity_banquet": null,
+     "capacity_reception": 150,
+     "notes": "Official factsheet: 2,344 sq.ft, theatre 130, classroom 60, U-shape 40, boardroom 40, cluster 60, reception 150. Cluster is noted; banquet column is not separately labelled, so capacity_banquet is left unset rather than assumed from cluster.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Ballroom II",
+     "type": null,
+     "area_sqm": 227,
+     "capacity_max": 150,
+     "capacity_theatre": 130,
+     "capacity_classroom": 60,
+     "capacity_banquet": null,
+     "capacity_reception": 150,
+     "notes": "Official factsheet: 2,444 sq.ft, theatre 130, classroom 60, U-shape 40, boardroom 40, cluster 60, reception 150.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Ballroom III",
+     "type": null,
+     "area_sqm": 219,
+     "capacity_max": 150,
+     "capacity_theatre": 130,
+     "capacity_classroom": 60,
+     "capacity_banquet": null,
+     "capacity_reception": 150,
+     "notes": "Official factsheet: 2,352 sq.ft, theatre 130, classroom 60, U-shape 40, boardroom 40, cluster 60, reception 150.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Ballroom IV",
+     "type": null,
+     "area_sqm": 187,
+     "capacity_max": 80,
+     "capacity_theatre": 50,
+     "capacity_classroom": 40,
+     "capacity_banquet": null,
+     "capacity_reception": 80,
+     "notes": "Official factsheet: 2,011 sq.ft, theatre 50, classroom 40, U-shape 30, boardroom 30, cluster 40, reception 80.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Ballroom V",
+     "type": null,
+     "area_sqm": 152,
+     "capacity_max": 60,
+     "capacity_theatre": 40,
+     "capacity_classroom": 30,
+     "capacity_banquet": null,
+     "capacity_reception": 60,
+     "notes": "Official factsheet: 1,633 sq.ft, theatre 40, classroom 30, U-shape 20, boardroom 25, cluster 30, reception 60.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Nithya",
+     "type": null,
+     "area_sqm": 85,
+     "capacity_max": 30,
+     "capacity_theatre": 30,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet, first floor: 920 sq.ft, theatre 30, boardroom 16, cluster 20.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Kamal",
+     "type": null,
+     "area_sqm": 85,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet, first floor: 920 sq.ft, boardroom 16. Other layout columns are blank.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Diya",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet, first floor: 630 sq.ft, boardroom 12.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Nidhi",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet, first floor: 630 sq.ft, boardroom 12.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "Maya",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet, first floor: 630 sq.ft, boardroom 12.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    },
+    {
+     "name": "059",
+     "type": null,
+     "area_sqm": 180,
+     "capacity_max": 80,
+     "capacity_theatre": 60,
+     "capacity_classroom": 30,
+     "capacity_banquet": null,
+     "capacity_reception": 80,
+     "notes": "Official factsheet, lower lobby level lounge 059: 1,940 sq.ft, theatre 60, classroom 30, U-shape 30, boardroom 25, cluster 48, reception 80.",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Leela Mumbai factsheet (July 2024)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf",
+     "href": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf",
+     "local": false
+    },
+    {
+     "title": "The Leela Mumbai capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://theleelaassets.com/static/2026-04/the-leela-mumbai-capacity-chart.pdf",
+     "href": "https://theleelaassets.com/static/2026-04/the-leela-mumbai-capacity-chart.pdf",
+     "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theleela",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.theleela.com/the-leela-mumbai",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/theleelahotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.theleela.com/the-leela-mumbai",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LeelaHotelsOfficial",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.theleela.com/the-leela-mumbai",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/theleela",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.theleela.com/the-leela-mumbai",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/theleela",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.theleela.com/the-leela-mumbai",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "harpa-reykjavik",
@@ -298308,7 +309379,7 @@ window.ATLASDATA={
    "exhibition_sqm": 345000,
    "halls": "20 halls / 8 Fuksas pavilions, plus 60,000 m² outdoor exhibition area (Fondazione Fiera Milano)",
    "description": "Italy's largest exhibition precinct, in Rho on the edge of Milan. Fondazione Fiera Milano official materials state 345,000 m² of indoor exhibition space plus 60,000 m² outdoors, in 20 halls across eight Fuksas pavilions. An investor presentation repeats the 345,000 m² indoor figure; one brochure also states 325,676 m², which is noted as a discrepancy, and the 345,000 official Fondazione figure is stored. Coordinates are the atlas precise pin. A street address was not copied from an official contact page in this pass.",
-   "photo": null,
+   "photo": "img/venues/fiera-milano-rho-1.jpg",
    "linked_event_slugs": [
     "ai-week-milan-2027",
     "eicma-2027",
@@ -298328,7 +309399,25 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/fiera-milano-rho-1.jpg",
+     "thumb": "img/venues/fiera-milano-rho-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Fieramilano_Rho_Pero_09.JPG",
+     "credit": "Photo: Böhringer Friedrich / Wikimedia Commons / CC BY-SA 2.5",
+     "caption": "Glass facade of Fiera Milano at Rho-Pero, Italy, in 2010."
+    },
+    {
+     "src": "img/venues/fiera-milano-rho-2.jpg",
+     "thumb": "img/venues/fiera-milano-rho-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Fieramilano_Rho_Pero_02.JPG",
+     "credit": "Photo: Böhringer Friedrich / Wikimedia Commons / CC BY-SA 2.5",
+     "caption": "The red hall facade and lawn at Fiera Milano, Rho-Pero, Italy, in 2010."
+    }
+   ]
   },
   {
    "slug": "bolognafiere",
@@ -298653,7 +309742,23 @@ window.ATLASDATA={
      "source_url": "https://www.sanmarco.vr.it/en/convention-and-events.htm"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hotelsanmarcoverona",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sanmarco.vr.it/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelsanmarcovr",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sanmarco.vr.it/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "allianz-mico",
@@ -298670,7 +309775,7 @@ window.ATLASDATA={
    "exhibition_sqm": 50000,
    "halls": "Official micomilano.it: more than 50,000 m² of exhibition space and 60 meeting rooms. Fondazione Fiera Milano also cites 65 rooms and 18,000 people simultaneously; an investor presentation cites 54,000 m² and 21,000 seats. Those conflicting totals are not stored as a single capacity_max_delegates figure.",
    "description": "Milan's main purpose-built congress centre (Allianz MiCo). The venue's official site describes more than 50,000 m² of exhibition space and 60 meeting rooms, with a legal address at Piazzale Carlo Magno 1, 20149 Milan. The owner, Fondazione Fiera Milano, also publishes 65 rooms and 18,000 people simultaneously; an investor presentation cites 54,000 m² and 21,000 seats. Headline exhibition area follows the venue site as 'more than 50,000 m²' (stored as 50,000 with that caveat). Coordinates are the Nominatim pin for the official street address. Competitor marketplace listings were not used.",
-   "photo": null,
+   "photo": "img/venues/allianz-mico-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -298685,6 +309790,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/allianz-mico-1.jpg",
+     "thumb": "img/venues/allianz-mico-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Asymmetry_-_Flickr_-_Rob_Oo.jpg",
+     "credit": "Photo: Rob Oo / Wikimedia Commons / CC BY 2.0",
+     "caption": "The distinctive folded-metal facade of Allianz MiCo (Fieramilanocity), Milan, Italy, in 2023."
+    },
+    {
+     "src": "img/venues/allianz-mico-2.jpg",
+     "thumb": "img/venues/allianz-mico-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Fieramilanocity_cometa.jpg",
+     "credit": "Photo: Saggittarius A / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The “cometa” (comet) side of Allianz MiCo at Fieramilanocity, Milan, Italy, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -298983,7 +310106,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/excelsiorhotelgallia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/excelsiorgallia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/excelsiorhotelgallia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-st-regis-rome",
@@ -299035,7 +310181,30 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/StRegisRome",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/stregisrome",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stregisrome",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "rome-cavalieri",
@@ -299062,7 +310231,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Rome-Cavalieri-Waldorf-Astoria-Hotels-Resorts-155090884528763",
+     "verified_via": "official property website",
+     "source_url": "https://romecavalieri.com/meetings-conferences/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/romecavalieri",
+     "verified_via": "official property website",
+     "source_url": "https://romecavalieri.com/meetings-conferences/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/RomeCavalieri",
+     "verified_via": "official property website",
+     "source_url": "https://romecavalieri.com/meetings-conferences/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "jamaica-conference-centre",
@@ -299139,7 +310331,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LandmarkAmman",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarkamman.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/landmarkhotelamman",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarkamman.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/landmarkamman",
+     "verified_via": "official website footer",
+     "source_url": "https://landmarkamman.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "le-royal-hotel-amman",
@@ -299151,7 +310366,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 31.9532892,
    "lon": 35.9087841,
-   "url": "https://www.leroyal.com/amman/",
+   "url": "https://amman.leroyal.com/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -299162,13 +310377,40 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://amman.leroyal.com/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.leroyal.com/amman/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LeRoyalAmman",
+     "verified_via": "official website footer",
+     "source_url": "https://amman.leroyal.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/leroyalamman_",
+     "verified_via": "official website footer",
+     "source_url": "https://amman.leroyal.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/le-royal-amman-hotels-resorts",
+     "verified_via": "official website footer",
+     "source_url": "https://amman.leroyal.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "tokyo-big-sight",
@@ -299513,7 +310755,7 @@ window.ATLASDATA={
    "exhibition_sqm": 75000,
    "halls": "Official organisers’ guide: site area 210,000 m²; total exhibition area 75,000 m². Exhibition Halls 1–8 54,000 m² (divisible); Halls 9–11 18,000 m² (Hall 9 9,000 m²; Halls 10 and 11 4,500 m² each); Makuhari Event Hall arena 3,098 m², up to 9,000 people. International Conference Hall / Convention Hall 1,600 people, plus 22 conference rooms.",
    "description": "Chiba’s international exhibition and convention complex, operated by Makuhari Messe, Inc. Official total exhibition area is 75,000 m². Official breakdown: Halls 1–8 54,000 m² and Halls 9–11 18,000 m² (72,000 m²), with the Makuhari Event Hall arena officially 3,098 m²; 54,000 + 18,000 + 3,098 = 75,098, two figures above the official 75,000 total, so exhibition_sqm follows the official ‘total exhibition area is 75,000 m²’ wording rather than a summed remainder. capacity_max_delegates is the official Event Hall figure of up to 9,000 people. Official convention hall capacity is 1,600 people with 22 additional conference rooms. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/makuhari-messe-1.jpg",
    "linked_event_slugs": [
     "interop-tokyo-2027",
     "ceatec-2027",
@@ -299611,6 +310853,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/makuhari-messe-1.jpg",
+     "thumb": "img/venues/makuhari-messe-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Makuhari_Messe,_North_hall_1.jpg",
+     "credit": "Photo: 掬茶 / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "North halls 9–11 of Makuhari Messe, Chiba, Japan, in 2012."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -300197,7 +311449,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ANAInterContinentalTokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://anaintercontinental-tokyo.jp/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ANAICtokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://anaintercontinental-tokyo.jp/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/anaintercontinentaltokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://anaintercontinental-tokyo.jp/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ana-intercontinental-tokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://anaintercontinental-tokyo.jp/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "imperial-hotel-tokyo",
@@ -300266,7 +311548,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Imperial Hotel, Tokyo"
+   "hotel_name": "Imperial Hotel, Tokyo",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/imperialhoteljapan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/imperialhoteljapan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@imperialhotel_jp_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-new-otani-tokyo",
@@ -300330,6 +311635,29 @@ window.ATLASDATA={
      "source_url": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
      "href": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotelnewotanitokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelNewOtaniTokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/HotelNewOtaniTokyo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -300584,7 +311912,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "diamond-island-convention-and-exhibition-center",
@@ -301318,7 +312690,7 @@ window.ATLASDATA={
    "address": "524 Bongeunsa-ro, Gangnam-gu, Seoul, South Korea",
    "lat": 37.5128251,
    "lon": 127.0572645,
-   "url": "https://seoul.intercontinental.com/iccoex/",
+   "url": "https://www.thewestinseoulparnas.com/eng",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -301327,13 +312699,37 @@ window.ATLASDATA={
    "linked_event_slugs": [],
    "sources": [
     {
+     "url": "https://www.thewestinseoulparnas.com/eng",
+     "label": "Official source"
+    },
+    {
      "url": "https://english.seoul.go.kr/service/living/accommodations/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://seoul.intercontinental.com/iccoex/",
      "label": "Official source"
     }
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/westinparnas",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thewestinseoulparnas.com/eng",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westin_seoul_parnas",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thewestinseoulparnas.com/eng",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-shilla-seoul",
@@ -301360,7 +312756,16 @@ window.ATLASDATA={
    ],
    "star_rating": 5,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theshillaseoul",
+     "verified_via": "official property website",
+     "source_url": "https://www.shillahotels.com/en/theshilla/seoul/index.do",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-hotel-kuwait",
@@ -301389,7 +312794,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "jumeirah-messilah-beach-hotel-spa",
@@ -301418,7 +312867,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/kuwait/jumeirah-messilah-beach",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/kuwait/jumeirah-messilah-beach",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/kuwait/jumeirah-messilah-beach",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jumeirah",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.jumeirah.com/en/stay/kuwait/jumeirah-messilah-beach",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "expo-congress-center-astana",
@@ -301717,7 +313196,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 54.6721141,
    "lon": 25.2840431,
-   "url": "https://www.hotelpanorama.lt/",
+   "url": "https://panoramahotel.lt/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -301728,13 +313207,33 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://panoramahotel.lt/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.hotelpanorama.lt/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PanoramahotelVilnius",
+     "verified_via": "official website footer",
+     "source_url": "https://panoramahotel.lt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/panorama_hotel_vilnius",
+     "verified_via": "official website footer",
+     "source_url": "https://panoramahotel.lt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-hotel-lietuva",
@@ -301763,7 +313262,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vilnius-lietuva",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "vilnius-university-mif-naugarduko",
@@ -302180,7 +313723,23 @@ window.ATLASDATA={
      "source_url": "https://www.movenpickmarrakech.com/en/events/corporate-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/movenpickmarrakech",
+     "verified_via": "official website footer",
+     "source_url": "https://www.movenpickmarrakech.com/en/events/corporate-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/movenpickmarrakech",
+     "verified_via": "official website footer",
+     "source_url": "https://www.movenpickmarrakech.com/en/events/corporate-events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "doubletree-by-hilton-casablanca-city-centre",
@@ -302221,7 +313780,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 33.9906746,
    "lon": -6.8368534,
-   "url": "https://www.sofitel-rabat-jardin-des-roses.com/",
+   "url": "https://sofitel.accor.com/en/hotels/6813.html",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -302232,13 +313791,40 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://sofitel.accor.com/en/hotels/6813.html",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.sofitel-rabat-jardin-des-roses.com/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SofitelRabatJardinRoses",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/6813.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sofitelrabatjardindesroses",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/6813.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SofitelRabat",
+     "verified_via": "official website footer",
+     "source_url": "https://sofitel.accor.com/en/hotels/6813.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "la-mamounia",
@@ -302271,7 +313857,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lamamouniamarrakech",
+     "verified_via": "official website footer",
+     "source_url": "https://mamounia.com/fr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lamamouniamarrakech",
+     "verified_via": "official website footer",
+     "source_url": "https://mamounia.com/fr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LaMamounia1",
+     "verified_via": "official website footer",
+     "source_url": "https://mamounia.com/fr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/mamounia",
+     "verified_via": "official website footer",
+     "source_url": "https://mamounia.com/fr/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grimaldi-forum",
@@ -302556,6 +314172,56 @@ window.ATLASDATA={
      "url": "https://www.tiktok.com/@porto_montenegro",
      "verified_via": "official website footer",
      "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "misheel-expo",
+   "name": "Misheel Expo",
+   "type": "exhibition_grounds",
+   "country": "Mongolia",
+   "cc": "MN",
+   "city": "Ulaanbaatar",
+   "address": "Misheel Expo, Sükhbaatar district, Ulaanbaatar, Mongolia",
+   "lat": null,
+   "lon": null,
+   "url": "https://misheelexpo.mn/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official site describes a facility with indoor and outdoor spaces; a hall-by-hall official schedule was not retrieved in this pass.",
+   "description": "Official exhibition venue in Ulaanbaatar. Official contact copy gives the address as Misheel Expo, Sükhbaatar district (Сүхбаатар дүүрэг), Ulaanbaatar, Mongolia, email [email removed]. Official English/Mongolian copy refers to a 2,511 m² facility with indoor and outdoor spaces and uses 'орчимд' (approximately) in the Mongolian text, so 2,511 is not stored as exact exhibition_sqm. A '1,200+' figure on the official site refers to exhibiting companies, not delegate capacity, and is not stored as capacity_max_delegates. Both capacity and exhibition area are therefore left null pending a hall-by-hall official schedule.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://misheelexpo.mn/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/misheelexpocenter",
+     "verified_via": "official website footer",
+     "source_url": "https://misheelexpo.mn/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/misheelexpocenter",
+     "verified_via": "official website footer",
+     "source_url": "https://misheelexpo.mn/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@misheelexpocenter",
+     "verified_via": "official website footer",
+     "source_url": "https://misheelexpo.mn/",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -303228,6 +314894,29 @@ window.ATLASDATA={
      "href": "https://digital.ihg.com/is/content/ihg/intercontinental-st.-julians-10722946809-original?fmt=pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ICMalta",
+     "verified_via": "official website footer",
+     "source_url": "https://malta.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/icmalta",
+     "verified_via": "official website footer",
+     "source_url": "https://malta.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/icmalta",
+     "verified_via": "official website footer",
+     "source_url": "https://malta.intercontinental.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -303348,6 +315037,22 @@ window.ATLASDATA={
      "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
      "href": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CorinthiaStGeorgesBay",
+     "verified_via": "official website footer",
+     "source_url": "https://www.corinthia.com/en-gb/st-georges-bay/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/corinthia-hotel-st-georges-bay-malta",
+     "verified_via": "official website footer",
+     "source_url": "https://www.corinthia.com/en-gb/st-georges-bay/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -303577,7 +315282,51 @@ window.ATLASDATA={
      "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "phoenicia-malta",
@@ -303662,7 +315411,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "The Phoenicia Malta"
+   "hotel_name": "The Phoenicia Malta",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/phoeniciamalta",
+     "verified_via": "official website footer",
+     "source_url": "https://phoeniciamalta.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/phoeniciamalta",
+     "verified_via": "official website footer",
+     "source_url": "https://phoeniciamalta.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/phoeniciamalta",
+     "verified_via": "official website footer",
+     "source_url": "https://phoeniciamalta.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grand-hotel-excelsior-malta",
@@ -303767,7 +315539,37 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Grand Hotel Excelsior"
+   "hotel_name": "Grand Hotel Excelsior",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/excelsiormalta",
+     "verified_via": "official website footer",
+     "source_url": "https://excelsior.com.mt/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/grand-hotel-excelsior-malta",
+     "verified_via": "official website footer",
+     "source_url": "https://excelsior.com.mt/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/excelsiormalta",
+     "verified_via": "official website footer",
+     "source_url": "https://excelsior.com.mt/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LuxuryMaltaHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://excelsior.com.mt/home/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "casino-maltese",
@@ -304025,6 +315827,29 @@ window.ATLASDATA={
      "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
      "href": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hardrockhotelmalta",
+     "verified_via": "official website footer",
+     "source_url": "https://hotel.hardrock.com/malta/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hardrockhotelmalta",
+     "verified_via": "official website footer",
+     "source_url": "https://hotel.hardrock.com/malta/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hard-rock-hotel-malta",
+     "verified_via": "official website footer",
+     "source_url": "https://hotel.hardrock.com/malta/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -304316,7 +316141,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Corinthia Palace Malta"
+   "hotel_name": "Corinthia Palace Malta",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CorinthiaPalaceHotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.corinthia.com/en-gb/palace/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/corinthiapalace",
+     "verified_via": "official website footer",
+     "source_url": "https://www.corinthia.com/en-gb/palace/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/corinthia-palace-hotel-spa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.corinthia.com/en-gb/palace/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-resort-malta-st-julians",
@@ -304436,7 +316284,51 @@ window.ATLASDATA={
      "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians/meeting-events"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kempinski-hotel-san-lawrenz",
@@ -304524,7 +316416,51 @@ window.ATLASDATA={
      "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz/meetings-events"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kempinski",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/19051",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@kempinskihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.kempinski.com/en/hotel-san-lawrenz",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "barcelo-fortina-malta",
@@ -304644,7 +316580,37 @@ window.ATLASDATA={
      "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/meetings-and-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/barcelohotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/barcelohotelsresorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/barcelohoteles",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/barcelohoteles",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-ww/barcelo-fortina-malta/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-palace-sliema",
@@ -304713,7 +316679,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "AX The Palace"
+   "hotel_name": "AX The Palace",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thepalacemalta",
+     "verified_via": "official website footer",
+     "source_url": "https://axhotelsmalta.com/the-palace/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thepalacemalta",
+     "verified_via": "official website footer",
+     "source_url": "https://axhotelsmalta.com/the-palace/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/the-palace-malta",
+     "verified_via": "official website footer",
+     "source_url": "https://axhotelsmalta.com/the-palace/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "centro-citibanamex",
@@ -305306,7 +317295,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/barcelohotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-us/barcelo-maya-grand-resort/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/barcelohotelsresorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-us/barcelo-maya-grand-resort/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/barcelohoteles",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-us/barcelo-maya-grand-resort/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/barcelohoteles",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.barcelo.com/en-us/barcelo-maya-grand-resort/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-st-regis-mexico-city",
@@ -305898,7 +317917,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MandarinOrientalKualaLumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/kuala-lumpur/petronas-towers",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mo_kualalumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/kuala-lumpur/petronas-towers",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hilton-kuala-lumpur",
@@ -305956,7 +317991,374 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental.kualalumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://kualalumpur.intercontinental.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental.kualalumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://kualalumpur.intercontinental.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@intercontinentalkualalumpur",
+     "verified_via": "official website footer",
+     "source_url": "https://kualalumpur.intercontinental.com",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "windhoek-international-conference-centre",
+   "name": "Windhoek International Conference Centre",
+   "type": "convention_centre",
+   "country": "Namibia",
+   "cc": "NA",
+   "city": "Windhoek",
+   "address": "Corner of Auas and Aviation Road, Windhoek, Namibia",
+   "lat": null,
+   "lon": null,
+   "url": "https://wiccnamibia.com/",
+   "capacity": 3000,
+   "exhibition_sqm": null,
+   "halls": "Official factsheet: Namibia’s largest conference centre, fifteen WICC venues of different sizes, with additional Mövenpick Hotel Windhoek and Mercure Hotel Windhoek rooms tabulated on the same official PDF.",
+   "description": "Windhoek International Conference Centre (WICC), officially described as Namibia’s largest conference centre, at the corner of Auas and Aviation Road, Windhoek. Official 2025 factsheet and venue page: Grand Ballroom 1,565 m². Official prose: seating for up to 2,400 delegates in theatre style, 1,800 conference, 1,200 banqueting. The official MAXIMUM SEATING CAPACITIES table on the same factsheet lists Grand Ballroom theatre 2,000, conference 1,700, banquet 1,200 and cocktail 3,000. Because the theatre and conference figures disagree, those two layouts are not stored as exact fields on the Grand Ballroom; banquet 1,200 (agreed) and table cocktail 3,000 are stored, and 3,000 is used as capacity_max_delegates with the 'up to 2,400' theatre wording noted. Contact published with the centre includes [email removed]. No official exhibition-hall total is published, so exhibition_sqm is null. The smaller historic Windhoek Country Club / Oryx rooms are a different, smaller venue and are not used here.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://wiccnamibia.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://wiccnamibia.com/venue/windhoek-international-conference-centre-venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1565,
+     "capacity_max": 3000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 1200,
+     "capacity_reception": 3000,
+     "notes": "Official factsheet area 1,565 m² (also stated as 1565 square metres on the venue page). Official prose on the same factsheet and website: conference seating for up to 2,400 delegates in theatre style, 1,800 in conference style and 1,200 in banqueting style (excluding staging, translation booths or back projection). Official MAXIMUM SEATING CAPACITIES table on the same PDF lists theatre 2,000, conference 1,700, banquet 1,200, dinner/dance 1,000, cocktail 3,000, U-shape 1,200. Because theatre (2,000 vs up to 2,400) and conference (1,700 vs 1,800) disagree between two official statements, those two layouts are not stored as exact fields. Banquet 1,200 agrees and is stored. Cocktail 3,000 is taken from the official table and is also used as capacity_max, with the prose 'up to 2,400' theatre figure noted. The room divides into eight venues.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Kuiseb Room",
+     "type": null,
+     "area_sqm": 782,
+     "capacity_max": 1200,
+     "capacity_theatre": 1200,
+     "capacity_classroom": 800,
+     "capacity_banquet": 600,
+     "capacity_reception": 100,
+     "notes": "Official factsheet area 782 m². Official table: theatre 1,200, conference 800 (stored as classroom), banquet 600, dinner/dance 450, cocktail 100, U-shape 600. The cocktail figure is as printed.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Omatako Room",
+     "type": null,
+     "area_sqm": 782,
+     "capacity_max": 1200,
+     "capacity_theatre": 1200,
+     "capacity_classroom": 800,
+     "capacity_banquet": 600,
+     "capacity_reception": 100,
+     "notes": "Official factsheet area 782 m². Official table: theatre 1,200, conference 800, banquet 600, dinner/dance 450, cocktail 100, U-shape 600.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Kuiseb 1, 2, 3 or 4 (each)",
+     "type": null,
+     "area_sqm": 195,
+     "capacity_max": 160,
+     "capacity_theatre": 160,
+     "capacity_classroom": 100,
+     "capacity_banquet": 80,
+     "capacity_reception": 125,
+     "notes": "Official factsheet: each of Kuiseb 1–4 is 195 m². Official table: theatre 160, conference 100, banquet 80, dinner/dance 50, cocktail 125, boardroom 60, U-shape 90.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Omatako 1, 2, 3 or 4 (each)",
+     "type": null,
+     "area_sqm": 195,
+     "capacity_max": 160,
+     "capacity_theatre": 160,
+     "capacity_classroom": 100,
+     "capacity_banquet": 80,
+     "capacity_reception": 125,
+     "notes": "Official factsheet: each of Omatako 1–4 is 195 m². Official table: theatre 160, conference 100, banquet 80, dinner/dance 50, cocktail 125, boardroom 60, U-shape 90.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Kuiseb 1 & 2",
+     "type": null,
+     "area_sqm": 391,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 250,
+     "notes": "Official factsheet combined area 391 m². Official table: theatre 400, conference 200, banquet 200, dinner/dance 150, cocktail 250, U-shape 300.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Omatako 1 & 2",
+     "type": null,
+     "area_sqm": 391,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 250,
+     "notes": "Official factsheet combined area 391 m². Same official table capacities as the other 391 m² pairs.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Kuiseb 3 & 4",
+     "type": null,
+     "area_sqm": 391,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 250,
+     "notes": "Official factsheet combined area 391 m².",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Omatako 3 & 4",
+     "type": null,
+     "area_sqm": 391,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 250,
+     "notes": "Official factsheet combined area 391 m².",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Pre-Assembly A",
+     "type": null,
+     "area_sqm": 576,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet area 576 m². The prose says there is a huge Pre-Assembly area which can accommodate up to 1,000 guests; that official 'up to 1,000' is not assigned to A, B or C individually because the table does not split it.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Pre-Assembly B",
+     "type": null,
+     "area_sqm": 254,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet area 254 m².",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Pre-Assembly C",
+     "type": null,
+     "area_sqm": 189,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet area 189 m².",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Ugab",
+     "type": null,
+     "area_sqm": 51,
+     "capacity_max": 40,
+     "capacity_theatre": 40,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: theatre 40, conference 20, boardroom 25, U-shape 20.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Brandberg",
+     "type": null,
+     "area_sqm": 75,
+     "capacity_max": 80,
+     "capacity_theatre": 80,
+     "capacity_classroom": 40,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: theatre 80, conference 40, boardroom 35, U-shape 30.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Gamsberg",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 50,
+     "capacity_theatre": 50,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: theatre 50, conference 20, boardroom 25, U-shape 20.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Kavango",
+     "type": null,
+     "area_sqm": 34,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 15 only.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Kwando",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 8 only.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Huab",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 8 only.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "The Auas",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: boardroom 8 only.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Kunene Room (Mövenpick Hotel Windhoek)",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": 40,
+     "capacity_theatre": 40,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Listed on the official WICC factsheet under Mövenpick Hotel Windhoek, ground floor. Theatre 40, conference 20, boardroom 30, U-shape 24.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Ruacana Room (Mövenpick Hotel Windhoek)",
+     "type": null,
+     "area_sqm": 98,
+     "capacity_max": 50,
+     "capacity_theatre": 50,
+     "capacity_classroom": 30,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official WICC factsheet, Mövenpick Hotel Windhoek. Theatre 50, conference 30, boardroom 40, U-shape 30.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Zambezi Room (Mövenpick Hotel Windhoek)",
+     "type": null,
+     "area_sqm": 98,
+     "capacity_max": 80,
+     "capacity_theatre": 80,
+     "capacity_classroom": 50,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official WICC factsheet, Mövenpick Hotel Windhoek. Theatre 80, conference 50, boardroom 50, U-shape 40.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    },
+    {
+     "name": "Namib 1 & 2 (Mercure Hotel Windhoek)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 800,
+     "capacity_theatre": 800,
+     "capacity_classroom": 300,
+     "capacity_banquet": 300,
+     "capacity_reception": 400,
+     "notes": "Listed on the official WICC factsheet under Mercure Hotel Windhoek. Combined Namib 1 & 2: theatre 800, conference 300, banquet 300, dinner/dance 250, cocktail 400, boardroom 180, U-shape 250. Individual Namib 1 and Namib 2 are each theatre 300 / banquet 150. Area for these rooms is not printed in the extracted size table.",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "WICC factsheet 2025",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf",
+     "href": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf",
+     "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/windhoekinternationalconventioncentre",
+     "verified_via": "official website footer",
+     "source_url": "https://wiccnamibia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wiccnamibia",
+     "verified_via": "official website footer",
+     "source_url": "https://wiccnamibia.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/wicc-namibia",
+     "verified_via": "official website footer",
+     "source_url": "https://wiccnamibia.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "landmark-centre-lagos",
@@ -306239,7 +318641,7 @@ window.ATLASDATA={
    "exhibition_sqm": 86000,
    "halls": "10 halls (Royal Jaarbeurs brochure 2025: up to 86,000 m²)",
    "description": "Utrecht's exhibition and events complex next to the central station. The official 2025 Royal Jaarbeurs brochure describes 10 halls totalling up to 86,000 m². Hall 12 is given as 11,383 m² with a theatre-style capacity of about 10,357–10,360. Some hall figures conflict across brochure pages (notably Hall 8), so only clearly consistent spaces are stored.",
-   "photo": null,
+   "photo": "img/venues/jaarbeurs-utrecht-1.jpg",
    "linked_event_slugs": [
     "not-2027",
     "ipon-2028"
@@ -306277,6 +318679,16 @@ window.ATLASDATA={
      "source_url": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
      "href": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/jaarbeurs-utrecht-1.jpg",
+     "thumb": "img/venues/jaarbeurs-utrecht-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Utrecht2.JPG",
+     "credit": "Photo: Vysotsky / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Named facade of Jaarbeurs Utrecht, Utrecht, the Netherlands, in 2014."
     }
    ],
    "socials": [
@@ -306441,7 +318853,37 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Hotel Okura Amsterdam"
+   "hotel_name": "Hotel Okura Amsterdam",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HotelOkuraAmsterdam",
+     "verified_via": "official property website",
+     "source_url": "https://www.okura.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hotel_okura_amsterdam",
+     "verified_via": "official property website",
+     "source_url": "https://www.okura.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hotel-okura-amsterdam",
+     "verified_via": "official property website",
+     "source_url": "https://www.okura.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@hotelokuraamsterdam",
+     "verified_via": "official property website",
+     "source_url": "https://www.okura.nl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "johan-cruijff-arena",
@@ -307066,7 +319508,30 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "Sofitel Legend The Grand Amsterdam"
+   "hotel_name": "Sofitel Legend The Grand Amsterdam",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SofitelLegendTheGrandAmsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sofitel-legend-thegrand.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sofitellegendthegrandamsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sofitel-legend-thegrand.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/sofitellegendthegrandamsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sofitel-legend-thegrand.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-amstel-amsterdam",
@@ -307148,7 +319613,37 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "InterContinental Amstel Amsterdam"
+   "hotel_name": "InterContinental Amstel Amsterdam",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InterContinentalAmstelAmsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://www.amstelhotel.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/amstelhotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.amstelhotel.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/intercontinental-amstel-amsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://www.amstelhotel.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/amstelhotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.amstelhotel.com/meetings-events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "nova-spektrum",
@@ -307407,7 +319902,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "oslo-spektrum",
@@ -308235,7 +320774,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "panama-convention-center",
@@ -308521,7 +321104,23 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/limwi-the-westin-lima-hotel-and-convention-center/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/westinlima",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/limwi-the-westin-lima-hotel-and-convention-center/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/westinlima",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/limwi-the-westin-lima-hotel-and-convention-center/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "centro-de-convenciones-de-lima",
@@ -308958,7 +321557,7 @@ window.ATLASDATA={
    "exhibition_sqm": 150000,
    "halls": "Official: 150,000 m² of exhibition space in halls of various sizes (MTP venue pages also refer to 15 halls on the exhibition-halls listing)",
    "description": "Poland's historic international fair grounds in Poznań, including the Poznań Congress Center on the same official address. Official MTP venue pages state 150,000 m² of exhibition space. Atlas conference and expo events at both the Expo and the Congress Center are merged into this single record. Coordinates are the atlas precise pin for the Głogowska 10 complex.",
-   "photo": null,
+   "photo": "img/venues/mtp-poznan-expo-1.jpg",
    "linked_event_slugs": [
     "budma-2027",
     "meble-polska-2027",
@@ -308984,6 +321583,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/mtp-poznan-expo-1.jpg",
+     "thumb": "img/venues/mtp-poznan-expo-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Hall_11_(Iglica)_seen_from_the_Hall_5A_at_the_Pozna%C5%84_International_Fair.jpg",
+     "credit": "Photo: Robert von Oliva (naruciakk) / Wikimedia Commons / CC0",
+     "caption": "The Iglica (Hall 11 spire) at MTP Poznań Expo, Poznań, Poland, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -309519,7 +322128,37 @@ window.ATLASDATA={
      "source_url": "https://poland.ihg.com/en/intercontinental-warszawa-en/ballroom-conference/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/warsaw/wrsha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/warsaw/wrsha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/warsaw/wrsha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/warsaw/wrsha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "arche-hotel-krakowska",
@@ -309570,7 +322209,30 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Arche Hotel Krakowska"
+   "hotel_name": "Arche Hotel Krakowska",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ArcheHotelKrakowska",
+     "verified_via": "official website footer",
+     "source_url": "https://www.archehotelkrakowska.pl/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/archehotelkrakowska",
+     "verified_via": "official website footer",
+     "source_url": "https://www.archehotelkrakowska.pl/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/arche-hotel-krakowska",
+     "verified_via": "official website footer",
+     "source_url": "https://www.archehotelkrakowska.pl/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "copernicus-science-centre",
@@ -310471,7 +323133,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MontebeloHotelsResorts",
+     "verified_via": "official website footer",
+     "source_url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/montebelohotels",
+     "verified_via": "official website footer",
+     "source_url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/home",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/montebelo-hotels-&-resorts",
+     "verified_via": "official website footer",
+     "source_url": "https://montebelohotels.com/montebelo-mosteiro-de-alcobaca-historic-hotel/pt/home",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "unicorn-factory-lisbon",
@@ -310600,7 +323285,30 @@ window.ATLASDATA={
      "source_url": "https://www.fourseasons.com/lisbon/meetings-and-events/function-rooms/lobby-level/pedro_leitao_ballroom/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/FSLisbon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/lisbon/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FourSeasonsHotelLisbon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/lisbon/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fslisbon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/lisbon/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "pestana-palace-lisboa",
@@ -310627,7 +323335,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pestanahotelsresorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.pestana.com/en/hotel/pestana-palace",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PestanaHotelsResorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.pestana.com/en/hotel/pestana-palace",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pestanahotelsresorts",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.pestana.com/en/hotel/pestana-palace",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pestanagroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.pestana.com/en/hotel/pestana-palace",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-yeatman",
@@ -310791,6 +323529,281 @@ window.ATLASDATA={
      "source_url": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
      "href": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheYeatmanPorto",
+     "verified_via": "official website footer",
+     "source_url": "https://www.the-yeatman-hotel.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theyeatman",
+     "verified_via": "official website footer",
+     "source_url": "https://www.the-yeatman-hotel.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "epic-sana-marques-lisbon",
+   "name": "EPIC SANA Marquês",
+   "type": "hotel_conference_venue",
+   "country": "Portugal",
+   "cc": "PT",
+   "city": "Lisbon",
+   "address": "Av. Fontes Pereira de Melo, 8, 1069-310 Lisbon",
+   "lat": 38.72735,
+   "lon": -9.14836,
+   "url": "https://www.sanahotels.com/en/hotel/epic-sana-marques/",
+   "capacity": 1800,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: Conference & Event centre of 2,142 m² with 18 rooms on 2 floors.",
+   "description": "Five-star conference hotel at Av. Fontes Pereira de Melo, 8, officially classed as 5 stars on the Turismo de Lisboa / Visit Lisboa venue listing (retrieved 2026-11-24). Official hotel schema gives the same street address, postcode 1069-310 and coordinates 38.72735, -9.14836. The official meetings page and business portfolio describe a 2,142 m² conference and event centre; the portfolio labels Floor -1 cocktail capacity as 1,800 pax and the meetings page states 'Max Capacity: 1,800 people' (stored as capacity_max_delegates). The same official portfolio also refers to a capacity of up to 1,500 participants and lists Gala Ballroom I+II cocktail at 1,500 — both figures are noted on the spaces. RNET 1519 appears on the hotel site as a registration number, not as a star class by itself. 2,142 m² is the official event-centre area, not stored as exhibition_sqm.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.sanahotels.com/en/hotel/epic-sana-marques/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanahotels.com/en/hotel/epic-sana-marques/meetings-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sanahotels.com/media/e05lv0aa/factsheet-epic-sana-marques-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitlisboa.com/en/places/epic-sana-marques-hotel",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Hall -1",
+     "type": null,
+     "area_sqm": 2142,
+     "capacity_max": 1800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 1800,
+     "notes": "Official business portfolio labels Floor -1 as 2,142 sqm with cocktail 1,800 pax. The official meetings page also states a conference and event centre of 2,142 m² and 'Max Capacity: 1,800 people'. The same portfolio elsewhere refers to a capacity of up to 1,500 participants and lists Gala Ballroom I+II cocktail at 1,500 — both official figures are noted.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Gala Ballroom I + II",
+     "type": null,
+     "area_sqm": 425,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 1500,
+     "notes": "Official portfolio Floor -2 table: 425 sqm, cocktail 1,500. Theatre/classroom/boardroom columns are blank. Banquet is published as a range (184–144, menu|buffet) and is not stored as a single exact figure. Official height 3.2 m.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Gala Ballroom I",
+     "type": null,
+     "area_sqm": 305,
+     "capacity_max": 350,
+     "capacity_theatre": 216,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 350,
+     "notes": "Official portfolio: 305 sqm, theatre 216, cabaret 84, cocktail 350. Classroom 72–108, U-shape 38–57, boardroom 44–66 and banquet 120–88 are official ranges (2–3 pax / menu|buffet variants) and are not stored as exact single figures.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Gala Ballroom II",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 140,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 140,
+     "notes": "Official portfolio: 120 sqm, cabaret 30, cocktail 140. Theatre and classroom columns are blank. Other layouts are published as ranges and are not stored as exact figures.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Chiado I + II + III",
+     "type": null,
+     "area_sqm": 405,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio Floor -1 combined area 405 sqm (12.7 x 28.7 m). A layout capacity was not clearly readable for this combination in the extracted table.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Alfama I + II",
+     "type": null,
+     "area_sqm": 319,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio Floor -1 combined area 319 sqm (11 x 29 m). Layout capacities were not clearly readable for this combination in the extracted table.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Chiado I + II",
+     "type": null,
+     "area_sqm": 257,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio Floor -1 combined area 257 sqm (12.7 x 18.5 m).",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Chiado II + III",
+     "type": null,
+     "area_sqm": 247,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio Floor -1 combined area 247 sqm (12.7 x 17.3 m).",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Alfama II",
+     "type": null,
+     "area_sqm": 132,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio Floor -1 area 132 sqm (11 x 12 m). Official height marked 3.5 m.",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    },
+    {
+     "name": "Lapa I + II",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official portfolio lists Lapa I + II at 96 sqm (10.6 x 9 m).",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "EPIC SANA Marquês business portfolio (EN)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf",
+     "href": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf",
+     "local": false
+    },
+    {
+     "title": "EPIC SANA Marquês factsheet (EN)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.sanahotels.com/media/e05lv0aa/factsheet-epic-sana-marques-en.pdf",
+     "href": "https://www.sanahotels.com/media/e05lv0aa/factsheet-epic-sana-marques-en.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "EPIC SANA Marquês",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/epicsana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sanahotels.com/en/hotel/epic-sana-marques/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/epicsana",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sanahotels.com/en/hotel/epic-sana-marques/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "tivoli-avenida-liberdade-lisboa",
+   "name": "Tivoli Avenida Liberdade Lisboa",
+   "type": "hotel_conference_venue",
+   "country": "Portugal",
+   "cc": "PT",
+   "city": "Lisbon",
+   "address": "Av. da Liberdade, 185, 1269-050 Lisboa",
+   "lat": 38.72108,
+   "lon": -9.1472,
+   "url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official hotel FAQ: 12 versatile meeting rooms including a grand Conference Centre. Official Visit Lisboa listing refers to a 19th-century palatial Conference and Events Centre across the courtyard. A layout capacity chart was not retrieved from the official pages in this pass (an 'up to 400' figure appeared only in unconfirmed third-party/group marketing and is not stored).",
+   "description": "Landmark hotel on Avenida da Liberdade, officially classed as 5 stars on the Turismo de Lisboa / Visit Lisboa venue listing (retrieved 2026-11-24), which also publishes the street address Av. da Liberdade, 185, 1269-050 Lisboa and email [email removed]. Official Tivoli site schema.org geo is 38.72108, -9.14720. Official FAQ states 12 meeting rooms including a Conference Centre; no official room-by-room capacity table was extracted from the retrieved Tivoli meetings pages (they were JS-thin). RNET 358 is a registration number, not a stated star class by itself.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitlisboa.com/en/places/tivoli-avenida-liberdade-lisboa-hotel",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tivolihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tivolihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tivolihotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/TivoliHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -312325,7 +325338,7 @@ window.ATLASDATA={
    "address": "Jeddah, Saudi Arabia",
    "lat": null,
    "lon": null,
-   "url": "https://www.ritzcarlton.com/en/hotels/jeddah",
+   "url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -312336,13 +325349,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ritzcarlton.com/en/hotels/jeddah",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ritzcarlton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ritzcarlton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ritzcarlton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ritzcarlton",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/jedrj-the-ritz-carlton-jeddah/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "crowne-plaza-riyadh-rdc-hotel",
@@ -312354,7 +325401,7 @@ window.ATLASDATA={
    "address": "Riyadh, Saudi Arabia",
    "lat": 24.7385543,
    "lon": 46.6355009,
-   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhcp/hoteldetail",
+   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -312365,13 +325412,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhcp/hoteldetail",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/crowneplaza",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhit/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "fairmont-riyadh",
@@ -312403,7 +325484,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fairmontriyadh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/riyadh/fairmont-riyadh.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FairmontRiyadh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/riyadh/fairmont-riyadh.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FairmontRiyadh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/riyadh/fairmont-riyadh.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fairmont-riyadh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/riyadh/fairmont-riyadh.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fairmontriyadh",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fairmont.com/en/hotels/riyadh/fairmont-riyadh.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-hotel-ricec-riyadh",
@@ -312432,7 +325550,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/radissonhotelgroup",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RadissonHotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/radissonhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/radisson-hotel-group",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "riyadh-marriott-hotel",
@@ -312473,7 +325635,7 @@ window.ATLASDATA={
    "address": "Riyadh, Saudi Arabia",
    "lat": 24.6658963,
    "lon": 46.6307815,
-   "url": "https://www.ritzcarlton.com/en/hotels/riyadh",
+   "url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -312484,6 +325646,10 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ritzcarlton.com/en/hotels/riyadh",
      "label": "Official source"
     }
@@ -312491,7 +325657,30 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "The Ritz-Carlton, Riyadh"
+   "hotel_name": "The Ritz-Carlton, Riyadh",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ritzcarltonriyadh",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ritzcarltonruh",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/theritzcarltonruh",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/overview/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "intercontinental-riyadh",
@@ -312520,7 +325709,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/riyadh/ruhha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/interconhotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/riyadh/ruhha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/riyadh/ruhha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/intercontinental",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/intercontinental/hotels/us/en/riyadh/ruhha/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "jw-marriott-hotel-riyadh",
@@ -312561,7 +325780,7 @@ window.ATLASDATA={
    "address": "Riyadh, Saudi Arabia",
    "lat": 24.6893797,
    "lon": 46.6855896,
-   "url": "https://www.mandarinoriental.com/en/riyadh/al-faisaliah",
+   "url": "https://www.mandarinoriental.com/en/riyadh/olaya",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -312572,6 +325791,10 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.mandarinoriental.com/en/riyadh/olaya",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.mandarinoriental.com/en/riyadh/al-faisaliah",
      "label": "Official source"
     }
@@ -312579,7 +325802,23 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "Mandarin Oriental Al Faisaliah, Riyadh"
+   "hotel_name": "Mandarin Oriental Al Faisaliah, Riyadh",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mandarinorientalalfaisaliah",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/riyadh/olaya",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mo_alfaisaliah",
+     "verified_via": "official website footer",
+     "source_url": "https://www.mandarinoriental.com/en/riyadh/olaya",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "voco-riyadh",
@@ -312591,7 +325830,7 @@ window.ATLASDATA={
    "address": "Riyadh, Saudi Arabia",
    "lat": null,
    "lon": null,
-   "url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhvc/hoteldetail",
+   "url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -312602,6 +325841,10 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhvc/hoteldetail",
      "label": "Official source"
     }
@@ -312609,7 +325852,37 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "voco Riyadh"
+   "hotel_name": "voco Riyadh",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vocohotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/vocohotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vocohotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/voco",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.ihg.com/voco/hotels/us/en/riyadh/ruhsd/hoteldetail",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "princess-nourah-bint-abdulrahman-university",
@@ -313162,7 +326435,7 @@ window.ATLASDATA={
    "exhibition_sqm": 70000,
    "halls": "Halls A–C and Victoria Hall, plus 78 meeting rooms",
    "description": "Stockholm’s official exhibition and congress centre at Mässvägen 1, 125 80 Älvsjö. The official November 2025 overview gives a total exhibition area of 70,000 m², stored as exhibition_sqm, 17,000 seats, stored as capacity_max_delegates, and 78 meeting rooms. Official hall areas are Hall A 25,925 sqm, Hall B 11,330 sqm, Hall C 19,448 sqm and Victoria Hall 2,032 sqm (these four sum to 58,735 sqm; the official 70,000 m² headline includes further exhibition area). A broader “area 114,000” figure appearing in some materials is not stored as exhibition space.",
-   "photo": null,
+   "photo": "img/venues/stockholmsmassan-1.jpg",
    "linked_event_slugs": [
     "stockholm-furniture-fair-2027"
    ],
@@ -313239,6 +326512,24 @@ window.ATLASDATA={
      "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
      "href": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/stockholmsmassan-1.jpg",
+     "thumb": "img/venues/stockholmsmassan-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Stockholmsm%C3%A4ssan_skylt_mars_2020.jpg",
+     "credit": "Photo: Holger Ellgaard / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named hall facade of Stockholmsmässan, Stockholm, Sweden, in 2020."
+    },
+    {
+     "src": "img/venues/stockholmsmassan-2.jpg",
+     "thumb": "img/venues/stockholmsmassan-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Stockholmsm%C3%A4ssan,_okt_2019c.jpg",
+     "credit": "Photo: Holger Ellgaard / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main entrance of Stockholmsmässan, Stockholm, Sweden, in 2019."
     }
    ],
    "socials": [
@@ -314087,7 +327378,30 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "Capella Singapore"
+   "hotel_name": "Capella Singapore",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/capellahotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://capellahotels.com/en/capella-singapore",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/capellahotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://capellahotels.com/en/capella-singapore",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/capellahotels",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://capellahotels.com/en/capella-singapore",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "shangri-la-singapore",
@@ -314228,7 +327542,23 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "The Ritz-Carlton, Millenia Singapore"
+   "hotel_name": "The Ritz-Carlton, Millenia Singapore",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ritzcarltonsingapore",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ritzcarltonmilleniasingapore",
+     "verified_via": "official property website",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "gospodarsko-razstavisce",
@@ -314461,7 +327791,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 48.1473925,
    "lon": 17.1081649,
-   "url": "https://www.ihg.com/crowneplaza/hotels/us/en/bratislava/btscp/hoteldetail",
+   "url": "https://cpbratislava.sk/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": "Official IHG hotel pages returned HTTP 403 on retrieval, so meeting-room figures and the official street address were not taken from the hotel site this pass. The atlas lists Hodžovo námestie 2; that address is not stored because it was not confirmed on a retrieved official hotel page.",
@@ -314472,13 +327802,40 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://cpbratislava.sk/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/bratislava/btscp/hoteldetail",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/crowne-plaza-bratislava",
+     "verified_via": "official website footer",
+     "source_url": "https://cpbratislava.sk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CrownePlazaBratislava",
+     "verified_via": "official website footer",
+     "source_url": "https://cpbratislava.sk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/crowneplazabratislava",
+     "verified_via": "official website footer",
+     "source_url": "https://cpbratislava.sk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "incheba-expo-bratislava",
@@ -315402,6 +328759,22 @@ window.ATLASDATA={
      "href": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/centara.cgcw",
+     "verified_via": "official website footer",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/cgcw/bangkok-convention-centre",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centaragrand_centralworld",
+     "verified_via": "official website footer",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/cgcw/bangkok-convention-centre",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -315805,7 +329178,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 41.0772788,
    "lon": 29.012593,
-   "url": "https://www.wyndhamhotels.com/wyndham-grand/istanbul-turkey/wyndham-grand-istanbul-levent/overview",
+   "url": "https://www.wyndhamgrandlevent.com/en/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -315816,13 +329189,175 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.wyndhamgrandlevent.com/en/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.wyndhamhotels.com/wyndham-grand/istanbul-turkey/wyndham-grand-istanbul-levent/overview",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wyndhamlevent",
+     "verified_via": "official website footer",
+     "source_url": "https://www.wyndhamgrandlevent.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wyndhamlevent",
+     "verified_via": "official website footer",
+     "source_url": "https://www.wyndhamgrandlevent.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WyndhamLevent",
+     "verified_via": "official website footer",
+     "source_url": "https://www.wyndhamgrandlevent.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/wyndham-grand-istanbul-levent",
+     "verified_via": "official website footer",
+     "source_url": "https://www.wyndhamgrandlevent.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "the-st-regis-istanbul",
+   "name": "The St. Regis Istanbul",
+   "type": "hotel_conference_venue",
+   "country": "Turkey",
+   "cc": "TR",
+   "city": "Istanbul",
+   "address": "Mim Kemal Oke Cad No 35, Nisantasi Sisli, Istanbul, 34367",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/",
+   "capacity": 280,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events schema lists 7 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
+   "description": "The St. Regis Istanbul official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (280). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Astor",
+     "type": null,
+     "area_sqm": 200,
+     "capacity_max": 280,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "Macka",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "Vincent",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "John Jacob Astor",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "Tesvikiye",
+     "type": null,
+     "area_sqm": 24,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "Nisantasi",
+     "type": null,
+     "area_sqm": 24,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    },
+    {
+     "name": "Salvador Dali",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": 20,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott events schema.org MeetingRoom: maximumAttendeeCapacity stored as capacity_max (the schema does not label a theatre layout). Area converted from official floorSize in FTK.",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stregisistanbul",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stregisistanbul",
+     "verified_via": "official website footer",
+     "source_url": "https://www.marriott.com/en-us/hotels/istxr-the-st-regis-istanbul/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "tainex",
@@ -315839,7 +329374,7 @@ window.ATLASDATA={
    "exhibition_sqm": 75600,
    "halls": "Official showground tables: TaiNEX 1 first floor 22,680 sqm and fourth floor 22,680 sqm (45,360 sqm); TaiNEX 2 first floor 15,120 sqm and fourth floor 15,120 sqm (30,240 sqm). Combined official exhibition floors 75,600 sqm. Official about page: TaiNEX 1 and 2 together hold more than 5,000 booths and 38 meeting rooms; TaiNEX 2 has a 7th-floor multifunctional conference hall with 14 convertible meeting rooms and a maximum capacity of 3,600 persons. Official about page also cites 156,700 sqm floor space for the TaiNEX 2 building; that is building floor space, not the exhibition-hall total, and is not stored as exhibition_sqm.",
    "description": "Taipei Nangang exhibition campus operated by TAITRA, recorded as one venue for TaiNEX 1 and TaiNEX 2, which official pages describe as linked by a pedestrian underpass. Official addresses are No. 1, Jingmao 2nd Rd. (Hall 1) and No. 2, Jingmao 2nd Rd. (Hall 2), Nangang District, Taipei City 11568. exhibition_sqm is 75,600, the sum of the four official exhibition floors. capacity_max_delegates is 3,600, the official TaiNEX 2 conference-hall maximum; larger booth/visitor figures are not treated as a delegate capacity. Official enquiry addresses and; is stored. Coordinates are the atlas precise pin used for both halls. Atlas events naming TaiNEX 1, TaiNEX 2 or both, including the TaiNEX portion of COMPUTEX, are linked here. COMPUTEX also uses TWTC and TICC, which are recorded as separate venues.",
-   "photo": null,
+   "photo": "img/venues/tainex-1.jpg",
    "linked_event_slugs": [
     "taipei-cycle-2027",
     "food-taipei-mega-shows-2027",
@@ -315935,7 +329470,25 @@ window.ATLASDATA={
      "source_url": "https://www.tainex.com.tw/en/about/about"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/tainex-1.jpg",
+     "thumb": "img/venues/tainex-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:TaiNEX2_20190810.jpg",
+     "credit": "Photo: Solomon203 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Taipei Nangang Exhibition Center Hall 2 (TaiNEX 2), Taipei, Taiwan, in 2019."
+    },
+    {
+     "src": "img/venues/tainex-2.jpg",
+     "thumb": "img/venues/tainex-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Around_the_Taipei_MRT_Nangang_Exhibition_Center_Station.jpg",
+     "credit": "Photo: Tbatb / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Taipei Nangang Exhibition Center Hall 1 and the MRT station plaza, Taipei, Taiwan, in 2019."
+    }
+   ]
   },
   {
    "slug": "twtc-exhibition-hall-1",
@@ -316424,6 +329977,635 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "speke-resort-convention-centre",
+   "name": "Speke Resort Convention Centre",
+   "type": "convention_centre",
+   "country": "Uganda",
+   "cc": "UG",
+   "city": "Munyonyo",
+   "address": "Speke Resort Munyonyo",
+   "lat": null,
+   "lon": null,
+   "url": "https://srcc-ug.com/",
+   "capacity": 3200,
+   "exhibition_sqm": null,
+   "halls": "Official 2026 capacity chart lists 37 indoor venues (rows 1–37) plus 9 outdoor venues (rows 38–46).",
+   "description": "National-scale convention centre at Speke Resort Munyonyo. Official contact pages give the address as Speke Resort Munyonyo and email [email removed]. The official indoor/outdoor capacity chart (retrieved 2026-11-24 from spekeresort.com) lists Rwenzori A+B at 3,200 m² with theatre 3,200 (stored as capacity_max_delegates). No official combined indoor exhibition total is published, so exhibition_sqm is null; outdoor areas (Lakeside 14,400 m² and others) are stored with outdoor notes and are not summed into exhibition_sqm. Official srcc-ug.com also lists Rwenzori A & B seating 3,200 / 3,200 m², consistent with the chart.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://srcc-ug.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.spekeresort.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://srcc-ug.com/wp-content/uploads/2025/05/SRCC%20BROCHURE%202025%20MAY.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://srcc-ug.com/contact-us-speke-resort-convention-center-uganda/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Rwenzori A+B",
+     "type": null,
+     "area_sqm": 3200,
+     "capacity_max": 3200,
+     "capacity_theatre": 3200,
+     "capacity_classroom": 2200,
+     "capacity_banquet": 2400,
+     "capacity_reception": 2400,
+     "notes": "Official chart, SRCC Ground Floor. Theatre 3,200, classroom 2,200, banquet/cocktail 2,400. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Rwenzori A",
+     "type": null,
+     "area_sqm": 1600,
+     "capacity_max": 1600,
+     "capacity_theatre": 1600,
+     "capacity_classroom": 1100,
+     "capacity_banquet": 1200,
+     "capacity_reception": 1200,
+     "notes": "Official chart, SRCC Ground Floor. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Rwenzori B",
+     "type": null,
+     "area_sqm": 1600,
+     "capacity_max": 1600,
+     "capacity_theatre": 1600,
+     "capacity_classroom": 1100,
+     "capacity_banquet": 1200,
+     "capacity_reception": 1200,
+     "notes": "Official chart, SRCC Ground Floor. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Gallery 1 (fixed seating)",
+     "type": null,
+     "area_sqm": 300,
+     "capacity_max": 300,
+     "capacity_theatre": 300,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: fixed seating, theatre 300; other layouts marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Gallery 2 (fixed seating)",
+     "type": null,
+     "area_sqm": 300,
+     "capacity_max": 300,
+     "capacity_theatre": 300,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: fixed seating, theatre 300; other layouts marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Speke Ballroom",
+     "type": null,
+     "area_sqm": 1140,
+     "capacity_max": 1400,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 700,
+     "capacity_banquet": 800,
+     "capacity_reception": 800,
+     "notes": "Official chart, East Wing 1st Floor. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Victoria Ballroom",
+     "type": null,
+     "area_sqm": 957,
+     "capacity_max": 900,
+     "capacity_theatre": 900,
+     "capacity_classroom": 500,
+     "capacity_banquet": 650,
+     "capacity_reception": 650,
+     "notes": "Official chart, West Wing Upper Ground Floor. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Royal Palm",
+     "type": null,
+     "area_sqm": 600,
+     "capacity_max": 600,
+     "capacity_theatre": 600,
+     "capacity_classroom": 350,
+     "capacity_banquet": 350,
+     "capacity_reception": 350,
+     "notes": "Official chart, East Wing First Floor. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Commonwealth Banquet hall",
+     "type": null,
+     "area_sqm": 332,
+     "capacity_max": 250,
+     "capacity_theatre": 250,
+     "capacity_classroom": 150,
+     "capacity_banquet": 200,
+     "capacity_reception": 200,
+     "notes": "Official chart, Commonwealth Block. Official chart has a combined BANQUET/COCKTAIL column; the same official figure is stored as capacity_banquet and capacity_reception.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Albert",
+     "type": null,
+     "area_sqm": 262,
+     "capacity_max": 250,
+     "capacity_theatre": 250,
+     "capacity_classroom": 175,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Sheena",
+     "type": null,
+     "area_sqm": 242,
+     "capacity_max": 175,
+     "capacity_theatre": 175,
+     "capacity_classroom": 150,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Meera",
+     "type": null,
+     "area_sqm": 242,
+     "capacity_max": 175,
+     "capacity_theatre": 175,
+     "capacity_classroom": 150,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor. Banquet/cocktail marked NA. The printed height 34.0 m is likely a typo next to Sheena's 3.4 m; height is not stored.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Acacia",
+     "type": null,
+     "area_sqm": 228,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 125,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, East Wing Mezzanine. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Ebony",
+     "type": null,
+     "area_sqm": 228,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 125,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, East Wing Mezzanine. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Jacaranda",
+     "type": null,
+     "area_sqm": 228,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 125,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, East Wing Mezzanine. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Mahogany",
+     "type": null,
+     "area_sqm": 228,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 70,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, East Wing Mezzanine. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Majestic",
+     "type": null,
+     "area_sqm": 226,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 70,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor. Banquet/cocktail marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Regal",
+     "type": null,
+     "area_sqm": 126,
+     "capacity_max": 95,
+     "capacity_theatre": 95,
+     "capacity_classroom": 70,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Royal",
+     "type": null,
+     "area_sqm": 126,
+     "capacity_max": 95,
+     "capacity_theatre": 95,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kabalega hall",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kidepo hall",
+     "type": null,
+     "area_sqm": 170,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Bunyonyi hall",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor. An official srcc-ug.com typo elsewhere ('Bunyonyi Hall Seating Capacity: 3,00 guests') is not used; this official chart figure is 120 theatre.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Bujagali hall",
+     "type": null,
+     "area_sqm": 170,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kibale hall",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Bwindi hall",
+     "type": null,
+     "area_sqm": 170,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Mburo hall",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Semuliki hall",
+     "type": null,
+     "area_sqm": 170,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 85,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Royal Club (Lounge Setup)",
+     "type": null,
+     "area_sqm": 107,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, Commonwealth Block, lounge setup. Layout capacities marked NA.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kalangala",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": 50,
+     "capacity_theatre": 50,
+     "capacity_classroom": 30,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, Commonwealth Block.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Emerald",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor. Theatre/classroom marked NA; boardroom 20.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Sapphire",
+     "type": null,
+     "area_sqm": 62,
+     "capacity_max": 35,
+     "capacity_theatre": 35,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Amethyst",
+     "type": null,
+     "area_sqm": 58,
+     "capacity_max": 35,
+     "capacity_theatre": 35,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, West Wing Lower Ground Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Sanga",
+     "type": null,
+     "area_sqm": 34,
+     "capacity_max": 24,
+     "capacity_theatre": 24,
+     "capacity_classroom": 12,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, Commonwealth Block.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Nalubaale Boardroom",
+     "type": null,
+     "area_sqm": 30,
+     "capacity_max": 20,
+     "capacity_theatre": 20,
+     "capacity_classroom": 12,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC First Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kabatoro Boardroom",
+     "type": null,
+     "area_sqm": 30,
+     "capacity_max": 20,
+     "capacity_theatre": 20,
+     "capacity_classroom": 12,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC First Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Katwe Boardroom",
+     "type": null,
+     "area_sqm": 30,
+     "capacity_max": 20,
+     "capacity_theatre": 20,
+     "capacity_classroom": 12,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC First Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Kyaninga Boardroom",
+     "type": null,
+     "area_sqm": 30,
+     "capacity_max": 20,
+     "capacity_theatre": 20,
+     "capacity_classroom": 12,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart, SRCC First Floor.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Lakeside",
+     "type": null,
+     "area_sqm": 14400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 14,400 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Lower Peacehub",
+     "type": null,
+     "area_sqm": 6480,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 6,480 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Flagmast",
+     "type": null,
+     "area_sqm": 5766,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 5,766 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Upper Peacehub Gardens",
+     "type": null,
+     "area_sqm": 5400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 5,400 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Mango Gardens",
+     "type": null,
+     "area_sqm": 2736,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 2,736 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Speke Ballroom Gardens",
+     "type": null,
+     "area_sqm": 2580,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 2,580 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Pool Pavilion",
+     "type": null,
+     "area_sqm": 2000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 2,000 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Speke Resort Poolside",
+     "type": null,
+     "area_sqm": 1500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 1,500 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    },
+    {
+     "name": "Marina Restaurant",
+     "type": null,
+     "area_sqm": 340,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor venue, 340 m². Official capacity chart lists this among the outdoor venues (rows 38–46). Area is not counted toward an indoor exhibition total.",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Speke Resort Convention Centre capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf",
+     "href": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf",
+     "local": false
+    },
+    {
+     "title": "SRCC brochure, May 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://srcc-ug.com/wp-content/uploads/2025/05/SRCC%20BROCHURE%202025%20MAY.pdf",
+     "href": "https://srcc-ug.com/wp-content/uploads/2025/05/SRCC%20BROCHURE%202025%20MAY.pdf",
+     "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SpekeResortCC",
+     "verified_via": "official property website",
+     "source_url": "https://srcc-ug.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/srcc_uganda",
+     "verified_via": "official property website",
+     "source_url": "https://srcc-ug.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "las-vegas-convention-center",
    "name": "Las Vegas Convention Center",
    "type": "convention_centre",
@@ -316560,7 +330742,7 @@ window.ATLASDATA={
    "exhibition_sqm": 190936,
    "halls": "Official facility-information page: 2,055,222 sq ft of exhibit space (West 1,104,940; North-South 950,282); 70 meeting rooms and 226 breakout rooms; Valencia Ballroom 62,182 sq ft; Linda W. Chapin Theater 2,643 seats",
    "description": "Orlando’s city-owned convention centre, on International Drive and Universal Boulevard. Official facts give 2,055,222 sq ft of exhibit space (converted to 190,937 m²) and 7 million sq ft in total. Headline capacity_max_delegates is the official Linda W. Chapin Theater seating figure (2,643); a single maximum for the exhibit halls is not published. Official FAQ addresses are West 9800 International Drive, North 9400 Universal Blvd and South 9899 International Drive. Coordinates are the atlas precise pin, which matches a Nominatim result for the West Building.",
-   "photo": null,
+   "photo": "img/venues/orange-county-convention-center-1.jpg",
    "linked_event_slugs": [
     "infocomm-2027",
     "fetc-2027"
@@ -316631,6 +330813,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/orange-county-convention-center-1.jpg",
+     "thumb": "img/venues/orange-county-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Orange_County_Convention_Center_West_Concourse_during_MegaCon_2026_-_3-19-2026.jpg",
+     "credit": "Photo: Nielsoncaetanosalmeron / Wikimedia Commons / CC BY 4.0",
+     "caption": "West Concourse exterior of the Orange County Convention Center, Orlando, United States, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -316677,7 +330869,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official floor-plans page: four buildings (West, South, North and Lakeside Center) offering 2.6 million square feet of exhibit space, 173 meeting rooms (600,000 sq ft), four ballrooms from 21,000 to 100,000 sq ft, assembly seating for 18,000, plus Wintrust Arena (10,000 seats) and Arie Crown Theater (4,192 seats)",
    "description": "North America’s largest convention centre campus, on Chicago’s Near South Side. Official pages state 2.6 million square feet of exhibit space, including 1.2 million square feet on a single level, but do not publish a more precise integer, so exhibition_sqm is left null rather than implying false precision. Headline capacity_max_delegates is the official assembly seating figure of 18,000 (Wintrust Arena is separately given as 10,000 seats and Arie Crown Theater as 4,192). Address follows the official event listing used in the atlas. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/mccormick-place-1.jpg",
    "linked_event_slugs": [
     "himss-2027",
     "fabtech-2027"
@@ -316731,7 +330923,25 @@ window.ATLASDATA={
      "source_url": "https://www.mccormickplace.com/floor-plans/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/mccormick-place-1.jpg",
+     "thumb": "img/venues/mccormick-place-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:McCormick_Place_exterior.jpg",
+     "credit": "Photo: Patrick Bray / U.S. Army Corps of Engineers / Wikimedia Commons / Public domain",
+     "caption": "Exterior of McCormick Place, Chicago, United States, in 2020."
+    },
+    {
+     "src": "img/venues/mccormick-place-2.jpg",
+     "thumb": "img/venues/mccormick-place-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:McCormick_Place_North_and_South_Buildings,_Martin_Luther_King_Drive,_Near_South_Side,_Chicago,_IL;_November_2023_(;_November_2023_(54202822312).jpg",
+     "credit": "Photo: Warren LeMay / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "McCormick Place North and South Buildings from Martin Luther King Drive, Chicago, United States, in 2023."
+    }
+   ]
   },
   {
    "slug": "jacob-k-javits-convention-center",
@@ -316748,7 +330958,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official about page: 3.4 million total square feet across two buildings; 500,000+ square feet of contiguous exhibit space and 122 flexible meeting rooms",
    "description": "New York’s principal convention centre on Manhattan’s West Side, operated by the New York Convention Center Operating Corporation. The official about page gives 3.4 million total square feet for the campus and more than 500,000 square feet of contiguous exhibit space, but not a precise all-halls exhibit total, so exhibition_sqm is left null. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/jacob-k-javits-convention-center-1.jpg",
    "linked_event_slugs": [
     "nrf-2027",
     "ai-summit-new-york-2026",
@@ -316766,7 +330976,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/jacob-k-javits-convention-center-1.jpg",
+     "thumb": "img/venues/jacob-k-javits-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Javits_Center_2026.jpg",
+     "credit": "Photo: Kidfly182 / Wikimedia Commons / CC BY 4.0",
+     "caption": "Glass facade of the Jacob K. Javits Convention Center, New York City, United States, in 2026."
+    }
+   ]
   },
   {
    "slug": "moscone-center",
@@ -316898,7 +331118,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official GWCCA venues page: more than 4 million square feet of flexible meeting and event space, including 1.5 million square feet of contiguous exhibit space; 13 exhibit halls, 98 meeting rooms, two grand ballrooms and three fixed-seat auditoriums",
    "description": "Atlanta’s principal convention centre, operated by the Georgia World Congress Center Authority. Official text gives 1.5 million square feet of contiguous exhibit space and more than 4 million square feet of flexible meeting and event space, without a more precise exhibit integer, so exhibition_sqm is left null. The October 2025 official floor-plan booklet is stored. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/georgia-world-congress-center-1.jpg",
    "linked_event_slugs": [
     "dtech-2027"
    ],
@@ -316926,6 +331146,24 @@ window.ATLASDATA={
      "source_url": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
      "href": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/georgia-world-congress-center-1.jpg",
+     "thumb": "img/venues/georgia-world-congress-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlanta_August_2016_23_(Georgia_World_Congress_Center).jpg",
+     "credit": "Photo: Michael Barera / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named entrance of the Georgia World Congress Center, Atlanta, United States, in 2016."
+    },
+    {
+     "src": "img/venues/georgia-world-congress-center-2.jpg",
+     "thumb": "img/venues/georgia-world-congress-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlanta_August_2016_28_(Georgia_World_Congress_Center).jpg",
+     "credit": "Photo: Michael Barera / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main facade of the Georgia World Congress Center, Atlanta, United States, in 2016."
     }
    ],
    "socials": [
@@ -317010,7 +331248,7 @@ window.ATLASDATA={
    "exhibition_sqm": 48839,
    "halls": "Official exhibit-hall page: 525,701 sq ft of contiguous ground-level exhibit space, divisible into halls A–H (up to seven sections), with eight loading-dock access points",
    "description": "San Diego’s waterfront convention centre. Official measurements give 525,701 sq ft of contiguous exhibit space (converted to 48,839 m²) for Halls A–H combined. The official seating table gives Halls A–C 20,000 theatre and Halls F–G 12,000 theatre; combined A–H theatre is listed as ‘varies’. Headline capacity_max_delegates is the largest published theatre figure (20,000 for A–C). Atlas events listed only as ‘San Diego (venue to be announced)’ are not linked. Coordinates are a Nominatim result for the named convention centre at the official address.",
-   "photo": null,
+   "photo": "img/venues/san-diego-convention-center-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -317089,6 +331327,24 @@ window.ATLASDATA={
      "source_url": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
      "href": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/san-diego-convention-center-1.jpg",
+     "thumb": "img/venues/san-diego-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:San_Diego_Convention_Center_Aerial_View.jpg",
+     "credit": "Photo: Redideo / Wikimedia Commons / CC BY 4.0",
+     "caption": "Aerial view of the San Diego Convention Center along the waterfront, San Diego, United States, in 2025."
+    },
+    {
+     "src": "img/venues/san-diego-convention-center-2.jpg",
+     "thumb": "img/venues/san-diego-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Downtown_San_Diego_021.jpg",
+     "credit": "Photo: Sebastian Wallroth / Wikimedia Commons / CC BY 4.0",
+     "caption": "The distinctive sail-like facade of the San Diego Convention Center, San Diego, United States, in 2019."
     }
    ],
    "socials": [
@@ -317531,7 +331787,44 @@ window.ATLASDATA={
      "source_url": "https://www.rwlasvegas.com/meeting-events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/ResortsWorldLV",
+     "verified_via": "official property website",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ResortsWorldLV",
+     "verified_via": "official property website",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/resortsworldlv",
+     "verified_via": "official property website",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/resortsworldlv",
+     "verified_via": "official property website",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@resortsworldlv",
+     "verified_via": "official property website",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "miami-beach-convention-center",
@@ -317548,7 +331841,7 @@ window.ATLASDATA={
    "exhibition_sqm": 45676,
    "halls": "Official quick-facts page: 4 exhibition halls totalling 491,654 sq ft (45,676 m²) of configurable and contiguous space; one grand ballroom 60,979 sq ft (5,665 m²); up to 84 meeting rooms",
    "description": "Rebuilt Miami Beach convention centre (renovation completed 2020). Official quick facts publish both imperial and metric figures: 45,676 m² of contiguous exhibit space in four halls, which is stored as exhibition_sqm, plus a 5,665 m² grand ballroom and up to 84 meeting rooms. A single official maximum delegate figure for the exhibit halls was not taken from that page. Coordinates are the atlas precise pin, which matches a Nominatim result for the named centre.",
-   "photo": null,
+   "photo": "img/venues/miami-beach-convention-center-1.jpg",
    "linked_event_slugs": [
     "consensus-2027",
     "fintech-americas-miami-2027",
@@ -317603,7 +331896,25 @@ window.ATLASDATA={
      "source_url": "https://www.miamibeachconvention.com/center-info/quick-facts"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/miami-beach-convention-center-1.jpg",
+     "thumb": "img/venues/miami-beach-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_Convention_Center_main_entrance.jpg",
+     "credit": "Photo: Alexf / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Named main entrance of the Miami Beach Convention Center, Miami Beach, United States, in 2019."
+    },
+    {
+     "src": "img/venues/miami-beach-convention-center-2.jpg",
+     "thumb": "img/venues/miami-beach-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_Convention_Center_back_entrance.jpg",
+     "credit": "Photo: Alexf / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Facade of the Miami Beach Convention Center, Miami Beach, United States, in 2019."
+    }
+   ]
   },
   {
    "slug": "los-angeles-convention-center",
@@ -317620,7 +331931,7 @@ window.ATLASDATA={
    "exhibition_sqm": 66890,
    "halls": "Official venue-maps page: a combined total of 720,000 square feet of exhibit space, 64 meeting rooms, and four outdoor plazas, in the West and South buildings plus Kentia Hall. Official exhibit-halls page: South Hall nearly 350,000 sq ft (official 2024 floor-plans PDF: South Hall GHJK combined 346,890 sq ft), 1,720 10x10 booths, theatre 22,870, banquet 12,800; West Hall 210,685 sq ft, 1,050 booths, theatre 15,000, banquet 10,000; Kentia Hall 160,000 sq ft on the webpage / 162,000 sq ft on the official PDF, 844 10x10 booths plus 64 additional, banquet 5,000; Concourse Hall and Petree Hall 26,342 sq ft each.",
    "description": "Los Angeles's downtown convention centre at 1201 South Figueroa Street. Official laconventioncenter.com venue-maps page: 720,000 square feet of exhibit space (used for exhibition_sqm), 64 meeting rooms and four outdoor plazas. Official exhibit-halls page and 2024 floor-plans PDF: the largest published hall theatre capacity is 22,870 in South Hall (346,890 sq ft combined GHJK on the official PDF, described on the website as nearly 350,000 sq ft). West Hall is 210,685 sq ft / 15,000 theatre. The official Kentia Hall area is 160,000 sq ft on the current exhibit-halls page and 162,000 sq ft on the official PDF. Existing atlas event: OFC 2027.",
-   "photo": null,
+   "photo": "img/venues/los-angeles-convention-center-1.jpg",
    "linked_event_slugs": [
     "ofc-2027"
    ],
@@ -317731,6 +332042,16 @@ window.ATLASDATA={
      "local": false
     }
    ],
+   "photos": [
+    {
+     "src": "img/venues/los-angeles-convention-center-1.jpg",
+     "thumb": "img/venues/los-angeles-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Los_Angeles_-_Convention_Center_002.jpg",
+     "credit": "Photo: Américo Toledano / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The glass-coned South Hall of the Los Angeles Convention Center, Los Angeles, United States, in 2020."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -317791,7 +332112,7 @@ window.ATLASDATA={
    "exhibition_sqm": 75587,
    "halls": "Official Visit Anaheim exhibit-hall capacities page (official convention bureau for the Anaheim Convention Center): exhibit halls A-E total 813,607 square feet. Hall D is the largest hall at 221,284 sq ft / 15,000 theatre / 13,800 banquet. The Arena is listed separately at 28,140 sq ft (flat floor) with 7,500 stadium-style seating. An official ACC Spec Guide 2025 PDF is freely linked from that Visit Anaheim page but is about 39 MB, so only the URL is recorded.",
    "description": "Anaheim Convention Center at 800 W Katella Avenue, adjacent to the Disneyland Resort area. Official Visit Anaheim exhibit-hall capacities page: halls A-E total 813,607 square feet of exhibit space (used for exhibition_sqm). The largest published exhibit-hall theatre capacity is 15,000 in Hall D (221,284 sq ft). The Arena is a separate 28,140 sq ft space with 7,500 stadium-style seats and is not included in the 813,607 exhibit-hall total. Existing atlas event: NAMM Show 2027. The official venue website is anaheimconventioncenter.com; figures in this update come from the official Visit Anaheim capacity tables after the venue site was previously unreadable.",
-   "photo": null,
+   "photo": "img/venues/anaheim-convention-center-1.jpg",
    "linked_event_slugs": [
     "namm-show-2027"
    ],
@@ -317905,6 +332226,24 @@ window.ATLASDATA={
      "href": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/anaheimca/ACC_Spec_Guide_2025_v8_print_1__b2a9af9b-2d38-484b-ad19-113afdd8fb03.pdf",
      "local": false
     }
+   ],
+   "photos": [
+    {
+     "src": "img/venues/anaheim-convention-center-1.jpg",
+     "thumb": "img/venues/anaheim-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Anaheim_convention_center_2021.jpg",
+     "credit": "Photo: Troutfarm27 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Glass entrance of the Anaheim Convention Center, Anaheim, United States, in 2021."
+    },
+    {
+     "src": "img/venues/anaheim-convention-center-2.jpg",
+     "thumb": "img/venues/anaheim-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Anaheim_Convention_Center_for_2022_OWL_Grand_Finals_-_1.jpg",
+     "credit": "Photo: Dallas Fuel / Wikimedia Commons / CC BY 3.0",
+     "caption": "Plaza and arena facade of the Anaheim Convention Center, Anaheim, United States, in 2023."
+    }
    ]
   },
   {
@@ -317922,7 +332261,7 @@ window.ATLASDATA={
    "exhibition_sqm": 47938,
    "halls": "Official Signature Boston page: 516,000 square feet of contiguous, nearly column-free exhibit space, 82 meeting rooms, and a grand ballroom of 40,020 square feet, within 2.1 million square feet of space",
    "description": "Boston’s Seaport convention centre, operated as part of the Massachusetts Convention Center Authority / Signature Boston campus (the official site also refers to it as MCEC). Official figures give 516,000 sq ft of contiguous exhibit space (converted to 47,938 m²) and an 82-room meeting programme. The 2.1 million square feet figure is a building total, not stored as exhibition_sqm. Coordinates are the atlas precise pin, which matches a Nominatim result for the named exhibition centre at 415 Summer Street.",
-   "photo": null,
+   "photo": "img/venues/boston-convention-exhibition-center-1.jpg",
    "linked_event_slugs": [
     "atd-2027"
    ],
@@ -317960,6 +332299,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/boston-convention-exhibition-center-1.jpg",
+     "thumb": "img/venues/boston-convention-exhibition-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Omni_Hotel_and_BCEC_looking_down_Summer_Street_May_2026.jpg",
+     "credit": "Photo: 4300streetcar / Wikimedia Commons / CC BY 4.0",
+     "caption": "The Boston Convention and Exhibition Center seen along Summer Street, Boston, United States, in 2026."
+    },
+    {
+     "src": "img/venues/boston-convention-exhibition-center-2.jpg",
+     "thumb": "img/venues/boston-convention-exhibition-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Boston_Convention_Center_entrance.agr.jpg",
+     "credit": "Photo: Arnold Reinhold / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Entrance of the Boston Convention and Exhibition Center, Boston, United States, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -318085,7 +332442,7 @@ window.ATLASDATA={
    "exhibition_sqm": 54302,
    "halls": "Official facility guide (June 2026 footer): 584,500 sq ft of exhibition space, 99 meeting rooms, three carpeted ballrooms, an 80,000 sq ft outdoor Canyon on Third, and a 200-seat lecture hall",
    "description": "Downtown Phoenix convention centre, with North, South and West buildings. The official facility guide gives 584,500 sq ft of exhibition space (converted to 54,302 m²) and nearly one million square feet of rentable meeting and exhibition space on a campus of more than two million square feet. Coordinates are the atlas precise pin, which matches a Nominatim result for the named centre.",
-   "photo": null,
+   "photo": "img/venues/phoenix-convention-center-1.jpg",
    "linked_event_slugs": [
     "semicon-west-2027"
    ],
@@ -318148,6 +332505,24 @@ window.ATLASDATA={
      "local": false
     }
    ],
+   "photos": [
+    {
+     "src": "img/venues/phoenix-convention-center-1.jpg",
+     "thumb": "img/venues/phoenix-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2021_Phoenix_Convention_Center,_West_Building_1.jpg",
+     "credit": "Photo: Beyond My Ken / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "West Building of the Phoenix Convention Center, Phoenix, United States, in 2021."
+    },
+    {
+     "src": "img/venues/phoenix-convention-center-2.jpg",
+     "thumb": "img/venues/phoenix-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2021_Phoenix_Convention_Center,_North_Building.jpg",
+     "credit": "Photo: Beyond My Ken / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "North Building of the Phoenix Convention Center, Phoenix, United States, in 2021."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -318201,7 +332576,7 @@ window.ATLASDATA={
    "exhibition_sqm": 65311,
    "halls": "Official Events DC fact sheet: 2.3 million-square-foot facility with 703,000 square feet of exhibit space and 52,000 square feet of ballroom space, for events of 500 to 42,000 attendees",
    "description": "Washington, D.C.’s principal convention centre, operated by Events DC. Official facts give 703,000 sq ft of exhibit space (converted to 65,311 m²). Headline capacity_max_delegates is the official upper figure of 42,000 attendees. Events DC lists the current address as 801 Allen Y. Lew Place NW, with a former address of 801 Mount Vernon Place NW. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "img/venues/walter-e-washington-convention-center-1.jpg",
    "linked_event_slugs": [
     "afp-2027"
    ],
@@ -318243,6 +332618,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "img/venues/walter-e-washington-convention-center-1.jpg",
+     "thumb": "img/venues/walter-e-washington-convention-center-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Walter_E._Washington_Convention_Center_(53844903069).jpg",
+     "credit": "Photo: ajay_suresh / Wikimedia Commons / CC BY 2.0",
+     "caption": "Exterior of the Walter E. Washington Convention Center, Washington, D.C., United States, in 2024."
+    },
+    {
+     "src": "img/venues/walter-e-washington-convention-center-2.jpg",
+     "thumb": "img/venues/walter-e-washington-convention-center-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Walter_Washington_Convention_Center_2025b.jpg",
+     "credit": "Photo: Antony-22 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Main atrium of the Walter E. Washington Convention Center, Washington, D.C., United States, in 2025."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -318526,7 +332919,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/FSJacksonHole",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/jacksonhole/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FourSeasonsResortJacksonHole",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/jacksonhole/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fsjacksonhole",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fourseasons.com/jacksonhole/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "caesars-forum",
@@ -318829,6 +333245,22 @@ window.ATLASDATA={
      "source_url": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
      "href": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/HiltonChicagohotel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hiltonchicagomeetings.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/HiltonChicago",
+     "verified_via": "official website footer",
+     "source_url": "https://www.hiltonchicagomeetings.com/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -325296,7 +339728,30 @@ window.ATLASDATA={
      "local": false
     }
    ],
-   "hotel_name": "Wynn Las Vegas"
+   "hotel_name": "Wynn Las Vegas",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "encore-las-vegas",
@@ -326025,6 +340480,29 @@ window.ATLASDATA={
      "href": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wynnlasvegas",
+     "verified_via": "official property website",
+     "source_url": "https://www.wynnlasvegas.com/meetings",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -326419,7 +340897,51 @@ window.ATLASDATA={
      "source_url": "https://www.thereveriesaigon.com/meetings/la-scala-ballroom/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheReverieSaigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thereveriesaigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@thereveriesaigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-reverie-saigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thereveriesaigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/reveriesaigon",
+     "verified_via": "official property website",
+     "source_url": "https://www.thereveriesaigon.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sandton-convention-centre",
@@ -327105,7 +341627,44 @@ window.ATLASDATA={
      "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/marriottbonvoy",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/marriottbonvoy",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/marriottbonvoy",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/marriott-international",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/marriott",
+     "verified_via": "official property page (brand/chain accounts linked from the property page)",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "durban-icc",
@@ -327301,6 +341860,104 @@ window.ATLASDATA={
      "accessed_at": "2026-11-24"
     }
    ]
+  },
+  {
+   "slug": "mulungushi-international-conference-centre",
+   "name": "Mulungushi International Conference Centre",
+   "type": "convention_centre",
+   "country": "Zambia",
+   "cc": "ZM",
+   "city": "Lusaka",
+   "address": "Plot# 8025, Great East Road, Lusaka",
+   "lat": null,
+   "lon": null,
+   "url": "https://micc.co.zm/",
+   "capacity": 6680,
+   "exhibition_sqm": null,
+   "halls": "Official about page describes two main buildings and names a Main Auditorium, Main Hall and Banquet Hall, among other spaces.",
+   "description": "Zambia's national conference centre in Lusaka, officially owned by the Industrial Development Corporation (IDC) of Zambia. Official address Plot# 8025, Great East Road, Lusaka; [email removed]. The official about page states that the two main buildings provide a total of 4,478 sq. metres of designated conference space, with a maximum capacity of 6,680 delegates; the same page sidebar also says '5,200 Square Metres; 6,680 Delegate Capacity'. The 6,680 figure agrees and is stored as capacity_max_delegates. The 4,478 vs 5,200 m² figures conflict, so exhibition_sqm is left null and both official area figures are noted here. Official hall wording: Main Auditorium seating for up to 2,500; Main Hall accommodating up to 1,800; Banquet Hall capacity of 1,000 guests.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://micc.co.zm/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://micc.co.zm/about-micc/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Main Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page / about materials: seating for up to 2,500. Stored as capacity_max because the official wording is 'up to' and is not labelled as a theatre layout on the retrieved pages.",
+     "source_url": "https://micc.co.zm/about-micc/"
+    },
+    {
+     "name": "Main Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: accommodating up to 1,800.",
+     "source_url": "https://micc.co.zm/about-micc/"
+    },
+    {
+     "name": "Banquet Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 1000,
+     "capacity_reception": null,
+     "notes": "Official hall page: capacity of 1,000 guests.",
+     "source_url": "https://micc.co.zm/about-micc/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/miccltd",
+     "verified_via": "official website footer",
+     "source_url": "https://micc.co.zm/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/miccltd",
+     "verified_via": "official website footer",
+     "source_url": "https://micc.co.zm/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/miccltd",
+     "verified_via": "official website footer",
+     "source_url": "https://micc.co.zm/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/miccltd",
+     "verified_via": "official website footer",
+     "source_url": "https://micc.co.zm/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   }
  ],
  "sourceMissing": [],
@@ -327324,7 +341981,7 @@ window.ATLASDATA={
   },
   "expo": 187,
   "hotels": 594,
-  "venues": 554,
+  "venues": 570,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,
