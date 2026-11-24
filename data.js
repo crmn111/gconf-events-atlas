@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T02:12:21Z",
+ "generated": "2026-11-24T02:15:07Z",
  "scope": "Conferences and festivals in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -29758,15 +29758,7 @@ window.ATLASDATA={
     "fintech",
     "climate tech"
    ],
-   "photos": [
-    {
-     "src": "img/events/africa-tech-summit-nairobi-2027-1.jpg",
-     "thumb": "img/events/africa-tech-summit-nairobi-2027-1-t.jpg",
-     "orig": "https://www.africatechsummit.com/wp-content/uploads/2025/11/subscribe_CTA_Image.webp",
-     "page": "https://www.africatechsummit.com/nairobi/",
-     "credit": ""
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
