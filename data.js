@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T08:46:42Z",
+ "generated": "2026-11-24T08:58:28Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -13517,7 +13517,7 @@ window.ATLASDATA={
    "city": "Atlanta",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Georgia World Congress Center, 285 Andrew Young International Blvd NW, Atlanta, GA 30313",
    "industry": "Artificial intelligence research",
    "format": "In-person",
    "organizer": "NeurIPS Foundation",
@@ -13533,7 +13533,7 @@ window.ATLASDATA={
    "year": 2026,
    "source_url": "https://neurips.cc/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "NeurIPS 2026 is multi-site: Sydney is the main site (6-12 Dec); Atlanta and Paris are satellite sites (9-13 Dec). Only the Atlanta site is listed here. US dates are local to the host city.",
+   "notes": "NeurIPS 2026 is multi-site: Sydney is the main site (6-12 Dec); Atlanta and Paris are satellite sites (9-13 Dec). Only the Atlanta site is listed here. US dates are local to the host city. Official NeurIPS 2026 Atlanta at the Conference page (and the official 2026 Venue Information page) names the Georgia World Congress Center, 285 Andrew Young International Blvd NW, Atlanta, GA 30313 (Exhibition Hall C2).",
    "lat": 33.7544657,
    "lng": -84.3898151,
    "precise": false,
@@ -13549,6 +13549,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://neurips.cc/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://neurips.cc/Conferences/2026/Atlanta-AtTheConference",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -13563,8 +13568,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Atlanta, Fulton County, Georgia, United States (query: Atlanta, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official NeurIPS 2026 homepage (\"Atlanta (Satellite) Dec 9 - 13\"), fetched 23 Nov 2026. The Atlanta venue was not named on the fetched page.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official NeurIPS 2026 homepage (\"Atlanta (Satellite) Dec 9 - 13\"), fetched 23 Nov 2026. The Atlanta venue was not named on the fetched page. Venue from official page (https://neurips.cc/Conferences/2026/Atlanta-AtTheConference), fetched 24 Nov 2026.",
    "id": "neurips-2026-atlanta",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -24419,6 +24424,82 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates from the official PIFF entry form on piffindia.com ('25th Pune International Film Festival 14th - 21st January, 2027'), read 24 Nov 2026; multi-venue, so the pin is city-level.",
    "id": "pune-international-film-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-agriteq-2027",
+   "slug": "agriteq-2027",
+   "name": "AgriteQ 2027",
+   "website_url": "https://www.agriteq.com/home",
+   "start_date": "2027-01-14",
+   "end_date": "2027-01-18",
+   "city": "Doha",
+   "country": "Qatar",
+   "region": "middle_east",
+   "venue": "Katara Cultural Village, Doha",
+   "industry": "International agricultural exhibition",
+   "format": "In-person",
+   "organizer": "Ministry of Municipality (Qatar)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://portal.agriteq.com/register/exhibitor",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official AgriteQ exhibitor portal: 14–18 January 2027 at Katara Cultural Village (14th edition). Official English visit/FAQ pages describe the 14th edition but did not repeat the dates in the text fetched; dates and venue are taken from the official exhibitor-registration portal. Opening hours and a labelled previous-edition visitor figure were not listed in the pages fetched. The official home page names the Ministry of Municipality as organiser, in partnership with public and private bodies. Visit Qatar FAQ text that dates and venue 'will be announced' was not used, because it contradicted the official AgriteQ portal. Family and trade audiences are both described; the record is not marked trade-only.",
+   "lat": 25.3609134,
+   "lng": 51.5247409,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "food security",
+    "livestock",
+    "fisheries",
+    "food industry"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://portal.agriteq.com/register/exhibitor",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.agriteq.com/home",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.agriteq.com/visit",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Katara Cultural Village, Katara, Doha, Qatar (query: Katara Cultural Village, Doha). Venue-level pin. A nearby Katara Beach pin already used in the Atlas for katara-traditional-dhow-festival-2026 was not reused.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official AgriteQ exhibitor portal (fetched 24 Nov 2026): 14–18 January 2027, Katara Cultural Village. Official English home and visit pages confirm the 14th edition in 2027, organised by the Ministry of Municipality. A 2026 (13th edition) recap section on the home page did not yield a labelled visitor total in the text extract.",
+   "id": "agriteq-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -36393,7 +36474,7 @@ window.ATLASDATA={
    "city": "San Antonio",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Henry B. González Convention Center, 900 E Market St, San Antonio, TX 78205",
    "industry": "Education / EdTech",
    "format": "In-person",
    "organizer": "TCEA",
@@ -36409,7 +36490,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://convention.tcea.org/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official 2027 Location & Hotels page names the Henry B. González Convention Center, 900 E Market St, San Antonio, TX 78205.",
    "lat": 29.4246002,
    "lng": -98.4951405,
    "precise": false,
@@ -36425,6 +36506,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://convention.tcea.org/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://convention.tcea.org/attend/location/",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -36439,8 +36525,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: San Antonio, Bexar County, Texas, United States (query: San Antonio, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://convention.tcea.org/), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://convention.tcea.org/), fetched 23 Nov 2026. Venue from official page (https://convention.tcea.org/attend/location/), fetched 24 Nov 2026.",
    "id": "tcea-convention-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -52031,10 +52117,10 @@ window.ATLASDATA={
    "website_url": "https://emergeamericas.com/",
    "start_date": "2027-03-02",
    "end_date": "2027-03-04",
-   "city": "Miami",
+   "city": "Miami Beach",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Miami Beach Convention Center, 1901 Convention Center Drive, Miami Beach, FL",
    "industry": "Technology",
    "format": "In-person",
    "organizer": "eMerge Americas",
@@ -52050,7 +52136,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://emergeamericas.com/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official eMerge Americas 2027 Venue + Travel page names the event location as Miami Beach Convention Center, 1901 Convention Center Drive, Miami Beach, FL.",
    "lat": 25.7741566,
    "lng": -80.1935973,
    "precise": false,
@@ -52067,6 +52153,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://emergeamericas.com/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://emergeamericas.com/conference-expo/travel-to-miami/",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -52081,8 +52172,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Miami, Miami-Dade County, Florida, United States (query: Miami, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://emergeamericas.com/), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://emergeamericas.com/), fetched 23 Nov 2026. Venue from official page (https://emergeamericas.com/conference-expo/travel-to-miami/), fetched 24 Nov 2026.",
    "id": "emerge-americas-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -57522,6 +57613,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official siff.bg/en homepage fetched 24 Nov 2026 announces the 31st Sofia International Film Festival ‘from 11 to 21 March 2027 in Sofia, with additional screenings scheduled through the end of March in Sofia, Plovdiv, Burgas, and Varna.’ Dates follow the official main-programme window (11–21 March), not the extended additional screenings.",
    "id": "sofia-international-film-festival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-worldbex-2027",
+   "slug": "worldbex-2027",
+   "name": "WORLDBEX 2027",
+   "website_url": "https://worldbex.com/",
+   "start_date": "2027-03-11",
+   "end_date": "2027-03-14",
+   "city": "Pasay",
+   "country": "Philippines",
+   "region": "asia",
+   "venue": "World Trade Center Metro Manila and SMX Convention Center Manila, Pasay",
+   "industry": "Philippine world building and construction exposition",
+   "format": "In-person",
+   "organizer": "WORLDBEX Services International",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://worldbex.com/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official homepage hero: 11–14 March 2027, 10:00–19:00, at World Trade Center Metro Manila and SMX Convention Center Manila (one official event at two Pasay venues, kept as one record). A long list of leftover 2026 and 2024 edition dates further down the homepage was not used. Ticket prices and a labelled previous-edition attendance figure were not listed in this fetch. Organiser WORLDBEX Services International, Suite 1203 BTTC Centre, 288 Ortigas Ave. cor. Roosevelt St., Greenhills, San Juan, inquire@worldbexevents.com, +632 8656 9239.",
+   "lat": 14.550318,
+   "lng": 120.987602,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "building",
+    "architecture",
+    "interior design"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://worldbex.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: World Trade Center Metro Manila, Senator Gil Puyat Avenue Extension, Barangay 76, Zone 10, District 1, Pasay, Metro Manila, 1307, Philippines (query: World Trade Center Metro Manila, Pasay). Venue-level exhibition-centre pin for the first official venue. Official 2027 listing also names SMX Convention Center Manila (OSM: SMX Convention Center, Seashell Lane, SM Mall of Asia Complex, Pasay, 14.5320342, 120.9815806); one umbrella record, primary pin at WTCMM.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official WORLDBEX homepage (fetched 24 Nov 2026): March 11–14, 2027, 10:00 AM–7:00 PM, World Trade Center Metro Manila and SMX Convention Center Manila.",
+   "id": "worldbex-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -71221,7 +71377,7 @@ window.ATLASDATA={
    "city": "San Francisco",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "The Moscone Center and YBCA Blue Shield Theater of California, 747 Howard Street, San Francisco, CA 94103",
    "industry": "Cybersecurity",
    "format": "In-person",
    "organizer": "RSAC",
@@ -71237,7 +71393,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.rsaconference.com/usa",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "Official page shows \"April 5 - 8, 2027 San Francisco\"; the venue name was not in the fetched text. US dates are local to the host city.",
+   "notes": "Official page shows \"April 5 - 8, 2027 San Francisco\"; the venue name was not in the fetched text. US dates are local to the host city. Official RSAC 2027 Campus & Travel page names The Moscone Center, 747 Howard Street, San Francisco, CA 94103, and names the Moscone Center and YBCA Blue Shield Theater of California as the event venues.",
    "lat": 37.7879363,
    "lng": -122.4075201,
    "precise": false,
@@ -71261,6 +71417,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.rsaconference.com/usa",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.rsaconference.com/usa/campus-and-travel",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -71275,8 +71436,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: San Francisco, California, United States (query: San Francisco, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://www.rsaconference.com/usa), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://www.rsaconference.com/usa), fetched 23 Nov 2026. Venue from official page (https://www.rsaconference.com/usa/campus-and-travel), fetched 24 Nov 2026.",
    "id": "rsac-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -85576,6 +85737,80 @@ window.ATLASDATA={
    "photoCredit": "Bruno Bentivoglio (Little Sunshine), Wikimedia Commons, CC BY-SA 4.0"
   },
   {
+   "event_id": "GCE-baytek-kuwait-building-2027",
+   "slug": "baytek-kuwait-building-2027",
+   "name": "Baytek – Kuwait Building 2027",
+   "website_url": "https://www.kif.net/assets/pdfs/events-schedule-en.pdf",
+   "start_date": "2027-04-26",
+   "end_date": "2027-05-01",
+   "city": "Kuwait City",
+   "country": "Kuwait",
+   "region": "middle_east",
+   "venue": "Kuwait International Fair, Mishref",
+   "industry": "Building and construction exhibition",
+   "format": "In-person",
+   "organizer": "Kuwait International Fair (KIF)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.kif.net/assets/pdfs/events-schedule-en.pdf",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official KIF English events schedule PDF: 26 April–1 May 2027, halls 5–6, Kuwait International Fair. Opening hours and ticket prices were not listed on the official calendar. The official KIF event-detail page for Baytek still showed leftover 5 October 2026 copy in this fetch and was not used for 2027 dates. Other official 2027 KIF listings (Horeca, Autoland, consumer bazaars) were looked at and not padded in.",
+   "lat": 29.2668159,
+   "lng": 48.0498524,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "building materials",
+    "architecture"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.kif.net/assets/pdfs/events-schedule-en.pdf",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.kif.net/events.html",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.kif.net/event-detail-pages/baytek_kif.html",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: أرض المعارض, Jassim Mohammed Al Kharafi Road, Block 6, Mubarak Al-Abdullah, Hawalli Governorate, 00965, Kuwait (query: أرض المعارض مشرف). Venue-level pin on the OSM object named 'exhibition grounds', in the Mishref / Mubarak Al-Abdullah area. English-language queries for 'Kuwait International Fair' returned no OSM object.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official KIF English events-schedule PDF (fetched 24 Nov 2026): Baytek – Kuwait Building (KIF), halls 5–6, 26/04/2027–01/05/2027. Official event-detail page https://www.kif.net/event-detail-pages/baytek_kif.html still listed 2026-10-5. Organiser Kuwait Intl Fair, hotline 1887711, info@kif.net; event manager Manar Al-Ajeel, m.alajeel@kif.net.",
+   "id": "baytek-kuwait-building-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-changenow-2027",
    "slug": "changenow-2027",
    "name": "ChangeNOW 2027",
@@ -85905,6 +86140,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates (26-29 Apr 2027, Tamarindo) from the official site, fetched 24 Nov 2026. The resort is not named, so city-level pin.",
    "id": "kicking-saas-summit-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-oman-petroleum-and-energy-show-2027",
+   "slug": "oman-petroleum-and-energy-show-2027",
+   "name": "Oman Petroleum & Energy Show 2027",
+   "website_url": "https://omanpetroleumandenergyshow.com/",
+   "start_date": "2027-04-26",
+   "end_date": "2027-04-28",
+   "city": "Muscat",
+   "country": "Oman",
+   "region": "middle_east",
+   "venue": "Oman Convention & Exhibition Centre (OCEC), Madinat Al Irfan, Muscat",
+   "industry": "International oil, gas and energy exhibition",
+   "format": "In-person",
+   "organizer": "OPES (contact: Connect)",
+   "expected_attendance": 41691,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://omanpetroleumandenergyshow.com/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 26–28 April 2027 at the Oman Convention & Exhibition Centre, Muscat. Official OCEC venue listing: 09:00–18:00, exhibition halls 2 and 5. Officially co-located with Oman Sustainability Week, folded into this record. Official OPES 2026 in numbers: 41,691 visits (stored as visits, not unique visitors), 207 exhibitors, 18 countries. Held under the patronage of the Ministry of Energy and Minerals. A longer legal organiser name beyond the official contact OPES@connectthroughus.com / Connect was not clearly labelled. COMEX 2027 (1–4 February, same venue) is already in the Atlas and was not re-added. Hours on the official COMEX show site (10:00–21:00) differ from the official OCEC COMEX listing (10:00–19:00); that existing record was not edited here.",
+   "lat": 23.6123628,
+   "lng": 58.5938134,
+   "precise": false,
+   "category": "expo",
+   "topics": [
+    "oil",
+    "gas",
+    "energy",
+    "sustainability"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://omanpetroleumandenergyshow.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://ocec.om/event/oman-petroleum-energy-show-2/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official OPES 2026 in numbers: 41,691 visits (and 207 exhibitors from 18 countries). Stored as visits, not as unique visitors.",
+   "attendance_source_url": "https://omanpetroleumandenergyshow.com/",
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for OCEC (comex-2027). That existing pin is a city-level Muscat pin; a dedicated OCEC OSM object was not found in this pass (queries: Oman Convention and Exhibition Centre; OCEC Madinat Al Irfan).",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official OPES homepage and official OCEC event page (fetched 24 Nov 2026): 26–28 April 2027, OCEC, halls 2 and 5, 9:00 am–6:00 pm. Official homepage 'OPES 2026 IN NUMBERS': 41,691 visits, 207 exhibitors, 18 countries, 347 expert speakers, 1,102 delegates. Contact OPES@connectthroughus.com, +968 2466 0124. Official page states co-location with Oman Sustainability Week.",
+   "id": "oman-petroleum-and-energy-show-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -96536,6 +96841,72 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-vietnam-expo-2027",
+   "slug": "vietnam-expo-2027",
+   "name": "Vietnam Expo 2027",
+   "website_url": "https://vietnamexpo.com.vn/en/overview/",
+   "start_date": "2027-05-13",
+   "end_date": "2027-05-15",
+   "city": "Hanoi",
+   "country": "Vietnam",
+   "region": "asia",
+   "venue": "Vietnam Exhibition Center (VEC), Đông Anh, Hanoi",
+   "industry": "Vietnam International Trade Fair",
+   "format": "In-person",
+   "organizer": "VINEXAD JSC",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://vietnamexpo.com.vn/en/overview/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 13–15 May 2027, 36th Vietnam International Trade Fair, at the Vietnam Exhibition Center (VEC), Đông Anh, Hanoi. Official visitor hours 09:00–17:00; official opening ceremony 09:00 on 13 May, hosted by the Ministry of Industry and Trade, directed by VIETRADE, organised by VINEXAD JSC. Forecast wording ('expected scale of over 10,000 m²', 'more than 420 exhibitors', 'expected to welcome over 20,000 visitors... over the four days') was not stored; the dated run is three days (13–15 May), and that 'four days' line is noted as an inconsistency. Ticket prices were not listed. Different event and city from smart-tech-vietnam-2027 (6 May, SECC, Ho Chi Minh City) and vietnam-ictcomm-2027 (29 June, SECC).",
+   "lat": 21.0865257,
+   "lng": 105.8626636,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "trade",
+    "export",
+    "investment",
+    "food",
+    "household electronics"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://vietnamexpo.com.vn/en/overview/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Vietnam Exposition Centre, VEC West Square, Global Gate, Dong Anh Commune, Hà Nội, 12306, Vietnam (query: VEC Đông Anh Hanoi). Venue-level exhibition-centre pin.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official VIETNAM EXPO English overview (fetched 24 Nov 2026): 13–15 May 2027, Vietnam Exhibition Center (VEC), Dong Anh, Hanoi, open 9:00 AM–5:00 PM. Organiser VINEXAD JSC, 9 Dinh Le St, Hoan Kiem, Hanoi, expo@vinexad.com.vn, (84-24) 3825 5546.",
+   "id": "vietnam-expo-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-cbesp-2027",
    "slug": "cbesp-2027",
    "name": "XIX CBESP 2027 (Congresso Brasileiro da Educação Superior Particular)",
@@ -102502,7 +102873,7 @@ window.ATLASDATA={
    "city": "Boston",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Thomas M. Menino Convention & Exhibition Center",
    "industry": "Open source / hybrid cloud",
    "format": "In-person",
    "organizer": "Red Hat",
@@ -102518,7 +102889,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.redhat.com/en/summit",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official Red Hat Summit page states that in 2027 the event is heading to the Thomas M. Menino Convention & Exhibition Center in Boston. A street address was not given on that page.",
    "lat": 42.3588336,
    "lng": -71.0578303,
    "precise": false,
@@ -102571,8 +102942,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Boston, Suffolk County, Massachusetts, United States (query: Boston, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://www.redhat.com/en/summit), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://www.redhat.com/en/summit), fetched 23 Nov 2026. Venue from official page (https://www.redhat.com/en/summit), fetched 24 Nov 2026.",
    "id": "red-hat-summit-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -118349,7 +118720,7 @@ window.ATLASDATA={
    "city": "National Harbor",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Gaylord National Resort & Convention Center, 201 Waterfront Street, National Harbor, MD 20745",
    "industry": "Cybersecurity",
    "format": "In-person",
    "organizer": "Gartner",
@@ -118365,7 +118736,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official Gartner Cybersecurity & Risk Management Summit 2027 page names the venue as Gaylord National Resort & Convention Center, 201 Waterfront Street, National Harbor, MD 20745.",
    "lat": 38.783342,
    "lng": -77.0148285,
    "precise": false,
@@ -118417,8 +118788,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: National Harbor, Prince George's County, Maryland, 20745, United States (query: National Harbor, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://www.gartner.com/en/conferences/na/security-risk-management-us), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://www.gartner.com/en/conferences/na/security-risk-management-us), fetched 23 Nov 2026. Venue from official page (https://www.gartner.com/en/conferences/na/security-risk-management-us), fetched 24 Nov 2026.",
    "id": "gartner-security-risk-summit-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -118551,6 +118922,77 @@ window.ATLASDATA={
    "price_eur_min": 359.0,
    "price_eur_max": 1079.0,
    "has_price": true,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-jimex-2027",
+   "slug": "jimex-2027",
+   "name": "JIMEX 2027",
+   "website_url": "https://jimex.jo/",
+   "start_date": "2027-06-14",
+   "end_date": "2027-06-17",
+   "city": "Amman",
+   "country": "Jordan",
+   "region": "middle_east",
+   "venue": "JIEC Halls, next to Mecca Mall, King Abdullah II Street, Amman",
+   "industry": "International machinery, electricity and energy trade show",
+   "format": "In-person",
+   "organizer": "Golden Gate for Organization of Exhibitions and Conferences Services",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://jimex.jo/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 14–17 June 2027 at JIEC Halls, next to Mecca Mall, Amman, 22nd edition, UFI approved. Official concurrent SONEX 2027 (20th Solar Near East Trade Show) and JOPEX 2027 (7th Jordan Packaging, Printing & Plastic Industries Trade Show), plus the JIMEX-SONEX forum, are folded into this record. Opening hours were not listed (the official page includes an 'Event Schedules - Draft' heading). Ticket prices were not listed. Lines such as '25,000+ trade visitors' and '250+ exhibitors' are unlabelled 2027 scale wording and were not stored. SOFEX (defence) was not added. INTERBUILD / Jordan Build were official 2027 construction events and were not padded in beside this industrial show. Amman is not treated as a war-zone skip.",
+   "lat": 31.9776728,
+   "lng": 35.8438889,
+   "precise": false,
+   "category": "expo",
+   "topics": [
+    "machinery",
+    "electricity",
+    "energy",
+    "solar",
+    "packaging"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://jimex.jo/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://jordanfairs.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Mecca Mall, Ali Al-Nahleh Al-Hyasat Street, Umm Al Summaq, Dabouq, Al-Jami'ah District, Amman, 11831, Jordan (query: Mecca Mall Amman). Official JIMEX pages locate the JIEC Halls 'next to Mecca Mall' / Gate 3, King Abdullah II Street; a dedicated JIEC OSM object was not found, so the adjacent official landmark is used.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official JIMEX page (fetched 24 Nov 2026): 14–17 June 2027, JIEC Halls next to Mecca Mall, Amman. Official concurrent SONEX and JOPEX. Organiser Golden Gate for Organization of Exhibitions and Conferences Services, Jabal Al-Hussein, Khaled bin Al waleed St. 175, Amman, info@jordanfairs.com / sales@jordanfairs.com, +962 6 5658501. The official page states JIMEX has been a UFI approved event since 2009.",
+   "id": "jimex-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
    "photoCredit": ""
   },
   {
@@ -119703,6 +120145,80 @@ window.ATLASDATA={
    "price_eur_max": null,
    "has_price": false,
    "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-fieldays-2027",
+   "slug": "fieldays-2027",
+   "name": "Fieldays 2027",
+   "website_url": "https://www.fieldays.co.nz/",
+   "start_date": "2027-06-16",
+   "end_date": "2027-06-19",
+   "city": "Hamilton",
+   "country": "New Zealand",
+   "region": "oceania",
+   "venue": "Mystery Creek Events Centre, 125 Mystery Creek Road, Ōhaupō",
+   "industry": "National agricultural field days",
+   "format": "In-person",
+   "organizer": "Fieldays",
+   "expected_attendance": null,
+   "ticket_price_min": 0.0,
+   "ticket_price_max": 144.0,
+   "currency": "NZD",
+   "ticket_price_text": "Official tickets (NZD): adult one-day online $36 / at the gate $42; child 5–14 years $18; child 4 years and under free; adult four-day online $120 / gate $144; family one-day online $108 / gate $120. A transaction fee applies to online purchases.",
+   "ticket_url": "https://www.fieldays.co.nz/",
+   "price_source_url": "https://www.fieldays.co.nz/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.fieldays.co.nz/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 16–19 June 2027 at Mystery Creek Events Centre, 125 Mystery Creek Road, Ōhaupō (described as a 15-minute drive from Hamilton's CBD). Official hours: Wednesday–Friday 08:00–17:00; Super Saturday 08:00–16:00. Official tickets (NZD): adult one-day online $36 / gate $42; child 5–14 $18; child 4 and under free; adult four-day online $120 / gate $144; family one-day online $108 / gate $120; a transaction fee applies to online purchases. 'Over 1,100 exhibitors' and 'an audience of over 100,000' are unlabelled scale lines next to 2027 copy and were not stored. A longer legal organiser name beyond the Fieldays brand was not clearly labelled on the homepage fetch. 58th year.",
+   "lat": -37.870475,
+   "lng": 175.3503823,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "agriculture",
+    "agritech",
+    "primary industries",
+    "livestock",
+    "rural living"
+   ],
+   "photos": [
+    {
+     "src": "img/events/fieldays-2027-1.jpg",
+     "thumb": "img/events/fieldays-2027-1-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Crowds_at_Fieldays_2018.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Crowds_at_Fieldays_2018.jpg",
+     "credit": "Tom Webb, Wikimedia Commons, CC BY-SA 4.0"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.fieldays.co.nz/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026: Mystery Creek Events Centre, Mystery Creek, Waipā District, Waikato, New Zealand (query: Mystery Creek Events Centre). Venue-level pin. Official pages also describe the site as a 15-minute drive from Hamilton's CBD.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Fieldays homepage (fetched 24 Nov 2026): 16–19 June 2027, Mystery Creek, hours and ticket table as stored.",
+   "id": "fieldays-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
+   "photoCredit": "Tom Webb, Wikimedia Commons, CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-manufacturing-expo-2027",
@@ -122184,7 +122700,7 @@ window.ATLASDATA={
    "city": "San Francisco",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Moscone North, West and South, 747 Howard Street, San Francisco, CA 94103",
    "industry": "Data / AI",
    "format": "Hybrid",
    "organizer": "Databricks",
@@ -122200,7 +122716,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.databricks.com/dataaisummit",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "Official page: \"June 21–24, 2027 / San Francisco + Virtual\"; venue not named on the fetched page. US dates are local to the host city.",
+   "notes": "Official page: \"June 21–24, 2027 / San Francisco + Virtual\"; venue not named on the fetched page. US dates are local to the host city. Official Data + AI Summit FAQ states the 2027 conference will take place at Moscone North, West and South, 747 Howard Street, San Francisco, CA 94103.",
    "lat": 37.7879363,
    "lng": -122.4075201,
    "precise": false,
@@ -122230,8 +122746,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: San Francisco, California, United States (query: San Francisco, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://www.databricks.com/dataaisummit), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://www.databricks.com/dataaisummit), fetched 23 Nov 2026. Venue from official page (https://www.databricks.com/dataaisummit), fetched 24 Nov 2026.",
    "id": "databricks-data-ai-summit-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -127775,6 +128291,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates (29 June - 1 July 2027) and venue (Hall A, SECC, HCMC) from the official Vietnam ICTCOMM site, fetched 24 Nov 2026.",
    "id": "vietnam-ictcomm-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-archidex-2027",
+   "slug": "archidex-2027",
+   "name": "ARCHIDEX 2027",
+   "website_url": "https://archidex.com.my/",
+   "start_date": "2027-06-30",
+   "end_date": "2027-07-03",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "region": "asia",
+   "venue": "Malaysia International Trade and Exhibition Centre (MITEC), Kuala Lumpur",
+   "industry": "International architecture, interior design and building exhibition",
+   "format": "In-person",
+   "organizer": "C.I.S Network Sdn Bhd",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://archidex.com.my/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 30 June–3 July 2027, exclusively at MITEC (26th edition), an event of the Kuala Lumpur Architecture Festival. Official organiser marketing kit: 10:00–19:00. Official 2026 kit figures include 860 exhibitors; a clear labelled total-visitor figure was not stored (the kit breaks out 'over 22,780 industry specifiers' and 'over 4,480 international attendees' as separate lines). Ticket prices were not listed. Same venue as several existing Atlas tech expos (semicon-southeast-asia-2027, smart-nation-expo-2027, and others), different event.",
+   "lat": 3.1790267,
+   "lng": 101.6678236,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "architecture",
+    "interior design",
+    "building",
+    "construction"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://archidex.com.my/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://archidex.com.my/wp-content/uploads/2026/11/ARCHIDEX-2027-Marketing-Kit.pdf",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for MITEC (semicon-southeast-asia-2027, smart-nation-expo-2027, and others).",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official ARCHIDEX homepage and official ARCHIDEX 2027 Marketing Kit PDF (fetched 24 Nov 2026): 30 June–3 July 2027, MITEC, 10:00am–7:00pm. Organiser C.I.S Network Sdn Bhd (287961W), 9-1-6, Jalan 3/109F, Danau Business Centre, 58100 Kuala Lumpur, info@archidex.com.my, 03-7982 4668. The official page also describes the exhibition as jointly organised; C.I.S Network is the clearly labelled company on the contact block.",
+   "id": "archidex-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -169147,6 +169733,148 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-food-hospitality-malaysia-2027",
+   "slug": "food-hospitality-malaysia-2027",
+   "name": "Food & Hospitality Malaysia 2027",
+   "website_url": "https://foodandhotel.com/venue/",
+   "start_date": "2027-09-21",
+   "end_date": "2027-09-24",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "region": "asia",
+   "venue": "Kuala Lumpur Convention Centre (KLCC)",
+   "industry": "Food and hospitality trade exhibition",
+   "format": "In-person",
+   "organizer": "Informa Markets",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://foodandhotel.com/venue/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official venue page: 21–24 September 2027 at the Kuala Lumpur Convention Centre. Official hours: Tuesday–Thursday 10:00–18:00; Friday 10:00–17:00. Homepage marketing lines of '25,000+ trade professionals' and '1,500+ participating brands' are unlabelled scale wording and were not stored. Ticket prices were not listed on the venue or homepage fetches. Same city as malaysia-technology-expo-2027 (WTCKL, April), different venue and event.",
+   "lat": 3.1555803,
+   "lng": 101.7147801,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food",
+    "beverages",
+    "hospitality",
+    "foodservice",
+    "HoReCa"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://foodandhotel.com/venue/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://foodandhotel.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the Kuala Lumpur Convention Centre (comic-fiesta-2026). That pin is at KLCC Park, next to the Centre (the convention centre is not resolvable as its own OSM object).",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official FHM venue page (fetched 24 Nov 2026): Kuala Lumpur Convention Centre, 21–24 September 2027, Tuesday–Thursday 10:00 a.m.–6:00 p.m., Friday 10:00 a.m.–5:00 p.m. Organiser Informa Markets, info@foodandhotel.com, +603 9771 2688.",
+   "id": "food-hospitality-malaysia-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-foodtech-packtech-2027",
+   "slug": "foodtech-packtech-2027",
+   "name": "Foodtech Packtech 2027",
+   "website_url": "https://foodtechpacktech.co.nz/show-info/",
+   "start_date": "2027-09-21",
+   "end_date": "2027-09-23",
+   "city": "Auckland",
+   "country": "New Zealand",
+   "region": "oceania",
+   "venue": "Auckland Showgrounds, 217 Green Lane West, Epsom, Auckland 1051",
+   "industry": "Food manufacturing, packaging and processing technology trade show",
+   "format": "In-person",
+   "organizer": "Foodtech Packtech (XPO)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://foodtechpacktech.co.nz/show-info/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 21–23 September 2027 at Auckland Showgrounds, 217 Green Lane West, Epsom. Official hours: Tuesday 21 September 09:00–17:00; Wednesday 22 September 09:00–17:00; Thursday 23 September 09:00–16:00. Badge registration; no ticket price was listed. Held biennially. A corporate organiser name is referred to in the official FAQ as 'XPO events'; the longer legal entity was not clearly labelled. Same venue as armageddon-expo-auckland-winter-2027 / spring-2027 and hutchwilco-nz-boat-show-2027, different events. The official Auckland Home Show (9–12 September 2027, same venue) was looked at and not padded in.",
+   "lat": -36.8914118,
+   "lng": 174.7823158,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food manufacturing",
+    "packaging",
+    "processing",
+    "food safety",
+    "automation"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://foodtechpacktech.co.nz/show-info/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://foodtechpacktech.co.nz/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Auckland Showgrounds (armageddon-expo-auckland-winter-2027, hutchwilco-nz-boat-show-2027).",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Foodtech Packtech show-info page (fetched 24 Nov 2026): 21–23 September 2027, Auckland Showgrounds, hours as stored.",
+   "id": "foodtech-packtech-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-furniture-manufacturing-expo-2027",
    "slug": "furniture-manufacturing-expo-2027",
    "name": "Furniture Manufacturing Expo 2027",
@@ -175219,6 +175947,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-build-your-house-qatar-2027",
+   "slug": "build-your-house-qatar-2027",
+   "name": "Build Your House 2027",
+   "website_url": "https://buildyourhouseqatar.com/",
+   "start_date": "2027-10-03",
+   "end_date": "2027-10-06",
+   "city": "Doha",
+   "country": "Qatar",
+   "region": "middle_east",
+   "venue": "Doha Exhibition and Convention Center (DECC), West Bay, Doha",
+   "industry": "Home building, décor and gifts exhibition",
+   "format": "In-person",
+   "organizer": "NeXfairs (Nextfairs)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://buildyourhouseqatar.com/",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official: 3–6 October 2027, eighth edition, at the Doha Exhibition and Convention Center (DECC). Official co-located Inspire Exhibition for décor, gifts and lifestyle is folded into this record. Official Inspire FAQ: daily 10:00–22:00 at DECC Halls 1, 2 and 3; Build Your House hours were not listed separately on the official BYH homepage and are stored from the official co-located Inspire page. A third-party calendar listing of 26 October at QNCC was ignored. Ticket prices were not listed. Same venue as web-summit-qatar-2027 (January), different event.",
+   "lat": 25.322921,
+   "lng": 51.5277289,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "home building",
+    "interior décor",
+    "gifts",
+    "lifestyle"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://buildyourhouseqatar.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.inspireforhome.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for the Doha Exhibition and Convention Center (web-summit-qatar-2027). That pin is at DECC metro station, which connects underground to the Centre; the hall itself is not separately mapped in OpenStreetMap.",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Build Your House homepage (fetched 24 Nov 2026): 3–6 October 2027, DECC, eighth edition; organiser contact info@nextfairs.com, +974 5513 6611. Official Inspire FAQ (fetched 24 Nov 2026): 3–6 October 2027, 10 AM–10 PM, DECC Halls 1, 2 and 3, co-located with Build Your House; organised by NeXfairs, kathy.eid@nextfairs.com.",
+   "id": "build-your-house-qatar-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-devoxx-belgium-2027",
    "slug": "devoxx-belgium-2027",
    "name": "Devoxx Belgium 2027",
@@ -180462,7 +181260,7 @@ window.ATLASDATA={
    "city": "Raleigh",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Raleigh (Atlantic Union Bank) Convention Center, 500 S Salisbury St, Raleigh, NC 27601",
    "industry": "Open source",
    "format": "In-person",
    "organizer": "All Things Open",
@@ -180478,7 +181276,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://allthingsopen.org/",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official All Things Open 2027 event page names the venue as Raleigh (Atlantic Union Bank) Convention Center, 500 S Salisbury St, Raleigh, NC 27601.",
    "lat": 35.7803977,
    "lng": -78.6390989,
    "precise": false,
@@ -180494,6 +181292,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://allthingsopen.org/",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://allthingsopen.org/events/all-things-open-2027",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -180508,8 +181311,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Raleigh, Wake County, North Carolina, United States (query: Raleigh, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates and city from the official site news item \"Save the Date for All Things Open 2027 – October ... downtown Raleigh, NC October 17-19\", fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates and city from the official site news item \"Save the Date for All Things Open 2027 – October ... downtown Raleigh, NC October 17-19\", fetched 23 Nov 2026. Venue from official page (https://allthingsopen.org/events/all-things-open-2027), fetched 24 Nov 2026.",
    "id": "all-things-open-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -180807,7 +181610,7 @@ window.ATLASDATA={
    "city": "Orlando",
    "country": "United States",
    "region": "north_america",
-   "venue": null,
+   "venue": "Walt Disney World Swan & Dolphin Resorts, 1500 Epcot Resorts Boulevard, Lake Buena Vista, FL 32830",
    "industry": "Enterprise IT / CIO",
    "format": "In-person",
    "organizer": "Gartner",
@@ -180823,7 +181626,7 @@ window.ATLASDATA={
    "year": 2027,
    "source_url": "https://www.gartner.com/en/conferences/na/symposium-us",
    "last_scraped_at": "2026-11-23T23:59:00+01:00",
-   "notes": "US dates are local to the host city.",
+   "notes": "US dates are local to the host city. Official Gartner IT Symposium/Xpo 2027 page names the conference venue as Walt Disney World Swan & Dolphin Resorts, 1500 Epcot Resorts Boulevard, Lake Buena Vista, FL 32830. The event is still presented as Orlando, FL.",
    "lat": 28.5421218,
    "lng": -81.379045,
    "precise": false,
@@ -180882,8 +181685,8 @@ window.ATLASDATA={
    "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Orlando, Orange County, Florida, United States (query: Orlando, United States). Official page names the city only (or no venue yet); city-level pin.",
    "source_accessed_at": "2026-11-23T23:59:00+01:00",
    "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "verification_notes": "Dates from the official site (https://www.gartner.com/en/conferences/na/symposium-us), fetched 23 Nov 2026.",
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Dates from the official site (https://www.gartner.com/en/conferences/na/symposium-us), fetched 23 Nov 2026. Venue from official page (https://www.gartner.com/en/conferences/na/symposium-us), fetched 24 Nov 2026.",
    "id": "gartner-it-symposium-xpo-2027",
    "price_eur_min": null,
    "price_eur_max": null,
@@ -193373,6 +194176,81 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates and venue (Nov 30 - Dec 2 2027, Marina Bay Sands) from the official IEEE CAI 2027 site, fetched 24 Nov 2026.",
    "id": "ieee-cai-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-manufacturing-indonesia-2027",
+   "slug": "manufacturing-indonesia-2027",
+   "name": "Manufacturing Indonesia Series 2027",
+   "website_url": "https://www.manufacturingindonesia.com/",
+   "start_date": "2027-12-01",
+   "end_date": "2027-12-04",
+   "city": "Jakarta",
+   "country": "Indonesia",
+   "region": "asia",
+   "venue": "JIExpo Kemayoran (Jakarta International Expo), Jakarta",
+   "industry": "Manufacturing, machine-tool and industrial automation trade fair",
+   "format": "In-person",
+   "organizer": "PT Pamerindo Indonesia (Informa Markets)",
+   "expected_attendance": 41000,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.manufacturingindonesia.com/wp-content/uploads/2026/10/2027-PAMERINDO-Event-Calendar-201026-1.pdf",
+   "last_scraped_at": "2026-11-24T09:53:32+01:00",
+   "notes": "Dates are local to the host city. Official Pamerindo Exhibition Calendar 2027 (file dated 20 Oct 2026): 1–4 December 2027, Manufacturing Indonesia Series, officially co-located with Machine Tool Indonesia, Tools & Hardware Indonesia, Industrial Automation Indonesia, Production Logistics Indonesia, Industrial Paint & Coatings Indonesia and Fastener Indonesia, all folded into this record. The official 2027 calendar line does not print a venue; the official show venue page (fetched 24 Nov 2026) names Jakarta International Expo, Kemayoran, with no contrary 2027 venue, and that is the venue used. Official 2025 recap: over 41,000 trade attendees (and more than 1,300 exhibiting companies from 29 countries). The 2026 edition (2–5 December 2026, still upcoming at the time of this fetch) had not yet taken place, so 2025 is the previous completed official actual. Opening hours and ticket prices for 2027 were not listed. Same venue as art-jakarta-2027 and data-center-indonesia-2027, different events. JS '100' counters on the homepage were not stored.",
+   "lat": -6.1457858,
+   "lng": 106.8462134,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "manufacturing",
+    "machine tools",
+    "industrial automation",
+    "logistics"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.manufacturingindonesia.com/wp-content/uploads/2026/10/2027-PAMERINDO-Event-Calendar-201026-1.pdf",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.manufacturingindonesia.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.manufacturingindonesia.com/about/venue/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official 2025 edition actual: over 41,000 trade attendees in four days (and more than 1,300 exhibiting companies from 29 countries), from the official Manufacturing Indonesia homepage. Stored as 41,000 with that 'over' wording. The 2026 edition (2–5 December 2026) had not yet taken place at the time of the 24 Nov 2026 fetch.",
+   "attendance_source_url": "https://www.manufacturingindonesia.com/",
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for JIExpo Kemayoran (art-jakarta-2027, data-center-indonesia-2027, djakarta-warehouse-project-2026).",
+   "source_accessed_at": "2026-11-24T09:53:32+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official 2027 PAMERINDO Event Calendar PDF (fetched 24 Nov 2026) and official Manufacturing Indonesia venue and homepage (fetched 24 Nov 2026): series dated 1–4 December 2027; venue page JIEXPO Kemayoran; official 2025 recap 'over 41,000 trade attendees'. Organiser PT Pamerindo Indonesia, part of Informa Markets, Jamsostek Tower, Jl. Jendral Gatot Subroto No. 38, Jakarta 12710, info@pamerindo.com, +62 21 2525 320.",
+   "id": "manufacturing-indonesia-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -240216,6 +241094,1181 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "mediterranean-conference-centre",
+   "name": "Mediterranean Conference Centre",
+   "type": "congress_centre",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Valletta",
+   "address": "Old Hospital Street, Valletta VLT 1645, Malta",
+   "lat": 35.8989687,
+   "lon": 14.5180481,
+   "url": "https://mcc.com.mt/",
+   "capacity": 1920,
+   "exhibition_sqm": null,
+   "halls": "Official hall-capacities page lists Republic Hall, Sacra Infermeria Hall, La Valette Hall, Grand Harbour Terrace, Michel’ Angelo Grima Hall, Vassalli Hall, David Bruce Hall, La Cassiere Hall, Girolamo Cassar Hall, the Perellos Suite, VIP Lounge and syndicate rooms 4–8 and 10; the facilities page also lists Sala Ospitalieri",
+   "description": "Historic congress centre in the former Sacra Infermeria in Valletta. The official hall-capacities table gives Sacra Infermeria Hall 1,705 m² and 1,920 theatre / 1,200 banquet / 2,500 reception, La Valette Hall 1,500 m² and 1,440 theatre / 900 banquet / 1,500 reception, and Republic Hall 728 m² and 1,400 theatre. Headline capacity_max_delegates is the largest official theatre figure (1,920). A single official indoor exhibition total is not published; Sacra Infermeria is described on the hall page as able to take 100 stands of 9 m², with two further halls available for additional exhibition space. Coordinates are the atlas precise pin. Public sales email is sales@mcc.com.mt.",
+   "photo": null,
+   "linked_event_slugs": [
+    "eu-startups-summit-2027"
+   ],
+   "contact_email": "sales@mcc.com.mt",
+   "sources": [
+    {
+     "url": "https://mcc.com.mt/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mcc.com.mt/hall-capacities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mcc.com.mt/facilities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mcc.com.mt/contact-us/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Republic Hall",
+     "type": null,
+     "area_sqm": 728,
+     "capacity_max": null,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 200,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: stalls classroom 200; ceiling height 18.9 m; 7 SI booths on the hall-capacities page (the facilities page lists 8).",
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Sacra Infermeria Hall",
+     "type": null,
+     "area_sqm": 1705,
+     "capacity_max": null,
+     "capacity_theatre": 1920,
+     "capacity_classroom": null,
+     "capacity_banquet": 1200,
+     "capacity_reception": 2500,
+     "notes": "Official table: 11 m ceiling. Hall page also describes 100 exhibition stands of 9 m².",
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "La Valette Hall",
+     "type": null,
+     "area_sqm": 1500,
+     "capacity_max": null,
+     "capacity_theatre": 1440,
+     "capacity_classroom": null,
+     "capacity_banquet": 900,
+     "capacity_reception": 1500,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Grand Harbour Terrace",
+     "type": null,
+     "area_sqm": 1063,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 600,
+     "capacity_reception": 600,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Michel’ Angelo Grima Hall",
+     "type": null,
+     "area_sqm": 360,
+     "capacity_max": null,
+     "capacity_theatre": 450,
+     "capacity_classroom": 250,
+     "capacity_banquet": 250,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Vassalli Hall",
+     "type": null,
+     "area_sqm": 154,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 80,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "David Bruce Hall",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": null,
+     "capacity_theatre": 90,
+     "capacity_classroom": 40,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "La Cassiere Hall",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": 30,
+     "capacity_banquet": 60,
+     "capacity_reception": 100,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Girolamo Cassar Hall",
+     "type": null,
+     "area_sqm": 146.2,
+     "capacity_max": null,
+     "capacity_theatre": 140,
+     "capacity_classroom": 45,
+     "capacity_banquet": 56,
+     "capacity_reception": 80,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Perellos Suite",
+     "type": null,
+     "area_sqm": 40.3,
+     "capacity_max": null,
+     "capacity_theatre": 25,
+     "capacity_classroom": 7,
+     "capacity_banquet": null,
+     "capacity_reception": 30,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "VIP Lounge",
+     "type": null,
+     "area_sqm": 51.94,
+     "capacity_max": null,
+     "capacity_theatre": 45,
+     "capacity_classroom": 20,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://mcc.com.mt/hall-capacities/"
+    },
+    {
+     "name": "Sala Ospitalieri",
+     "type": null,
+     "area_sqm": 438,
+     "capacity_max": null,
+     "capacity_theatre": 416,
+     "capacity_classroom": 150,
+     "capacity_banquet": 250,
+     "capacity_reception": 400,
+     "notes": "Listed on the facilities page, not on the dedicated hall-capacities table.",
+     "source_url": "https://mcc.com.mt/facilities/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "malta-fairs-conventions-centre",
+   "name": "Malta Fairs and Conventions Centre",
+   "type": "exhibition_grounds",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Ta' Qali",
+   "address": "Millennium Stand, Level 1, The National Stadium, Ta’ Qali, ATD 4000, Malta",
+   "lat": 35.8956127,
+   "lon": 14.4170402,
+   "url": "https://mfcc.com.mt/",
+   "capacity": 10300,
+   "exhibition_sqm": 8500,
+   "halls": "Official technical page: 8,500 m² inside the TFS, or 10,300 m² including foyers and marquee; optional outdoor marquees. The venue can be used as one hall or divided into halls and seminar theatres",
+   "description": "Malta’s largest exhibition and convention venue, in the Millennium Stand at the National Stadium, Ta’ Qali, and part of the Corinthia Group since 2016. Official pages give 8,500 m² of indoor space in the Tension Fabric Structure (170 m by 50 m, 16.5 m maximum height) plus outdoor grounds; combined indoor and outdoor area is described as over 22,000 m² on the home and technical pages, or 20,000 m² as the ‘entire area’ on the TFS capacity table. exhibition_sqm is the official indoor TFS figure, not the combined total. The TFS capacity table lists 10,300 theatre / 4,000 banquet / 14,500 reception for the main area; a separate TFS page sentence says the structure can hold 13,000 seated or 25,000 standing, which is noted as a discrepancy. Headline capacity_max_delegates follows the table’s 10,300 theatre figure. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sigma-europe-2027"
+   ],
+   "contact_email": "info@mfcc.com.mt",
+   "sources": [
+    {
+     "url": "https://mfcc.com.mt/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mfcc.com.mt/mfcc/venue-area/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mfcc.com.mt/our-services/fair-exhibitions/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "TFS Main Area",
+     "type": null,
+     "area_sqm": 8500,
+     "capacity_max": null,
+     "capacity_theatre": 10300,
+     "capacity_classroom": null,
+     "capacity_banquet": 4000,
+     "capacity_reception": 14500,
+     "notes": "Official table: 170 m by 50 m, 16.5 / 12.0 m height under ceiling / arch. A separate sentence on the same section says the TFS can hold 13,000 seated or 25,000 standing.",
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    },
+    {
+     "name": "North Foyer",
+     "type": null,
+     "area_sqm": 225,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 380,
+     "notes": null,
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    },
+    {
+     "name": "Petite Marquee",
+     "type": null,
+     "area_sqm": 375,
+     "capacity_max": null,
+     "capacity_theatre": 323,
+     "capacity_classroom": null,
+     "capacity_banquet": 130,
+     "capacity_reception": 640,
+     "notes": null,
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    },
+    {
+     "name": "Petite Marquee (Outside)",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 250,
+     "notes": null,
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    },
+    {
+     "name": "Midi Marquee",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": null,
+     "capacity_theatre": 374,
+     "capacity_classroom": null,
+     "capacity_banquet": 150,
+     "capacity_reception": 750,
+     "notes": null,
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    },
+    {
+     "name": "Grande Marquee (Optional)",
+     "type": null,
+     "area_sqm": 1800,
+     "capacity_max": null,
+     "capacity_theatre": 2024,
+     "capacity_classroom": null,
+     "capacity_banquet": 760,
+     "capacity_reception": 3000,
+     "notes": null,
+     "source_url": "https://mfcc.com.mt/mfcc/tension-fabric-structures/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "hilton-malta",
+   "name": "Hilton Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "Vjal Portomaso, St Julian's, Malta",
+   "lat": 35.9222764,
+   "lon": 14.4936112,
+   "url": "https://www.hilton.com/en/hotels/mlahitw-hilton-malta/",
+   "capacity": 1330,
+   "exhibition_sqm": null,
+   "halls": "Official meetings brochure: one auditorium for 1,330 delegates and 18 meeting rooms; official hotel page also states more than 4,000 m² of space",
+   "description": "Portomaso waterfront hotel and conference centre in St Julian’s. The official events page and meetings brochure state capacity for up to 1,330 delegates in the Grandmaster Suite (1,100 theatre on the flat surface with stage, or 1,330 including the tiered balcony) in a room of 963.6 m². The Portomaso Suite is 436 m² combined (506 theatre / 280 classroom / 260 banquet / 500 reception on the official capacity chart; narrative text on the same brochure also says ‘capacity ranges from 480 people in theatre style’). The Spinola Suite is given as 780 m². Classified 5-star on the Malta Tourism Authority hotels licence CSV (licence HTL-14697 / H/0005, HILTON INTERNATIONAL, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/mlahitw-hilton-malta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hilton.com/en/hotels/mlahitw-hilton-malta/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.hiltonstatic.com/images/v1692196617/dx/wp/mlahitw-hilton-malta/media-library/Making-Moments-Events-Brochure-FINAL-ua/Making-Moments-Events-Brochure-FINAL-ua.pdf?_i=AA",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Grandmaster Suite (including balcony)",
+     "type": null,
+     "area_sqm": 963.6,
+     "capacity_max": null,
+     "capacity_theatre": 1330,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: flat surface with stage 1,100 theatre / 522 classroom / 550 banquet / 900 reception; including balcony 1,330 theatre.",
+     "source_url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA"
+    },
+    {
+     "name": "Grandmaster Suite (flat surface with stage)",
+     "type": null,
+     "area_sqm": 963.6,
+     "capacity_max": null,
+     "capacity_theatre": 1100,
+     "capacity_classroom": 522,
+     "capacity_banquet": 550,
+     "capacity_reception": 900,
+     "notes": null,
+     "source_url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA"
+    },
+    {
+     "name": "Portomaso Suite 1 + 2 + 3",
+     "type": null,
+     "area_sqm": 436,
+     "capacity_max": null,
+     "capacity_theatre": 506,
+     "capacity_classroom": 280,
+     "capacity_banquet": 260,
+     "capacity_reception": 500,
+     "notes": "Brochure narrative also gives 480 theatre / 260 banquet.",
+     "source_url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA"
+    },
+    {
+     "name": "Spinola Suite",
+     "type": null,
+     "area_sqm": 780,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Making Moments brochure: 780 m²; social-event maximum 700 in that brochure, with the events page describing the suite as 780 sq. m. for fairs, exhibitions and receptions.",
+     "source_url": "https://assets.hiltonstatic.com/images/v1692196617/dx/wp/mlahitw-hilton-malta/media-library/Making-Moments-Events-Brochure-FINAL-ua/Making-Moments-Events-Brochure-FINAL-ua.pdf?_i=AA"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hilton Malta Meetings & Events brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA",
+     "href": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA",
+     "local": false
+    },
+    {
+     "title": "Hilton Malta Making Moments events brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://assets.hiltonstatic.com/images/v1692196617/dx/wp/mlahitw-hilton-malta/media-library/Making-Moments-Events-Brochure-FINAL-ua/Making-Moments-Events-Brochure-FINAL-ua.pdf?_i=AA",
+     "href": "https://assets.hiltonstatic.com/images/v1692196617/dx/wp/mlahitw-hilton-malta/media-library/Making-Moments-Events-Brochure-FINAL-ua/Making-Moments-Events-Brochure-FINAL-ua.pdf?_i=AA",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "intercontinental-malta",
+   "name": "InterContinental Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "St. George’s Bay, St. Julian’s STJ 3310, Malta",
+   "lat": 35.9235418,
+   "lon": 14.488087,
+   "url": "https://malta.intercontinental.com/",
+   "capacity": 1700,
+   "exhibition_sqm": null,
+   "halls": "Official events page: 24 meeting rooms totalling 6,000 m², including the InterContinental Arena Conference Centre (3,600 m² on the current page)",
+   "description": "St George’s Bay hotel with the InterContinental Arena Conference Centre. The current official conferences page states 24 meeting rooms totalling 6,000 m² and events from 10 to 1,700 delegates; it also describes the Arena itself as spanning 3,600 m². The hotel’s 2019 MICE factsheet likewise gives 6,000 m² of meeting space and 1,700 theatre / 960 gala in the Arena, while the factsheet room chart lists Maurice De Cesare at 1,215 m² and 1,500 theatre / 2,000 reception / 960 banquet (European thousands punctuation in the PDF). Headline capacity follows the current website’s 1,700 figure; chart figures are kept on spaces with a 2019 date note. Classified 5-star on the MTA hotels licence CSV (HTL-04397 / H/0093, 2026 licence year). Public contact is malta@ihg.com; named staff mailboxes on the events page were not used. Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "malta@ihg.com",
+   "sources": [
+    {
+     "url": "https://malta.intercontinental.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://malta.intercontinental.com/conference-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://digital.ihg.com/is/content/ihg/intercontinental-st.-julians-10722946809-original?fmt=pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "InterContinental Arena Conference Centre (IACC)",
+     "type": null,
+     "area_sqm": 3600,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "2019 factsheet lists IACC size as 3,600 m² on the 4th floor; current website also describes the Arena as spanning 3,600 m², within 6,000 m² of hotel meeting space.",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf"
+    },
+    {
+     "name": "Maurice De Cesare",
+     "type": null,
+     "area_sqm": 1215,
+     "capacity_max": null,
+     "capacity_theatre": 1500,
+     "capacity_classroom": 750,
+     "capacity_banquet": 960,
+     "capacity_reception": 2000,
+     "notes": "2019 official factsheet chart. The current website and factsheet narrative give the Arena complex a 1,700 theatre maximum.",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf"
+    },
+    {
+     "name": "Neptune",
+     "type": null,
+     "area_sqm": 352,
+     "capacity_max": null,
+     "capacity_theatre": 250,
+     "capacity_classroom": 160,
+     "capacity_banquet": 240,
+     "capacity_reception": 400,
+     "notes": "2019 official factsheet.",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf"
+    },
+    {
+     "name": "Cettina De Cesare",
+     "type": null,
+     "area_sqm": 600,
+     "capacity_max": null,
+     "capacity_theatre": 650,
+     "capacity_classroom": 320,
+     "capacity_banquet": 480,
+     "capacity_reception": 800,
+     "notes": "2019 official factsheet, 2nd floor.",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf"
+    },
+    {
+     "name": "Palm Suite",
+     "type": null,
+     "area_sqm": 341,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 216,
+     "capacity_reception": 280,
+     "notes": "2019 official factsheet, 7th floor.",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "InterContinental Malta MICE factsheet (2019)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf",
+     "href": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf",
+     "local": false
+    },
+    {
+     "title": "InterContinental Malta events and conferences brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://digital.ihg.com/is/content/ihg/intercontinental-st.-julians-10722946809-original?fmt=pdf",
+     "href": "https://digital.ihg.com/is/content/ihg/intercontinental-st.-julians-10722946809-original?fmt=pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "corinthia-st-georges-bay",
+   "name": "Corinthia St George's Bay",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "St. George’s Bay, St. Julian’s STJ 3301, Malta",
+   "lat": 35.9287656,
+   "lon": 14.490953,
+   "url": "https://www.corinthia.com/en-gb/st-georges-bay/",
+   "capacity": 600,
+   "exhibition_sqm": null,
+   "halls": "Official event brochure: 14 meeting rooms, from boardrooms for 8 delegates to the Fortress Suite",
+   "description": "Seafront Corinthia hotel at St George’s Bay with an in-house conference centre. The current official in-house venues page gives the Fortress Suite up to 600 guests in theatre or cocktail layouts (about 4,596 sq ft) and 225 banquet. The official events brochure’s capacity chart lists the Fortress Suite as 322 m², 550 theatre, 400 banquet and 800 reception, and states 14 meeting rooms with a 550-seat main room; those brochure figures are recorded on spaces with a note that the current page lists 600 theatre/cocktail. Headline capacity follows the current official page. Classified 5-star on the MTA hotels licence CSV (HTL-04454 / H/0307, Corinthia Hotel St. George's Bay Malta, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events.stgeorges@corinthia.com",
+   "sources": [
+    {
+     "url": "https://www.corinthia.com/en-gb/st-georges-bay/meetings-and-events/inhouse-venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.corinthia.com/en-gb/st-georges-bay/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Fortress Suite",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 600,
+     "capacity_classroom": null,
+     "capacity_banquet": 225,
+     "capacity_reception": 600,
+     "notes": "Current official venues page: 4,596 sq ft, 13 ft ceiling, 600 theatre and cocktail, 225 banquet, 69 U-shape. The official events-brochure chart lists 322 m², 550 theatre, 400 banquet and 800 reception.",
+     "source_url": "https://www.corinthia.com/en-gb/st-georges-bay/meetings-and-events/inhouse-venues/"
+    },
+    {
+     "name": "Bastion 1 & 2",
+     "type": null,
+     "area_sqm": 223,
+     "capacity_max": null,
+     "capacity_theatre": 155,
+     "capacity_classroom": 80,
+     "capacity_banquet": 170,
+     "capacity_reception": 350,
+     "notes": "Official events-brochure chart. Current page gives the combined Bastion Suite 350 theatre / 170 banquet / 350 cocktail.",
+     "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf"
+    },
+    {
+     "name": "Gardjola 1, 2 & 3",
+     "type": null,
+     "area_sqm": 221,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 80,
+     "capacity_banquet": 160,
+     "capacity_reception": 300,
+     "notes": "Official events-brochure chart. Current page gives the Gardjola Suite 300 theatre and cocktail / 160 banquet.",
+     "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf"
+    },
+    {
+     "name": "Terrace 1 & 2",
+     "type": null,
+     "area_sqm": 91,
+     "capacity_max": null,
+     "capacity_theatre": 70,
+     "capacity_classroom": 36,
+     "capacity_banquet": null,
+     "capacity_reception": 80,
+     "notes": "Official events-brochure chart. Current page gives the Terrace Suite 80 theatre and cocktail.",
+     "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf"
+    },
+    {
+     "name": "La Piazza",
+     "type": null,
+     "area_sqm": 520,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page: stepped terrace, packages for 50 to 300 guests.",
+     "source_url": "https://www.corinthia.com/en-gb/st-georges-bay/meetings-and-events/inhouse-venues/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Corinthia St George’s Bay events brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf",
+     "href": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf",
+     "local": false
+    },
+    {
+     "title": "Corinthia St George’s Bay MICE brochure (Feb 2024)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
+     "href": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "westin-dragonara-resort",
+   "name": "The Westin Dragonara Resort",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "St Julian's",
+   "address": "Dragonara Road, St. Julian's, Malta, STJ 3143",
+   "lat": 35.9255047,
+   "lon": 14.4918823,
+   "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/",
+   "capacity": 600,
+   "exhibition_sqm": null,
+   "halls": "Official events page: recently refurbished conference centre with 17 meeting rooms and 1,400 m² of meeting space on one floor (the page header also lists 15 event rooms and 2,001 m² total event space, including outdoor venues)",
+   "description": "Peninsula resort in St Julian’s with a conference centre. The official Marriott events page gives the Dragonara Point Ballroom 600 theatre, 400 seated or 1,000 standing, divisible into St Julian's Bay, Spinola Bay and St George's Bay. The same page’s summary statistics list 1,500 as the capacity of the largest space, identified in the FAQ as the outdoor Reef Club Sun Deck; headline capacity_max_delegates is the largest indoor theatre figure (600). The page also refers both to 17 meeting rooms / 1,400 m² and to 15 event rooms / 2,001 m² total event space. Classified 5-star on the MTA hotels licence CSV (HTL-04354 / H/0002, Westin Dragonara Hotel, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Dragonara Point Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 600,
+     "capacity_classroom": null,
+     "capacity_banquet": 400,
+     "capacity_reception": 1000,
+     "notes": "Official events page; divisible into three rooms.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "Spinola Bay",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 250,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Largest of the three divisions of Dragonara Point Ballroom.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "St. Julian's Bay",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 175,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "St. George's Bay",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 160,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "Phoenician",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 60,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Syndicate room with patio access.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "Castillian / Carthaginian",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 100,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    },
+    {
+     "name": "Reef Club Sun Deck",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official FAQ: largest-capacity event space, outdoor.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mlawi-the-westin-dragonara-resort-malta/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "radisson-blu-golden-sands",
+   "name": "Radisson Blu Resort & Spa, Malta Golden Sands",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Mellieħa",
+   "address": "Misrah il-Bajja, Għajn Tuffieħa, Mellieħa, Malta",
+   "lat": 35.935398,
+   "lon": 14.3432405,
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+   "capacity": 650,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page key features: 9 meeting rooms and an 800-person maximum; the same page’s room table lists 13 indoor and outdoor spaces including terraces",
+   "description": "Golden Bay resort with a pillarless ballroom and adjoining terraces. The official meetings page gives the Ballroom 591 m² and 650 theatre / 400 classroom / 350 rounds / 800 reception, and lists an 800-person maximum among key features. Headline capacity_max_delegates is the official ballroom theatre figure; 800 is the official reception/key-features maximum. Classified 5-star on the MTA hotels licence CSV (HTL-04361 / H/0012, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events@rdbmalta.com",
+   "sources": [
+    {
+     "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": 591,
+     "capacity_max": null,
+     "capacity_theatre": 650,
+     "capacity_classroom": 400,
+     "capacity_banquet": 350,
+     "capacity_reception": 800,
+     "notes": "Official page: can be split into three sections; adjoining terrace with sea views.",
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    },
+    {
+     "name": "Ballroom Terrace",
+     "type": null,
+     "area_sqm": 400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 300,
+     "capacity_reception": 500,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    },
+    {
+     "name": "Ballroom Roof Terrace",
+     "type": null,
+     "area_sqm": 600,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 250,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    },
+    {
+     "name": "Ballroom Foyer",
+     "type": null,
+     "area_sqm": 225,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 200,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    },
+    {
+     "name": "Swizzles",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 45,
+     "capacity_banquet": 100,
+     "capacity_reception": 180,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    },
+    {
+     "name": "Majjistral",
+     "type": null,
+     "area_sqm": 232,
+     "capacity_max": null,
+     "capacity_theatre": 50,
+     "capacity_classroom": 24,
+     "capacity_banquet": 100,
+     "capacity_reception": 120,
+     "notes": null,
+     "source_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-spa/meeting-events"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "phoenicia-malta",
+   "name": "The Phoenicia Malta",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Floriana",
+   "address": "The Mall, Floriana, FRN 1478, Malta",
+   "lat": 35.8953842,
+   "lon": 14.5070344,
+   "url": "https://phoeniciamalta.com/",
+   "capacity": 200,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: Grand Ballroom, Maryanski Porch, Green Lounges and Knights' Room",
+   "description": "Historic hotel at the entrance to Valletta, facing Floriana’s Mall. The official meetings page gives the Grand Ballroom 375 m² and 200 theatre / 96 classroom / 200 banquet / 300 reception. Headline capacity_max_delegates is the official theatre figure; 300 is the official reception maximum. Classified 5-star on the MTA hotels licence CSV (HTL-14698 / H/0006, HOTEL PHOENICIA MALTA, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://phoeniciamalta.com/events-celebrations/meetings-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://phoeniciamalta.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 375,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": 96,
+     "capacity_banquet": 200,
+     "capacity_reception": 300,
+     "notes": null,
+     "source_url": "https://phoeniciamalta.com/events-celebrations/meetings-events/"
+    },
+    {
+     "name": "Maryanski Porch",
+     "type": null,
+     "area_sqm": 246,
+     "capacity_max": null,
+     "capacity_theatre": 90,
+     "capacity_classroom": 40,
+     "capacity_banquet": 70,
+     "capacity_reception": 200,
+     "notes": "Official page: can be paired with the Grand Ballroom.",
+     "source_url": "https://phoeniciamalta.com/events-celebrations/meetings-events/"
+    },
+    {
+     "name": "The Green Lounges",
+     "type": null,
+     "area_sqm": 236,
+     "capacity_max": null,
+     "capacity_theatre": 75,
+     "capacity_classroom": 40,
+     "capacity_banquet": 100,
+     "capacity_reception": 120,
+     "notes": "Official page: three combinable rooms.",
+     "source_url": "https://phoeniciamalta.com/events-celebrations/meetings-events/"
+    },
+    {
+     "name": "The Knights' Room",
+     "type": null,
+     "area_sqm": 38,
+     "capacity_max": null,
+     "capacity_theatre": 16,
+     "capacity_classroom": 12,
+     "capacity_banquet": 20,
+     "capacity_reception": 20,
+     "notes": null,
+     "source_url": "https://phoeniciamalta.com/events-celebrations/meetings-events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "grand-hotel-excelsior-malta",
+   "name": "Grand Hotel Excelsior",
+   "type": "hotel_conference_venue",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Floriana",
+   "address": "Great Siege Road, Floriana, Malta, FRN1810",
+   "lat": 35.8975301,
+   "lon": 14.5048998,
+   "url": "https://excelsior.com.mt/",
+   "capacity": 1200,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: 14 meeting rooms and over 4,000 m² of indoor and outdoor conference and banqueting space, including the Grand Ballroom, Floriani Hall and outdoor Piazza Marina (1,500 m²)",
+   "description": "Harbourfront hotel at the edge of Valletta and Floriana with a purpose-built conference wing. The official meetings page gives the Grand Ballroom 730 m² (5.2 m ceiling) and Floriani Hall 917 m², plus Andrea Belli at 226 m² and Bellavanti for sessions of up to 140 persons, but does not publish a single theatre maximum for the largest halls. VisitMalta Incentives & Meetings, the official convention bureau, states a meeting capacity of 1,200 people in cocktail layout; that official bureau figure is used for capacity_max_delegates. Classified 5-star on the MTA hotels licence CSV (HTL-04355 / H/0003, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events@excelsior.com.mt",
+   "sources": [
+    {
+     "url": "https://excelsior.com.mt/meetings-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://excelsior.com.mt/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://excelsior.com.mt/facilities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitmalta-im.com/hotels-et-lieux/hotels-5/grand-hotel-excelsior-2/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://mta.com.mt/licences/csv/hotels.csv",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 730,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: 5.2 m ceiling, natural daylight and harbour views; no theatre capacity published on the page.",
+     "source_url": "https://excelsior.com.mt/meetings-events/"
+    },
+    {
+     "name": "Floriani Hall",
+     "type": null,
+     "area_sqm": 917,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: described as the hotel’s largest venue; access to Andrea Belli and the Rotunda and Gardens.",
+     "source_url": "https://excelsior.com.mt/meetings-events/"
+    },
+    {
+     "name": "Andrea Belli",
+     "type": null,
+     "area_sqm": 226,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://excelsior.com.mt/meetings-events/"
+    },
+    {
+     "name": "Bellavanti",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 140,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: sessions of up to 140 persons, fifth floor.",
+     "source_url": "https://excelsior.com.mt/meetings-events/"
+    },
+    {
+     "name": "Piazza Marina",
+     "type": null,
+     "area_sqm": 1500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: largest outdoor events space.",
+     "source_url": "https://excelsior.com.mt/meetings-events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "casino-maltese",
+   "name": "Casino Maltese",
+   "type": "other",
+   "country": "Malta",
+   "cc": "MT",
+   "city": "Valletta",
+   "address": "247 Republic Street, Valletta VLT 1114, Malta",
+   "lat": 35.8986524,
+   "lon": 14.513084,
+   "url": "https://www.thecasinomaltese.com/",
+   "capacity": 300,
+   "exhibition_sqm": null,
+   "halls": "Official private-events page: Ballroom, Presidents' Room, Princess' Room, Dining Room, plus the Crown Princes' Room for smaller gatherings",
+   "description": "Historic private members’ club at 247 Republic Street, Valletta, used as the venue for the atlas event Gaming Pulse 2026. The official private-events page lists hireable rooms and capacities: the Ballroom 180 pax at round tables, 210 at long tables or 300 standing; the Presidents' Room 120 / 180 / 280; the Dining Room 140 / 140 / 200; and the Princess' Room 50 / 60 / 80. The Crown Princes' Room is described as a private board room for up to 25 people. Headline capacity_max_delegates is the official Ballroom standing figure of 300. Coordinates are the atlas precise pin, which matches a Nominatim result for the named venue.",
+   "photo": null,
+   "linked_event_slugs": [
+    "gaming-pulse-2026"
+   ],
+   "contact_email": "info@thecasinomaltese.com",
+   "sources": [
+    {
+     "url": "https://www.thecasinomaltese.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.thecasinomaltese.com/private-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.thecasinomaltese.com/facilities",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 180,
+     "capacity_reception": 300,
+     "notes": "Official private-events page: 180 pax (round tables), 210 pax (long tables), 300 pax (standing).",
+     "source_url": "https://www.thecasinomaltese.com/private-events"
+    },
+    {
+     "name": "The Presidents' Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 280,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 120,
+     "capacity_reception": 280,
+     "notes": "Official page: 120 pax (round tables), 180 pax (long tables), 280 pax (standing).",
+     "source_url": "https://www.thecasinomaltese.com/private-events"
+    },
+    {
+     "name": "The Dining Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 140,
+     "capacity_reception": 200,
+     "notes": "Official page: 140 pax (round or long tables), 200 pax (standing).",
+     "source_url": "https://www.thecasinomaltese.com/private-events"
+    },
+    {
+     "name": "The Princess' Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": 80,
+     "notes": "Official page: 50 pax (round tables), 60 pax (long tables), 80 pax (standing).",
+     "source_url": "https://www.thecasinomaltese.com/private-events"
+    },
+    {
+     "name": "The Crown Princes' Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 25,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facilities page: private board room for up to 25 people.",
+     "source_url": "https://www.thecasinomaltese.com/facilities"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "rai-amsterdam",
    "name": "RAI Amsterdam",
    "type": "exhibition_grounds",
@@ -242084,36 +244137,1827 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "sands-expo-marina-bay-sands",
+   "name": "Sands Expo & Convention Centre",
+   "type": "convention_centre",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "10 Bayfront Avenue, Singapore",
+   "lat": 1.2823291,
+   "lon": 103.8585262,
+   "url": "https://www.marinabaysands.com/expo-and-convention.html",
+   "capacity": 45000,
+   "exhibition_sqm": 31750,
+   "halls": "Official exhibition-halls page: 31,750 m² of exhibition space on Level 1 and Basement 2, for up to 2,000 booths and 45,000 guests. Atlas events listing ‘Marina Bay Sands’ or ‘Sands Expo’ are treated as this convention complex.",
+   "description": "Singapore’s largest hotel-integrated exhibition and convention venue, in the Marina Bay Sands complex. The official exhibition-halls page gives 31,750 m² of exhibition space (Level 1 14,560 m² and Basement 2 17,190 m²), 9.45 m hall height, and capacity for up to 2,000 booths and 45,000 guests. exhibition_sqm is that official exhibition-hall total, not a combined figure for all meeting rooms and ballrooms. Atlas events at Marina Bay Sands, Marina Bay Sands Convention Centre and Sands Expo are linked here as one complex. Coordinates are the atlas precise pin. Singapore has no official government hotel star rating (Hotels Licensing Board classes hotels by room count, not stars), so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "itap-2027",
+    "bex-asia-2027",
+    "tech-week-singapore-2027",
+    "token2049-singapore-2027",
+    "govware-2027",
+    "gitex-ai-asia-2027",
+    "superai-singapore-2027",
+    "edutech-asia-2027",
+    "black-hat-asia-2027",
+    "ieee-cai-2027",
+    "sibos-2027",
+    "superreturn-asia-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marinabaysands.com/expo-and-convention/spaces/all-venues/exhibitions-halls.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marinabaysands.com/expo-and-convention/spaces/exhibitions.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marinabaysands.com/expo-and-convention.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Halls (Level 1)",
+     "type": null,
+     "area_sqm": 14560,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: extendable Level 1 exhibition areas; hall height 9.45 m.",
+     "source_url": "https://www.marinabaysands.com/expo-and-convention/spaces/all-venues/exhibitions-halls.html"
+    },
+    {
+     "name": "Exhibition Halls (Basement 2)",
+     "type": null,
+     "area_sqm": 17190,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: six halls with movable walls.",
+     "source_url": "https://www.marinabaysands.com/expo-and-convention/spaces/all-venues/exhibitions-halls.html"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "singapore-expo",
+   "name": "Singapore EXPO",
+   "type": "exhibition_grounds",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "1 Expo Drive, Singapore 486150",
+   "lat": 1.3352329,
+   "lon": 103.9598931,
+   "url": "https://www.singaporeexpo.com.sg/",
+   "capacity": 9000,
+   "exhibition_sqm": null,
+   "halls": "Official about page: 10 halls, 32 meeting rooms and 2 concert venues across 123,000 m² of interconnected indoor and outdoor space",
+   "description": "Singapore’s largest purpose-built MICE venue, in the Changi precinct next to Expo MRT. Official hall pages give each of Halls 1–10 and Apex @ EXPO up to 10,000 m² and up to 9,000 pax (Halls 1–6: 10–16 m ceiling; Halls 7–10: 8–10 m). A combined indoor exhibition total is not published as a single official figure, and the 123,000 m² figure is stated as indoor and outdoor space, so exhibition_sqm is left null. Headline capacity_max_delegates is the official per-hall / Apex maximum of 9,000; a combined all-halls delegate total is not published. The official 2026 sales and Apex brochures are stored. The atlas event Asia Tech x Singapore 2027 is listed at Singapore EXPO (ATxEnterprise) and Capella Singapore (ATxSummit) and is linked on both records. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "fha-food-hospitality-asia-2027",
+    "asia-tech-x-singapore-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.singaporeexpo.com.sg/about-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.singaporeexpo.com.sg/venue-spaces/exhibition-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Sales-Brochure.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Apex-@-EXPO-Brochure.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halls 1–6 (each)",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: up to 10,000 sqm and up to 9,000 pax per hall; ceiling height 10–16 m.",
+     "source_url": "https://www.singaporeexpo.com.sg/venue-spaces/exhibition-halls/"
+    },
+    {
+     "name": "Halls 7–10 (each)",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: up to 10,000 sqm and up to 9,000 pax per hall; ceiling height 8–10 m.",
+     "source_url": "https://www.singaporeexpo.com.sg/venue-spaces/exhibition-halls/"
+    },
+    {
+     "name": "Apex @ EXPO",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": 9000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: plug-and-play venue for plenaries, conferences, product launches and concerts; ceiling height 10–16 m.",
+     "source_url": "https://www.singaporeexpo.com.sg/venue-spaces/exhibition-halls/"
+    },
+    {
+     "name": "Halls G, H, J (combined)",
+     "type": null,
+     "area_sqm": 302,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: available only with exhibition hall bookings; 4 m ceiling.",
+     "source_url": "https://www.singaporeexpo.com.sg/venue-spaces/exhibition-halls/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Singapore EXPO sales brochure (2026)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Sales-Brochure.pdf",
+     "href": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Sales-Brochure.pdf",
+     "local": false
+    },
+    {
+     "title": "Apex @ EXPO brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Apex-@-EXPO-Brochure.pdf",
+     "href": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Apex-@-EXPO-Brochure.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "suntec-singapore",
+   "name": "Suntec Singapore Convention & Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "1 Raffles Boulevard, Singapore 039593",
+   "lat": 1.2935198,
+   "lon": 103.8572572,
+   "url": "https://www.suntecsingapore.com/",
+   "capacity": 10000,
+   "exhibition_sqm": 12000,
+   "halls": "Official about and spaces pages: 42,000 m² of flexible event space, 36 meeting rooms on Level 3, 12,000 m² of exhibition space on Level 4, and Level 6 auditoriums plus 10,000 m² of convertible column-free exhibition space",
+   "description": "Downtown convention and exhibition centre at 1 Raffles Boulevard. Official pages state 42,000 m² of flexible event space and a capacity to host 10 to 10,000 guests. Level 4 is given as 12,000 m² of multi-purpose hall / exhibition space, which is stored as exhibition_sqm; Level 6 can be converted into 10,000 m² of column-free exhibition space and also houses an auditorium seating more than 4,200 plus an adjacent 850-seat auditorium. The spaces page also states two Level 6 auditoriums with a total capacity of 6,850 seats, which does not equal 4,200 plus 850; both official figures are noted. Headline capacity_max_delegates follows the official 10,000-guest figure. Coordinates are a Nominatim result for the named building at the official address (bus-stop pins were not used).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales@suntecsingapore.com",
+   "sources": [
+    {
+     "url": "https://www.suntecsingapore.com/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.suntecsingapore.com/floor-plans",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Level 4 exhibition / multi-purpose halls",
+     "type": null,
+     "area_sqm": 12000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official spaces page: 12,000 sqm multi-purpose hall space.",
+     "source_url": "https://www.suntecsingapore.com/floor-plans"
+    },
+    {
+     "name": "Level 6 convertible exhibition space",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official spaces page: entire floor can be converted into 10,000 sqm of column-free, high-ceiling exhibition space.",
+     "source_url": "https://www.suntecsingapore.com/floor-plans"
+    },
+    {
+     "name": "Level 6 auditorium (Halls 602-4)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 4200,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official spaces page: can seat more than 4,200 guests. The same page also states two auditoriums with a total capacity of 6,850 seats.",
+     "source_url": "https://www.suntecsingapore.com/floor-plans"
+    },
+    {
+     "name": "Level 6 multi-functional auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 850,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.suntecsingapore.com/floor-plans"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "raffles-city-convention-centre",
+   "name": "Raffles City Convention Centre",
+   "type": "convention_centre",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "80 Bras Basah Road, Singapore 189560",
+   "lat": 1.2940043,
+   "lon": 103.8539661,
+   "url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+   "capacity": 3000,
+   "exhibition_sqm": null,
+   "halls": "Official Fairmont Singapore meetings page: more than 108,000 sq ft of function space, with 34 meeting rooms and 3 ballrooms",
+   "description": "Convention centre in the Raffles City complex, presented on the official Fairmont Singapore meetings page (the centre also serves Swissôtel The Stamford in the same complex). Official figures include more than 108,000 square feet of function space, 34 meeting rooms and three ballrooms. The Fairmont Ballroom is listed at 2,257 m² and 3,000 theatre / 1,465 classroom / 1,800 banquet. Headline capacity_max_delegates is that official ballroom theatre figure. Singapore has no official government hotel star rating, so star_rating is null. Coordinates are a Nominatim result for Fairmont Singapore at the official 80 Bras Basah Road address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "singapore@fairmont.com",
+   "sources": [
+    {
+     "url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Fairmont Ballroom",
+     "type": null,
+     "area_sqm": 2257,
+     "capacity_max": null,
+     "capacity_theatre": 3000,
+     "capacity_classroom": 1465,
+     "capacity_banquet": 1800,
+     "capacity_reception": null,
+     "notes": "Official Fairmont meetings page; 6.00 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    },
+    {
+     "name": "Stamford Ballroom",
+     "type": null,
+     "area_sqm": 810,
+     "capacity_max": null,
+     "capacity_theatre": 850,
+     "capacity_classroom": 432,
+     "capacity_banquet": 480,
+     "capacity_reception": null,
+     "notes": "Official page; 4.00 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    },
+    {
+     "name": "Atrium Ballroom",
+     "type": null,
+     "area_sqm": 494,
+     "capacity_max": null,
+     "capacity_theatre": 400,
+     "capacity_classroom": 288,
+     "capacity_banquet": 320,
+     "capacity_reception": null,
+     "notes": "Official page; 2.80 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    },
+    {
+     "name": "Padang",
+     "type": null,
+     "area_sqm": 754,
+     "capacity_max": null,
+     "capacity_theatre": 900,
+     "capacity_classroom": 480,
+     "capacity_banquet": 500,
+     "capacity_reception": null,
+     "notes": "Official page; 6.00 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    },
+    {
+     "name": "Canning",
+     "type": null,
+     "area_sqm": 754,
+     "capacity_max": null,
+     "capacity_theatre": 900,
+     "capacity_classroom": 500,
+     "capacity_banquet": 480,
+     "capacity_reception": null,
+     "notes": "Official page; 6.00 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    },
+    {
+     "name": "Collyer",
+     "type": null,
+     "area_sqm": 754,
+     "capacity_max": null,
+     "capacity_theatre": 900,
+     "capacity_classroom": 500,
+     "capacity_banquet": 480,
+     "capacity_reception": null,
+     "notes": "Official page; 6.00 m height.",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "capella-singapore",
+   "name": "Capella Singapore",
+   "type": "hotel_conference_venue",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "1 The Knolls, Sentosa, Singapore 098297",
+   "lat": 1.2496982,
+   "lon": 103.8244312,
+   "url": "https://www.capellahotels.com/en/capella-singapore",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Sentosa hotel listed by the atlas as the ATxSummit venue for Asia Tech x Singapore 2027, alongside Singapore EXPO for ATxEnterprise. The event is linked here and on the Singapore EXPO record. Detailed official meeting-room capacities were not recorded in this pass, so numeric fields are left null. Singapore has no official government hotel star rating, so star_rating is null. Coordinates are a Nominatim result for the named hotel at 1 The Knolls.",
+   "photo": null,
+   "linked_event_slugs": [
+    "asia-tech-x-singapore-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.capellahotels.com/en/capella-singapore",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "las-vegas-convention-center",
+   "name": "Las Vegas Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "3150 Paradise Road, Las Vegas, NV 89109",
+   "lat": 36.1310204,
+   "lon": -115.1501804,
+   "url": "https://www.vegasmeansbusiness.com/meeting-facilities/convention-and-conference-facilities/las-vegas-convention-center/",
+   "capacity": null,
+   "exhibition_sqm": 272592,
+   "halls": "Official LVCVA page: a 4.6 million-square-foot facility with approximately 2.9 million square feet of exhibit space, 225 meeting rooms (more than 390,000 square feet), and seating capacities ranging from 20 to 2,500. The same page’s summary figure for total square feet is 2,934,153, with a largest room of 623,058 square feet",
+   "description": "The main Las Vegas convention campus, owned and operated by the Las Vegas Convention and Visitors Authority. Official text describes approximately 2.9 million square feet of exhibit space; the page also displays 2,934,153 as ‘TOTAL Sq. Ft.’ next to a 623,058-square-foot largest room, which is treated here as the official exhibit total and converted to exhibition_sqm (272,592 m²). A single official maximum delegate figure for the whole campus is not published (meeting-room seating is given as 20 to 2,500), so capacity_max_delegates is null. The atlas event Money20/20 USA 2027 is listed at the Las Vegas Convention Center and Resorts World and is linked on both records. Coordinates are the atlas precise pin. The United States has no official government hotel star-rating system; star_rating is null for all US records.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ibs-2027",
+    "kbis-2027",
+    "pack-expo-las-vegas-2027",
+    "sema-show-2027",
+    "nab-show-2027",
+    "automate-2027",
+    "money2020-usa-2027"
+   ],
+   "contact_email": "meetings@lvcva.com",
+   "sources": [
+    {
+     "url": "https://www.vegasmeansbusiness.com/meeting-facilities/convention-and-conference-facilities/las-vegas-convention-center/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://res.cloudinary.com/simpleview/image/upload/v1724280629/clients/lasvegas/LVCC_Brochure_July2024_db66b844_b86a_477a_b3ad_9e68621cf531_pages_56557153-0397-43b7-b83e-20e5f11cc4be.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Largest room (official summary)",
+     "type": null,
+     "area_sqm": 57884,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page summary figure 623,058 sq ft, converted. Individual named-hall breakdowns were not taken from the brochure map in this pass.",
+     "source_url": "https://www.vegasmeansbusiness.com/meeting-facilities/convention-and-conference-facilities/las-vegas-convention-center/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "LVCC brochure (July 2024, LVCVA)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://res.cloudinary.com/simpleview/image/upload/v1724280629/clients/lasvegas/LVCC_Brochure_July2024_db66b844_b86a_477a_b3ad_9e68621cf531_pages_56557153-0397-43b7-b83e-20e5f11cc4be.pdf",
+     "href": "https://res.cloudinary.com/simpleview/image/upload/v1724280629/clients/lasvegas/LVCC_Brochure_July2024_db66b844_b86a_477a_b3ad_9e68621cf531_pages_56557153-0397-43b7-b83e-20e5f11cc4be.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "orange-county-convention-center",
+   "name": "Orange County Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Orlando",
+   "address": "West Building, 9800 International Drive, Orlando, FL 32819 (North Building 9400 Universal Blvd; South Building 9899 International Drive)",
+   "lat": 28.4247237,
+   "lon": -81.4691963,
+   "url": "https://www.occc.net/",
+   "capacity": 2643,
+   "exhibition_sqm": 190936,
+   "halls": "Official facility-information page: 2,055,222 sq ft of exhibit space (West 1,104,940; North-South 950,282); 70 meeting rooms and 226 breakout rooms; Valencia Ballroom 62,182 sq ft; Linda W. Chapin Theater 2,643 seats",
+   "description": "Orlando’s city-owned convention centre, on International Drive and Universal Boulevard. Official facts give 2,055,222 sq ft of exhibit space (converted to 190,937 m²) and 7 million sq ft in total. Headline capacity_max_delegates is the official Linda W. Chapin Theater seating figure (2,643); a single maximum for the exhibit halls is not published. Official FAQ addresses are West 9800 International Drive, North 9400 Universal Blvd and South 9899 International Drive. Coordinates are the atlas precise pin, which matches a Nominatim result for the West Building.",
+   "photo": null,
+   "linked_event_slugs": [
+    "infocomm-2027",
+    "fetc-2027"
+   ],
+   "contact_email": "info@occc.net",
+   "sources": [
+    {
+     "url": "https://www.occc.net/About-Us/facility-information",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.occc.net/about-us-faqs",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.occc.net/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "West Building exhibit space",
+     "type": null,
+     "area_sqm": 102652,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official figure 1,104,940 sq ft.",
+     "source_url": "https://www.occc.net/About-Us/facility-information"
+    },
+    {
+     "name": "North-South Building exhibit space",
+     "type": null,
+     "area_sqm": 88284,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official figure 950,282 sq ft.",
+     "source_url": "https://www.occc.net/About-Us/facility-information"
+    },
+    {
+     "name": "Valencia Ballroom (West Building)",
+     "type": null,
+     "area_sqm": 5777,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official figure 62,182 sq ft.",
+     "source_url": "https://www.occc.net/About-Us/facility-information"
+    },
+    {
+     "name": "Linda W. Chapin Theater (West Building)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 2643,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.occc.net/About-Us/facility-information"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "mccormick-place",
+   "name": "McCormick Place",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Chicago",
+   "address": "2301 S. Martin Luther King Drive, Chicago, Illinois 60616",
+   "lat": 41.851689,
+   "lon": -87.6164754,
+   "url": "https://www.mccormickplace.com/",
+   "capacity": 18000,
+   "exhibition_sqm": null,
+   "halls": "Official floor-plans page: four buildings (West, South, North and Lakeside Center) offering 2.6 million square feet of exhibit space, 173 meeting rooms (600,000 sq ft), four ballrooms from 21,000 to 100,000 sq ft, assembly seating for 18,000, plus Wintrust Arena (10,000 seats) and Arie Crown Theater (4,192 seats)",
+   "description": "North America’s largest convention centre campus, on Chicago’s Near South Side. Official pages state 2.6 million square feet of exhibit space, including 1.2 million square feet on a single level, but do not publish a more precise integer, so exhibition_sqm is left null rather than implying false precision. Headline capacity_max_delegates is the official assembly seating figure of 18,000 (Wintrust Arena is separately given as 10,000 seats and Arie Crown Theater as 4,192). Address follows the official event listing used in the atlas. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "himss-2027",
+    "fabtech-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.mccormickplace.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mccormickplace.com/floor-plans/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Campus exhibit space (combined)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official text: 2.6 million square feet of exhibit space; 1.2 million square feet on a single level. No more precise official integer was published, so area_sqm is left null.",
+     "source_url": "https://www.mccormickplace.com/floor-plans/"
+    },
+    {
+     "name": "Wintrust Arena",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 10000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mccormickplace.com/floor-plans/"
+    },
+    {
+     "name": "Arie Crown Theater",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 4192,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mccormickplace.com/floor-plans/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "jacob-k-javits-convention-center",
+   "name": "Jacob K. Javits Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "New York City",
+   "address": "655 W. 34th Street, New York, NY 10001",
+   "lat": 40.7583595,
+   "lon": -74.0022114,
+   "url": "https://www.javitscenter.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official about page: 3.4 million total square feet across two buildings; 500,000+ square feet of contiguous exhibit space and 122 flexible meeting rooms",
+   "description": "New York’s principal convention centre on Manhattan’s West Side, operated by the New York Convention Center Operating Corporation. The official about page gives 3.4 million total square feet for the campus and more than 500,000 square feet of contiguous exhibit space, but not a precise all-halls exhibit total, so exhibition_sqm is left null. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nrf-2027",
+    "ai-summit-new-york-2026",
+    "new-york-boat-show-2027"
+   ],
+   "contact_email": "moreinfo@javitscenter.com",
+   "sources": [
+    {
+     "url": "https://www.javitscenter.com/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.javitscenter.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "moscone-center",
+   "name": "The Moscone Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "San Francisco",
+   "address": "747 Howard Street, San Francisco, CA 94103",
+   "lat": 37.7847119,
+   "lon": -122.4003108,
+   "url": "https://www.moscone.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official exhibit-halls page: three buildings offering more than 790,000 square feet of flexible exhibit space; Moscone North and South over 502,000 square feet of contiguous space (Halls A–F); Moscone West over 290,000 square feet across three levels, including 96,660 square feet of dedicated exhibit space on Level 1",
+   "description": "San Francisco’s main convention campus (Moscone North, South and West). Official pages state more than 790,000 square feet of flexible exhibit space; because the figure is not a precise integer, exhibition_sqm is left null. Atlas events at Moscone Center, Moscone North & South and Moscone West are linked here as one campus. Administrative office address is 747 Howard Street. Coordinates are the atlas precise pin for Moscone Center.",
+   "photo": null,
+   "linked_event_slugs": [
+    "dreamforce-2027",
+    "gdc-2027",
+    "snowflake-summit-2027",
+    "ai-engineer-worlds-fair-2027",
+    "stripe-sessions-2027",
+    "rsac-2027",
+    "databricks-data-ai-summit-2027"
+   ],
+   "contact_email": "Events@moscone.com",
+   "sources": [
+    {
+     "url": "https://www.moscone.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://moscone.com/exhibit-halls",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Moscone North and South (Halls A–F, combined)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: over 502,000 square feet of contiguous space.",
+     "source_url": "https://moscone.com/exhibit-halls"
+    },
+    {
+     "name": "Moscone West Level 1 dedicated exhibit space",
+     "type": null,
+     "area_sqm": 8980,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 96,660 square feet of dedicated exhibit space on Level 1. Levels 2 and 3 are each described as just 98,000 square feet of flexible space available for exhibits.",
+     "source_url": "https://moscone.com/exhibit-halls"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "georgia-world-congress-center",
+   "name": "Georgia World Congress Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Atlanta",
+   "address": "285 Andrew Young International Blvd NW, Atlanta, GA 30313",
+   "lat": 33.7607678,
+   "lon": -84.4012549,
+   "url": "https://www.gwcc.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official GWCCA venues page: more than 4 million square feet of flexible meeting and event space, including 1.5 million square feet of contiguous exhibit space; 13 exhibit halls, 98 meeting rooms, two grand ballrooms and three fixed-seat auditoriums",
+   "description": "Atlanta’s principal convention centre, operated by the Georgia World Congress Center Authority. Official text gives 1.5 million square feet of contiguous exhibit space and more than 4 million square feet of flexible meeting and event space, without a more precise exhibit integer, so exhibition_sqm is left null. The October 2025 official floor-plan booklet is stored. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "dtech-2027",
+    "neurips-2026-atlanta"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.gwcca.org/our-venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.gwcc.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "GWCC floor-plan booklet (October 2025)",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
+     "href": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "austin-convention-center",
+   "name": "Austin Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Austin",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.austinconventioncenter.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official homepage (2026): the existing facility has 365,000 square feet of rentable space and is closed for reconstruction under the UnconventionalATX project, which is planned to grow that figure to 620,000 square feet; the Palmer Events Center at 900 Barton Springs Road remains open",
+   "description": "Austin’s city convention centre. The official website states that the Austin Convention Center is closed for construction as part of a planned expansion from 365,000 to 620,000 square feet of rentable space. Those official rentable-space figures are not stored as exhibition_sqm because they are not published as exhibit-hall area, and the building is closed in 2026. No precise Nominatim pin for the closed site was recorded, so coordinates are null. SXSW and other atlas events without a published venue are not linked here.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.austinconventioncenter.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "san-diego-convention-center",
+   "name": "San Diego Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "San Diego",
+   "address": "111 W Harbor Drive, San Diego, CA 92101",
+   "lat": 32.7063756,
+   "lon": -117.1619257,
+   "url": "https://www.visitsandiego.com/meeting-planners/space",
+   "capacity": 20000,
+   "exhibition_sqm": 48839,
+   "halls": "Official exhibit-hall page: 525,701 sq ft of contiguous ground-level exhibit space, divisible into halls A–H (up to seven sections), with eight loading-dock access points",
+   "description": "San Diego’s waterfront convention centre. Official measurements give 525,701 sq ft of contiguous exhibit space (converted to 48,839 m²) for Halls A–H combined. The official seating table gives Halls A–C 20,000 theatre and Halls F–G 12,000 theatre; combined A–H theatre is listed as ‘varies’. Headline capacity_max_delegates is the largest published theatre figure (20,000 for A–C). Atlas events listed only as ‘San Diego (venue to be announced)’ are not linked. Coordinates are a Nominatim result for the named convention centre at the official address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.visitsandiego.com/meeting-planners/space/exhibit-hall",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitsandiego.com/meeting-planners/space",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halls A–H (combined)",
+     "type": null,
+     "area_sqm": 48839,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official table: 525,701 sq ft. Combined theatre/classroom/banquet listed as varies.",
+     "source_url": "https://www.visitsandiego.com/meeting-planners/space/exhibit-hall"
+    },
+    {
+     "name": "Halls A–C (combined)",
+     "type": null,
+     "area_sqm": 23164,
+     "capacity_max": null,
+     "capacity_theatre": 20000,
+     "capacity_classroom": 16936,
+     "capacity_banquet": 12640,
+     "capacity_reception": 20000,
+     "notes": null,
+     "source_url": "https://www.visitsandiego.com/meeting-planners/space/exhibit-hall"
+    },
+    {
+     "name": "Halls D–H (combined)",
+     "type": null,
+     "area_sqm": 25675,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 12770,
+     "capacity_reception": null,
+     "notes": "Official table: theatre/classroom/reception listed as varies.",
+     "source_url": "https://www.visitsandiego.com/meeting-planners/space/exhibit-hall"
+    },
+    {
+     "name": "Halls F–G (combined)",
+     "type": null,
+     "area_sqm": 10168,
+     "capacity_max": null,
+     "capacity_theatre": 12000,
+     "capacity_classroom": 8536,
+     "capacity_banquet": 5690,
+     "capacity_reception": 12000,
+     "notes": null,
+     "source_url": "https://www.visitsandiego.com/meeting-planners/space/exhibit-hall"
+    }
+   ],
+   "documents": [
+    {
+     "title": "San Diego Convention Center exhibit and meeting space measurements",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
+     "href": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "mandalay-bay-convention-center",
+   "name": "Mandalay Bay Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+   "lat": 36.0889032,
+   "lon": -115.1778099,
+   "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html",
+   "capacity": 12000,
+   "exhibition_sqm": 96901,
+   "halls": "Official facilities page and capacities guide: 2.1 million square feet of meeting and exhibit space; Level 1 Bayside Exhibition Halls 861,231 sq ft and Level 2 Shoreline Exhibit Hall 181,800 sq ft; Michelob ULTRA Arena 12,000 seats",
+   "description": "Convention centre at Mandalay Bay on the Las Vegas Strip. Official pages describe 2.1 million gross square feet of meeting and exhibit space (a combined total, not stored as exhibition_sqm). exhibition_sqm is the sum of the official exhibit-hall figures in the capacities guide: Bayside Exhibition Halls 861,231 sq ft plus Shoreline Exhibit Hall 181,800 sq ft (the facilities page also rounds Shoreline to 181,000 sq ft). Headline capacity_max_delegates is the official Michelob ULTRA Arena seating figure of 12,000; the Mandalay Bay Ballroom chart lists 9,408 theatre. Atlas events at Mandalay Bay Convention Center and Mandalay Bay, Las Vegas are linked here. Coordinates are the atlas precise pin. star_rating is null; the US has no official government hotel classification.",
+   "photo": null,
+   "linked_event_slugs": [
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "itc-vegas-2027"
+   ],
+   "contact_email": "groupleads@mandalaybay.com",
+   "sources": [
+    {
+     "url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Bayside Exhibition Halls (combined)",
+     "type": null,
+     "area_sqm": 80011,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacities guide: 861,231 sq ft, 30 ft height, 4,067 standard 10×10 booths.",
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside A",
+     "type": null,
+     "area_sqm": 4526,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside B",
+     "type": null,
+     "area_sqm": 15755,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside C",
+     "type": null,
+     "area_sqm": 16530,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside D",
+     "type": null,
+     "area_sqm": 15798,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside E",
+     "type": null,
+     "area_sqm": 13655,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Bayside F",
+     "type": null,
+     "area_sqm": 13746,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Shoreline Exhibit Hall",
+     "type": null,
+     "area_sqm": 16890,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacities guide: 181,800 sq ft, 30 ft height. The facilities webpage also describes Shoreline as 181,000 square feet.",
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Mandalay Bay Ballroom",
+     "type": null,
+     "area_sqm": 8862,
+     "capacity_max": null,
+     "capacity_theatre": 9408,
+     "capacity_classroom": 5740,
+     "capacity_banquet": 4200,
+     "capacity_reception": null,
+     "notes": "Official capacities guide: 95,388 sq ft, 30 ft height.",
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf"
+    },
+    {
+     "name": "Michelob ULTRA Arena",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 12000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facilities page: 12,000 seats, used for general sessions and entertainment.",
+     "source_url": "https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Mandalay Bay meetings capacities and dimensions guide",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
+     "href": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "venetian-convention-expo-center",
+   "name": "The Venetian Convention & Expo Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "The Venetian Resort, Las Vegas, NV",
+   "lat": 36.1217073,
+   "lon": -115.1693352,
+   "url": "https://www.venetianlasvegas.com/meetings/exhibiting.html",
+   "capacity": null,
+   "exhibition_sqm": 60907,
+   "halls": "Official renovation page: 2.25 million square feet of exhibition and meeting space. Official exhibitors FAQ: Expo Halls A–D are contiguous and combine to 655,600 square feet",
+   "description": "Convention and expo complex at The Venetian Resort Las Vegas (including Venetian Expo, formerly Sands Expo). Official pages state 2.25 million square feet of exhibition and meeting space in total; exhibition_sqm is the official contiguous Expo Halls A–D figure of 655,600 sq ft (60,907 m²), not the combined meeting-and-exhibit total. Atlas events listed at The Venetian Las Vegas and Venetian Expo are linked here as one complex. A street-level official address string beyond the resort name was not copied from the meetings homepage in this pass. Coordinates are the atlas precise pin for The Venetian Las Vegas. star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "isc-west-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.venetianlasvegas.com/meetings/exhibiting.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.venetianlasvegas.com/meetings/venetian-meetings-renovation.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.venetianlasvegas.com/meetings.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Expo Halls A–D (combined)",
+     "type": null,
+     "area_sqm": 60907,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official exhibitors FAQ: Halls A, B, C and D are contiguous and can be combined for 655,600 square feet. Floor load 250 lbs per square foot (no limit in Hall G).",
+     "source_url": "https://www.venetianlasvegas.com/meetings/exhibiting.html"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "resorts-world-las-vegas",
+   "name": "Resorts World Las Vegas",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "3000 South Las Vegas Boulevard, Las Vegas, Nevada 89109",
+   "lat": 36.1336945,
+   "lon": -115.1661576,
+   "url": "https://www.rwlasvegas.com/meeting-events/",
+   "capacity": 5000,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: over 50 multi-functional meeting rooms, six ballrooms, and 250,000 square feet for social and corporate groups; The Complex is a multi-purpose venue given as 72,000 sq ft in the heading and 70,000 sq ft of indoor event space in the body text",
+   "description": "Strip resort with a large meetings campus, including the Rose, Lily, Blossom, Jasmine, Orchid, Lotus and Perdana spaces, Resorts World Theatre and The Complex. Official pages give 250,000 square feet of meeting and event space and a theatre for 5,000 guests in 65,000 square feet; headline capacity_max_delegates is that official theatre figure. The Complex is described both as 72,000 sq ft and as 70,000 sq ft of indoor space plus an outdoor plaza, so it is not stored as a single exhibition_sqm total. The atlas event Money20/20 USA 2027 is listed at the Las Vegas Convention Center and Resorts World and is linked on both records. Coordinates are the atlas precise pin, which matches a Nominatim result for the named resort. star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "money2020-usa-2027",
+    "vmware-explore-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rwlasvegas.com/meeting-events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Resorts World Theatre",
+     "type": null,
+     "area_sqm": 6039,
+     "capacity_max": 5000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 65,000 sq ft, 5,000 guests.",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "The Complex",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page heading 72,000 sq ft; body text 70,000 sq ft of indoor event space with a large outdoor plaza. Ideal for exhibitions and trade shows.",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Rose Ballroom",
+     "type": null,
+     "area_sqm": 2172,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official body text: 23,383 sq ft, plus 13,215 sq ft Rose Pre-Function. A heading on the same page also shows 108,876 sq ft for the Rose group of spaces; the discrepancy is noted.",
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Lily Ballroom",
+     "type": null,
+     "area_sqm": 2154,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Perdana Garden",
+     "type": null,
+     "area_sqm": 3565,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Blossom Ballroom",
+     "type": null,
+     "area_sqm": 1672,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Orchid Ballroom",
+     "type": null,
+     "area_sqm": 1269,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Jasmine Ballroom",
+     "type": null,
+     "area_sqm": 1022,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    },
+    {
+     "name": "Lotus Ballroom",
+     "type": null,
+     "area_sqm": 729,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.rwlasvegas.com/meeting-events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "miami-beach-convention-center",
+   "name": "Miami Beach Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Miami Beach",
+   "address": "1901 Convention Center Drive, Miami Beach, FL 33139",
+   "lat": 25.7955257,
+   "lon": -80.133515,
+   "url": "https://www.miamibeachconvention.com/",
+   "capacity": null,
+   "exhibition_sqm": 45676,
+   "halls": "Official quick-facts page: 4 exhibition halls totalling 491,654 sq ft (45,676 m²) of configurable and contiguous space; one grand ballroom 60,979 sq ft (5,665 m²); up to 84 meeting rooms",
+   "description": "Rebuilt Miami Beach convention centre (renovation completed 2020). Official quick facts publish both imperial and metric figures: 45,676 m² of contiguous exhibit space in four halls, which is stored as exhibition_sqm, plus a 5,665 m² grand ballroom and up to 84 meeting rooms. A single official maximum delegate figure for the exhibit halls was not taken from that page. Coordinates are the atlas precise pin, which matches a Nominatim result for the named centre.",
+   "photo": null,
+   "linked_event_slugs": [
+    "consensus-2027",
+    "fintech-americas-miami-2027",
+    "miami-international-boat-show-2027",
+    "emerge-americas-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.miamibeachconvention.com/center-info/quick-facts",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.miamibeachconvention.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Halls (4 halls, combined)",
+     "type": null,
+     "area_sqm": 45676,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official quick facts: 491,654 sq ft / 45,676 m² of configurable and contiguous space.",
+     "source_url": "https://www.miamibeachconvention.com/center-info/quick-facts"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 5665,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official quick facts: 60,979 sq ft / 5,665 m².",
+     "source_url": "https://www.miamibeachconvention.com/center-info/quick-facts"
+    },
+    {
+     "name": "Grand Lobby",
+     "type": null,
+     "area_sqm": 9150,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official quick facts: 98,495 sq ft / 9,150 m², west side of the building.",
+     "source_url": "https://www.miamibeachconvention.com/center-info/quick-facts"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "los-angeles-convention-center",
+   "name": "Los Angeles Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Los Angeles",
+   "address": "1201 South Figueroa Street, Los Angeles, CA 90015",
+   "lat": 34.0414677,
+   "lon": -118.2689803,
+   "url": "https://www.lacclink.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Los Angeles’s downtown convention centre. Official street address and identity are confirmed from Nominatim for the named venue at 1201 South Figueroa Street, matching the atlas precise pin. A verified official exhibit-area total was not recorded from the official site in this pass (the homepage was not used as a source of numeric claims), so capacity and exhibition fields are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ofc-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.lacclink.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "anaheim-convention-center",
+   "name": "Anaheim Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Anaheim",
+   "address": "800 W Katella Avenue, Anaheim, California",
+   "lat": 33.8005839,
+   "lon": -117.9208047,
+   "url": "https://www.anaheimconventioncenter.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Anaheim’s convention centre, adjacent to the Disneyland Resort area. Official address 800 W Katella Avenue is used on the atlas event listing and matches a Nominatim result for the named convention centre (atlas precise pin). The official website could not be read in this pass because of a site-protection block, so capacity and exhibition figures are left null rather than taken from non-official directories.",
+   "photo": null,
+   "linked_event_slugs": [
+    "namm-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.anaheimconventioncenter.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "boston-convention-exhibition-center",
+   "name": "Boston Convention and Exhibition Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Boston",
+   "address": "415 Summer Street, Boston, MA 02210",
+   "lat": 42.3455917,
+   "lon": -71.0463275,
+   "url": "https://www.signatureboston.com/bcec",
+   "capacity": null,
+   "exhibition_sqm": 47938,
+   "halls": "Official Signature Boston page: 516,000 square feet of contiguous, nearly column-free exhibit space, 82 meeting rooms, and a grand ballroom of 40,020 square feet, within 2.1 million square feet of space",
+   "description": "Boston’s Seaport convention centre, operated as part of the Massachusetts Convention Center Authority / Signature Boston campus (the official site also refers to it as MCEC). Official figures give 516,000 sq ft of contiguous exhibit space (converted to 47,938 m²) and an 82-room meeting programme. The 2.1 million square feet figure is a building total, not stored as exhibition_sqm. Coordinates are the atlas precise pin, which matches a Nominatim result for the named exhibition centre at 415 Summer Street.",
+   "photo": null,
+   "linked_event_slugs": [
+    "atd-2027",
+    "red-hat-summit-2027"
+   ],
+   "contact_email": "sales@signatureboston.com",
+   "sources": [
+    {
+     "url": "https://www.signatureboston.com/bcec",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibit space (contiguous)",
+     "type": null,
+     "area_sqm": 47938,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 516,000 square feet of contiguous, nearly column-free exhibit space.",
+     "source_url": "https://www.signatureboston.com/bcec"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 3718,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 40,020-square-foot Grand Ballroom overlooking the Boston Seaport. Another summary on the same site rounds the ballroom to 40,000 square feet.",
+     "source_url": "https://www.signatureboston.com/bcec"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "music-city-center",
+   "name": "Music City Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Nashville",
+   "address": "201 Rep. John Lewis Way South, Nashville, TN 37203",
+   "lat": 36.156843,
+   "lon": -86.7784512,
+   "url": "https://www.nashvillemusiccitycenter.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official about page: a 2.1 million square foot convention center with more than 353,000 square feet of exhibit hall space, two ballrooms, 60 meeting rooms and a 1,800-space covered parking garage",
+   "description": "Nashville’s downtown convention centre. Official text gives more than 353,000 square feet of exhibit hall space, without a more precise integer, so exhibition_sqm is left null. Coordinates are the atlas precise pin, which matches a Nominatim result for the named building.",
+   "photo": null,
+   "linked_event_slugs": [
+    "bitcoin-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.nashvillemusiccitycenter.com/about/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.nashvillemusiccitycenter.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "phoenix-convention-center",
+   "name": "Phoenix Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Phoenix",
+   "address": "100 North Third Street, Phoenix, AZ 85004",
+   "lat": 33.4493358,
+   "lon": -112.0693831,
+   "url": "https://www.phoenixconventioncenter.com/",
+   "capacity": null,
+   "exhibition_sqm": 54302,
+   "halls": "Official facility guide (June 2026 footer): 584,500 sq ft of exhibition space, 99 meeting rooms, three carpeted ballrooms, an 80,000 sq ft outdoor Canyon on Third, and a 200-seat lecture hall",
+   "description": "Downtown Phoenix convention centre, with North, South and West buildings. The official facility guide gives 584,500 sq ft of exhibition space (converted to 54,302 m²) and nearly one million square feet of rentable meeting and exhibition space on a campus of more than two million square feet. Coordinates are the atlas precise pin, which matches a Nominatim result for the named centre.",
+   "photo": null,
+   "linked_event_slugs": [
+    "semicon-west-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.phoenixconventioncenter.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition space (combined)",
+     "type": null,
+     "area_sqm": 54302,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facility guide at-a-glance: 584,500 sf exhibition space.",
+     "source_url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf"
+    },
+    {
+     "name": "Canyon on Third (outdoor)",
+     "type": null,
+     "area_sqm": 7432,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facility guide: 80,000 sf outdoor event space.",
+     "source_url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf"
+    },
+    {
+     "name": "Lecture hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 200,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Phoenix Convention Center facility guide",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf",
+     "href": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "walter-e-washington-convention-center",
+   "name": "Walter E. Washington Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Washington",
+   "address": "801 Allen Y. Lew Place NW, Washington, DC 20001",
+   "lat": 38.9051269,
+   "lon": -77.0229544,
+   "url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+   "capacity": 42000,
+   "exhibition_sqm": 65311,
+   "halls": "Official Events DC fact sheet: 2.3 million-square-foot facility with 703,000 square feet of exhibit space and 52,000 square feet of ballroom space, for events of 500 to 42,000 attendees",
+   "description": "Washington, D.C.’s principal convention centre, operated by Events DC. Official facts give 703,000 sq ft of exhibit space (converted to 65,311 m²). Headline capacity_max_delegates is the official upper figure of 42,000 attendees. Events DC lists the current address as 801 Allen Y. Lew Place NW, with a former address of 801 Mount Vernon Place NW. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "afp-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://eventsdc.com/venue/walter-e-washington-convention-center/fact-sheet",
+     "label": "Official source"
+    },
+    {
+     "url": "https://eventsdc.com/venue/walter-e-washington-convention-center",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibit space (combined)",
+     "type": null,
+     "area_sqm": 65311,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official fact sheet: 703,000 square feet of exhibit space.",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center/fact-sheet"
+    },
+    {
+     "name": "Ballroom space (combined)",
+     "type": null,
+     "area_sqm": 4831,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official fact sheet: 52,000 square feet of ballroom space.",
+     "source_url": "https://eventsdc.com/venue/walter-e-washington-convention-center/fact-sheet"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "long-beach-convention-and-entertainment-center",
+   "name": "Long Beach Convention and Entertainment Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Long Beach",
+   "address": "300 East Ocean Boulevard, Long Beach, CA 90802",
+   "lat": 33.7647297,
+   "lon": -118.1906881,
+   "url": "https://www.longbeachcc.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Long Beach’s convention and entertainment campus. Official website and a Nominatim result for the named building at 300 East Ocean Boulevard confirm the venue; the atlas precise pin matches that result. A verified official exhibit-area total was not extracted from the homepage in this pass, so numeric fields are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "pycon-us-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.longbeachcc.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "nrg-park",
+   "name": "NRG Park",
+   "type": "exhibition_grounds",
+   "country": "United States",
+   "cc": "US",
+   "city": "Houston",
+   "address": "1 Braeswood, Houston, TX 77054",
+   "lat": 29.6842785,
+   "lon": -95.4094315,
+   "url": "https://www.nrgpark.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Campus including NRG Center, NRG Stadium, NRG Arena and NRG Astrodome (official site)",
+   "description": "Houston exhibition and events campus (formerly Reliant Park), listed in the atlas as the venue for the Offshore Technology Conference. Official website and a Nominatim result for the named civic campus confirm the location (atlas precise pin). A verified official exhibit-area total for NRG Center was not extracted from the homepage in this pass, so exhibition_sqm is left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "otc-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.nrgpark.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "donald-e-stephens-convention-center",
+   "name": "Donald E. Stephens Convention Center",
+   "type": "convention_centre",
+   "country": "United States",
+   "cc": "US",
+   "city": "Rosemont",
+   "address": "5555 North River Road, Rosemont, IL 60018",
+   "lat": 41.9789691,
+   "lon": -87.8606857,
+   "url": "https://www.rosemont.com/convention-center/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Rosemont, Illinois convention centre, listed in the atlas as the venue for the Chicago Boat Show. Address and coordinates are a Nominatim result for the named conference centre at 5555 North River Road, matching the atlas precise pin (a bus-stop pin at the same name was not used). Official exhibit-area figures were not recorded in this pass after the convention-centre page failed to load, so numeric fields are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "chicago-boat-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rosemont.com/convention-center/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "gaylord-national-resort",
+   "name": "Gaylord National Resort & Convention Center",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "National Harbor",
+   "address": "201 Waterfront Street, National Harbor, MD 20745",
+   "lat": 38.7809181,
+   "lon": -77.0177582,
+   "url": "https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Convention resort at National Harbor, Maryland, listed in the atlas as the venue for Nacha Smarter Faster Payments 2027. Address and coordinates are a Nominatim result for the named hotel. Official meeting-room capacities were not recorded from the Marriott events page in this pass, so numeric fields are left null. star_rating is null; the US has no official government hotel classification, and Forbes or AAA ratings were not used.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nacha-smarter-faster-payments-2027",
+    "gartner-security-risk-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "signia-hilton-diplomat-beach-resort",
+   "name": "Signia by Hilton Diplomat Beach Resort",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Hollywood",
+   "address": "3555 South Ocean Drive, Hollywood, FL 33019",
+   "lat": 25.9917572,
+   "lon": -80.1179109,
+   "url": "https://www.hilton.com/en/hotels/flldhsa-signia-diplomat-beach-resort/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Beachfront convention resort in Hollywood, Florida, listed in the atlas as the venue for SuperReturn North America 2027. Address and coordinates are a Nominatim result for the named hotel. Official meeting-room capacities were not recorded from the Hilton events page in this pass, so numeric fields are left null. star_rating is null; the US has no official government hotel classification.",
+   "photo": null,
+   "linked_event_slugs": [
+    "superreturn-north-america-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hilton.com/en/hotels/flldhsa-signia-diplomat-beach-resort/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "four-seasons-jackson-hole",
+   "name": "Four Seasons Resort and Residences Jackson Hole",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Teton Village",
+   "address": "7680 Granite Loop Road, Teton Village, WY 83025",
+   "lat": 43.5894289,
+   "lon": -110.8271434,
+   "url": "https://www.fourseasons.com/jacksonhole/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Resort hotel in Teton Village, listed in the atlas as the venue for the SALT Wyoming Frontier Forum 2027. Address and coordinates are a Nominatim result for the named hotel. Official meeting-room capacities were not recorded from the Four Seasons events page in this pass, so numeric fields are left null. star_rating is null; the US has no official government hotel classification.",
+   "photo": null,
+   "linked_event_slugs": [
+    "salt-wyoming-frontier-forum-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fourseasons.com/jacksonhole/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   }
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 1309,
+  "conference": 1321,
   "festival": 1499,
   "sports": 203,
-  "dated": 2472,
+  "dated": 2484,
   "dates_tba": 536,
   "postponed": 3,
   "duplicates_merged": 268,
   "regions": {
    "europe": 1351,
-   "middle_east": 151,
-   "asia": 503,
+   "middle_east": 156,
+   "asia": 508,
    "africa": 146,
    "uae": 118,
-   "oceania": 158,
+   "oceania": 160,
    "north_america": 378,
    "south_america": 206
   },
-  "expo": 152,
+  "expo": 164,
   "hotels": 42,
-  "venues": 129,
+  "venues": 168,
   "europe": 1351,
-  "middle_east": 151,
-  "asia": 503,
+  "middle_east": 156,
+  "asia": 508,
   "africa": 146,
   "uae": 118,
-  "oceania": 158,
+  "oceania": 160,
   "north_america": 378,
   "south_america": 206
  }
