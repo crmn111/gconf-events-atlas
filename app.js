@@ -7,6 +7,7 @@ const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<'
 const CAT_CONF = {ai:'AI', tech:'Tech', crypto:'Crypto / Web3', education:'Education', finance:'Finance', yachting:'Boat & Yacht', meetup:'Meetups'};
 const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:'Culture', other:'Other'};
 const CAT_SPORTS = {motorsport:'Motorsport', tennis:'Tennis', football:'Football', golf:'Golf', other:'Other Sports'};
+const CAT_EXPO = {expo:'Expos'};
 const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 
@@ -86,6 +87,7 @@ function evKind(e){
   const k = String(e && e.kind || '').toLowerCase();
   if(k==='festival' || k==='festivals' || k==='fest') return 'festival';
   if(k==='sports' || k==='sport' || k==='sporting') return 'sports';
+  if(String(e && e.category || '').toLowerCase()==='expo' || k==='expo' || k==='expos') return 'expo';
   return 'conference';
 }
 function evRegion(e){
@@ -126,6 +128,7 @@ function catDict(kind){
   kind = kind||st.kind;
   if(kind==='festival') return CAT_FEST;
   if(kind==='sports') return CAT_SPORTS;
+  if(kind==='expo') return CAT_EXPO;
   return CAT_CONF;
 }
 function catKeys(kind){
@@ -471,6 +474,117 @@ EV.forEach(e => {
   markers[e.slug] = mk;
 });
 
+/* ---------- hotels (map layer only; never in lists/counts) ---------- */
+const HOTELS = (D.hotels||[]).filter(h => h && (h.lat!=null) && (h.lon!=null || h.lng!=null) && (h.event_slugs||[]).length);
+let hotelLayer = null;
+let HOTELS_ON = true;
+
+function hotelsForSlug(slug){
+  if(!slug) return [];
+  return HOTELS.filter(h => (h.event_slugs||[]).includes(slug));
+}
+function fmtHotelPrice(h){
+  const pr = h && h.price || {};
+  if(pr.amount==null || pr.amount==='') return '';
+  const n = Number(pr.amount);
+  if(!isFinite(n)) return '';
+  const num = n===Math.floor(n) ? n.toLocaleString('en-GB') : n.toLocaleString('en-GB', {minimumFractionDigits:2, maximumFractionDigits:2});
+  const cur = pr.currency||'';
+  if(cur==='EUR') return '€'+num;
+  if(cur==='USD') return '$'+num;
+  if(cur==='GBP') return '£'+num;
+  return (num+' '+cur).trim();
+}
+function hotelIcon(h){
+  const stars = h.stars===5 ? 5 : 4;
+  const price = fmtHotelPrice(h);
+  const w = Math.max(36, price ? 8+price.length*6.2 : 36);
+  const ht = price ? 40 : 26;
+  return L.divIcon({
+    className:'hk-icon',
+    html:`<div class="hk ${stars===5?'five':'four'}"><span class="hk-star">${stars}★</span>${price?`<span class="hk-price">${esc(price)}</span>`:''}</div>`,
+    iconSize:L.point(Math.ceil(w), ht),
+    iconAnchor:L.point(Math.round(w/2), ht)
+  });
+}
+function hotelPopup(h){
+  const stars = h.stars===5 ? 5 : 4;
+  const dist = h.distance_km;
+  let distLab = '';
+  if(dist!=null && isFinite(Number(dist))){
+    const d = Number(dist);
+    distLab = d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
+  }
+  const price = fmtHotelPrice(h);
+  const asof = h.price && h.price.as_of;
+  const priceLab = price ? (price+(asof ? ' (as of '+asof+')' : '')) : '';
+  const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
+  return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
+    <p class="hk-meta">${stars}★ hotel</p>
+    ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
+    ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
+    ${priceLab?`<p class="hk-meta">${esc(priceLab)}</p>`:''}
+    ${link}</div>`;
+}
+function openEventSlug(){
+  const m = (location.hash||'').match(/event\/([^/]+)/);
+  if(m) return decodeURIComponent(m[1]);
+  if(typeof PLAY!=='undefined' && PLAY.on && PLAY.list && PLAY.list[PLAY.i]) return PLAY.list[PLAY.i].slug;
+  return null;
+}
+function syncHotelLayer(){
+  if(hotelLayer && map.hasLayer(hotelLayer)) map.removeLayer(hotelLayer);
+  hotelLayer = L.layerGroup();
+  const hasAny = HOTELS.length>0;
+  const wrap = $('#hotels-toggle');
+  const btn = $('#hotels-btn');
+  if(wrap) wrap.hidden = !hasAny;
+  if(btn){
+    btn.setAttribute('aria-pressed', (HOTELS_ON && hasAny)?'true':'false');
+    btn.classList.toggle('on', !!(HOTELS_ON && hasAny));
+  }
+  const wrapEl = $('#mapwrap');
+  const onMap = !!(wrapEl && !wrapEl.classList.contains('timeline-on') && !wrapEl.classList.contains('grid-on'));
+  if(!hasAny || !HOTELS_ON || !onMap) return;
+  const slug = openEventSlug();
+  if(!slug) return;
+  hotelsForSlug(slug).forEach(h => {
+    const lat = h.lat, lon = (h.lon!=null?h.lon:h.lng);
+    if(lat==null || lon==null) return;
+    const mk = L.marker([lat, lon], {icon:hotelIcon(h), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
+    mk.bindPopup(hotelPopup(h), {className:'ppop', maxWidth:280});
+    const tip = [h.name, (h.stars===5?'5★':'4★'), fmtHotelPrice(h)].filter(Boolean).join(' · ');
+    mk.bindTooltip(tip, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-12]});
+    hotelLayer.addLayer(mk);
+  });
+  if(hotelLayer.getLayers().length) map.addLayer(hotelLayer);
+}
+function hotelsSectionHtml(e){
+  const list = hotelsForSlug(e && e.slug);
+  if(!list.length) return '';
+  const items = list.map(h => {
+    const stars = h.stars===5 ? 5 : 4;
+    const dist = h.distance_km;
+    let distLab = '';
+    if(dist!=null && isFinite(Number(dist))){
+      const d = Number(dist);
+      distLab = d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
+    }
+    const price = fmtHotelPrice(h);
+    const asof = h.price && h.price.as_of;
+    const priceLab = price ? (price+(asof ? ' (as of '+asof+')' : '')) : '';
+    const name = h.url ? `<a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name||'Hotel')}</a>` : esc(h.name||'Hotel');
+    const meta = [h.address, distLab, priceLab].filter(Boolean).join(' · ');
+    return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
+  }).join('');
+  return `<div class="dsec hotels"><h4>Hotels</h4><ul>${items}</ul></div>`;
+}
+(function bindHotelsToggle(){
+  const btn = $('#hotels-btn');
+  if(!btn) return;
+  btn.onclick = () => { HOTELS_ON = !HOTELS_ON; syncHotelLayer(); };
+})();
+
 /* ---------- filters ---------- */
 const PS = [0,50,100,150,200,250,350,500,750,1000,1500,2000,2500,3000,5000,10000,Infinity];
 const PT = PS.length-1;
@@ -499,11 +613,21 @@ const st = {
 };
 try{
   const k = localStorage.getItem('gconf-atlas-kind');
-  if(k==='festival'||k==='conference'||k==='sports') st.kind = k;
+  if(k==='festival'||k==='conference'||k==='sports'||k==='expo') st.kind = k;
 }catch(_){}
 
 function kindPool(){
   return EV.filter(e => evKind(e)===st.kind && (st.region==='all' || evRegion(e)===st.region));
+}
+function countryList(){
+  const pool = kindPool();
+  const map = new Map();
+  pool.forEach(e => {
+    const name = (e.country && String(e.country).trim()) || 'TBA';
+    if(!map.has(name)) map.set(name, {name, n:0});
+    map.get(name).n++;
+  });
+  return [...map.values()].sort((a,b)=>a.name.localeCompare(b.name));
 }
 function cityList(){
   const pool = kindPool().filter(e => !st.country || placeSlug(e.country)===placeSlug(st.country));
@@ -545,10 +669,11 @@ function updateKindbar(){
     b.classList.toggle('on', on);
     b.setAttribute('aria-selected', on?'true':'false');
   });
-  const nc = $('#kind-n-conference'), nf = $('#kind-n-festival'), ns = $('#kind-n-sports');
+  const nc = $('#kind-n-conference'), nf = $('#kind-n-festival'), ns = $('#kind-n-sports'), ne = $('#kind-n-expo');
   if(nc) nc.textContent = EV.filter(e => evKind(e)==='conference').length;
   if(nf) nf.textContent = EV.filter(e => evKind(e)==='festival').length;
   if(ns) ns.textContent = EV.filter(e => evKind(e)==='sports').length;
+  if(ne) ne.textContent = EV.filter(e => evKind(e)==='expo').length;
   const app = $('#app');
   if(app) app.dataset.kind = st.kind;
 }
@@ -557,7 +682,7 @@ function updateRegionChrome(){
   $$('#regions button').forEach(b => b.classList.toggle('on', st.region!=='all' && b.dataset.r===st.region));
 }
 function setKind(k){
-  if(k!=='festival' && k!=='sports') k='conference';
+  if(k!=='festival' && k!=='sports' && k!=='expo') k='conference';
   if(st.kind===k) return;
   st.kind = k;
   st.cities.clear();
@@ -568,11 +693,15 @@ function setKind(k){
   if(st.region!=='all' && !EV.some(e => evKind(e)===k && evRegion(e)===st.region)){
     st.region = 'all';
   }
+  if(st.country && !kindPool().some(e => placeSlug(e.country)===placeSlug(st.country))){
+    st.country = null;
+  }
   try{ localStorage.setItem('gconf-atlas-kind', k); }catch(_){}
   updateKindbar();
   updateRegionChrome();
   renderCatChips();
   renderTopics();
+  renderCountries();
   renderCities();
   renderLegend();
   render();
@@ -593,7 +722,7 @@ function setRegion(r, opts){
   st.region = r;
   if(changed){ st.cities.clear(); st.topics.clear(); st.country = null; }
   updateRegionChrome();
-  if(changed){ renderCities(); renderTopics(); render(); }
+  if(changed){ renderCountries(); renderCities(); renderTopics(); render(); }
   if(opts.fit!==false) fitToVisible();
 }
 
@@ -685,10 +814,85 @@ function renderCities(){
     const countries = new Set([...st.cities].map(key => (key.split('|')[1]||'').trim()).filter(Boolean));
     if(countries.size===1) st.country = [...countries][0];
     else if(countries.size>1) st.country = null;
-    renderCities(); render();
+    renderCountries(); renderCities(); render();
   });
 }
 $('#f-cityq').oninput = e => { st.cityq = e.target.value.trim().toLowerCase(); renderCities(); };
+
+function setCountry(name, opts){
+  opts = opts||{};
+  const next = name ? String(name) : null;
+  const changed = (st.country||'') !== (next||'');
+  st.country = next;
+  if(changed) st.cities.clear();
+  closeCountryPop();
+  renderCountries();
+  renderCities();
+  if(opts.render!==false){ render(); if(opts.fit!==false) fitToVisible(); }
+}
+function countryLabelText(){
+  return st.country || 'All countries';
+}
+function closeCountryPop(){
+  const pop = $('#f-country-pop');
+  const btn = $('#f-country-btn');
+  if(pop) pop.hidden = true;
+  if(btn) btn.setAttribute('aria-expanded','false');
+}
+function openCountryPop(){
+  const pop = $('#f-country-pop');
+  const btn = $('#f-country-btn');
+  const q = $('#f-countryq');
+  if(!pop||!btn) return;
+  pop.hidden = false;
+  btn.setAttribute('aria-expanded','true');
+  renderCountryOptions();
+  if(q){ q.focus(); q.select(); }
+}
+function renderCountryOptions(){
+  const box = $('#f-country-list');
+  if(!box) return;
+  const q = (($('#f-countryq')&&$('#f-countryq').value)||'').trim().toLowerCase();
+  const list = countryList().filter(c => !q || c.name.toLowerCase().includes(q));
+  const allOn = !st.country;
+  const items = [`<li><button type="button" role="option" data-v="" class="${allOn?'on':''}" aria-selected="${allOn?'true':'false'}">All countries</button></li>`]
+    .concat(list.map(c => {
+      const on = !!(st.country && placeSlug(st.country)===placeSlug(c.name));
+      return `<li><button type="button" role="option" data-v="${esc(c.name)}" class="${on?'on':''}" aria-selected="${on?'true':'false'}">${esc(c.name)} <span class="n">${c.n}</span></button></li>`;
+    }));
+  box.innerHTML = items.join('') || `<li><button type="button" disabled>No countries match</button></li>`;
+  $$('#f-country-list button[data-v]').forEach(b => {
+    b.onclick = () => setCountry(b.dataset.v || null);
+  });
+}
+function renderCountries(){
+  const lab = $('#f-country-label');
+  if(lab) lab.textContent = countryLabelText();
+  const btn = $('#f-country-btn');
+  if(btn) btn.title = countryLabelText();
+  const pop = $('#f-country-pop');
+  if(pop && !pop.hidden) renderCountryOptions();
+}
+(function bindCountryBox(){
+  const btn = $('#f-country-btn');
+  const pop = $('#f-country-pop');
+  const q = $('#f-countryq');
+  if(!btn || !pop) return;
+  btn.onclick = ev => {
+    ev.preventDefault();
+    if(pop.hidden) openCountryPop(); else closeCountryPop();
+  };
+  if(q) q.oninput = () => renderCountryOptions();
+  document.addEventListener('click', ev => {
+    const box = $('#f-countrybox');
+    if(!box || pop.hidden) return;
+    if(!box.contains(ev.target)) closeCountryPop();
+  });
+  document.addEventListener('keydown', ev => {
+    if(ev.key==='Escape' && pop && !pop.hidden){ closeCountryPop(); btn.focus(); }
+  });
+})();
+
 
 st.cats = Object.fromEntries(catKeys(st.kind).map(c => [c, true]));
 updateKindbar();
@@ -730,6 +934,7 @@ function renderTopics(){
   });
 }
 
+renderCountries();
 renderCities();
 renderTopics();
 
@@ -934,7 +1139,9 @@ function emptyMessage(){
       ? 'Festival listings are still being compiled.'
       : st.kind==='sports'
         ? 'Sports listings are still being compiled.'
-        : 'No upcoming events have been published yet. The research feed is still being compiled.';
+        : st.kind==='expo'
+          ? 'Expo listings are still being compiled.'
+          : 'No upcoming events have been published yet. The research feed is still being compiled.';
   }
   if(st.region!=='all' && !kindAll.some(e => evRegion(e)===st.region)){
     return 'No '+regionLabel(st.region)+' listings have been published yet for this view.';
@@ -1065,7 +1272,8 @@ function viewEvent(e){
   const srcSec = `<div class="dsec"><h4>Sources</h4>${srcs?`<ul class="src-list">${srcs}</ul>`:'<p>No source URLs were attached to this record.</p>'}${e.website_url?`<p style="margin-top:10px"><a class="btn cyan block" href="${esc(e.website_url)}" target="_blank" rel="noopener">Visit event website ↗</a></p>`:''}</div>`;
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
   const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt="GConf"><img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""></a></p>`;
-  return close + gal + hero + facts + about + claim + srcSec + views + powered;
+  const hotels = (typeof hotelsSectionHtml==='function') ? hotelsSectionHtml(e) : '';
+  return close + gal + hero + facts + about + hotels + claim + srcSec + views + powered;
 }
 
 function detailPane(root){
@@ -1176,10 +1384,13 @@ function resetAtlasFilters(){
   const unk = $('#f-unknown'); if(unk) unk.checked = true;
   if(typeof setP==='function') try{ setP(0, PT); }catch(_){ }
   st.cats = Object.fromEntries(catKeys(st.kind).map(c => [c, true]));
+  const coq = $('#f-countryq'); if(coq) coq.value='';
+  closeCountryPop();
   updateKindbar();
   updateRegionChrome();
   renderCatChips();
   renderTopics();
+  renderCountries();
   renderCities();
   renderLegend();
   render();
@@ -1242,6 +1453,7 @@ function filtersHash(v){
   const oneCat = selectedCat(st.kind);
   if(st.kind==='festival') parts.push('festivals');
   else if(st.kind==='sports') parts.push('sports');
+  else if(st.kind==='expo') parts.push('expos');
   else if(oneCat==='meetup' && st.kind==='conference') parts.push('meetups');
   else if(st.kind==='conference' && oneCat){ parts.push('conferences'); parts.push(oneCat); }
   else if(st.kind==='conference' && !oneCat && !allCatsOn('conference')) parts.push('conferences');
@@ -1278,15 +1490,16 @@ function parseFilterHash(hash){
     if(tokens[i]==='country'){ /* place only */ }
     else { out.bare = tokens.slice(i).length===0; return out; }
   }
-  const kinds = {conferences:'conference', conference:'conference', meetups:'conference', meetup:'conference', festivals:'festival', festival:'festival', sports:'sports', sport:'sports'};
+  const kinds = {conferences:'conference', conference:'conference', meetups:'conference', meetup:'conference', festivals:'festival', festival:'festival', sports:'sports', sport:'sports', expos:'expo', expo:'expo'};
   if(i<tokens.length && kinds[tokens[i]]){
     out.kind = kinds[tokens[i]];
     out.explicitKind = true;
     out.bare = false;
     if(tokens[i]==='meetups' || tokens[i]==='meetup') out.cat = 'meetup';
+    if(tokens[i]==='expos' || tokens[i]==='expo') out.cat = 'expo';
     i++;
   }
-  const allCats = Object.assign({}, CAT_CONF, (typeof CAT_FEST!=='undefined'?CAT_FEST:{}), (typeof CAT_SPORTS!=='undefined'?CAT_SPORTS:{}));
+  const allCats = Object.assign({}, CAT_CONF, (typeof CAT_FEST!=='undefined'?CAT_FEST:{}), (typeof CAT_SPORTS!=='undefined'?CAT_SPORTS:{}), (typeof CAT_EXPO!=='undefined'?CAT_EXPO:{}));
   if(i<tokens.length && allCats[tokens[i]] && tokens[i]!=='country'){
     out.cat = tokens[i];
     out.explicitKind = true;
@@ -1449,6 +1662,7 @@ function setMainView(v){
     if(side && !GRID.min) side.classList.remove('collapsed');
   }
   if(typeof placeTimelineFilters==='function') placeTimelineFilters(v);
+  if(typeof syncHotelLayer==='function') syncHotelLayer();
   return was!==v;
 }
 let gridThumbObs = null;
@@ -1579,6 +1793,7 @@ function tlIcon(cat){
   if(cat==='finance') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><rect x="14" y="10" width="20" height="28" rx="2" fill="none" stroke="#3ECFC8" stroke-width="2.2"/><path stroke="#3ECFC8" stroke-width="2" d="M18 20h12M18 26h12M18 32h8"/></svg>`;
   if(cat==='yachting') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#5BA3E0" stroke-width="2.2" d="M24 8v22L10 30h28L24 30"/><path fill="none" stroke="#5BA3E0" stroke-width="2" d="M8 36c4 4 28 4 32 0"/></svg>`;
   if(cat==='meetup') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="18" cy="18" r="5" fill="none" stroke="#F07AA8" stroke-width="2.2"/><circle cx="30" cy="18" r="5" fill="none" stroke="#F07AA8" stroke-width="2.2"/><path fill="none" stroke="#F07AA8" stroke-width="2.2" d="M10 34c2-6 8-8 8-8s6 2 8 8M22 34c2-6 8-8 8-8s4 1.4 6 5"/></svg>`;
+  if(cat==='expo') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><path fill="none" stroke="#E0703A" stroke-width="2.2" d="M8 34V18l16-8 16 8v16"/><path fill="none" stroke="#E0703A" stroke-width="2" d="M16 34V22h16v12M24 22v12"/></svg>`;
   if(cat==='motorsport') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="14" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><circle cx="34" cy="32" r="6" fill="none" stroke="#FF6B5A" stroke-width="2.2"/><path fill="none" stroke="#FF6B5A" stroke-width="2.2" d="M10 32 16 18h14l8 14M20 18l-2-6h8"/></svg>`;
   if(cat==='tennis') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#E6D84A" stroke-width="2.2"/><path fill="none" stroke="#E6D84A" stroke-width="2" d="M16 16c8 4 8 12 0 16M32 16c-8 4-8 12 0 16"/></svg>`;
   if(cat==='football') return `<svg class="tl-ico" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="12" fill="none" stroke="#4ECF70" stroke-width="2.2"/><path fill="none" stroke="#4ECF70" stroke-width="2" d="M24 12v24M14 20h20M16 30h16"/></svg>`;
@@ -2824,6 +3039,7 @@ function route(){
         updateRegionChrome();
         renderCatChips();
         renderTopics();
+        renderCountries();
         renderCities();
         renderLegend();
       }
@@ -2832,6 +3048,7 @@ function route(){
       HASH_APPLYING = false;
     }
     if(typeof syncHash==='function') syncHash();
+    if(typeof syncHotelLayer==='function') syncHotelLayer();
     return;
   }
   const slug = decodeURIComponent(m[1]);
@@ -2855,6 +3072,7 @@ function route(){
     setTimeout(panForOpenPopup, 320);
   }
   if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
+  if(typeof syncHotelLayer==='function') syncHotelLayer();
 }
 
 function closePrivacy(){ $('#privacy').classList.remove('open'); $('#privacy').setAttribute('aria-hidden','true'); }

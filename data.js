@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T07:17:55Z",
+ "generated": "2026-11-24T07:38:25Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -223725,6 +223725,7 @@ window.ATLASDATA={
    "photoCredit": ""
   }
  ],
+ "hotels": [],
  "sourceMissing": [],
  "counts": {
   "conference": 1157,
@@ -223744,6 +223745,8 @@ window.ATLASDATA={
    "north_america": 366,
    "south_america": 203
   },
+  "expo": 0,
+  "hotels": 0,
   "europe": 1247,
   "middle_east": 147,
   "asia": 477,

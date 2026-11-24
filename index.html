@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
 
+
+
+
 <!-- atlas-seo:start -->
 <title>GConf Events Atlas · Conferences, meetups, festivals and sports worldwide</title>
 <meta name="description" content="A cited map of 2,859 upcoming conferences, community meetups, festivals and sports across Europe, the UAE, the Middle East, North America, South America, Asia, Oceania and Africa. Built by GConf AI.">
@@ -31,7 +34,7 @@
 <link rel="stylesheet" href="vendor/maplibre-gl.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.css">
 <link rel="stylesheet" href="vendor/MarkerCluster.Default.css">
-<link rel="stylesheet" href="style.css?v=202611240818">
+<link rel="stylesheet" href="style.css?v=202611240838">
 <link rel="icon" href="img/brand/gconf-mark-lime.svg" type="image/svg+xml">
 </head>
 <body>
@@ -41,9 +44,16 @@
   <a href="conferences/">Conferences (1074)</a>,
   <a href="meetups/">Meetups (83)</a>,
   <a href="festivals/">Festivals (1499)</a>,
-  <a href="sports/">Sports (203)</a>.</p>
+  <a href="sports/">Sports (203)</a>,
+  <a href="expos/">Expos (0)</a>.</p>
 </noscript>
 <!-- atlas-seo-noscript:end -->
+
+
+
+
+
+
 
 
 
@@ -71,6 +81,7 @@
       <button type="button" role="tab" data-k="conference" class="on" aria-selected="true">Conferences <small id="kind-n-conference"></small></button>
       <button type="button" role="tab" data-k="festival" aria-selected="false">Festivals <small id="kind-n-festival"></small></button>
       <button type="button" role="tab" data-k="sports" aria-selected="false">Sports <small id="kind-n-sports"></small></button>
+      <button type="button" role="tab" data-k="expo" aria-selected="false">Expos <small id="kind-n-expo"></small></button>
     </div>
     <div class="stats" id="stats"></div>
     <div class="sidetop">
@@ -82,6 +93,19 @@
         <label>Region</label>
         <div class="chips" id="f-region">
           <button type="button" data-r="all" class="on">All regions</button>
+        </div>
+      </div>
+      <div class="frow" id="f-country-row">
+        <label for="f-country-btn">Country</label>
+        <div class="countrybox" id="f-countrybox">
+          <button type="button" class="country-toggle" id="f-country-btn" aria-haspopup="listbox" aria-expanded="false" aria-controls="f-country-list">
+            <span id="f-country-label">All countries</span>
+            <span class="country-caret" aria-hidden="true">▾</span>
+          </button>
+          <div class="country-pop" id="f-country-pop" hidden>
+            <input type="search" id="f-countryq" placeholder="Search countries…" autocomplete="off" aria-label="Search countries">
+            <ul class="country-list" id="f-country-list" role="listbox"></ul>
+          </div>
         </div>
       </div>
       <div class="frow">
@@ -210,6 +234,9 @@
     </nav>
     <div class="regions" id="regions" aria-label="Jump to region"></div>
     <div class="chrome-right">
+      <div class="hotels-toggle" id="hotels-toggle" hidden role="group" aria-label="Hotel layer">
+        <button type="button" id="hotels-btn" aria-pressed="false">Hotels</button>
+      </div>
       <div class="theme" id="theme" role="group" aria-label="Colour theme">
         <button type="button" data-t="light" class="on">Light</button>
         <button type="button" data-t="dark">Dark</button>
@@ -313,8 +340,8 @@
 <script src="vendor/leaflet.markercluster.js"></script>
 <script src="vendor/maplibre-gl.js"></script>
 <script src="vendor/leaflet-maplibre-gl.js"></script>
-<script src="config.js?v=202611240818"></script>
-<script src="data.js?v=202611240818"></script>
-<script src="app.js?v=202611240818"></script>
+<script src="config.js?v=202611240838"></script>
+<script src="data.js?v=202611240838"></script>
+<script src="app.js?v=202611240838"></script>
 </body>
 </html>

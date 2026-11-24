@@ -17,6 +17,7 @@
   --finance:#0F6E6A;
   --yachting:#155A9C;
   --meetup:#9B2D5B;
+  --expo:#B5471B;
   --music:#6B4DE8;
   --arts:#D44B78;
   --film:#E08A2A;
@@ -95,6 +96,7 @@ h3{font-size:16px;margin:18px 0 8px}
 .badge.finance{background:var(--finance)}
 .badge.yachting{background:var(--yachting)}
 .badge.meetup{background:var(--meetup)}
+.badge.expo{background:#B5471B}
 .badge.music{background:var(--music)}
 .badge.arts{background:var(--arts)}
 .badge.film{background:var(--film)}
