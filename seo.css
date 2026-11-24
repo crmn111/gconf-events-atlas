@@ -144,3 +144,12 @@ dl.facts dd{margin:0}
 .dir-list{list-style:none;margin:0 0 20px;padding:0}
 .dir-list li{margin:0 0 8px;display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
 .dir-list .place,.dir-list .n{color:var(--muted);font:12px var(--sans)}
+
+.table-wrap{overflow-x:auto;margin:0 0 20px}
+table.venue-spaces{width:100%;border-collapse:collapse;font:14px var(--sans);color:var(--ink)}
+.venue-spaces th,.venue-spaces td{text-align:left;vertical-align:top;padding:8px 12px 8px 0;border-bottom:1px solid var(--line);font-weight:500}
+.venue-spaces thead th{font:600 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.venue-spaces th[scope="row"]{font-weight:600}
+.venue-docs{list-style:none;margin:0 0 20px;padding:0}
+.venue-docs li{margin:0 0 8px}
+.venue-docs .doc-type{color:var(--muted);font:11px var(--sans);letter-spacing:.08em;text-transform:uppercase;margin-left:6px}

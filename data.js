@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T08:10:58Z",
+ "generated": "2026-11-24T08:24:06Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -28775,6 +28775,86 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-imtex-2027",
+   "slug": "imtex-2027",
+   "name": "IMTEX 2027",
+   "website_url": "https://www.imtex.in/",
+   "start_date": "2027-01-21",
+   "end_date": "2027-01-27",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "asia",
+   "venue": "Bangalore International Exhibition Centre (BIEC), 10th Mile, Tumkur Road, Bengaluru 562 162",
+   "industry": "Machine tool and manufacturing technology exhibition",
+   "format": "In-person",
+   "organizer": "Indian Machine Tool Manufacturers' Association (IMTMA)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.imtex.in/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Tooltech and Digital Manufacturing run concurrently and are folded. Official visitor hours 10:00–17:00; exhibitors 09:00–18:00; visitors under 16 not admitted. 8 halls, 85,000 sqm, 1,300+ exhibitors (official 'at a glance' figures; not stored as attendance).",
+   "lat": 13.0603307,
+   "lng": 77.4747371,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "machine tools",
+    "manufacturing",
+    "industry 4.0",
+    "automation"
+   ],
+   "photos": [
+    {
+     "src": "img/events/imtex-2027-1.jpg",
+     "thumb": "img/events/imtex-2027-1-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/6/69/IMTEX_2025_%28Bangalore_International_Exhibition_Centre%29_106.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:IMTEX_2025_(Bangalore_International_Exhibition_Centre)_106.jpg",
+     "credit": "Gpkp, Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+     "src": "img/events/imtex-2027-2.jpg",
+     "thumb": "img/events/imtex-2027-2-t.jpg",
+     "orig": "https://upload.wikimedia.org/wikipedia/commons/2/21/IMTEX_2025_%28Bangalore_International_Exhibition_Centre%29_002.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:IMTEX_2025_(Bangalore_International_Exhibition_Centre)_002.jpg",
+     "credit": "Gpkp, Wikimedia Commons, CC BY-SA 4.0"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.imtex.in/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for BIEC (didac-india-2026).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official IMTEX homepage (fetched 24 Nov 2026): IMTEX, Tooltech & Digital Manufacturing 2027, 21–27 January 2027, Bangalore International Exhibition Centre, Tumkur Road, Bengaluru. Organiser IMTMA. No official visitor-attendance figure was published on the homepage fetched.",
+   "id": "imtex-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": "Gpkp, Wikimedia Commons, CC BY-SA 4.0"
+  },
+  {
    "event_id": "GCE-kerala-literature-festival-2027",
    "slug": "kerala-literature-festival-2027",
    "name": "Kerala Literature Festival 2027",
@@ -38830,6 +38910,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-bharat-mobility-global-expo-2027",
+   "slug": "bharat-mobility-global-expo-2027",
+   "name": "Bharat Mobility Global Expo 2027",
+   "website_url": "https://www.bharat-mobility.com/",
+   "start_date": "2027-02-04",
+   "end_date": "2027-02-09",
+   "city": "New Delhi",
+   "country": "India",
+   "region": "asia",
+   "venue": "Bharat Mandapam, Pragati Maidan, New Delhi",
+   "industry": "Mobility and automotive expo platform",
+   "format": "In-person",
+   "organizer": "Multi-organiser platform (SIAM, ACMA, CII, EEPC India and others, listed on the official site)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.bharat-mobility.com/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Official platform spans two Delhi venues: Bharat Mandapam 4–9 February (including Auto Expo – The Motor Show, India International Tyre Show, Bharat Battery Show, India Cycle Show and pavilions) and Yashobhoomi, Dwarka, 4–7 February (Components & Technology Show and other official components), all folded into this record. Media Day 4 February; Media + Dealers' Day 5 February at Bharat Mandapam. A leftover 2025 India Expo Mart block on the official page was ignored. On-page 'Lakh Visitors' counters rendered without a usable figure.",
+   "lat": 28.6172378,
+   "lng": 77.2434616,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "automotive",
+    "mobility",
+    "auto components",
+    "electric vehicles"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.bharat-mobility.com/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.bharat-mobility.com/event-brochure",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Bharat Mandapam (new-delhi-world-book-fair-2027). A second official venue, Yashobhoomi in Dwarka, hosts other 4–7 Feb components and is noted in the record.",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Bharat Mobility homepage (fetched 24 Nov 2026): 4–9 February 2027 at Bharat Mandapam, Pragati Maidan, New Delhi, and 4–7 February 2027 at Yashobhoomi, Dwarka. Official page lists Auto Expo Motor Show 2027 (organiser SIAM) among the Bharat Mandapam shows. Contact support@bharat-mobility.com / EEPC India.",
+   "id": "bharat-mobility-global-expo-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-busojaras-mohacs-2027",
    "slug": "busojaras-mohacs-2027",
    "name": "Busójárás 2027 (Mohács)",
@@ -41679,6 +41829,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official Stadt Köln page (fetched 24 Nov 2026): “In der Karnevalssession 2027 zieht der Kölner Rosenmontagszug am 8. Februar 2027 durch Köln.” This record uses the officially published Rosenmontag / Rosenmontagszug date. The wider street-carnival week was not given as a start/end range on the fetched official pages.",
    "id": "cologne-carnival-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-ifex-2027",
+   "slug": "ifex-2027",
+   "name": "IFEX 2027",
+   "website_url": "https://ifexindia.com/",
+   "start_date": "2027-02-08",
+   "end_date": "2027-02-10",
+   "city": "Greater Noida",
+   "country": "India",
+   "region": "asia",
+   "venue": "India Expo Centre and Mart, Plot No. 23-25 & 27-29, Knowledge Park-II, Gautam Buddha Nagar, Greater Noida 201306",
+   "industry": "Foundry technology trade exhibition",
+   "format": "In-person",
+   "organizer": "The Institute of Indian Foundrymen (IIF) with India Exposition Mart Ltd (IEML)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://ifexindia.com/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. 23rd Indian Foundry Exhibition, concurrent with the 75th Indian Foundry Congress (folded). A '50,000+ B2B trade visitors' line on the official homepage reads as a marketing figure and was not stored.",
+   "lat": 28.4614906,
+   "lng": 77.4998877,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "foundry",
+    "castings",
+    "metallurgy",
+    "manufacturing"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://ifexindia.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 24 Nov 2026 as 'India Expo Mart, APJ Abdul Kalam Road, Knowledge Park III, Shafipur, Greater Noida' (28.4614906, 77.4998877). The official IFEX address is Knowledge Park-II, Greater Noida 201306; the OSM name places the same venue complex in Greater Noida, inside India.",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official IFEX homepage (fetched 24 Nov 2026): 8–10 February 2027 at India Expo Centre and Mart, Plot No. 23-25 & 27-29, Knowledge Park-II, Greater Noida 201306. Organisers IIF and IEML.",
+   "id": "ifex-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -44975,6 +45190,71 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-automotive-world-tokyo-2027",
+   "slug": "automotive-world-tokyo-2027",
+   "name": "AUTOMOTIVE WORLD Tokyo 2027",
+   "website_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+   "start_date": "2027-02-17",
+   "end_date": "2027-02-19",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "asia",
+   "venue": "Tokyo Big Sight (Tokyo International Exhibition Center), 3-11-1 Ariake, Koto-ku, Tokyo 135-0063",
+   "industry": "Automotive technology trade fair",
+   "format": "In-person",
+   "organizer": "RX Japan GK",
+   "expected_attendance": null,
+   "ticket_price_min": 0.0,
+   "ticket_price_max": 5500.0,
+   "currency": "JPY",
+   "ticket_price_text": "Free if registered by 14 February 2027; JPY 5,500 (incl. tax) afterwards (official homepage).",
+   "ticket_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+   "price_source_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Trade visitor event. Six specialised shows sit inside AUTOMOTIVE WORLD.",
+   "lat": 35.6320533,
+   "lng": 139.7978048,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "automotive",
+    "electric vehicles",
+    "autonomous driving",
+    "auto parts"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Tokyo Big Sight (japan-it-week-spring-2027, comic-market-109).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official AUTOMOTIVE WORLD Tokyo homepage (fetched 24 Nov 2026): 17–19 February 2027, 10:00–17:00 JST, Tokyo Big Sight. Free visitor registration until 14 February 2027; JPY 5,500 (incl. tax) afterwards. Organiser RX Japan GK. On-page 'Figures in 2027 Show' were marked expected and were not stored.",
+   "id": "automotive-world-tokyo-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -50858,6 +51138,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-japan-shop-2027",
+   "slug": "japan-shop-2027",
+   "name": "JAPAN SHOP 2027",
+   "website_url": "https://messe.nikkei.co.jp/js/info/about/",
+   "start_date": "2027-03-02",
+   "end_date": "2027-03-05",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "asia",
+   "venue": "Tokyo Big Sight (Tokyo International Exhibition Center), 3-11-1 Ariake, Koto-ku, Tokyo 135-0063",
+   "industry": "Retail and store-design trade fair",
+   "format": "In-person",
+   "organizer": "Nikkei Inc. (日本経済新聞社)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://messe.nikkei.co.jp/js/info/about/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Part of Nikkei Messe 街づくり・店づくり総合展. Co-located official shows folded: Architecture & Construction Materials, Lighting & Consumer Electronics Fair, Retail Tech JAPAN, SECURITY SHOW, and others listed on the official about page. Forecast attendance (72,000, combined, 見込み) was not stored.",
+   "lat": 35.6320533,
+   "lng": 139.7978048,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "retail",
+    "store design",
+    "commercial interiors",
+    "shop fittings"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://messe.nikkei.co.jp/js/info/about/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://messe.nikkei.co.jp/js/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Tokyo Big Sight (japan-it-week-spring-2027, comic-market-109).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official JAPAN SHOP about page (fetched 24 Nov 2026): 2–5 March 2027, 10:00–17:00 (16:30 last day), Tokyo Big Sight East Exhibition Halls. Organiser Nikkei Inc. Official scale and visitor figures on the same page are marked 見込み (forecast) and were not stored.",
+   "id": "japan-shop-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-jec-world-2027",
    "slug": "jec-world-2027",
    "name": "JEC World 2027",
@@ -54607,6 +54957,76 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-foodex-japan-2027",
+   "slug": "foodex-japan-2027",
+   "name": "FOODEX JAPAN 2027",
+   "website_url": "https://foodex.jma.or.jp/en/",
+   "start_date": "2027-03-09",
+   "end_date": "2027-03-12",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "asia",
+   "venue": "Tokyo Big Sight (Tokyo International Exhibition Center), 3-11-1 Ariake, Koto-ku, Tokyo 135-0063",
+   "industry": "International food and beverage exhibition",
+   "format": "In-person",
+   "organizer": "Japan Management Association (JMA) with Japan Hotel Association, Japan Ryokan Association, International Tourism Japan Restaurant Association and International Tourism Facilities Association",
+   "expected_attendance": 73842,
+   "ticket_price_min": 0.0,
+   "ticket_price_max": 10000.0,
+   "currency": "JPY",
+   "ticket_price_text": "Same-day ticket ¥10,000 incl. tax; free with an invitation ticket. Trade only; under-16s not admitted (official 2027 outline).",
+   "ticket_url": "https://foodex.jma.or.jp/about/",
+   "price_source_url": "https://foodex.jma.or.jp/about/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://foodex.jma.or.jp/en/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. 52nd edition; exclusively B2B; visitors under 16 and non-industry visitors not admitted. Official hours: East Halls 1–6 10:00–17:00 (16:30 last day); East Halls 7–8 and West Halls 9:30–17:00 (16:30 last day).",
+   "lat": 35.6320533,
+   "lng": 139.7978048,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "food",
+    "beverage",
+    "foodservice",
+    "import export"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://foodex.jma.or.jp/en/",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://foodex.jma.or.jp/about/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official about page: 73,842 registered visitors at the 2026 edition (14,430 from overseas). Not a 2027 forecast.",
+   "attendance_source_url": "https://foodex.jma.or.jp/about/",
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Tokyo Big Sight (japan-it-week-spring-2027, comic-market-109).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official FOODEX JAPAN English homepage and Japanese about/outline page (fetched 24 Nov 2026): 9–12 March 2027, Tokyo Big Sight East Halls 1–8 and West Halls 1–4. Official 2026 actual: 73,842 registered visitors (of whom 14,430 from overseas) and 3,238 exhibitors from 76+ countries. Same-day admission ¥10,000 incl. tax; invitation holders free; trade only, 16+.",
+   "id": "foodex-japan-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -59006,6 +59426,71 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-hcj-2027",
+   "slug": "hcj-2027",
+   "name": "HCJ 2027 (HOTERES / CATEREX / Japan Food Service Equipment Show)",
+   "website_url": "https://hcj.jma.or.jp/",
+   "start_date": "2027-03-16",
+   "end_date": "2027-03-19",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "asia",
+   "venue": "Tokyo Big Sight (Tokyo International Exhibition Center), 3-11-1 Ariake, Koto-ku, Tokyo 135-0063",
+   "industry": "Hotel, restaurant and catering trade fair",
+   "format": "In-person",
+   "organizer": "Japan Management Association (JMA)",
+   "expected_attendance": null,
+   "ticket_price_min": 0.0,
+   "ticket_price_max": 0.0,
+   "currency": "JPY",
+   "ticket_price_text": "Free with visitor pre-registration (official 2027 outline: 入場料 無料（来場事前登録が必要です）).",
+   "ticket_url": "https://hcj.jma.or.jp/",
+   "price_source_url": "https://hcj.jma.or.jp/",
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://hcj.jma.or.jp/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Umbrella of the 55th International Hotel & Restaurant Show (HOTERES JAPAN), 48th Food & Catering Show (CATEREX JAPAN) and 27th Japan Food Service Equipment Show, folded. Official hours 10:00–17:00 (16:30 last day), East Halls 1–6. Admission free with visitor pre-registration (opens 2 December 2026).",
+   "lat": 35.6320533,
+   "lng": 139.7978048,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "hospitality",
+    "foodservice",
+    "kitchen equipment",
+    "hotels"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://hcj.jma.or.jp/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": "2026-11-24",
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Tokyo Big Sight (japan-it-week-spring-2027, comic-market-109).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official HCJ homepage (fetched 24 Nov 2026): 16–19 March 2027, 10:00–17:00 (16:30 last day), Tokyo Big Sight East Halls 1–6. Official outline names the three co-located shows and states admission is free with pre-registration. A general '65,000 visitors' scale line on the same page was not a clearly labelled 2026 actual and was not stored.",
+   "id": "hcj-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": true,
    "photoCredit": ""
   },
   {
@@ -64363,6 +64848,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Date (24 March 2027, Kuala Lumpur) from the official AIMY 2027 page, fetched 24 Nov 2026; venue not published, city-level pin.",
    "id": "asia-ai-infrastructure-malaysia-summit-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-automechanika-istanbul-2027",
+   "slug": "automechanika-istanbul-2027",
+   "name": "Automechanika Istanbul 2027",
+   "website_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+   "start_date": "2027-03-24",
+   "end_date": "2027-03-27",
+   "city": "Istanbul",
+   "country": "Turkey",
+   "region": "europe",
+   "venue": "TÜYAP Fair and Congress Center, Eski Hadımköy Yolu Caddesi, Büyükçekmece, Istanbul",
+   "industry": "Automotive aftermarket trade fair",
+   "format": "In-person",
+   "organizer": "Messe Frankfurt",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Official visiting hours 10:00–18:00 (17:00 last day) at TÜYAP Fair and Congress Center.",
+   "lat": 41.0259041,
+   "lng": 28.6241547,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "automotive aftermarket",
+    "auto parts",
+    "workshop",
+    "mobility"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en.html",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://automechanika-istanbul.tr.messefrankfurt.com/istanbul/en/planning-preparation.html",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for TÜYAP (istanbul-book-fair-2026).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Automechanika Istanbul homepage (fetched 24 Nov 2026): 24–27 March 2027. Official planning-preparation page: opening 10:00, closing 18:00 (17:00 on 27 March) at Istanbul TUYAP Fair and Congress Center. Also listed on the official TÜYAP calendar.",
+   "id": "automechanika-istanbul-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -84821,6 +85376,76 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-turkeybuild-istanbul-2027",
+   "slug": "turkeybuild-istanbul-2027",
+   "name": "YAPI – Turkeybuild Istanbul 2027",
+   "website_url": "https://yapifuari.com.tr/en/main",
+   "start_date": "2027-04-27",
+   "end_date": "2027-04-30",
+   "city": "Istanbul",
+   "country": "Turkey",
+   "region": "europe",
+   "venue": "TÜYAP Fair and Congress Center, Eski Hadımköy Yolu Caddesi, Büyükçekmece, Istanbul",
+   "industry": "Building and construction trade exhibition",
+   "format": "In-person",
+   "organizer": "ICA Events",
+   "expected_attendance": 43786,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://yapifuari.com.tr/en/main",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. 49th edition.",
+   "lat": 41.0259041,
+   "lng": 28.6241547,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "building materials",
+    "architecture",
+    "building technology"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://yapifuari.com.tr/en/main",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.tuyap.com.tr/en/fair-calendar",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official homepage figure: 43,786 visitors (published alongside 431 exhibitors). Treated as the most recently published official figure, not as a 2027 forecast.",
+   "attendance_source_url": "https://yapifuari.com.tr/en/main",
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for TÜYAP (istanbul-book-fair-2026).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official YAPI – Turkeybuild Istanbul homepage (fetched 24 Nov 2026): 49th edition, 27–30 April 2027, Tüyap Fair and Congress Center. Official homepage also publishes 43,786 visitors and 431 exhibitors; treated as the most recently published official figures, not as a 2027 forecast. Contact info.turkey@icaevents.com.tr. Also listed on the official TÜYAP calendar.",
+   "id": "turkeybuild-istanbul-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-jeonju-international-film-festival-2027",
    "slug": "jeonju-international-film-festival-2027",
    "name": "28th Jeonju International Film Festival (JIFF 2027)",
@@ -99509,6 +100134,71 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-big-5-construct-saudi-may-2027",
+   "slug": "big-5-construct-saudi-may-2027",
+   "name": "Big 5 Construct Saudi May 2027",
+   "website_url": "https://www.big5constructsaudi.com/",
+   "start_date": "2027-05-24",
+   "end_date": "2027-05-27",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "middle_east",
+   "venue": "Riyadh Front Exhibition & Conference Center, Riyadh",
+   "industry": "Construction trade exhibition",
+   "format": "In-person",
+   "organizer": "Big 5 Construct Saudi (official site; corporate organiser not named on the homepage fetched)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.big5constructsaudi.com/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. First of two official 2027 editions at the same venue (the September edition is a separate record). Official opening hours 16:00–22:00. A '65,000+ qualified visitors' figure is given across two editions and was not stored against this edition alone.",
+   "lat": 24.8350188,
+   "lng": 46.7296576,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "building materials",
+    "architecture",
+    "contracting"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.big5constructsaudi.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Riyadh Front (smart-cities-saudi-expo-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Big 5 Construct Saudi homepage (fetched 24 Nov 2026): 24–27 May 2027 and 19–22 September 2027, Riyadh Front Exhibition & Conference Center, 4:00 PM–10:00 PM. This record is the May edition only.",
+   "id": "big-5-construct-saudi-may-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-confidence-2027",
    "slug": "confidence-2027",
    "name": "CONFidence 2027",
@@ -102561,6 +103251,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official webexpo.net homepage fetched 24 Nov 2026: 'WebExpo Conference – May 26-28, 2027' and 'Prague · May 26–28, 2027', with the venue given as 'Palace Lucerna, Vodičkova 704/36, Prague 1'.",
    "id": "webexpo-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-acmee-2027",
+   "slug": "acmee-2027",
+   "name": "ACMEE 2027",
+   "website_url": "https://www.acmee.in/",
+   "start_date": "2027-05-27",
+   "end_date": "2027-05-31",
+   "city": "Chennai",
+   "country": "India",
+   "region": "asia",
+   "venue": "Chennai Trade Centre, Ramapuram, Nandambakkam, Chennai, Tamil Nadu 600089",
+   "industry": "Machine tools and automation exhibition",
+   "format": "In-person",
+   "organizer": "Ambattur Industrial Estate Manufacturers' Association (AIEMA)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.acmee.in/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Biennial; official visitor hours 10:00–18:00, exhibitors 09:00–19:00. A '35,000+' visitors line on the official homepage was not a clearly labelled previous-edition actual and was not stored.",
+   "lat": 13.0134554,
+   "lng": 80.1893394,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "machine tools",
+    "automation",
+    "robotics",
+    "industry 4.0"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.acmee.in/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Chennai Trade Centre (comic-con-india-chennai-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official ACMEE homepage (fetched 24 Nov 2026): 27–31 May 2027 at Chennai Trade Centre, Ramapuram, Nandambakkam, Chennai. Organiser AIEMA. Official business hours as above.",
+   "id": "acmee-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -107333,6 +108088,76 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Official viennablockchainweek.org homepage and JSON-LD fetched 24 Nov 2026 reconfirm Vienna Blockchain Week 2027 on 2–3 June 2027 in Vienna, with the venue still to be announced with the programme. Dates and city already matched the existing events.json record; the exact slug vienna-blockchain-week-2027 is reused.",
    "id": "vienna-blockchain-week-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-win-eurasia-2027",
+   "slug": "win-eurasia-2027",
+   "name": "WIN EURASIA 2027",
+   "website_url": "https://www.win-eurasia.com/en/about-win-eurasia",
+   "start_date": "2027-06-02",
+   "end_date": "2027-06-05",
+   "city": "Istanbul",
+   "country": "Turkey",
+   "region": "europe",
+   "venue": "Istanbul Expo Center (İstanbul Fuar Merkezi), Yeşilköy, Bakırköy, Istanbul",
+   "industry": "Industrial automation and machinery trade fair",
+   "format": "In-person",
+   "organizer": "WIN EURASIA (official site)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.win-eurasia.com/en/about-win-eurasia",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Official hours 10:00–18:00 on 2–4 June and 10:00–17:00 on 5 June. Stated exhibition area 55,000 sqm across 6 halls.",
+   "lat": 40.9885977,
+   "lng": 28.8239585,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "automation",
+    "machinery",
+    "robotics",
+    "electronics"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.win-eurasia.com/en/about-win-eurasia",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.win-eurasia.com/tr/ziyaretciler/ulasim-konaklama",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Istanbul Expo Center (gitex-ai-turkiye-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official WIN EURASIA about page (fetched 24 Nov 2026): 2–5 June 2027, Istanbul Expo Center, Yeşilköy. Official visitor transport page confirms 2–5 Haziran 2027 and the opening hours above, address İstanbul Fuar Merkezi, Bakırköy/İstanbul.",
+   "id": "win-eurasia-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -119153,6 +119978,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-23",
    "verification_notes": "Dates and city from the official CVPR site (\"CVPR 2027 Seattle WA June 20–24, 2027\"), fetched 23 Nov 2026. Venue not named.",
    "id": "cvpr-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-beautyworld-riyadh-2027",
+   "slug": "beautyworld-riyadh-2027",
+   "name": "Beautyworld Riyadh 2027",
+   "website_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+   "start_date": "2027-06-21",
+   "end_date": "2027-06-23",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "middle_east",
+   "venue": "Riyadh Front Exhibition & Conference Center, Riyadh",
+   "industry": "Beauty and personal-care trade fair",
+   "format": "In-person",
+   "organizer": "Messe Frankfurt",
+   "expected_attendance": 17700,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city.",
+   "lat": 24.8350188,
+   "lng": 46.7296576,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "beauty",
+    "personal care",
+    "cosmetics",
+    "retail"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "organiser",
+   "size_estimate": null,
+   "lineup_url": null,
+   "attendance_note": "Official homepage: 17,700+ visitors at the 2025 edition. Stored as 17,700. Not a 2027 forecast.",
+   "attendance_source_url": "https://beautyworld-riyadh.ksa.messefrankfurt.com/ksa/en.html",
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Riyadh Front (smart-cities-saudi-expo-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Beautyworld Riyadh homepage (fetched 24 Nov 2026): 21–23 June 2027 at Riyadh Front Exhibition & Conference Center. Official 2025-edition figures on the same page: over 400 exhibitors from 37 countries and 17,700+ visitors from 71 countries.",
+   "id": "beautyworld-riyadh-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -161931,6 +162821,71 @@ window.ATLASDATA={
    "photoCredit": ""
   },
   {
+   "event_id": "GCE-hotel-hospitality-expo-saudi-arabia-2027",
+   "slug": "hotel-hospitality-expo-saudi-arabia-2027",
+   "name": "Hotel & Hospitality Expo Saudi Arabia 2027",
+   "website_url": "https://www.thehotelshowsaudiarabia.com/",
+   "start_date": "2027-09-11",
+   "end_date": "2027-09-13",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "middle_east",
+   "venue": "Riyadh Front Exhibition & Conference Center, Riyadh",
+   "industry": "Hospitality trade exhibition",
+   "format": "In-person",
+   "organizer": "Hotel & Hospitality Expo Saudi Arabia (official site; 2026 edition held in strategic partnership with the Ministry of Tourism)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.thehotelshowsaudiarabia.com/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Official hours 16:00–22:00 daily. Co-located INDEX Saudi Arabia and ORGATEC WORKSPACE Saudi Arabia folded.",
+   "lat": 24.8350188,
+   "lng": 46.7296576,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "hospitality",
+    "hotels",
+    "foodservice",
+    "coffee"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.thehotelshowsaudiarabia.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "medium",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Riyadh Front (smart-cities-saudi-expo-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Hotel & Hospitality Expo Saudi Arabia homepage (fetched 24 Nov 2026): returns 11–13 September 2027 at Riyadh Front Exhibition & Conference Center, 4pm–10pm daily. The same page states the three co-located events share one roof. A corporate organiser name was not printed on the homepage fetched.",
+   "id": "hotel-hospitality-expo-saudi-arabia-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
    "event_id": "GCE-guadalajara-open-2027",
    "slug": "guadalajara-open-2027",
    "name": "Guadalajara Open presentado por Santander 2027",
@@ -165018,6 +165973,71 @@ window.ATLASDATA={
    "last_verified_at": "2026-11-24",
    "verification_notes": "Dates and venue from the official site (\"September 18, 19 - 2027 Tokyo Odaiba Ultra Park (お台場ULTRA PARK特設会場 / 江東区青海1-1)\"), fetched 24 Nov 2026.",
    "id": "ultra-japan-2027",
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": ""
+  },
+  {
+   "event_id": "GCE-big-5-construct-saudi-september-2027",
+   "slug": "big-5-construct-saudi-september-2027",
+   "name": "Big 5 Construct Saudi September 2027",
+   "website_url": "https://www.big5constructsaudi.com/",
+   "start_date": "2027-09-19",
+   "end_date": "2027-09-22",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "middle_east",
+   "venue": "Riyadh Front Exhibition & Conference Center, Riyadh",
+   "industry": "Construction trade exhibition",
+   "format": "In-person",
+   "organizer": "Big 5 Construct Saudi (official site; corporate organiser not named on the homepage fetched)",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": "",
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://www.big5constructsaudi.com/",
+   "last_scraped_at": "2026-11-24T09:20:00+01:00",
+   "notes": "Dates are local to the host city. Second of two official 2027 editions at the same venue (the May edition is a separate record). Official opening hours 16:00–22:00. Combined '65,000+ qualified visitors across two editions' was not stored against this edition alone.",
+   "lat": 24.8350188,
+   "lng": 46.7296576,
+   "precise": true,
+   "category": "expo",
+   "topics": [
+    "construction",
+    "building materials",
+    "architecture",
+    "contracting"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.big5constructsaudi.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "rank": null,
+   "ranking_basis": "estimate",
+   "size_estimate": "large",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Reused the OpenStreetMap Nominatim pin already used in the Atlas for Riyadh Front (smart-cities-saudi-expo-2027).",
+   "source_accessed_at": "2026-11-24T09:20:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-24",
+   "verification_notes": "Official Big 5 Construct Saudi homepage (fetched 24 Nov 2026): 24–27 May 2027 and 19–22 September 2027, Riyadh Front Exhibition & Conference Center, 4:00 PM–10:00 PM. This record is the September edition only.",
+   "id": "big-5-construct-saudi-september-2027",
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
@@ -183106,7 +184126,7 @@ window.ATLASDATA={
    "city": "Barcelona",
    "country": "Spain",
    "region": "europe",
-   "venue": null,
+   "venue": "Fira Barcelona Gran Via, Avinguda Joan Carles I, 64, 08908 L'Hospitalet de Llobregat",
    "industry": "Smart-city and urban-innovation congress",
    "format": "In-person",
    "organizer": "Fira de Barcelona",
@@ -230277,6 +231297,22 @@ window.ATLASDATA={
     {
      "url": "https://messe-muenchen.de/de/impressum/",
      "label": "Official source"
+    },
+    {
+     "url": "https://d2n1n6byqxibyi.cloudfront.net/asset/933560888063/document_btj2i01d9d5a57i0foevb9u34b/1877052_DE_hallenuebersicht.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Messe München hall overview (Hallenübersicht)",
+     "doc_type": "floor_plan",
+     "language": "de",
+     "source_url": "https://d2n1n6byqxibyi.cloudfront.net/asset/933560888063/document_btj2i01d9d5a57i0foevb9u34b/1877052_DE_hallenuebersicht.pdf",
+     "href": "pdfs/venues/de/messe-muenchen/hallenuebersicht.pdf",
+     "local": true
     }
    ]
   },
@@ -230322,6 +231358,26 @@ window.ATLASDATA={
      "url": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
      "label": "Official source"
     }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Deutsche Messe halls and pavilions factsheet (EN)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.messe.de/files/files/000/media/downloads/locations/factsheet-hallen-pavillons.pdf",
+     "href": "pdfs/venues/de/messegelande-hannover/factsheet-halls-pavilions-en.pdf",
+     "local": true
+    },
+    {
+     "title": "Hannover location guide (Visit Hannover)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
+     "href": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
+     "local": false
+    }
    ]
   },
   {
@@ -230356,7 +231412,10 @@ window.ATLASDATA={
      "url": "https://www.messe-berlin.de/en/locations/citycube-berlin",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "nuernbergmesse",
@@ -230384,7 +231443,10 @@ window.ATLASDATA={
      "url": "https://www.nuernbergmesse.de/en/location-and-services/halls-and-site",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "hamburg-messe",
@@ -230412,7 +231474,10 @@ window.ATLASDATA={
      "url": "https://www.hamburg-messe.de/venues/messegelaende",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "koelnmesse",
@@ -230439,7 +231504,10 @@ window.ATLASDATA={
      "url": "https://www.koelnmesse.de/location-und-services/hallen-und-gelaende/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-duesseldorf",
@@ -230466,7 +231534,10 @@ window.ATLASDATA={
      "url": "https://www.messe-duesseldorf.de/de/gelaende_und_services/gelaende_und_services",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-frankfurt",
@@ -230501,7 +231572,10 @@ window.ATLASDATA={
      "url": "https://www.messefrankfurt.com/frankfurt/en/location/congress-event-locations/kapeuropa.html",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-karlsruhe",
@@ -230528,7 +231602,10 @@ window.ATLASDATA={
      "url": "https://www.messe-karlsruhe.de/en/locations-services/karlsruhe-trade-fair-centre/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-friedrichshafen",
@@ -230559,7 +231636,10 @@ window.ATLASDATA={
      "url": "https://www.messe-friedrichshafen.com/locations-services/the-venue",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "hcc-heidelberg",
@@ -230586,7 +231666,10 @@ window.ATLASDATA={
      "url": "https://heidelberg-congress.com/en/heidelberg-congress-center/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "congress-center-rosengarten-mannheim",
@@ -230613,7 +231696,10 @@ window.ATLASDATA={
      "url": "https://www.mcon-mannheim.de/en/locations/congress-center-rosengarten",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "maritim-proarte-hotel-berlin",
@@ -230643,7 +231729,10 @@ window.ATLASDATA={
      "url": "https://www.maritim.com/en/hotels/germany/proarte-hotel-berlin",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "hilton-berlin",
@@ -230670,7 +231759,10 @@ window.ATLASDATA={
      "url": "https://www.hilton.com/en/hotels/berhitw-hilton-berlin/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "intercontinental-berlin",
@@ -230697,7 +231789,10 @@ window.ATLASDATA={
      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/berlin/berha/hoteldetail",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "westin-grand-muenchen",
@@ -230726,7 +231821,10 @@ window.ATLASDATA={
      "url": "https://www.marriott.com/en-us/hotels/mucwi-the-westin-grand-munich/overview/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "station-berlin",
@@ -230753,7 +231851,10 @@ window.ATLASDATA={
      "url": "https://www.station-berlin.de/en/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "alte-oper-frankfurt",
@@ -230780,7 +231881,10 @@ window.ATLASDATA={
      "url": "https://www.alteoper.de/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "europa-park-rust",
@@ -230808,7 +231912,10 @@ window.ATLASDATA={
      "url": "https://www.europapark.de/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "halle02-heidelberg",
@@ -230835,7 +231942,10 @@ window.ATLASDATA={
      "url": "https://www.halle02.de/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "house-of-communication-munich",
@@ -230857,7 +231967,10 @@ window.ATLASDATA={
     "dld-munich-2027"
    ],
    "contact_email": null,
-   "sources": []
+   "sources": [],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "smart-village-muenchen",
@@ -230879,7 +231992,10 @@ window.ATLASDATA={
     "mlcon-munich-2027"
    ],
    "contact_email": null,
-   "sources": []
+   "sources": [],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-stuttgart",
@@ -230904,7 +232020,10 @@ window.ATLASDATA={
      "url": "https://www.messe-stuttgart.de/en/company/about-us/facts-figures/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "leipziger-messe",
@@ -230929,7 +232048,10 @@ window.ATLASDATA={
      "url": "https://www.leipziger-messe.de/en/locations/overview/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "messe-essen",
@@ -230958,7 +232080,10 @@ window.ATLASDATA={
      "url": "https://www.messe-essen.de/impressum/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "world-conference-center-bonn",
@@ -230983,7 +232108,693 @@ window.ATLASDATA={
      "url": "https://www.wccb.de/en/",
      "label": "Official source"
     }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "estrel-berlin",
+   "name": "Estrel Berlin (Estrel Congress Center)",
+   "type": "hotel_conference_venue",
+   "country": "Germany",
+   "cc": "DE",
+   "city": "Berlin",
+   "address": "Sonnenallee 225, 12057 Berlin",
+   "lat": 52.4736275,
+   "lon": 13.4588496,
+   "url": "https://www.estrel.com/",
+   "capacity": 6000,
+   "exhibition_sqm": null,
+   "halls": "Official press kit: ECC Berlin 25,000 m² of event space, 75 meeting rooms, Convention Hall I 4,700 m² and Convention Hall II 4,600 m²",
+   "description": "Europe's largest hotel, congress and entertainment complex, according to the venue's official press kit, with a 1,125-room hotel and the Estrel Congress Center (ECC Berlin). The official press kit lists First Class Superior (4+) stars for the hotel, and Estrel Hotel Berlin appears on the Deutsche Hotelklassifizierung 4-star list for Berlin, so star_rating is stored as 4 (Superior add-on noted). Official figures: 25,000 m² of congress event space, 75 rooms, Convention Hall I and II each up to 5,000 in row seating, banquet 3,500 and reception 6,000. The official capacity chart dated 26 January 2026 gives Convention Hall I 4,700 m² (theatre 5,000, classroom 2,700, banquet 3,500) and Convention Hall II 4,600 m² (theatre 5,000, classroom 3,000, banquet 3,000). Coordinates are the Nominatim pin for Estrel Berlin at the official Sonnenallee 225 address.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.estrel.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.estrel.com/files/downloads/hotel/pressemappe_estrel.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 4,
+   "spaces": [
+    {
+     "name": "Convention Hall I (A+B+C+D)",
+     "type": null,
+     "area_sqm": 4700,
+     "capacity_max": 5000,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 2700,
+     "capacity_banquet": 3500,
+     "capacity_reception": null,
+     "notes": "Official capacity chart 26 January 2026. Press kit also gives reception 6,000 and classroom 3,200 as complex maxima across the ECC, not necessarily this hall alone.",
+     "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf"
+    },
+    {
+     "name": "Convention Hall II",
+     "type": null,
+     "area_sqm": 4600,
+     "capacity_max": 5000,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 3000,
+     "capacity_banquet": 3000,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf"
+    },
+    {
+     "name": "Saal Europa",
+     "type": null,
+     "area_sqm": 940,
+     "capacity_max": 1000,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 700,
+     "capacity_banquet": 500,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf"
+    },
+    {
+     "name": "Estrel Auditorium (2nd floor)",
+     "type": null,
+     "area_sqm": 760,
+     "capacity_max": 788,
+     "capacity_theatre": 788,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: fixed seating 788.",
+     "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf"
+    },
+    {
+     "name": "Estrel Saal",
+     "type": null,
+     "area_sqm": 1050,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Area from official press kit facts sheet; not repeated with a full seating breakdown on the January 2026 capacity chart excerpt stored here.",
+     "source_url": "https://www.estrel.com/files/downloads/hotel/pressemappe_estrel.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Estrel Congress capacities and room rental (26 January 2026)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf",
+     "href": "pdfs/venues/de/estrel-berlin/estrel-congress-capacities-2026-01-26.pdf",
+     "local": true
+    },
+    {
+     "title": "Estrel official press kit (Pressemappe)",
+     "doc_type": "brochure",
+     "language": "de",
+     "source_url": "https://www.estrel.com/files/downloads/hotel/pressemappe_estrel.pdf",
+     "href": "pdfs/venues/de/estrel-berlin/estrel-pressemappe.pdf",
+     "local": true
+    }
    ]
+  },
+  {
+   "slug": "hotel-adlon-kempinski-berlin",
+   "name": "Hotel Adlon Kempinski Berlin",
+   "type": "hotel_conference_venue",
+   "country": "Germany",
+   "cc": "DE",
+   "city": "Berlin",
+   "address": "Unter den Linden 77, 10117 Berlin",
+   "lat": 52.5155757,
+   "lon": 13.3800699,
+   "url": "https://www.kempinski.com/en/hotel-adlon",
+   "capacity": 500,
+   "exhibition_sqm": null,
+   "halls": "2 ballrooms and 15 function rooms (official press kit)",
+   "description": "Landmark luxury hotel at the Brandenburg Gate with a dedicated events offer. It appears on the official Deutsche Hotelklassifizierung list of 5-star hotels in Berlin, so star_rating is 5. The official press kit describes two ballrooms and 15 function rooms, events from 1 to 500 people, and a main 500 m² ballroom on the ground floor. Official meetings pages likewise describe 16 function rooms and two ballrooms. Coordinates are the Nominatim pin for Adlon Kempinski at Unter den Linden 77.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.kempinski.com/en/hotel-adlon",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kempinski.com/en/hotel-adlon/meetings-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/berlin/5-sterne-hotels-berlin",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Main ballroom",
+     "type": null,
+     "area_sqm": 500,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official press kit: 500 m² ground-floor ballroom; events accommodating 1 to 500 people. Separate banquet/classroom/reception splits were not copied from the press kit in this pass.",
+     "source_url": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hotel Adlon Kempinski Berlin official press kit",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf",
+     "href": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "fira-barcelona-gran-via",
+   "name": "Fira Barcelona Gran Via",
+   "type": "exhibition_grounds",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "L'Hospitalet de Llobregat",
+   "address": "Avinguda Joan Carles I, 64, 08908 L'Hospitalet de Llobregat",
+   "lat": 41.35448,
+   "lon": 2.12698,
+   "url": "https://www.firabarcelona.com/",
+   "capacity": 12000,
+   "exhibition_sqm": 240000,
+   "halls": "8 halls; Convention Centre in Hall 8 seating 3,000 to 12,000",
+   "description": "Barcelona's main exhibition precinct at Gran Via, in L'Hospitalet de Llobregat. Current official Fira Barcelona pages state 240,000 m², eight halls, and a Convention Centre in Hall 8 seating 3,000 to 12,000. Official GPS published by Fira is 41.35448, 2.12698, and infofira@firabarcelona.com is the published information email. An official January 2022 venue overview PDF is archived; it uses older totals (198,500 m²) and different Hall 8 figures, so headline numbers follow the current website. The atlas event smart-city-expo-2027 is linked here because the organiser's practical-information page places Smart City Expo World Congress in Gran Via Halls 2 and 3; that page titles a 2027 edition but mixes 2026 dates, which is noted in NOTES_ES.md.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ise-barcelona-2027",
+    "mwc-barcelona-2027",
+    "4yfn-2027",
+    "kubecon-eu-2027",
+    "smart-city-expo-2027",
+    "ibtm-world-2027",
+    "ice-barcelona-2027",
+    "seafood-expo-global-2027"
+   ],
+   "contact_email": "infofira@firabarcelona.com",
+   "sources": [
+    {
+     "url": "https://www.firabarcelona.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.firabarcelona.com/en/venues/gran-via/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://guestevents.firabarcelona.com/app/uploads/2021/12/fira_granvia.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Convention Centre (Hall 8)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 12000,
+     "capacity_theatre": 12000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official Fira pages: Hall 8 convention seating from 3,000 to 12,000. Older January 2022 PDF figures are not used for this total.",
+     "source_url": "https://www.firabarcelona.com/en/venues/gran-via/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fira Gran Via venue overview (January 2022)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://guestevents.firabarcelona.com/app/uploads/2021/12/fira_granvia.pdf",
+     "href": "https://guestevents.firabarcelona.com/app/uploads/2021/12/fira_granvia.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "ifema-madrid",
+   "name": "IFEMA Madrid",
+   "type": "exhibition_grounds",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Madrid",
+   "address": "Avenida del Partenón, 5, 28042 Madrid",
+   "lat": 40.466371,
+   "lon": -3.617214,
+   "url": "https://www.ifema.es/",
+   "capacity": null,
+   "exhibition_sqm": 240000,
+   "halls": "13 halls, 85 meeting rooms and 2 convention centres (North auditorium 1,100 plus 18 rooms; South auditorium 600)",
+   "description": "Madrid's main trade-fair and congress estate (Recinto Ferial). Official IFEMA pages describe 240,000 m², 13 halls, 85 rooms and two convention centres, with a North auditorium of 1,100 seats and a South auditorium of 600. The published contact address is Avenida del Partenón, 5, 28042 Madrid.",
+   "photo": null,
+   "linked_event_slugs": [
+    "tech-show-madrid-2027",
+    "fitur-2027",
+    "motortec-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.ifema.es/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ifema.es/en/about-us",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Convention Centre North auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1100,
+     "capacity_theatre": 1100,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.ifema.es/"
+    },
+    {
+     "name": "Convention Centre South auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 600,
+     "capacity_theatre": 600,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.ifema.es/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "fycma-malaga",
+   "name": "FYCMA (Palacio de Ferias y Congresos de Málaga)",
+   "type": "convention_centre",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Málaga",
+   "address": "Avenida de José Ortega y Gasset 201, 29006 Málaga",
+   "lat": 36.707382,
+   "lon": -4.460248,
+   "url": "https://fycma.com/",
+   "capacity": 20000,
+   "exhibition_sqm": 19500,
+   "halls": "Two exhibition pavilions totalling 17,000 m² plus auditoriums of 900 and 600 seats; official pages describe 60,000 m² of facilities overall",
+   "description": "Málaga's official trade-fair and congress palace. Current official pages describe 60,000 m² of facilities, 19,500 m² of exhibition space (17,000 m² in two pavilions), events for up to 20,000 guests, and auditoriums of 900 and 600 seats. The published enquiry address is info@fycma.com. An official 2018 brochure is archived; headline totals follow the current website because room counts in the older PDF may be dated.",
+   "photo": null,
+   "linked_event_slugs": [
+    "des-malaga-2027"
+   ],
+   "contact_email": "info@fycma.com",
+   "sources": [
+    {
+     "url": "https://fycma.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://fycma.com/wp-content/uploads/2018/10/Folleto-FYCMA.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Auditorium 1",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 900,
+     "capacity_theatre": 900,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fycma.com/"
+    },
+    {
+     "name": "Auditorium 2",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 600,
+     "capacity_theatre": 600,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://fycma.com/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "FYCMA official brochure (2018)",
+     "doc_type": "brochure",
+     "language": "es",
+     "source_url": "https://fycma.com/wp-content/uploads/2018/10/Folleto-FYCMA.pdf",
+     "href": "https://fycma.com/wp-content/uploads/2018/10/Folleto-FYCMA.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "la-nave-madrid",
+   "name": "La Nave",
+   "type": "other",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Madrid",
+   "address": "Calle de Cifuentes 5, Madrid",
+   "lat": 40.3474284,
+   "lon": -3.6962852,
+   "url": "https://www.lanavemadrid.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Municipal events and innovation venue in Madrid, at Calle de Cifuentes 5. It is the published venue for Nerdearla Madrid 2027. South Summit's FAQ states La Nave as its standing Madrid venue at the same address; that slug is linked with a caveat in NOTES_ES.md because the FAQ is not a 2027-specific venue announcement. No official headline capacity was stored in this pass. Coordinates are the atlas precise pin published with Nerdearla Madrid 2027 at this address.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nerdearla-madrid-2027",
+    "south-summit-madrid-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.lanavemadrid.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "city-of-arts-and-sciences-valencia",
+   "name": "Ciutat de les Arts i les Ciències / City of Arts and Sciences",
+   "type": "other",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Valencia",
+   "address": null,
+   "lat": 39.455756,
+   "lon": -0.352552,
+   "url": "https://www.cac.es/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Valencia cultural complex used as the published venue for VDS 2027. Included as a distinctive named site rather than a purpose-built trade-fair centre. Official campus-wide conference totals were not stored in this pass. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "vds-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.cac.es/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "world-trade-center-barcelona",
+   "name": "World Trade Center Barcelona",
+   "type": "congress_centre",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barcelona",
+   "address": null,
+   "lat": 41.3713,
+   "lon": 2.182243,
+   "url": "https://www.wtcbarcelona.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Waterfront business and events complex in Barcelona, published as the venue for DevBcn 2027. Coordinates are the atlas precise pin. Individual room capacities (for example Ágora) were seen in secondary snippets but are left unset until confirmed on the official events pages.",
+   "photo": null,
+   "linked_event_slugs": [
+    "devbcn-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.wtcbarcelona.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.wtcbarcelonaevents.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "fira-barcelona-montjuic",
+   "name": "Fira Barcelona Montjuïc",
+   "type": "exhibition_grounds",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barcelona",
+   "address": "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona",
+   "lat": 41.3719298,
+   "lon": 2.1517909,
+   "url": "https://www.firabarcelona.com/",
+   "capacity": null,
+   "exhibition_sqm": 153000,
+   "halls": "Historic Montjuïc exhibition site including the Palau de Congressos (auditorium seating more than 1,600)",
+   "description": "Fira Barcelona's historic Montjuïc exhibition site. Official Fira venue pages state 153,000 m² and a Palau de Congressos auditorium seating more than 1,600. The official address is Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona. Coordinates are the Nominatim pin for the named Fira de Montjuïc complex.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "infofira@firabarcelona.com",
+   "sources": [
+    {
+     "url": "https://www.firabarcelona.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.firabarcelona.com/en/venues/montjuic/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Palau de Congressos auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 1600,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Fira pages describe the auditorium as seating more than 1,600; the exact maximum is not stored as a single integer.",
+     "source_url": "https://www.firabarcelona.com/en/venues/montjuic/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "ccib-barcelona",
+   "name": "CCIB (Centre de Convencions Internacional de Barcelona)",
+   "type": "convention_centre",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barcelona",
+   "address": "Passeig del Taulat 11-14, 08019 Barcelona",
+   "lat": 41.4094939,
+   "lon": 2.2192968,
+   "url": "https://www.ccib.es/",
+   "capacity": null,
+   "exhibition_sqm": 100000,
+   "halls": null,
+   "description": "International convention centre in Barcelona's Diagonal Mar area, managed with Fira Barcelona. Official Fira venue pages describe 100,000 m² of floorspace. Coordinates and the Passeig del Taulat 11-14 address come from the Nominatim named-building pin for the Centre de Convencions Internacional de Barcelona. Hall-by-hall capacities were not stored in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.ccib.es/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.firabarcelona.com/en/venues/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "feria-valencia",
+   "name": "Feria Valencia",
+   "type": "exhibition_grounds",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Valencia",
+   "address": "Avenida de les Fires, s/n, 46035 Valencia",
+   "lat": 39.5038361,
+   "lon": -0.4284084,
+   "url": "https://www.feriavalencia.com/",
+   "capacity": 20000,
+   "exhibition_sqm": 230000,
+   "halls": "Current official and regional tourism figures: 19 pavilions, 48 rooms and 3 auditoriums, events for up to 20,000 people",
+   "description": "Valencia's main trade-fair complex. Current official and Comunitat Valenciana tourism / economic-impact materials describe more than 230,000 m² of event space, 19 pavilions, 48 rooms, three auditoriums and events for up to 20,000 people. The official address is Avenida de les Fires, s/n, 46035, and feriavalencia@feriavalencia.com is published. A 2015 Foro Centro PDF is archived but states 152,600 m² and 12 pavilions; those figures are treated as superseded. Coordinates are the Nominatim pin for the named Fira València complex.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "feriavalencia@feriavalencia.com",
+   "sources": [
+    {
+     "url": "https://www.feriavalencia.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Feria Valencia Foro Centro factsheet (2015; figures may be superseded)",
+     "doc_type": "fact_sheet",
+     "language": "es",
+     "source_url": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
+     "href": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "bilbao-exhibition-centre",
+   "name": "Bilbao Exhibition Centre (BEC)",
+   "type": "exhibition_grounds",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barakaldo",
+   "address": "Ronda de Azkue 1, 48902 Barakaldo",
+   "lat": 43.2879511,
+   "lon": -2.9902004,
+   "url": "https://bilbaoexhibitioncentre.com/",
+   "capacity": 20000,
+   "exhibition_sqm": 150000,
+   "halls": "6 halls, Bizkaia Arena (up to 20,000) and BEC Convenciones (18,000 m²)",
+   "description": "The Basque Country's main exhibition and events centre, in Barakaldo. Official about-us pages state 150,000 m², six halls, Bizkaia Arena for up to 20,000 people and BEC Convenciones of 18,000 m². The official address is Ronda de Azkue 1, 48902 Barakaldo; bec@bec.eu and convenciones@bec.eu are published. A 2021 official dossier is archived; it uses older hall-by-hall figures (including four halls of 15,000 m², one of 20,000 m² and an Arena of 26,000 m²) that do not sum to the current 150,000 m² about-us total, so headline figures follow the current official pages. Coordinates are the Nominatim pin for the named Bilbao Exhibition Centre.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "bec@bec.eu",
+   "sources": [
+    {
+     "url": "https://bilbaoexhibitioncentre.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Bizkaia Arena",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 20000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Current official about-us pages: up to 20,000. A 2021 dossier lists a different Arena area figure and is not used for the headline total.",
+     "source_url": "https://bilbaoexhibitioncentre.com/"
+    },
+    {
+     "name": "BEC Convenciones",
+     "type": null,
+     "area_sqm": 18000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://bilbaoexhibitioncentre.com/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "BEC official dossier (2021; hall figures may be superseded)",
+     "doc_type": "brochure",
+     "language": "es",
+     "source_url": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
+     "href": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "fibes-seville",
+   "name": "FIBES (Palacio de Exposiciones y Congresos de Sevilla)",
+   "type": "convention_centre",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Seville",
+   "address": "Avenida Alcalde Luis Uruñuela 1, 41020 Seville",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.fibes.es/",
+   "capacity": null,
+   "exhibition_sqm": 50000,
+   "halls": null,
+   "description": "Seville's official exhibition and congress palace. The official homepage describes 50,000 m² of facilities ('50,000 m² filled with ideas'). A more detailed official hall breakdown was not stored in this pass. Coordinates are left null: Nominatim returned a street-level result on the official avenue rather than a named-building pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fibes.es/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "palais-des-congres-de-paris",
@@ -231019,7 +232830,10 @@ window.ATLASDATA={
      "url": "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en/spaces",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "paris-expo-porte-de-versailles",
@@ -231065,7 +232879,10 @@ window.ATLASDATA={
      "url": "https://www.viparis.com/en/news-events/news/actualite-166",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "paris-nord-villepinte",
@@ -231099,7 +232916,10 @@ window.ATLASDATA={
      "url": "https://www.viparis.com/en/our-venues/paris-nord-villepinte-en/spaces",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "paris-le-bourget",
@@ -231127,7 +232947,10 @@ window.ATLASDATA={
      "url": "https://www.viparis.com/en/our-venues/paris-le-bourget-en",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "eurexpo-lyon",
@@ -231154,6 +232977,22 @@ window.ATLASDATA={
     {
      "url": "https://www.gl-lyonevents.com/en/eurexpo-lyon",
      "label": "Official source"
+    },
+    {
+     "url": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Eurexpo Lyon general site plan",
+     "doc_type": "floor_plan",
+     "language": "fr",
+     "source_url": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
+     "href": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
+     "local": false
     }
    ]
   },
@@ -231182,7 +233021,10 @@ window.ATLASDATA={
      "url": "https://www.lillegrandpalais.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "palais-des-festivals-cannes",
@@ -231212,7 +233054,10 @@ window.ATLASDATA={
      "url": "https://www.palaisdesfestivals.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "station-f-paris",
@@ -231244,7 +233089,10 @@ window.ATLASDATA={
      "url": "https://faq.stationf.co/hc/en-us/articles/115003119785-What-Is-STATION-F",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "cnit-paris-la-defense",
@@ -231271,7 +233119,10 @@ window.ATLASDATA={
      "url": "https://www.viparis.com/en/our-venues",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "grand-palais-paris",
@@ -231299,7 +233150,10 @@ window.ATLASDATA={
      "url": "https://www.grandpalais.fr/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "accor-arena-paris",
@@ -231326,7 +233180,10 @@ window.ATLASDATA={
      "url": "https://www.accorarena.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "excel-london",
@@ -231340,9 +233197,9 @@ window.ATLASDATA={
    "lon": 0.029707,
    "url": "https://www.excel.london/",
    "capacity": 68750,
-   "exhibition_sqm": null,
+   "exhibition_sqm": 84328,
    "halls": "Official Event Halls page: 87,328 m² of column-free space divided into North and South Event Halls, in 2,000 m² modules, with a stated capacity of 68,750 visitors at any one time. ExCeL vital-statistics PDFs (May 2025 / April 2026) instead list 84,328 m² for those halls, plus ICC Maritime Halls totalling 11,521 m² (Halls 1–6). The International Convention Centre (ICC) at ExCeL includes an auditorium published at 4,603 m² / up to 4,200–5,000 seats depending on the source document, and Capital Hall of 4,518 m² (banquet up to 2,700). AIPC and London Convention Bureau factsheets state 100,000 m² of total exhibition/flexible event space. Because the official hall-area figures do not agree, exhibition_sqm is left null and the figures are recorded here.",
-   "description": "London's Royal Docks exhibition and convention campus, including the International Convention Centre at ExCeL. Official organiser pages give North and South event halls with a 68,750-visitor capacity; total exhibition area is stated as 100,000 m² on AIPC and London Convention Bureau sheets, while ExCeL's own hall PDFs and website differ by a few thousand square metres, so no single exhibition_sqm is stored. The atlas lists many large tech, education and trade events here.",
+   "description": "London's Royal Docks exhibition and convention campus, including the International Convention Centre at ExCeL. Official organiser pages give North and South event halls with a 68,750-visitor capacity; total exhibition area is stated as 100,000 m² on AIPC and London Convention Bureau sheets, while ExCeL's own hall PDFs and website differ by a few thousand square metres, so no single exhibition_sqm is stored. The atlas lists many large tech, education and trade events here. Official April 2026 vital-statistics sheet states 84,328 m² of column-free event-hall space and a total capacity of 68,750 guests; that sheet is now used for exhibition_sqm (earlier public figures of 87,328 and 100,000 are treated as superseded or inconsistent).",
    "photo": null,
    "linked_event_slugs": [
     "black-hat-europe-2026",
@@ -231387,6 +233244,111 @@ window.ATLASDATA={
     {
      "url": "https://aipc.org/?aipc_member_pdf=1309",
      "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "North and South Event Halls (combined column-free space)",
+     "type": null,
+     "area_sqm": 84328,
+     "capacity_max": 68750,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official April 2026 vital-statistics sheet: 84,328 m² column-free space divided into North and South event halls; total capacity 68,750 guests. Standard hall modules N2–N22 and S2–S22 are 2,000 m².",
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 1",
+     "type": null,
+     "area_sqm": 1672,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 2",
+     "type": null,
+     "area_sqm": 1693,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 3",
+     "type": null,
+     "area_sqm": 2044,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 4",
+     "type": null,
+     "area_sqm": 2188,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 5",
+     "type": null,
+     "area_sqm": 2054,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    },
+    {
+     "name": "ICC Maritime Hall 6",
+     "type": null,
+     "area_sqm": 1940,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "ExCeL London vital statistics — metric (May 2025)",
+     "doc_type": "tech_spec",
+     "language": "en",
+     "source_url": "https://www.excel.london/uploads/excel-london-vital-stats---metric---may-2025.pdf",
+     "href": "https://www.excel.london/uploads/excel-london-vital-stats---metric---may-2025.pdf",
+     "local": false
+    },
+    {
+     "title": "ExCeL London vital statistics — event halls (April 2026)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf",
+     "href": "pdfs/venues/gb/excel-london/vital-stats-event-halls-april-2026.pdf",
+     "local": true
     }
    ]
   },
@@ -231434,7 +233396,10 @@ window.ATLASDATA={
      "url": "https://www.olympia.co.uk/space/west-hall-ground-floor",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "eicc-edinburgh",
@@ -231464,7 +233429,10 @@ window.ATLASDATA={
      "url": "https://www.eicc.co.uk/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "icc-birmingham",
@@ -231496,7 +233464,10 @@ window.ATLASDATA={
      "url": "https://www.theicc.co.uk/find-us/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "nec-birmingham",
@@ -231525,7 +233496,10 @@ window.ATLASDATA={
      "url": "https://www.thenec.co.uk/organisers/host-an-exhibition/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "manchester-central",
@@ -231553,7 +233527,10 @@ window.ATLASDATA={
      "url": "https://www.manchestercentral.co.uk/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "business-design-centre-london",
@@ -231584,7 +233561,10 @@ window.ATLASDATA={
      "url": "https://www.businessdesigncentre.co.uk/contact-us/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "qeii-centre",
@@ -231615,6 +233595,22 @@ window.ATLASDATA={
     {
      "url": "https://qeiicentre.london/",
      "label": "Official source"
+    },
+    {
+     "url": "https://qeiicentre.london/downloads/QEII_Centre_Brochure_2026.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "QEII Centre brochure 2026 (over 25 MB; URL recorded only)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://qeiicentre.london/downloads/QEII_Centre_Brochure_2026.pdf",
+     "href": "https://qeiicentre.london/downloads/QEII_Centre_Brochure_2026.pdf",
+     "local": false
     }
    ]
   },
@@ -231646,7 +233642,10 @@ window.ATLASDATA={
      "url": "https://www.radissonhotels.com/en-us/hotels/park-plaza-london-victoria",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "hilton-london-metropole",
@@ -231674,7 +233673,10 @@ window.ATLASDATA={
      "url": "https://www.hilton.com/en/hotels/lonmetw-hilton-london-metropole/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "hilton-brighton-metropole",
@@ -231701,7 +233703,10 @@ window.ATLASDATA={
      "url": "https://www.hilton.com/en/hotels/bshmetw-hilton-brighton-metropole/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "intercontinental-london-the-o2",
@@ -231729,7 +233734,10 @@ window.ATLASDATA={
      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonhb/hoteldetail",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "sec-centre-glasgow",
@@ -231754,7 +233762,10 @@ window.ATLASDATA={
      "url": "https://www.sec.co.uk/organise-an-event/event-spaces/sec-centre",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "liverpool-experience-campus",
@@ -231787,7 +233798,10 @@ window.ATLASDATA={
      "url": "https://www.accliverpool.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "icc-wales",
@@ -231816,7 +233830,10 @@ window.ATLASDATA={
      "url": "https://www.iccwales.com/venue",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "tobacco-dock-london",
@@ -231843,7 +233860,10 @@ window.ATLASDATA={
      "url": "https://www.tobaccodocklondon.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "old-truman-brewery-london",
@@ -231871,7 +233891,10 @@ window.ATLASDATA={
      "url": "https://www.trumanbrewery.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "barbican-centre",
@@ -231899,7 +233922,10 @@ window.ATLASDATA={
      "url": "https://www.barbican.org.uk/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "the-brewery-london",
@@ -231926,7 +233952,10 @@ window.ATLASDATA={
      "url": "https://www.thebrewery.co.uk/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "convene-133-houndsditch",
@@ -231953,7 +233982,10 @@ window.ATLASDATA={
      "url": "https://convene.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "convene-200-aldersgate",
@@ -231980,7 +234012,10 @@ window.ATLASDATA={
      "url": "https://convene.com/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "old-billingsgate-london",
@@ -232007,7 +234042,10 @@ window.ATLASDATA={
      "url": "https://oldbillingsgate.co.uk/",
      "label": "Official source"
     }
-   ]
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "de-vere-grand-connaught-rooms",
@@ -232034,34 +234072,1135 @@ window.ATLASDATA={
      "url": "https://www.devere.co.uk/grand-connaught-rooms/",
      "label": "Official source"
     }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "fiera-milano-rho",
+   "name": "Fiera Milano (Rho)",
+   "type": "exhibition_grounds",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Rho",
+   "address": null,
+   "lat": 45.521172,
+   "lon": 9.088472,
+   "url": "https://www.fieramilano.it/",
+   "capacity": null,
+   "exhibition_sqm": 345000,
+   "halls": "20 halls / 8 Fuksas pavilions, plus 60,000 m² outdoor exhibition area (Fondazione Fiera Milano)",
+   "description": "Italy's largest exhibition precinct, in Rho on the edge of Milan. Fondazione Fiera Milano official materials state 345,000 m² of indoor exhibition space plus 60,000 m² outdoors, in 20 halls across eight Fuksas pavilions. An investor presentation repeats the 345,000 m² indoor figure; one brochure also states 325,676 m², which is noted as a discrepancy, and the 345,000 official Fondazione figure is stored. Coordinates are the atlas precise pin. A street address was not copied from an official contact page in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ai-week-milan-2027",
+    "eicma-2027",
+    "emo-milano-2027",
+    "host-milano-2027",
+    "made-expo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fieramilano.it/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fondazionefieramilano.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "bolognafiere",
+   "name": "BolognaFiere",
+   "type": "exhibition_grounds",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Bologna",
+   "address": null,
+   "lat": 44.512122,
+   "lon": 11.365244,
+   "url": "https://www.bolognafiere.it/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "20 halls; official combined indoor and outdoor area 375,000 m² (not stored as indoor exhibition_sqm)",
+   "description": "Bologna's main exhibition centre and the published venue for We Make Future 2027. Official materials describe 20 halls and 375,000 m² of indoor and outdoor area combined. That combined figure is not stored as exhibition_sqm, which is reserved for indoor exhibition area. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "wmf-2027",
+    "cersaie-2027",
+    "cosmoprof-worldwide-bologna-2027",
+    "mecspe-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.bolognafiere.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "fiera-di-genova",
+   "name": "Fiera di Genova",
+   "type": "exhibition_grounds",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Genoa",
+   "address": "Piazzale John Fitzgerald Kennedy, 16129 Genoa",
+   "lat": 44.3959841,
+   "lon": 8.9445379,
+   "url": "https://www.fiera.ge.it/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Genoa's exhibition centre on Piazzale Kennedy, published as the venue for the Genoa International Boat Show 2027. Official indoor-area totals were not stored in this pass. Coordinates are the Nominatim pin for the named Fiera / Marconi 1 complex at Piazzale John Fitzgerald Kennedy.",
+   "photo": null,
+   "linked_event_slugs": [
+    "genoa-international-boat-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.fiera.ge.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "arsenale-di-venezia",
+   "name": "Arsenale di Venezia",
+   "type": "other",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Venice",
+   "address": null,
+   "lat": 45.4354304,
+   "lon": 12.3533364,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Historic Venetian Arsenale, published as the venue for the Venice Boat Show 2027. Included as a distinctive named site rather than a purpose-built convention centre. Official conference or exhibition totals were not stored. Coordinates are the atlas precise pin published with the Venice Boat Show 2027.",
+   "photo": null,
+   "linked_event_slugs": [
+    "venice-boat-show-2027"
+   ],
+   "contact_email": null,
+   "sources": [],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "museo-nazionale-scienza-tecnologia-leonardo-da-vinci",
+   "name": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci",
+   "type": "other",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Milan",
+   "address": "Via San Vittore 21, Milan",
+   "lat": 45.461781,
+   "lon": 9.170587,
+   "url": "https://www.museoscienza.org/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Milan science and technology museum, published as the venue for Milano Blockchain Week 2027. Included as a distinctive named cultural venue. Coordinates are the atlas precise pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "milano-blockchain-week-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.museoscienza.org/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "superstudio-maxi",
+   "name": "Superstudio Maxi",
+   "type": "other",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Milan",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.superstudiogroup.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Milan events venue published as the site of AI Festival Milan 2027. Official street address and capacity figures were not confirmed from the venue site in this pass. Coordinates are left null because the atlas pin was only city-level and Nominatim did not return a named-building result.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ai-festival-milan-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.superstudiogroup.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "hotel-san-marco-verona",
+   "name": "Hotel San Marco Verona",
+   "type": "hotel_conference_venue",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Verona",
+   "address": "Via Baldassarre Longhena 42, Verona",
+   "lat": null,
+   "lon": null,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Hotel in Verona published as the venue for phpday 2027. Included because it hosts an atlas conference. No official national star classification or published meeting-room capacities were confirmed in this pass, so star_rating and capacities are null. Coordinates are left null because only an imprecise city-level pin was available.",
+   "photo": null,
+   "linked_event_slugs": [
+    "phpday-2027"
+   ],
+   "contact_email": null,
+   "sources": [],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "allianz-mico",
+   "name": "Allianz MiCo",
+   "type": "congress_centre",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Milan",
+   "address": "Piazzale Carlo Magno 1, 20149 Milan",
+   "lat": 45.4804792,
+   "lon": 9.15582,
+   "url": "https://www.micomilano.it/",
+   "capacity": null,
+   "exhibition_sqm": 50000,
+   "halls": "Official micomilano.it: more than 50,000 m² of exhibition space and 60 meeting rooms. Fondazione Fiera Milano also cites 65 rooms and 18,000 people simultaneously; an investor presentation cites 54,000 m² and 21,000 seats. Those conflicting totals are not stored as a single capacity_max_delegates figure.",
+   "description": "Milan's main purpose-built congress centre (Allianz MiCo). The venue's official site describes more than 50,000 m² of exhibition space and 60 meeting rooms, with a legal address at Piazzale Carlo Magno 1, 20149 Milan. The owner, Fondazione Fiera Milano, also publishes 65 rooms and 18,000 people simultaneously; an investor presentation cites 54,000 m² and 21,000 seats. Headline exhibition area follows the venue site as 'more than 50,000 m²' (stored as 50,000 with that caveat). Coordinates are the Nominatim pin for the official street address. Competitor marketplace listings were not used.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.micomilano.it/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fondazionefieramilano.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "rimini-expo-centre",
+   "name": "Rimini Expo Centre (Italian Exhibition Group)",
+   "type": "exhibition_grounds",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Rimini",
+   "address": null,
+   "lat": 44.0723986,
+   "lon": 12.526415,
+   "url": "https://www.iegexpo.it/",
+   "capacity": null,
+   "exhibition_sqm": 137300,
+   "halls": "Official IEG body text: 197,300 m² usable area, of which 137,300 m² is exhibition space (a November 2024 temporary addition of 8,300 m² is also mentioned; some page widgets show 189,000 / 129,000)",
+   "description": "Italian Exhibition Group's Rimini exhibition centre. Official IEG page body text states 197,300 m² of usable area, of which 137,300 m² is exhibition space, and mentions a temporary 8,300 m² addition from November 2024. Some widgets on the same site show 189,000 / 129,000; the body-text 137,300 exhibition figure is stored, with the discrepancy noted. Coordinates are the Nominatim pin for the named Fiera di Rimini. A full official street address was not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sigep-world-2027",
+    "ecomondo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.iegexpo.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "roma-convention-center-la-nuvola",
+   "name": "Roma Convention Center La Nuvola",
+   "type": "convention_centre",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Rome",
+   "address": "Viale della Pittura 50, 00144 Rome",
+   "lat": 41.830872,
+   "lon": 12.4715943,
+   "url": "https://www.romaconventioncenter.it/",
+   "capacity": 8000,
+   "exhibition_sqm": 26000,
+   "halls": "Auditorium 1,800 seats; Forum 7,300 m²; meeting halls 9,000 m² with about 30 rooms and a 5,000-seat plenary; official total almost 26,000 m² and 8,000 seats",
+   "description": "Rome's flagship convention centre in the EUR district. Official romaconventioncenter.it pages describe almost 26,000 m² of floor area and 8,000 seats, with a 1,800-seat auditorium, a 7,300 m² Forum, and 9,000 m² of meeting halls (about 30 rooms, plenary 5,000). The official organisers / group address is Viale della Pittura 50, 00144 Rome. Coordinates are the Nominatim pin for the named Roma Convention Center La Nuvola building (labelled at Viale Asia 40). Competitor marketplace listings were not used as a source.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.romaconventioncenter.it/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1800,
+     "capacity_theatre": 1800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.romaconventioncenter.it/"
+    },
+    {
+     "name": "Forum",
+     "type": null,
+     "area_sqm": 7300,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.romaconventioncenter.it/"
+    },
+    {
+     "name": "Meeting halls (combined)",
+     "type": null,
+     "area_sqm": 9000,
+     "capacity_max": null,
+     "capacity_theatre": 5000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official pages: about 30 rooms and a 5,000-seat plenary within 9,000 m² of meeting halls.",
+     "source_url": "https://www.romaconventioncenter.it/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "rai-amsterdam",
+   "name": "RAI Amsterdam",
+   "type": "exhibition_grounds",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": "Europaplein 24, 1078 GZ Amsterdam",
+   "lat": 52.341226,
+   "lon": 4.889907,
+   "url": "https://www.rai.nl/",
+   "capacity": null,
+   "exhibition_sqm": 116200,
+   "halls": "12 exhibition halls, 61 conference and meeting rooms, 3 conference centres, 2 auditoriums and 1 ballroom (official complex page; the 2025 annual report also states 70 rooms)",
+   "description": "Amsterdam's main exhibition and conference complex on Europaplein. Official venue pages put event space at 116,200 m² across 12 halls, with three conference centres, two auditoriums and a ballroom. Official hall factsheets give Hall 1 15,000 m² (plus a 3,240 m² balcony), Hall 3 3,920 m² and Hall 12 9,035 m². The 2025 annual report is kept as a facilities source; it also cites 70 rooms where the complex page says 61, so the room count is recorded with that caveat.",
+   "photo": null,
+   "linked_event_slugs": [
+    "money2020-europe-2027",
+    "ai-big-data-expo-europe-2027",
+    "metstrade-2027",
+    "horecava-2027",
+    "aquatech-amsterdam-2027",
+    "greentech-amsterdam-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rai.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rai.nl/en/organising-your-event/our-complex",
+     "label": "Official source"
+    },
+    {
+     "url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall01-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall03-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall12-en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://annualreports.rai.nl/annual-report-2025/pdf-download/$13143/$13144/RAI%20Annual%20report%202025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 15000,
+     "capacity_max": null,
+     "capacity_theatre": 10000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official factsheet also lists a 3,240 m² balcony. A larger theatre figure of 18,240 appears on the sheet and is not stored as the hall total pending a clearer layout label.",
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall01-en.pdf"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 3920,
+     "capacity_max": null,
+     "capacity_theatre": 4000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall03-en.pdf"
+    },
+    {
+     "name": "Hall 12",
+     "type": null,
+     "area_sqm": 9035,
+     "capacity_max": null,
+     "capacity_theatre": 7500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall12-en.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "RAI Amsterdam Hall 1 factsheet (EN)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall01-en.pdf",
+     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-01-en.pdf",
+     "local": true
+    },
+    {
+     "title": "RAI Amsterdam Hall 3 factsheet (EN)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall03-en.pdf",
+     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-03-en.pdf",
+     "local": true
+    },
+    {
+     "title": "RAI Amsterdam Hall 12 factsheet (EN)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall12-en.pdf",
+     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-12-en.pdf",
+     "local": true
+    },
+    {
+     "title": "RAI Amsterdam annual report 2025",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://annualreports.rai.nl/annual-report-2025/pdf-download/$13143/$13144/RAI%20Annual%20report%202025.pdf",
+     "href": "https://annualreports.rai.nl/annual-report-2025/pdf-download/$13143/$13144/RAI%20Annual%20report%202025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "jaarbeurs-utrecht",
+   "name": "Jaarbeurs Utrecht",
+   "type": "exhibition_grounds",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Utrecht",
+   "address": "Jaarbeursplein 6, 3521 AL Utrecht",
+   "lat": 52.08454,
+   "lon": 5.104077,
+   "url": "https://www.jaarbeurs.nl/",
+   "capacity": null,
+   "exhibition_sqm": 86000,
+   "halls": "10 halls (Royal Jaarbeurs brochure 2025: up to 86,000 m²)",
+   "description": "Utrecht's exhibition and events complex next to the central station. The official 2025 Royal Jaarbeurs brochure describes 10 halls totalling up to 86,000 m². Hall 12 is given as 11,383 m² with a theatre-style capacity of about 10,357–10,360. Some hall figures conflict across brochure pages (notably Hall 8), so only clearly consistent spaces are stored.",
+   "photo": null,
+   "linked_event_slugs": [
+    "not-2027",
+    "ipon-2028"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.jaarbeurs.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 12",
+     "type": null,
+     "area_sqm": 11383,
+     "capacity_max": null,
+     "capacity_theatre": 10357,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Theatre-style figure is given as about 10,357–10,360 in the official 2025 brochure.",
+     "source_url": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Royal Jaarbeurs brochure 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
+     "href": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "expo-houten",
+   "name": "Expo Houten",
+   "type": "exhibition_grounds",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Houten",
+   "address": "Meidoornkade 24, 3992 AE Houten",
+   "lat": 52.038336,
+   "lon": 5.141422,
+   "url": "https://www.expohouten.nl/",
+   "capacity": 2000,
+   "exhibition_sqm": 10000,
+   "halls": "4 halls and 10 meeting rooms (official 2026 event brochure); site events range from 8 to 2,000 people",
+   "description": "Regional exhibition and events venue in Houten, near Utrecht. The official 2026 event brochure states 10,000 m² across four halls plus ten meeting rooms. The combined Wilgenzaal is published at theatre-style capacity of 350. The venue's own pages describe events from 8 to 2,000 people.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cloud-expo-2026"
+   ],
+   "contact_email": "info@expohouten.nl",
+   "sources": [
+    {
+     "url": "https://www.expohouten.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Wilgenzaal (1 & 2 combined)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 350,
+     "capacity_theatre": 350,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: combined Wilgenzaal holds 350 guests; individual Wilgenzaal 1 and 2 are listed separately in the same document.",
+     "source_url": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Expo Houten event brochure 2026",
+     "doc_type": "brochure",
+     "language": "nl",
+     "source_url": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
+     "href": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "hotel-okura-amsterdam",
+   "name": "Hotel Okura Amsterdam",
+   "type": "hotel_conference_venue",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": "Ferdinand Bolstraat 333, 1072 LH Amsterdam",
+   "lat": 52.3487287,
+   "lon": 4.894117,
+   "url": "https://www.okura.nl/",
+   "capacity": 2500,
+   "exhibition_sqm": null,
+   "halls": "20 function rooms and 4 foyers on a 2,700 m² first-floor events level",
+   "description": "Five-star Superior hotel with a dedicated events floor. The official Dutch Hotelstars register (hotelsterren.nl) last classified the hotel on 14 October 2024 as Superior and notes it was the first hotel in the Netherlands to receive the European Five-Star Superior shield. Official meetings pages and the same register describe 2,700 m² and 20 rooms for events of up to 2,500 guests. The Grand Ballroom is published at 902 m², with theatre 1,015, banquet 650 and standing 1,600.",
+   "photo": null,
+   "linked_event_slugs": [
+    "superreturn-europe-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.okura.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.okura.nl/events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.okura.com/amsterdam/meetings/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hotelsterren.nl/hotels/hotel-okura-amsterdam-amsterdam",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 902,
+     "capacity_max": 1600,
+     "capacity_theatre": 1015,
+     "capacity_classroom": null,
+     "capacity_banquet": 650,
+     "capacity_reception": 1600,
+     "notes": "Largest published meeting room. Star rating is 5 with official Hotelstars Superior add-on (classified 14/10/2024).",
+     "source_url": "https://www.okura.com/amsterdam/meetings/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "johan-cruijff-arena",
+   "name": "Johan Cruijff ArenA",
+   "type": "other",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": null,
+   "lat": 52.314353,
+   "lon": 4.942843,
+   "url": "https://www.johancruijffarena.nl/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Amsterdam football stadium that also hosts conferences and events. Included because it is the published venue for Dutch Blockchain Week 2027 in the atlas. Stadium match-day capacity is not recorded here as a conference delegate figure.",
+   "photo": null,
+   "linked_event_slugs": [
+    "dutch-blockchain-week-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.johancruijffarena.nl/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "kinepolis-utrecht",
+   "name": "Kinepolis Utrecht (Jaarbeurs)",
+   "type": "other",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Utrecht",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://kinepolis.nl/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Cinema complex at the Jaarbeurs area in Utrecht, included as the published venue for RustWeek 2027. No official conference-capacity figures were stored in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "rustweek-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://kinepolis.nl/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "taets-art-event-park",
+   "name": "Taets Art & Event Park",
+   "type": "other",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Zaandam",
+   "address": "Middenweg 62, 1505 RK Zaandam",
+   "lat": 52.423394,
+   "lon": 4.832105,
+   "url": "https://www.taets.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Art and events park in Zaandam, published as the venue for World Summit AI 2027. Official contact pages list the Middenweg address and a general enquiry email. Campus-wide capacity figures were not stored without a clearer official total.",
+   "photo": null,
+   "linked_event_slugs": [
+    "world-summit-ai-2027"
+   ],
+   "contact_email": "info@taets.com",
+   "sources": [
+    {
+     "url": "https://www.taets.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "meervaart-amsterdam",
+   "name": "Theater De Meervaart",
+   "type": "other",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": "Meer en Vaart 300, 1068 LE Amsterdam",
+   "lat": 52.3589481,
+   "lon": 4.8073957,
+   "url": "https://www.meervaart.nl/",
+   "capacity": 800,
+   "exhibition_sqm": null,
+   "halls": "2 theatre halls plus 10 meeting rooms (official 2026 meetings information pack)",
+   "description": "Theatre and meetings venue in Amsterdam Nieuw-West. The official 2026 meetings and events information pack lists the Rode zaal for 800 people (523 in the stalls and 277 on the balcony) and the Blauwe zaal for 265 people, plus ten meeting rooms. The venue publishes events@meervaart.nl as its events contact.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ddd-europe-2027"
+   ],
+   "contact_email": "events@meervaart.nl",
+   "sources": [
+    {
+     "url": "https://www.meervaart.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Rode zaal",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 800,
+     "capacity_theatre": 800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 pack: 523 in the stalls and 277 on the balcony.",
+     "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf"
+    },
+    {
+     "name": "Blauwe zaal",
+     "type": null,
+     "area_sqm": 308,
+     "capacity_max": 265,
+     "capacity_theatre": 265,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Theatre capacity 265 is from the official 2026 pack. Area 308 m² was published in the same venue meetings materials.",
+     "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Meervaart meetings and events information pack 2026",
+     "doc_type": "brochure",
+     "language": "nl",
+     "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
+     "href": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "rotterdam-ahoy",
+   "name": "Rotterdam Ahoy",
+   "type": "convention_centre",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Rotterdam",
+   "address": "Ahoyweg 10, 3084 BA Rotterdam",
+   "lat": 51.8832963,
+   "lon": 4.4883655,
+   "url": "https://www.ahoy.nl/",
+   "capacity": 4400,
+   "exhibition_sqm": 33000,
+   "halls": "6 exhibition halls (official halls total 33,000 m², of which Hall 1 is 10,000 m²) plus Rotterdam Ahoy Convention Centre (RACC)",
+   "description": "Rotterdam's combined exhibition halls and convention centre on Ahoyweg. Official hall pages put the six exhibition halls at 33,000 m², including Hall 1 at 10,000 m². The official RACC capacity chart dated 23 March 2026 is the source for convention-room figures: RTM Stage is 3,100 m² with theatre seating for 4,400; the combined Rotterdam room is 2,500 m² / 2,300 theatre; Port 1 is 1,050 m² / 1,000 theatre. The June 2026 venue-guide floorplan also states 90,000 m² of space for events, tradeshows and conferences as a wider campus figure, which is not stored as indoor exhibition area. The capacity chart publishes meetings@ahoy.nl.",
+   "photo": null,
+   "linked_event_slugs": [
+    "europort-2027"
+   ],
+   "contact_email": "meetings@ahoy.nl",
+   "sources": [
+    {
+     "url": "https://www.ahoy.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://portal.ahoy.nl/files/files/venueguides/rotterdam_ahoy_venue-guide-en-racc-a4-june.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Hall 1",
+     "type": null,
+     "area_sqm": 10000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "From official Ahoy exhibition-halls pages. Six halls total 33,000 m².",
+     "source_url": "https://www.ahoy.nl/"
+    },
+    {
+     "name": "RTM Stage",
+     "type": null,
+     "area_sqm": 3100,
+     "capacity_max": 4400,
+     "capacity_theatre": 4400,
+     "capacity_classroom": 1000,
+     "capacity_banquet": 1700,
+     "capacity_reception": 3500,
+     "notes": "Official RACC capacity overview, last update 23-03-2026. Height 17 m. Cabaret 1,600 is on the same chart but not a schema field.",
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf"
+    },
+    {
+     "name": "Rotterdam (combined)",
+     "type": null,
+     "area_sqm": 2500,
+     "capacity_max": 2500,
+     "capacity_theatre": 2300,
+     "capacity_classroom": 912,
+     "capacity_banquet": 980,
+     "capacity_reception": 2500,
+     "notes": "Official chart 23-03-2026. Subdivides into Rotterdam A–D.",
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf"
+    },
+    {
+     "name": "Port 1",
+     "type": null,
+     "area_sqm": 1050,
+     "capacity_max": 1000,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 320,
+     "capacity_banquet": 450,
+     "capacity_reception": 1000,
+     "notes": null,
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf"
+    },
+    {
+     "name": "Dock 10",
+     "type": null,
+     "area_sqm": 562,
+     "capacity_max": 520,
+     "capacity_theatre": 520,
+     "capacity_classroom": 170,
+     "capacity_banquet": 200,
+     "capacity_reception": 500,
+     "notes": null,
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf"
+    },
+    {
+     "name": "Dock 1",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": 450,
+     "capacity_theatre": 400,
+     "capacity_classroom": 126,
+     "capacity_banquet": 160,
+     "capacity_reception": 450,
+     "notes": null,
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Rotterdam Ahoy Convention Centre capacity overview (23 March 2026)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf",
+     "href": "pdfs/venues/nl/rotterdam-ahoy/racc-capacity-overview-2026-03.pdf",
+     "local": true
+    },
+    {
+     "title": "Rotterdam Ahoy RACC venue guide (June 2026)",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://portal.ahoy.nl/files/files/venueguides/rotterdam_ahoy_venue-guide-en-racc-a4-june.pdf",
+     "href": "pdfs/venues/nl/rotterdam-ahoy/racc-venue-guide-june-2026.pdf",
+     "local": true
+    }
+   ]
+  },
+  {
+   "slug": "mecc-maastricht",
+   "name": "MECC Maastricht",
+   "type": "convention_centre",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Maastricht",
+   "address": "Forum 100, 6229 GV Maastricht",
+   "lat": 50.8392924,
+   "lon": 5.7118065,
+   "url": "https://www.mecc.nl/",
+   "capacity": 5000,
+   "exhibition_sqm": 30000,
+   "halls": "4 exhibition halls plus conference facilities including 2 auditoriums (1,650 and 1,642) and the Expo Foyer (2,500 m²)",
+   "description": "Maastricht's exhibition and conference centre. Official pages describe about 30,000 m² of exhibition space in four halls, conference facilities for up to 5,000 people, two auditoriums seating 1,650 and 1,642, and an Expo Foyer of 2,500 m². The official contact page lists Forum 100, 6229 GV Maastricht and info@mecc.nl. Coordinates are the Nominatim pin for the named MECC complex (the POI label uses Paul-Henri Spaaklaan; the stored street address is the official Forum 100 contact address).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "info@mecc.nl",
+   "sources": [
+    {
+     "url": "https://www.mecc.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mecc.nl/en/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.mecc.nl/en/spaces/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Auditorium 1",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1650,
+     "capacity_theatre": 1650,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mecc.nl/en/spaces/"
+    },
+    {
+     "name": "Auditorium 2",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1642,
+     "capacity_theatre": 1642,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.mecc.nl/en/spaces/"
+    },
+    {
+     "name": "Expo Foyer",
+     "type": null,
+     "area_sqm": 2500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official spaces pages describe a 2,500 m² Expo Foyer (about 2,000 seats in some layouts).",
+     "source_url": "https://www.mecc.nl/en/spaces/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "world-forum-the-hague",
+   "name": "World Forum The Hague",
+   "type": "congress_centre",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "The Hague",
+   "address": "Churchillplein 10, 2517 JW The Hague",
+   "lat": 52.0926176,
+   "lon": 4.2828457,
+   "url": "https://www.worldforum.nl/",
+   "capacity": 5000,
+   "exhibition_sqm": 12000,
+   "halls": "Congress centre with a 2,161-seat auditorium and up to 12,000 m² of exhibition space",
+   "description": "Purpose-built congress centre in The Hague. Official venue and The Hague convention-bureau pages describe up to 5,000 guests, a 2,161-seat auditorium and 12,000 m² of exhibition space. The official address is Churchillplein 10, 2517 JW, and info@worldforum.nl is published as a venue contact.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "info@worldforum.nl",
+   "sources": [
+    {
+     "url": "https://www.worldforum.nl/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.thehague.com/en/business",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Auditorium",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2161,
+     "capacity_theatre": 2161,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.worldforum.nl/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "sofitel-legend-the-grand-amsterdam",
+   "name": "Sofitel Legend The Grand Amsterdam",
+   "type": "hotel_conference_venue",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": "Oudezijds Voorburgwal 197, 1012 EX Amsterdam",
+   "lat": 52.3709275,
+   "lon": 4.895255,
+   "url": "https://www.sofitel-legend-thegrand.com/",
+   "capacity": 320,
+   "exhibition_sqm": null,
+   "halls": "19 meeting and event spaces (official Hotelstars register and Sofitel meetings pages); five rooms have monument status",
+   "description": "Canal-side luxury hotel with a substantial meetings offer. The official Dutch Hotelstars register last classified it on 28 April 2025 as Superior and describes five-star luxury, with 19 meeting and event spaces. Official Sofitel meetings pages publish a largest capacity of 320 guests in the Council Chamber. The official 2025 hotel brochure is freely linked but exceeds the 25 MB download limit, so only the URL is recorded.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.sofitel-legend-thegrand.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sofitel.accor.com/en/hotels/2783/meetings.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hotelsterren.nl/hotels/sofitel-legend-the-grand-amsterdam-amsterdam",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.sofitel-legend-thegrand.com/download/HotelBrochure_TheGrand2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Council Chamber",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 320,
+     "capacity_theatre": 320,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Largest published capacity on official Sofitel meetings pages.",
+     "source_url": "https://sofitel.accor.com/en/hotels/2783/meetings.html"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Sofitel Legend The Grand Amsterdam hotel brochure 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.sofitel-legend-thegrand.com/download/HotelBrochure_TheGrand2025.pdf",
+     "href": "https://www.sofitel-legend-thegrand.com/download/HotelBrochure_TheGrand2025.pdf",
+     "local": false
+    }
    ]
   }
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 1245,
+  "conference": 1260,
   "festival": 1499,
   "sports": 203,
-  "dated": 2408,
+  "dated": 2423,
   "dates_tba": 536,
   "postponed": 3,
   "duplicates_merged": 268,
   "regions": {
-   "europe": 1319,
-   "middle_east": 147,
-   "asia": 484,
+   "europe": 1322,
+   "middle_east": 151,
+   "asia": 492,
    "africa": 146,
    "uae": 118,
    "oceania": 155,
    "north_america": 375,
    "south_america": 203
   },
-  "expo": 88,
+  "expo": 103,
   "hotels": 14,
-  "venues": 60,
-  "europe": 1319,
-  "middle_east": 147,
-  "asia": 484,
+  "venues": 95,
+  "europe": 1322,
+  "middle_east": 151,
+  "asia": 492,
   "africa": 146,
   "uae": 118,
   "oceania": 155,

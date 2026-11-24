@@ -614,7 +614,7 @@ function hotelsSectionHtml(e){
 const VENUES_ALL = (D.venues||[]).filter(v => v && v.slug && v.name);
 const VENUES = VENUES_ALL.filter(v => v.lat!=null && (v.lon!=null || v.lng!=null));
 let venueLayer = null;
-let VENUES_ON = true;
+let VENUES_ON = false;
 
 function venueBySlug(slug){
   if(!slug) return null;
@@ -631,6 +631,93 @@ function venueCapacityLabel(v){
   if(!isFinite(n)) return '';
   return n.toLocaleString('en-GB')+' capacity';
 }
+function venueTypeLabel(typ){
+  const labels = {
+    exhibition_grounds:'Exhibition grounds',
+    congress_centre:'Congress centre',
+    convention_centre:'Convention centre',
+    hotel_conference_venue:'Hotel conference venue',
+    other:'Venue'
+  };
+  typ = String(typ||'').trim();
+  if(!typ) return 'Venue';
+  if(labels[typ]) return labels[typ];
+  if(typ.indexOf('_')>=0) return typ.replace(/_/g,' ').replace(/^\w/, c => c.toUpperCase());
+  return typ;
+}
+function venueStarLabel(v){
+  const r = Number(v && v.star_rating);
+  if(!isFinite(r) || r<1 || r>5) return '';
+  return Math.round(r)+'-star (official classification)';
+}
+function venueSqmLabel(v){
+  const n = Number(v && v.exhibition_sqm);
+  if(!isFinite(n) || n<=0) return '';
+  return n.toLocaleString('en-GB')+' m²';
+}
+function spaceCapacityLabel(sp){
+  if(!sp) return '';
+  const fmt = (n, lab) => {
+    const x = Number(n);
+    if(!isFinite(x)) return '';
+    return x.toLocaleString('en-GB')+(lab?(' '+lab):'');
+  };
+  return fmt(sp.capacity_max,'') || fmt(sp.capacity_theatre,'theatre') || fmt(sp.capacity_classroom,'classroom') || fmt(sp.capacity_banquet,'banquet') || fmt(sp.capacity_reception,'reception') || '';
+}
+function spaceAreaLabel(sp){
+  const n = Number(sp && sp.area_sqm);
+  if(!isFinite(n) || n<=0) return '';
+  return n.toLocaleString('en-GB')+' m²';
+}
+function venueSpacesHtml(v, heading){
+  const rows = (v && v.spaces || []).filter(s => s && s.name);
+  if(!rows.length) return '';
+  const tr = rows.map(s => {
+    const typ = (s.type||'').trim();
+    const cap = spaceCapacityLabel(s);
+    const area = spaceAreaLabel(s);
+    return `<tr><th scope="row">${esc(s.name)}</th><td>${esc(typ||'—')}</td><td>${esc(cap||'—')}</td><td>${esc(area||'—')}</td></tr>`;
+  }).join('');
+  const h = heading || 'Spaces';
+  return `<div class="dsec"><h4>${h}</h4><div class="table-wrap"><table class="venue-spaces"><thead><tr><th>Name</th><th>Type</th><th>Capacity</th><th>Area</th></tr></thead><tbody>${tr}</tbody></table></div></div>`;
+}
+function venueDocsHtml(v, heading){
+  const rows = (v && v.documents || []).filter(d => d && (d.href || d.source_url || d.title));
+  if(!rows.length) return '';
+  const typeLab = {floor_plan:'Floor plan',capacity_chart:'Capacity chart',tech_spec:'Technical specification',brochure:'Brochure',fact_sheet:'Fact sheet',other:'Document'};
+  const items = rows.map(d => {
+    const title = d.title || 'Official document';
+    const href = d.href || d.url || d.source_url || '';
+    const typ = typeLab[d.doc_type] || (d.doc_type ? String(d.doc_type).replace(/_/g,' ') : '');
+    const typSpan = typ ? ` <span class="doc-type">${esc(typ)}</span>` : '';
+    if(!href) return `<li>${esc(title)}${typSpan}</li>`;
+    const ext = /^https?:/i.test(href) ? ' target="_blank" rel="noopener"' : '';
+    return `<li><a href="${esc(href)}"${ext}>${esc(title)}</a>${typSpan}</li>`;
+  }).join('');
+  const h = heading || 'Official documents';
+  return `<div class="dsec"><h4>${h}</h4><ul class="venue-docs">${items}</ul></div>`;
+}
+function venueClusterIcon(cluster){
+  const n = cluster.getChildCount();
+  const s = String(n);
+  const d = s.length;
+  const size = d<=1 ? 36 : d===2 ? 44 : d===3 ? 54 : 64;
+  const kind = n<10 ? 'small' : n<50 ? 'medium' : 'large';
+  const fs = d<=2 ? 13 : d===3 ? 12 : 11;
+  return L.divIcon({
+    html: `<div class="mkc-inner" style="font-size:${fs}px"><span>${s}</span></div>`,
+    className: `marker-cluster marker-cluster-${kind} mkc mkc-venue mkc-${d}`,
+    iconSize: L.point(size, size),
+    iconAnchor: L.point(size/2, size/2)
+  });
+}
+function ensureVenuePane(){
+  if(typeof map==='undefined' || !map) return;
+  if(!map.getPane('venues')){
+    map.createPane('venues');
+    map.getPane('venues').style.zIndex = 550;
+  }
+}
 function venueIcon(v){
   const svg = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M4 21V9l8-5 8 5v12h-6v-6H10v6H4zm2-2h2v-4h8v4h2v-9.2l-6-3.75-6 3.75V19z"/></svg>';
   return L.divIcon({
@@ -641,7 +728,7 @@ function venueIcon(v){
   });
 }
 function venuePopup(v){
-  const type = v.type || 'Conference venue';
+  const type = venueTypeLabel(v.type);
   const cap = venueCapacityLabel(v);
   const place = [v.address, v.city, v.country].filter(Boolean).join(' · ');
   const evLinks = (v.linked_event_slugs||[]).map(slug => {
@@ -656,15 +743,18 @@ function venuePopup(v){
     const lab = (s && typeof s==='object') ? (s.label||'Source') : 'Source';
     return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(lab)}</a>` : '';
   }).filter(Boolean).join(' · ');
+  const star = venueStarLabel(v);
+  const docs = venueDocsHtml(v, 'Official documents');
+  const spaces = venueSpacesHtml(v, 'Spaces');
   return `<div class="vk-pop"><p class="vk-name"><a href="#/venue/${esc(v.slug)}">${esc(v.name||'Venue')}</a></p>
-    <p class="vk-meta">${esc(type)}${cap?' · '+esc(cap):''}</p>
+    <p class="vk-meta">${esc(type)}${star?' · '+esc(star):''}${cap?' · '+esc(cap):''}</p>
     ${place?`<p class="vk-meta">${esc(place)}</p>`:''}
-    ${evSec}${link}${srcs?`<p class="vk-meta">${srcs}</p>`:''}</div>`;
+    ${evSec}${link}${docs}${spaces}${srcs?`<p class="vk-meta">${srcs}</p>`:''}</div>`;
 }
 function syncVenueLayer(){
   if(typeof map==='undefined' || !map) return;
   if(venueLayer && map.hasLayer(venueLayer)) map.removeLayer(venueLayer);
-  venueLayer = L.layerGroup();
+  venueLayer = null;
   const hasAny = VENUES.length>0;
   const wrap = $('#venues-toggle');
   const btn = $('#venues-btn');
@@ -676,10 +766,24 @@ function syncVenueLayer(){
   const wrapEl = $('#mapwrap');
   const onMap = !!(wrapEl && !wrapEl.classList.contains('timeline-on') && !wrapEl.classList.contains('grid-on'));
   if(!hasAny || !VENUES_ON || !onMap) return;
-  VENUES.forEach(v => {
+  ensureVenuePane();
+  venueLayer = L.markerClusterGroup({
+    showCoverageOnHover:false,
+    maxClusterRadius:52,
+    spiderfyOnMaxZoom:true,
+    disableClusteringAtZoom:12,
+    iconCreateFunction: venueClusterIcon,
+    pane:'venues',
+    clusterPane:'venues'
+  });
+  const evSlug = (typeof openEventSlug==='function') ? openEventSlug() : null;
+  const list = evSlug
+    ? VENUES.filter(v => (v.linked_event_slugs||[]).includes(evSlug))
+    : VENUES;
+  list.forEach(v => {
     const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
     if(lat==null || lon==null) return;
-    const mk = L.marker([lat, lon], {icon:venueIcon(v), title:v.name, riseOnHover:true, zIndexOffset:640, keyboard:true});
+    const mk = L.marker([lat, lon], {icon:venueIcon(v), title:v.name, riseOnHover:true, keyboard:true, pane:'venues'});
     mk.bindPopup(venuePopup(v), {className:'ppop', maxWidth:300});
     mk.bindTooltip(v.name, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-14]});
     venueLayer.addLayer(mk);
@@ -690,7 +794,7 @@ function venuesSectionHtml(e){
   const list = venuesForEvent(e && e.slug);
   if(!list.length) return '';
   const items = list.map(v => {
-    const bits = [v.type, v.address || [v.city,v.country].filter(Boolean).join(', '), venueCapacityLabel(v)].filter(Boolean).join(' · ');
+    const bits = [venueTypeLabel(v.type), v.address || [v.city,v.country].filter(Boolean).join(', '), venueCapacityLabel(v)].filter(Boolean).join(' · ');
     const name = `<a href="#/venue/${esc(v.slug)}">${esc(v.name||v.slug)}</a>`;
     return `<li>${name}${bits?`<div class="hk-meta">${esc(bits)}</div>`:''}</li>`;
   }).join('');
@@ -698,9 +802,11 @@ function venuesSectionHtml(e){
 }
 function viewVenue(v){
   const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
-  const type = v.type || 'Conference venue';
+  const type = venueTypeLabel(v.type);
   const place = [v.address, v.city, v.country].filter(Boolean).join(' · ');
   const cap = venueCapacityLabel(v);
+  const star = venueStarLabel(v);
+  const sqm = venueSqmLabel(v);
   const hero = `<div class="dhero">
     <div class="crumbs">Venue${type?` · ${esc(type)}`:''}</div>
     <h2>${esc(v.name||v.slug)}</h2>
@@ -714,9 +820,11 @@ function viewVenue(v){
   const siteLab = v.url ? String(v.url).replace(/^https?:\/\//,'').replace(/\/$/,'') : '';
   const facts = `<div class="dsec"><h4>Facts</h4><dl class="facts">
     ${fact('Type', type)}
+    ${fact('Star rating', star)}
     ${fact('Location', [v.city,v.country].filter(Boolean).join(', '))}
     ${fact('Address', v.address)}
     ${fact('Capacity', cap)}
+    ${fact('Exhibition space', sqm)}
     ${fact('Website', siteLab, v.url)}
   </dl></div>`;
   const about = v.description ? `<div class="dsec"><h4>About</h4><p>${esc(v.description)}</p></div>` : '';
@@ -732,7 +840,7 @@ function viewVenue(v){
     return url ? `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(lab)}</a></li>` : '';
   }).filter(Boolean).join('');
   const srcSec = srcItems ? `<div class="dsec"><h4>Sources</h4><ul>${srcItems}</ul></div>` : '';
-  return close + hero + facts + about + evSec + srcSec;
+  return close + hero + facts + about + venueSpacesHtml(v) + venueDocsHtml(v) + evSec + srcSec;
 }
 (function bindVenuesToggle(){
   const btn = $('#venues-btn');
@@ -747,9 +855,9 @@ const addDays = (n) => { const d=new Date(TODAY); d.setDate(d.getDate()+n); retu
 const iso = d => d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 const WHEN = [
   {id:'any', label:'Any dates', from:null, to:null},
-  {id:'30', label:'Next 30 days', from:iso(TODAY), to:iso(addDays(30))},
-  {id:'90', label:'Next 90 days', from:iso(TODAY), to:iso(addDays(90))},
-  {id:'180', label:'Next 6 months', from:iso(TODAY), to:iso(addDays(183))},
+  {id:'30', label:'30 days', from:iso(TODAY), to:iso(addDays(30))},
+  {id:'90', label:'90 days', from:iso(TODAY), to:iso(addDays(90))},
+  {id:'180', label:'6 months', from:iso(TODAY), to:iso(addDays(183))},
   {id:'2026', label:'2026', from:'2026-01-01', to:'2026-12-31'},
   {id:'2027', label:'2027', from:'2027-01-01', to:'2027-12-31'},
   {id:'custom', label:'Custom', from:null, to:null}
