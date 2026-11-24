@@ -132,7 +132,7 @@ function catKeys(kind){
   kind = kind||st.kind;
   const d = catDict(kind);
   const present = new Set(EV.filter(e => evKind(e)===kind).map(e => e.category));
-  const keys = Object.keys(d).filter(k => !present.size || present.has(k));
+  const keys = Object.keys(d).slice();
   present.forEach(k => { if(!keys.includes(k)) keys.push(k); });
   return keys;
 }
@@ -521,7 +521,7 @@ function topicList(){
 
 function renderCatChips(){
   const keys = catKeys(st.kind);
-  if(!keys.some(k => st.cats[k])) keys.forEach(k => st.cats[k] = true);
+  if(!keys.some(k => st.cats[k]) && !Object.keys(st.cats).some(k => st.cats[k])) keys.forEach(k => st.cats[k] = true);
   const pool = EV.filter(e => evKind(e)===st.kind);
   $('#f-cat').innerHTML = keys.map(c => {
     const n = pool.filter(e => e.category===c).length;
@@ -1334,6 +1334,7 @@ function applyParsedFilters(parsed){
   }else if(parsed.explicitKind){
     st.country = null;
     st.cities.clear();
+    st.region = 'all';
   }
 }
 
