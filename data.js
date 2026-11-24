@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T12:09:39Z",
+ "generated": "2026-11-24T12:43:03Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -16174,7 +16174,16 @@ window.ATLASDATA={
     "startups",
     "telecom"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/gitex-global-2026-1.jpg",
+     "thumb": "img/events/gitex-global-2026-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:The_record-breaking_42nd_edition_of_GITEX_GLOBAL_featured_more_than_5,000_exhibitors.jpg",
+     "credit": "Photo: Editorum01 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A crowded exhibition aisle at GITEX GLOBAL 2022, Dubai World Trade Centre, with an aircraft exhibit in the foreground."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -16194,7 +16203,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
+   "photoCredit": "Photo: Editorum01 / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -37149,7 +37158,16 @@ window.ATLASDATA={
     "hospitality",
     "travel technology"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/fitur-2027-1.jpg",
+     "thumb": "img/events/fitur-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:FITUR_2014.jpg",
+     "credit": "Photo: Junta de Andalucía (Junta Informa) / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "A crowded hall at FITUR 2014, IFEMA, Madrid, with the Andalucía display visible."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -37180,7 +37198,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "",
+   "photoCredit": "Photo: Junta de Andalucía (Junta Informa) / Wikimedia Commons / CC BY-SA 2.0",
    "socials": [
     {
      "platform": "facebook",
@@ -37985,7 +38003,7 @@ window.ATLASDATA={
    "event_id": "GCE-desfile-inaugural-carnaval-montevideo-2027",
    "slug": "desfile-inaugural-carnaval-montevideo-2027",
    "name": "Desfile Inaugural del Carnaval de Montevideo 2027",
-   "website_url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
+   "website_url": "https://www.descubrimontevideo.uy/desfile-inaugural-de-carnaval",
    "start_date": "2027-01-21",
    "end_date": "2027-01-21",
    "city": "Montevideo",
@@ -38005,7 +38023,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
+   "source_url": "https://www.descubrimontevideo.uy/desfile-inaugural-de-carnaval",
    "last_scraped_at": "2026-11-24T02:16:06+01:00",
    "notes": "Opens the Montevideo carnival season, which runs more than 40 days. The samba schools parade on Fri 22 Jan, and the Concurso Oficial starts on Mon 25 Jan 2027 at the Teatro de Verano Ramón Collazo (official Teatro de Verano page). Uruguay dates are local (Uruguay time, UTC-3 all year, no daylight saving).",
    "lat": -34.9026043,
@@ -38030,9 +38048,14 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "label": "Official (Intendencia de Montevideo, organiser)",
+     "label": "Official",
+     "url": "https://www.descubrimontevideo.uy/desfile-inaugural-de-carnaval",
+     "field": "official"
+    },
+    {
+     "label": "Previous listing (Montevideo city news)",
      "url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
-     "field": "official (Intendencia de Montevideo, organiser)"
+     "field": "Previous listing (Montevideo city news)"
     },
     {
      "label": "Official (Intendencia de Montevideo, organiser)",
@@ -38218,7 +38241,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/dubaidcgolf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidesertclassic.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dubaidcgolf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidesertclassic.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dubaidcgolf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidesertclassic.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dubaidcgolf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidesertclassic.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-imtex-2027",
@@ -38454,13 +38507,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/StiftungMozarteum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mozarteum.at/en/mozart-week",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stiftungmozarteum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mozarteum.at/en/mozart-week",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/StiftungMozarteum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mozarteum.at/en/mozart-week",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-only-devs-bangkok",
    "slug": "only-devs-bangkok",
    "name": "Only Devs Bangkok",
-   "website_url": "https://www.meetup.com/thaipy-bangkok-python-meetup/",
+   "website_url": "https://thaipy.github.io/",
    "start_date": "2027-01-21",
    "end_date": "2027-01-21",
    "city": "Bangkok",
@@ -38480,7 +38556,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.meetup.com/thaipy-bangkok-python-meetup/",
+   "source_url": "https://thaipy.github.io/",
    "last_scraped_at": "2026-11-24T07:58:52+01:00",
    "notes": "Dates are local civil dates for the next official Only Devs Bangkok meetup on Thursday 21 January 2027, 18:30 ICT, at the Event Space at Royal Oak, 4th floor, 595/10 Soi Sukhumvit 33/1 (BTS Phrom Phong). Talk titles for this edition were still listed as to be announced on the official Meetup page; the date and venue are posted. The group met on 19 November 2026 and 15 October 2026 at the same venue.",
    "lat": 13.7322092,
@@ -38496,8 +38572,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.meetup.com/thaipy-bangkok-python-meetup/",
+     "url": "https://thaipy.github.io/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Meetup)",
+     "url": "https://www.meetup.com/thaipy-bangkok-python-meetup/",
+     "field": "Previous listing (Meetup)"
     }
    ],
    "status": "upcoming",
@@ -38518,7 +38599,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/onlydevsbangkok",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thaipy.github.io/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/only_devs_bangkok",
+     "verified_via": "official_site_checked",
+     "source_url": "https://thaipy.github.io/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-singapore-art-week-2027",
@@ -38650,7 +38747,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sundance",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sundanceorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/sundancefest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/sff",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sundanceorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@sundanceorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sundance.org/about/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taipei-game-show-2027",
@@ -38715,13 +38856,50 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/taipeigameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tgs.tca.org.tw/?p=event_info",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TaipeiGameShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tgs.tca.org.tw/?p=event_info",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/taipeigameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tgs.tca.org.tw/?p=event_info",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/gototgs",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tgs.tca.org.tw/?p=event_info",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/taipeigameshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://tgs.tca.org.tw/?p=event_info",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wrc-monte-carlo-2027",
    "slug": "wrc-monte-carlo-2027",
    "name": "WRC Rallye Monte-Carlo 2027",
-   "website_url": "https://www.wrc.com/en/calendar",
+   "website_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
    "start_date": "2027-01-21",
    "end_date": "2027-01-24",
    "city": "Monaco",
@@ -38741,7 +38919,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.wrc.com/en/calendar",
+   "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
    "last_scraped_at": "2026-11-24T05:30:13+01:00",
    "notes": "Dates are local civil dates (Europe/Monaco). Stages traditionally also run in south-eastern France; the official calendar lists the event under Monaco.",
    "lat": 43.7323492,
@@ -38773,8 +38951,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.wrc.com/en/calendar",
+     "url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (WRC calendar)",
+     "url": "https://www.wrc.com/en/calendar",
+     "field": "Previous listing (WRC calendar)"
     },
     {
      "label": "Official",
@@ -38805,7 +38988,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Iain Cameron / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: Iain Cameron / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/automobileclubmonacoMC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/automobileclubmonaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/automobileclubdemonaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@automobileclubmonaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@automobileclubmonaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ACM_Media",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ACMMonaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-buskers-festival-2027",
@@ -38886,7 +39120,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WorldBuskersFestivalchch",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldbuskersfestival.co.nz/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldbuskersfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldbuskersfestival.co.nz/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mostra-de-cinema-de-tiradentes-2027",
@@ -38958,7 +39208,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: overmundo / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: overmundo / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/mostratiradentes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mostratiradentes.com.br/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/universoproducao",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mostratiradentes.com.br/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/universoproducao",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mostratiradentes.com.br/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/universoprod",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mostratiradentes.com.br/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/universo-produção",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mostratiradentes.com.br/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kolkata-book-fair-2027",
@@ -39040,7 +39327,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InternationalKolkataBookFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kolkatabookfair.net/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/internationalkolkatabookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kolkatabookfair.net/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@InternationalKolkataBookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kolkatabookfair.net/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ctm-festival-2027",
@@ -39120,7 +39430,7 @@ window.ATLASDATA={
    "event_id": "GCE-carnaval-andino-arica-2027",
    "slug": "carnaval-andino-arica-2027",
    "name": "Carnaval Andino con la Fuerza del Sol 2027",
-   "website_url": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
+   "website_url": "https://aricafuerzadelsol.cl/",
    "start_date": "2027-01-22",
    "end_date": "2027-01-24",
    "city": "Arica",
@@ -39140,7 +39450,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
+   "source_url": "https://aricafuerzadelsol.cl/",
    "last_scraped_at": "2026-11-24T00:44:25+01:00",
    "notes": "71 troupes parade along the seafront avenue. Chile dates are local (mainland Chile time: UTC-3 in the southern summer, UTC-4 in winter; Easter Island is two hours behind the mainland).",
    "lat": -18.4785288,
@@ -39182,8 +39492,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
+     "url": "https://aricafuerzadelsol.cl/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Municipalidad de Arica news)",
+     "url": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
+     "field": "Previous listing (Municipalidad de Arica news)"
     },
     {
      "label": "Official",
@@ -39214,7 +39529,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aricacarnavaloficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aricafuerzadelsol.cl/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCcVtpRl__F8KinypQGhO7VA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aricafuerzadelsol.cl/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-designto-festival-2027",
@@ -39303,7 +39634,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DesignTOFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://designto.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/designtofestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://designto.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@DesignTO",
+     "verified_via": "official_site_checked",
+     "source_url": "https://designto.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/designto",
+     "verified_via": "official_site_checked",
+     "source_url": "https://designto.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DesignTOFest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://designto.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dreamsea-sonica-2027",
@@ -39397,13 +39765,43 @@ window.ATLASDATA={
    "price_eur_min": 40.48,
    "price_eur_max": 40.48,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dreamseasonica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dreamseacostarica.com/dreamsea-sonica/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DreamseaSurfCampCostaRica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dreamseacostarica.com/dreamsea-sonica/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC1bv6oSY1DseioE48JihFVA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dreamseacostarica.com/dreamsea-sonica/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dreamseacostarica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dreamseacostarica.com/dreamsea-sonica/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hyderabad-literary-festival-2027",
    "slug": "hyderabad-literary-festival-2027",
    "name": "Hyderabad Literary Festival 2027",
-   "website_url": "https://hydlitfest.org/faq/",
+   "website_url": "https://hydlitfest.org/",
    "start_date": "2027-01-22",
    "end_date": "2027-01-24",
    "city": "Hyderabad",
@@ -39423,7 +39821,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://hydlitfest.org/faq/",
+   "source_url": "https://hydlitfest.org/",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "17th edition; free and open to all. Dates are local to the host city (India Standard Time, UTC+5:30).",
    "lat": 17.4337929,
@@ -39440,8 +39838,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://hydlitfest.org/faq/",
+     "url": "https://hydlitfest.org/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (HLF FAQ page)",
+     "url": "https://hydlitfest.org/faq/",
+     "field": "Previous listing (HLF FAQ page)"
     }
    ],
    "status": "upcoming",
@@ -39462,7 +39865,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LitFestHyd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hydlitfest.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/HydLitFest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hydlitfest.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hydlitfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hydlitfest.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@HLF-India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hydlitfest.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hyderabad-literary-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://hydlitfest.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kcd-panama-2027",
@@ -39596,13 +40036,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/soundsplashnz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://soundsplash.co.nz/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/soundsplashnz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://soundsplash.co.nz/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-thaipusam-batu-caves-2027",
    "slug": "thaipusam-batu-caves-2027",
    "name": "Thaipusam 2027 (Batu Caves)",
-   "website_url": "https://www.malaysia.travel/events/thaipusam-no-image",
+   "website_url": "https://www.malaysia.travel/events/thaipusam",
    "start_date": "2027-01-22",
    "end_date": "2027-01-22",
    "city": "Batu Caves",
@@ -39622,7 +40078,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.malaysia.travel/events/thaipusam-no-image",
+   "source_url": "https://www.malaysia.travel/events/thaipusam",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "The chariot procession runs from Sri Maha Mariamman Temple (Chinatown) to Batu Caves. Dates are local Malaysia dates (MYT, UTC+8).",
    "lat": 3.237449,
@@ -39648,8 +40104,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.malaysia.travel/events/thaipusam-no-image",
+     "url": "https://www.malaysia.travel/events/thaipusam",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (malaysia.travel no-image placeholder path)",
+     "url": "https://www.malaysia.travel/events/thaipusam-no-image",
+     "field": "Previous listing (malaysia.travel no-image placeholder path)"
     },
     {
      "label": "Official",
@@ -39675,13 +40136,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@malaysiatrulyasia",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.malaysia.travel/events/thaipusam-no-image",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029VajfEBU7NoZwiUrs4W1n",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.malaysia.travel/events/thaipusam-no-image",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vilnius-light-festival-2027",
    "slug": "vilnius-light-festival-2027",
    "name": "Vilnius Light Festival 2027 (Vilniaus šviesų festivalis)",
-   "website_url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+   "website_url": "https://lightfestival.lt/en/",
    "start_date": "2027-01-22",
    "end_date": "2027-01-24",
    "city": "Vilnius",
@@ -39701,7 +40178,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+   "source_url": "https://lightfestival.lt/en/",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": "Dates are local civil dates in Lithuania (Europe/Vilnius).",
    "lat": 54.6870458,
@@ -39717,17 +40194,17 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+     "url": "https://lightfestival.lt/en/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Go Vilnius events page)",
+     "url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+     "field": "Previous listing (Go Vilnius events page)"
     },
     {
      "label": "Official",
      "url": "https://www.vilnius-events.lt/en/event/en-events-vilnius-light-festival/",
-     "field": "official"
-    },
-    {
-     "label": "Official",
-     "url": "https://lightfestival.lt/en/",
      "field": "official"
     }
    ],
@@ -39749,7 +40226,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/VilniusLightFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lightfestival.lt/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vilniuslightfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lightfestival.lt/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCk3vu9NpfA4lEGnqfMmMSFA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://lightfestival.lt/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kaohsiung-lantern-festival-2027",
@@ -39831,7 +40331,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC2lamMZjjT-Qcq-zIx6NrCw",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://khh.travel/zh-tw/event/news/8183/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/khh.travel",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://khh.travel/zh-tw/event/news/8183/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kaohsiung.bravo",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://khh.travel/zh-tw/event/news/8183/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-nacional-de-folklore-cosquin-2027",
@@ -39925,7 +40448,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AquiCosquinOrg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aquicosquin.com.ar/edicion-2027/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aquicosquinok",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aquicosquin.com.ar/edicion-2027/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aquicosquin2150",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aquicosquin.com.ar/edicion-2027/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bidf-2027",
@@ -39997,7 +40543,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bidf.hu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bidf.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bidf_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@bidf.official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/101052906",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BudapestIDF",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bidf.hu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-belo-horizonte-2027",
@@ -40188,7 +40778,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/venice_carnival_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.carnevale.venezia.it/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/carnevaleveneziaofficialpage",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.carnevale.venezia.it/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Venice_Carnival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.carnevale.venezia.it/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCTZnAHXVilcmHEREwlVGMrw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.carnevale.venezia.it/en/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edu-tech-summit-riyadh-2027",
@@ -40252,7 +40872,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/edovasummits",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.edovasummits.com/edutechksa/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-premiers-plans-angers-2027",
@@ -40325,7 +40954,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/premiersplans",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.premiersplans.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PremiersPlans",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.premiersplans.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/89636861",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.premiersplans.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/premiersplansangers",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.premiersplans.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@premiersplans-angersfilmfe8121",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.premiersplans.org/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-de-verao-salvador-2027",
@@ -40404,7 +41070,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Agecom Bahia / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: Agecom Bahia / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festivalverao",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.salvadordabahia.com/eventos/festival-de-verao-salvador-2027-confira-programacao/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jeddah-fintech-week-2027",
@@ -40623,7 +41298,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/phpbenelux",
+     "verified_via": "official_site_checked",
+     "source_url": "https://phpcon.eu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/phpbenelux",
+     "verified_via": "official_site_checked",
+     "source_url": "https://phpcon.eu/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sigep-world-2027",
@@ -40688,7 +41379,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/sigep",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sigep.it/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SigepWorld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sigep.it/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/SIGEPRiminiITALY",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sigep.it/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sigepworld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sigep.it/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-takaafu-inclusive-education-conference-2027",
@@ -40751,13 +41472,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/edi-qf",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://edi.qa/conferences-and-events/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edi_qf",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://edi.qa/conferences-and-events/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-boot-dusseldorf-2027",
    "slug": "boot-dusseldorf-2027",
    "name": "boot Düsseldorf 2027",
-   "website_url": "https://www.boot.com/en/Exhibit/Information/Data_Facts",
+   "website_url": "https://www.boot.com/",
    "start_date": "2027-01-23",
    "end_date": "2027-01-31",
    "city": "Düsseldorf",
@@ -40777,7 +41514,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.boot.com/en/Exhibit/Information/Data_Facts",
+   "source_url": "https://www.boot.com/",
    "last_scraped_at": "2026-11-24T06:33:17+01:00",
    "notes": "The world's leading indoor water-sports and boat show. Official press material of 12 Oct 2026 says more than 1,500 manufacturers, retailers and destinations are expected; no official upcoming-edition visitor total was published.",
    "lat": 51.2597801,
@@ -40803,8 +41540,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.boot.com/en/Exhibit/Information/Data_Facts",
+     "url": "https://www.boot.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (boot.com data and facts page)",
+     "url": "https://www.boot.com/en/Exhibit/Information/Data_Facts",
+     "field": "Previous listing (boot.com data and facts page)"
     },
     {
      "label": "Official",
@@ -40835,13 +41577,43 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/boot.duesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boot.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/boot-duesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boot.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bootduesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boot.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bootDuesseldorf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.boot.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-brafa-2027",
    "slug": "brafa-2027",
    "name": "BRAFA Art Fair 2027",
-   "website_url": "https://www.brafa.art/en/practical_information",
+   "website_url": "https://www.brafa.art/en/",
    "start_date": "2027-01-24",
    "end_date": "2027-01-31",
    "city": "Brussels",
@@ -40861,7 +41633,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.brafa.art/en/practical_information",
+   "source_url": "https://www.brafa.art/en/",
    "last_scraped_at": "2026-11-24T03:00:00+01:00",
    "notes": "Official banner and practical information list public days 24–31 January 2027 at Brussels Expo / Heysel. A Collectors’ Preview (22 January) and Exclusive Saturday (23 January) precede the public opening; Monday 25 January is by invitation only. Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 50.8998743,
@@ -40927,13 +41699,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.brafa.art/en/practical_information",
+     "url": "https://www.brafa.art/en/",
      "field": "official"
     },
     {
-     "label": "Official",
-     "url": "https://www.brafa.art/en/",
-     "field": "official"
+     "label": "Previous listing (BRAFA practical information)",
+     "url": "https://www.brafa.art/en/practical_information",
+     "field": "Previous listing (BRAFA practical information)"
     }
    ],
    "status": "upcoming",
@@ -40954,7 +41726,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/brafaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brafa.art/en/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/brafaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brafa.art/en/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/brafaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brafa.art/en/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/brafaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brafa.art/en/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/BRAFAArtFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.brafa.art/en/contact",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-saudicis-2027",
@@ -41131,7 +41940,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/idc-meta",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://event.idc.com/event/idc-cio-summit-ksa/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@idcmetaevents",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://event.idc.com/event/idc-cio-summit-ksa/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/idcmea",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://event.idc.com/event/idc-cio-summit-ksa/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-idex-2027",
@@ -41225,7 +42057,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/idex-uae",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idexuae.ae/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/idex_uae",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idexuae.ae/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC11vbGDDWrmHPtDRkJGfJsQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.idexuae.ae/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jitex-2027",
@@ -41295,7 +42150,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jitex.jo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.jitex-me.com/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-navdex-2027",
@@ -41449,7 +42313,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ndc_conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/ndcconferences.com",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ndc-conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NDC_Conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndclondon.com/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-livex-kuala-lumpur-2027",
@@ -41514,7 +42429,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/thefastmode",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thefastmodeglobal",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/thefastmode",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TheFastMode",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@thefastmode",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thefastmode",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.thefastmode.com/livex/",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-health-expo-dubai-whx-2027",
@@ -41880,7 +42839,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AFF_HK",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asianfinancialforum.hktdc.com/conference/aff/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/asian-financial-forum",
+     "verified_via": "official_site_checked",
+     "source_url": "https://asianfinancialforum.hktdc.com/conference/aff/en",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-budma-2027",
@@ -41950,7 +42925,30 @@ window.ATLASDATA={
    "price_eur_min": 0.0,
    "price_eur_max": 0.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/targiBUDMA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://budma.pl/pl",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/TargiBUDMATV",
+     "verified_via": "official_site_checked",
+     "source_url": "https://budma.pl/pl",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/budma",
+     "verified_via": "official_site_checked",
+     "source_url": "https://budma.pl/pl",
+     "accessed_at": "2026-11-24T13:15:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fetc-2027",
@@ -42014,13 +43012,50 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nationalfetc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fetc.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/future-of-education-technology-conference",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fetc.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FETC1",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fetc.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fetc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fetc.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NationalFETC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fetc.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-global-ai-conference-copenhagen-2027",
    "slug": "global-ai-conference-copenhagen-2027",
    "name": "Global AI Conference Copenhagen 2027",
-   "website_url": "https://globalai.community/e/6zkdqgv0/call-for-speakers",
+   "website_url": "https://globalai.community/",
    "start_date": "2027-01-26",
    "end_date": "2027-01-26",
    "city": "Copenhagen",
@@ -42040,7 +43075,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://globalai.community/e/6zkdqgv0/call-for-speakers",
+   "source_url": "https://globalai.community/",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": "Dates are local civil dates in Denmark (Europe/Copenhagen).",
    "lat": 55.707569,
@@ -42056,8 +43091,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://globalai.community/e/6zkdqgv0/call-for-speakers",
+     "url": "https://globalai.community/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (call-for-speakers page)",
+     "url": "https://globalai.community/e/6zkdqgv0/call-for-speakers",
+     "field": "Previous listing (call-for-speakers page)"
     },
     {
      "label": "Official",
@@ -42083,7 +43123,49 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/globalaicommunity",
+     "operator": "Global AI Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/global-ai-community",
+     "operator": "Global AI Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/GlobAICommunity",
+     "operator": "Global AI Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheGlobalAICommunity",
+     "operator": "Global AI Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/globalaicommunity",
+     "operator": "Global AI Community",
+     "verified_via": "official_site_checked",
+     "source_url": "https://globalai.community/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ife-conference-2027",
@@ -42228,7 +43310,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/premierevisionshows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://paris.premierevision.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wearepremierevision",
+     "verified_via": "official_site_checked",
+     "source_url": "https://paris.premierevision.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PremiereVisionShows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://paris.premierevision.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/premi-re-vision",
+     "verified_via": "official_site_checked",
+     "source_url": "https://paris.premierevision.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-namm-show-2027",
@@ -42316,7 +43428,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Brandon Daniel / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: Brandon Daniel / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nammorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.namm.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/namm",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.namm.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thenammshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.namm.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/nammorg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.namm.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@thenammshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.namm.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-health-expo-tech-whx-2027",
@@ -42461,7 +43610,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@worldofcoffeedubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubai.worldofcoffee.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldofcoffeedubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubai.worldofcoffee.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WorldofCoffeeDXB",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubai.worldofcoffee.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/worldofcoffeedubai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://dubai.worldofcoffee.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ieee-learning-and-technology-conference-2027",
@@ -42525,7 +43704,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/effat.university.official.page",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EffatUniversity",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/effat_university",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/EffatUniversity99",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/effat-university-jeddah-kingdom-of-saudi-arabia",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@effatuniversity",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.effatuniversity.edu.sa/English/conferences/LT/Pages/default.aspx",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-agromashexpo-2027",
@@ -42590,7 +43813,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/agromashexpo",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://hungexpo.hu/en/events/agromashexpo/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/agromashexpo",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://hungexpo.hu/en/events/agromashexpo/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-infrastructure-data-centers-summit-2027",
@@ -42749,7 +43988,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/koreaedu",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.educationkorea.kr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCHomuSrZwskuWT_gJxDj9Kg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.educationkorea.kr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/education-korea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.educationkorea.kr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/educationkorea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.educationkorea.kr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-highlight-ai-summit-2027",
@@ -42815,7 +44084,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCacBn7w80RoFtP4tVja0eYg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativacomunica.com/highlight-ai-summit-2/?lang=en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CreativaComunicaTorino",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativacomunica.com/highlight-ai-summit-2/?lang=en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/creativacomunica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativacomunica.com/highlight-ai-summit-2/?lang=en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/creativa-comunica-srl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativacomunica.com/highlight-ai-summit-2/?lang=en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kiwiburn-2027",
@@ -42879,7 +44178,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/UQmd3Ppw8j",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kiwiburn.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Kiwiburn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kiwiburn.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kiwiburners",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kiwiburn.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Kiwiburn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kiwiburn.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kiwiburn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kiwiburn.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-folle-journee-nantes-2027",
@@ -42965,7 +44301,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Carton56 / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Carton56 / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC7r7Ykae5pWmp3YlVB14Uvw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.follejournee.fr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lafollejournee.nantes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.follejournee.fr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fjdenantes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.follejournee.fr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/follejournee",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.follejournee.fr/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-middle-east-agentic-ai-kuwait-2027",
@@ -43030,7 +44396,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Scribeminds",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agenticaiforum.net/kuwait/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/scribeminds",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agenticaiforum.net/kuwait/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ScribeMinds",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agenticaiforum.net/kuwait/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/scribe-minds-media",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.agenticaiforum.net/kuwait/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ola-super-conference-2027",
@@ -43125,7 +44521,7 @@ window.ATLASDATA={
    "event_id": "GCE-rolex-24-at-daytona-2027",
    "slug": "rolex-24-at-daytona-2027",
    "name": "Rolex 24 at Daytona 2027",
-   "website_url": "https://www.imsa.com/2027/schedule",
+   "website_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
    "start_date": "2027-01-27",
    "end_date": "2027-01-31",
    "city": "Daytona Beach",
@@ -43145,7 +44541,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.imsa.com/2027/schedule",
+   "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
    "last_scraped_at": "2026-11-24T05:30:13+01:00",
    "notes": "Dates are local civil dates in Florida (America/New_York) for the official IMSA event window.",
    "lat": 29.1840074,
@@ -43178,8 +44574,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.imsa.com/2027/schedule",
+     "url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (IMSA schedule)",
+     "url": "https://www.imsa.com/2027/schedule",
+     "field": "Previous listing (IMSA schedule)"
     }
    ],
    "status": "upcoming",
@@ -43200,13 +44601,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: United Autosports / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: United Autosports / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@imsaofficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/imsa_racing",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/IMSA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@imsa_racing",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/IMSA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/international-motor-sports-association-imsa-",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.imsa.com/events/2027-rolex-24-at-daytona/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-scalecon-jakarta-2027",
    "slug": "scalecon-jakarta-2027",
    "name": "SCALECON Jakarta 2027",
-   "website_url": "https://scalecon.ai/about",
+   "website_url": "https://scalecon.ai/",
    "start_date": "2027-01-27",
    "end_date": "2027-01-27",
    "city": "Jakarta",
@@ -43226,7 +44671,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://scalecon.ai/about",
+   "source_url": "https://scalecon.ai/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Indonesia dates (Jakarta/Yogyakarta WIB UTC+7; Bali WITA UTC+8).",
    "lat": -6.2304634,
@@ -43252,8 +44697,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://scalecon.ai/about",
+     "url": "https://scalecon.ai/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Scalecon about page)",
+     "url": "https://scalecon.ai/about",
+     "field": "Previous listing (Scalecon about page)"
     }
    ],
    "status": "upcoming",
@@ -43274,13 +44724,22 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/scalecon.ai",
+     "verified_via": "official_site_checked",
+     "source_url": "https://scalecon.ai/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-semanas-musicales-de-frutillar-2027",
    "slug": "semanas-musicales-de-frutillar-2027",
    "name": "Semanas Musicales de Frutillar 2027 (Temporada 59)",
-   "website_url": "https://semanasmusicales.cl/noticias/temporada-59-semanas-musicales-frutillar-18-conciertos-beethoven",
+   "website_url": "https://semanasmusicales.cl/",
    "start_date": "2027-01-27",
    "end_date": "2027-02-04",
    "city": "Frutillar",
@@ -43300,7 +44759,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://semanasmusicales.cl/noticias/temporada-59-semanas-musicales-frutillar-18-conciertos-beethoven",
+   "source_url": "https://semanasmusicales.cl/",
    "last_scraped_at": "2026-11-24T00:44:25+01:00",
    "notes": "Chile dates are local (mainland Chile time: UTC-3 in the southern summer, UTC-4 in winter; Easter Island is two hours behind the mainland).",
    "lat": -41.1394537,
@@ -43316,8 +44775,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://semanasmusicales.cl/noticias/temporada-59-semanas-musicales-frutillar-18-conciertos-beethoven",
+     "url": "https://semanasmusicales.cl/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (season news post)",
+     "url": "https://semanasmusicales.cl/noticias/temporada-59-semanas-musicales-frutillar-18-conciertos-beethoven",
+     "field": "Previous listing (season news post)"
     }
    ],
    "status": "upcoming",
@@ -43489,7 +44953,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/VanBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouverboatshow.ca/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/VanBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouverboatshow.ca/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCoHKGtPWnpd5-Zq7kvJmVJw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vancouverboatshow.ca/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-exhibition-taipei-2027",
@@ -43650,7 +45137,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artbasel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artbasel.com/qatar",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artbasel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artbasel.com/qatar",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ArtBasel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artbasel.com/qatar",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/art-basel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artbasel.com/qatar",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/artbasel",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artbasel.com/qatar",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-geneve-2027",
@@ -43768,7 +45292,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artgeneve.palexpo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artgeneve.ch/en/about/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artgeneve",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artgeneve.ch/en/about/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/artgeneve",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artgeneve.ch/en/about/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dark-music-days-2027",
@@ -43842,7 +45389,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/myrkirmusikdagar",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.darkmusicdays.is/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/darkmusicdays",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.darkmusicdays.is/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fibd-angouleme-2027",
@@ -43929,7 +45492,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Lionel Allorge / Wikimedia Commons / CC BY-SA 3.0"
+   "photoCredit": "Photo: Lionel Allorge / Wikimedia Commons / CC BY-SA 3.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/angoulemebd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.angouleme-bandedessinee.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@angoulemebd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.angouleme-bandedessinee.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/angoulemeBD",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.angouleme-bandedessinee.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@AngoulêmeBande-dessinée",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.angouleme-bandedessinee.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/angoulemebd",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.angouleme-bandedessinee.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hay-festival-cartagena-2027",
@@ -44024,7 +45624,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/hayfestivalesp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/hayfestival_esp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@hayfestival_esp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/hayfestival_esp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/hayfestivalesp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@hayfestival_esp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hayfestival.com/cartagena/inicio",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ia-expo-internacional-2027",
@@ -44215,7 +45859,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/iffr",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffr.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/iffrotterdam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffr.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/iffrotterdam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffr.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/international-film-festival-rotterdam",
+     "verified_via": "official_site_checked",
+     "source_url": "https://iffr.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-panama-crossroads-2027",
@@ -44299,7 +45973,37 @@ window.ATLASDATA={
    "price_eur_min": 35.88,
    "price_eur_max": 127.88,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/panamacrossroads",
+     "verified_via": "official_site_checked",
+     "source_url": "https://panamacrossroads.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@panamacrossroads",
+     "verified_via": "official_site_checked",
+     "source_url": "https://panamacrossroads.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@panamacrossroads",
+     "verified_via": "official_site_checked",
+     "source_url": "https://panamacrossroads.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/panama-crossroads",
+     "verified_via": "official_site_checked",
+     "source_url": "https://panamacrossroads.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ambiente-2027",
@@ -44375,7 +46079,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Olaf Kosinsky, Wikimedia Commons, CC BY-SA 3.0 DE"
+   "photoCredit": "Olaf Kosinsky, Wikimedia Commons, CC BY-SA 3.0 DE",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ambientefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambiente.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ambientefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambiente.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ambientefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambiente.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ambiente",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambiente.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-christmasworld-2027",
@@ -44449,7 +46183,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Matti Blume / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Matti Blume / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/christmasworld.frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://christmasworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/christmasworldfrankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://christmasworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/christmasworld",
+     "verified_via": "official_site_checked",
+     "source_url": "https://christmasworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCNUuCIZ2qBHm7d4K-CUNRsg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://christmasworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-copenhagen-light-festival-2027",
@@ -44535,7 +46299,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cphlightfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenlightfestival.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/copenhagen-light-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenlightfestival.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cphlightfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenlightfestival.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@cphlightfest5395",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenlightfestival.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-creativeworld-2027",
@@ -44600,7 +46394,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/creativeworld.frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativeworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/creativeworldfrankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativeworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/creativeworld.frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativeworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/creativeworldfrankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativeworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@creativeworld.frankfurt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://creativeworld.messefrankfurt.com/frankfurt/en.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-educa-2027",
@@ -44702,7 +46533,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/educafair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://educa.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-clermont-ferrand-2027",
@@ -44788,7 +46628,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Pierre Tribhou / Wikimedia Commons / CC BY 4.0"
+   "photoCredit": "Photo: Pierre Tribhou / Wikimedia Commons / CC BY 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lecourtclermont",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lecourt-clermont.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lecourtclermont",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lecourt-clermont.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/lecourtclermont",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lecourt-clermont.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-goteborg-film-2027",
@@ -44874,7 +46737,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gbgfilmfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://goteborgfilmfestival.se/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/gbgfilmfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://goteborgfilmfestival.se/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/gbgfilmfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://goteborgfilmfestival.se/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gbgfilmfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://goteborgfilmfestival.se/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/g-teborg-international-film-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://goteborgfilmfestival.se/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kobe-luminarie-2027",
@@ -44964,13 +46864,22 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kobe.kanko",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.kobe-luminarie.jp/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-planeta-atlantida-2027",
    "slug": "planeta-atlantida-2027",
    "name": "Planeta Atlântida 2027",
-   "website_url": "https://www.gruporbs.com.br/noticia/9772/planeta-atlantida-anuncia-datas-para-edicao-de-2027",
+   "website_url": "https://planetaatlantida.com.br/",
    "start_date": "2027-01-29",
    "end_date": "2027-01-30",
    "city": "Xangri-lá",
@@ -44990,7 +46899,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.gruporbs.com.br/noticia/9772/planeta-atlantida-anuncia-datas-para-edicao-de-2027",
+   "source_url": "https://planetaatlantida.com.br/",
    "last_scraped_at": "2026-11-24T00:25:15+01:00",
    "notes": "Largest music festival in southern Brazil, held since 1996. Brazil dates are local (Brasília time, UTC-3, unless the venue is in another Brazilian time zone, e.g. Manaus UTC-4).",
    "lat": -29.8039422,
@@ -45015,14 +46924,14 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "label": "Official (Grupo RBS, organiser)",
-     "url": "https://www.gruporbs.com.br/noticia/9772/planeta-atlantida-anuncia-datas-para-edicao-de-2027",
-     "field": "official (Grupo RBS, organiser)"
-    },
-    {
      "label": "Official",
      "url": "https://planetaatlantida.com.br/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Grupo RBS news)",
+     "url": "https://www.gruporbs.com.br/noticia/9772/planeta-atlantida-anuncia-datas-para-edicao-de-2027",
+     "field": "Previous listing (Grupo RBS news)"
     }
    ],
    "status": "upcoming",
@@ -45043,13 +46952,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PlanetaAtlantida",
+     "verified_via": "official_site_checked",
+     "source_url": "https://planetaatlantida.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/planetaatlantida",
+     "verified_via": "official_site_checked",
+     "source_url": "https://planetaatlantida.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@planetaatlantida",
+     "verified_via": "official_site_checked",
+     "source_url": "https://planetaatlantida.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vinterjazz-2027",
    "slug": "vinterjazz-2027",
    "name": "Vinterjazz 2027",
-   "website_url": "https://jazz.dk/vinterjazz-2027/",
+   "website_url": "https://jazz.dk/vinterjazz-2027/forside/",
    "start_date": "2027-01-29",
    "end_date": "2027-02-28",
    "city": "Copenhagen",
@@ -45069,7 +47001,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://jazz.dk/vinterjazz-2027/",
+   "source_url": "https://jazz.dk/vinterjazz-2027/forside/",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": "Dates are local civil dates in Denmark (Europe/Copenhagen).",
    "lat": 55.6867243,
@@ -45084,8 +47016,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://jazz.dk/vinterjazz-2027/",
+     "url": "https://jazz.dk/vinterjazz-2027/forside/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (jazz.dk Vinterjazz index)",
+     "url": "https://jazz.dk/vinterjazz-2027/",
+     "field": "Previous listing (jazz.dk Vinterjazz index)"
     },
     {
      "label": "Official",
@@ -45116,7 +47053,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vinterjazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://jazz.dk/vinterjazz-2027/forside/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vinterjazz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://jazz.dk/vinterjazz-2027/forside/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-winterlude-2027",
@@ -45197,7 +47150,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: John Vetterli / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: John Vetterli / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/winterludeca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/winterludeca",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-de-corrientes-2027",
@@ -45262,13 +47231,29 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/visitcorrientes",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://visitcorrientes.tur.ar/quehacer/carnaval/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/visitcorrientes",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://visitcorrientes.tur.ar/quehacer/carnaval/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-sao-paulo-2027",
    "slug": "carnaval-sao-paulo-2027",
    "name": "Carnaval de São Paulo 2027 (Anhembi parades)",
-   "website_url": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+   "website_url": "https://ligasp.com.br/",
    "start_date": "2027-01-30",
    "end_date": "2027-02-13",
    "city": "São Paulo",
@@ -45288,7 +47273,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+   "source_url": "https://ligasp.com.br/",
    "last_scraped_at": "2026-11-24T00:25:15+01:00",
    "notes": "Parade nights 30 Jan and 5, 6, 7 Feb 2027; Champions parade 13 Feb (not continuous). Brazil dates are local (Brasília time, UTC-3, unless the venue is in another Brazilian time zone, e.g. Manaus UTC-4).",
    "lat": -23.516492,
@@ -45330,8 +47315,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+     "url": "https://ligasp.com.br/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Liga-SP rehearsal agenda)",
+     "url": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+     "field": "Previous listing (Liga-SP rehearsal agenda)"
     }
    ],
    "status": "upcoming",
@@ -45352,7 +47342,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ligacarnavalsp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ligasp.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCB6fJZdomHX2RlGZJwjIs8g",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ligasp.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ligacarnavalsp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ligasp.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ligacarnavalsp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ligasp.com.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnevale-viareggio-2027",
@@ -45596,7 +47616,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain"
+   "photoCredit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/gasparillatampa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gasparillapiratefest.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GasparillaPirateFest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gasparillapiratefest.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/gasparillatampa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://gasparillapiratefest.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comic-con-india-kochi-2027",
@@ -45661,7 +47704,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/kochi-comic-con-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/kochi-comic-con-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/kochi-comic-con-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nu-fest-2027",
@@ -45732,7 +47801,7 @@ window.ATLASDATA={
    "event_id": "GCE-one-love-asia-festival-malaysia-2027",
    "slug": "one-love-asia-festival-malaysia-2027",
    "name": "One Love Asia Festival 2027 - Malaysia",
-   "website_url": "https://www.etix.my/Event/OLMYD27",
+   "website_url": "https://onelovetix.com/",
    "start_date": "2027-01-30",
    "end_date": "2027-01-31",
    "city": "Petaling Jaya",
@@ -45752,7 +47821,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.etix.my/Event/OLMYD27",
+   "source_url": "https://onelovetix.com/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Malaysia dates (MYT, UTC+8).",
    "lat": 3.0697269,
@@ -45767,8 +47836,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.etix.my/Event/OLMYD27",
+     "url": "https://onelovetix.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Etix ticket vendor)",
+     "url": "https://www.etix.my/Event/OLMYD27",
+     "field": "Previous listing (Etix ticket vendor)"
     }
    ],
    "status": "upcoming",
@@ -45876,7 +47950,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: GREGORY BOISSY / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: GREGORY BOISSY / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tapatirapanui",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://chileestuyo.cl/eventos/tapati-2027/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-iifme-2027",
@@ -46022,7 +48105,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ISM-Cologne-109233347128296",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ism-cologne.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/ism-cologne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ism-cologne.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ism.cologne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ism-cologne.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mubadala-abu-dhabi-open-2027",
@@ -46186,7 +48292,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tcea.org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://convention.tcea.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tcea_org",
+     "verified_via": "official_site_checked",
+     "source_url": "https://convention.tcea.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tcea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://convention.tcea.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/texas-computer-education-association",
+     "verified_via": "official_site_checked",
+     "source_url": "https://convention.tcea.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-web-summit-qatar-2027",
@@ -46276,7 +48412,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/web-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://qatar.websummit.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://qatar.websummit.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WebSummitHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://qatar.websummit.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/websummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://qatar.websummit.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-auckland-pride-festival-2027",
@@ -46355,7 +48521,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Ле Лой / Wikimedia Commons / CC0"
+   "photoCredit": "Photo: Ле Лой / Wikimedia Commons / CC0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aucklandpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aucklandpride.org.nz/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aucklandpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aucklandpride.org.nz/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/aucklandpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aucklandpride.org.nz/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@aucklandpridefest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aucklandpride.org.nz/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/aucklandpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.aucklandpride.org.nz/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-comex-2027",
@@ -46481,7 +48684,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/comex-global",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comex-global.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comex.global",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comex-global.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/comexglobalex",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comex-global.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCVT1XGDYYEWD2o6aS031ASg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://comex-global.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-consensus-hong-kong-2027",
@@ -46561,7 +48794,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "telegram",
+     "url": "https://t.me/consensusbycoindesk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://consensus-hongkong.coindesk.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/consensus_hk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://consensus-hongkong.coindesk.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-copenhagen-fashion-week-2027",
@@ -46658,7 +48907,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CopenhagenFashionWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenfashionweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cphfw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenfashionweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnoMHiIR9YWixvZZ3omGHyg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://copenhagenfashionweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-digital-assets-forum-london-2027",
@@ -46854,7 +49126,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Edugate2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kaust-rising-stars-in-ai-2027",
@@ -46917,7 +49233,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/kaust",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.kaust.edu.sa/events/rsais27/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KAUSTOfficial",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.kaust.edu.sa/events/rsais27/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kaustofficial",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.kaust.edu.sa/events/rsais27/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/KAUSTvideo",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.kaust.edu.sa/events/rsais27/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/KAUST_News",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.kaust.edu.sa/events/rsais27/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-madrid-fusion-2027",
@@ -47032,7 +49385,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/madridfusion",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.madridfusion.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MadridFusionCongreso",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.madridfusion.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/madridfusion",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.madridfusion.net/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-montevideo-tech-summer-camp-2027",
@@ -47102,7 +49478,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/montevideo-tech-meetup",
+     "verified_via": "official_site_checked",
+     "source_url": "https://montevideotech.dev/summercamp2027/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/montevideotech",
+     "verified_via": "official_site_checked",
+     "source_url": "https://montevideotech.dev/summercamp2027/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-saudi-media-forum-2027",
@@ -47176,7 +49568,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/saudi_MF",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.saudimf.sa/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/saudi_mf",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.saudimf.sa/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%89-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%84%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.saudimf.sa/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-superreturn-north-america-2027",
@@ -47245,7 +49660,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SuperReturnTV",
+     "verified_via": "official_site_checked",
+     "source_url": "https://informaconnect.com/superreturn-north-america/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SuperReturn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://informaconnect.com/superreturn-north-america/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/superreturn",
+     "verified_via": "official_site_checked",
+     "source_url": "https://informaconnect.com/superreturn-north-america/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-world-governments-summit-2027",
@@ -47320,7 +49758,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Press Information Department, Government of Bangladesh / Wikimedia Commons / Public domain"
+   "photoCredit": "Photo: Press Information Department, Government of Bangladesh / Wikimedia Commons / Public domain",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/world-government-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldgovsummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WorldGovSummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WorldGovSummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCW4lQ2ZZh9EaVNpVtA6hX1Q",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@worldgovsummit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Vb6eerBCnA7p4hwXTw1F",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.worldgovernmentssummit.org/events/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aircraft-interiors-middle-east-aime-maintenance-repair-and-overhaul-mro-me-2027",
@@ -47376,7 +49865,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/avweekevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mromiddleeast.aviationweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/avweekevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mromiddleeast.aviationweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AviationWeekMRO",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mromiddleeast.aviationweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC4iqSh0FVKNYeS4YfXB95BQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mromiddleeast.aviationweek.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-alpe-adria-gastexpo-2027",
@@ -47441,7 +49960,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/gr-ljubljana",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.gr.si/en/current-events",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/grljubljana",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.gr.si/en/current-events",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/grljubljana",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.gr.si/en/current-events",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@gr_ljubljana",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.gr.si/en/current-events",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@gr-ljubljana",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.gr.si/en/current-events",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-breakbulk-middle-east-2027",
@@ -47538,7 +50094,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/breakbulk-events-&-media",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.middleeast.breakbulk.com/Home",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/breakbulkeventsandmedia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.middleeast.breakbulk.com/Home",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/break_bulk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.middleeast.breakbulk.com/Home",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Break_Bulk",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.middleeast.breakbulk.com/Home",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCKN2EemicqYNnbAM8r1VuCQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.middleeast.breakbulk.com/Home",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ccfl-2027",
@@ -47802,7 +50395,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/france-digitale",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://francedigitale.org/agenda/ai-day-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/frdigitale",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://francedigitale.org/agenda/ai-day-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/frdigitale",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://francedigitale.org/agenda/ai-day-2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ipem-wealth-2027",
@@ -47866,7 +50482,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ipem_privateequity",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ipem-market.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/IpemMarket",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ipem-market.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCnwpJe4zWXG_ObrHGH9KNMw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ipem-market.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ise-barcelona-2027",
@@ -47973,7 +50612,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/integrated-systems-europe-ise-",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ise_show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/integratedsystemseurope",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ISE_show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/IntegratedSystemsEurope",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/iseshow.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.iseurope.org/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kbis-2027",
@@ -48038,7 +50721,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KitchenBathIndustryShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kbis.com/show/about-the-show/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/kbis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kbis.com/show/about-the-show/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kbis_official",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kbis.com/show/about-the-show/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/KitchenBathShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://kbis.com/show/about-the-show/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-learntec-2027",
@@ -48137,7 +50850,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Learntec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.learntec.de/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LEARNTECkarlsruhe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.learntec.de/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/learntec_karlsruhe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.learntec.de/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ibs-2027",
@@ -48201,7 +50937,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BuildersShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.buildersshow.com/about-ibs",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/international-builder's-show",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.buildersshow.com/about-ibs",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/IBSTV",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.buildersshow.com/about-ibs",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intlbuildersshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.buildersshow.com/about-ibs",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-oop-munich-2027",
@@ -48264,7 +51030,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/oop-konferenz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.oop-konferenz.de/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-swetugg-stockholm-2027",
@@ -48333,7 +51108,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/swetugg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://swetugg.se/Stockholm/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/swetugg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://swetugg.se/Stockholm/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SwetuggEvents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://swetugg.se/Stockholm/2027",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-techex-global-london-2027",
@@ -48420,7 +51218,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/techex-events",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ai-expo.net/global/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techexevent",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ai-expo.net/global/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techexevents",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ai-expo.net/global/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ai_expo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ai-expo.net/global/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-chicago-boat-show-2027",
@@ -48493,7 +51321,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ChicagoBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.chicagoboatshow.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/chiboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.chicagoboatshow.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/chiboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.chicagoboatshow.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fruit-logistica-2027",
@@ -48567,7 +51418,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Messepraktik, Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "Messepraktik, Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FruitLogisticaBerlin",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fruitlogistica.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCrOG-eUqQaKWRGeLAgBfD9A",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fruitlogistica.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/fruit-logistica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fruitlogistica.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fruitlogistica",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fruitlogistica.com/en",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-kurentovanje-2027",
@@ -48857,13 +51738,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/techarenan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://techarena.se/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/18965365",
+     "verified_via": "official_site_checked",
+     "source_url": "https://techarena.se/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/techarenan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://techarena.se/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-zona-maco-2027",
    "slug": "zona-maco-2027",
    "name": "ZⓈONAMACO 2027",
-   "website_url": "https://zsonamaco.com/boletos/",
+   "website_url": "https://zsonamaco.com/",
    "start_date": "2027-02-03",
    "end_date": "2027-02-07",
    "city": "Mexico City",
@@ -48883,7 +51787,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://zsonamaco.com/boletos/",
+   "source_url": "https://zsonamaco.com/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "Official page names the venue Centro Banamex (Av. del Conscripto 311). Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 19.440265,
@@ -48909,8 +51813,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://zsonamaco.com/boletos/",
+     "url": "https://zsonamaco.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (ZⓈONAMACO tickets page)",
+     "url": "https://zsonamaco.com/boletos/",
+     "field": "Previous listing (ZⓈONAMACO tickets page)"
     }
    ],
    "status": "upcoming",
@@ -48931,7 +51840,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/zonamaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://zsonamaco.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/zonamaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://zsonamaco.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ZonaMaco",
+     "verified_via": "official_site_checked",
+     "source_url": "https://zsonamaco.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bharat-mobility-global-expo-2027",
@@ -49001,7 +51933,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bharat_mobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bharat-mobility.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Bharat_Mobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bharat-mobility.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bharat-mobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bharat-mobility.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/bharat_mobility",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bharat-mobility.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-busojaras-mohacs-2027",
@@ -49126,7 +52088,7 @@ window.ATLASDATA={
    "event_id": "GCE-carnaval-mazatlan-2027",
    "slug": "carnaval-mazatlan-2027",
    "name": "Carnaval Internacional de Mazatlán 2027",
-   "website_url": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
+   "website_url": "https://carnavalmazatlan.com/",
    "start_date": "2027-02-04",
    "end_date": "2027-02-09",
    "city": "Mazatlán",
@@ -49146,7 +52108,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
+   "source_url": "https://carnavalmazatlan.com/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "Theme 'Amamos nuestras tradiciones'. Mazatlán is on Pacific time (UTC-7). Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 23.2035785,
@@ -49180,8 +52142,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
+     "url": "https://carnavalmazatlan.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Carnaval Mazatlán press note)",
+     "url": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
+     "field": "Previous listing (Carnaval Mazatlán press note)"
     },
     {
      "label": "Official (Sinaloa state government)",
@@ -49207,13 +52174,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CarnavalIntMazatlan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CarnavalInternacionalMazatlan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/carnavalmzt",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/carnavalinternacionalmazatlan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@carnavalmazatlanoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@carnavalinternacionalmazatlan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnavalmazatlan.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-salvador-2027",
    "slug": "carnaval-salvador-2027",
    "name": "Carnaval de Salvador 2027",
-   "website_url": "http://agenciadenoticias.salvador.ba.gov.br/index.php/en/59-carnaval/29786-salvador-tera-mais-um-dia-de-carnaval-em-2027-anuncia-prefeito-bruno-reis",
+   "website_url": "https://carnaval.salvador.ba.gov.br/",
    "start_date": "2027-02-04",
    "end_date": "2027-02-09",
    "city": "Salvador",
@@ -49233,7 +52244,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "http://agenciadenoticias.salvador.ba.gov.br/index.php/en/59-carnaval/29786-salvador-tera-mais-um-dia-de-carnaval-em-2027-anuncia-prefeito-bruno-reis",
+   "source_url": "https://carnaval.salvador.ba.gov.br/",
    "last_scraped_at": "2026-11-24T00:25:15+01:00",
    "notes": "Pre-carnival events from 29 Jan 2027 (Pipoco) and Festa de Iemanjá on 2 Feb. Brazil dates are local (Brasília time, UTC-3, unless the venue is in another Brazilian time zone, e.g. Manaus UTC-4).",
    "lat": -12.9822499,
@@ -49267,8 +52278,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "http://agenciadenoticias.salvador.ba.gov.br/index.php/en/59-carnaval/29786-salvador-tera-mais-um-dia-de-carnaval-em-2027-anuncia-prefeito-bruno-reis",
+     "url": "https://carnaval.salvador.ba.gov.br/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Salvador city news agency)",
+     "url": "http://agenciadenoticias.salvador.ba.gov.br/index.php/en/59-carnaval/29786-salvador-tera-mais-um-dia-de-carnaval-em-2027-anuncia-prefeito-bruno-reis",
+     "field": "Previous listing (Salvador city news agency)"
     }
    ],
    "status": "upcoming",
@@ -49289,7 +52305,16 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0"
+   "photoCredit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salvadormeucarnaval",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.salvador.ba.gov.br/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-torres-vedras-2027",
@@ -49380,7 +52405,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: _morgado / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: _morgado / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/promotorres",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://promotorres.pt/evento/carnaval-de-torres-vedras-3/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/promotorres",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://promotorres.pt/evento/carnaval-de-torres-vedras-3/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@promotorresem",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://promotorres.pt/evento/carnaval-de-torres-vedras-3/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/promotorres-em",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://promotorres.pt/evento/carnaval-de-torres-vedras-3/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edugate-alexandria-2027",
@@ -49450,13 +52505,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Edugate2020",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@edugate-eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edugate.eg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://edugate-eg.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-feria-material-2027",
    "slug": "feria-material-2027",
    "name": "Feria Material, Vol. 13 (2027)",
-   "website_url": "https://material-fair.com/platform/feria-material-vol-13/",
+   "website_url": "https://material-fair.com/",
    "start_date": "2027-02-04",
    "end_date": "2027-02-07",
    "city": "Mexico City",
@@ -49476,7 +52575,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://material-fair.com/platform/feria-material-vol-13/",
+   "source_url": "https://material-fair.com/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "85+ exhibitors from 22 countries (official page). Mexico City Art Week. Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 19.4596913,
@@ -49491,8 +52590,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://material-fair.com/platform/feria-material-vol-13/",
+     "url": "https://material-fair.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Feria Material Vol. 13 platform page)",
+     "url": "https://material-fair.com/platform/feria-material-vol-13/",
+     "field": "Previous listing (Feria Material Vol. 13 platform page)"
     }
    ],
    "status": "upcoming",
@@ -49513,13 +52617,22 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mmmmmaterial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://material-fair.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-india-art-fair-2027",
    "slug": "india-art-fair-2027",
    "name": "India Art Fair 2027",
-   "website_url": "https://indiaartfair.in/events-2026",
+   "website_url": "https://indiaartfair.in/",
    "start_date": "2027-02-04",
    "end_date": "2027-02-07",
    "city": "New Delhi",
@@ -49539,7 +52652,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://indiaartfair.in/events-2026",
+   "source_url": "https://indiaartfair.in/",
    "last_scraped_at": "2026-11-24T00:45:00+01:00",
    "notes": "18th edition; 120+ exhibitors. Dates are local to the host city (India Standard Time, UTC+5:30).",
    "lat": 28.5493675,
@@ -49573,8 +52686,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://indiaartfair.in/events-2026",
+     "url": "https://indiaartfair.in/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (India Art Fair events-2026 page)",
+     "url": "https://indiaartfair.in/events-2026",
+     "field": "Previous listing (India Art Fair events-2026 page)"
     },
     {
      "label": "Official",
@@ -49600,7 +52718,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Pulakit Singh / Wikimedia Commons / CC0"
+   "photoCredit": "Photo: Pulakit Singh / Wikimedia Commons / CC0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/indiaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://indiaartfair.in/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/IndiaArtFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://indiaartfair.in/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/indiaartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://indiaartfair.in/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@indiaartfair4646",
+     "verified_via": "official_site_checked",
+     "source_url": "https://indiaartfair.in/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-winter-lights-festival-2027",
@@ -49724,13 +52872,22 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Reykjavik",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://reykjavik.is/en/winter-lights-festival",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-salon-acme-2027",
    "slug": "salon-acme-2027",
    "name": "Salón ACME No. 14 (2027)",
-   "website_url": "https://www.salonacme.com/es/visit",
+   "website_url": "https://www.salonacme.com/",
    "start_date": "2027-02-04",
    "end_date": "2027-02-08",
    "city": "Mexico City",
@@ -49750,7 +52907,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.salonacme.com/es/visit",
+   "source_url": "https://www.salonacme.com/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 19.4296422,
@@ -49774,8 +52931,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.salonacme.com/es/visit",
+     "url": "https://www.salonacme.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Salón ACME visit page)",
+     "url": "https://www.salonacme.com/es/visit",
+     "field": "Previous listing (Salón ACME visit page)"
     }
    ],
    "status": "upcoming",
@@ -49796,7 +52958,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SalonAcme",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonacme.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/salonacme",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonacme.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/salonacme",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.salonacme.com/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sapporo-snow-festival-2027",
@@ -49898,7 +53083,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/welcomesapporo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.snowfes.com/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/welcomesapporo_event",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.snowfes.com/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/welcomesapporo.event",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.snowfes.com/en/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-zagreb-hunting-fair-2027",
@@ -50026,7 +53234,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artefiera",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artefiera.it/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artefiera_bologna",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artefiera.it/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/artefierabologna",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artefiera.it/",
+     "accessed_at": "2026-11-24T13:20:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cape-town-pride-2027",
@@ -50129,7 +53360,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/capetownpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cptpride.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/capetownpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cptpride.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@capetownpride",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cptpride.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-de-quebec-2027",
@@ -50226,13 +53480,50 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/carnavaldequebec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.qc.ca/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/carnavaldequebec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.qc.ca/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/carnaval-de-qu-bec",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.qc.ca/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/carnavalqc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.qc.ca/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCGUNNYLyK41pIyYlFSUiA2w",
+     "verified_via": "official_site_checked",
+     "source_url": "https://carnaval.qc.ca/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-desfile-de-llamadas-2027",
    "slug": "desfile-de-llamadas-2027",
    "name": "Desfile de Llamadas 2027 (Montevideo Carnival)",
-   "website_url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
+   "website_url": "https://www.descubrimontevideo.uy/desfile-de-llamadas",
    "start_date": "2027-02-05",
    "end_date": "2027-02-06",
    "city": "Montevideo",
@@ -50252,7 +53543,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
+   "source_url": "https://www.descubrimontevideo.uy/desfile-de-llamadas",
    "last_scraped_at": "2026-11-24T02:16:06+01:00",
    "notes": "Candombe parade of the comparsas, official since 1956. The 2027 edition is named after Ruben Rada (Intendencia launch note). Uruguay dates are local (Uruguay time, UTC-3 all year, no daylight saving).",
    "lat": -34.9109195,
@@ -50277,9 +53568,14 @@ window.ATLASDATA={
    ],
    "sources": [
     {
-     "label": "Official (Intendencia de Montevideo, organiser)",
+     "label": "Official",
+     "url": "https://www.descubrimontevideo.uy/desfile-de-llamadas",
+     "field": "official"
+    },
+    {
+     "label": "Previous listing (Montevideo city news)",
      "url": "https://montevideo.gub.uy/noticias/se-viene-la-prueba-de-admision-del-carnaval-2027",
-     "field": "official (Intendencia de Montevideo, organiser)"
+     "field": "Previous listing (Montevideo city news)"
     },
     {
      "label": "Official (Intendencia de Montevideo, organiser)",
@@ -50518,7 +53814,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sixnationsrugby",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sixnationsrugby.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sixnationsrugby",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sixnationsrugby.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/six-nations-rugby",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sixnationsrugby.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SixNationsRugby",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sixnationsrugby.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@SixNationsRugby",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.sixnationsrugby.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-malta-carnival-2027",
@@ -50685,7 +54018,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/perthfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.perthfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/perthfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.perthfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@perthfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.perthfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/perth-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.perthfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-rio-2027",
@@ -50769,7 +54132,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/riotur.rio",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/riodejaneiro",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/riodejaneiro",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-seattle-boat-show-2027",
@@ -50833,7 +54219,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SeattleBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://seattleboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/seattleboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://seattleboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SeattleBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://seattleboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SeattleBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://seattleboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/northwest-marine-trade-association",
+     "verified_via": "official_site_checked",
+     "source_url": "https://seattleboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-utmessan-2027",
@@ -50952,7 +54375,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/utmessan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.utmessan.is/english",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/utmessan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.utmessan.is/english",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/utmessan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.utmessan.is/english",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-de-barranquilla-2027",
@@ -51132,13 +54578,50 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: dandrez / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: dandrez / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CosquinRockOficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cosquinrock.net/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Cosquin_Rock",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cosquinrock.net/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Cosqu%C3%ADnRockOficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cosquinrock.net/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cosquinrock",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cosquinrock.net/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cosquinrock",
+     "verified_via": "official_site_checked",
+     "source_url": "https://cosquinrock.net/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-international-chinese-new-year-night-parade-2027",
    "slug": "international-chinese-new-year-night-parade-2027",
    "name": "International Chinese New Year Night Parade 2027",
-   "website_url": "https://www.discoverhongkong.com/content/dam/dhk/intl/corporate/about-hktb/tender-notice/tender-in-progress/eng/2026/11-ICNYNP-Show-Production-Company-en.pdf",
+   "website_url": "https://www.discoverhongkong.com/eng/events/chinese-new-year.html",
    "start_date": "2027-02-06",
    "end_date": "2027-02-08",
    "city": "Hong Kong",
@@ -51158,7 +54641,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.discoverhongkong.com/content/dam/dhk/intl/corporate/about-hktb/tender-notice/tender-in-progress/eng/2026/11-ICNYNP-Show-Production-Company-en.pdf",
+   "source_url": "https://www.discoverhongkong.com/eng/events/chinese-new-year.html",
    "last_scraped_at": "2026-11-24T02:10:00+01:00",
    "notes": "Dates are local to Hong Kong (Hong Kong Time, UTC+8).",
    "lat": 22.298872,
@@ -51192,8 +54675,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.discoverhongkong.com/content/dam/dhk/intl/corporate/about-hktb/tender-notice/tender-in-progress/eng/2026/11-ICNYNP-Show-Production-Company-en.pdf",
+     "url": "https://www.discoverhongkong.com/eng/events/chinese-new-year.html",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (HKTB tender PDF)",
+     "url": "https://www.discoverhongkong.com/content/dam/dhk/intl/corporate/about-hktb/tender-notice/tender-in-progress/eng/2026/11-ICNYNP-Show-Production-Company-en.pdf",
+     "field": "Previous listing (HKTB tender PDF)"
     },
     {
      "label": "Official",
@@ -51284,7 +54772,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/pune-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/pune-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/pune-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sydney-lunar-festival-2027",
@@ -51370,7 +54884,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cityofsydney",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.sydneylunarfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cityofsydney",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.sydneylunarfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/cityofsydney",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.sydneylunarfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/cityofsydney",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.sydneylunarfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-youth-tech-fest-cyprus-2027",
@@ -51468,13 +55012,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/youthtechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://youthtechfest.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/youthtechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://youthtechfest.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/youthtechfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://youthtechfest.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-carnaval-binche-2027",
    "slug": "carnaval-binche-2027",
    "name": "Carnaval de Binche 2027",
-   "website_url": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
+   "website_url": "https://www.carnavaldebinche.be/",
    "start_date": "2027-02-07",
    "end_date": "2027-02-09",
    "city": "Binche",
@@ -51494,7 +55061,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
+   "source_url": "https://www.carnavaldebinche.be/",
    "last_scraped_at": "2026-11-24T03:00:00+01:00",
    "notes": "Dates are local to the host city (Central European Time, UTC+1 / UTC+2 in summer).",
    "lat": 50.4103004,
@@ -51536,8 +55103,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
+     "url": "https://www.carnavaldebinche.be/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Ville de Binche news)",
+     "url": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
+     "field": "Previous listing (Ville de Binche news)"
     },
     {
      "label": "Official",
@@ -51563,13 +55135,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Binchetourisme",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.carnavaldebinche.be/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/binche_tourisme",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.carnavaldebinche.be/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCxZOJfdb3OReoW-NutV0pow",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.carnavaldebinche.be/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-new-baltic-dance-2027",
    "slug": "new-baltic-dance-2027",
    "name": "New Baltic Dance 2027",
-   "website_url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+   "website_url": "https://newbalticdance.lt/",
    "start_date": "2027-02-07",
    "end_date": "2027-03-04",
    "city": "Vilnius",
@@ -51589,7 +55184,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+   "source_url": "https://newbalticdance.lt/",
    "last_scraped_at": "2026-11-24T04:00:00+01:00",
    "notes": "Dates are local civil dates in Lithuania (Europe/Vilnius).",
    "lat": 54.6870458,
@@ -51604,8 +55199,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+     "url": "https://newbalticdance.lt/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Go Vilnius events page)",
+     "url": "https://www.govilnius.lt/visit-vilnius/latest-tips/vilniuss-biggest-events",
+     "field": "Previous listing (Go Vilnius events page)"
     }
    ],
    "status": "upcoming",
@@ -51626,7 +55226,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/newbalticdance",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newbalticdance.lt/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/newbalticdance",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newbalticdance.lt/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/new-baltic-dance",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newbalticdance.lt/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@NewBalticDance",
+     "verified_via": "official_site_checked",
+     "source_url": "https://newbalticdance.lt/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-qatar-doha-bank-open-2027",
@@ -51732,7 +55362,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qatartennis",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/1003/doha/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/qatartennis",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/1003/doha/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/QatarTennis",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/1003/doha/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-spring-fair-2027",
@@ -51797,13 +55450,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/springautumnfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SpringAutFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SpringAutumnFair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/spring-&-autumn-fair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Springautumnfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@springautumnfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.springfair.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-abn-amro-open-rotterdam-2027",
    "slug": "abn-amro-open-rotterdam-2027",
    "name": "ABN AMRO Open 2027",
-   "website_url": "https://abnamroopen.com/",
+   "website_url": "https://www.abnamro-open.nl/",
    "start_date": "2027-02-08",
    "end_date": "2027-02-14",
    "city": "Rotterdam",
@@ -51823,7 +55520,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://abnamroopen.com/",
+   "source_url": "https://www.abnamro-open.nl/",
    "last_scraped_at": "2026-11-24T06:09:18+01:00",
    "notes": "Dates are local civil dates for this official ATP 500 week, taken from the official 2027 ATP Tour calendar (and its start/final-day footnotes) fetched 24 Nov 2026.",
    "lat": 51.8832963,
@@ -51871,13 +55568,18 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf",
+     "url": "https://www.abnamro-open.nl/",
      "field": "official"
     },
     {
      "label": "Official",
-     "url": "https://abnamroopen.com/",
+     "url": "https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (abnamroopen.com)",
+     "url": "https://abnamroopen.com/",
+     "field": "Previous listing (abnamroopen.com)"
     }
    ],
    "status": "upcoming",
@@ -51898,13 +55600,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/abnamroopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ABNAMROOPEN",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/abn-amro-open",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/abnamroopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/abnamroopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@abnamroopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.abnamro-open.nl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cisco-live-emea-2027",
    "slug": "cisco-live-emea-2027",
    "name": "Cisco Live 2027 London (EMEA)",
-   "website_url": "https://www.ciscolive.com/emea/faqs.html",
+   "website_url": "https://www.ciscolive.com/emea.html",
    "start_date": "2027-02-08",
    "end_date": "2027-02-12",
    "city": "London",
@@ -51924,7 +55670,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.ciscolive.com/emea/faqs.html",
+   "source_url": "https://www.ciscolive.com/emea.html",
    "last_scraped_at": "2026-11-23T23:30:00+01:00",
    "notes": null,
    "lat": 51.5081127,
@@ -51950,8 +55696,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.ciscolive.com/emea/faqs.html",
+     "url": "https://www.ciscolive.com/emea.html",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Cisco Live EMEA FAQs)",
+     "url": "https://www.ciscolive.com/emea/faqs.html",
+     "field": "Previous listing (Cisco Live EMEA FAQs)"
     },
     {
      "label": "Official",
@@ -51976,7 +55727,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ciscoliveemea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ciscolive.com/emea.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ciscoliveemea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ciscolive.com/emea.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/groups/4557837",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ciscolive.com/emea.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ciscoliveemea",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ciscolive.com/emea.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-cologne-carnival-2027",
@@ -52157,7 +55938,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ifexinida",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ifexindia.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ifexindia",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ifexindia.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ifex_india",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ifexindia.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ifexindiaa",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ifexindia.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@IndiaIFEX",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ifexindia.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-jfokus-2027",
@@ -52299,7 +56117,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AfricanMiningIndaba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://miningindaba.com/event-information",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MiningIndaba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://miningindaba.com/event-information",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/miningindaba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://miningindaba.com/event-information",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/mining-indaba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://miningindaba.com/event-information",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/MiningIndaba",
+     "verified_via": "official_site_checked",
+     "source_url": "https://miningindaba.com/event-information",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nexo-dallas-open-2027",
@@ -52384,7 +56239,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/dalopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dallasopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dalopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dallasopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/dalopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dallasopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@dalopentennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dallasopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-stockholm-design-week-2027",
@@ -52473,7 +56358,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stockholmdesignweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://stockholmdesignweek.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stockholmdesignweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://stockholmdesignweek.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nice-carnival-2027",
@@ -52574,7 +56475,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nicecarnaval",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nicecarnaval.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NiceCarnaval",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.nicecarnaval.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-stockholm-furniture-fair-2027",
@@ -52647,7 +56564,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Idamlowe, Wikimedia Commons, CC BY-SA 4.0"
+   "photoCredit": "Idamlowe, Wikimedia Commons, CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stockholmsmassan",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://stockholmsmassan.se/kalender/stockholm-furniture-fair-2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/stockholmsmassan",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://stockholmsmassan.se/kalender/stockholm-furniture-fair-2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/stockholmsmassan",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://stockholmsmassan.se/kalender/stockholm-furniture-fair-2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-congreso-internacional-educadores-upc-2027",
@@ -52726,7 +56666,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/upcedu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://congresodeeducadores.upc.edu.pe/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/upcedu",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://congresodeeducadores.upc.edu.pe/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/generacion_upc",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://congresodeeducadores.upc.edu.pe/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/UPCedupe",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://congresodeeducadores.upc.edu.pe/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ljubljana-winter-festival-2027",
@@ -52837,7 +56807,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LjubljanaFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/festival_ljubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ljubljanafestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@TheFestivalLjubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/festival-ljubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.ljubljanafestival.si/en/events/winter-festival/10th-winter-festival/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-africa-tech-summit-nairobi-2027",
@@ -52908,7 +56915,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/AfricaTechSMT",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.africatechsummit.com/nairobi/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/africa-tech-summit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.africatechsummit.com/nairobi/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AfricaTechSummitHQ",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.africatechsummit.com/nairobi/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ats_hq",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.africatechsummit.com/nairobi/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC-XfGGsS2IgNap-bmf28Pzw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.africatechsummit.com/nairobi/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-berlinale-2027",
@@ -53030,7 +57074,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/berlinale",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.berlinale.de/en/home.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://instagram.com/berlinale",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.berlinale.de/en/home.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/berlinale",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.berlinale.de/en/home.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@berlinale",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.berlinale.de/en/home.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/berlinale",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.berlinale.de/en/home.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-containerdays-london-2027",
@@ -53172,7 +57253,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/miamiboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.miamiboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MiamiBoatShow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.miamiboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/miamiboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.miamiboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/InformaUSBoatShows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.miamiboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/informa-us-boat-shows",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.miamiboatshow.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-hek-si-2027",
@@ -53260,7 +57378,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PalsitInformacijskaVarnost",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hek.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCv91KrbPk941H8UqFNeWmhg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.hek.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-waicf-2027",
@@ -53348,7 +57482,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/WAICANNES",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waicf.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/waicf-world-ai-cannes-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waicf.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/worldaicannesfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waicf.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/waicannes",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waicf.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@worldaicannesfestival8655",
+     "verified_via": "official_site_checked",
+     "source_url": "https://waicf.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-festival-milan-2027",
@@ -53475,7 +57646,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/budapestboatshow",
+     "verified_via": "official_site_checked",
+     "source_url": "https://boatshow.hu/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Hungexpovideo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://boatshow.hu/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/hungexpo---exhibitions",
+     "verified_via": "official_site_checked",
+     "source_url": "https://boatshow.hu/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-up-the-creek-2027",
@@ -53539,7 +57733,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/Upthe_Creek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.upthecreek.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/UpTheCreek.MusicFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.upthecreek.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/upthecreek_festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.upthecreek.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-fair-philippines-2027",
@@ -53634,7 +57851,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/artfairph",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artfairphilippines.com/afp2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/artfairph",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artfairphilippines.com/afp2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artfairph",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artfairphilippines.com/afp2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC6rglv1dyfvQFnYP9-3Xo8w",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artfairphilippines.com/afp2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@artfairph",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.artfairphilippines.com/afp2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-baum-festival-2027",
@@ -53698,7 +57952,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/baumfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.baumfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BAUMFESTIVAL",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.baumfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/baumfestival_",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.baumfestival.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-bahidora-2027",
@@ -53764,7 +58041,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bahidora",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bahidora.com/earlybird-aviso-venta/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Bahidora",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bahidora.com/earlybird-aviso-venta/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@bahidora-festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bahidora.com/earlybird-aviso-venta/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@bahidora",
+     "verified_via": "official_site_checked",
+     "source_url": "https://bahidora.com/earlybird-aviso-venta/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-canneseries-2027",
@@ -53837,7 +58144,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Benoît Prieur / Wikimedia Commons / CC0"
+   "photoCredit": "Photo: Benoît Prieur / Wikimedia Commons / CC0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/canneseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://canneseries.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CANNESERIES",
+     "verified_via": "official_site_checked",
+     "source_url": "https://canneseries.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CANNESERIES",
+     "verified_via": "official_site_checked",
+     "source_url": "https://canneseries.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@canneseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://canneseries.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/canneseries",
+     "verified_via": "official_site_checked",
+     "source_url": "https://canneseries.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-du-voyageur-2027",
@@ -53919,7 +58263,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Robert Linsdell / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: Robert Linsdell / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/festivalduvoyageur",
+     "verified_via": "official_site_checked",
+     "source_url": "https://heho.ca/en/festival/general-info/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fdvoyageur",
+     "verified_via": "official_site_checked",
+     "source_url": "https://heho.ca/en/festival/general-info/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-horeca-athens-2027",
@@ -53989,7 +58349,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/forumtradeshows",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.forumsa.gr/en/horeca/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/10494880",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.forumsa.gr/en/horeca/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-laneway-festival-sydney-2027",
@@ -54070,7 +58446,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Bruce Baker / Wikimedia Commons / CC BY 2.0"
+   "photoCredit": "Photo: Bruce Baker / Wikimedia Commons / CC BY 2.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/sydney/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/sydney/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lanewayfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/sydney/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/sydney/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LanewayFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/sydney/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nz-fringe-festival-2027",
@@ -54135,7 +58548,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NZFringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fringe.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nzfringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fringe.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@nzfringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fringe.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-mardi-gras-2027",
@@ -54230,7 +58666,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sydneymardigras",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mardigras.org.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@sydneymardigras",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mardigras.org.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/SydneyMardiGras",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.mardigras.org.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-vene-bat-helsinki-2027",
@@ -54299,7 +58758,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/venemessut",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/venemessut",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@venemessut",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vene-bat",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "http://www.youtube.com/suomenmessut",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/messukeskus",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vene.messukeskus.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-congreso-educacion-raices-y-futuro-2027",
@@ -54364,7 +58867,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/poloeducativopilar",
+     "verified_via": "official_site_checked",
+     "source_url": "https://poloeducativopilar.org.ar/congreso.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/poloeducativo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://poloeducativopilar.org.ar/congreso.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/poloeducativopilar",
+     "verified_via": "official_site_checked",
+     "source_url": "https://poloeducativopilar.org.ar/congreso.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC3AlMNIuFn7CVQd6E8lhzkA",
+     "verified_via": "official_site_checked",
+     "source_url": "https://poloeducativopilar.org.ar/congreso.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/poloeducativo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://poloeducativopilar.org.ar/congreso.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-animonium-2027",
@@ -54492,7 +59032,24 @@ window.ATLASDATA={
     "gaming",
     "anime"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/comic-con-india-bengaluru-2027-1.jpg",
+     "thumb": "img/events/comic-con-india-bengaluru-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Bangalore_ComicCon_2.JPG",
+     "credit": "Photo: Acagastya / Wikimedia Commons / CC0",
+     "caption": "Visitors at the entrance to Bangalore Comic Con 2017."
+    },
+    {
+     "src": "img/events/comic-con-india-bengaluru-2027-2.jpg",
+     "thumb": "img/events/comic-con-india-bengaluru-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Bangalore_ComicCon_4.JPG",
+     "credit": "Photo: Acagastya / Wikimedia Commons / CC0",
+     "caption": "A queue at the entrance to Bangalore Comic Con 2017."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -54518,7 +59075,33 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Acagastya / Wikimedia Commons / CC0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ComicConIndia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/bangalore-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@Comicconindia10",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/bangalore-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/comicconindia",
+     "operator": "Comic Con India",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.comicconindia.com/all-cities-pages-2026/bangalore-comic-con-2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fan-expo-vancouver-2027",
@@ -54615,7 +59198,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FanExpoVan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/FANEXPOVancouver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FanExpoVan",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCEOrTO8A5Nq9oQ1NbvLUxrg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fanexpohq",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@fanexpovancouver",
+     "verified_via": "official_site_checked",
+     "source_url": "https://fanexpohq.com/fanexpovancouver/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-laneway-festival-brisbane-2027",
@@ -54688,7 +59315,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Conan00 / Wikimedia Commons / CC BY-SA 3.0"
+   "photoCredit": "Photo: Conan00 / Wikimedia Commons / CC BY-SA 3.0",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/brisbane/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/brisbane/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lanewayfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/brisbane/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/brisbane/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LanewayFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/brisbane/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-nameless-winter-2027",
@@ -54751,7 +59415,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/namelessfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://namelessfestival.it/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/namelessfestivalit",
+     "verified_via": "official_site_checked",
+     "source_url": "https://namelessfestival.it/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/namelessfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://namelessfestival.it/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@namelessfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://namelessfestival.it/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/nmlssfamily",
+     "verified_via": "official_site_checked",
+     "source_url": "https://namelessfestival.it/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wonder-festival-2027-winter",
@@ -54821,7 +59522,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/WF_officialinfo",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wonfes.jp/specialsite/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wonderfestivaljp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wonfes.jp/specialsite/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCDWFQot4eBIvxPIxdTQsi8A",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wonfes.jp/specialsite/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-dubai-duty-free-tennis-championships-wta-2027",
@@ -54911,7 +59635,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-penang-miaohui-2027",
@@ -54976,7 +59723,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/penangglobal.tourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mypenang.gov.my/events.php",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/penang.experience",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mypenang.gov.my/events.php",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCcirvBTjbnpkYLlzNkmyKEQ",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mypenang.gov.my/events.php",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/penangglobaltourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mypenang.gov.my/events.php",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@experiencepenang",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mypenang.gov.my/events.php",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-super-bowl-lxi-2027",
@@ -55070,7 +59854,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/NFL",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/NFL",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/nfl",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@nfl",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/nfl",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/national-football-league",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.nfl.com/super-bowl/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-basel-fasnacht-2027",
@@ -55254,7 +60082,58 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ndc_conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/ndcconferences.com",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ndcconferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ndc-conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/NDC_Conferences",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ndc-security.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-qatar-exxonmobil-open-2027",
@@ -55355,7 +60234,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/qatartennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.qatartennis.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qatartennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.qatartennis.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/QatarTennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.qatartennis.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-rio-open-2027",
@@ -55423,7 +60325,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/RioOpenOficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rioopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/rioopenoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rioopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rioopenoficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rioopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@rioopen",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rioopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/RioOpenOficial",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rioopen.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-sigma-africa-2027",
@@ -55565,7 +60504,44 @@ window.ATLASDATA={
    "price_eur_min": 35.0,
    "price_eur_max": 120.0,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/Vinexposium",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wineparis.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Vinexposium",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wineparis.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vinexposium",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wineparis.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vinexposium",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wineparis.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/vinexposium",
+     "verified_via": "official_site_checked",
+     "source_url": "https://wineparis.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-aaai-27",
@@ -55634,7 +60610,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/RealAAAI",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aaai.org/conference/aaai/aaai-27/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AAAIOrg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aaai.org/conference/aaai/aaai-27/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/association-for-the-advancement-of-artificial-intelligence-aaai-",
+     "verified_via": "official_site_checked",
+     "source_url": "https://aaai.org/conference/aaai/aaai-27/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-biofach-2027",
@@ -55698,7 +60697,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/biofach.tradefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.biofach.de/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/biofach.tradefair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.biofach.de/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/biofach",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.biofach.de/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/biofach",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.biofach.de/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-catex-2027",
@@ -55763,7 +60792,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCCmyXiXU_P5-hzvUSf4yYpw",
+     "verified_via": "official_site_checked",
+     "source_url": "https://catexexhibition.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/catexexhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://catexexhibition.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/catexexhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://catexexhibition.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/catexexhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://catexexhibition.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/catexexhibition",
+     "verified_via": "official_site_checked",
+     "source_url": "https://catexexhibition.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taipei-international-book-exhibition-2027",
@@ -55843,7 +60909,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Voice of America / Wikimedia Commons / Public domain"
+   "photoCredit": "Photo: Voice of America / Wikimedia Commons / Public domain",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/taipeibookfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tibe.org.tw/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tibeig_tbff",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tibe.org.tw/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ai-engineer-europe-2027",
@@ -55925,7 +61007,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@aiDotEngineer",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ai.engineer/europe/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/aiDotEngineer",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ai.engineer/europe/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-automotive-world-tokyo-2027",
@@ -55990,7 +61088,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/autoworld.jp",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/automotive-world-92",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.automotiveworld.jp/tokyo/en-gb.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-developers-summit-2027",
@@ -56134,7 +61248,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ment_ljubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ment.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ment_ljubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ment.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/mentljubljana.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ment.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MENTLjubljana",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ment.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/MENTLjubljanaSession",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ment.si/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-semicon-korea-2027",
@@ -56289,7 +61440,7 @@ window.ATLASDATA={
    "event_id": "GCE-ambulante-2027",
    "slug": "ambulante-2027",
    "name": "Ambulante Gira de Documentales 2027",
-   "website_url": "https://ambulante.org/blog/conoce-los-primeros-detalles-de-la-gira-de-documentales-2027",
+   "website_url": "https://ambulante.org/",
    "start_date": "2027-02-18",
    "end_date": "2027-04-25",
    "city": "Mexico City",
@@ -56309,7 +61460,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://ambulante.org/blog/conoce-los-primeros-detalles-de-la-gira-de-documentales-2027",
+   "source_url": "https://ambulante.org/",
    "last_scraped_at": "2026-11-23T23:52:29+01:00",
    "notes": "22nd edition, touring: Sonora 18-25 Feb, Querétaro 25 Feb-4 Mar, Michoacán 4-7 Mar, Baja California 11-18 Mar, Morelos 8-11 Apr, Mexico City 15-25 Apr 2027. Pinned at Mexico City (closing leg). Mexico dates are local (Mexico City time, UTC-6, unless the venue is in another Mexican time zone).",
    "lat": 19.3207722,
@@ -56334,8 +61485,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://ambulante.org/blog/conoce-los-primeros-detalles-de-la-gira-de-documentales-2027",
+     "url": "https://ambulante.org/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Ambulante 2027 blog post)",
+     "url": "https://ambulante.org/blog/conoce-los-primeros-detalles-de-la-gira-de-documentales-2027",
+     "field": "Previous listing (Ambulante 2027 blog post)"
     }
    ],
    "status": "upcoming",
@@ -56356,7 +61512,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Festival Ambulante / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: Festival Ambulante / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ambulante",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambulante.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ambulanteac",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambulante.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AmbulanteAC",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambulante.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/Ambulante",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambulante.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ambulanteac",
+     "verified_via": "official_site_checked",
+     "source_url": "https://ambulante.org/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-art-deco-festival-napier-2027",
@@ -56444,7 +61637,7 @@ window.ATLASDATA={
    "event_id": "GCE-art-jakarta-papers-2027",
    "slug": "art-jakarta-papers-2027",
    "name": "Art Jakarta Papers 2027",
-   "website_url": "https://exhibitor.artjakarta.com/",
+   "website_url": "https://artjakarta.com/",
    "start_date": "2027-02-18",
    "end_date": "2027-02-21",
    "city": "Jakarta",
@@ -56464,7 +61657,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://exhibitor.artjakarta.com/",
+   "source_url": "https://artjakarta.com/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local Indonesia dates (Jakarta/Yogyakarta WIB UTC+7; Bali WITA UTC+8).",
    "lat": -6.2638722,
@@ -56480,8 +61673,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://exhibitor.artjakarta.com/",
+     "url": "https://artjakarta.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Art Jakarta exhibitor portal)",
+     "url": "https://exhibitor.artjakarta.com/",
+     "field": "Previous listing (Art Jakarta exhibitor portal)"
     }
    ],
    "status": "upcoming",
@@ -56502,7 +61700,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/artjakarta",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artjakarta.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Artjakarta.ID",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artjakarta.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@artjakarta.",
+     "verified_via": "official_site_checked",
+     "source_url": "https://artjakarta.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-auckland-lantern-festival-2027",
@@ -56679,7 +61900,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Chainwit. / Wikimedia Commons / CC BY 4.0"
+   "photoCredit": "Photo: Chainwit. / Wikimedia Commons / CC BY 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BangkokDesignWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bangkokdesignweek.com/en/bkkdw2027/about",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bangkokdesignweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bangkokdesignweek.com/en/bkkdw2027/about",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/BKKDesignWeek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bangkokdesignweek.com/en/bkkdw2027/about",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/CreativeEconomyAgency",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bangkokdesignweek.com/en/bkkdw2027/about",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-for-boat-prague-2027",
@@ -56768,7 +62019,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/veletrh_for_boat",
+     "verified_via": "official_site_checked",
+     "source_url": "https://forboat.cz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Forboat.cz",
+     "verified_via": "official_site_checked",
+     "source_url": "https://forboat.cz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-montreal-en-lumiere-2027",
@@ -56849,7 +62116,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Matias Garabedian / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": "Photo: Matias Garabedian / Wikimedia Commons / CC BY-SA 2.0",
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@mtlenlumiere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Montrealenlumiere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MTLenLumiere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Montlumiere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mtlenlumiere",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/l'equipe-spectra",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.montrealenlumiere.com/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-skola-2027",
@@ -56978,13 +62289,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/izstade.skola",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bt1.lv/skola/eng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/izstade_skola",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bt1.lv/skola/eng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@izstade_skola",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.bt1.lv/skola/eng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-wrc-sweden-2027",
    "slug": "wrc-sweden-2027",
    "name": "WRC Rally Sweden 2027",
-   "website_url": "https://rallysweden.com/en/tickets-for-rally-sweden-2027-go-on-sale-monday-19-october/",
+   "website_url": "https://rallysweden.com/en/",
    "start_date": "2027-02-18",
    "end_date": "2027-02-21",
    "city": "Umeå",
@@ -57004,7 +62338,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://rallysweden.com/en/tickets-for-rally-sweden-2027-go-on-sale-monday-19-october/",
+   "source_url": "https://rallysweden.com/en/",
    "last_scraped_at": "2026-11-24T05:30:13+01:00",
    "notes": "Dates are local civil dates in Sweden (Europe/Stockholm).",
    "lat": 63.8256568,
@@ -57028,13 +62362,18 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.wrc.com/en/calendar",
+     "url": "https://rallysweden.com/en/",
      "field": "official"
     },
     {
      "label": "Official",
-     "url": "https://rallysweden.com/en/tickets-for-rally-sweden-2027-go-on-sale-monday-19-october/",
+     "url": "https://www.wrc.com/en/calendar",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (Rally Sweden tickets news)",
+     "url": "https://rallysweden.com/en/tickets-for-rally-sweden-2027-go-on-sale-monday-19-october/",
+     "field": "Previous listing (Rally Sweden tickets news)"
     }
    ],
    "status": "upcoming",
@@ -57055,7 +62394,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/OfficialRallySweden",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rallysweden.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/rallysweden",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rallysweden.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rallysweden",
+     "verified_via": "official_site_checked",
+     "source_url": "https://rallysweden.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-adelaide-fringe-2027",
@@ -57151,7 +62513,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/adlfringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ADLfringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/adelaide-fringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/adelaidefringeinc",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@adlfringe",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/adlfrin.ge",
+     "verified_via": "official_site_checked",
+     "source_url": "https://adelaidefringe.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-anima-festival-2027",
@@ -57233,7 +62639,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/festivalanima",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/animafestbxl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@FestivalAnima",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@animafestbxl",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/festival-anima",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/anima_festival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://animafestival.be/en",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-disobey-2027",
@@ -57296,7 +62746,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/disobeyfi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/disobey-fi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/disobeyfi.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/disobey_fi",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "discord",
+     "url": "https://discord.gg/S7eMF3TQCj",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCOtuVFYdy-Bu0zQ0rRyhQzg",
+     "verified_via": "official_site_checked",
+     "source_url": "https://disobey.fi/2027/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-edc-mexico-2027",
@@ -57399,7 +62893,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ElectricDaisyCarnivalMexico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mexico.edc.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/edc_mexico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mexico.edc.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edc_mexico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mexico.edc.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edcmexico",
+     "verified_via": "official_site_checked",
+     "source_url": "https://mexico.edc.com/en/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fancy-frontier-48",
@@ -57464,7 +62988,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/fancyfrontier",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.f-2.com.tw/activitys/fancy-frontier%e9%96%8b%e6%8b%93",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fancy_frontier",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.f-2.com.tw/activitys/fancy-frontier%e9%96%8b%e6%8b%93",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ffrontier",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.f-2.com.tw/activitys/fancy-frontier%e9%96%8b%e6%8b%93",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-investec-cape-town-art-fair-2027",
@@ -57561,7 +63108,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/investeccapetownartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.investeccapetownartfair.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/investeccapetownartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.investeccapetownartfair.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@investeccapetownartfair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.investeccapetownartfair.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/showcase/investec-cape-town-art-fair",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.investeccapetownartfair.co.za/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-j-popcon-2027",
@@ -57680,7 +63257,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/JPopcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://j-popcon.dk/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/jpopcon",
+     "verified_via": "official_site_checked",
+     "source_url": "https://j-popcon.dk/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/JpopconDK",
+     "verified_via": "official_site_checked",
+     "source_url": "https://j-popcon.dk/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-laneway-festival-melbourne-2027",
@@ -57744,7 +63344,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/melbourne/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/melbourne/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lanewayfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/melbourne/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/melbourne/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LanewayFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/melbourne/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-australian-fashion-festival-2027",
@@ -57818,7 +63455,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/melbfashionfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.melbournefashionfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AustralianFashionFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.melbournefashionfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ausfashionfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.melbournefashionfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/melbournefashionfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.melbournefashionfestival.com.au/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-voxxed-days-ticino-2027",
@@ -57905,7 +63572,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/VoxxedTicino",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdt27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vdt2025",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdt27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/voxxedticino.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://vdt27.voxxeddays.ch/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-pingxi-sky-lantern-festival-2027",
@@ -57978,7 +63668,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Vickie399 (鄭惠霙) / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Vickie399 (鄭惠霙) / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ntctour",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://newtaipei.travel/zh-tw/news/detail/4038",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/newtaipeitour",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://newtaipei.travel/zh-tw/news/detail/4038",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCm8_3Nf9LFmPwuKSvYhhwLw",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://newtaipei.travel/zh-tw/news/detail/4038",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-taiwan-lantern-festival-2027",
@@ -58146,7 +63859,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Imakanksha / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": "Photo: Imakanksha / Wikimedia Commons / CC BY-SA 4.0",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/MPTourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mptourism.com/khajuraho-dance-festival.htm",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MPTourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mptourism.com/khajuraho-dance-festival.htm",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/mptourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mptourism.com/khajuraho-dance-festival.htm",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/mptourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mptourism.com/khajuraho-dance-festival.htm",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/madhya-pradesh-tourism",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.mptourism.com/khajuraho-dance-festival.htm",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-ddd-melbourne-2027",
@@ -58209,7 +63959,51 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "bluesky",
+     "url": "https://bsky.app/profile/dddmelbourne.bsky.social",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dddmelbourne",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dddmelb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/ddd-melbourne-by-night",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@dddmelb",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "github",
+     "url": "https://github.com/OpenDDD",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dddmelbourne.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-internacional-de-cine-de-punta-del-este-2027",
@@ -58361,7 +64155,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fiaformulae",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fiaformulae.com/en/calendar",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FIAFormulaE",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fiaformulae.com/en/calendar",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fiaformulae",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fiaformulae.com/en/calendar",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fiaformulae",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.fiaformulae.com/en/calendar",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-st-kilda-festival-2027",
@@ -58583,7 +64407,44 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/auckland/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/auckland/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lanewayfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/auckland/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/lanewayfest",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/auckland/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/LanewayFestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.lanewayfestival.com/auckland/event-info",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-abierto-mexicano-telcel-acapulco-2027",
@@ -58736,13 +64597,36 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ddftennis",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.dubaidutyfreetennischampionships.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-festival-de-vina-del-mar-2027",
    "slug": "festival-de-vina-del-mar-2027",
    "name": "Festival Internacional de la Canción de Viña del Mar 2027",
-   "website_url": "https://festivalvinadelmar.com/es/parrilla",
+   "website_url": "https://festivalvinadelmar.com/",
    "start_date": "2027-02-22",
    "end_date": "2027-02-27",
    "city": "Viña del Mar",
@@ -58762,7 +64646,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://festivalvinadelmar.com/es/parrilla",
+   "source_url": "https://festivalvinadelmar.com/",
    "last_scraped_at": "2026-11-24T00:44:25+01:00",
    "notes": "66th edition; Gala de Viña on Friday 19 Feb 2027. Chile dates are local (mainland Chile time: UTC-3 in the southern summer, UTC-4 in winter; Easter Island is two hours behind the mainland).",
    "lat": -33.0327984,
@@ -58779,8 +64663,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://festivalvinadelmar.com/es/parrilla",
+     "url": "https://festivalvinadelmar.com/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (festival parrilla page)",
+     "url": "https://festivalvinadelmar.com/es/parrilla",
+     "field": "Previous listing (festival parrilla page)"
     },
     {
      "label": "Official (Viña del Mar municipality, festival owner)",
@@ -58806,7 +64695,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/elfestivaldevina",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalvinadelmar.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/elfestivaldevina",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalvinadelmar.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://twitter.com/elfestival",
+     "verified_via": "official_site_checked",
+     "source_url": "https://festivalvinadelmar.com/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-fintech-meetup-2027",
@@ -58939,7 +64851,23 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/fsa_JAPAN",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fsa.go.jp/policy/japanfintechweek/2027/index_en.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/jfsa-japanfintechweek",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.fsa.go.jp/policy/japanfintechweek/2027/index_en.html",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-lagos-tech-fest-2027",
@@ -59021,7 +64949,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/afritechseries",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://tech.eventhive.ng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/africa-tech-series",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://tech.eventhive.ng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/afritechseries",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://tech.eventhive.ng/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-merida-open-2027",
@@ -59094,13 +65045,57 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@wta",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/WTA",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/WTA",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/wta",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/wta",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@wta",
+     "verified_via": "official_listing_checked",
+     "source_url": "https://www.wtatennis.com/tournaments/2085/merida/2027",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-te-matatini-2027",
    "slug": "te-matatini-2027",
    "name": "Te Matatini o Ngā Taniwha 2027 (National Kapa Haka Festival)",
-   "website_url": "https://www.tematatini.co.nz/events/te-matatini-o-nga-taniwha-2027-festival/",
+   "website_url": "https://www.tematatini.co.nz/",
    "start_date": "2027-02-22",
    "end_date": "2027-02-27",
    "city": "Ngāruawāhia",
@@ -59120,7 +65115,7 @@ window.ATLASDATA={
    "sponsor_page_url": null,
    "sponsorship_prospectus_url": null,
    "year": 2027,
-   "source_url": "https://www.tematatini.co.nz/events/te-matatini-o-nga-taniwha-2027-festival/",
+   "source_url": "https://www.tematatini.co.nz/",
    "last_scraped_at": "2026-11-24T01:30:00+01:00",
    "notes": "Dates are local New Zealand dates (NZST/NZDT).",
    "lat": -37.6386193,
@@ -59145,8 +65140,13 @@ window.ATLASDATA={
    "sources": [
     {
      "label": "Official",
-     "url": "https://www.tematatini.co.nz/events/te-matatini-o-nga-taniwha-2027-festival/",
+     "url": "https://www.tematatini.co.nz/",
      "field": "official"
+    },
+    {
+     "label": "Previous listing (2027 festival event page)",
+     "url": "https://www.tematatini.co.nz/events/te-matatini-o-nga-taniwha-2027-festival/",
+     "field": "Previous listing (2027 festival event page)"
     },
     {
      "label": "Official",
@@ -59172,7 +65172,37 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "",
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/te_matatini",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tematatini.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/te-matatini-society-incorporated",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tematatini.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@te_matatini",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tematatini.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tematatini",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.tematatini.co.nz/",
+     "accessed_at": "2026-11-24T13:27:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-agra-plovdiv-2027",
@@ -61029,7 +67059,16 @@ window.ATLASDATA={
     "literature",
     "publishing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/fil-mineria-2027-1.jpg",
+     "thumb": "img/events/fil-mineria-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Feria_Internacional_del_Libro_del_Palacio_de_Miner%C3%ADa_2020.jpg",
+     "credit": "Photo: ProtoplasmaKid / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An overhead view of stands and visitors in the courtyard of the Palacio de Minería during the 2020 Feria Internacional del Libro del Palacio de Minería, Mexico City."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -61055,7 +67094,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: ProtoplasmaKid / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-festival-de-malaga-2027",
@@ -70472,7 +76511,16 @@ window.ATLASDATA={
     "robotics",
     "data centres"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/nvidia-gtc-2027-1.jpg",
+     "thumb": "img/events/nvidia-gtc-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_GTC_2025.jpg",
+     "credit": "Photo: Jack145945 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The entrance to NVIDIA GTC 2025 at the San Jose McEnery Convention Center, with official GTC branding and #GTC25 letters."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -70503,7 +76551,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Jack145945 / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-sxsw-2027",
@@ -71827,7 +77875,24 @@ window.ATLASDATA={
     "rights",
     "audio"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/london-book-fair-2027-1.jpg",
+     "thumb": "img/events/london-book-fair-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:London_Book_Fair_2019_-_33483289628.jpg",
+     "credit": "Photo: ActuaLitté / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "A wide aerial view of the packed halls at The London Book Fair 2019, Olympia, London."
+    },
+    {
+     "src": "img/events/london-book-fair-2027-2.jpg",
+     "thumb": "img/events/london-book-fair-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:London_Book_Fair_2019_-_46444399235.jpg",
+     "credit": "Photo: ActuaLitté / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Crowds in a hall aisle at The London Book Fair 2019, Olympia, London, seen from above."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -71853,7 +77918,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: ActuaLitté / Wikimedia Commons / CC BY-SA 2.0"
   },
   {
    "event_id": "GCE-embedded-world-2027",
@@ -131729,7 +137794,24 @@ window.ATLASDATA={
     "space",
     "aviation"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/paris-air-show-2027-1.jpg",
+     "thumb": "img/events/paris-air-show-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:B-1_bomber_au_salon_du_Bourget_2023.jpg",
+     "credit": "Photo: Tangopaso / Wikimedia Commons / Public domain",
+     "caption": "Visitors looking at a US Air Force B-1 bomber on the static display at the 2023 Paris Air Show, Le Bourget."
+    },
+    {
+     "src": "img/events/paris-air-show-2027-2.jpg",
+     "thumb": "img/events/paris-air-show-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Concorde_Air_France_-_Salon_du_Bourget_2023.jpg",
+     "credit": "Photo: Mathious Ier / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors around the Air France Concorde in a hall at the 2023 Paris Air Show, Le Bourget."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -131760,7 +137842,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Tangopaso / Wikimedia Commons / Public domain"
   },
   {
    "event_id": "GCE-terra-wortmann-open-halle-2027",
@@ -182044,7 +188126,24 @@ window.ATLASDATA={
     "indie games",
     "VR"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/tokyo-game-show-2027-1.jpg",
+     "thumb": "img/events/tokyo-game-show-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Game_Show_2026.jpg",
+     "credit": "Photo: Syced / Wikimedia Commons / CC0",
+     "caption": "A packed exhibition hall at the Tokyo Game Show 2026, Makuhari Messe, Chiba, Japan."
+    },
+    {
+     "src": "img/events/tokyo-game-show-2027-2.jpg",
+     "thumb": "img/events/tokyo-game-show-2027-2-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2023-Day3-2023-09-23_005.jpg",
+     "credit": "Photo: RuinDig/Yuki Uchida / Wikimedia Commons / CC BY 4.0",
+     "caption": "A wide view of the packed exhibition hall at the Tokyo Game Show 2023, Makuhari Messe, 23 September 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -182075,7 +188174,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: Syced / Wikimedia Commons / CC0"
   },
   {
    "event_id": "GCE-ultima-oslo-2027",
@@ -201123,7 +207222,16 @@ window.ATLASDATA={
     "gaming",
     "esports"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "img/events/paris-games-week-2027-1.jpg",
+     "thumb": "img/events/paris-games-week-2027-1-t.jpg",
+     "orig": "",
+     "page": "https://commons.wikimedia.org/wiki/File:ESWC_Paris_Games_Week_2016.jpg",
+     "credit": "Photo: FR (Wikimedia Commons user) / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Electronic Sports World Cup stage at Paris Games Week 2016, Paris."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -201154,7 +207262,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": ""
+   "photoCredit": "Photo: FR (Wikimedia Commons user) / Wikimedia Commons / CC BY-SA 4.0"
   },
   {
    "event_id": "GCE-salon-du-chocolat-paris-2027",
@@ -252633,7 +258741,8 @@ window.ATLASDATA={
    },
    "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "hotel-bayerischer-hof"
   },
   {
    "name": "The Charles Hotel",
@@ -253499,7 +259608,8 @@ window.ATLASDATA={
    },
    "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "hotel-atlantic-hamburg"
   },
   {
    "name": "CONRAD Hamburg",
@@ -256983,7 +263093,8 @@ window.ATLASDATA={
    },
    "source": "https://analisi.transparenciacatalunya.cat/Turisme/Establiments-d-allotjament-tur-stic-inscrits-al-Re/t2h3-cgys",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "w-barcelona"
   },
   {
    "name": "Bagués",
@@ -258645,7 +264756,8 @@ window.ATLASDATA={
      "check_out": "2026-12-11",
      "type": "event_dates_lowest"
     }
-   }
+   },
+   "venue_slug": "the-peninsula-paris"
   },
   {
    "name": "Hôtel Napoléon",
@@ -262119,7 +268231,8 @@ window.ATLASDATA={
    },
    "source": "London & Partners / London Convention Bureau, Partner Index 2026 (PDF), https://www.conventionbureau.london/-/media/files/london/convention-bureau/assets/partner-index-2026.pdf",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "jw-marriott-grosvenor-house-london"
   },
   {
    "name": "Hilton London Metropole",
@@ -262228,7 +268341,8 @@ window.ATLASDATA={
    },
    "source": "London & Partners / London Convention Bureau, Partner Index 2026 (PDF), https://www.conventionbureau.london/-/media/files/london/convention-bureau/assets/partner-index-2026.pdf",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "the-landmark-london"
   },
   {
    "name": "The Standard, London",
@@ -264756,7 +270870,8 @@ window.ATLASDATA={
    },
    "source": "https://www.forbestravelguide.com/award-winners",
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "imperial-hotel-tokyo"
   },
   {
    "name": "Shangri-La Tokyo",
@@ -265860,6 +271975,7 @@ window.ATLASDATA={
    "source": "https://www.hotelsterren.nl/hotels/intercontinental-amstel-amsterdam-amsterdam",
    "price": null,
    "prices_by_event": null,
+   "venue_slug": "intercontinental-amstel-amsterdam",
    "photos": [
     {
      "src": "img/hotels/intercontinental-amstel-amsterdam-1.jpg",
@@ -269643,7 +275759,8 @@ window.ATLASDATA={
      "check_out": "2026-11-29",
      "type": "event_dates_lowest"
     }
-   }
+   },
+   "venue_slug": "the-ritz-carlton-millenia-singapore"
   },
   {
    "name": "Taipei Garden Hotel",
@@ -270799,7 +276916,8 @@ window.ATLASDATA={
    },
    "source": null,
    "price": null,
-   "prices_by_event": null
+   "prices_by_event": null,
+   "venue_slug": "wynn-las-vegas"
   },
   {
    "name": "Caesars Palace",
@@ -271963,7 +278081,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DubaiInternetCity",
+     "verified_via": "official website footer",
+     "source_url": "https://dic.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/dubaiinternetcity",
+     "verified_via": "official website footer",
+     "source_url": "https://dic.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DIC_Community",
+     "verified_via": "official website footer",
+     "source_url": "https://dic.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/dubai-internet-city",
+     "verified_via": "official website footer",
+     "source_url": "https://dic.ae/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCldedTxdX1fQY5AYUMPGlOw",
+     "verified_via": "official website footer",
+     "source_url": "https://dic.ae/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "emirates-towers-and-museum-of-the-future",
@@ -271992,7 +278147,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/museumofthefuture",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/MOTF",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/museumofthefuture",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/museumofthefuture",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/motf",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@museumofthefuture",
+     "verified_via": "official Museum of the Future website footer",
+     "source_url": "https://museumofthefuture.ae/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "festival-arena-dubai-festival-city",
@@ -272046,7 +278245,30 @@ window.ATLASDATA={
      "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/InterContinentalDubaiFestivalCity",
+     "verified_via": "official Festival Arena page footer (IHG / InterContinental Dubai Festival City)",
+     "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/intercondfc",
+     "verified_via": "official Festival Arena page footer (IHG / InterContinental Dubai Festival City)",
+     "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCV0UKz6glvvj8fqufUd-9XQ",
+     "verified_via": "official Festival Arena page footer (IHG / InterContinental Dubai Festival City)",
+     "source_url": "https://www.dubaifestivalcityhotels.com/festivalarena",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-grand-steps-al-maryah-island",
@@ -272079,7 +278301,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TheGalleriaUAE",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegalleria.ae/en/play/the-grand-steps",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thegalleriauae",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegalleria.ae/en/play/the-grand-steps",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029Va8zz8oEawdjS5QF7D1Y",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegalleria.ae/en/play/the-grand-steps",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/thegalleriauae",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegalleria.ae/en/play/the-grand-steps",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "atlantis-the-royal",
@@ -272381,6 +278633,70 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "jw-marriott-marquis-dubai",
+   "name": "JW Marriott Marquis Hotel Dubai",
+   "type": "hotel_conference_venue",
+   "country": "United Arab Emirates",
+   "cc": "AE",
+   "city": "Dubai",
+   "address": "Sheikh Zayed Road, Business Bay, Dubai, United Arab Emirates",
+   "lat": 25.1856856,
+   "lon": 55.2580874,
+   "url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/",
+   "capacity": 1380,
+   "exhibition_sqm": null,
+   "halls": "Official events-page schema.org: Dubai Ballroom maximum 1,380 attendees, 1,392 m²; Emirates Ballroom maximum 900, 1,196 m². Official visible total event space 10,063 m² (combined event-space total, not stored as exhibition_sqm).",
+   "description": "JW Marriott Marquis Hotel Dubai on Sheikh Zayed Road, Business Bay, with two official grand ballrooms. Official Dubai Ballroom 1,392 m² and maximum 1,380 attendees (stored as capacity_max_delegates). No official DTCM property-level star listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Dubai Ballroom",
+     "type": null,
+     "area_sqm": 1392,
+     "capacity_max": 1380,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity 1,380; official floor area 1,392 m² (converted from official square feet, matching the published 1,392 m² figure).",
+     "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/"
+    },
+    {
+     "name": "Emirates Ballroom",
+     "type": null,
+     "area_sqm": 1196,
+     "capacity_max": 900,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximum 900; 1,196 m².",
+     "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/"
+    },
+    {
+     "name": "Dubai Ballroom 1-2",
+     "type": null,
+     "area_sqm": 984,
+     "capacity_max": 1044,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "nelsons-dockyard",
    "name": "Nelson’s Dockyard",
    "type": "other",
@@ -272402,6 +278718,49 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.nationalparksantigua.com/tours/nelsons-dockyard-national-park/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/nelsonsdockyardnationalpark",
+     "verified_via": "official National Parks contact page linked from the Dockyard listing",
+     "source_url": "https://www.nationalparksantigua.com/tours/nelsons-dockyard-national-park/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/antiguaandbarbudanationalparks",
+     "verified_via": "official National Parks contact page linked from the Dockyard listing",
+     "source_url": "https://www.nationalparksantigua.com/tours/nelsons-dockyard-national-park/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "karen-demirchyan-sports-concerts-complex",
+   "name": "Karen Demirchyan Sports and Concerts Complex (Hamalir)",
+   "type": "other",
+   "country": "Armenia",
+   "cc": "AM",
+   "city": "Yerevan",
+   "address": null,
+   "lat": 40.1881503,
+   "lon": 44.4833297,
+   "url": "https://www.visitarmenia.travel/en/concerthalls/5",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Visit Armenia page: the Sports and Concerts Complex after Karen Demirchian, or Hamalir, is described as the biggest sport-concert complex in Armenia, located on the hill of Tsitsernakaberd near the Hrazdan River, and includes two big halls. Official seating or exhibition figures were not published on the retrieved official tourism page, so capacities are null.",
+   "description": "Armenia’s official tourism listing for the Karen Demirchyan Sports and Concerts Complex (Hamalir) in Yerevan, recorded as an ‘other’ venue because it is a sports-and-concert complex rather than a purpose-built convention centre. Official street address and hall capacities were not published on the retrieved Visit Armenia page. The complex’s own scc.am domain did not resolve in this pass. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.visitarmenia.travel/en/concerthalls/5",
      "label": "Official source"
     }
    ],
@@ -273221,6 +279580,211 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "anantara-palais-hansen-vienna",
+   "name": "Anantara Palais Hansen Vienna Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Austria",
+   "cc": "AT",
+   "city": "Vienna",
+   "address": "Schottenring 24, 1010 Wien",
+   "lat": 48.216413,
+   "lon": 16.368833,
+   "url": "https://www.anantara.com/en/palais-hansen-vienna",
+   "capacity": 265,
+   "exhibition_sqm": null,
+   "halls": "Official meetings-page schema lists 13 named event spaces; the Theophil Ballroom is divisible into two.",
+   "description": "Official WKO Hotelsterne directory (stand 17.08.2026 on the fetched page) lists Anantara Palais Hansen Vienna Hotel at Schottenring 24, 1010 Wien as a 5 Sterne Superior hotel. Superior is an add-on within the five-star category, not a sixth star. Official meetings page max capacity 265; Theophil Ballroom 277.45 sq.m., theatre 265, classroom 160, banquet 220, cocktail 265. Official factsheet says 'up to 265 guests combined' for Theophil I and II.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.anantara.com/en/palais-hansen-vienna/meetings",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.wko.at/hotelsterne/fuenf-sterne-superior-hotels",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.anantara.com/en/palais-hansen-vienna",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Theophil Ballroom",
+     "type": null,
+     "area_sqm": 277.45,
+     "capacity_max": 265,
+     "capacity_theatre": 265,
+     "capacity_classroom": 160,
+     "capacity_banquet": 220,
+     "capacity_reception": 265,
+     "notes": "Official schema.org occupancy on the meetings page; official floorSize 277.45 sq.m. Divisible into two. Page prose also rounds the room to 277 sq m.",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Theophil Ballroom I",
+     "type": null,
+     "area_sqm": 131.75,
+     "capacity_max": 130,
+     "capacity_theatre": 130,
+     "capacity_classroom": 80,
+     "capacity_banquet": 100,
+     "capacity_reception": 130,
+     "notes": "Official schema.org. A descriptive paragraph on the same page refers to a 123-square-metre meeting space; the official floorSize 131.75 sq.m. is stored.",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Theophil Ballroom II",
+     "type": null,
+     "area_sqm": 145.7,
+     "capacity_max": 130,
+     "capacity_theatre": 130,
+     "capacity_classroom": 80,
+     "capacity_banquet": 100,
+     "capacity_reception": 130,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Executive Boardroom",
+     "type": null,
+     "area_sqm": 50.96,
+     "capacity_max": 18,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org boardroom occupancy 18. Page prose says 'for up to 20 guests'.",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Hansen",
+     "type": null,
+     "area_sqm": 109.88,
+     "capacity_max": 110,
+     "capacity_theatre": 110,
+     "capacity_classroom": 80,
+     "capacity_banquet": 80,
+     "capacity_reception": 110,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Hansen I",
+     "type": null,
+     "area_sqm": 68.34,
+     "capacity_max": 70,
+     "capacity_theatre": 70,
+     "capacity_classroom": 50,
+     "capacity_banquet": 40,
+     "capacity_reception": 50,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Hansen II",
+     "type": null,
+     "area_sqm": 32.86,
+     "capacity_max": 40,
+     "capacity_theatre": 30,
+     "capacity_classroom": 20,
+     "capacity_banquet": 30,
+     "capacity_reception": 40,
+     "notes": "Official schema.org theatre 30; page prose says 'up to 40 guests' (cocktail 40).",
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Palais I",
+     "type": null,
+     "area_sqm": 33.48,
+     "capacity_max": 24,
+     "capacity_theatre": 24,
+     "capacity_classroom": 18,
+     "capacity_banquet": null,
+     "capacity_reception": 20,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Palais II",
+     "type": null,
+     "area_sqm": 46.8,
+     "capacity_max": 40,
+     "capacity_theatre": 36,
+     "capacity_classroom": 20,
+     "capacity_banquet": 30,
+     "capacity_reception": 40,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Ring I + II",
+     "type": null,
+     "area_sqm": 55.44,
+     "capacity_max": 50,
+     "capacity_theatre": 50,
+     "capacity_classroom": 26,
+     "capacity_banquet": 40,
+     "capacity_reception": 40,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Ring I",
+     "type": null,
+     "area_sqm": 26.04,
+     "capacity_max": 20,
+     "capacity_theatre": 16,
+     "capacity_classroom": 10,
+     "capacity_banquet": 20,
+     "capacity_reception": 20,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Ring II",
+     "type": null,
+     "area_sqm": 26.88,
+     "capacity_max": 20,
+     "capacity_theatre": 16,
+     "capacity_classroom": 10,
+     "capacity_banquet": 20,
+     "capacity_reception": 20,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    },
+    {
+     "name": "Ring III",
+     "type": null,
+     "area_sqm": 33.28,
+     "capacity_max": 20,
+     "capacity_theatre": 16,
+     "capacity_classroom": 10,
+     "capacity_banquet": 20,
+     "capacity_reception": 20,
+     "notes": null,
+     "source_url": "https://www.anantara.com/en/palais-hansen-vienna/meetings"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Anantara Palais Hansen Vienna Hotel factsheet (English)",
+     "doc_type": "factsheet",
+     "language": "en",
+     "source_url": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
+     "href": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "icc-sydney",
    "name": "International Convention Centre Sydney",
    "type": "convention_centre",
@@ -274005,8 +280569,8 @@ window.ATLASDATA={
    "cc": "AU",
    "city": "Broadbeach",
    "address": "Broadbeach, Gold Coast, Queensland, Australia",
-   "lat": null,
-   "lon": null,
+   "lat": -28.0279913,
+   "lon": 153.4284975,
    "url": "https://www.gccec.com.au/",
    "capacity": 6000,
    "exhibition_sqm": 10000,
@@ -274264,7 +280828,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fed.square",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FedSquare",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fedsquare",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fed.square",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/federationsquaremelbourne",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fed-square-pty-ltd",
+     "verified_via": "official homepage social links",
+     "source_url": "https://fedsquare.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "unsw-roundhouse",
@@ -274293,7 +280901,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/UNSWRoundhouse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.arc.unsw.edu.au/roundhouse",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unswroundhouse",
+     "verified_via": "official website footer",
+     "source_url": "https://www.arc.unsw.edu.au/roundhouse",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "qut-gardens-point",
@@ -274322,7 +280946,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/QUTBrisbane",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/qutrealworld",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TheQUTube",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/165624",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@qutrealworld",
+     "verified_via": "official website footer",
+     "source_url": "https://www.qut.edu.au/about/campuses-and-facilities/gardens-point-campus",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-fullerton-hotel-sydney",
@@ -274641,6 +281302,46 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "bangladesh-china-friendship-conference-center",
+   "name": "Bangladesh-China Friendship Conference Center (BCFCC / BICC)",
+   "type": "convention_centre",
+   "country": "Bangladesh",
+   "cc": "BD",
+   "city": "Dhaka",
+   "address": "Sher-e-Bangla Nagar, Agargaon, Dhaka-1207, Bangladesh",
+   "lat": 23.769209,
+   "lon": 90.381578,
+   "url": "https://bcfccbd.com/",
+   "capacity": 2100,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: 17 multipurpose halls in Agargaon. Official venue copy names the Hall of Fame as a grand plenary auditorium with tiered seating for up to 2,100 delegates (stored as capacity_max_delegates, with the official “up to” wording). A homepage “3,000+ delegates” campus figure is noted and not stored as an exact capacity.",
+   "description": "Official Bangladesh-China Friendship Conference Center in Agargaon, Sher-e-Bangla Nagar, Dhaka-1207, also referred to on the official site as BICC / Bangabandhu International Conference Center. Official 17 halls; official Hall of Fame up to 2,100 delegates. No atlas events are linked. Official-star conference hotels were not added in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://bcfccbd.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall of Fame (Plenary Auditorium)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official site: tiered seating for up to 2,100 delegates.",
+     "source_url": "https://bcfccbd.com/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "brussels-expo",
    "name": "Brussels Expo",
    "type": "exhibition_grounds",
@@ -274927,6 +281628,29 @@ window.ATLASDATA={
      "href": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Tour.taxis",
+     "verified_via": "official website footer",
+     "source_url": "https://tour-taxis.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tour.taxis",
+     "verified_via": "official website footer",
+     "source_url": "https://tour-taxis.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tour-taxis",
+     "verified_via": "official website footer",
+     "source_url": "https://tour-taxis.com/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -275186,6 +281910,239 @@ window.ATLASDATA={
      "url": "https://www.youtube.com/user/NDKSofia",
      "verified_via": "official website footer",
      "source_url": "https://www.ndk.bg/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "fexpocruz-centro-de-convenciones",
+   "name": "Fexpocruz Centro de Convenciones",
+   "type": "convention_centre",
+   "country": "Bolivia",
+   "cc": "BO",
+   "city": "Santa Cruz de la Sierra",
+   "address": "Avenida Roca y Coronado, Santa Cruz de la Sierra",
+   "lat": -17.785184,
+   "lon": -63.2098204,
+   "url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+   "capacity": 2700,
+   "exhibition_sqm": null,
+   "halls": "Official page and brochure list Salón Chané, Guaraní, Chiquitano, Sirionó and Guarayo plus Pabellones USA, Unión Europea, Santa Cruz and Brasil, and additional brochure spaces Parque Ecológico and Casa del Cebú.",
+   "description": "Official Fexpocruz convention-centre page and official brochure. Largest official auditorium is Pabellón Brasil (2,700); official brochure area 2,790 m². Official homepage '+ 6.000 Personas en salones' and '+ 18.000 Personas en espacios abiertos' are plus/over figures and are not stored as exact campus totals. No official combined indoor exhibition_sqm is published, so that field is null. Coordinates are from the official brochure's Google Maps link (maps.app.goo.gl/ckSHBV72HUZCm8Fv9), which resolves to the official Fexpocruz place pin at -17.785184, -63.2098204.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fexpocruz.com.bo/en/centro-de-convenciones",
+     "label": "Official source"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/66d24b1b7350d056ccd9360f_PLANO%20FEXPO%20-%20DIMENSIONES.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Salón Chané",
+     "type": null,
+     "area_sqm": 650,
+     "capacity_max": 500,
+     "capacity_theatre": 500,
+     "capacity_classroom": 300,
+     "capacity_banquet": 350,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 500, Escuela 300, Imperial 400, Banquete 350. Official brochure 650 m²; divisible into three (Chané Sur 180, Centro 290, Norte 180 m²).",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Salón Guaraní",
+     "type": null,
+     "area_sqm": 840,
+     "capacity_max": 600,
+     "capacity_theatre": 600,
+     "capacity_classroom": 400,
+     "capacity_banquet": 500,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 600, Escuela 400, Imperial 600, Banquete 500. Official brochure 840 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Pabellón USA",
+     "type": null,
+     "area_sqm": 940,
+     "capacity_max": 600,
+     "capacity_theatre": 600,
+     "capacity_classroom": 400,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 600, Escuela 400, Imperial 600, Banquete 500. Official brochure 940 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Salón Chiquitano",
+     "type": null,
+     "area_sqm": 1014,
+     "capacity_max": 900,
+     "capacity_theatre": 900,
+     "capacity_classroom": 600,
+     "capacity_banquet": 600,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 900, Escuela 600, Imperial 800, Banquete 600. Official brochure 1,014 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Salón Sirionó",
+     "type": null,
+     "area_sqm": 1645,
+     "capacity_max": 1500,
+     "capacity_theatre": 1500,
+     "capacity_classroom": 850,
+     "capacity_banquet": 800,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 1.500, Escuela 850, Imperial 1.500, Banquete 800. Official brochure 1,645 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Pabellón Unión Europea",
+     "type": null,
+     "area_sqm": 1840,
+     "capacity_max": 1500,
+     "capacity_theatre": 1500,
+     "capacity_classroom": 800,
+     "capacity_banquet": 800,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 1,500, Escuelal 800 (typo on the page for Escuela), Imperial 1,500, Banquete 800. Official brochure 1,840 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Pabellón Santa Cruz",
+     "type": null,
+     "area_sqm": 1960,
+     "capacity_max": 1600,
+     "capacity_theatre": 1600,
+     "capacity_classroom": 900,
+     "capacity_banquet": 900,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 1.600, Escuela 900, Imperial 1.600, Banquete 900. Official brochure 1,960 m².",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Salón Guarayo",
+     "type": null,
+     "area_sqm": 2204,
+     "capacity_max": 2000,
+     "capacity_theatre": 2000,
+     "capacity_classroom": 1100,
+     "capacity_banquet": 1100,
+     "capacity_reception": null,
+     "notes": "Official page calls Guarayo the salon with the greatest capacity in the convention centre, but the same official chart lists Pabellón Brasil at Auditorio 2,700. Official page: Auditorio 2000, Escuela 1100, Imperial 1900, Banquete 1100. Official brochure 2,204 m². Support rooms 'hasta 100' auditorium each — 'hasta' not stored as exact.",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Pabellón Brasil",
+     "type": null,
+     "area_sqm": 2790,
+     "capacity_max": 2700,
+     "capacity_theatre": 2700,
+     "capacity_classroom": 1300,
+     "capacity_banquet": 1400,
+     "capacity_reception": null,
+     "notes": "Official page: Auditorio 2.700, Escuela 1.300, Graduación 2.200, Boda 1.400 (wedding layout stored as banquet). Official brochure 2,790 m². Largest official auditorium figure, despite the Guarayo 'más capacidad' claim on the same page.",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones"
+    },
+    {
+     "name": "Parque Ecológico",
+     "type": null,
+     "area_sqm": 3830,
+     "capacity_max": 2800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 1900,
+     "capacity_reception": null,
+     "notes": "Official brochure: 3,830 m² outdoor/green park ('Parque Ecológico', 'entorno verde', 'superficie abierta'); Imperial 2,800, Banquete 1,900. Not included in any indoor exhibition total.",
+     "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf"
+    },
+    {
+     "name": "Casa del Cebú",
+     "type": null,
+     "area_sqm": 290,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": null,
+     "notes": "Official brochure: 290 m² indoor hall plus Área Verde 724 m²; banquet 50. Outdoor green area is not added into the 290 m² figure.",
+     "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fexpocruz Centro de Convenciones official brochure",
+     "doc_type": "brochure",
+     "language": "es",
+     "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf",
+     "href": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf",
+     "local": false
+    },
+    {
+     "title": "Fexpocruz official space-dimensions plan",
+     "doc_type": "floorplan",
+     "language": "es",
+     "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/66d24b1b7350d056ccd9360f_PLANO%20FEXPO%20-%20DIMENSIONES.pdf",
+     "href": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/66d24b1b7350d056ccd9360f_PLANO%20FEXPO%20-%20DIMENSIONES.pdf",
+     "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Fexpocruz",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fexpocruzoficial",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FexpocruzO",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fexpocruz",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fexpocruzoficial",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/Fexpocruz",
+     "verified_via": "official Fexpocruz website footer (convention centre page)",
+     "source_url": "https://www.fexpocruz.com.bo/centro-de-convenciones",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -275751,7 +282708,7 @@ window.ATLASDATA={
    "address": "Manaus, Amazonas, Brazil",
    "lat": null,
    "lon": null,
-   "url": "https://www.amazonas.am.gov.br/",
+   "url": "https://www.amazonastur.am.gov.br/centro-de-convencoes/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -275761,6 +282718,10 @@ window.ATLASDATA={
     "ciaed-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.amazonastur.am.gov.br/centro-de-convencoes/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.amazonas.am.gov.br/",
      "label": "Official source"
@@ -275826,7 +282787,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/promagno",
+     "verified_via": "official website footer",
+     "source_url": "https://www.promagno.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pro-magno",
+     "verified_via": "official website footer",
+     "source_url": "https://www.promagno.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ProMagnoCentrodeEventos",
+     "verified_via": "official website footer",
+     "source_url": "https://www.promagno.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCcqpOYv5U_arjJDE4eEa5Gw",
+     "verified_via": "official website footer",
+     "source_url": "https://www.promagno.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@promagno_",
+     "verified_via": "official website footer",
+     "source_url": "https://www.promagno.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "agora-tech-park",
@@ -275855,7 +282853,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/agoratechparksc",
+     "verified_via": "official website footer",
+     "source_url": "https://agoratechpark.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/agoratechpark",
+     "verified_via": "official website footer",
+     "source_url": "https://agoratechpark.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/agoratechpark",
+     "verified_via": "official website footer",
+     "source_url": "https://agoratechpark.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCn2GNzhySJlJw2sGpA8vSxA",
+     "verified_via": "official website footer",
+     "source_url": "https://agoratechpark.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "cidade-das-artes",
@@ -275913,7 +282941,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PierMaua",
+     "verified_via": "official website footer",
+     "source_url": "https://piermaua.rio/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/piermauario",
+     "verified_via": "official website footer",
+     "source_url": "https://piermaua.rio/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pier-mau%C3%A1",
+     "verified_via": "official website footer",
+     "source_url": "https://piermaua.rio/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@piermaua7584",
+     "verified_via": "official website footer",
+     "source_url": "https://piermaua.rio/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "cais-maua",
@@ -275983,7 +283041,7 @@ window.ATLASDATA={
    "address": "Cidade Nova, Rio de Janeiro, RJ, Brazil",
    "lat": -22.9120866,
    "lon": -43.208783,
-   "url": "https://www.exporio.com.br/",
+   "url": "https://exporcn.com.br/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -275994,13 +283052,33 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://exporcn.com.br/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.exporio.com.br/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/exporiocn",
+     "verified_via": "official ExpoRio Cidade Nova website (recovered; atlas hostname was an unrelated portal)",
+     "source_url": "https://exporcn.com.br/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/exporcn",
+     "verified_via": "official ExpoRio Cidade Nova website (recovered; atlas hostname was an unrelated portal)",
+     "source_url": "https://exporcn.com.br/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sheraton-sao-paulo-wtc-hotel",
@@ -276659,7 +283737,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/simonfraseruniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sfu.ca/campuses/burnaby.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/SFU",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sfu.ca/campuses/burnaby.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/simonfraseru",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sfu.ca/campuses/burnaby.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/SFUNews",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sfu.ca/campuses/burnaby.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/simon-fraser-university",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sfu.ca/campuses/burnaby.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grand-quay-port-of-montreal",
@@ -277956,7 +285071,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 46.2336734,
    "lon": 6.0566427,
-   "url": "https://sciencegateway.cern/",
+   "url": "https://visit.cern/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": "Official CERN page: the Science Gateway Auditorium and the Globe of Science and Innovation are available for events (co-)organised by CERN as well as private events, subject to the published booking rules. Named-room capacities were not confirmed from the official pages successfully retrieved in this pass (the previously cited venues-hire PDF URL returned HTTP 404).",
@@ -277977,7 +285092,49 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cern",
+     "operator": "CERN",
+     "verified_via": "official website footer",
+     "source_url": "https://visit.cern/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cern",
+     "operator": "CERN",
+     "verified_via": "official website footer",
+     "source_url": "https://visit.cern/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/cern",
+     "operator": "CERN",
+     "verified_via": "official website footer",
+     "source_url": "https://visit.cern/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cern",
+     "operator": "CERN",
+     "verified_via": "official website footer",
+     "source_url": "https://visit.cern/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CERNTV",
+     "operator": "CERN",
+     "verified_via": "official website footer",
+     "source_url": "https://visit.cern/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "villa-beaulieu-st-moritz",
@@ -277987,8 +285144,8 @@ window.ATLASDATA={
    "cc": "CH",
    "city": "St. Moritz",
    "address": "Via Arona 34, 7500 St. Moritz, Switzerland",
-   "lat": null,
-   "lon": null,
+   "lat": 46.4966,
+   "lon": 9.8383,
    "url": "https://www.villa-beaulieu.ch/",
    "capacity": null,
    "exhibition_sqm": null,
@@ -278043,7 +285200,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ArenaCinemasZurich",
+     "verified_via": "official website footer",
+     "source_url": "https://www.arena.ch/de/sihlcity",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/arena_cinemas",
+     "verified_via": "official website footer",
+     "source_url": "https://www.arena.ch/de/sihlcity",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@arenacinemas",
+     "verified_via": "official website footer",
+     "source_url": "https://www.arena.ch/de/sihlcity",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "baur-au-lac",
@@ -278156,6 +285336,350 @@ window.ATLASDATA={
    "star_rating": 5,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "hotel-president-wilson-geneva",
+   "name": "Hôtel President Wilson, a Luxury Collection Hotel, Geneva",
+   "type": "hotel_conference_venue",
+   "country": "Switzerland",
+   "cc": "CH",
+   "city": "Geneva",
+   "address": "Quai Wilson 47, 1201 Genève",
+   "lat": 46.21403,
+   "lon": 6.15207,
+   "url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/overview/",
+   "capacity": 1000,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 17 named meeting rooms; the largest is the WILSON Room.",
+   "description": "Official HotellerieSuisse member directory classifies Hôtel President Wilson, Quai Wilson 47, 1201 Genève, as a 5 Star Superior Hotel. Superior is an add-on within the five-star category, not a sixth star. Official Marriott events schema: WILSON Room maximumAttendeeCapacity 1,000 and 9,676.8 sq ft (899 m²). Official Marriott address block uses postal code 1211; the official classification listing uses 1201 Genève, which is stored.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelleriesuisse.ch/en/verband/mitgliedschaft/mitgliederverzeichnis/member-details/hotel-hotel-president-wilson",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "WILSON Room",
+     "type": null,
+     "area_sqm": 899,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "WISO",
+     "type": null,
+     "area_sqm": 504,
+     "capacity_max": 620,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "WLS Room",
+     "type": null,
+     "area_sqm": 420,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "WI Room",
+     "type": null,
+     "area_sqm": 464,
+     "capacity_max": 440,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "N Room",
+     "type": null,
+     "area_sqm": 91,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "O Room",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "S Room",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "L Room",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "I Room",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 230,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "W Room",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Wilson Foyer",
+     "type": null,
+     "area_sqm": 480,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Glowing",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Neptune",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Jupiter",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Apollon",
+     "type": null,
+     "area_sqm": 98,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "Orion Suite",
+     "type": null,
+     "area_sqm": 71,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    },
+    {
+     "name": "133",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": 8,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/gvalc-hotel-president-wilson-a-luxury-collection-hotel-geneva/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "parc-des-expositions-abidjan",
+   "name": "Parc des Expositions d'Abidjan",
+   "type": "exhibition_grounds",
+   "country": "Côte d'Ivoire",
+   "cc": "CI",
+   "city": "Abidjan",
+   "address": "Boulevard de l'aéroport, Abidjan",
+   "lat": 5.2641801,
+   "lon": -3.9460482,
+   "url": "https://www.parcdesexpositionsabidjan.com/",
+   "capacity": 5023,
+   "exhibition_sqm": 6500,
+   "halls": "Official page: three distinct spaces — Hall d'exposition, Le Dôme (Convention Center), and Parvis & esplanades extérieures.",
+   "description": "Official Parc des Expositions d'Abidjan spaces page: the park covers 16 hectares. Exhibition hall 6,500 m² (exact), 17 m clear height, divisible into two or three. Le Dôme Convention Center has 5,000 m² of usable area and 'peut accueillir jusqu'à 5 023 personnes assises et 9 588 personnes debout'; the official seated 'jusqu'à 5 023' figure is stored as capacity_max_delegates. exhibition_sqm stores the official 6,500 m² exhibition hall only; the Dome's 5,000 m² and outdoor Parvis 11,000 m² plus two 28,000 m² esplanades are not added into that total. Official access page address: Boulevard de l'aéroport, Abidjan; telephone +225 27 21 71 09 97. Coordinates are from the official access page's schema.org latitude/longitude 5.2641801, -3.9460482.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.parcdesexpositionsabidjan.com/fr/acces",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall d'exposition",
+     "type": null,
+     "area_sqm": 6500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: grand hall d'exposition de 6 500 m², 17 mètres libres sous plafond, divisible en 2 ou 3 espaces.",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services"
+    },
+    {
+     "name": "Le Dôme — Convention Center",
+     "type": null,
+     "area_sqm": 5000,
+     "capacity_max": 5023,
+     "capacity_theatre": 5023,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 9588,
+     "notes": "Official page: surface exploitable de 5 000 m²; jusqu'à 5 023 personnes assises et 9 588 personnes debout. Auditorium with retractable seating.",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services"
+    },
+    {
+     "name": "Le Parvis",
+     "type": null,
+     "area_sqm": 11000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: 11 000 m² de surface d'exposition extérieure. Outdoor; not included in indoor exhibition_sqm.",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services"
+    },
+    {
+     "name": "Esplanade Est",
+     "type": null,
+     "area_sqm": 28000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: esplanade EST 28 000 m². Outdoor.",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services"
+    },
+    {
+     "name": "Esplanade Nord-Est",
+     "type": null,
+     "area_sqm": 28000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: esplanade NORD EST 28 000 m². Outdoor.",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr/nos-espaces-services"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/parcdesexpositionsabidjan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/parc-des-expositions-d-abidjan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.parcdesexpositionsabidjan.com/fr",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "espacio-riesco",
@@ -278324,7 +285848,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ccestacionmapocho",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estacionmapocho.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EstacionMapocho",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estacionmapocho.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCsdeLi7mgPN9dSwcmuSvUCQ",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estacionmapocho.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/estacionmapocho",
+     "verified_via": "official website footer",
+     "source_url": "https://www.estacionmapocho.cl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "centro-cultural-gabriela-mistral",
@@ -278353,7 +285907,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centrogam",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/centroGAM",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/centrogam",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CentroGam",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@centrogam",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/centro-cultural-gabriela-mistral",
+     "verified_via": "official website footer",
+     "source_url": "https://gam.cl/es/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "centro-de-extension-uc",
@@ -278411,7 +286009,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/metropolitansantiago",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitansantiago.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/metropolitan-santiago",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitansantiago.cl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@metropolitansantiago",
+     "verified_via": "official website footer",
+     "source_url": "https://metropolitansantiago.cl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hotel-intercontinental-santiago",
@@ -279055,6 +286676,36 @@ window.ATLASDATA={
      "href": "https://valledelpacifico.co/wp-content/uploads/2026/02/PRESENTACION-Ferial.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CEValledelPacifico",
+     "verified_via": "official website footer",
+     "source_url": "https://valledelpacifico.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centrodeventosvp",
+     "verified_via": "official website footer",
+     "source_url": "https://valledelpacifico.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/centro-de-eventos-valle-del-pac%C3%ADfico",
+     "verified_via": "official website footer",
+     "source_url": "https://valledelpacifico.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCJvcxvi6Zd5VJwkFS_Bu9mw",
+     "verified_via": "official website footer",
+     "source_url": "https://valledelpacifico.co/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -279361,6 +287012,33 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "palacio-de-convenciones-de-la-habana",
+   "name": "Palacio de Convenciones de La Habana",
+   "type": "convention_centre",
+   "country": "Cuba",
+   "cc": "CU",
+   "city": "Havana",
+   "address": "Calle 146 entre 11 y 13, reparto Siboney, La Habana",
+   "lat": null,
+   "lon": null,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Official Gobierno de La Habana page: the Palacio de Convenciones is on calle 146 entre 11 y 13, reparto Siboney, La Habana, about 8 km from the city centre, on the banks of the Quibú river. The official page says the main plenary hall has capacity for 'alrededor de 1500 personas' and that 11 other rooms hold 'desde 70 hasta 400 personas'. Those figures are approximate or ranges and are not stored as exact capacity_max_delegates.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.lahabana.gob.cu/post_detalles/es/10071/palacio-de-convenciones",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "cyprus-state-fair",
    "name": "Cyprus State Fair (ExpoCyprus)",
    "type": "exhibition_grounds",
@@ -279370,7 +287048,7 @@ window.ATLASDATA={
    "address": "6 Georgiou Seferi Street, Egkomi, 2415 Nicosia, Cyprus",
    "lat": 35.1510043,
    "lon": 33.3143474,
-   "url": null,
+   "url": "https://www.trade.gov.cy/en/sections/1-management-of-the-state-fair-premises/management-of-the-state-fair-premises",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": "Official organiser pages name the Cyprus State Fair as the Comic Con venue but do not publish hall areas. A current official State Fairs Authority hall schedule was not retrieved.",
@@ -279380,6 +287058,10 @@ window.ATLASDATA={
     "cyprus-comic-con-2027"
    ],
    "sources": [
+    {
+     "url": "https://www.trade.gov.cy/en/sections/1-management-of-the-state-fair-premises/management-of-the-state-fair-premises",
+     "label": "Official source"
+    },
     {
      "url": "https://cypruscomiccon.org/location/",
      "label": "Official source"
@@ -279391,7 +287073,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/tradeGovCY",
+     "verified_via": "official ministry operator page footer",
+     "source_url": "https://www.trade.gov.cy/en/sections/1-management-of-the-state-fair-premises/management-of-the-state-fair-premises",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/cyMECI",
+     "verified_via": "official ministry operator page footer",
+     "source_url": "https://www.trade.gov.cy/en/sections/1-management-of-the-state-fair-premises/management-of-the-state-fair-premises",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@user-ri8ux7jh8f",
+     "verified_via": "official ministry operator page footer",
+     "source_url": "https://www.trade.gov.cy/en/sections/1-management-of-the-state-fair-premises/management-of-the-state-fair-premises",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "brno-exhibition-centre",
@@ -279898,7 +287603,16 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/palaclucerna",
+     "verified_via": "official website footer",
+     "source_url": "https://www.lucerna.cz/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "fit-but-brno",
@@ -279927,7 +287641,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/FIT.VUT",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fit.vut.cz/.en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/FIT_VUT",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fit.vut.cz/.en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fit.vut",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fit.vut.cz/.en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fit.vut",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fit.vut.cz/.en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@fit_vut",
+     "verified_via": "official website footer",
+     "source_url": "https://www.fit.vut.cz/.en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messe-muenchen",
@@ -280887,7 +288638,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/STATION-Berlin-1403038319966119",
+     "verified_via": "official website footer",
+     "source_url": "https://www.station-berlin.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/3190289",
+     "verified_via": "official website footer",
+     "source_url": "https://www.station-berlin.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/stationberlin",
+     "verified_via": "official website footer",
+     "source_url": "https://www.station-berlin.de/de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "alte-oper-frankfurt",
@@ -280916,7 +288690,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/alteoper.frankfurt",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.alteoper.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/alteoperfrankfurt",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.alteoper.de/de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/AlteOperFrankfurt",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.alteoper.de/de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "europa-park-rust",
@@ -280975,7 +288772,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/halle02",
+     "verified_via": "official website footer",
+     "source_url": "https://www.halle02.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_halle02",
+     "verified_via": "official website footer",
+     "source_url": "https://www.halle02.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/halle02heidelberg02",
+     "verified_via": "official website footer",
+     "source_url": "https://www.halle02.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/8541315",
+     "verified_via": "official website footer",
+     "source_url": "https://www.halle02.de/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@halle02",
+     "verified_via": "official website footer",
+     "source_url": "https://www.halle02.de/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "house-of-communication-munich",
@@ -281008,7 +288842,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/serviceplan-group",
+     "verified_via": "official website footer",
+     "source_url": "https://www.house-of-communication.com/de/en/locations.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/serviceplan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.house-of-communication.com/de/en/locations.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@serviceplangroup",
+     "verified_via": "official website footer",
+     "source_url": "https://www.house-of-communication.com/de/en/locations.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCixiGXHR1cN4WDXW6isJIWA",
+     "verified_via": "official website footer",
+     "source_url": "https://www.house-of-communication.com/de/en/locations.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Serviceplan",
+     "verified_via": "official website footer",
+     "source_url": "https://www.house-of-communication.com/de/en/locations.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "smart-village-muenchen",
@@ -281466,6 +289337,241 @@ window.ATLASDATA={
    "hotel_name": "Hotel Adlon Kempinski Berlin"
   },
   {
+   "slug": "hotel-bayerischer-hof",
+   "name": "Hotel Bayerischer Hof",
+   "type": "hotel_conference_venue",
+   "country": "Germany",
+   "cc": "DE",
+   "city": "Munich",
+   "address": "Promenadeplatz 2-6, 80333 Munich, Germany",
+   "lat": 48.1404741,
+   "lon": 11.5729285,
+   "url": "https://www.bayerischerhof.de/en/a-world-of-its-own/the-hotel/facts.html",
+   "capacity": 2500,
+   "exhibition_sqm": null,
+   "halls": "Official 2025 conference brochure: 40 air-conditioned function rooms, sizes from 17 up to 1,700 sqm, capacities from 10 to 2,500 guests. Official Ballroom Ensemble complete table row: 1,497.0 m², theatre 1,127, banquet 720, classroom 464, cabaret 350, reception 1,370. A facts box in the same brochure also says “Ballroom ensemble: 1,700 sqm” and another line “around 1,500 sqm”; the detailed table figure 1,497.0 m² is stored and 1,700 / around 1,500 are noted.",
+   "description": "Official Deutsche Hotelklassifizierung 5-star hotel in Munich (Hotelstars Union city list of officially classified 5-star hotels in München). Official address Promenadeplatz 2-6, 80333 Munich. Official brochure capacities from 10 to 2,500 guests (stored as capacity_max_delegates, with the official “up to 2,500” wording). Hotelstars “Superior”, if applicable, is not a sixth star.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Ballroom Ensemble complete",
+     "type": null,
+     "area_sqm": 1497,
+     "capacity_max": 1370,
+     "capacity_theatre": 1127,
+     "capacity_classroom": 464,
+     "capacity_banquet": 720,
+     "capacity_reception": 1370,
+     "notes": "Official table: 1,497.0 m², theatre 1,127, banquet 720, reception 1,370. The same brochure also states about 1,500 sqm and 1,700 sqm for the ensemble; those are noted and not stored.",
+     "source_url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf"
+    },
+    {
+     "name": "Ballroom complete (ground floor + tiers + Cocktail Lounge)",
+     "type": null,
+     "area_sqm": 849,
+     "capacity_max": 817,
+     "capacity_theatre": 817,
+     "capacity_classroom": 268,
+     "capacity_banquet": 370,
+     "capacity_reception": 750,
+     "notes": "Official table “Ballroom complete”: 849.4 m², theatre 817, banquet 370, reception 750.",
+     "source_url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf"
+    },
+    {
+     "name": "Ballroom ground floor",
+     "type": null,
+     "area_sqm": 353,
+     "capacity_max": null,
+     "capacity_theatre": 447,
+     "capacity_classroom": 188,
+     "capacity_banquet": 220,
+     "capacity_reception": 400,
+     "notes": "Official table: 353.1 m².",
+     "source_url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hotel Bayerischer Hof conferences and celebrations brochure 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf",
+     "href": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "Hotel Bayerischer Hof"
+  },
+  {
+   "slug": "hotel-vier-jahreszeiten-kempinski-munich",
+   "name": "Hotel Vier Jahreszeiten Kempinski Munich",
+   "type": "hotel_conference_venue",
+   "country": "Germany",
+   "cc": "DE",
+   "city": "Munich",
+   "address": "Maximilianstrasse 17, Munich, Germany",
+   "lat": 48.1389,
+   "lon": 11.5815,
+   "url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+   "capacity": 600,
+   "exhibition_sqm": null,
+   "halls": "Official meetings-events page: Ballroom Maximilian 510 m², up to 600 guests, 500 theatre; Maximilian I 170 m², 140 reception / 150 theatre; Maximilian II 220 m², 220 reception / 200 theatre.",
+   "description": "Official Deutsche Hotelklassifizierung 5-star hotel (Hotelstars Union Munich 5-star list). Official address Maximilianstrasse 17, Munich; official hotel geo on the official site 48.1389, 11.5815. Official Ballroom Maximilian up to 600 guests (stored as capacity_max_delegates) and 510 m² / 500 theatre. The site’s “five-star luxury hotel” wording is a self-description; the stored star_rating is the official Hotelstars listing, not that marketing line. Hotelstars Superior, if used, is not a sixth star.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muenchen/5-sterne-hotels-muenchen",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Ballroom Maximilian",
+     "type": null,
+     "area_sqm": 510,
+     "capacity_max": 600,
+     "capacity_theatre": 500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 600,
+     "notes": "Official page: 510 m², up to 600 guests, 500 theatre.",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events"
+    },
+    {
+     "name": "Maximilian I",
+     "type": null,
+     "area_sqm": 170,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 140,
+     "notes": "Official page also states “up to 140 guests” for this room in running text, alongside 150 theatre / 140 reception.",
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events"
+    },
+    {
+     "name": "Maximilian II",
+     "type": null,
+     "area_sqm": 220,
+     "capacity_max": 220,
+     "capacity_theatre": 200,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 220,
+     "notes": null,
+     "source_url": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/meetings-events"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "hotel-atlantic-hamburg",
+   "name": "Hotel Atlantic Hamburg, Autograph Collection",
+   "type": "hotel_conference_venue",
+   "country": "Germany",
+   "cc": "DE",
+   "city": "Hamburg",
+   "address": "An der Alster 72-79, 20099 Hamburg, Germany",
+   "lat": 53.5570776,
+   "lon": 10.0045598,
+   "url": "https://www.atlantic.de/en/meet/",
+   "capacity": 550,
+   "exhibition_sqm": null,
+   "halls": "Official atlantic.de meet page and official Marriott events schema: Großer Festsaal 379 m², up to 550; official Marriott schema also lists Weißer Festsaal 178 m² / 250, Alstersalon 174 m² / 220, Kleiner Festsaal 129 m² / 200. Official visible total event space 1,313 m² (combined, not stored as exhibition_sqm).",
+   "description": "Official Deutsche Hotelklassifizierung 5-star hotel (Hotelstars Union Hamburg 5-star list, as Hotel Atlantic Hamburg). Official address An der Alster 72-79, 20099 Hamburg; [email removed]. Official Großer Festsaal 379 m², up to 550 guests (stored as capacity_max_delegates). star_rating 5 is the official Hotelstars listing.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.atlantic.de/en/meet/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/en-us/hotels/hamak-hotel-atlantic-hamburg-autograph-collection/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Großer Festsaal",
+     "type": null,
+     "area_sqm": 379,
+     "capacity_max": 550,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official atlantic.de: 379 m², up to 550. Official Marriott schema maximumAttendeeCapacity 550, 379 m².",
+     "source_url": "https://www.atlantic.de/en/meet/"
+    },
+    {
+     "name": "Weißer Festsaal",
+     "type": null,
+     "area_sqm": 178,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott schema.",
+     "source_url": "https://www.marriott.com/en-us/hotels/hamak-hotel-atlantic-hamburg-autograph-collection/events/"
+    },
+    {
+     "name": "Alstersalon",
+     "type": null,
+     "area_sqm": 174,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott schema.",
+     "source_url": "https://www.marriott.com/en-us/hotels/hamak-hotel-atlantic-hamburg-autograph-collection/events/"
+    },
+    {
+     "name": "Kleiner Festsaal",
+     "type": null,
+     "area_sqm": 129,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Marriott schema.",
+     "source_url": "https://www.marriott.com/en-us/hotels/hamak-hotel-atlantic-hamburg-autograph-collection/events/"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "Hotel Atlantic Hamburg"
+  },
+  {
    "slug": "bella-center-copenhagen",
    "name": "Bella Center Copenhagen",
    "type": "convention_centre",
@@ -281646,7 +289752,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/codenode-copenhagen",
+     "verified_via": "official website footer",
+     "source_url": "https://codenode.dk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/codenode_copenhagen",
+     "verified_via": "official website footer",
+     "source_url": "https://codenode.dk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "oksnehallen",
@@ -281789,6 +289911,138 @@ window.ATLASDATA={
    "documents": []
   },
   {
+   "slug": "palais-des-expositions-pins-maritimes",
+   "name": "Palais des Expositions, Pins Maritimes",
+   "type": "exhibition_grounds",
+   "country": "Algeria",
+   "cc": "DZ",
+   "city": "Algiers",
+   "address": "Palais des Expositions — Pins Maritimes, Mohammadia, Algiers, Algeria",
+   "lat": 36.7335,
+   "lon": 3.1566,
+   "url": "https://www.algeriaexhibitions.dz/en/about",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official Algeria Exhibitions (SAFEX Group subsidiary) about page: 8 pavilions and a published “Exhibition Area” of 271,936 m². That official headline figure is not clearly identified as an indoor hall total only, so exhibition_sqm is left null rather than storing a figure that may include outdoor or site area. safex.dz itself redirected or was under construction and was not used as a source.",
+   "description": "Official Palais des Expositions at Pins Maritimes, Mohammadia, Algiers, presented by Algeria Exhibitions, a SAFEX Group subsidiary. Official address and [email removed] are stored. Official “Exhibition Area 271,936 m²” and 8 pavilions are noted in halls_or_rooms; exhibition_sqm is null because the figure is not clearly an indoor-hall total. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.algeriaexhibitions.dz/en/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.algeriaexhibitions.dz/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/algeriaexhibitions",
+     "verified_via": "official Algeria Exhibitions / SAFEX about page footer",
+     "source_url": "https://www.algeriaexhibitions.dz/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/algeria_exhibitions",
+     "verified_via": "official Algeria Exhibitions / SAFEX about page footer",
+     "source_url": "https://www.algeriaexhibitions.dz/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/algeria-exhibitions",
+     "verified_via": "official Algeria Exhibitions / SAFEX about page footer",
+     "source_url": "https://www.algeriaexhibitions.dz/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@algeriaexhibitions",
+     "verified_via": "official Algeria Exhibitions / SAFEX about page footer",
+     "source_url": "https://www.algeriaexhibitions.dz/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@algeria.exhibitions",
+     "verified_via": "official Algeria Exhibitions / SAFEX about page footer",
+     "source_url": "https://www.algeriaexhibitions.dz/en/about",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "centro-de-convenciones-metropolitano-quito",
+   "name": "Centro de Convenciones Metropolitano de Quito (CCMQ)",
+   "type": "convention_centre",
+   "country": "Ecuador",
+   "cc": "EC",
+   "city": "Quito",
+   "address": "Parque Bicentenario, entrada Av. Amazonas y Río Curaray, CP 170104, Quito, Ecuador",
+   "lat": -0.1469102,
+   "lon": -78.4922471,
+   "url": "https://ccmq.ec/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official homepage: 18,000 m² of flexible, modern infrastructure. That official figure is described as infrastructure rather than a clearly labelled indoor exhibition-hall total, so exhibition_sqm is left null. Official news on the same site confirms the venue’s name as Centro de Convenciones Metropolitano de Quito.",
+   "description": "Official Centro de Convenciones Metropolitano de Quito at Parque Bicentenario, entrance Av. Amazonas y Río Curaray, CP 170104 Quito; [email removed]. Official 18,000 m² flexible infrastructure is noted and not stored as exhibition_sqm. No atlas events are linked. Official-star hotels were not added in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://ccmq.ec/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/people/Centro-De-Convenciones-Metropolitano-de-Quito-Oficial/61557433015850",
+     "verified_via": "official website footer",
+     "source_url": "https://ccmq.ec/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ccmquito",
+     "verified_via": "official website footer",
+     "source_url": "https://ccmq.ec/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/centrodeconvencionesmetropolitanodequito",
+     "verified_via": "official website footer",
+     "source_url": "https://ccmq.ec/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ccmquito",
+     "verified_via": "official website footer",
+     "source_url": "https://ccmq.ec/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@ccmquito",
+     "verified_via": "official website footer",
+     "source_url": "https://ccmq.ec/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "kultuurikatel",
    "name": "Kultuurikatel",
    "type": "other",
@@ -281891,6 +290145,22 @@ window.ATLASDATA={
      "href": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf",
      "local": false
     }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kultuurikatel",
+     "verified_via": "official website footer",
+     "source_url": "https://kultuurikatel.ee/en/rooms/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kultuurikatel",
+     "verified_via": "official website footer",
+     "source_url": "https://kultuurikatel.ee/en/rooms/",
+     "accessed_at": "2026-11-24"
+    }
    ]
   },
   {
@@ -281921,7 +290191,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tallinna.ylikool",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tlu.ee/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tallinnuniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tlu.ee/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/TallinnaYlikool",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tlu.ee/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tallinnuniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tlu.ee/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "national-library-of-estonia",
@@ -281950,7 +290250,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/rahvusraamatukogu",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rara.ee/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rahvusraamatukogu",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rara.ee/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@eestirahvusraamatukogu",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rara.ee/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/eesti-rahvusraamatukogu",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rara.ee/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "egypt-international-exhibition-center",
@@ -282125,7 +290455,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/bibalexOfficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bibalex.org/en/default",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/bibalexOfficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bibalex.org/en/default",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/bibalexofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bibalex.org/en/default",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/BAchannel",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bibalex.org/en/default",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/bibalexofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.bibalex.org/en/default",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-greek-campus",
@@ -282154,7 +290521,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/thegreekcampus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegreekcampus.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thegreekcampus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegreekcampus.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-greek-campus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thegreekcampus.com",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hilton-alexandria-green-plaza",
@@ -282546,7 +290936,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/LaNaveMad",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LaNaveMadrid",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lanavemadrid",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/lanavemadrid",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@lanavemadrid",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/LaNaveMadrid",
+     "verified_via": "official website footer",
+     "source_url": "https://lanavemadrid.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "city-of-arts-and-sciences-valencia",
@@ -282558,7 +290992,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 39.455756,
    "lon": -0.352552,
-   "url": "https://www.cac.es/",
+   "url": "https://cac.es/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -282575,7 +291009,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CIUDADDELASARTESYLASCIENCIAS",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ciudadartesciencias",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/CACiencies",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/ciudadartesyciencias",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ciudad-de-las-artes-y-las-ciencias",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ciudadartesciencias",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://cac.es/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "world-trade-center-barcelona",
@@ -283073,6 +291551,215 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "four-seasons-hotel-madrid",
+   "name": "Four Seasons Hotel Madrid",
+   "type": "hotel_conference_venue",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Madrid",
+   "address": "Calle de Sevilla, 3, 28014 Madrid, Spain",
+   "lat": 40.417272,
+   "lon": -3.7003917,
+   "url": "https://www.fourseasons.com/madrid/meetings-and-events/",
+   "capacity": 350,
+   "exhibition_sqm": null,
+   "halls": "Official meetings page: 1,700 m² total event space across 9 venues (combined event-space total, not stored as exhibition_sqm). Official Sol Ballroom 512 m², banquet 350, classroom 258, reception 350; Canalejas Ballroom 247 m², banquet 150, classroom 151, reception 165.",
+   "description": "Official Four Seasons Hotel Madrid at Calle de Sevilla, 3, 28014 Madrid, with two official ballrooms on the meetings page. Official Sol Ballroom 512 m² and 350 banquet/reception (stored as capacity_max_delegates). The official homepage describes a luxury 5-star hotel, but that is a self-description, not a retrieved property-level listing on the Comunidad de Madrid tourist-accommodation register, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.fourseasons.com/madrid/meetings-and-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fourseasons.com/madrid/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Sol Ballroom",
+     "type": null,
+     "area_sqm": 512,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": 258,
+     "capacity_banquet": 350,
+     "capacity_reception": 350,
+     "notes": null,
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/"
+    },
+    {
+     "name": "Sol I",
+     "type": null,
+     "area_sqm": 256,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": 150,
+     "capacity_banquet": 170,
+     "capacity_reception": 155,
+     "notes": null,
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/"
+    },
+    {
+     "name": "Sol II",
+     "type": null,
+     "area_sqm": 256,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": 153,
+     "capacity_banquet": 176,
+     "capacity_reception": 155,
+     "notes": null,
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/"
+    },
+    {
+     "name": "Canalejas Ballroom",
+     "type": null,
+     "area_sqm": 247,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": 151,
+     "capacity_banquet": 150,
+     "capacity_reception": 165,
+     "notes": null,
+     "source_url": "https://www.fourseasons.com/madrid/meetings-and-events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "hotel-arts-barcelona",
+   "name": "Hotel Arts Barcelona",
+   "type": "hotel_conference_venue",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barcelona",
+   "address": "Carrer de Ramon Trias Fargas, 10, 08005 Barcelona, Spain",
+   "lat": 41.3868915,
+   "lon": 2.1962221,
+   "url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/",
+   "capacity": 1410,
+   "exhibition_sqm": null,
+   "halls": "Official events page: more than 3,500 square metres of venues for meetings, conferences, banquets and events (an “over” figure, not stored as exhibition_sqm); a visible total event-space figure of 7,718 m² on the same page is a combined event-space total and is not stored as exhibition_sqm. Official schema.org meeting-room data on the same official page: Gran Saló Gaudí (Main Ballroom) maximum 1,410 attendees, 14,456.1 sq ft; Pau Casals (Junior Ballroom) maximum 378, 3,466 sq ft.",
+   "description": "Ritz-Carlton Hotel Arts Barcelona at Carrer de Ramon Trias Fargas, 10, 08005 Barcelona. Official main ballroom Gran Saló Gaudí has a published maximum of 1,410 attendees (stored as capacity_max_delegates); official square-foot areas are stored as converted square metres. No official Generalitat property-level star listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Gran Saló Gaudí (Main Ballroom)",
+     "type": null,
+     "area_sqm": 1343,
+     "capacity_max": 1410,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org on the events page: maximumAttendeeCapacity 1,410; floor 14,456.1 sq ft, converted to square metres.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/"
+    },
+    {
+     "name": "Pau Casals (Junior Ballroom)",
+     "type": null,
+     "area_sqm": 322,
+     "capacity_max": 378,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org: maximum 378; 3,466 sq ft, converted.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/"
+    },
+    {
+     "name": "Gaudí 3+4",
+     "type": null,
+     "area_sqm": 892,
+     "capacity_max": 1128,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org: maximum 1,128; 9,601.5 sq ft, converted.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/bcnrz-hotel-arts-barcelona/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "w-barcelona",
+   "name": "W Barcelona",
+   "type": "hotel_conference_venue",
+   "country": "Spain",
+   "cc": "ES",
+   "city": "Barcelona",
+   "address": "Plaça Rosa del Vents, 1, Final Passeig de Joan de Borbó, 08039 Barcelona, Spain",
+   "lat": 41.3687888,
+   "lon": 2.1900468,
+   "url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/",
+   "capacity": 800,
+   "exhibition_sqm": null,
+   "halls": "Official events page schema.org: Great Room maximum 800 attendees; official visible total event space 5,203 m² (combined event-space total, not stored as exhibition_sqm). Official Great Room 968 m² (converted from official square feet). Outdoor terraces published on the same page are not treated as indoor exhibition space.",
+   "description": "W Barcelona on Plaça Rosa del Vents, 1, 08039 Barcelona, with an official Great Room maximum of 800 attendees (stored as capacity_max_delegates). star_rating null (no official Generalitat property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Great Room",
+     "type": null,
+     "area_sqm": 968,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity 800; official floor area converted from square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/"
+    },
+    {
+     "name": "Great Room 1+2",
+     "type": null,
+     "area_sqm": 704,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/"
+    },
+    {
+     "name": "Great Room 2+3",
+     "type": null,
+     "area_sqm": 682,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/events/"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "W Barcelona"
+  },
+  {
    "slug": "african-union-conference-centre",
    "name": "African Union Conference Centre and Office Complex (AUCC)",
    "type": "congress_centre",
@@ -283122,7 +291809,51 @@ window.ATLASDATA={
      "source_url": "https://au.int/en/auccc/facilities"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/_AfricanUnion",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AfricanUnionCommission",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/AUCommission",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/africanunion_official",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/african-union-commission-addis-ababa",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.com/@africanunion_official",
+     "verified_via": "official African Union website footer (conference centre facilities page)",
+     "source_url": "https://au.int/en/auccc/facilities",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "messukeskus-helsinki",
@@ -283347,7 +292078,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 60.1618636,
    "lon": 24.9051528,
-   "url": "https://www.kaapelitehdas.fi/en",
+   "url": "https://www.kaapelitehdas.fi/en/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -283364,7 +292095,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/kaapelitehtaankulttuurikeskus",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kaapelitehdas.fi/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kaapelitehdas",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kaapelitehdas.fi/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "palais-des-congres-de-paris",
@@ -283911,7 +292658,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/STATIONF",
+     "verified_via": "official website footer",
+     "source_url": "https://stationf.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/stationf",
+     "verified_via": "official website footer",
+     "source_url": "https://stationf.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/joinstationf",
+     "verified_via": "official website footer",
+     "source_url": "https://stationf.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/joinstationf",
+     "verified_via": "official website footer",
+     "source_url": "https://stationf.co/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCJdVyJNEdvWrQrUBGq6moIw",
+     "verified_via": "official website footer",
+     "source_url": "https://stationf.co/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "cnit-paris-la-defense",
@@ -283923,7 +292707,7 @@ window.ATLASDATA={
    "address": null,
    "lat": 48.892741,
    "lon": 2.239158,
-   "url": "https://www.viparis.com/en/our-venues",
+   "url": "https://www.viparis.com/en/our-venues/cnit",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -283934,13 +292718,54 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.viparis.com/en/our-venues/cnit",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.viparis.com/en/our-venues",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/viparis",
+     "verified_via": "official Viparis CNIT venue page footer",
+     "source_url": "https://www.viparis.com/en/our-venues/cnit",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ViparisOfficiel",
+     "verified_via": "official Viparis CNIT venue page footer",
+     "source_url": "https://www.viparis.com/en/our-venues/cnit",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/viparisofficiel",
+     "verified_via": "official Viparis CNIT venue page footer",
+     "source_url": "https://www.viparis.com/en/our-venues/cnit",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ViparisAgenda",
+     "verified_via": "official Viparis CNIT venue page footer",
+     "source_url": "https://www.viparis.com/en/our-venues/cnit",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OfficielViparis",
+     "verified_via": "official Viparis CNIT venue page footer",
+     "source_url": "https://www.viparis.com/en/our-venues/cnit",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grand-palais-paris",
@@ -283970,7 +292795,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/GrandPalais.RMN",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grandpalais.fr/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@grandpalaisrmn",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grandpalais.fr/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/le_grand_palais",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grandpalais.fr/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@le_grand_palais",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grandpalais.fr/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/grandpalaisrmn",
+     "verified_via": "official website footer",
+     "source_url": "https://www.grandpalais.fr/fr",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "accor-arena-paris",
@@ -283999,7 +292861,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/accor_arena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.accorarena.com/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/accor_arena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.accorarena.com/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@accorarena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.accorarena.com/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/accor-arena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.accorarena.com/fr",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AccorArena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.accorarena.com/fr",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hyatt-regency-paris-etoile",
@@ -284368,6 +293267,88 @@ window.ATLASDATA={
    ],
    "documents": [],
    "hotel_name": "Sofitel Lyon Bellecour"
+  },
+  {
+   "slug": "the-peninsula-paris",
+   "name": "The Peninsula Paris",
+   "type": "hotel_conference_venue",
+   "country": "France",
+   "cc": "FR",
+   "city": "Paris",
+   "address": "19 avenue Kléber, 75116 Paris",
+   "lat": 48.8707416,
+   "lon": 2.2933176,
+   "url": "https://www.peninsula.com/en/paris",
+   "capacity": 200,
+   "exhibition_sqm": null,
+   "halls": "Official May 2022 meetings fact sheet tabulates Etoile Ballroom, The Rotunda and Auguste Boppe (and mentions Claude Chayet & Lucien Paye as smaller function rooms without a capacity row in the extracted table).",
+   "description": "Official Atout France classified-establishments export lists THE PENINSULA PARIS, 19 avenue Kléber, 75116 Paris, as 5 étoiles (date de classement 15/04/2022, 200 rooms). Official meetings fact sheet (May 2022): Etoile Ballroom 172 m², theatre 190, cocktail 200.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.classement.atout-france.fr/static/exportHebergementsClasses/hebergements_classes.csv",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.peninsula.com/en/paris",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Etoile Ballroom",
+     "type": null,
+     "area_sqm": 172,
+     "capacity_max": 200,
+     "capacity_theatre": 190,
+     "capacity_classroom": 80,
+     "capacity_banquet": 110,
+     "capacity_reception": 200,
+     "notes": "Official May 2022 meetings fact sheet: 172 m² / 1,851 sq ft; banquet 110; cocktail 200; theatre 190; boardroom 60; classroom 80; U-shape 40; cabaret 70.",
+     "source_url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf"
+    },
+    {
+     "name": "The Rotunda",
+     "type": null,
+     "area_sqm": 87,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 40,
+     "capacity_reception": 80,
+     "notes": "Official fact sheet: 87 m² / 936 sq ft; banquet 40; cocktail 80; boardroom 24; theatre/classroom listed as N/A.",
+     "source_url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf"
+    },
+    {
+     "name": "Auguste Boppe",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": 70,
+     "capacity_theatre": 50,
+     "capacity_classroom": 25,
+     "capacity_banquet": 40,
+     "capacity_reception": 70,
+     "notes": "Official fact sheet: 70 m² / 753 sq ft; banquet 40; cocktail 70; theatre 50; boardroom 25; classroom 25; U-shape 25; cabaret 30.",
+     "source_url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Peninsula Paris meetings and events fact sheet (May 2022)",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf",
+     "href": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "The Peninsula Paris"
   },
   {
    "slug": "excel-london",
@@ -285437,7 +294418,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tobaccodockvenue",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tobaccodocklondon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TobaccoDockLon",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tobaccodocklondon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tobaccodock",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tobaccodocklondon.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tobacco-dock-london",
+     "verified_via": "official website footer",
+     "source_url": "https://www.tobaccodocklondon.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "old-truman-brewery-london",
@@ -285467,7 +294478,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/trumanbrewery",
+     "verified_via": "official website footer",
+     "source_url": "https://www.trumanbrewery.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/trumanbrewery",
+     "verified_via": "official website footer",
+     "source_url": "https://www.trumanbrewery.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/trumanbrewery",
+     "verified_via": "official website footer",
+     "source_url": "https://www.trumanbrewery.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/OldTrumanBrewery",
+     "verified_via": "official website footer",
+     "source_url": "https://www.trumanbrewery.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "barbican-centre",
@@ -285497,7 +294538,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@barbicancentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.barbican.org.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/BarbicanCentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.barbican.org.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/barbicancentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.barbican.org.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-brewery-london",
@@ -285526,7 +294590,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/theBreweryEC1",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thebrewery.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/thebreweryvenue",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thebrewery.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/thebreweryvenue",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thebrewery.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCOWFAI2ihSLOTM4kPXZeDsw",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thebrewery.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/the-brewery-on-chiswell-street",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thebrewery.co.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "convene-133-houndsditch",
@@ -285538,7 +294639,7 @@ window.ATLASDATA={
    "address": "133 Houndsditch, London",
    "lat": 51.515291,
    "lon": -0.077868,
-   "url": "https://convene.com/",
+   "url": "https://convene.com/locations/london/133-houndsditch/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -285567,7 +294668,7 @@ window.ATLASDATA={
    "address": "200 Aldersgate, London",
    "lat": 51.518017,
    "lon": -0.097185,
-   "url": "https://convene.com/",
+   "url": "https://convene.com/locations/london/st-pauls/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -285613,7 +294714,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/oldbillingsgate",
+     "verified_via": "official website footer",
+     "source_url": "https://oldbillingsgate.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/oldbillingsgate",
+     "verified_via": "official website footer",
+     "source_url": "https://oldbillingsgate.co.uk/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/old-billingsgate",
+     "verified_via": "official website footer",
+     "source_url": "https://oldbillingsgate.co.uk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "de-vere-grand-connaught-rooms",
@@ -285637,6 +294761,388 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://www.devere.co.uk/grand-connaught-rooms/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/DeVereHotels",
+     "verified_via": "official website footer",
+     "source_url": "https://www.devere.co.uk/grand-connaught-rooms",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/DeVereOfficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.devere.co.uk/grand-connaught-rooms",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/devere_hotels",
+     "verified_via": "official website footer",
+     "source_url": "https://www.devere.co.uk/grand-connaught-rooms",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@deverehotelsofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.devere.co.uk/grand-connaught-rooms",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/1079444",
+     "verified_via": "official website footer",
+     "source_url": "https://www.devere.co.uk/grand-connaught-rooms",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "the-savoy-london",
+   "name": "The Savoy",
+   "type": "hotel_conference_venue",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "city": "London",
+   "address": "Strand, WC2R 0EZ, London, United Kingdom",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.thesavoylondon.com/venues",
+   "capacity": 700,
+   "exhibition_sqm": null,
+   "halls": "Official Fairmont meetings page: maximum capacity 700 guests, not including the Grill rooms. Official venues page: Lancaster Ballroom 476 sqm, max capacity 700; River Room 252 sqm, max 300; Abraham Lincoln 282 sqm, max 200. The same venues page also prints a capacity-chart figure of 800 for the Lancaster Ballroom, which disagrees with the 700 figure used on both official pages’ headlines; 800 is noted and not stored.",
+   "description": "Fairmont-managed London hotel on the Strand with a major official events offer. Official Fairmont meetings page: maximum capacity 700 guests; official Lancaster Ballroom 476 m² (theatre 450, classroom 240, banquet 380). No official property-level UK star listing was retrieved, so star_rating is null. No atlas events are linked in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.thesavoylondon.com/venues",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fairmont.com/en/hotels/london/the-savoy/meetings.html",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Lancaster Ballroom",
+     "type": null,
+     "area_sqm": 476,
+     "capacity_max": 700,
+     "capacity_theatre": 450,
+     "capacity_classroom": 240,
+     "capacity_banquet": 380,
+     "capacity_reception": null,
+     "notes": "Official Fairmont meetings: 476 m², theatre 450, classroom 240, banquet 380. Official venues page headline max 700; a capacity-chart 800 on the same venues page is noted and not stored.",
+     "source_url": "https://www.fairmont.com/en/hotels/london/the-savoy/meetings.html"
+    },
+    {
+     "name": "River Room",
+     "type": null,
+     "area_sqm": 252,
+     "capacity_max": 300,
+     "capacity_theatre": 150,
+     "capacity_classroom": null,
+     "capacity_banquet": 140,
+     "capacity_reception": null,
+     "notes": "Official Fairmont meetings: 252 m², theatre 150, banquet 140, boardroom 50. Official venues page max capacity 300.",
+     "source_url": "https://www.fairmont.com/en/hotels/london/the-savoy/meetings.html"
+    },
+    {
+     "name": "Abraham Lincoln Room",
+     "type": null,
+     "area_sqm": 282,
+     "capacity_max": 200,
+     "capacity_theatre": 125,
+     "capacity_classroom": 60,
+     "capacity_banquet": 150,
+     "capacity_reception": null,
+     "notes": "Official Fairmont meetings: 282 m², theatre 125, classroom 60, banquet 150. Official venues page max capacity 200.",
+     "source_url": "https://www.fairmont.com/en/hotels/london/the-savoy/meetings.html"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "jw-marriott-grosvenor-house-london",
+   "name": "JW Marriott Grosvenor House London",
+   "type": "hotel_conference_venue",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "city": "London",
+   "address": "86-90 Park Lane, London W1K 7TN, United Kingdom",
+   "lat": 51.50964,
+   "lon": -0.1550763,
+   "url": "https://www.marriott.com/en-gb/hotels/longh-jw-marriott-grosvenor-house-london/events/",
+   "capacity": 2000,
+   "exhibition_sqm": null,
+   "halls": "Official events page: 23 event rooms and 5,449 m² total event space (a combined event-space total, not stored as exhibition_sqm). Official meeting brochure: Great Room 3,147 m², banquet 2,000, theatre 1,500, reception 2,000; Ballroom 900 m², banquet 550, theatre 550, reception 1,000, dinner dance 450.",
+   "description": "Mayfair hotel on Park Lane whose official events page describes the Great Room as one of Europe’s largest event spaces, with a banquet capacity of 2,000 (stored as capacity_max_delegates). Official brochure metres (3,147 m²) are stored for the Great Room rather than a slightly different square-foot conversion from the events-page schema. No official property-level UK star listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-gb/hotels/longh-jw-marriott-grosvenor-house-london/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Great Room",
+     "type": null,
+     "area_sqm": 3147,
+     "capacity_max": 2000,
+     "capacity_theatre": 1500,
+     "capacity_classroom": 800,
+     "capacity_banquet": 2000,
+     "capacity_reception": 2000,
+     "notes": "Official brochure: 3,147 m² / 34,164 sq ft; banquet 2,000; theatre 1,500; classroom 800; reception 2,000.",
+     "source_url": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf"
+    },
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": 900,
+     "capacity_max": 1000,
+     "capacity_theatre": 550,
+     "capacity_classroom": 260,
+     "capacity_banquet": 550,
+     "capacity_reception": 1000,
+     "notes": "Official brochure: 900 m²; banquet 550; theatre 550; classroom 260; reception 1,000; dinner dance 450.",
+     "source_url": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "JW Marriott Grosvenor House London meeting brochure",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf",
+     "href": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "JW Marriott Grosvenor House London"
+  },
+  {
+   "slug": "park-plaza-westminster-bridge",
+   "name": "Park Plaza London Westminster Bridge",
+   "type": "hotel_conference_venue",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "city": "London",
+   "address": "200 Westminster Bridge Rd, Lambeth, London, United Kingdom",
+   "lat": 51.5009188,
+   "lon": -0.1165957,
+   "url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+   "capacity": 1400,
+   "exhibition_sqm": null,
+   "halls": "Official meetings-events page: 32 meeting rooms, 3,400 m² of flexible meeting space, and a 1,200-sqm pillarless ballroom; official meetings page: Westminster Ballroom, Plaza Suites and Park Suites accommodate 8 to 1,400 people. A June 2025 official factsheet lists the Westminster Ballroom at 1,166.90 m² with theatre and reception 1,500, which disagrees with the current website’s 1,200 m² / 1,400 figures; the current official webpages are preferred for capacity_max and the conflicting area and 1,500 figures are not stored as exact fields.",
+   "description": "Large South Bank conference hotel opposite the Houses of Parliament. Official current meetings pages: pillarless ballroom described as 1,200 m², spaces for 8 to 1,400 people (stored as capacity_max_delegates), 32 rooms and 3,400 m² of meeting space (combined meeting-space total, not exhibition_sqm). The June 2025 official factsheet’s 1,166.90 m² and 1,500 theatre/reception figures are noted and not stored because they disagree with the current official webpages. star_rating null (no official UK property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.parkplazawestminsterbridge.com/meetings-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.parkplazawestminsterbridge.com/meetings/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Westminster Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: pillar-free ballroom accommodating up to 1,400 people; official meetings-events page describes a 1,200-sqm pillarless ballroom. Area and the June 2025 factsheet’s 1,166.90 m² / 1,500 theatre-reception figures are not stored because the official sources disagree.",
+     "source_url": "https://www.parkplazawestminsterbridge.com/meetings/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Park Plaza Westminster Bridge meetings and events factsheet (June 2025)",
+     "doc_type": "factsheet",
+     "language": "en",
+     "source_url": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
+     "href": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-landmark-london",
+   "name": "The Landmark London",
+   "type": "hotel_conference_venue",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "city": "London",
+   "address": "222 Marylebone Road, London, United Kingdom",
+   "lat": 51.5217805,
+   "lon": -0.1628241,
+   "url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+   "capacity": 650,
+   "exhibition_sqm": null,
+   "halls": "Official event-rooms page: Grand Ballroom 610 m² (13.59 × 42.90 m), stated guest range 260–600; Marble Ballroom 478 m² (13.50 × 35.77 m), range 160–500. Official September 2025 capacity chart: Grand Ballroom reception drinks 650, lunch/dinner 504, dinner dance 432, theatre 512, classroom 266/336, cabaret 264. capacity_max_delegates is the official chart reception-drinks figure 650; the event-rooms page range ending at 600 is noted.",
+   "description": "Marylebone hotel with two official ballrooms. Official Grand Ballroom 610 m²; official 2025 capacity chart reception drinks 650 (stored as capacity_max_delegates) and theatre 512. The event-rooms page’s 260–600 guest range for the same room is noted. star_rating null (no official UK property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.landmarklondon.co.uk/capacity-chart/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.landmarklondon.co.uk/wp-content/uploads/2025/09/Events-Rooms-Capacity-Chart-2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 610,
+     "capacity_max": 650,
+     "capacity_theatre": 512,
+     "capacity_classroom": null,
+     "capacity_banquet": 504,
+     "capacity_reception": 650,
+     "notes": "Official event-rooms page: 610 m², guest range 260–600. Official 2025 chart: reception drinks 650, lunch/dinner 504, dinner dance 432, theatre 512, classroom 266/336, cabaret 264.",
+     "source_url": "https://www.landmarklondon.co.uk/wp-content/uploads/2025/09/Events-Rooms-Capacity-Chart-2025.pdf"
+    },
+    {
+     "name": "Marble Ballroom",
+     "type": null,
+     "area_sqm": 478,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official event-rooms page: 478 m², guest range 160–500 (range, not stored as a single capacity).",
+     "source_url": "https://www.landmarklondon.co.uk/meetings-events/event-rooms/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "The Landmark London events rooms capacity chart 2025",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.landmarklondon.co.uk/wp-content/uploads/2025/09/Events-Rooms-Capacity-Chart-2025.pdf",
+     "href": "https://www.landmarklondon.co.uk/wp-content/uploads/2025/09/Events-Rooms-Capacity-Chart-2025.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "The Landmark London"
+  },
+  {
+   "slug": "intercontinental-london-park-lane",
+   "name": "InterContinental London Park Lane",
+   "type": "hotel_conference_venue",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "city": "London",
+   "address": "1 Park Lane, London W1J 7QY, United Kingdom",
+   "lat": 51.5038544,
+   "lon": -0.1502236,
+   "url": "https://parklane.intercontinental.com/meetings-events/floor-plans-capacities/",
+   "capacity": 1000,
+   "exhibition_sqm": null,
+   "halls": "Official 2026 meetings-and-events brochure: a banquet in the ballroom can seat 600 people or host 1,000 for drinks. The retrieved brochure text did not yield a usable official ballroom area in square metres, so area is left null.",
+   "description": "Park Lane InterContinental whose official 2026 brochure gives the ballroom as 600 banquet or 1,000 for drinks (stored as capacity_max_delegates). Official address 1 Park Lane, London W1J 7QY; [email removed]. star_rating null (no official UK property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://parklane.intercontinental.com/meetings-events/floor-plans-capacities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 600,
+     "capacity_reception": 1000,
+     "notes": "Official 2026 brochure: banquet can seat 600 or host 1,000 for drinks. Official area not taken from the retrieved brochure text.",
+     "source_url": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "InterContinental London Park Lane meetings and events brochure 2026",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf",
+     "href": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "expo-georgia-tbilisi",
+   "name": "Expo Georgia",
+   "type": "exhibition_grounds",
+   "country": "Georgia",
+   "cc": "GE",
+   "city": "Tbilisi",
+   "address": "118 Tsereteli Avenue, Tbilisi, Georgia",
+   "lat": null,
+   "lon": null,
+   "url": "https://expogeorgia.ge/about",
+   "capacity": null,
+   "exhibition_sqm": 7410,
+   "halls": "Official about page: eleven modern exhibition pavilions with a total area of 7,410 sq.m, including a conference hall with movable walls and conference equipment. Official open landscaped territory 29,199 sq.m is outdoor and is excluded from exhibition_sqm. A separate official “rental space 140,000 sq.m” figure is not treated as an indoor exhibition-hall total and is not stored.",
+   "description": "Official Expo Georgia exhibition centre at 118 Tsereteli Avenue, Tbilisi; [email removed]. Official indoor pavilion total 7,410 m² is stored as exhibition_sqm. Outdoor landscaped area 29,199 m² is excluded. No atlas events are linked. Official-star hotels were not added in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://expogeorgia.ge/about",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expogeorgia.ge/?lang=en",
      "label": "Official source"
     }
    ],
@@ -285949,6 +295455,114 @@ window.ATLASDATA={
      "accessed_at": "2026-11-24"
     }
    ]
+  },
+  {
+   "slug": "tikal-futura-hotel-convention-center",
+   "name": "Tikal Futura Hotel & Convention Center",
+   "type": "hotel_conference_venue",
+   "country": "Guatemala",
+   "cc": "GT",
+   "city": "Guatemala City",
+   "address": null,
+   "lat": 14.6226742,
+   "lon": -90.5539107,
+   "url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom",
+   "capacity": 2500,
+   "exhibition_sqm": null,
+   "halls": "Official convention-center pages: Grand Tikal Ballroom / Tikal 2,044 m² (73.00 × 28.00 m, ceiling 4.85 m), official capacity chart maximum 2,500; official modular halls Tikal I 406 m² / 500, Tikal II 224 m² / 225, Tikal III 784 m² / 1,000, Tikal IV 224 m² / 225, Tikal V 406 m² / 500. Running text on the Grand Tikal page also says it accommodates up to 2,000 guests, which disagrees with the official chart maximum 2,500; the chart figure is stored as capacity_max_delegates and 2,000 is noted. Official homepage locates the hotel in Zone 11; a street address was not published on the retrieved pages, so address is null.",
+   "description": "Official Tikal Futura Hotel & Convention Center in Guatemala City (officially located in Zone 11). Official Grand Tikal Ballroom 2,044 m² and official capacity-chart maximum 2,500 (stored as capacity_max_delegates); the same page’s “up to 2,000 guests” line is noted. star_rating null (no official property-level classification listing retrieved). No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.tfhotel.com/en/convention-center/tikal",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tfhotel.com/en/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Tikal Ballroom",
+     "type": null,
+     "area_sqm": 2044,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: 2,044 m², max capacity 2,500. The Grand Tikal page intro also says “up to 2,000 guests”; 2,000 is noted and not stored.",
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    },
+    {
+     "name": "Tikal I",
+     "type": null,
+     "area_sqm": 406,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    },
+    {
+     "name": "Tikal II",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 225,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    },
+    {
+     "name": "Tikal III",
+     "type": null,
+     "area_sqm": 784,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 784 m², up to 1,000 guests.",
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    },
+    {
+     "name": "Tikal IV",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 225,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    },
+    {
+     "name": "Tikal V",
+     "type": null,
+     "area_sqm": 406,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.tfhotel.com/en/convention-center/tikal-ballroom"
+    }
+   ],
+   "documents": []
   },
   {
    "slug": "hong-kong-convention-and-exhibition-centre",
@@ -286357,7 +295971,30 @@ window.ATLASDATA={
      "source_url": "https://visnjik.hr/english/kresimir-cosic-hall/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/visnjik.hr",
+     "verified_via": "official Športski Centar Višnjik website footer",
+     "source_url": "https://visnjik.hr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCM5TBi3-T7Db1I1Z7UW822Q",
+     "verified_via": "official Športski Centar Višnjik website footer",
+     "source_url": "https://visnjik.hr/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/visnjik.hr",
+     "verified_via": "official Športski Centar Višnjik website footer",
+     "source_url": "https://visnjik.hr/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hungexpo-budapest",
@@ -286533,7 +296170,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/vasuttortenetipark",
+     "verified_via": "official website footer",
+     "source_url": "https://vasuttortenetipark.hu/en/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vasuttortenetipark",
+     "verified_via": "official website footer",
+     "source_url": "https://vasuttortenetipark.hu/en/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/VasuttortenetiPark",
+     "verified_via": "official website footer",
+     "source_url": "https://vasuttortenetipark.hu/en/home/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "jiexpo-kemayoran",
@@ -287869,8 +297529,8 @@ window.ATLASDATA={
    "cc": "IL",
    "city": "Jerusalem",
    "address": "1 Shazar Blvd., P.O. Box 34405, Jerusalem 9134302, Israel",
-   "lat": null,
-   "lon": null,
+   "lat": 31.7872029,
+   "lon": 35.2050539,
    "url": "https://iccjer.co.il/en/",
    "capacity": 10000,
    "exhibition_sqm": 12000,
@@ -288023,6 +297683,36 @@ window.ATLASDATA={
      "source_url": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
      "href": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/villagaiety",
+     "verified_via": "official Villa Gaiety website footer",
+     "source_url": "https://www.villagaiety.com/about-us/our-venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/villagaiety",
+     "verified_via": "official Villa Gaiety website footer",
+     "source_url": "https://www.villagaiety.com/about-us/our-venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/villagaiety",
+     "verified_via": "official Villa Gaiety website footer",
+     "source_url": "https://www.villagaiety.com/about-us/our-venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@villagaiety",
+     "verified_via": "official Villa Gaiety website footer",
+     "source_url": "https://www.villagaiety.com/about-us/our-venues",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -288450,8 +298140,8 @@ window.ATLASDATA={
    "cc": "IN",
    "city": "Mumbai",
    "address": "Mumbai, Maharashtra, India",
-   "lat": null,
-   "lon": null,
+   "lat": 19.101636,
+   "lon": 72.877438,
    "url": "https://www.fairmont.com/mumbai/",
    "capacity": null,
    "exhibition_sqm": null,
@@ -288705,7 +298395,7 @@ window.ATLASDATA={
    "address": "Piazzale John Fitzgerald Kennedy, 16129 Genoa",
    "lat": 44.3959841,
    "lon": 8.9445379,
-   "url": "https://www.fiera.ge.it/",
+   "url": "https://portoantico.it/informazioni-organizzatori/fiere/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -288716,13 +298406,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://portoantico.it/informazioni-organizzatori/fiere/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.fiera.ge.it/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/portoanticodigenova",
+     "verified_via": "official Porto Antico operator fairs page footer",
+     "source_url": "https://portoantico.it/informazioni-organizzatori/fiere/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/portoanticodigenova",
+     "verified_via": "official Porto Antico operator fairs page footer",
+     "source_url": "https://portoantico.it/informazioni-organizzatori/fiere/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PortoAnticoGe",
+     "verified_via": "official Porto Antico operator fairs page footer",
+     "source_url": "https://portoantico.it/informazioni-organizzatori/fiere/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCtgR19p-iTXHA22l8bbbe7A",
+     "verified_via": "official Porto Antico operator fairs page footer",
+     "source_url": "https://portoantico.it/informazioni-organizzatori/fiere/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "arsenale-di-venezia",
@@ -288755,7 +298479,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/VeneziaUnicaCitypass",
+     "verified_via": "official website footer",
+     "source_url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/veneziaunica",
+     "verified_via": "official website footer",
+     "source_url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ve-la-s-p-a-",
+     "verified_via": "official website footer",
+     "source_url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/eFttCb8pars",
+     "verified_via": "official website footer",
+     "source_url": "https://vela.avmspa.it/en/content/venice-arsenale-0",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "museo-nazionale-scienza-tecnologia-leonardo-da-vinci",
@@ -289089,6 +298843,274 @@ window.ATLASDATA={
      "accessed_at": "2026-11-24"
     }
    ]
+  },
+  {
+   "slug": "hotel-principe-di-savoia",
+   "name": "Hotel Principe di Savoia",
+   "type": "hotel_conference_venue",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Milan",
+   "address": "Piazza della Repubblica 17, Milan, Italy",
+   "lat": 45.4797878,
+   "lon": 9.1963935,
+   "url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia/event-spaces/galilei",
+   "capacity": 700,
+   "exhibition_sqm": null,
+   "halls": "Official Dorchester Collection groups brochure capacity table: Galilei A+B+C 352 m², banquet 250, cocktail 400, theatre 250, classroom 100; Galilei + Marco Polo + Veranda + Cristalli 747 m², banquet 440, cocktail 700; Cristalli 178 m², banquet 120, cocktail 200, theatre 150, classroom 90.",
+   "description": "Dorchester Collection hotel on Piazza della Repubblica 17, Milan, with official function rooms centred on the Galilei suite. Official combined cocktail capacity 700 for Galilei + Marco Polo + Veranda + Cristalli is stored as capacity_max_delegates. No official regional property-level star listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.dorchestercollection.com/milan/hotel-principe-di-savoia/event-spaces/galilei",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Galilei A+B+C",
+     "type": null,
+     "area_sqm": 352,
+     "capacity_max": 400,
+     "capacity_theatre": 250,
+     "capacity_classroom": 100,
+     "capacity_banquet": 250,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf"
+    },
+    {
+     "name": "Galilei + Marco Polo + Veranda + Cristalli",
+     "type": null,
+     "area_sqm": 747,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 440,
+     "capacity_reception": 700,
+     "notes": "Official table: 747 m², banquet 440, cocktail 700 (theatre not published for this combined layout).",
+     "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf"
+    },
+    {
+     "name": "Cristalli",
+     "type": null,
+     "area_sqm": 178,
+     "capacity_max": 200,
+     "capacity_theatre": 150,
+     "capacity_classroom": 90,
+     "capacity_banquet": 120,
+     "capacity_reception": 200,
+     "notes": null,
+     "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hotel Principe di Savoia groups brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
+     "href": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "excelsior-hotel-gallia",
+   "name": "Excelsior Hotel Gallia, a Luxury Collection Hotel, Milan",
+   "type": "hotel_conference_venue",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Milan",
+   "address": "Piazza Duca D'Aosta 9, 20124 Milan, Italy",
+   "lat": 45.4858962,
+   "lon": 9.2019566,
+   "url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/",
+   "capacity": 420,
+   "exhibition_sqm": null,
+   "halls": "Official events page: 12 meeting rooms offering 1,000 sqm of event space plus 700 sqm of foyers (combined figures, not stored as exhibition_sqm). Official prose describes the columnless Duomo ballroom as 400 sqm; official schema.org on the same page gives Duomo a maximum of 420 attendees and 4,192 sq ft (about 389 m²). The official 400 sqm prose figure is stored for area, with the converted square-foot figure noted.",
+   "description": "Luxury Collection hotel next to Milano Centrale at Piazza Duca D'Aosta 9. Official Duomo ballroom is described as 400 m² with a published maximum of 420 attendees (stored as capacity_max_delegates). star_rating null (no official regional property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Duomo",
+     "type": null,
+     "area_sqm": 400,
+     "capacity_max": 420,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official events-page prose: 400 sqm columnless ballroom. Official schema.org maximumAttendeeCapacity 420; the same schema floor area 4,192 sq ft converts to 389 m² and is noted.",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/"
+    },
+    {
+     "name": "La Scala",
+     "type": null,
+     "area_sqm": 217,
+     "capacity_max": 260,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximum 260; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/"
+    },
+    {
+     "name": "Galleria (Foyer)",
+     "type": null,
+     "area_sqm": 560,
+     "capacity_max": 470,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org foyer space; maximum 470.",
+     "source_url": "https://www.marriott.com/en-us/hotels/millc-excelsior-hotel-gallia-a-luxury-collection-hotel-milan/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "the-st-regis-rome",
+   "name": "The St. Regis Rome",
+   "type": "hotel_conference_venue",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Rome",
+   "address": "Via Vittorio E. Orlando, 3, 00185 Rome, Italy",
+   "lat": 41.9041563,
+   "lon": 12.495092,
+   "url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/",
+   "capacity": 300,
+   "exhibition_sqm": null,
+   "halls": "Official events page schema.org: Ritz room maximum 300 attendees, about 261 m²; smaller official salons include Domus Aurea A (100 / 130 m²) and Domus Aurea B (70 / 85 m²). Official visible total event space 867 m² (combined, not stored as exhibition_sqm).",
+   "description": "St. Regis Rome at Via Vittorio E. Orlando, 3, 00185 Rome. Official largest named function room (Ritz) has a published maximum of 300 attendees. star_rating null (no official regional property-level listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Ritz",
+     "type": null,
+     "area_sqm": 261,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity 300; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/"
+    },
+    {
+     "name": "Domus Aurea A",
+     "type": null,
+     "area_sqm": 130,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "rome-cavalieri",
+   "name": "Rome Cavalieri, A Waldorf Astoria Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Italy",
+   "cc": "IT",
+   "city": "Rome",
+   "address": "Via Alberto Cadlolo, 101, 00136 Rome, Italy",
+   "lat": 41.9188764,
+   "lon": 12.446681,
+   "url": "https://romecavalieri.com/meetings-conferences/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official meetings-and-conferences page describes major conference and meeting rooms, smaller office suites, natural daylight and outdoor space, and names the Salone dei Cavalieri. The same page publishes figures of 280 sq.mt, 4,670 sq.mt and 4,920 sq.mt without a retrieved label that can be safely assigned to a named hall, so those areas and any associated capacities are left null rather than guessed.",
+   "description": "Waldorf Astoria Rome Cavalieri at Via Alberto Cadlolo 101, 00136 Rome, with an official meetings-and-conferences offer including the named Salone dei Cavalieri. Official room-by-room capacities were not clearly labelled on the retrieved official page, so numeric hall fields are null. The page’s “luxury five-star hotel” wording is a self-description, not an official classification listing, so star_rating is null. Official CIN IT058091A16V3C4V94 is an identifier, not a star class.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://romecavalieri.com/meetings-conferences/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "jamaica-conference-centre",
+   "name": "The Jamaica Conference Centre",
+   "type": "congress_centre",
+   "country": "Jamaica",
+   "cc": "JM",
+   "city": "Kingston",
+   "address": "14–20 Port Royal Street, Kingston, Jamaica",
+   "lat": null,
+   "lon": null,
+   "url": "https://jamaicaconference.com/",
+   "capacity": 1200,
+   "exhibition_sqm": null,
+   "halls": "Official about page: five conference rooms, three caucus rooms, a reception foyer, dining block, delegate lounges and offices.",
+   "description": "Official Jamaica Conference Centre site. Kenneth Rattray Conference Room (formerly Conference Room 1), the largest space, 'accommodates up to 1,200 persons'; that official 'up to' figure is stored as capacity_max_delegates with this note. Official contact: 14–20 Port Royal Street, Kingston; [email removed]. Capacity figures for Conference Rooms 2 and 3 and the caucus rooms were not published as exact numbers in the fetched official text.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://jamaicaconference.com/facilities/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://jamaicaconference.com/about-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://jamaicaconference.com/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Kenneth Rattray Conference Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1200,
+     "capacity_theatre": 1200,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facilities page: formerly Conference Room 1 and the largest space, accommodates up to 1,200 persons. Observers', public and press galleries on the first floor.",
+     "source_url": "https://jamaicaconference.com/facilities/"
+    }
+   ],
+   "documents": []
   },
   {
    "slug": "landmark-hotel-amman",
@@ -290044,7 +300066,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/happoen",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/happoenPR",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/happoen",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@happoen",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@happoen_official",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/happoenpr",
+     "verified_via": "official website footer",
+     "source_url": "https://happo-en.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "ariake-central-tower-hall-and-conference",
@@ -290056,7 +300122,7 @@ window.ATLASDATA={
    "address": "Ariake, Koto-ku, Tokyo, Japan",
    "lat": 35.6321695,
    "lon": 139.7938498,
-   "url": "https://www.tosei-hotel.co.jp/ariake/conference/",
+   "url": "https://ariake-hall.jp/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -290132,6 +300198,140 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "imperial-hotel-tokyo",
+   "name": "Imperial Hotel, Tokyo",
+   "type": "hotel_conference_venue",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "1-1, Uchisaiwai-cho 1-chome, Chiyoda-ku, Tokyo 100-8558, Japan",
+   "lat": 35.6718986,
+   "lon": 139.7589849,
+   "url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku",
+   "capacity": 2000,
+   "exhibition_sqm": null,
+   "halls": "Official Peacock Room page: Peacock Room (East & West) 1,965 m², dinner 1,320, standing buffet 2,000, cocktail buffet 700, theatre 1,800, classroom 1,200; East 1,073 m² / theatre 1,000; West 868 m² / theatre 750; South 435 m² / theatre 250.",
+   "description": "Imperial Hotel Tokyo at official address 1-1, Uchisaiwai-cho 1-chome, Chiyoda-ku, Tokyo 100-8558. Official Peacock Room (East & West) 1,965 m², standing buffet 2,000 (stored as capacity_max_delegates) and theatre 1,800. star_rating null (no official Japanese property-level star listing retrieved).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.imperialhotel.co.jp/en/tokyo/access/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Peacock Room (East & West)",
+     "type": null,
+     "area_sqm": 1965,
+     "capacity_max": 2000,
+     "capacity_theatre": 1800,
+     "capacity_classroom": 1200,
+     "capacity_banquet": 1320,
+     "capacity_reception": 2000,
+     "notes": "Official table: 1,965 m², dinner 1,320, standing buffet 2,000, cocktail buffet 700, theatre 1,800, classroom 1,200.",
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku"
+    },
+    {
+     "name": "Peacock Room (East)",
+     "type": null,
+     "area_sqm": 1073,
+     "capacity_max": null,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 700,
+     "capacity_banquet": 720,
+     "capacity_reception": 1000,
+     "notes": null,
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku"
+    },
+    {
+     "name": "Peacock Room (West)",
+     "type": null,
+     "area_sqm": 868,
+     "capacity_max": null,
+     "capacity_theatre": 750,
+     "capacity_classroom": 500,
+     "capacity_banquet": 540,
+     "capacity_reception": 500,
+     "notes": "Official standing buffet 500 and cocktail 220 are lower than theatre 750.",
+     "source_url": "https://www.imperialhotel.co.jp/en/tokyo/banquet/room/kujaku"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "Imperial Hotel, Tokyo"
+  },
+  {
+   "slug": "hotel-new-otani-tokyo",
+   "name": "Hotel New Otani Tokyo",
+   "type": "hotel_conference_venue",
+   "country": "Japan",
+   "cc": "JP",
+   "city": "Tokyo",
+   "address": "4-1, Kioi-cho, Chiyoda-ku, Tokyo 102-8578, Japan",
+   "lat": 35.6809135,
+   "lon": 139.7339748,
+   "url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/",
+   "capacity": 2500,
+   "exhibition_sqm": null,
+   "halls": "Official Tsuru page: running text describes a grand space of 2,452 square metres; the official capacity table lists Square Meters 1,992, seated dinner 1,150, standing buffet 2,500, classroom 1,200, theatre 2,184. The table area 1,992 m² is stored and 2,452 is noted as a disagreement.",
+   "description": "Hotel New Otani Tokyo at official address 4-1, Kioi-cho, Chiyoda-ku, Tokyo 102-8578. Official Tsuru hall standing buffet 2,500 (stored as capacity_max_delegates) and theatre 2,184. Official table area 1,992 m² is stored; the same page’s 2,452 m² prose figure is noted and not stored. star_rating null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Tsuru",
+     "type": null,
+     "area_sqm": 1992,
+     "capacity_max": 2500,
+     "capacity_theatre": 2184,
+     "capacity_classroom": 1200,
+     "capacity_banquet": 1150,
+     "capacity_reception": 2500,
+     "notes": "Official table: 1,992 m², seated dinner 1,150, standing buffet 2,500, classroom 1,200, theatre 2,184. Running text “2,452 square meters” is noted and not stored.",
+     "source_url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/"
+    },
+    {
+     "name": "Tsuru (East)",
+     "type": null,
+     "area_sqm": 850,
+     "capacity_max": null,
+     "capacity_theatre": 1023,
+     "capacity_classroom": 504,
+     "capacity_banquet": 400,
+     "capacity_reception": 800,
+     "notes": "Official table: 850 m², seated 400, standing 800, classroom 504, theatre 1,023.",
+     "source_url": "https://www.newotani.co.jp/en/tokyo/banquet/hall/tsuru/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hotel New Otani Tokyo MICE brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
+     "href": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "kenyatta-international-convention-centre",
@@ -290385,6 +300585,84 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "diamond-island-convention-and-exhibition-center",
+   "name": "Diamond Island Convention and Exhibition Center (DICE)",
+   "type": "convention_centre",
+   "country": "Cambodia",
+   "cc": "KH",
+   "city": "Phnom Penh",
+   "address": "Diamond Island (Koh Pich), Phnom Penh",
+   "lat": null,
+   "lon": null,
+   "url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Official OCIC project page: Diamond Island Convention and Exhibition Center (DICE) was established in October 2009 and is part of Canadia Integrated Enterprise Group. The official page identifies it as including the largest international convention and exhibition facilities on Diamond Island but does not publish a hall-by-hall capacity or area schedule in the fetched text, so capacity and exhibition fields are null. Unofficial organiser floorplans and press figures were not used.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/ocicgroup",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ocicgroup",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ocicgroup",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCsU7OAdI6yPP7Kjvgj_Ad_A",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/ocic_official",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ocicgroup",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/OcicGroup",
+     "verified_via": "official OCIC project page footer",
+     "source_url": "https://ocic.com.kh/projects/diamond-island-convention-and-exhibition-center",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "coex",
@@ -291188,7 +301466,30 @@ window.ATLASDATA={
      "source_url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/QazExpoCongress",
+     "verified_via": "official website footer",
+     "source_url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/qazexpocongress",
+     "verified_via": "official website footer",
+     "source_url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_qazexpocongress_",
+     "verified_via": "official website footer",
+     "source_url": "https://qazexpocongress.kz/en/biznes/arenda-kongress-czentra/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "bmich-colombo",
@@ -291491,7 +301792,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@vu-mif",
+     "verified_via": "official website footer",
+     "source_url": "https://mif.vu.lt/lt3/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/VUMIF",
+     "verified_via": "official website footer",
+     "source_url": "https://mif.vu.lt/lt3/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/vu_mif",
+     "verified_via": "official website footer",
+     "source_url": "https://mif.vu.lt/lt3/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/vumif",
+     "verified_via": "official website footer",
+     "source_url": "https://mif.vu.lt/lt3/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "luxexpo-the-box",
@@ -292190,7 +302521,44 @@ window.ATLASDATA={
      "source_url": "https://portomontenegro.com/venues/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/portomontenegrotivat",
+     "verified_via": "official website footer",
+     "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/porto_montenegro",
+     "verified_via": "official website footer",
+     "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCtv3XIqzomxbZ2XiUBdKrFw",
+     "verified_via": "official website footer",
+     "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/porto-montenegro",
+     "verified_via": "official website footer",
+     "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@porto_montenegro",
+     "verified_via": "official website footer",
+     "source_url": "https://portomontenegro.com/venues/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "venetian-macao-cotai-expo",
@@ -293497,7 +303865,23 @@ window.ATLASDATA={
      "source_url": "https://www.thecasinomaltese.com/facilities"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Casino-Maltese-116326155068881",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thecasinomaltese.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/casinomaltese",
+     "verified_via": "official website footer",
+     "source_url": "https://www.thecasinomaltese.com",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "hard-rock-hotel-malta",
@@ -294727,7 +305111,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tecdemonterrey",
+     "verified_via": "official website footer",
+     "source_url": "https://tec.mx/es/monterrey",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/tecdemonterrey",
+     "verified_via": "official website footer",
+     "source_url": "https://tec.mx/es/monterrey",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/itesm",
+     "verified_via": "official website footer",
+     "source_url": "https://tec.mx/es/monterrey",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/TECdeMonterrey",
+     "verified_via": "official website footer",
+     "source_url": "https://tec.mx/es/monterrey",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tecdemonterrey",
+     "verified_via": "official website footer",
+     "source_url": "https://tec.mx/es/monterrey",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "papalote-museo-del-nino",
@@ -294756,7 +305177,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PapaloteMuseo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.papalote.org.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/papalote_museo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.papalote.org.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/papalote_museo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.papalote.org.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@papalote_museo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.papalote.org.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PapaloteMuseoDelNino",
+     "verified_via": "official website footer",
+     "source_url": "https://www.papalote.org.mx/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "lunario-del-auditorio-nacional",
@@ -294768,7 +305226,7 @@ window.ATLASDATA={
    "address": "Auditorio Nacional, Ciudad de México, Mexico",
    "lat": 19.4245076,
    "lon": -99.1953585,
-   "url": "https://www.auditorio.com.mx/lunario",
+   "url": "https://www.lunario.com.mx/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
@@ -294779,13 +305237,47 @@ window.ATLASDATA={
    ],
    "sources": [
     {
+     "url": "https://www.lunario.com.mx/",
+     "label": "Official source"
+    },
+    {
      "url": "https://www.auditorio.com.mx/lunario",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/lunariomx",
+     "verified_via": "official Lunario website footer",
+     "source_url": "https://www.lunario.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/lunariomx",
+     "verified_via": "official Lunario website footer",
+     "source_url": "https://www.lunario.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/LunarioMx",
+     "verified_via": "official Lunario website footer",
+     "source_url": "https://www.lunario.com.mx/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/lunariomx",
+     "verified_via": "official Lunario website footer",
+     "source_url": "https://www.lunario.com.mx/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "barcelo-maya-grand-resort",
@@ -295978,7 +306470,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/arena_cruijff",
+     "verified_via": "official website footer",
+     "source_url": "https://www.johancruijffarena.nl/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/johancruijffarena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.johancruijffarena.nl/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/johan-cruijff-arena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.johancruijffarena.nl/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCIUG_vYlXq2EH5bPiP1sc-w",
+     "verified_via": "official website footer",
+     "source_url": "https://www.johancruijffarena.nl/home/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/johancruijffarena",
+     "verified_via": "official website footer",
+     "source_url": "https://www.johancruijffarena.nl/home/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kinepolis-utrecht",
@@ -296036,7 +306565,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/taets-artandevent-park",
+     "verified_via": "official website footer",
+     "source_url": "https://www.taets.com",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/taetsofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.taets.com",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "meervaart-amsterdam",
@@ -296102,6 +306647,29 @@ window.ATLASDATA={
      "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
      "href": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
      "local": false
+    }
+   ],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/meervaart",
+     "verified_via": "official website footer",
+     "source_url": "https://meervaart.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/meervaart",
+     "verified_via": "official website footer",
+     "source_url": "https://meervaart.nl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/meervaart-amsterdam",
+     "verified_via": "official website footer",
+     "source_url": "https://meervaart.nl/",
+     "accessed_at": "2026-11-24"
     }
    ]
   },
@@ -296501,6 +307069,88 @@ window.ATLASDATA={
    "hotel_name": "Sofitel Legend The Grand Amsterdam"
   },
   {
+   "slug": "intercontinental-amstel-amsterdam",
+   "name": "InterContinental Amstel Amsterdam",
+   "type": "hotel_conference_venue",
+   "country": "Netherlands",
+   "cc": "NL",
+   "city": "Amsterdam",
+   "address": "Professor Tulpplein 1, 1018 GX Amsterdam, Netherlands",
+   "lat": 52.35998643,
+   "lon": 4.90524537,
+   "url": "https://www.amstelhotel.com/meetings-events/",
+   "capacity": 170,
+   "exhibition_sqm": null,
+   "halls": "Official 2026 events brochure: 522 m² of event space across six rooms and a private dining room (combined, not stored as exhibition_sqm). Official Spiegelzaal 180 m², theatre 170, classroom 60, banquet 140, boardroom/imperial 100. Official Tuinzaal 84.5 m², theatre 70, classroom 30; banquet is 60 on the floor-plan table and 55 in the room text — banquet left null for that room.",
+   "description": "Official Dutch Hotelstars register (hotelsterren.nl) lists InterContinental Amstel Amsterdam as 5 stars, Superior, last classified on 22 December 2025, valid until 22 December 2029. Official register address Professor Tulpplein 1, 1018 GX Amsterdam, with official register coordinates 52.35998643, 4.90524537. Official largest named hall theatre capacity is 170 (Spiegelzaal), stored as capacity_max_delegates. Superior is not a sixth star.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.amstelhotel.com/meetings-events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://hotelsterren.nl/hotels/intercontinental-amstel-amsterdam-amsterdam",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Spiegelzaal",
+     "type": null,
+     "area_sqm": 180,
+     "capacity_max": 170,
+     "capacity_theatre": 170,
+     "capacity_classroom": 60,
+     "capacity_banquet": 140,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: 180 m², theatre 170, classroom 60, banquet 140, boardroom/imperial 100.",
+     "source_url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf"
+    },
+    {
+     "name": "Tuinzaal",
+     "type": null,
+     "area_sqm": 84.5,
+     "capacity_max": null,
+     "capacity_theatre": 70,
+     "capacity_classroom": 30,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: 84.5 m², theatre 70, classroom 30. Banquet is 60 on the floor-plan table and 55 in the room section, so banquet is left null.",
+     "source_url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf"
+    },
+    {
+     "name": "The Dining Room",
+     "type": null,
+     "area_sqm": 142,
+     "capacity_max": null,
+     "capacity_theatre": 100,
+     "capacity_classroom": null,
+     "capacity_banquet": 70,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: 142 m², theatre 100, banquet 70.",
+     "source_url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "InterContinental Amstel Amsterdam events brochure 2026",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf",
+     "href": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "InterContinental Amstel Amsterdam"
+  },
+  {
    "slug": "nova-spektrum",
    "name": "NOVA Spektrum",
    "type": "convention_centre",
@@ -296691,7 +307341,44 @@ window.ATLASDATA={
      "source_url": "https://www.rebel.no/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/14802324",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rebel.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/rebel_oslo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rebel.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "threads",
+     "url": "https://www.threads.net/@rebel_oslo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rebel.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/rebelnorge",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rebel.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "meetup",
+     "url": "https://www.meetup.com/rebel-oslo",
+     "verified_via": "official website footer",
+     "source_url": "https://www.rebel.no/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "radisson-blu-scandinavia-hotel-oslo",
@@ -296753,7 +307440,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/oslospektrum",
+     "verified_via": "official website footer and official homepage social links",
+     "source_url": "https://oslospektrum.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/oslospektrum",
+     "verified_via": "official website footer and official homepage social links",
+     "source_url": "https://oslospektrum.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/oslospektrum",
+     "verified_via": "official website footer and official homepage social links",
+     "source_url": "https://oslospektrum.no/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@oslospektrum.no",
+     "verified_via": "official website footer and official homepage social links",
+     "source_url": "https://oslospektrum.no/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kilden",
@@ -296786,7 +307503,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KildenKrs",
+     "verified_via": "official website footer",
+     "source_url": "https://kilden.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/KildenKrs",
+     "verified_via": "official website footer",
+     "source_url": "https://kilden.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kilden",
+     "verified_via": "official website footer",
+     "source_url": "https://kilden.com/en/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/KildenKrs",
+     "verified_via": "official website footer",
+     "source_url": "https://kilden.com/en/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "takina-wellington",
@@ -297786,7 +308533,7 @@ window.ATLASDATA={
    "address": "Avenida De la Arqueología 206, San Borja, Lima, Peru",
    "lat": -12.0863298,
    "lon": -77.000684,
-   "url": null,
+   "url": "https://convenciones.vivienda.gob.pe/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": "Official PROINVERSIÓN (gob.pe) announcement: 18 multifunctional rooms on eight levels. The same official text cites more than 15,000 m² of infrastructure and capacity for nearly 10,000 people at once; those “more than” / “nearly” figures are not stored as exact exhibition_sqm or capacity_max_delegates.",
@@ -297794,6 +308541,10 @@ window.ATLASDATA={
    "photo": null,
    "linked_event_slugs": [],
    "sources": [
+    {
+     "url": "https://convenciones.vivienda.gob.pe/",
+     "label": "Official source"
+    },
     {
      "url": "https://www.gob.pe/institucion/proinversion/noticias/1410341-proinversion-selecciona-a-tres-operadores-que-competiran-por-la-gestion-del-centro-de-convenciones-de-lima",
      "label": "Official source"
@@ -297830,7 +308581,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/pucp",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://www.pucp.edu.pe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pucp",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://www.pucp.edu.pe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pucp",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://www.pucp.edu.pe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/pucp",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://www.pucp.edu.pe/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pucp",
+     "verified_via": "official website footer (fetched after TLS certificate-issuer failure)",
+     "source_url": "https://www.pucp.edu.pe/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "grand-hyatt-manila",
@@ -298116,7 +308904,44 @@ window.ATLASDATA={
      "source_url": "https://tdap.gov.pk/expo-center-karachi/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/tdapofficial",
+     "verified_via": "official TDAP operator website header (Expo Centre Karachi page)",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/official_tdap",
+     "verified_via": "official TDAP operator website header (Expo Centre Karachi page)",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCQQtthEfVgwKc3BffPKqiLA",
+     "verified_via": "official TDAP operator website header (Expo Centre Karachi page)",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/tdapofficial",
+     "verified_via": "official TDAP operator website header (Expo Centre Karachi page)",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/tdapofficial",
+     "verified_via": "official TDAP operator website header (Expo Centre Karachi page)",
+     "source_url": "https://tdap.gov.pk/expo-center-karachi/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "mtp-poznan-expo",
@@ -298774,7 +309599,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/CentrumNaukiKopernik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kopernik.org.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/CentrumNaukiKopernik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kopernik.org.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/centrum.nauki.kopernik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kopernik.org.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cnkopernik",
+     "verified_via": "official website footer",
+     "source_url": "https://www.kopernik.org.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "pge-narodowy",
@@ -298803,7 +309658,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PGE.Narodowy",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pgenarodowy.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@stadionnarodowy1",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pgenarodowy.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pgenarodowy",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pgenarodowy.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/PGENarodowy",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pgenarodowy.pl/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@pge.narodowy",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pgenarodowy.pl/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "multikino-krakow",
@@ -299332,7 +310224,30 @@ window.ATLASDATA={
      "source_url": "https://www.ccalfandegaporto.com/en/spaces/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/AlfandegaDoPorto",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ccalfandegaporto.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/ccalfandegaporto",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ccalfandegaporto.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/alfandega-congress-centre---porto",
+     "verified_via": "official website footer",
+     "source_url": "https://www.ccalfandegaporto.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sheraton-porto-hotel-spa",
@@ -299507,7 +310422,23 @@ window.ATLASDATA={
      "source_url": "https://coimbraconvento.pt/pt/espacos/grande-auditorio/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/conventosaofrancisco",
+     "verified_via": "official website footer",
+     "source_url": "https://www.coimbraconvento.pt/pt/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/conventosaofrancisco.coimbra",
+     "verified_via": "official website footer",
+     "source_url": "https://www.coimbraconvento.pt/pt/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "montebelo-mosteiro-de-alcobaca",
@@ -299573,7 +310504,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "luma",
+     "url": "https://lu.ma/user",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/unicornflisboa",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/unicornfactoryl",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unicornflisboa",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/unicornfactorylisboa",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCGM9ESV-Xn9F3TWQVUAtHZQ",
+     "verified_via": "official website footer",
+     "source_url": "https://unicornfactorylisboa.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "four-seasons-hotel-ritz-lisbon",
@@ -299820,6 +310795,143 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "centro-de-eventos-uip-asuncion",
+   "name": "Centro de Eventos UIP",
+   "type": "congress_centre",
+   "country": "Paraguay",
+   "cc": "PY",
+   "city": "Asunción",
+   "address": "Av. Santísimo Sacramento 945 c/Prof. Chávez, Barrio Bella Vista, Asunción",
+   "lat": null,
+   "lon": null,
+   "url": "https://uip.org.py/centro-de-eventos/",
+   "capacity": 150,
+   "exhibition_sqm": null,
+   "halls": "Official page lists Salón Auditorio, Salón Auditorio reducido, smaller rooms (10, 8 and 20 persons) and Salón Consejo Directivo.",
+   "description": "Official Unión Industrial Paraguaya Centro de Eventos page. This is a modest official events facility (largest published capacity 150), not a large exhibition centre. A planned VISTA ferias y convenciones project has been announced by UIP with the Jockey Club but is not recorded here as an operating venue because an official open-capacity schedule was not found. Official footer address Av. Santísimo Sacramento 945 c/Prof. Chávez, Asunción; official email [email removed].",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://uip.org.py/centro-de-eventos/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Salón Auditorio",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 150,
+     "capacity_theatre": 150,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: Capacidad Máxima 150 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    },
+    {
+     "name": "Salón Auditorio reducido",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: Capacidad Máxima 70 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    },
+    {
+     "name": "Salón Consejo Directivo",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page: Capacidad Máxima 60 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    },
+    {
+     "name": "Sala (10 personas)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page lists a room at Capacidad Máxima 10 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    },
+    {
+     "name": "Sala (8 personas)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 8,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page lists a room at Capacidad Máxima 8 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    },
+    {
+     "name": "Sala (20 personas)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 20,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official page lists a room at Capacidad Máxima 20 personas.",
+     "source_url": "https://uip.org.py/centro-de-eventos/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/UIP_py",
+     "verified_via": "official UIP website social links (events centre page)",
+     "source_url": "https://uip.org.py/centro-de-eventos/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/unionindustrialpya",
+     "verified_via": "official UIP website social links (events centre page)",
+     "source_url": "https://uip.org.py/centro-de-eventos/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/UnionIndustrialPya",
+     "verified_via": "official UIP website social links (events centre page)",
+     "source_url": "https://uip.org.py/centro-de-eventos/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCGaFRi_7wvBI8KPy0KOhpPQ",
+     "verified_via": "official UIP website social links (events centre page)",
+     "source_url": "https://uip.org.py/centro-de-eventos/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/uipparaguay",
+     "verified_via": "official UIP website social links (events centre page)",
+     "source_url": "https://uip.org.py/centro-de-eventos/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
    "slug": "qatar-national-convention-centre",
    "name": "Qatar National Convention Centre",
    "type": "convention_centre",
@@ -300026,6 +311138,523 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "sheraton-grand-doha-resort-and-convention-hotel",
+   "name": "Sheraton Grand Doha Resort & Convention Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Qatar",
+   "cc": "QA",
+   "city": "Doha",
+   "address": "Al Corniche Street, P.O. Box 6000, Doha",
+   "lat": 25.3184,
+   "lon": 51.535941,
+   "url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/overview/",
+   "capacity": 3000,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 20 named spaces; the largest is Al Dafna Convention Center.",
+   "description": "Official Marriott events schema: Al Dafna Convention Center maximumAttendeeCapacity 3,000 and 36,167 sq ft (3,360 m²). Other official schema spaces include Al Majlis Conference Hall (900 / 11,840.4 sq ft), Salwa Banquet Hall (1,000 / 10,898.5 sq ft) and Al Rayyan Conference Hall (300 / 5,425.1 sq ft). An official Qatar Tourism factsheet (also used as a source) describes 25 meeting rooms; layout-by-layout theatre figures were not extractable from that PDF in this pass (image-heavy). The factsheet path sits under a '5-star-hotels' folder on the tourism-board site; that folder name is not treated as a property-level official classification, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qatartourism.com/content/dam/visitqatar/img/venue-finder/5-star-hotels/sheraton-grand-doha-resort/Sheraton-Grand-Doha-FactSheet.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qatartourism.com/en/business-events/venue-finder/sheraton-grand-doha-resort-convention-hotel",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Presidential Meeting Rooms 9",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Presidential Meeting Rooms 8",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Presidential Meeting Rooms 7",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Presidential Meeting Rooms 6",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Presidential Meeting Rooms 5",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Presidential Meeting Rooms 4",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 35,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Wakrah Meeting Room",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Conference Center Foyer",
+     "type": null,
+     "area_sqm": 1054,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Salwa #3",
+     "type": null,
+     "area_sqm": 304,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Salwa #2",
+     "type": null,
+     "area_sqm": 405,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Salwa #1",
+     "type": null,
+     "area_sqm": 304,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Mitras Meeting Room",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Al Dafna Convention Center",
+     "type": null,
+     "area_sqm": 3360,
+     "capacity_max": 3000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Haloul Meeting Room",
+     "type": null,
+     "area_sqm": 52,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Salwa Banquet Hall",
+     "type": null,
+     "area_sqm": 1013,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Al Rayyan Conference Hall",
+     "type": null,
+     "area_sqm": 504,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Al Nakhil Conference Room",
+     "type": null,
+     "area_sqm": 95,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Al Majlis Conference Hall",
+     "type": null,
+     "area_sqm": 1100,
+     "capacity_max": 900,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Al Basir Conference Room",
+     "type": null,
+     "area_sqm": 99,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    },
+    {
+     "name": "Ginan Meeting Room",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohsi-sheraton-grand-doha-resort-and-convention-hotel/events/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Sheraton Grand Doha official Qatar Tourism factsheet",
+     "doc_type": "factsheet",
+     "language": "en",
+     "source_url": "https://www.qatartourism.com/content/dam/visitqatar/img/venue-finder/5-star-hotels/sheraton-grand-doha-resort/Sheraton-Grand-Doha-FactSheet.pdf",
+     "href": "https://www.qatartourism.com/content/dam/visitqatar/img/venue-finder/5-star-hotels/sheraton-grand-doha-resort/Sheraton-Grand-Doha-FactSheet.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-st-regis-doha",
+   "name": "The St. Regis Doha",
+   "type": "hotel_conference_venue",
+   "country": "Qatar",
+   "cc": "QA",
+   "city": "Doha",
+   "address": "West Bay, Doha, 14435",
+   "lat": 25.351085,
+   "lon": 51.530514,
+   "url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/overview/",
+   "capacity": 1500,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 17 named spaces; the largest indoor room is the Grand Ballroom.",
+   "description": "Official Marriott events schema: Grand Ballroom maximumAttendeeCapacity 1,500 and 20,451.6 sq ft (1,900 m²). Larger official schema capacities on The Oryx Lawn, Beach, Pool Area and terraces are outdoor or terrace spaces and are not used as the campus indoor maximum. star_rating is null; no official Qatari property-level classification was retrieved.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The Oryx Lawn",
+     "type": null,
+     "area_sqm": 750,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet. Name indicates an outdoor or terrace space; not used as indoor exhibition area.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Beach",
+     "type": null,
+     "area_sqm": 5010,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet. Name indicates an outdoor or terrace space; not used as indoor exhibition area.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Pool Area",
+     "type": null,
+     "area_sqm": 2184,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet. Name indicates an outdoor or terrace space; not used as indoor exhibition area.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Ground Floor Terrace",
+     "type": null,
+     "area_sqm": 714,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet. Name indicates an outdoor or terrace space; not used as indoor exhibition area.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "First Floor Terrace",
+     "type": null,
+     "area_sqm": 300,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet. Name indicates an outdoor or terrace space; not used as indoor exhibition area.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Business Centre 4",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 18,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Business Centre 2",
+     "type": null,
+     "area_sqm": 22,
+     "capacity_max": 5,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Business Centre 1",
+     "type": null,
+     "area_sqm": 22,
+     "capacity_max": 5,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1900,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Majilis",
+     "type": null,
+     "area_sqm": 116,
+     "capacity_max": 25,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Abalone Foyer",
+     "type": null,
+     "area_sqm": 396,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Grand Foyer",
+     "type": null,
+     "area_sqm": 1020,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Grand Ballroom Foyer",
+     "type": null,
+     "area_sqm": 1020,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Baroque",
+     "type": null,
+     "area_sqm": 41,
+     "capacity_max": 15,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Awabi",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 45,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Amber",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 45,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    },
+    {
+     "name": "Abalone",
+     "type": null,
+     "area_sqm": 360,
+     "capacity_max": 160,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
    "slug": "romexpo-bucharest",
    "name": "Centrul Expozițional ROMEXPO",
    "type": "exhibition_grounds",
@@ -300170,7 +311799,30 @@ window.ATLASDATA={
      "source_url": "https://clujinnovationpark.ro/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/ClujInnovationPark",
+     "verified_via": "official website footer",
+     "source_url": "https://clujinnovationpark.ro/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/cluj-innovation-park",
+     "verified_via": "official website footer",
+     "source_url": "https://clujinnovationpark.ro/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/cluj.innovation.park",
+     "verified_via": "official website footer",
+     "source_url": "https://clujinnovationpark.ro/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "belgrade-fair",
@@ -300400,7 +312052,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@expo2027belgrade",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expobelgrade2027.org/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/expo2027belgrade",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expobelgrade2027.org/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/Expo2027Belgrade",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expobelgrade2027.org/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/expo_belgrade_2027",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expobelgrade2027.org/en/about",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@expo_belgrade_2027",
+     "verified_via": "official website footer",
+     "source_url": "https://www.expobelgrade2027.org/en/about",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kigali-convention-centre",
@@ -300692,8 +312381,8 @@ window.ATLASDATA={
    "cc": "SA",
    "city": "Riyadh",
    "address": "Riyadh, Saudi Arabia",
-   "lat": null,
-   "lon": null,
+   "lat": 24.8082236,
+   "lon": 46.7167582,
    "url": "https://www.fairmont.com/riyadh/",
    "capacity": null,
    "exhibition_sqm": null,
@@ -300949,7 +312638,58 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PNUKSA0",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/_PNU_KSA",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/princess-nourah-bint-abdulrahman-university",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@_pnu_ksa",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/_PNU_KSA",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UC-0BTuZ46ApPXt6dWONTyGg",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "whatsapp",
+     "url": "https://whatsapp.com/channel/0029VabX2wDKGGGN07X1c80f",
+     "verified_via": "official website footer",
+     "source_url": "https://pnu.edu.sa/ar/Pages/Home.aspx",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "effat-university",
@@ -300978,7 +312718,51 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/effat.university.official.page",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/EffatUniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/EffatUniversity99",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/effat_university",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/effat-university-jeddah-kingdom-of-saudi-arabia",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@effatuniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.effatuniversity.edu.sa:443/English/Pages/default.aspx",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kaust-building-19",
@@ -301007,7 +312791,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/KAUST_News",
+     "verified_via": "official website footer",
+     "source_url": "https://b-main.kaust.edu.sa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/kaust",
+     "verified_via": "official website footer",
+     "source_url": "https://b-main.kaust.edu.sa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/kaustofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://b-main.kaust.edu.sa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/KAUSTOfficial",
+     "verified_via": "official website footer",
+     "source_url": "https://b-main.kaust.edu.sa",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/KAUSTvideo",
+     "verified_via": "official website footer",
+     "source_url": "https://b-main.kaust.edu.sa",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "prince-mohammad-bin-fahd-university",
@@ -301036,7 +312857,44 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/PMU_KSA",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pmu.edu.sa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/pmuofficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pmu.edu.sa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/school/prince-mohammad-bin-fahd-university",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pmu.edu.sa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/PMUOfficial",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pmu.edu.sa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/pmu_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.pmu.edu.sa/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "prince-sattam-bin-abdulaziz-university",
@@ -301065,7 +312923,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/PSAUuniversity",
+     "verified_via": "official website footer",
+     "source_url": "https://www.psau.edu.sa/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/sauedusa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.psau.edu.sa/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/psau_edu_sa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.psau.edu.sa/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/psau_edu_sa",
+     "verified_via": "official website footer",
+     "source_url": "https://www.psau.edu.sa/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "scitech-al-khobar",
@@ -301133,8 +313021,8 @@ window.ATLASDATA={
    "cc": "SA",
    "city": "Riyadh",
    "address": "Riyadh, Saudi Arabia",
-   "lat": null,
-   "lon": null,
+   "lat": 24.7572556,
+   "lon": 46.5941321,
    "url": "https://saraj.sa/",
    "capacity": null,
    "exhibition_sqm": null,
@@ -301152,7 +313040,23 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/saraj.venue",
+     "verified_via": "official website footer",
+     "source_url": "https://saraj.sa/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/saraj.ksa",
+     "verified_via": "official website footer",
+     "source_url": "https://saraj.sa/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "svenska-massan",
@@ -301563,7 +313467,30 @@ window.ATLASDATA={
      "source_url": "https://slagthuset.se/"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/slagthusetnoje",
+     "verified_via": "official homepage social links",
+     "source_url": "https://slagthuset.se/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/slagthusetnoje",
+     "verified_via": "official homepage social links",
+     "source_url": "https://slagthuset.se/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/slagthusetnoje",
+     "verified_via": "official homepage social links",
+     "source_url": "https://slagthuset.se/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "lustikulla-konferens",
@@ -301642,7 +313569,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/SodraTeatern",
+     "verified_via": "official website footer",
+     "source_url": "https://sodrateatern.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/sodra_teatern",
+     "verified_via": "official website footer",
+     "source_url": "https://sodrateatern.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/s-dra-teatern-ab",
+     "verified_via": "official website footer",
+     "source_url": "https://sodrateatern.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "sands-expo-marina-bay-sands",
@@ -302063,7 +314013,51 @@ window.ATLASDATA={
      "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/fairmonthotels",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/fairmonthotels",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/fairmonthotels",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/fairmonthotels",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@fairmonthotels",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/fairmont-hotels-and-resorts",
+     "verified_via": "official Fairmont Singapore meetings page footer (hotel-attached convention centre)",
+     "source_url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore/meetings.html",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "capella-singapore",
@@ -302094,6 +314088,147 @@ window.ATLASDATA={
    "spaces": [],
    "documents": [],
    "hotel_name": "Capella Singapore"
+  },
+  {
+   "slug": "shangri-la-singapore",
+   "name": "Shangri-La Singapore",
+   "type": "hotel_conference_venue",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/",
+   "capacity": 1400,
+   "exhibition_sqm": null,
+   "halls": "Official event-spaces page: pillar-free Island Ballroom 1,357 sqm (26.3 × 51.6 m, ceiling 7.9 m), theatre 1,400, banquet 1,000, classroom 960, reception 1,200; official Tower Ballroom 934 sqm, theatre 900, banquet 590, classroom 648, reception 680.",
+   "description": "Shangri-La Singapore whose official event-spaces table lists the Island Ballroom at 1,357 m² and 1,400 theatre (stored as capacity_max_delegates). An official street address was not captured on the retrieved event-spaces page, so address is null. No official STB property-level star listing was retrieved, so star_rating is null. Fairmont Singapore / Raffles City Convention Centre is a separate already-listed convention-centre record and was not duplicated here.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Island Ballroom",
+     "type": null,
+     "area_sqm": 1357,
+     "capacity_max": 1400,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 960,
+     "capacity_banquet": 1000,
+     "capacity_reception": 1200,
+     "notes": null,
+     "source_url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/"
+    },
+    {
+     "name": "Island A",
+     "type": null,
+     "area_sqm": 705,
+     "capacity_max": null,
+     "capacity_theatre": 700,
+     "capacity_classroom": 450,
+     "capacity_banquet": 520,
+     "capacity_reception": 600,
+     "notes": null,
+     "source_url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/"
+    },
+    {
+     "name": "Island B",
+     "type": null,
+     "area_sqm": 652,
+     "capacity_max": null,
+     "capacity_theatre": 650,
+     "capacity_classroom": 450,
+     "capacity_banquet": 520,
+     "capacity_reception": 500,
+     "notes": null,
+     "source_url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/"
+    },
+    {
+     "name": "Tower Ballroom",
+     "type": null,
+     "area_sqm": 934,
+     "capacity_max": 900,
+     "capacity_theatre": 900,
+     "capacity_classroom": 648,
+     "capacity_banquet": 590,
+     "capacity_reception": 680,
+     "notes": null,
+     "source_url": "https://www.shangri-la.com/singapore/shangrila/meetings-events/event-spaces/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "the-ritz-carlton-millenia-singapore",
+   "name": "The Ritz-Carlton, Millenia Singapore",
+   "type": "hotel_conference_venue",
+   "country": "Singapore",
+   "cc": "SG",
+   "city": "Singapore",
+   "address": "7 Raffles Avenue, Marina Bay, Singapore 039799",
+   "lat": 1.2905344,
+   "lon": 103.8600739,
+   "url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/",
+   "capacity": 1400,
+   "exhibition_sqm": null,
+   "halls": "Official events-page schema.org: Grand Ballroom maximumAttendeeCapacity 1,400, floor 11,730 sq ft (stored as 1,090 m² converted); Junior Ballroom maximum 234; Grand Gallery A maximum 500. An outdoor swimming-pool listing on the same schema block was not stored as a conference space.",
+   "description": "Ritz-Carlton Millenia Singapore at official address 7 Raffles Avenue, Marina Bay, Singapore 039799. Official Grand Ballroom maximum 1,400 attendees (stored as capacity_max_delegates). star_rating null (no official STB property-level listing retrieved). An outdoor swimming-pool listing on the same schema block was not stored as a conference space.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1090,
+     "capacity_max": 1400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity 1,400; official floor 11,730 sq ft, converted to square metres.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/"
+    },
+    {
+     "name": "Junior Ballroom",
+     "type": null,
+     "area_sqm": 216,
+     "capacity_max": 234,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximum 234; 2,325 sq ft converted.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/"
+    },
+    {
+     "name": "Grand Gallery A",
+     "type": null,
+     "area_sqm": 507,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximum 500; 5,457 sq ft converted.",
+     "source_url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/events/"
+    }
+   ],
+   "documents": [],
+   "hotel_name": "The Ritz-Carlton, Millenia Singapore"
   },
   {
    "slug": "gospodarsko-razstavisce",
@@ -302399,6 +314534,75 @@ window.ATLASDATA={
      "url": "https://www.youtube.com/user/inchebaexpoba",
      "verified_via": "official website footer",
      "source_url": "https://www.incheba.sk/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "cicad-diamniadio",
+   "name": "Centre International de Conférences Abdou Diouf (CICAD)",
+   "type": "convention_centre",
+   "country": "Senegal",
+   "cc": "SN",
+   "city": "Diamniadio",
+   "address": "Diamniadio, Senegal",
+   "lat": null,
+   "lon": null,
+   "url": "https://cicad.sn/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Official APIX-S.A. (Agence Nationale pour la Promotion de l'Investissement et des Grands Travaux du Sénégal) project page. CICAD is described as a modern conference complex at Diamniadio, named after former President Abdou Diouf, with meeting rooms, exhibition rooms and multipurpose spaces and audiovisual facilities. The official APIX page fetched in this pass does not publish numeric hall capacities or areas, so those fields are null. Third-party encyclopaedia figures were not used. APIX contact details on the same site (52–54 Rue Mohamed V, [email removed]) are the agency's offices in Dakar, not stored as the venue address or email.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://investinsenegal.sn/projets_realises/cicad/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/apixsaofficiel",
+     "operator": "APIX",
+     "verified_via": "official Invest in Senegal / APIX project page footer",
+     "source_url": "https://investinsenegal.sn/projets_realises/cicad/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/APIXSAofficiel",
+     "operator": "APIX",
+     "verified_via": "official Invest in Senegal / APIX project page footer",
+     "source_url": "https://investinsenegal.sn/projets_realises/cicad/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/apix_s.a",
+     "operator": "APIX",
+     "verified_via": "official Invest in Senegal / APIX project page footer",
+     "source_url": "https://investinsenegal.sn/projets_realises/cicad/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/apix-sa-officiel",
+     "operator": "APIX",
+     "verified_via": "official Invest in Senegal / APIX project page footer",
+     "source_url": "https://investinsenegal.sn/projets_realises/cicad/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@apixsaofficiel",
+     "operator": "APIX",
+     "verified_via": "official Invest in Senegal / APIX project page footer",
+     "source_url": "https://investinsenegal.sn/projets_realises/cicad/",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -302826,7 +315030,37 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/RoyalParagonHall",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.paragonhall.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/ParagonHall",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.paragonhall.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/paragon_hall",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.paragonhall.com/en",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/paragon.hall",
+     "verified_via": "official homepage social links",
+     "source_url": "https://www.paragonhall.com/en",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "true-digital-park-west",
@@ -302855,7 +315089,320 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/TrueDigitalPark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/truedigitalpark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/true-digital-park",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/TDigitalpark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/c/TrueDigitalPark",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@truedigitalparkbkk",
+     "verified_via": "official website footer",
+     "source_url": "https://www.truedigitalpark.com/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "centara-grand-and-bangkok-convention-centre-at-centralworld",
+   "name": "Centara Grand & Bangkok Convention Centre at CentralWorld",
+   "type": "hotel_conference_venue",
+   "country": "Thailand",
+   "cc": "TH",
+   "city": "Bangkok",
+   "address": "999/99 Rama 1 Road, Pathumwan, Bangkok 10330",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.centarahotelsresorts.com/centaragrand/cgcw/bangkok-convention-centre",
+   "capacity": 5000,
+   "exhibition_sqm": 5250,
+   "halls": "Official 2025 brochure charts the Level 22 Convention Centre (combined and sections), World Ballroom and sections, and Lotus Suites 1–12, plus pre-function areas.",
+   "description": "Official 2025 brochure and official BCC webpage: Level 22 Convention Centre 5,250 m², theatre 5,000, classroom 2,500, banquet 3,800, cocktail 7,000. Official webpage also states a 'total capacity of 5,000 persons' and, in another sentence, a 'maximum capacity of 7,000 persons' (matching official cocktail). capacity_max_delegates stores the official 5,000-person / theatre figure; the 7,000 cocktail figure is in spaces[]. No official Thai property-level star listing was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.centarahotelsresorts.com/centaragrand/cgcw/bangkok-convention-centre",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Convention Centre (Level 22, combined)",
+     "type": null,
+     "area_sqm": 5250,
+     "capacity_max": 7000,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 2500,
+     "capacity_banquet": 3800,
+     "capacity_reception": 7000,
+     "notes": "Official 2025 brochure chart: 5,250 m² / 80.4 x 65.3 m, height 13.50 m; classroom 2,500; theatre 5,000; banquet 3,800; cocktail 7,000. Official webpage: 'total space of 5250 square metres' and 'total capacity of 5,000 persons', and elsewhere 'spans over 5,250 square metres, has a maximum capacity of 7,000 persons' (the 7,000 matches the official cocktail figure).",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Convention Centre A1",
+     "type": null,
+     "area_sqm": 1900,
+     "capacity_max": 2200,
+     "capacity_theatre": 1700,
+     "capacity_classroom": 900,
+     "capacity_banquet": 1200,
+     "capacity_reception": 2200,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Convention Centre B1",
+     "type": null,
+     "area_sqm": 3350,
+     "capacity_max": 4800,
+     "capacity_theatre": 3300,
+     "capacity_classroom": 1600,
+     "capacity_banquet": 2600,
+     "capacity_reception": 4800,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Convention Centre A2 or B2",
+     "type": null,
+     "area_sqm": 2625,
+     "capacity_max": 3500,
+     "capacity_theatre": 2500,
+     "capacity_classroom": 1250,
+     "capacity_banquet": 1900,
+     "capacity_reception": 3500,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Pre-Function (Level 22)",
+     "type": null,
+     "area_sqm": 1290,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 1000,
+     "notes": "Official chart cocktail 1,000; theatre/classroom/banquet marked as dashes.",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "World Ballroom",
+     "type": null,
+     "area_sqm": 960,
+     "capacity_max": 1200,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 580,
+     "capacity_banquet": 700,
+     "capacity_reception": 1200,
+     "notes": "Official brochure and official webpage (960 square metres; webpage maximum capacity 1,200 persons).",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "World Ballroom A / C",
+     "type": null,
+     "area_sqm": 242,
+     "capacity_max": 300,
+     "capacity_theatre": 250,
+     "capacity_classroom": 140,
+     "capacity_banquet": 170,
+     "capacity_reception": 300,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "World Ballroom B",
+     "type": null,
+     "area_sqm": 476,
+     "capacity_max": 600,
+     "capacity_theatre": 500,
+     "capacity_classroom": 220,
+     "capacity_banquet": 350,
+     "capacity_reception": 600,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Pre-Function (Level 23)",
+     "type": null,
+     "area_sqm": 706,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 500,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 1–4 (combined)",
+     "type": null,
+     "area_sqm": 412,
+     "capacity_max": 550,
+     "capacity_theatre": 380,
+     "capacity_classroom": 200,
+     "capacity_banquet": 300,
+     "capacity_reception": 550,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 1 / 2 / 3 / 4 (each)",
+     "type": null,
+     "area_sqm": 103,
+     "capacity_max": 120,
+     "capacity_theatre": 90,
+     "capacity_classroom": 50,
+     "capacity_banquet": 80,
+     "capacity_reception": 120,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 5–7 (combined)",
+     "type": null,
+     "area_sqm": 412,
+     "capacity_max": 550,
+     "capacity_theatre": 380,
+     "capacity_classroom": 200,
+     "capacity_banquet": 300,
+     "capacity_reception": 550,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 5 / 6 (each)",
+     "type": null,
+     "area_sqm": 103,
+     "capacity_max": 120,
+     "capacity_theatre": 90,
+     "capacity_classroom": 50,
+     "capacity_banquet": 80,
+     "capacity_reception": 120,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 7",
+     "type": null,
+     "area_sqm": 206,
+     "capacity_max": 250,
+     "capacity_theatre": 190,
+     "capacity_classroom": 100,
+     "capacity_banquet": 160,
+     "capacity_reception": 250,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 8",
+     "type": null,
+     "area_sqm": 58,
+     "capacity_max": 40,
+     "capacity_theatre": 40,
+     "capacity_classroom": 20,
+     "capacity_banquet": 20,
+     "capacity_reception": 30,
+     "notes": "Official chart theatre 40, cocktail 30, classroom 20, banquet 20. capacity_max is the largest published layout (theatre 40).",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 9",
+     "type": null,
+     "area_sqm": 80,
+     "capacity_max": 100,
+     "capacity_theatre": 70,
+     "capacity_classroom": 40,
+     "capacity_banquet": 70,
+     "capacity_reception": 100,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 10",
+     "type": null,
+     "area_sqm": 100,
+     "capacity_max": 140,
+     "capacity_theatre": 100,
+     "capacity_classroom": 60,
+     "capacity_banquet": 80,
+     "capacity_reception": 140,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 11",
+     "type": null,
+     "area_sqm": 110,
+     "capacity_max": 150,
+     "capacity_theatre": 110,
+     "capacity_classroom": 60,
+     "capacity_banquet": 100,
+     "capacity_reception": 150,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    },
+    {
+     "name": "Lotus Suite 12",
+     "type": null,
+     "area_sqm": 95,
+     "capacity_max": 110,
+     "capacity_theatre": 80,
+     "capacity_classroom": 50,
+     "capacity_banquet": 80,
+     "capacity_reception": 110,
+     "notes": null,
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Centara Grand & Bangkok Convention Centre at CentralWorld brochure 2025",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf",
+     "href": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "parc-des-expositions-du-kram",
@@ -302935,7 +315482,30 @@ window.ATLASDATA={
      "source_url": "https://fkram.com.tn/spaces.php?lang=fr"
     }
    ],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/foiredukram",
+     "verified_via": "official website JSON-LD sameAs and footer",
+     "source_url": "https://fkram.com.tn/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/soci%C3%A9t%C3%A9-des-foires-internationales-de-tunis",
+     "verified_via": "official website JSON-LD sameAs and footer",
+     "source_url": "https://fkram.com.tn/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/@foiresdukram",
+     "verified_via": "official website JSON-LD sameAs and footer",
+     "source_url": "https://fkram.com.tn/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "tuyap-fair-congress-center-istanbul",
@@ -303540,7 +316110,16 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/acdp.tw",
+     "verified_via": "official Expo Park / foundation website footer",
+     "source_url": "https://www.expopark.taipei/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "kaohsiung-exhibition-center",
@@ -303590,8 +316169,8 @@ window.ATLASDATA={
    "cc": "TW",
    "city": "Taipei",
    "address": "128 Section 2, Academia Road, Nankang, Taipei 115201, Taiwan",
-   "lat": null,
-   "lon": null,
+   "lat": 25.042239,
+   "lon": 121.616153,
    "url": "https://www.sinica.edu.tw/en/paragraph/10",
    "capacity": null,
    "exhibition_sqm": null,
@@ -303610,7 +316189,200 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/sinicaedu",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sinica.edu.tw/en/paragraph/10",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/academiasinica_official",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sinica.edu.tw/en/paragraph/10",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/AcadSinica",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sinica.edu.tw/en/paragraph/10",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/channel/UCPk594oZYMU4Eak7By5wHyQ",
+     "verified_via": "official website footer",
+     "source_url": "https://www.sinica.edu.tw/en/paragraph/10",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "arusha-international-conference-centre",
+   "name": "Arusha International Conference Centre (AICC)",
+   "type": "convention_centre",
+   "country": "Tanzania",
+   "cc": "TZ",
+   "city": "Arusha",
+   "address": "P.O. Box 3081, Arusha, Tanzania",
+   "lat": -3.3678536,
+   "lon": 36.6965135,
+   "url": "https://www.aicc.co.tz/venues",
+   "capacity": 1350,
+   "exhibition_sqm": null,
+   "halls": "Official venues and facilities pages: 26 meeting rooms, seating from 10 in break-out rooms to 1,350 delegates in the main auditorium (Simba Plenary Hall, stored as capacity_max_delegates). Official Mbayuwayu Hall 290 delegates; Jumuiya Executive Board Room 12 executive chairs; Manyara Hall 40/55 delegates depending on configuration (range, not stored as a single capacity).",
+   "description": "Official Arusha International Conference Centre, a Government of Tanzania institution, at official contact address P.O. Box 3081, Arusha; [email removed]. Official Simba Plenary Hall 1,350 delegates. A street address was not published on the retrieved venues page, so the official PO Box is stored. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.aicc.co.tz/venues",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.aicc.co.tz/services/conference-venues-facilities",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.aicc.co.tz/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Simba Plenary Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1350,
+     "capacity_theatre": 1350,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page: 1,350 delegates. Official facilities page: 1,350 delegates in the main auditorium.",
+     "source_url": "https://www.aicc.co.tz/venues"
+    },
+    {
+     "name": "Mbayuwayu Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 290,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venues page: 290 delegates.",
+     "source_url": "https://www.aicc.co.tz/venues"
+    },
+    {
+     "name": "Jumuiya Executive Board Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 12,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 12 executive chairs, plus support staff.",
+     "source_url": "https://www.aicc.co.tz/venues"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aicc_jnicc",
+     "verified_via": "official AICC website footer",
+     "source_url": "https://www.aicc.co.tz/venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aicc_jnicc",
+     "verified_via": "official AICC website footer",
+     "source_url": "https://www.aicc.co.tz/venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/aicc_jnicc",
+     "verified_via": "official AICC website footer",
+     "source_url": "https://www.aicc.co.tz/venues",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aicc_jnicc",
+     "verified_via": "official AICC website footer",
+     "source_url": "https://www.aicc.co.tz/venues",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "julius-nyerere-international-convention-centre",
+   "name": "Julius Nyerere International Convention Centre (JNICC)",
+   "type": "convention_centre",
+   "country": "Tanzania",
+   "cc": "TZ",
+   "city": "Dar es Salaam",
+   "address": null,
+   "lat": -6.8110234,
+   "lon": 39.2922162,
+   "url": "https://www.aicc.co.tz/institutes/JNICC",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official AICC venues and JNICC pages describe a state-of-the-art convention centre in Dar es Salaam and name Selous Hall, without publishing a retrieved official capacity or hall-area schedule. The official P.O. Box 3081 contact printed on those pages is the Arusha headquarters address and is not stored as the Dar es Salaam venue address.",
+   "description": "Official Julius Nyerere International Convention Centre in Dar es Salaam, operated with the Arusha International Conference Centre. Official hall capacities were not published on the retrieved official pages, so numeric fields are null. No atlas events are linked.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.aicc.co.tz/institutes/JNICC",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.aicc.co.tz/venues",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/aicc_jnicc",
+     "verified_via": "official AICC website footer (JNICC institute page)",
+     "source_url": "https://www.aicc.co.tz/institutes/JNICC",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/aicc_jnicc",
+     "verified_via": "official AICC website footer (JNICC institute page)",
+     "source_url": "https://www.aicc.co.tz/institutes/JNICC",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/aicc_jnicc",
+     "verified_via": "official AICC website footer (JNICC institute page)",
+     "source_url": "https://www.aicc.co.tz/institutes/JNICC",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/aicc_jnicc",
+     "verified_via": "official AICC website footer (JNICC institute page)",
+     "source_url": "https://www.aicc.co.tz/institutes/JNICC",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "international-exhibition-centre-kyiv",
@@ -305960,6 +318732,7302 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "hilton-chicago",
+   "name": "Hilton Chicago",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Chicago",
+   "address": "720 South Michigan Avenue, Chicago, IL 60605, United States",
+   "lat": 41.8725091,
+   "lon": -87.6251131,
+   "url": "https://www.hiltonchicagomeetings.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official meetings microsite and fact sheet: over 234,000 sq. ft. of flexible meeting and event space (“over”, not stored as exhibition_sqm); official fact sheet: ballrooms range between 10,080 and 21,996 sq. ft. Official second-floor capacity chart (square-metres column clearly labelled): Grand Ballroom 1,174.29 m² (12,640 sq ft); International Ballroom 2,043.50 m² (21,996 sq ft). Capacity-column labels on the extracted chart were not unambiguous enough to store theatre/reception figures without guessing, so those numeric capacities are left null and the official chart is stored as a document.",
+   "description": "Major Chicago convention-city hotel at 720 South Michigan Avenue. Official International Ballroom 2,043.50 m² and Grand Ballroom 1,174.29 m² are stored from the official second-floor capacity chart’s square-metres column. No official US government hotel-classification listing applies in the same way as Hotelstars, so star_rating is null. Official sales email [email removed].",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.hiltonchicagomeetings.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "International Ballroom",
+     "type": null,
+     "area_sqm": 2043.5,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official second-floor chart: 21,996 sq ft / 2,043.50 m². Theatre and reception columns were not stored because the extracted header alignment was not unambiguous.",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 1174.29,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official second-floor chart: 12,640 sq ft / 1,174.29 m².",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf"
+    },
+    {
+     "name": "International North",
+     "type": null,
+     "area_sqm": 1244.44,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: 13,395 sq ft / 1,244.44 m².",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf"
+    },
+    {
+     "name": "International South",
+     "type": null,
+     "area_sqm": 799.06,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official chart: 8,601 sq ft / 799.06 m².",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Hilton Chicago second-floor capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf",
+     "href": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf",
+     "local": false
+    },
+    {
+     "title": "Hilton Chicago fact sheet",
+     "doc_type": "factsheet",
+     "language": "en",
+     "source_url": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
+     "href": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "new-york-marriott-marquis",
+   "name": "New York Marriott Marquis",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "New York",
+   "address": "1535 Broadway, New York, NY 10036",
+   "lat": 40.758855,
+   "lon": -73.985869,
+   "url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/overview/",
+   "capacity": 2800,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 84 named meeting-room entries, including combined layouts. The largest is Broadway Ballroom Entire w/Balcony, Stage, Majestic & Shubert Complex.",
+   "description": "Official Marriott events schema: Broadway Ballroom Entire w/Balcony, Stage, Majestic & Shubert Complex maximumAttendeeCapacity 2,800 and 28,258 sq ft (2,626 m²). Westside Ballroom Entire maximumAttendeeCapacity 2,401 and 21,550 sq ft (2,002 m²). Schema maximumAttendeeCapacity is not labelled as theatre. No official US property-level star classification was retrieved, so star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Actors 1 & Actors 2 (Combined)",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Actors 2",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 30,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Actors 1",
+     "type": null,
+     "area_sqm": 104,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Producers",
+     "type": null,
+     "area_sqm": 81,
+     "capacity_max": 40,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Playwright Pre-Function",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Playwright Ballroom",
+     "type": null,
+     "area_sqm": 337,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "16th Floor Skylobby",
+     "type": null,
+     "area_sqm": 254,
+     "capacity_max": 240,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "9th Floor Terrace",
+     "type": null,
+     "area_sqm": 489,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Cantor & Jolson (Combined)",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 185,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Jolson",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": 91,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Cantor",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 102,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Barrymore",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis B & C",
+     "type": null,
+     "area_sqm": 317,
+     "capacity_max": 315,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis A & B",
+     "type": null,
+     "area_sqm": 237,
+     "capacity_max": 214,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis C",
+     "type": null,
+     "area_sqm": 201,
+     "capacity_max": 225,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis B",
+     "type": null,
+     "area_sqm": 118,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis A",
+     "type": null,
+     "area_sqm": 116,
+     "capacity_max": 85,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Marquis Ballroom",
+     "type": null,
+     "area_sqm": 436,
+     "capacity_max": 409,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Lounge",
+     "type": null,
+     "area_sqm": 557,
+     "capacity_max": 1000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Harlem",
+     "type": null,
+     "area_sqm": 83,
+     "capacity_max": 83,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Gotham",
+     "type": null,
+     "area_sqm": 92,
+     "capacity_max": 85,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Chelsea",
+     "type": null,
+     "area_sqm": 55,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Hudson",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Empire",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Empire Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 349,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Olmstead",
+     "type": null,
+     "area_sqm": 89,
+     "capacity_max": 85,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Gramercy",
+     "type": null,
+     "area_sqm": 55,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Herald",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Soho",
+     "type": null,
+     "area_sqm": 59,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Soho Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 346,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Columbia",
+     "type": null,
+     "area_sqm": 49,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Duffy",
+     "type": null,
+     "area_sqm": 62,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Duffy & Columbia (Combined)",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 129,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Astor & Pre-Function (Combined)",
+     "type": null,
+     "area_sqm": 525,
+     "capacity_max": 600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Astor Pre-Function",
+     "type": null,
+     "area_sqm": 101,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Astor Ballroom",
+     "type": null,
+     "area_sqm": 423,
+     "capacity_max": 506,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "7th Floor Pre-Function",
+     "type": null,
+     "area_sqm": 441,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom Balcony",
+     "type": null,
+     "area_sqm": 477,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Royale",
+     "type": null,
+     "area_sqm": 56,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Plymouth",
+     "type": null,
+     "area_sqm": 50,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Uris",
+     "type": null,
+     "area_sqm": 51,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Shubert",
+     "type": null,
+     "area_sqm": 39,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Shubert Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 310,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Palace",
+     "type": null,
+     "area_sqm": 53,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Winter Garden",
+     "type": null,
+     "area_sqm": 51,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Music Box",
+     "type": null,
+     "area_sqm": 49,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Majestic",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Majestic Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 307,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom Pre-Function",
+     "type": null,
+     "area_sqm": 1157,
+     "capacity_max": 600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom Stage",
+     "type": null,
+     "area_sqm": 348,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom South Entire (Including Majestic Complex)",
+     "type": null,
+     "area_sqm": 896,
+     "capacity_max": 1250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom South Center",
+     "type": null,
+     "area_sqm": 592,
+     "capacity_max": 900,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom North Entire (Including Shubert Complex)",
+     "type": null,
+     "area_sqm": 899,
+     "capacity_max": 1250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom North Center",
+     "type": null,
+     "area_sqm": 593,
+     "capacity_max": 900,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom North & South Center (Excluding Balcony & Stage)",
+     "type": null,
+     "area_sqm": 1220,
+     "capacity_max": 1700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadway Ballroom Entire w/Balcony, Stage, Majestic & Shubert Complex",
+     "type": null,
+     "area_sqm": 2625,
+     "capacity_max": 2800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Belasco",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Broadhurst",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Imperial",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Juilliard",
+     "type": null,
+     "area_sqm": 55,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Juilliard Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 370,
+     "capacity_max": 373,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Booth",
+     "type": null,
+     "area_sqm": 79,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Edison",
+     "type": null,
+     "area_sqm": 66,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Alvin",
+     "type": null,
+     "area_sqm": 67,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Carnegie",
+     "type": null,
+     "area_sqm": 67,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Lyceum",
+     "type": null,
+     "area_sqm": 56,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Lyceum Complex (Including Corridor)",
+     "type": null,
+     "area_sqm": 449,
+     "capacity_max": 420,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "5th Floor Pre-function",
+     "type": null,
+     "area_sqm": 524,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 4",
+     "type": null,
+     "area_sqm": 309,
+     "capacity_max": 336,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 3",
+     "type": null,
+     "area_sqm": 288,
+     "capacity_max": 336,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside South Center (Salons 3 & 4)",
+     "type": null,
+     "area_sqm": 598,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside South Entire (Salons 3, 4 & Lyceum Complex)",
+     "type": null,
+     "area_sqm": 1035,
+     "capacity_max": 1212,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 2",
+     "type": null,
+     "area_sqm": 310,
+     "capacity_max": 336,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 1",
+     "type": null,
+     "area_sqm": 289,
+     "capacity_max": 336,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside North Center (Salons 1 & 2)",
+     "type": null,
+     "area_sqm": 600,
+     "capacity_max": 700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside Ballroom North Entire (Salons 1, 2 & Juilliard Complex)",
+     "type": null,
+     "area_sqm": 967,
+     "capacity_max": 1200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside Ballroom North & South Centers (Combined)",
+     "type": null,
+     "area_sqm": 1186,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Westside Ballroom Entire",
+     "type": null,
+     "area_sqm": 2002,
+     "capacity_max": 2401,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "O'Neill",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Ziegfeld",
+     "type": null,
+     "area_sqm": 110,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Brecht",
+     "type": null,
+     "area_sqm": 53,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Wilder",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Odets",
+     "type": null,
+     "area_sqm": 113,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    },
+    {
+     "name": "Gilbert",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/nycmq-new-york-marriott-marquis/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "san-francisco-marriott-marquis",
+   "name": "San Francisco Marriott Marquis",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "San Francisco",
+   "address": "780 Mission Street, San Francisco, CA 94103",
+   "lat": 37.785004,
+   "lon": -122.403901,
+   "url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/overview/",
+   "capacity": 5500,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 108 named meeting-room entries, including combined layouts. The largest is Yerba Buena Ballroom.",
+   "description": "Official Marriott events schema: Yerba Buena Ballroom maximumAttendeeCapacity 5,500 and 39,621 sq ft (3,681 m²). Golden Gate Ballroom maximumAttendeeCapacity 2,375 and 22,563 sq ft (2,096 m²). Schema maximumAttendeeCapacity is not labelled as theatre. star_rating is null; no official US property-level classification was retrieved.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The District",
+     "type": null,
+     "area_sqm": 243,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra Meeting Rooms (5th Floor)",
+     "type": null,
+     "area_sqm": 76,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific Meeting Rooms (4th Floor)",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill A-C",
+     "type": null,
+     "area_sqm": 195,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate Registration Desks",
+     "type": null,
+     "area_sqm": 28,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "South Registration B",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "South Registration A",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "North Registration B",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "North Registration A",
+     "type": null,
+     "area_sqm": 42,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "SoMa",
+     "type": null,
+     "area_sqm": 351,
+     "capacity_max": 210,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra I-J",
+     "type": null,
+     "area_sqm": 163,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra G-H",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra A-B",
+     "type": null,
+     "area_sqm": 171,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific I-J",
+     "type": null,
+     "area_sqm": 226,
+     "capacity_max": 256,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific A-B",
+     "type": null,
+     "area_sqm": 171,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific G-H",
+     "type": null,
+     "area_sqm": 179,
+     "capacity_max": 188,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "South Registration",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "North Registration",
+     "type": null,
+     "area_sqm": 84,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 13-15",
+     "type": null,
+     "area_sqm": 231,
+     "capacity_max": 330,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 10-12",
+     "type": null,
+     "area_sqm": 231,
+     "capacity_max": 330,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 14-15",
+     "type": null,
+     "area_sqm": 154,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 12-13",
+     "type": null,
+     "area_sqm": 154,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 10-11",
+     "type": null,
+     "area_sqm": 154,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 8-9",
+     "type": null,
+     "area_sqm": 1960,
+     "capacity_max": 2775,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 7-8",
+     "type": null,
+     "area_sqm": 1627,
+     "capacity_max": 2325,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 4-6",
+     "type": null,
+     "area_sqm": 233,
+     "capacity_max": 330,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 5-6",
+     "type": null,
+     "area_sqm": 155,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 3-4",
+     "type": null,
+     "area_sqm": 155,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 1-3",
+     "type": null,
+     "area_sqm": 232,
+     "capacity_max": 330,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 1-2",
+     "type": null,
+     "area_sqm": 155,
+     "capacity_max": 220,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra K",
+     "type": null,
+     "area_sqm": 80,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra J",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra I",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra H",
+     "type": null,
+     "area_sqm": 81,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra G",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra F",
+     "type": null,
+     "area_sqm": 53,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra E",
+     "type": null,
+     "area_sqm": 61,
+     "capacity_max": 68,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra D",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra C",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra B",
+     "type": null,
+     "area_sqm": 86,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Sierra A",
+     "type": null,
+     "area_sqm": 85,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific J",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 128,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific I",
+     "type": null,
+     "area_sqm": 115,
+     "capacity_max": 128,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific H",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 128,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific G",
+     "type": null,
+     "area_sqm": 67,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific F",
+     "type": null,
+     "area_sqm": 53,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific E",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 68,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific D",
+     "type": null,
+     "area_sqm": 62,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific C",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific B",
+     "type": null,
+     "area_sqm": 86,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Pacific A",
+     "type": null,
+     "area_sqm": 85,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Second Level combined (Atrium, SoMa, Foothill Meeting Rooms)",
+     "type": null,
+     "area_sqm": 1688,
+     "capacity_max": 1200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "SoMa and Atrium combined",
+     "type": null,
+     "area_sqm": 826,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill C",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 310,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Atrium",
+     "type": null,
+     "area_sqm": 475,
+     "capacity_max": 500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill Foyer",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": 275,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill J",
+     "type": null,
+     "area_sqm": 50,
+     "capacity_max": 46,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill I",
+     "type": null,
+     "area_sqm": 20,
+     "capacity_max": 8,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill H",
+     "type": null,
+     "area_sqm": 48,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill G2",
+     "type": null,
+     "area_sqm": 67,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill G1",
+     "type": null,
+     "area_sqm": 88,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill G (G1-G2 combined)",
+     "type": null,
+     "area_sqm": 155,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill F",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": 111,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill E",
+     "type": null,
+     "area_sqm": 98,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill D",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 85,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill B",
+     "type": null,
+     "area_sqm": 55,
+     "capacity_max": 61,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Foothill A",
+     "type": null,
+     "area_sqm": 53,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "The View",
+     "type": null,
+     "area_sqm": 433,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Willow",
+     "type": null,
+     "area_sqm": 56,
+     "capacity_max": 72,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Walnut",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 65,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Laurel",
+     "type": null,
+     "area_sqm": 46,
+     "capacity_max": 55,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Juniper",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate Prefunction",
+     "type": null,
+     "area_sqm": 875,
+     "capacity_max": 995,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate C3",
+     "type": null,
+     "area_sqm": 220,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate C2",
+     "type": null,
+     "area_sqm": 235,
+     "capacity_max": 270,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate C1",
+     "type": null,
+     "area_sqm": 214,
+     "capacity_max": 245,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate C (inc. Corridor)",
+     "type": null,
+     "area_sqm": 770,
+     "capacity_max": 875,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate A-B (combined)",
+     "type": null,
+     "area_sqm": 1326,
+     "capacity_max": 1505,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate B",
+     "type": null,
+     "area_sqm": 626,
+     "capacity_max": 710,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate A",
+     "type": null,
+     "area_sqm": 700,
+     "capacity_max": 795,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Golden Gate Ballroom",
+     "type": null,
+     "area_sqm": 2096,
+     "capacity_max": 2375,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Yerba Buena Grand Assembly",
+     "type": null,
+     "area_sqm": 1582,
+     "capacity_max": 1650,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill CD",
+     "type": null,
+     "area_sqm": 131,
+     "capacity_max": 180,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill AB",
+     "type": null,
+     "area_sqm": 131,
+     "capacity_max": 180,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill D",
+     "type": null,
+     "area_sqm": 66,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill C",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill B",
+     "type": null,
+     "area_sqm": 65,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill A",
+     "type": null,
+     "area_sqm": 66,
+     "capacity_max": 90,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Nob Hill",
+     "type": null,
+     "area_sqm": 263,
+     "capacity_max": 360,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 10-15 (combined)",
+     "type": null,
+     "area_sqm": 462,
+     "capacity_max": 720,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 15",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 14",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 13",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 12",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 11",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 10",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 7-9 combined",
+     "type": null,
+     "area_sqm": 2757,
+     "capacity_max": 3925,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 9",
+     "type": null,
+     "area_sqm": 1130,
+     "capacity_max": 1600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 8",
+     "type": null,
+     "area_sqm": 829,
+     "capacity_max": 1175,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 7",
+     "type": null,
+     "area_sqm": 798,
+     "capacity_max": 1150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salons 1-6 (combined)",
+     "type": null,
+     "area_sqm": 465,
+     "capacity_max": 720,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 6",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 5",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 4",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 3",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 2",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Salon 1",
+     "type": null,
+     "area_sqm": 77,
+     "capacity_max": 110,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    },
+    {
+     "name": "Yerba Buena Ballroom",
+     "type": null,
+     "area_sqm": 3681,
+     "capacity_max": 5500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/sfodt-san-francisco-marriott-marquis/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "orlando-world-center-marriott",
+   "name": "Orlando World Center Marriott",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Orlando",
+   "address": "8701 World Center Drive, Orlando, FL 32821",
+   "lat": 28.360086,
+   "lon": -81.508582,
+   "url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/overview/",
+   "capacity": 10000,
+   "exhibition_sqm": null,
+   "halls": "Official Marriott events-page schema.org lists 168 named meeting-room entries, including combined layouts. The largest is Cypress Ballroom.",
+   "description": "Official Marriott events schema: Cypress Ballroom maximumAttendeeCapacity 10,000 and 105,000 sq ft (9,755 m²). Palms Ballroom 5,000 / 49,215 sq ft (4,572 m²); Crystal Ballroom 4,500 / 39,500 sq ft (3,669 m²); Grand Ballroom 4,200 / 37,369 sq ft (3,472 m²). Schema maximumAttendeeCapacity is not labelled as theatre. Official events schema telephone +1 407-239-4200. star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Canary 4",
+     "type": null,
+     "area_sqm": 166,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Canary 3",
+     "type": null,
+     "area_sqm": 166,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Canary 2",
+     "type": null,
+     "area_sqm": 166,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 22, 23, 24 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 19, 20, 21 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 16, 17, 18 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 13, 14, 15 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 10, 11, 12 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 7, 8, 9 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 4, 5, 6 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 1, 2, 3 (combined)",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 363,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 23-24 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 22-23 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 20-21 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 19-20 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 17-18 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 16-17 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 14-15 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 13–14 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 11-12 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 10-11 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 8-9 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 7-8 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 5-6 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 4-5 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 2-3 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 1-2 (combined)",
+     "type": null,
+     "area_sqm": 224,
+     "capacity_max": 242,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 24",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 23",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 22",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 21",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 20",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 19",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 18",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 17",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 16",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 15",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 14",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 13",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 12",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 11",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 10",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 9",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 8",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 7",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 6",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 5",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 4",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 3",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 2",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 119,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Magnolia Room 1",
+     "type": null,
+     "area_sqm": 112,
+     "capacity_max": 130,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Jade South",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Jade East",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Diamond South",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Diamond East",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Emerald South",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Emerald East",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Key West",
+     "type": null,
+     "area_sqm": 113,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Key Largo",
+     "type": null,
+     "area_sqm": 68,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Key Biscayne",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand Cayman, Puerto Rico, St. Thomas & West Indies (combined)",
+     "type": null,
+     "area_sqm": 256,
+     "capacity_max": 270,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand Cayman, Puerto Rico & St. Thomas",
+     "type": null,
+     "area_sqm": 193,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Aruba & Bahamas (or any 2 sections combined)",
+     "type": null,
+     "area_sqm": 128,
+     "capacity_max": 125,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "West Indies",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "St. Thomas",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Puerto Rico",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand Cayman",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Bahamas",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Aruba",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Harbor Beach, Marco Island & Sawgrass (or any 3 sections combined)",
+     "type": null,
+     "area_sqm": 509,
+     "capacity_max": 600,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Harbor Beach & Marco Island (or any 2 sections combined)",
+     "type": null,
+     "area_sqm": 331,
+     "capacity_max": 400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Vinoy",
+     "type": null,
+     "area_sqm": 164,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Sawgrass",
+     "type": null,
+     "area_sqm": 164,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Marco Island",
+     "type": null,
+     "area_sqm": 164,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Harbor Beach",
+     "type": null,
+     "area_sqm": 164,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Florida Ballroom",
+     "type": null,
+     "area_sqm": 662,
+     "capacity_max": 800,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 2 & 3 (combined)",
+     "type": null,
+     "area_sqm": 6689,
+     "capacity_max": 7700,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 1 & 2 (combined)",
+     "type": null,
+     "area_sqm": 6371,
+     "capacity_max": 5710,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 3",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": 3970,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 2",
+     "type": null,
+     "area_sqm": 3345,
+     "capacity_max": 3970,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 1A",
+     "type": null,
+     "area_sqm": 2202,
+     "capacity_max": 2640,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress 1",
+     "type": null,
+     "area_sqm": 3026,
+     "capacity_max": 3300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Cypress Ballroom",
+     "type": null,
+     "area_sqm": 9755,
+     "capacity_max": 10000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Royal, Sabal & Sago (combined)",
+     "type": null,
+     "area_sqm": 3558,
+     "capacity_max": 4100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Royal & Sabal (combined)",
+     "type": null,
+     "area_sqm": 2419,
+     "capacity_max": 2650,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Sabal & Sago (combined)",
+     "type": null,
+     "area_sqm": 2357,
+     "capacity_max": 2350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Canary & Royal (combined)",
+     "type": null,
+     "area_sqm": 2357,
+     "capacity_max": 2350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Sago",
+     "type": null,
+     "area_sqm": 1108,
+     "capacity_max": 1200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Sabal",
+     "type": null,
+     "area_sqm": 1187,
+     "capacity_max": 1300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Royal",
+     "type": null,
+     "area_sqm": 1187,
+     "capacity_max": 1300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Canary 1",
+     "type": null,
+     "area_sqm": 166,
+     "capacity_max": 200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Canary",
+     "type": null,
+     "area_sqm": 1085,
+     "capacity_max": 1200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Palms Ballroom",
+     "type": null,
+     "area_sqm": 4572,
+     "capacity_max": 5000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal K-Q",
+     "type": null,
+     "area_sqm": 417,
+     "capacity_max": 515,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal Q",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal P",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal N",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal M",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal L",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal K",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal G, H & J (combined)",
+     "type": null,
+     "area_sqm": 2815,
+     "capacity_max": 3390,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal G&H or H&J (combined)",
+     "type": null,
+     "area_sqm": 1888,
+     "capacity_max": 2340,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal J2",
+     "type": null,
+     "area_sqm": 630,
+     "capacity_max": 710,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal J1",
+     "type": null,
+     "area_sqm": 308,
+     "capacity_max": 335,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal J",
+     "type": null,
+     "area_sqm": 938,
+     "capacity_max": 1100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal H",
+     "type": null,
+     "area_sqm": 938,
+     "capacity_max": 1100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal G2",
+     "type": null,
+     "area_sqm": 630,
+     "capacity_max": 710,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal G1",
+     "type": null,
+     "area_sqm": 308,
+     "capacity_max": 335,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal G",
+     "type": null,
+     "area_sqm": 938,
+     "capacity_max": 1100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal A-F",
+     "type": null,
+     "area_sqm": 417,
+     "capacity_max": 515,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal F",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal E",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal D",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal A, B & C (or any 3 side sections combined)",
+     "type": null,
+     "area_sqm": 210,
+     "capacity_max": 222,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal C",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal A & B (combined) (or any 2 side sections)",
+     "type": null,
+     "area_sqm": 140,
+     "capacity_max": 139,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal B",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal A",
+     "type": null,
+     "area_sqm": 69,
+     "capacity_max": 75,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Crystal Ballroom",
+     "type": null,
+     "area_sqm": 3670,
+     "capacity_max": 4500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 9-14",
+     "type": null,
+     "area_sqm": 571,
+     "capacity_max": 670,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 14",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 13",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 12",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 11",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 10",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 9",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 7 & 8 combined (all sections)",
+     "type": null,
+     "area_sqm": 2365,
+     "capacity_max": 2750,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 8 with Airwall Corridor",
+     "type": null,
+     "area_sqm": 1254,
+     "capacity_max": 1420,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 8B",
+     "type": null,
+     "area_sqm": 538,
+     "capacity_max": 550,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 8A",
+     "type": null,
+     "area_sqm": 538,
+     "capacity_max": 550,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 8",
+     "type": null,
+     "area_sqm": 1076,
+     "capacity_max": 1150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 7 with Airwall Corridor",
+     "type": null,
+     "area_sqm": 1254,
+     "capacity_max": 1420,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 7B",
+     "type": null,
+     "area_sqm": 538,
+     "capacity_max": 550,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 7A",
+     "type": null,
+     "area_sqm": 538,
+     "capacity_max": 550,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 7",
+     "type": null,
+     "area_sqm": 1076,
+     "capacity_max": 1150,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 1-6",
+     "type": null,
+     "area_sqm": 571,
+     "capacity_max": 670,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 6",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 5",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 4",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 1, 2 & 3 (combined) (or any 3 side sections)",
+     "type": null,
+     "area_sqm": 285,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 3",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 1 & 2 (combined) (or any 2 side sections)",
+     "type": null,
+     "area_sqm": 191,
+     "capacity_max": 170,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 2",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand 1",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 3472,
+     "capacity_max": 4200,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Jade",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Diamond",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Emerald",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Marriott Boardroom",
+     "type": null,
+     "area_sqm": 102,
+     "capacity_max": 16,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Washington",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Tampa",
+     "type": null,
+     "area_sqm": 75,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "St. Louis",
+     "type": null,
+     "area_sqm": 75,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "San Francisco",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "San Antonio",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": 60,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "New York & New Orleans (combined)",
+     "type": null,
+     "area_sqm": 187,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "New Orleans",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "New York",
+     "type": null,
+     "area_sqm": 94,
+     "capacity_max": 95,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Miami",
+     "type": null,
+     "area_sqm": 122,
+     "capacity_max": 125,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Los Angeles",
+     "type": null,
+     "area_sqm": 86,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Denver & Chicago (combined)",
+     "type": null,
+     "area_sqm": 145,
+     "capacity_max": 135,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Denver",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": 65,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Chicago",
+     "type": null,
+     "area_sqm": 73,
+     "capacity_max": 65,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Boston, Atlanta, Anaheim (combined)",
+     "type": null,
+     "area_sqm": 267,
+     "capacity_max": 275,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Anaheim & Atlanta (combined)",
+     "type": null,
+     "area_sqm": 185,
+     "capacity_max": 172,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Atlanta & Boston (combined)",
+     "type": null,
+     "area_sqm": 164,
+     "capacity_max": 155,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Anaheim",
+     "type": null,
+     "area_sqm": 103,
+     "capacity_max": 100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Atlanta",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    },
+    {
+     "name": "Boston",
+     "type": null,
+     "area_sqm": 82,
+     "capacity_max": 80,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official schema.org maximumAttendeeCapacity; floor area converted from official square feet.",
+     "source_url": "https://www.marriott.com/en-us/hotels/mcowc-orlando-world-center-marriott/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "wynn-las-vegas",
+   "name": "Wynn Las Vegas",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "3131 Las Vegas Blvd, Las Vegas, NV 89109",
+   "lat": 36.1265,
+   "lon": -115.1664,
+   "url": "https://www.wynnlasvegas.com/meetings",
+   "capacity": 10962,
+   "exhibition_sqm": null,
+   "halls": "Official metric capacity chart linked from the official Wynn meetings resort-maps page tabulates Cristal, Lafite and Latour ballrooms and a full meeting-room schedule, plus premium and pre-function spaces.",
+   "description": "Official Wynn Las Vegas metric capacity chart (linked from official wynnlasvegas.com/meetings/resort-maps): Cristal Ballroom 7,728 m², theatre 10,962, classroom 6,512, banquet rounds (10) 5,040, reception 5,546. Official meetings page marketing copy describing '300,000 square feet of event venues, including outdoor areas' and 'nearly 84,000 square feet' for the Cristal Ballroom is not stored as an exact campus total (combined indoor/outdoor and 'nearly'). Official address on the resort-maps page: 3131 Las Vegas Blvd, Las Vegas, NV 89109; telephone +1 (702) 770-7000. star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.wynnlasvegas.com/meetings/resort-maps",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.wynnlasvegas.com/meetings",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "CRISTAL BALLROOM",
+     "type": null,
+     "area_sqm": 7728,
+     "capacity_max": 10962,
+     "capacity_theatre": 10962,
+     "capacity_classroom": 6512,
+     "capacity_banquet": 5040,
+     "capacity_reception": 5546,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1",
+     "type": null,
+     "area_sqm": 686,
+     "capacity_max": 770,
+     "capacity_theatre": 770,
+     "capacity_classroom": 512,
+     "capacity_banquet": 420,
+     "capacity_reception": 492,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 2",
+     "type": null,
+     "area_sqm": 1021,
+     "capacity_max": 1190,
+     "capacity_theatre": 1190,
+     "capacity_classroom": 768,
+     "capacity_banquet": 600,
+     "capacity_reception": 733,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 3",
+     "type": null,
+     "area_sqm": 644,
+     "capacity_max": 770,
+     "capacity_theatre": 770,
+     "capacity_classroom": 448,
+     "capacity_banquet": 360,
+     "capacity_reception": 462,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 5",
+     "type": null,
+     "area_sqm": 644,
+     "capacity_max": 770,
+     "capacity_theatre": 770,
+     "capacity_classroom": 448,
+     "capacity_banquet": 360,
+     "capacity_reception": 462,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 7",
+     "type": null,
+     "area_sqm": 644,
+     "capacity_max": 770,
+     "capacity_theatre": 770,
+     "capacity_classroom": 448,
+     "capacity_banquet": 360,
+     "capacity_reception": 462,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 8",
+     "type": null,
+     "area_sqm": 959,
+     "capacity_max": 1190,
+     "capacity_theatre": 1190,
+     "capacity_classroom": 672,
+     "capacity_banquet": 600,
+     "capacity_reception": 688,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1 & 2",
+     "type": null,
+     "area_sqm": 1805,
+     "capacity_max": 2205,
+     "capacity_theatre": 2205,
+     "capacity_classroom": 1408,
+     "capacity_banquet": 1080,
+     "capacity_reception": 1296,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1-4",
+     "type": null,
+     "area_sqm": 3787,
+     "capacity_max": 5166,
+     "capacity_theatre": 5166,
+     "capacity_classroom": 2992,
+     "capacity_banquet": 2340,
+     "capacity_reception": 2718,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1 & 3",
+     "type": null,
+     "area_sqm": 1438,
+     "capacity_max": 1794,
+     "capacity_theatre": 1794,
+     "capacity_classroom": 1020,
+     "capacity_banquet": 680,
+     "capacity_reception": 1032,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1, 3 & 5",
+     "type": null,
+     "area_sqm": 2191,
+     "capacity_max": 2706,
+     "capacity_theatre": 2706,
+     "capacity_classroom": 1620,
+     "capacity_banquet": 1200,
+     "capacity_reception": 1572,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1, 3, 5 & 7",
+     "type": null,
+     "area_sqm": 2935,
+     "capacity_max": 3828,
+     "capacity_theatre": 3828,
+     "capacity_classroom": 2220,
+     "capacity_banquet": 1680,
+     "capacity_reception": 2106,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 1-6",
+     "type": null,
+     "area_sqm": 5769,
+     "capacity_max": 7749,
+     "capacity_theatre": 7749,
+     "capacity_classroom": 4752,
+     "capacity_banquet": 3600,
+     "capacity_reception": 4140,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 2 & 4",
+     "type": null,
+     "area_sqm": 2141,
+     "capacity_max": 2652,
+     "capacity_theatre": 2652,
+     "capacity_classroom": 1632,
+     "capacity_banquet": 1300,
+     "capacity_reception": 1537,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 2, 4 & 6",
+     "type": null,
+     "area_sqm": 3262,
+     "capacity_max": 4182,
+     "capacity_theatre": 4182,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 2000,
+     "capacity_reception": 2341,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 2, 4, 6 & 8",
+     "type": null,
+     "area_sqm": 4370,
+     "capacity_max": 5742,
+     "capacity_theatre": 5742,
+     "capacity_classroom": 3552,
+     "capacity_banquet": 2800,
+     "capacity_reception": 3136,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 3 & 5",
+     "type": null,
+     "area_sqm": 1396,
+     "capacity_max": 1738,
+     "capacity_theatre": 1738,
+     "capacity_classroom": 1020,
+     "capacity_banquet": 780,
+     "capacity_reception": 1002,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 3, 5 & 7",
+     "type": null,
+     "area_sqm": 2149,
+     "capacity_max": 2684,
+     "capacity_theatre": 2684,
+     "capacity_classroom": 1620,
+     "capacity_banquet": 1200,
+     "capacity_reception": 1542,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 3-8",
+     "type": null,
+     "area_sqm": 5659,
+     "capacity_max": 7686,
+     "capacity_theatre": 7686,
+     "capacity_classroom": 4752,
+     "capacity_banquet": 3600,
+     "capacity_reception": 4061,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 4, 6 & 8",
+     "type": null,
+     "area_sqm": 3199,
+     "capacity_max": 4148,
+     "capacity_theatre": 4148,
+     "capacity_classroom": 2592,
+     "capacity_banquet": 2000,
+     "capacity_reception": 2296,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 5-8",
+     "type": null,
+     "area_sqm": 3677,
+     "capacity_max": 5103,
+     "capacity_theatre": 5103,
+     "capacity_classroom": 2992,
+     "capacity_banquet": 2340,
+     "capacity_reception": 2639,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 5 & 7",
+     "type": null,
+     "area_sqm": 1396,
+     "capacity_max": 1748,
+     "capacity_theatre": 1748,
+     "capacity_classroom": 1020,
+     "capacity_banquet": 680,
+     "capacity_reception": 1002,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 6 & 8",
+     "type": null,
+     "area_sqm": 2079,
+     "capacity_max": 2584,
+     "capacity_theatre": 2584,
+     "capacity_classroom": 1632,
+     "capacity_banquet": 1300,
+     "capacity_reception": 1492,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal 7 & 8",
+     "type": null,
+     "area_sqm": 1695,
+     "capacity_max": 2142,
+     "capacity_theatre": 2142,
+     "capacity_classroom": 1260,
+     "capacity_banquet": 1080,
+     "capacity_reception": 1217,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal Green Room",
+     "type": null,
+     "area_sqm": 78,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal Terrace",
+     "type": null,
+     "area_sqm": 872,
+     "capacity_max": 626,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 626,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "LAFITE BALLROOM",
+     "type": null,
+     "area_sqm": 4663,
+     "capacity_max": 4732,
+     "capacity_theatre": 4732,
+     "capacity_classroom": 3040,
+     "capacity_banquet": 3130,
+     "capacity_reception": 3346,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1",
+     "type": null,
+     "area_sqm": 245,
+     "capacity_max": 293,
+     "capacity_theatre": 293,
+     "capacity_classroom": 152,
+     "capacity_banquet": 150,
+     "capacity_reception": 203,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 2",
+     "type": null,
+     "area_sqm": 530,
+     "capacity_max": 567,
+     "capacity_theatre": 567,
+     "capacity_classroom": 321,
+     "capacity_banquet": 350,
+     "capacity_reception": 380,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 3",
+     "type": null,
+     "area_sqm": 245,
+     "capacity_max": 292,
+     "capacity_theatre": 292,
+     "capacity_classroom": 160,
+     "capacity_banquet": 150,
+     "capacity_reception": 203,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 4",
+     "type": null,
+     "area_sqm": 151,
+     "capacity_max": 170,
+     "capacity_theatre": 170,
+     "capacity_classroom": 91,
+     "capacity_banquet": 90,
+     "capacity_reception": 125,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 5",
+     "type": null,
+     "area_sqm": 1465,
+     "capacity_max": 1614,
+     "capacity_theatre": 1614,
+     "capacity_classroom": 972,
+     "capacity_banquet": 970,
+     "capacity_reception": 1051,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 6",
+     "type": null,
+     "area_sqm": 298,
+     "capacity_max": 318,
+     "capacity_theatre": 318,
+     "capacity_classroom": 192,
+     "capacity_banquet": 180,
+     "capacity_reception": 247,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 7",
+     "type": null,
+     "area_sqm": 294,
+     "capacity_max": 316,
+     "capacity_theatre": 316,
+     "capacity_classroom": 192,
+     "capacity_banquet": 180,
+     "capacity_reception": 244,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 8",
+     "type": null,
+     "area_sqm": 380,
+     "capacity_max": 378,
+     "capacity_theatre": 378,
+     "capacity_classroom": 248,
+     "capacity_banquet": 240,
+     "capacity_reception": 290,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 9",
+     "type": null,
+     "area_sqm": 233,
+     "capacity_max": 266,
+     "capacity_theatre": 266,
+     "capacity_classroom": 150,
+     "capacity_banquet": 150,
+     "capacity_reception": 193,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1 & 2",
+     "type": null,
+     "area_sqm": 780,
+     "capacity_max": 958,
+     "capacity_theatre": 958,
+     "capacity_classroom": 448,
+     "capacity_banquet": 500,
+     "capacity_reception": 560,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1-3",
+     "type": null,
+     "area_sqm": 1159,
+     "capacity_max": 1287,
+     "capacity_theatre": 1287,
+     "capacity_classroom": 640,
+     "capacity_banquet": 640,
+     "capacity_reception": 832,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1 & 4",
+     "type": null,
+     "area_sqm": 449,
+     "capacity_max": 502,
+     "capacity_theatre": 502,
+     "capacity_classroom": 276,
+     "capacity_banquet": 250,
+     "capacity_reception": 323,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1, 4 & 7",
+     "type": null,
+     "area_sqm": 740,
+     "capacity_max": 682,
+     "capacity_theatre": 682,
+     "capacity_classroom": 360,
+     "capacity_banquet": 450,
+     "capacity_reception": 531,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1, 4, 7 & 9",
+     "type": null,
+     "area_sqm": 977,
+     "capacity_max": 910,
+     "capacity_theatre": 910,
+     "capacity_classroom": 660,
+     "capacity_banquet": 580,
+     "capacity_reception": 701,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 1, 2, 4, 5, 7 & 9",
+     "type": null,
+     "area_sqm": 3375,
+     "capacity_max": 3948,
+     "capacity_theatre": 3948,
+     "capacity_classroom": 1952,
+     "capacity_banquet": 1950,
+     "capacity_reception": 2422,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 2 & 3",
+     "type": null,
+     "area_sqm": 780,
+     "capacity_max": 828,
+     "capacity_theatre": 828,
+     "capacity_classroom": 448,
+     "capacity_banquet": 500,
+     "capacity_reception": 560,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 2 & 5",
+     "type": null,
+     "area_sqm": 2109,
+     "capacity_max": 2320,
+     "capacity_theatre": 2320,
+     "capacity_classroom": 1248,
+     "capacity_banquet": 1190,
+     "capacity_reception": 1514,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 2, 3, 5, 6 & 8",
+     "type": null,
+     "area_sqm": 3375,
+     "capacity_max": 4060,
+     "capacity_theatre": 4060,
+     "capacity_classroom": 2184,
+     "capacity_banquet": 2120,
+     "capacity_reception": 2422,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 3 & 6",
+     "type": null,
+     "area_sqm": 593,
+     "capacity_max": 592,
+     "capacity_theatre": 592,
+     "capacity_classroom": 336,
+     "capacity_banquet": 330,
+     "capacity_reception": 425,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 3, 6 & 8",
+     "type": null,
+     "area_sqm": 977,
+     "capacity_max": 945,
+     "capacity_theatre": 945,
+     "capacity_classroom": 656,
+     "capacity_banquet": 560,
+     "capacity_reception": 701,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 4 & 7",
+     "type": null,
+     "area_sqm": 446,
+     "capacity_max": 558,
+     "capacity_theatre": 558,
+     "capacity_classroom": 280,
+     "capacity_banquet": 300,
+     "capacity_reception": 320,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 4, 7 & 9",
+     "type": null,
+     "area_sqm": 679,
+     "capacity_max": 697,
+     "capacity_theatre": 697,
+     "capacity_classroom": 408,
+     "capacity_banquet": 410,
+     "capacity_reception": 487,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 4, 5, 7 & 9",
+     "type": null,
+     "area_sqm": 2344,
+     "capacity_max": 2520,
+     "capacity_theatre": 2520,
+     "capacity_classroom": 1624,
+     "capacity_banquet": 1680,
+     "capacity_reception": 1682,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 4–9",
+     "type": null,
+     "area_sqm": 3208,
+     "capacity_max": 3610,
+     "capacity_theatre": 3610,
+     "capacity_classroom": 1808,
+     "capacity_banquet": 2020,
+     "capacity_reception": 2302,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 5, 6 & 8",
+     "type": null,
+     "area_sqm": 2344,
+     "capacity_max": 2286,
+     "capacity_theatre": 2286,
+     "capacity_classroom": 1456,
+     "capacity_banquet": 1380,
+     "capacity_reception": 1682,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 6 & 8",
+     "type": null,
+     "area_sqm": 679,
+     "capacity_max": 688,
+     "capacity_theatre": 688,
+     "capacity_classroom": 448,
+     "capacity_banquet": 410,
+     "capacity_reception": 487,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite 7 & 9",
+     "type": null,
+     "area_sqm": 527,
+     "capacity_max": 512,
+     "capacity_theatre": 512,
+     "capacity_classroom": 320,
+     "capacity_banquet": 320,
+     "capacity_reception": 378,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "LATOUR BALLROOM",
+     "type": null,
+     "area_sqm": 2355,
+     "capacity_max": 2730,
+     "capacity_theatre": 2730,
+     "capacity_classroom": 1456,
+     "capacity_banquet": 1560,
+     "capacity_reception": 1690,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1",
+     "type": null,
+     "area_sqm": 208,
+     "capacity_max": 265,
+     "capacity_theatre": 265,
+     "capacity_classroom": 132,
+     "capacity_banquet": 150,
+     "capacity_reception": 173,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 2",
+     "type": null,
+     "area_sqm": 609,
+     "capacity_max": 728,
+     "capacity_theatre": 728,
+     "capacity_classroom": 396,
+     "capacity_banquet": 360,
+     "capacity_reception": 437,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 3",
+     "type": null,
+     "area_sqm": 357,
+     "capacity_max": 392,
+     "capacity_theatre": 392,
+     "capacity_classroom": 240,
+     "capacity_banquet": 240,
+     "capacity_reception": 256,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 4",
+     "type": null,
+     "area_sqm": 148,
+     "capacity_max": 148,
+     "capacity_theatre": 148,
+     "capacity_classroom": 90,
+     "capacity_banquet": 110,
+     "capacity_reception": 123,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 5",
+     "type": null,
+     "area_sqm": 133,
+     "capacity_max": 140,
+     "capacity_theatre": 140,
+     "capacity_classroom": 72,
+     "capacity_banquet": 90,
+     "capacity_reception": 95,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 6",
+     "type": null,
+     "area_sqm": 226,
+     "capacity_max": 244,
+     "capacity_theatre": 244,
+     "capacity_classroom": 143,
+     "capacity_banquet": 150,
+     "capacity_reception": 187,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 7",
+     "type": null,
+     "area_sqm": 133,
+     "capacity_max": 160,
+     "capacity_theatre": 160,
+     "capacity_classroom": 84,
+     "capacity_banquet": 90,
+     "capacity_reception": 95,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1 & 4",
+     "type": null,
+     "area_sqm": 357,
+     "capacity_max": 402,
+     "capacity_theatre": 402,
+     "capacity_classroom": 228,
+     "capacity_banquet": 220,
+     "capacity_reception": 296,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1–4",
+     "type": null,
+     "area_sqm": 1575,
+     "capacity_max": 1750,
+     "capacity_theatre": 1750,
+     "capacity_classroom": 1008,
+     "capacity_banquet": 900,
+     "capacity_reception": 1130,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1, 2 & 4",
+     "type": null,
+     "area_sqm": 1092,
+     "capacity_max": 1382,
+     "capacity_theatre": 1382,
+     "capacity_classroom": 704,
+     "capacity_banquet": 800,
+     "capacity_reception": 783,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1, 2, 4, 5 & 6",
+     "type": null,
+     "area_sqm": 1633,
+     "capacity_max": 1886,
+     "capacity_theatre": 1886,
+     "capacity_classroom": 1080,
+     "capacity_banquet": 1040,
+     "capacity_reception": 1172,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 1, 4 & 5",
+     "type": null,
+     "area_sqm": 534,
+     "capacity_max": 578,
+     "capacity_theatre": 578,
+     "capacity_classroom": 348,
+     "capacity_banquet": 300,
+     "capacity_reception": 383,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 2 & 3",
+     "type": null,
+     "area_sqm": 1092,
+     "capacity_max": 1248,
+     "capacity_theatre": 1248,
+     "capacity_classroom": 720,
+     "capacity_banquet": 720,
+     "capacity_reception": 783,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 2 & 6",
+     "type": null,
+     "area_sqm": 911,
+     "capacity_max": 1148,
+     "capacity_theatre": 1148,
+     "capacity_classroom": 638,
+     "capacity_banquet": 520,
+     "capacity_reception": 653,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 2, 3, 6 & 7",
+     "type": null,
+     "area_sqm": 1633,
+     "capacity_max": 1886,
+     "capacity_theatre": 1886,
+     "capacity_classroom": 1080,
+     "capacity_banquet": 1040,
+     "capacity_reception": 1172,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 3 & 7",
+     "type": null,
+     "area_sqm": 534,
+     "capacity_max": 574,
+     "capacity_theatre": 574,
+     "capacity_classroom": 348,
+     "capacity_banquet": 300,
+     "capacity_reception": 383,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 4 & 5",
+     "type": null,
+     "area_sqm": 325,
+     "capacity_max": 316,
+     "capacity_theatre": 316,
+     "capacity_classroom": 210,
+     "capacity_banquet": 180,
+     "capacity_reception": 269,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 5 & 6",
+     "type": null,
+     "area_sqm": 406,
+     "capacity_max": 432,
+     "capacity_theatre": 432,
+     "capacity_classroom": 224,
+     "capacity_banquet": 240,
+     "capacity_reception": 291,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 5–7",
+     "type": null,
+     "area_sqm": 585,
+     "capacity_max": 590,
+     "capacity_theatre": 590,
+     "capacity_classroom": 336,
+     "capacity_banquet": 360,
+     "capacity_reception": 420,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour 6 & 7",
+     "type": null,
+     "area_sqm": 406,
+     "capacity_max": 432,
+     "capacity_theatre": 432,
+     "capacity_classroom": 224,
+     "capacity_banquet": 240,
+     "capacity_reception": 291,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Latour Green Room",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 3,
+     "capacity_theatre": 3,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "ALSACE",
+     "type": null,
+     "area_sqm": 399,
+     "capacity_max": 403,
+     "capacity_theatre": 403,
+     "capacity_classroom": 232,
+     "capacity_banquet": 240,
+     "capacity_reception": 290,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Alsace 1",
+     "type": null,
+     "area_sqm": 209,
+     "capacity_max": 210,
+     "capacity_theatre": 210,
+     "capacity_classroom": 120,
+     "capacity_banquet": 120,
+     "capacity_reception": 145,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Alsace 2",
+     "type": null,
+     "area_sqm": 209,
+     "capacity_max": 210,
+     "capacity_theatre": 210,
+     "capacity_classroom": 120,
+     "capacity_banquet": 120,
+     "capacity_reception": 145,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Alsace Patio",
+     "type": null,
+     "area_sqm": 95,
+     "capacity_max": 62,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": 62,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "AVIGNON",
+     "type": null,
+     "area_sqm": 476,
+     "capacity_max": 504,
+     "capacity_theatre": 504,
+     "capacity_classroom": 216,
+     "capacity_banquet": 260,
+     "capacity_reception": 336,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Avignon 1",
+     "type": null,
+     "area_sqm": 238,
+     "capacity_max": 216,
+     "capacity_theatre": 216,
+     "capacity_classroom": 144,
+     "capacity_banquet": 120,
+     "capacity_reception": 168,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Avignon 2",
+     "type": null,
+     "area_sqm": 238,
+     "capacity_max": 216,
+     "capacity_theatre": 216,
+     "capacity_classroom": 144,
+     "capacity_banquet": 120,
+     "capacity_reception": 168,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Avignon Patio",
+     "type": null,
+     "area_sqm": 119,
+     "capacity_max": 86,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 80,
+     "capacity_reception": 86,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "BANDOL",
+     "type": null,
+     "area_sqm": 1458,
+     "capacity_max": 1652,
+     "capacity_theatre": 1652,
+     "capacity_classroom": 1072,
+     "capacity_banquet": 800,
+     "capacity_reception": 1044,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Bandol 1",
+     "type": null,
+     "area_sqm": 728,
+     "capacity_max": 786,
+     "capacity_theatre": 786,
+     "capacity_classroom": 532,
+     "capacity_banquet": 450,
+     "capacity_reception": 522,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Bandol 2",
+     "type": null,
+     "area_sqm": 728,
+     "capacity_max": 786,
+     "capacity_theatre": 786,
+     "capacity_classroom": 532,
+     "capacity_banquet": 450,
+     "capacity_reception": 522,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Bandol Patio",
+     "type": null,
+     "area_sqm": 378,
+     "capacity_max": 280,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 280,
+     "capacity_reception": 273,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "BOLLINGER",
+     "type": null,
+     "area_sqm": 432,
+     "capacity_max": 507,
+     "capacity_theatre": 507,
+     "capacity_classroom": 288,
+     "capacity_banquet": 270,
+     "capacity_reception": 320,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Bollinger Terrace",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 180,
+     "capacity_theatre": 6,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 180,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "CASTILLON",
+     "type": null,
+     "area_sqm": 306,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 24,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "CHAMBERTIN",
+     "type": null,
+     "area_sqm": 399,
+     "capacity_max": 403,
+     "capacity_theatre": 403,
+     "capacity_classroom": 232,
+     "capacity_banquet": 240,
+     "capacity_reception": 290,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chambertin 1",
+     "type": null,
+     "area_sqm": 209,
+     "capacity_max": 210,
+     "capacity_theatre": 210,
+     "capacity_classroom": 120,
+     "capacity_banquet": 120,
+     "capacity_reception": 145,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chambertin 2",
+     "type": null,
+     "area_sqm": 209,
+     "capacity_max": 210,
+     "capacity_theatre": 210,
+     "capacity_classroom": 120,
+     "capacity_banquet": 120,
+     "capacity_reception": 145,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chambertin Patio",
+     "type": null,
+     "area_sqm": 95,
+     "capacity_max": 62,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 60,
+     "capacity_reception": 62,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "FLEURIE",
+     "type": null,
+     "area_sqm": 306,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 24,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "HERMITAGE",
+     "type": null,
+     "area_sqm": 306,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 200,
+     "capacity_banquet": 200,
+     "capacity_reception": 24,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "LAFLEUR",
+     "type": null,
+     "area_sqm": 483,
+     "capacity_max": 462,
+     "capacity_theatre": 462,
+     "capacity_classroom": 300,
+     "capacity_banquet": 300,
+     "capacity_reception": 345,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafleur 1",
+     "type": null,
+     "area_sqm": 252,
+     "capacity_max": 272,
+     "capacity_theatre": 272,
+     "capacity_classroom": 168,
+     "capacity_banquet": 150,
+     "capacity_reception": 172,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafleur 2",
+     "type": null,
+     "area_sqm": 252,
+     "capacity_max": 272,
+     "capacity_theatre": 272,
+     "capacity_classroom": 168,
+     "capacity_banquet": 150,
+     "capacity_reception": 172,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafleur Patio",
+     "type": null,
+     "area_sqm": 207,
+     "capacity_max": 152,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 150,
+     "capacity_reception": 152,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "LA TACHE",
+     "type": null,
+     "area_sqm": 288,
+     "capacity_max": 275,
+     "capacity_theatre": 275,
+     "capacity_classroom": 147,
+     "capacity_banquet": 180,
+     "capacity_reception": 197,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "La Tache 1",
+     "type": null,
+     "area_sqm": 144,
+     "capacity_max": 168,
+     "capacity_theatre": 168,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 99,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "La Tache 2",
+     "type": null,
+     "area_sqm": 144,
+     "capacity_max": 168,
+     "capacity_theatre": 168,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 99,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "La Tache Patio",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 70,
+     "capacity_reception": 66,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MARGAUX",
+     "type": null,
+     "area_sqm": 900,
+     "capacity_max": 924,
+     "capacity_theatre": 924,
+     "capacity_classroom": 570,
+     "capacity_banquet": 580,
+     "capacity_reception": 645,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Margaux 1",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": 485,
+     "capacity_theatre": 485,
+     "capacity_classroom": 312,
+     "capacity_banquet": 290,
+     "capacity_reception": 323,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Margaux 2",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": 485,
+     "capacity_theatre": 485,
+     "capacity_classroom": 312,
+     "capacity_banquet": 290,
+     "capacity_reception": 323,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Margaux Patio",
+     "type": null,
+     "area_sqm": 261,
+     "capacity_max": 175,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 170,
+     "capacity_reception": 175,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MEURSAULT",
+     "type": null,
+     "area_sqm": 729,
+     "capacity_max": 798,
+     "capacity_theatre": 798,
+     "capacity_classroom": 495,
+     "capacity_banquet": 480,
+     "capacity_reception": 522,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Meursault 1",
+     "type": null,
+     "area_sqm": 351,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 210,
+     "capacity_banquet": 210,
+     "capacity_reception": 261,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Meursault 2",
+     "type": null,
+     "area_sqm": 351,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 210,
+     "capacity_banquet": 210,
+     "capacity_reception": 261,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Meursault Patio",
+     "type": null,
+     "area_sqm": 189,
+     "capacity_max": 140,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 140,
+     "capacity_reception": 135,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MONTRACHET",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": 220,
+     "capacity_theatre": 220,
+     "capacity_classroom": 140,
+     "capacity_banquet": 170,
+     "capacity_reception": 173,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Montrachet 1",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 87,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Montrachet 2",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 87,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Montrachet Patio",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": 49,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MOUTON",
+     "type": null,
+     "area_sqm": 756,
+     "capacity_max": 832,
+     "capacity_theatre": 832,
+     "capacity_classroom": 490,
+     "capacity_banquet": 500,
+     "capacity_reception": 534,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Mouton 1",
+     "type": null,
+     "area_sqm": 364,
+     "capacity_max": 420,
+     "capacity_theatre": 420,
+     "capacity_classroom": 248,
+     "capacity_banquet": 270,
+     "capacity_reception": 267,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Mouton 2",
+     "type": null,
+     "area_sqm": 364,
+     "capacity_max": 420,
+     "capacity_theatre": 420,
+     "capacity_classroom": 248,
+     "capacity_banquet": 270,
+     "capacity_reception": 267,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Mouton Patio",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 82,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 80,
+     "capacity_reception": 82,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MUSIGNY",
+     "type": null,
+     "area_sqm": 468,
+     "capacity_max": 490,
+     "capacity_theatre": 490,
+     "capacity_classroom": 288,
+     "capacity_banquet": 240,
+     "capacity_reception": 330,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Musigny 1",
+     "type": null,
+     "area_sqm": 234,
+     "capacity_max": 224,
+     "capacity_theatre": 224,
+     "capacity_classroom": 126,
+     "capacity_banquet": 120,
+     "capacity_reception": 165,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Musigny 2",
+     "type": null,
+     "area_sqm": 234,
+     "capacity_max": 224,
+     "capacity_theatre": 224,
+     "capacity_classroom": 126,
+     "capacity_banquet": 120,
+     "capacity_reception": 165,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "PALMER",
+     "type": null,
+     "area_sqm": 240,
+     "capacity_max": 220,
+     "capacity_theatre": 220,
+     "capacity_classroom": 140,
+     "capacity_banquet": 170,
+     "capacity_reception": 170,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Palmer 1",
+     "type": null,
+     "area_sqm": 128,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 85,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Palmer 2",
+     "type": null,
+     "area_sqm": 128,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 70,
+     "capacity_banquet": 80,
+     "capacity_reception": 85,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Palmer Patio",
+     "type": null,
+     "area_sqm": 60,
+     "capacity_max": 50,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": 47,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "PETRUS",
+     "type": null,
+     "area_sqm": 432,
+     "capacity_max": 400,
+     "capacity_theatre": 400,
+     "capacity_classroom": 250,
+     "capacity_banquet": 260,
+     "capacity_reception": 299,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Petrus 1",
+     "type": null,
+     "area_sqm": 208,
+     "capacity_max": 220,
+     "capacity_theatre": 220,
+     "capacity_classroom": 126,
+     "capacity_banquet": 120,
+     "capacity_reception": 150,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Petrus 2",
+     "type": null,
+     "area_sqm": 208,
+     "capacity_max": 220,
+     "capacity_theatre": 220,
+     "capacity_classroom": 126,
+     "capacity_banquet": 120,
+     "capacity_reception": 150,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Petrus Patio",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 82,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 80,
+     "capacity_reception": 82,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "POMEROL",
+     "type": null,
+     "area_sqm": 459,
+     "capacity_max": 520,
+     "capacity_theatre": 520,
+     "capacity_classroom": 281,
+     "capacity_banquet": 240,
+     "capacity_reception": 323,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Pomerol Patio East",
+     "type": null,
+     "area_sqm": 280,
+     "capacity_max": 198,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 120,
+     "capacity_reception": 198,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Pomerol Patio North",
+     "type": null,
+     "area_sqm": 63,
+     "capacity_max": 40,
+     "capacity_theatre": 6,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "ST. PIERRE BOARDROOM",
+     "type": null,
+     "area_sqm": 99,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "ST. JULIEN BOARDROOM",
+     "type": null,
+     "area_sqm": 126,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "AVIZE",
+     "type": null,
+     "area_sqm": 180,
+     "capacity_max": 178,
+     "capacity_theatre": 178,
+     "capacity_classroom": 84,
+     "capacity_banquet": 100,
+     "capacity_reception": 150,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Avize 1",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 82,
+     "capacity_theatre": 82,
+     "capacity_classroom": 40,
+     "capacity_banquet": 40,
+     "capacity_reception": 75,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Avize 2",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 82,
+     "capacity_theatre": 82,
+     "capacity_classroom": 40,
+     "capacity_banquet": 40,
+     "capacity_reception": 75,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "EPERNAY",
+     "type": null,
+     "area_sqm": 120,
+     "capacity_max": 134,
+     "capacity_theatre": 134,
+     "capacity_classroom": 72,
+     "capacity_banquet": 80,
+     "capacity_reception": 110,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Epernay 1",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 67,
+     "capacity_theatre": 4,
+     "capacity_classroom": 67,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Epernay 2",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": 67,
+     "capacity_theatre": 4,
+     "capacity_classroom": 67,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "KRUG",
+     "type": null,
+     "area_sqm": 144,
+     "capacity_max": 144,
+     "capacity_theatre": 144,
+     "capacity_classroom": 72,
+     "capacity_banquet": 80,
+     "capacity_reception": 120,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Krug 1",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Krug 2",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MUMM",
+     "type": null,
+     "area_sqm": 126,
+     "capacity_max": 126,
+     "capacity_theatre": 126,
+     "capacity_classroom": 60,
+     "capacity_banquet": 60,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MOET",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 60,
+     "capacity_banquet": 60,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "REIMS",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 144,
+     "capacity_theatre": 144,
+     "capacity_classroom": 72,
+     "capacity_banquet": 80,
+     "capacity_reception": 90,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Reims 1",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Reims 2",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "ROEDERER",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 144,
+     "capacity_theatre": 144,
+     "capacity_classroom": 72,
+     "capacity_banquet": 80,
+     "capacity_reception": 90,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Roederer 1",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Roederer 2",
+     "type": null,
+     "area_sqm": 54,
+     "capacity_max": 72,
+     "capacity_theatre": 4,
+     "capacity_classroom": 72,
+     "capacity_banquet": 28,
+     "capacity_reception": 40,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "RUINART",
+     "type": null,
+     "area_sqm": 150,
+     "capacity_max": 164,
+     "capacity_theatre": 164,
+     "capacity_classroom": 84,
+     "capacity_banquet": 80,
+     "capacity_reception": 130,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Ruinart 1",
+     "type": null,
+     "area_sqm": 80,
+     "capacity_max": 72,
+     "capacity_theatre": 72,
+     "capacity_classroom": 40,
+     "capacity_banquet": 40,
+     "capacity_reception": 60,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Convention Lounge",
+     "type": null,
+     "area_sqm": 225,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 190,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Event Pavilion",
+     "type": null,
+     "area_sqm": 1868,
+     "capacity_max": 1340,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 1010,
+     "capacity_reception": 1340,
+     "notes": "Official metric capacity chart: 1,868 m²; banquet 1,010; reception 1,340; theatre/classroom n/a. Official meetings page groups the pavilion with outdoor event areas; not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Event Lawn",
+     "type": null,
+     "area_sqm": 1772,
+     "capacity_max": 1272,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 950,
+     "capacity_reception": 1272,
+     "notes": "Official metric capacity chart: 1,772 m²; banquet 950; reception 1,272; theatre/classroom n/a. Outdoor lawn; not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Rotunda Up",
+     "type": null,
+     "area_sqm": 434,
+     "capacity_max": 5,
+     "capacity_theatre": null,
+     "capacity_classroom": 5,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Rotunda Down",
+     "type": null,
+     "area_sqm": 160,
+     "capacity_max": 3,
+     "capacity_theatre": null,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Rotunda Terrace",
+     "type": null,
+     "area_sqm": 453,
+     "capacity_max": 3,
+     "capacity_theatre": null,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Sunset Pool",
+     "type": null,
+     "area_sqm": 1521,
+     "capacity_max": 770,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 770,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Sunset Terrace",
+     "type": null,
+     "area_sqm": 450,
+     "capacity_max": 300,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 190,
+     "capacity_reception": 300,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal Promenade North",
+     "type": null,
+     "area_sqm": 1071,
+     "capacity_max": 3,
+     "capacity_theatre": 1,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Cristal Promenade West",
+     "type": null,
+     "area_sqm": 1090,
+     "capacity_max": 3,
+     "capacity_theatre": 2,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Lafite/Latour Promenade",
+     "type": null,
+     "area_sqm": 495,
+     "capacity_max": 3,
+     "capacity_theatre": 3,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Sunset Promenade",
+     "type": null,
+     "area_sqm": 963,
+     "capacity_max": 4,
+     "capacity_theatre": 4,
+     "capacity_classroom": 3,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Wynn Las Vegas official metric capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf",
+     "href": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf",
+     "local": false
+    }
+   ],
+   "hotel_name": "Wynn Las Vegas"
+  },
+  {
+   "slug": "encore-las-vegas",
+   "name": "Encore Las Vegas",
+   "type": "hotel_conference_venue",
+   "country": "United States",
+   "cc": "US",
+   "city": "Las Vegas",
+   "address": "3131 Las Vegas Blvd, Las Vegas, NV 89109",
+   "lat": 36.1265,
+   "lon": -115.1664,
+   "url": "https://www.wynnlasvegas.com/meetings",
+   "capacity": 1845,
+   "exhibition_sqm": null,
+   "halls": "Official Encore metric capacity chart lists the Encore Ballroom (and sections) plus named rooms including Beethoven, Brahms, Chopin and others.",
+   "description": "Official Encore Las Vegas metric capacity chart (linked from official wynnlasvegas.com/meetings/resort-maps): Encore Ballroom 1,908 m², theatre 1,845, classroom 1,260, banquet rounds (10) 1,040, reception 1,377. Official resort-maps page gives a combined 'Wynn and Encore Las Vegas' address of 3131 Las Vegas Blvd, Las Vegas, NV 89109, which is stored for this adjacent official property. star_rating is null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.wynnlasvegas.com/meetings/resort-maps",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.wynnlasvegas.com/meetings",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "BACH BOARDROOM",
+     "type": null,
+     "area_sqm": 96,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "BEETHOVEN",
+     "type": null,
+     "area_sqm": 756,
+     "capacity_max": 728,
+     "capacity_theatre": 728,
+     "capacity_classroom": 440,
+     "capacity_banquet": 440,
+     "capacity_reception": 543,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Beethoven 1",
+     "type": null,
+     "area_sqm": 378,
+     "capacity_max": 364,
+     "capacity_theatre": 364,
+     "capacity_classroom": 240,
+     "capacity_banquet": 250,
+     "capacity_reception": 271,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Beethoven 2",
+     "type": null,
+     "area_sqm": 378,
+     "capacity_max": 364,
+     "capacity_theatre": 364,
+     "capacity_classroom": 240,
+     "capacity_banquet": 250,
+     "capacity_reception": 271,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Beethoven Patio",
+     "type": null,
+     "area_sqm": 108,
+     "capacity_max": 79,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 79,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "BRAHMS",
+     "type": null,
+     "area_sqm": 540,
+     "capacity_max": 540,
+     "capacity_theatre": 540,
+     "capacity_classroom": 336,
+     "capacity_banquet": 320,
+     "capacity_reception": 378,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 1",
+     "type": null,
+     "area_sqm": 135,
+     "capacity_max": 110,
+     "capacity_theatre": 110,
+     "capacity_classroom": 81,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 1 & 2",
+     "type": null,
+     "area_sqm": 270,
+     "capacity_max": 294,
+     "capacity_theatre": 294,
+     "capacity_classroom": 172,
+     "capacity_banquet": 150,
+     "capacity_reception": 195,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 1–3",
+     "type": null,
+     "area_sqm": 405,
+     "capacity_max": 420,
+     "capacity_theatre": 420,
+     "capacity_classroom": 280,
+     "capacity_banquet": 210,
+     "capacity_reception": 278,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 2",
+     "type": null,
+     "area_sqm": 135,
+     "capacity_max": 144,
+     "capacity_theatre": 144,
+     "capacity_classroom": 90,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 2 & 3",
+     "type": null,
+     "area_sqm": 270,
+     "capacity_max": 308,
+     "capacity_theatre": 308,
+     "capacity_classroom": 216,
+     "capacity_banquet": 200,
+     "capacity_reception": 186,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 2–4",
+     "type": null,
+     "area_sqm": 405,
+     "capacity_max": 420,
+     "capacity_theatre": 420,
+     "capacity_classroom": 280,
+     "capacity_banquet": 210,
+     "capacity_reception": 278,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 3",
+     "type": null,
+     "area_sqm": 135,
+     "capacity_max": 144,
+     "capacity_theatre": 144,
+     "capacity_classroom": 90,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 3 & 4",
+     "type": null,
+     "area_sqm": 270,
+     "capacity_max": 294,
+     "capacity_theatre": 294,
+     "capacity_classroom": 172,
+     "capacity_banquet": 150,
+     "capacity_reception": 195,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms 4",
+     "type": null,
+     "area_sqm": 135,
+     "capacity_max": 110,
+     "capacity_theatre": 110,
+     "capacity_classroom": 81,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Brahms Patio",
+     "type": null,
+     "area_sqm": 312,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 250,
+     "capacity_reception": 224,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "CHOPIN",
+     "type": null,
+     "area_sqm": 468,
+     "capacity_max": 414,
+     "capacity_theatre": 414,
+     "capacity_classroom": 336,
+     "capacity_banquet": 270,
+     "capacity_reception": 346,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 1",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 105,
+     "capacity_theatre": 105,
+     "capacity_classroom": 72,
+     "capacity_banquet": 60,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 1 & 2",
+     "type": null,
+     "area_sqm": 234,
+     "capacity_max": 270,
+     "capacity_theatre": 270,
+     "capacity_classroom": 176,
+     "capacity_banquet": 150,
+     "capacity_reception": 170,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 1–3",
+     "type": null,
+     "area_sqm": 351,
+     "capacity_max": 378,
+     "capacity_theatre": 378,
+     "capacity_classroom": 231,
+     "capacity_banquet": 210,
+     "capacity_reception": 255,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 2",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 88,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 2 & 3",
+     "type": null,
+     "area_sqm": 234,
+     "capacity_max": 280,
+     "capacity_theatre": 280,
+     "capacity_classroom": 192,
+     "capacity_banquet": 150,
+     "capacity_reception": 170,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 2–4",
+     "type": null,
+     "area_sqm": 351,
+     "capacity_max": 378,
+     "capacity_theatre": 378,
+     "capacity_classroom": 231,
+     "capacity_banquet": 210,
+     "capacity_reception": 255,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 3",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 88,
+     "capacity_banquet": 80,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 3 & 4",
+     "type": null,
+     "area_sqm": 234,
+     "capacity_max": 270,
+     "capacity_theatre": 270,
+     "capacity_classroom": 176,
+     "capacity_banquet": 150,
+     "capacity_reception": 170,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin 4",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 105,
+     "capacity_theatre": 105,
+     "capacity_classroom": 72,
+     "capacity_banquet": 60,
+     "capacity_reception": 100,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Chopin Patio",
+     "type": null,
+     "area_sqm": 252,
+     "capacity_max": 190,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 190,
+     "capacity_reception": 189,
+     "notes": "Official Wynn/Encore metric capacity chart. Listed as patio, terrace, lawn, pool or pavilion; treated as outdoor and not used as indoor exhibition area.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "DEBUSSY",
+     "type": null,
+     "area_sqm": 221,
+     "capacity_max": 234,
+     "capacity_theatre": 234,
+     "capacity_classroom": 154,
+     "capacity_banquet": 120,
+     "capacity_reception": 161,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Debussy 1",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 66,
+     "capacity_banquet": 60,
+     "capacity_reception": 80,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Debussy 2",
+     "type": null,
+     "area_sqm": 117,
+     "capacity_max": 120,
+     "capacity_theatre": 120,
+     "capacity_classroom": 66,
+     "capacity_banquet": 60,
+     "capacity_reception": 80,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "HANDEL",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 90,
+     "capacity_theatre": 90,
+     "capacity_classroom": 54,
+     "capacity_banquet": 50,
+     "capacity_reception": 70,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "MOZART",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": 90,
+     "capacity_theatre": 90,
+     "capacity_classroom": 56,
+     "capacity_banquet": 50,
+     "capacity_reception": 60,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "PUCCINI BOARDROOM",
+     "type": null,
+     "area_sqm": 64,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "RAVEL BOARDROOM",
+     "type": null,
+     "area_sqm": 70,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "SCHUBERT",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 78,
+     "capacity_theatre": 78,
+     "capacity_classroom": 52,
+     "capacity_banquet": 60,
+     "capacity_reception": 60,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "STRAUSS",
+     "type": null,
+     "area_sqm": 72,
+     "capacity_max": 78,
+     "capacity_theatre": 78,
+     "capacity_classroom": 63,
+     "capacity_banquet": 70,
+     "capacity_reception": 60,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "VIVALDI",
+     "type": null,
+     "area_sqm": 80,
+     "capacity_max": 90,
+     "capacity_theatre": 90,
+     "capacity_classroom": 63,
+     "capacity_banquet": 70,
+     "capacity_reception": 70,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "ENCORE BALLROOM",
+     "type": null,
+     "area_sqm": 1908,
+     "capacity_max": 1845,
+     "capacity_theatre": 1845,
+     "capacity_classroom": 1260,
+     "capacity_banquet": 1040,
+     "capacity_reception": 1377,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 1",
+     "type": null,
+     "area_sqm": 153,
+     "capacity_max": 125,
+     "capacity_theatre": 115,
+     "capacity_classroom": 90,
+     "capacity_banquet": 80,
+     "capacity_reception": 125,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 2",
+     "type": null,
+     "area_sqm": 306,
+     "capacity_max": 336,
+     "capacity_theatre": 336,
+     "capacity_classroom": 216,
+     "capacity_banquet": 200,
+     "capacity_reception": 258,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 3",
+     "type": null,
+     "area_sqm": 153,
+     "capacity_max": 125,
+     "capacity_theatre": 115,
+     "capacity_classroom": 90,
+     "capacity_banquet": 80,
+     "capacity_reception": 125,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 4",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 91,
+     "capacity_theatre": 91,
+     "capacity_classroom": 60,
+     "capacity_banquet": 50,
+     "capacity_reception": 73,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 5",
+     "type": null,
+     "area_sqm": 540,
+     "capacity_max": 598,
+     "capacity_theatre": 598,
+     "capacity_classroom": 324,
+     "capacity_banquet": 340,
+     "capacity_reception": 392,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 6",
+     "type": null,
+     "area_sqm": 90,
+     "capacity_max": 100,
+     "capacity_theatre": 100,
+     "capacity_classroom": 70,
+     "capacity_banquet": 70,
+     "capacity_reception": 73,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 7",
+     "type": null,
+     "area_sqm": 102,
+     "capacity_max": 98,
+     "capacity_theatre": 98,
+     "capacity_classroom": 60,
+     "capacity_banquet": 80,
+     "capacity_reception": 83,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 8",
+     "type": null,
+     "area_sqm": 102,
+     "capacity_max": 112,
+     "capacity_theatre": 112,
+     "capacity_classroom": 70,
+     "capacity_banquet": 90,
+     "capacity_reception": 83,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 1 & 2",
+     "type": null,
+     "area_sqm": 459,
+     "capacity_max": 420,
+     "capacity_theatre": 420,
+     "capacity_classroom": 304,
+     "capacity_banquet": 280,
+     "capacity_reception": 332,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 1, 2, 4, 5 & 7",
+     "type": null,
+     "area_sqm": 1458,
+     "capacity_max": 1280,
+     "capacity_theatre": 1280,
+     "capacity_classroom": 930,
+     "capacity_banquet": 750,
+     "capacity_reception": 1038,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 1–3",
+     "type": null,
+     "area_sqm": 612,
+     "capacity_max": 598,
+     "capacity_theatre": 598,
+     "capacity_classroom": 383,
+     "capacity_banquet": 360,
+     "capacity_reception": 441,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 2 & 3",
+     "type": null,
+     "area_sqm": 442,
+     "capacity_max": 504,
+     "capacity_theatre": 504,
+     "capacity_classroom": 297,
+     "capacity_banquet": 280,
+     "capacity_reception": 321,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 2 & 5",
+     "type": null,
+     "area_sqm": 846,
+     "capacity_max": 864,
+     "capacity_theatre": 864,
+     "capacity_classroom": 536,
+     "capacity_banquet": 520,
+     "capacity_reception": 616,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 2, 3, 5, 6 & 8",
+     "type": null,
+     "area_sqm": 1431,
+     "capacity_max": 1298,
+     "capacity_theatre": 1298,
+     "capacity_classroom": 960,
+     "capacity_banquet": 780,
+     "capacity_reception": 1050,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 4 & 7",
+     "type": null,
+     "area_sqm": 198,
+     "capacity_max": 192,
+     "capacity_theatre": 192,
+     "capacity_classroom": 112,
+     "capacity_banquet": 100,
+     "capacity_reception": 156,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 4–8",
+     "type": null,
+     "area_sqm": 1188,
+     "capacity_max": 1080,
+     "capacity_theatre": 1080,
+     "capacity_classroom": 728,
+     "capacity_banquet": 560,
+     "capacity_reception": 842,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 5, 6 & 8",
+     "type": null,
+     "area_sqm": 810,
+     "capacity_max": 756,
+     "capacity_theatre": 756,
+     "capacity_classroom": 544,
+     "capacity_banquet": 480,
+     "capacity_reception": 581,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Ballroom 6 & 8",
+     "type": null,
+     "area_sqm": 198,
+     "capacity_max": 198,
+     "capacity_theatre": 198,
+     "capacity_classroom": 120,
+     "capacity_banquet": 100,
+     "capacity_reception": 156,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    },
+    {
+     "name": "Encore Green Room",
+     "type": null,
+     "area_sqm": 10,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Wynn/Encore metric capacity chart.",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Encore Las Vegas official metric capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
+     "href": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
    "slug": "latu-centro-de-eventos",
    "name": "LATU Centro de Eventos (Laboratorio Tecnológico del Uruguay)",
    "type": "convention_centre",
@@ -306035,6 +326103,190 @@ window.ATLASDATA={
      "operator": "LATU",
      "verified_via": "official LATU organisation website footer (parent science-and-technology park accounts)",
      "source_url": "https://www.latu.org.uy/",
+     "accessed_at": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "slug": "uzexpocentre-tashkent",
+   "name": "Uzexpocentre NEC",
+   "type": "exhibition_grounds",
+   "country": "Uzbekistan",
+   "cc": "UZ",
+   "city": "Tashkent",
+   "address": "107 Amir Temur str., Yunusabad district, Tashkent, 100084",
+   "lat": 41.3368077,
+   "lon": 69.2752235,
+   "url": "https://www.uzexpocentre.uz/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official English homepage lists Pavilions 1–5, Atrium halls 1–2, Conference-halls 1–2, a cinema-lecture hall and an outdoor area.",
+   "description": "Official Uzexpocentre NEC (АО НВК «Узэкспоцентр») English homepage lists pavilion and hall areas in kv.m (square metres). Indoor pavilion areas are published individually and are not summed here because no official combined indoor exhibition total was found. The cinema-lecture hall is officially 600 kv.m / 370 seats; that 370-seat figure is stored on the space and is not treated as a campus maximum. Official outdoor area 7,000 kv.m is not included in indoor exhibition_sqm. Official contact address 107 Amir Temur str., Tashkent, 100084; [email removed]. Coordinates are from the official site's Google Maps pin (/@41.3368077,69.2752235).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "sources": [
+    {
+     "url": "https://www.uzexpocentre.uz/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.uzexpocentre.uz/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.uzexpocentre.uz/en/contacts/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Pavilion No. 1",
+     "type": null,
+     "area_sqm": 2736,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: Pavilions №1 – 2736 kv.m.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Pavilion No. 2",
+     "type": null,
+     "area_sqm": 3063,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: 3063 kv.m.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Pavilion No. 3",
+     "type": null,
+     "area_sqm": 2484,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: 2484 kv.m.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Pavilion No. 4",
+     "type": null,
+     "area_sqm": 2530,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: 2530 kv.m.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Pavilion No. 5",
+     "type": null,
+     "area_sqm": 800,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: 800 kv.m.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Atrium hall No. 1",
+     "type": null,
+     "area_sqm": 950,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Atrium hall No. 2",
+     "type": null,
+     "area_sqm": 1140,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Conference-hall No. 1",
+     "type": null,
+     "area_sqm": 900,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Conference-hall No. 2",
+     "type": null,
+     "area_sqm": 400,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Cinema-lecture hall",
+     "type": null,
+     "area_sqm": 600,
+     "capacity_max": 370,
+     "capacity_theatre": 370,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: 600 kv.m (370 seat).",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    },
+    {
+     "name": "Outdoor area",
+     "type": null,
+     "area_sqm": 7000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official English homepage: Outdoor area – 7000 kv.m. Outdoor; not used as indoor exhibition_sqm.",
+     "source_url": "https://www.uzexpocentre.uz/en/"
+    }
+   ],
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/uzexpocentre.uzb",
+     "verified_via": "official website footer",
+     "source_url": "https://www.uzexpocentre.uz/",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "telegram",
+     "url": "https://t.me/uzbexpocentre",
+     "verified_via": "official website footer",
+     "source_url": "https://www.uzexpocentre.uz/",
      "accessed_at": "2026-11-24"
     }
    ]
@@ -306788,7 +327040,30 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "socials": [
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/workshop17za",
+     "verified_via": "official website footer",
+     "source_url": "https://www.workshop17.co.za/va-waterfront",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/workshop17",
+     "verified_via": "official website footer",
+     "source_url": "https://www.workshop17.co.za/va-waterfront",
+     "accessed_at": "2026-11-24"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/workshop17",
+     "verified_via": "official website footer",
+     "source_url": "https://www.workshop17.co.za/va-waterfront",
+     "accessed_at": "2026-11-24"
+    }
+   ]
   },
   {
    "slug": "the-westin-cape-town",
@@ -307049,7 +327324,7 @@ window.ATLASDATA={
   },
   "expo": 187,
   "hotels": 594,
-  "venues": 505,
+  "venues": 554,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,

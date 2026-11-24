@@ -195,7 +195,23 @@ const ISO = {
   Taiwan:'TW',
   Qatar:'QA', Turkey:'TR', Egypt:'EG', Kenya:'KE', Morocco:'MA',
   Thailand:'TH', Singapore:'SG', 'Hong Kong':'HK', 'South Korea':'KR',
-  'New Zealand':'NZ', 'United States':'US', USA:'US'
+  'New Zealand':'NZ', 'United States':'US', USA:'US',
+  "Bangladesh":'BD',
+  "Georgia":'GE',
+  "Armenia":'AM',
+  "Algeria":'DZ',
+  "Tanzania":'TZ',
+  "Ecuador":'EC',
+  "Guatemala":'GT',
+  "Bolivia":'BO',
+  "Paraguay":'PY',
+  "Uzbekistan":'UZ',
+  "Cambodia":'KH',
+  "Jamaica":'JM',
+  "Côte d'Ivoire":'CI',
+  "Cote d'Ivoire":'CI',
+  "Senegal":'SN',
+  "Cuba":'CU'
 };
 function flagOf(country){
   const iso = ISO[country];
