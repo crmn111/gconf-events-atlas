@@ -1,6 +1,14 @@
 /* GConf Events Atlas */
 const D = window.ATLASDATA || {events:[], updated:'', eurRates:{}, eurRatesNote:''};
 const CFG = Object.assign({alertsEnabled:false, supabaseUrl:'', subscribeFn:'', viewsEnabled:false, viewsFn:'', claimEmail:'', claimEndpoint:'', cartoKey:''}, window.ATLASCONFIG||{});
+function imgUrl(src){
+  if(!src) return '';
+  const s = String(src);
+  if(/^(https?:)?\/\//i.test(s) || s.startsWith('data:')) return s;
+  const base = (CFG && CFG.imageBase) || '';
+  if(base) return String(base).replace(/\/$/,'') + '/' + s.replace(/^\//,'');
+  return s;
+}
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -461,7 +469,7 @@ map.addLayer(clusters);
 const markers = {};
 function popEvent(e){
   const ph = e.photos && e.photos[0];
-  return `<div class="pop">${ph?`<img src="${esc(ph.thumb||ph.src)}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+  return `<div class="pop">${ph?`<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function mapChromePad(){
   const desk = innerWidth>860;
@@ -803,7 +811,7 @@ function hotelPopup(h, slug){
   const venueLink = h.venue_slug ? `<p><a href="#/venue/${esc(h.venue_slug)}">Venue page</a></p>` : '';
   const atlasLink = `<p><a href="#/hotel/${esc((typeof GCONFCLAIM!=='undefined')?GCONFCLAIM.hotelSlug(h):(h.slug||''))}">Atlas listing</a></p>`;
   const ph = (h.photos && h.photos[0]) || null;
-  const phHtml = ph ? `<img src="${esc(ph.thumb||ph.src)}" alt="${esc((ph.caption||h.name||''))}" style="width:100%;border-radius:8px;margin:0 0 8px">` : '';
+  const phHtml = ph ? `<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="${esc((ph.caption||h.name||''))}" style="width:100%;border-radius:8px;margin:0 0 8px">` : '';
   const phCap = ph && photoCreditLine(ph) ? `<p class="hk-meta">${photoCreditLine(ph)}</p>` : '';
   const hSlug = (typeof GCONFCLAIM!=='undefined') ? GCONFCLAIM.hotelSlug(h) : (h.slug||'');
   const hRec = Object.assign({type:'hotel', slug:hSlug}, h);
@@ -1610,7 +1618,7 @@ function sortEvents(a){
 function leadPhoto(e){
   const ph = e && e.photos && e.photos[0];
   if(ph && (ph.thumb || ph.src)){
-    return { thumb: ph.thumb || ph.src, full: ph.src || ph.thumb };
+    return { thumb: imgUrl(ph.thumb || ph.src), full: imgUrl(ph.src || ph.thumb) };
   }
   return null;
 }
@@ -1791,13 +1799,13 @@ function galHtml(photos, credit){
   const P = photos||[];
   if(!P.length) return '';
   const n = P.length;
-  const img = (p,i,cls) => `<button type="button" class="gi ${cls||''}" data-i="${i}" aria-label="Open photo ${i+1}"><img class="ld" src="${esc(p.thumb||p.src)}" data-full="${esc(p.src)}" alt="" loading="eager"></button>`;
+  const img = (p,i,cls) => `<button type="button" class="gi ${cls||''}" data-i="${i}" aria-label="Open photo ${i+1}"><img class="ld" src="${esc(imgUrl(p.thumb||p.src))}" data-full="${esc(imgUrl(p.src))}" alt="" loading="eager"></button>`;
   if(n===1) return `<div class="gal g1">${img(P[0],0,'lead')}</div>`;
   if(n===2) return `<div class="gal g2">${img(P[0],0,'lead')}${img(P[1],1)}</div>`;
   if(n===3) return `<div class="gal g3">${img(P[0],0,'lead')}${img(P[1],1)}${img(P[2],2)}</div>`;
   const rest = P.slice(1);
-  const leadSrc = esc(P[0].src || P[0].thumb || '');
-  return `<div class="gal g4 gc"><div class="gi lead car" data-i="0"><img class="cs on ld" src="${leadSrc}" alt=""></div><div class="gstrip" style="--gn:${Math.min(rest.length,6)}">${rest.map((p,i)=>`<button type="button" class="gt" data-i="${i+1}"><img src="${esc(p.thumb||p.src)}" alt="" loading="lazy"></button>`).join('')}</div></div>`;
+  const leadSrc = esc(imgUrl(P[0].src || P[0].thumb || ''));
+  return `<div class="gal g4 gc"><div class="gi lead car" data-i="0"><img class="cs on ld" src="${leadSrc}" alt=""></div><div class="gstrip" style="--gn:${Math.min(rest.length,6)}">${rest.map((p,i)=>`<button type="button" class="gt" data-i="${i+1}"><img src="${esc(imgUrl(p.thumb||p.src))}" alt="" loading="lazy"></button>`).join('')}</div></div>`;
 }
 function fact(label, value, url){
   if(value==null || value==='') return '';
@@ -2419,7 +2427,7 @@ function eventCardHtml(e, side, imgPri){
   const loc = [e.city, e.country].filter(Boolean).join(', ');
   const attend = e.expected_attendance ? String(e.expected_attendance).trim() : '';
   const img = ph
-    ? `<img src="${esc(ph.thumb||ph.src)}" alt="" loading="${imgPri?'eager':'lazy'}" decoding="async">`
+    ? `<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="" loading="${imgPri?'eager':'lazy'}" decoding="async">`
     : tlIcon(cat);
   const dateBlock = tba
     ? `<div class="tl-dateblock tba"><b>TBA</b><span>Dates</span></div>`
@@ -3819,7 +3827,7 @@ function swList(){
 function swCard(e,k){
   const ph = e.photos && e.photos[0];
   return `<article class="swc ${esc(e.category||'')}" data-k="${k}">
-    <div class="swimg" ${ph?`data-src="${esc(ph.src)}" style="background-image:url('${esc(ph.thumb||ph.src)}')"`:''}>${ph?'':`<span class="swph">${esc(catLabel(e))}<small>No photo published</small></span>`}
+    <div class="swimg" ${ph?`data-src="${esc(imgUrl(ph.src))}" style="background-image:url('${esc(imgUrl(ph.thumb||ph.src))}')"`:''}>${ph?'':`<span class="swph">${esc(catLabel(e))}<small>No photo published</small></span>`}
       <span class="swtier">${esc(catLabel(e))}</span>
       ${isApprox(e)?'<span class="swapprox">◌ approx. pin</span>':''}
     </div>
@@ -4002,7 +4010,7 @@ function carInit(list,title,credit,root){
   const lead = gal.querySelector('.gi.lead'); if(!lead || list.length<2) return;
   Object.assign(CAR,{list,i:0,title,credit,el:lead,acc:0,busy:false,kb:0,hover:false});
   lead.classList.add('car');
-  lead.innerHTML = list.map((p,i)=>`<img class="cs${i===0?' on ld':''}" src="${esc(p.src)}" alt="" ${i===0?'':'aria-hidden="true"'}>`).join('')
+  lead.innerHTML = list.map((p,i)=>`<img class="cs${i===0?' on ld':''}" src="${esc(imgUrl(p.src))}" alt="" ${i===0?'':'aria-hidden="true"'}>`).join('')
     + `<button class="cnav cprev" type="button" aria-label="Previous photo">‹</button>`
     + `<button class="cnav cnext" type="button" aria-label="Next photo">›</button>`
     + `<div class="cdots">${list.map((_,i)=>`<button type="button" class="cdot ${i===0?'on':''}" data-i="${i}" aria-label="Photo ${i+1}"></button>`).join('')}</div>`

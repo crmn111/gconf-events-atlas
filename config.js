@@ -15,5 +15,7 @@ window.ATLASCONFIG = {
   viewsFn: "",
   claimEmail: "hello@gconf.ai",
   claimEndpoint: "",
-  cartoKey: ""
+  cartoKey: "",
+  /* Public R2 origin for img/* (no trailing slash). Leave empty to keep relative /img/ paths. */
+  imageBase: "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev"
 };
