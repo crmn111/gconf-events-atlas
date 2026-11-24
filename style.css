@@ -79,6 +79,8 @@
   --on-hotel-5:#0A0E12;
   --hotel-4:#3E7A78;
   --on-hotel-4:#FFFFFF;
+  --venue:#1F4E6A;
+  --on-venue:#FFFFFF;
   --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
   --sans:'Space Grotesk',system-ui,sans-serif;
   color-scheme:light;
@@ -152,12 +154,15 @@ html[data-theme="dark"]{
   --on-hotel-5:#0A0E12;
   --hotel-4:#5AA3A0;
   --on-hotel-4:#0A0E12;
+  --venue:#6BA3C4;
+  --on-venue:#0A0E12;
   color-scheme:dark;
 }
 *{box-sizing:border-box}
-html,body{margin:0;height:100%;font-family:var(--sans);color:var(--ink);background:var(--bg)}
+html{margin:0;min-height:100%;height:auto}
+body{margin:0;min-height:100%;height:auto;font-family:var(--sans);color:var(--ink);background:var(--bg)}
 a{color:var(--cyan2)}a:hover{color:var(--lime2)}
-#app{display:flex;height:100vh;width:100vw;overflow:hidden;position:relative}
+#app{display:flex;height:100vh;height:100dvh;width:100%;max-width:100%;overflow:hidden;position:relative}
 #sidebar{width:var(--sbw);min-width:var(--sbw);background:var(--panel);display:flex;flex-direction:column;overflow-y:auto;border-right:1px solid var(--line);z-index:500}
 .brand{display:flex;gap:14px;align-items:center;padding:18px 22px 6px;background:var(--header)}
 .logo{width:44px;height:44px;border-radius:12px;background:var(--logo-bg);display:grid;place-items:center;flex:none;border:1px solid var(--line)}
@@ -1895,3 +1900,424 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 .dsec.hotels .hk-stars{display:inline-flex;margin-right:6px;font-weight:700}
 .dsec.hotels .hk-stars.five{color:var(--hotel-5)}
 .dsec.hotels .hk-stars.four{color:var(--hotel-4)}
+
+.venues-toggle button[aria-pressed="true"],.venues-toggle button.on{background:var(--venue);color:var(--on-venue)}
+#mapwrap.timeline-on .venues-toggle,
+#mapwrap.grid-on .venues-toggle{display:none!important}
+.vk-icon{overflow:visible!important;border:0!important;background:none!important}
+.vk{display:flex;flex-direction:column;align-items:center;pointer-events:auto}
+.vk-bldg{display:flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:8px;background:var(--venue);color:var(--on-venue);border:1px solid color-mix(in srgb,var(--venue) 70%,#000 30%);box-shadow:0 2px 6px rgba(0,0,0,.25)}
+.vk-bldg svg{display:block}
+.vk-pop .vk-name{font:650 14px/1.3 var(--sans);margin:0 0 4px}
+.vk-pop .vk-meta{margin:0 0 2px;color:var(--muted);font:12px/1.4 var(--sans)}
+.vk-pop .vk-events{margin:8px 0 0;padding:0 0 0 16px}
+.vk-pop .vk-events li{margin:0 0 2px}
+.dsec.venues ul{list-style:none;margin:0;padding:0}
+.dsec.venues li{margin:0 0 8px}
+.atlas-directory{background:var(--bg);color:var(--ink);border-top:1px solid var(--line);padding:48px 28px 72px}
+.atlas-directory .dir-inner{max-width:1100px;margin:0 auto}
+.atlas-directory h2{font:650 22px/1.25 var(--sans);margin:28px 0 8px}
+.atlas-directory h2:first-child{margin-top:0}
+.atlas-directory h3{font:650 15px/1.3 var(--sans);margin:18px 0 8px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.atlas-directory .lede{color:var(--muted);max-width:62ch;margin:0 0 16px}
+.atlas-directory .dir-list{list-style:none;margin:0 0 8px;padding:0;display:flex;flex-wrap:wrap;gap:8px 18px}
+.atlas-directory .dir-list li{display:flex;align-items:baseline;gap:8px;margin:0}
+.atlas-directory .dir-list a{color:var(--ink)}
+.atlas-directory .dir-list .n{color:var(--muted);font:500 12px var(--mono)}
+.atlas-directory .dir-list .place{color:var(--dim);font:12px var(--sans)}
+.atlas-directory .dir-list.cities li{min-width:220px}
+
+/* ---------- Breakpoint audit: mobile timeline + usable chrome (max 860px) ----------
+   Desktop (861px+) layout is unchanged. On phones and portrait tablets the
+   Timeline view is a single-thread, centre-spine list with no map, no map
+   tour, and no bottom list sheet. Opening an event is a full-screen sheet
+   that can be dismissed back to the same scroll position. */
+@media (max-width:860px){
+  html,body{
+    height:100%;
+    overflow:hidden;
+    overscroll-behavior:none;
+  }
+  #app{
+    height:100vh;
+    height:100dvh;
+    width:100%;
+    max-width:100%;
+    overflow:hidden;
+  }
+  /* SEO directory stays in the HTML for crawlers; keep it out of the interactive viewport. */
+  .atlas-directory{
+    position:absolute;
+    left:0;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    white-space:nowrap;
+    pointer-events:none;
+  }
+
+  /* ----- Shared chrome: 44px targets, no collisions ----- */
+  #mobtoggle{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    top:max(10px, env(safe-area-inset-top, 0px));
+    left:max(10px, env(safe-area-inset-left, 0px));
+    z-index:680;
+    min-width:44px;
+    min-height:44px;
+    padding:0 12px;
+    box-sizing:border-box;
+  }
+  .viewbar{
+    left:calc(max(10px, env(safe-area-inset-left, 0px)) + 52px);
+    right:auto;
+    top:max(10px, env(safe-area-inset-top, 0px));
+    transform:none;
+    z-index:680;
+  }
+  .viewbar button{
+    min-height:44px;
+    padding:8px 10px;
+    font-size:12.5px;
+  }
+  .chrome-right{
+    top:calc(max(10px, env(safe-area-inset-top, 0px)) + 52px);
+    right:max(10px, env(safe-area-inset-right, 0px));
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+    align-items:center;
+    gap:6px;
+    max-width:calc(100% - 20px);
+    z-index:670;
+  }
+  .theme button,
+  .basemaps button,
+  .hotels-toggle button,
+  .venues-toggle button{
+    min-height:36px;
+    padding:6px 10px;
+  }
+  .theme button{
+    min-height:44px;
+    min-width:44px;
+  }
+  .regions{
+    top:calc(max(10px, env(safe-area-inset-top, 0px)) + 100px);
+    left:max(10px, env(safe-area-inset-left, 0px));
+    right:max(10px, env(safe-area-inset-right, 0px));
+    transform:none;
+    max-width:none;
+    width:auto;
+    box-sizing:border-box;
+  }
+  .kindbar button{
+    min-height:44px;
+    padding:8px 4px;
+  }
+  .country-toggle,
+  .search input,
+  #f-cityq,
+  #sort{
+    min-height:44px;
+  }
+  .chips button{
+    min-height:36px;
+  }
+  #sidebar{
+    padding-bottom:env(safe-area-inset-bottom, 0px);
+  }
+
+  /* ----- Timeline is the only surface ----- */
+  #app:has(#mapwrap.timeline-on) #sidebar,
+  #mapwrap.timeline-on #mobtoggle,
+  #mapwrap.timeline-on .legend,
+  #mapwrap.timeline-on .mapecho,
+  #mapwrap.timeline-on .basemaps,
+  #mapwrap.timeline-on .regions,
+  #mapwrap.timeline-on .hotels-toggle,
+  #mapwrap.timeline-on .venues-toggle,
+  #mapwrap.timeline-on #tourcaption,
+  #mapwrap.timeline-on.play-tour #tourcaption{
+    display:none !important;
+  }
+  #mapwrap.timeline-on #map,
+  #mapwrap.timeline-on.play-tour #map,
+  #app.play-tour #mapwrap.timeline-on #map,
+  #app.play-on #mapwrap.timeline-on #map{
+    visibility:hidden !important;
+    pointer-events:none !important;
+  }
+  #mapwrap.timeline-on #timeline,
+  #mapwrap.timeline-on.play-tour #timeline,
+  #app.play-on #mapwrap.timeline-on #timeline,
+  #app.play-tour #mapwrap.timeline-on #timeline{
+    display:block !important;
+    position:absolute !important;
+    inset:0 !important;
+    top:0 !important;
+    left:0 !important;
+    right:0 !important;
+    bottom:0 !important;
+    width:100% !important;
+    max-width:none !important;
+    height:auto !important;
+    border:0 !important;
+    border-radius:0 !important;
+    box-shadow:none !important;
+    background:var(--bg) !important;
+    backdrop-filter:none !important;
+    -webkit-backdrop-filter:none !important;
+    container-type:normal;
+    z-index:600;
+    overflow:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  #mapwrap.timeline-on .viewbar{
+    left:max(10px, env(safe-area-inset-left, 0px));
+    z-index:730;
+  }
+  #mapwrap.timeline-on .chrome-right{
+    top:max(10px, env(safe-area-inset-top, 0px));
+    z-index:730;
+  }
+  #mapwrap.timeline-on .tl-top{
+    padding:calc(62px + env(safe-area-inset-top, 0px)) 12px 10px;
+    gap:8px;
+    background:linear-gradient(var(--bg) 72%, transparent);
+  }
+  #mapwrap.timeline-on .tl-playbtn,
+  #mapwrap.timeline-on .tl-filters-btn,
+  #mapwrap.timeline-on .tl-filters-clear{
+    min-height:44px;
+    padding:8px 14px;
+  }
+  #mapwrap.timeline-on .tl-brand{
+    width:44px;
+    height:44px;
+  }
+  #mapwrap.timeline-on .tl-scrub button{
+    min-height:36px;
+  }
+  #mapwrap.timeline-on .tl-scroll{
+    padding:4px 16px calc(48px + env(safe-area-inset-bottom, 0px));
+    max-width:560px;
+    margin:0 auto;
+  }
+  #mapwrap.timeline-on .tl-month{
+    scroll-margin-top:156px;
+  }
+  #mapwrap.timeline-on .tl-month-h{
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    gap:8px;
+    padding:22px 0 16px;
+  }
+  #mapwrap.timeline-on .tl-count{
+    text-align:center;
+    padding-bottom:0;
+  }
+  #mapwrap.timeline-on .tl-name{
+    font-size:clamp(36px, 12vw, 56px);
+  }
+
+  /* Single-thread, centre spine. Cards sit on the line, not in two columns. */
+  #mapwrap.timeline-on .tl-list,
+  #mapwrap.timeline-on.play-tour .tl-list,
+  #app.play-on #mapwrap.timeline-on .tl-list{
+    padding:12px 0 20px !important;
+    position:relative;
+  }
+  #mapwrap.timeline-on .tl-list > .tl-spine,
+  #mapwrap.timeline-on.play-tour .tl-list > .tl-spine,
+  #app.play-on #mapwrap.timeline-on .tl-list > .tl-spine{
+    left:50% !important;
+    right:auto !important;
+    transform:translateX(-50%) !important;
+    width:3px !important;
+    box-shadow:none;
+  }
+  #mapwrap.timeline-on .tl-item.tl-card-item,
+  #mapwrap.timeline-on.play-tour .tl-item.tl-card-item,
+  #app.play-on #mapwrap.timeline-on .tl-item.tl-card-item{
+    display:block !important;
+    width:100%;
+    max-width:100%;
+    margin:0 auto 28px !important;
+    padding-top:14px;
+    box-sizing:border-box;
+    grid-template-columns:none !important;
+  }
+  #mapwrap.timeline-on .tl-item.tl-card-item .tl-card,
+  #mapwrap.timeline-on .tl-item.side-l .tl-card,
+  #mapwrap.timeline-on .tl-item.side-r .tl-card{
+    grid-column:auto;
+    grid-row:auto;
+    width:100%;
+  }
+  #mapwrap.timeline-on .tl-item.tl-card-item .tl-dot,
+  #mapwrap.timeline-on.play-tour .tl-item.tl-card-item .tl-dot,
+  #app.play-on #mapwrap.timeline-on .tl-item.tl-card-item .tl-dot{
+    position:absolute !important;
+    left:50% !important;
+    top:0 !important;
+    right:auto;
+    margin:0 !important;
+    transform:translate(-50%, -50%);
+    grid-column:auto !important;
+    grid-row:auto !important;
+    justify-self:auto;
+    width:16px;
+    height:16px;
+    z-index:3;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today,
+  #mapwrap.timeline-on.play-tour .tl-item.tl-today,
+  #app.play-on #mapwrap.timeline-on .tl-item.tl-today{
+    display:flex !important;
+    justify-content:center;
+    align-items:center;
+    padding:12px 0 18px !important;
+    margin:0 0 8px !important;
+    grid-template-columns:none !important;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today .tl-dot,
+  #mapwrap.timeline-on.play-tour .tl-item.tl-today .tl-dot{
+    position:absolute !important;
+    left:50% !important;
+    top:50% !important;
+    margin:0 !important;
+    transform:translate(-50%, -50%);
+    grid-column:auto !important;
+  }
+  #mapwrap.timeline-on .tl-item.tl-today .tl-today-label{
+    grid-column:auto;
+    margin-left:0;
+    justify-self:auto;
+  }
+  #mapwrap.timeline-on .tl-hero{
+    height:160px;
+  }
+  #mapwrap.timeline-on .tl-body h3{
+    font-size:17px;
+  }
+
+  /* Full-screen event sheet. Play does not use a half-height map card. */
+  #detail,
+  #app.play-on #detail,
+  #app.timeline-on #detail,
+  #app:has(#mapwrap.timeline-on) #detail{
+    top:0 !important;
+    right:0 !important;
+    bottom:0 !important;
+    left:0 !important;
+    width:100% !important;
+    height:100% !important;
+    max-height:none !important;
+    border:0 !important;
+    border-radius:0 !important;
+    transform:translateY(110%);
+    z-index:900;
+    box-shadow:none;
+  }
+  #detail.open,
+  #app.play-on #detail.open,
+  #app.timeline-on #detail.open,
+  #app:has(#mapwrap.timeline-on) #detail.open{
+    transform:none !important;
+    visibility:visible;
+  }
+  #detail .dscroll,
+  #app.play-on #dbody{
+    height:100%;
+    overflow:auto;
+    -webkit-overflow-scrolling:touch;
+    padding-bottom:env(safe-area-inset-bottom, 0px);
+  }
+  #app.play-on #dbody{ overflow:auto; }
+  #detail > .close{
+    position:fixed;
+    top:max(10px, env(safe-area-inset-top, 0px));
+    right:max(10px, env(safe-area-inset-right, 0px));
+    z-index:960;
+    width:44px;
+    height:44px;
+    border-radius:50%;
+    border:0;
+    background:rgba(10,20,30,.62);
+    color:#fff;
+    font-size:20px;
+    cursor:pointer;
+    display:none;
+    align-items:center;
+    justify-content:center;
+    box-shadow:0 4px 16px rgba(0,0,0,.28);
+  }
+  #detail.open > .close{ display:flex; }
+  #detail .dscroll .close,
+  #dbody > .close,
+  .dswap-pane > .close{ display:none !important; }
+
+  /* Play stays on the timeline: dock sits over the list, not over a map. */
+  #app.play-on .playdock,
+  #app.play-tour.play-on .playdock{
+    left:8px !important;
+    right:8px !important;
+    bottom:max(8px, env(safe-area-inset-bottom, 0px)) !important;
+    transform:none !important;
+    width:auto !important;
+    max-width:none !important;
+    min-width:0;
+  }
+  #app.play-on #timeline,
+  #app.play-on #mapwrap.timeline-on #timeline{
+    padding-left:0 !important;
+    padding-bottom:calc(108px + env(safe-area-inset-bottom, 0px));
+  }
+}
+
+@media (max-width:420px){
+  #mobtoggle .mobtoggle-lab{
+    position:absolute;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+  }
+  #mobtoggle{
+    width:44px;
+    padding:0;
+  }
+  .viewbar button{ padding:8px 8px; font-size:12px; }
+}
+
+@media (min-width:861px){
+  #detail > .close{
+    position:absolute;
+    top:14px;
+    right:14px;
+    z-index:20;
+    width:44px;
+    height:44px;
+    border-radius:50%;
+    border:0;
+    background:rgba(10,20,30,.55);
+    color:#fff;
+    font-size:18px;
+    cursor:pointer;
+    display:none;
+    align-items:center;
+    justify-content:center;
+  }
+  #detail.open > .close{ display:flex; }
+  #detail .dscroll .close,
+  #dbody > .close,
+  .dswap-pane > .close{ display:none !important; }
+}

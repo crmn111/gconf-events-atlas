@@ -475,13 +475,26 @@ EV.forEach(e => {
 });
 
 /* ---------- hotels (map layer only; never in lists/counts) ---------- */
-const HOTELS = (D.hotels||[]).filter(h => h && (h.lat!=null) && (h.lon!=null || h.lng!=null) && (h.event_slugs||[]).length);
+const HOTELS_ALL = (D.hotels||[]).filter(h => h && (h.event_slugs||[]).length);
+const HOTELS = HOTELS_ALL.filter(h => h.lat!=null && (h.lon!=null || h.lng!=null));
 let hotelLayer = null;
 let HOTELS_ON = true;
 
-function hotelsForSlug(slug){
+function hotelsForSlug(slug, mappableOnly){
   if(!slug) return [];
-  return HOTELS.filter(h => (h.event_slugs||[]).includes(slug));
+  const pool = mappableOnly ? HOTELS : HOTELS_ALL;
+  return pool.filter(h => (h.event_slugs||[]).includes(slug));
+}
+function hotelDistance(h, slug){
+  const d = h && h.distance_km;
+  if(d==null || d==='') return null;
+  if(typeof d==='object'){
+    const v = slug ? d[slug] : null;
+    const n = Number(v);
+    return isFinite(n) ? n : null;
+  }
+  const n = Number(d);
+  return isFinite(n) ? n : null;
 }
 function fmtHotelPrice(h){
   const pr = h && h.price || {};
@@ -495,6 +508,29 @@ function fmtHotelPrice(h){
   if(cur==='GBP') return '£'+num;
   return (num+' '+cur).trim();
 }
+function hotelPriceLabel(h){
+  const price = fmtHotelPrice(h);
+  if(price){
+    const asof = h.price && h.price.as_of;
+    return price+(asof ? ' (as of '+asof+')' : '');
+  }
+  return 'Price on request';
+}
+function hotelDistLabel(h, slug){
+  const d = hotelDistance(h, slug);
+  if(d==null) return '';
+  return d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
+}
+function hotelIsPartner(h, slug){
+  const p = h && h.partner;
+  if(!p) return false;
+  if(typeof p==='object'){
+    if(!p.is_partner) return false;
+    const forSlugs = p.partner_for||[];
+    return !forSlugs.length || (slug && forSlugs.includes(slug));
+  }
+  return !!p;
+}
 function hotelIcon(h){
   const stars = h.stars===5 ? 5 : 4;
   const price = fmtHotelPrice(h);
@@ -507,24 +543,18 @@ function hotelIcon(h){
     iconAnchor:L.point(Math.round(w/2), ht)
   });
 }
-function hotelPopup(h){
+function hotelPopup(h, slug){
   const stars = h.stars===5 ? 5 : 4;
-  const dist = h.distance_km;
-  let distLab = '';
-  if(dist!=null && isFinite(Number(dist))){
-    const d = Number(dist);
-    distLab = d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
-  }
-  const price = fmtHotelPrice(h);
-  const asof = h.price && h.price.as_of;
-  const priceLab = price ? (price+(asof ? ' (as of '+asof+')' : '')) : '';
+  const distLab = hotelDistLabel(h, slug);
+  const priceLab = hotelPriceLabel(h);
+  const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
   return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
     <p class="hk-meta">${stars}★ hotel</p>
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
-    ${priceLab?`<p class="hk-meta">${esc(priceLab)}</p>`:''}
-    ${link}</div>`;
+    <p class="hk-meta">${esc(priceLab)}</p>
+    ${partner}${link}</div>`;
 }
 function openEventSlug(){
   const m = (location.hash||'').match(/event\/([^/]+)/);
@@ -548,11 +578,11 @@ function syncHotelLayer(){
   if(!hasAny || !HOTELS_ON || !onMap) return;
   const slug = openEventSlug();
   if(!slug) return;
-  hotelsForSlug(slug).forEach(h => {
+  hotelsForSlug(slug, true).forEach(h => {
     const lat = h.lat, lon = (h.lon!=null?h.lon:h.lng);
     if(lat==null || lon==null) return;
     const mk = L.marker([lat, lon], {icon:hotelIcon(h), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
-    mk.bindPopup(hotelPopup(h), {className:'ppop', maxWidth:280});
+    mk.bindPopup(hotelPopup(h, slug), {className:'ppop', maxWidth:280});
     const tip = [h.name, (h.stars===5?'5★':'4★'), fmtHotelPrice(h)].filter(Boolean).join(' · ');
     mk.bindTooltip(tip, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-12]});
     hotelLayer.addLayer(mk);
@@ -560,21 +590,16 @@ function syncHotelLayer(){
   if(hotelLayer.getLayers().length) map.addLayer(hotelLayer);
 }
 function hotelsSectionHtml(e){
-  const list = hotelsForSlug(e && e.slug);
+  const slug = e && e.slug;
+  const list = hotelsForSlug(slug);
   if(!list.length) return '';
   const items = list.map(h => {
     const stars = h.stars===5 ? 5 : 4;
-    const dist = h.distance_km;
-    let distLab = '';
-    if(dist!=null && isFinite(Number(dist))){
-      const d = Number(dist);
-      distLab = d<0.1 ? 'At the venue' : d.toFixed(1)+' km from the venue';
-    }
-    const price = fmtHotelPrice(h);
-    const asof = h.price && h.price.as_of;
-    const priceLab = price ? (price+(asof ? ' (as of '+asof+')' : '')) : '';
+    const distLab = hotelDistLabel(h, slug);
+    const priceLab = hotelPriceLabel(h);
+    const partner = hotelIsPartner(h, slug) ? 'Official partner' : '';
     const name = h.url ? `<a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name||'Hotel')}</a>` : esc(h.name||'Hotel');
-    const meta = [h.address, distLab, priceLab].filter(Boolean).join(' · ');
+    const meta = [h.address, distLab, priceLab, partner].filter(Boolean).join(' · ');
     return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
   }).join('');
   return `<div class="dsec hotels"><h4>Hotels</h4><ul>${items}</ul></div>`;
@@ -583,6 +608,136 @@ function hotelsSectionHtml(e){
   const btn = $('#hotels-btn');
   if(!btn) return;
   btn.onclick = () => { HOTELS_ON = !HOTELS_ON; syncHotelLayer(); };
+})();
+
+/* ---------- venues (map layer + detail; never in lists/counts) ---------- */
+const VENUES_ALL = (D.venues||[]).filter(v => v && v.slug && v.name);
+const VENUES = VENUES_ALL.filter(v => v.lat!=null && (v.lon!=null || v.lng!=null));
+let venueLayer = null;
+let VENUES_ON = true;
+
+function venueBySlug(slug){
+  if(!slug) return null;
+  return VENUES_ALL.find(v => v.slug===slug) || null;
+}
+function venuesForEvent(slug){
+  if(!slug) return [];
+  return VENUES_ALL.filter(v => (v.linked_event_slugs||[]).includes(slug));
+}
+function venueCapacityLabel(v){
+  const cap = v && v.capacity;
+  if(cap==null || cap==='') return '';
+  const n = Number(cap);
+  if(!isFinite(n)) return '';
+  return n.toLocaleString('en-GB')+' capacity';
+}
+function venueIcon(v){
+  const svg = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M4 21V9l8-5 8 5v12h-6v-6H10v6H4zm2-2h2v-4h8v4h2v-9.2l-6-3.75-6 3.75V19z"/></svg>';
+  return L.divIcon({
+    className:'vk-icon',
+    html:`<div class="vk" title="${esc(v.name||'Venue')}"><span class="vk-bldg">${svg}</span></div>`,
+    iconSize:L.point(28, 28),
+    iconAnchor:L.point(14, 28)
+  });
+}
+function venuePopup(v){
+  const type = v.type || 'Conference venue';
+  const cap = venueCapacityLabel(v);
+  const place = [v.address, v.city, v.country].filter(Boolean).join(' · ');
+  const evLinks = (v.linked_event_slugs||[]).map(slug => {
+    const ev = (typeof EV!=='undefined' ? EV : []).find(e => e.slug===slug);
+    if(!ev) return '';
+    return `<li><a href="#/event/${esc(ev.slug)}">${esc(ev.name||ev.slug)}</a></li>`;
+  }).filter(Boolean).join('');
+  const evSec = evLinks ? `<p class="vk-meta">Upcoming events</p><ul class="vk-events">${evLinks}</ul>` : '';
+  const link = v.url ? `<p><a href="${esc(v.url)}" target="_blank" rel="noopener">Official website ↗</a></p>` : '';
+  const srcs = (v.sources||[]).map(s => {
+    const url = (s && typeof s==='object') ? s.url : s;
+    const lab = (s && typeof s==='object') ? (s.label||'Source') : 'Source';
+    return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(lab)}</a>` : '';
+  }).filter(Boolean).join(' · ');
+  return `<div class="vk-pop"><p class="vk-name"><a href="#/venue/${esc(v.slug)}">${esc(v.name||'Venue')}</a></p>
+    <p class="vk-meta">${esc(type)}${cap?' · '+esc(cap):''}</p>
+    ${place?`<p class="vk-meta">${esc(place)}</p>`:''}
+    ${evSec}${link}${srcs?`<p class="vk-meta">${srcs}</p>`:''}</div>`;
+}
+function syncVenueLayer(){
+  if(typeof map==='undefined' || !map) return;
+  if(venueLayer && map.hasLayer(venueLayer)) map.removeLayer(venueLayer);
+  venueLayer = L.layerGroup();
+  const hasAny = VENUES.length>0;
+  const wrap = $('#venues-toggle');
+  const btn = $('#venues-btn');
+  if(wrap) wrap.hidden = !hasAny;
+  if(btn){
+    btn.setAttribute('aria-pressed', (VENUES_ON && hasAny)?'true':'false');
+    btn.classList.toggle('on', !!(VENUES_ON && hasAny));
+  }
+  const wrapEl = $('#mapwrap');
+  const onMap = !!(wrapEl && !wrapEl.classList.contains('timeline-on') && !wrapEl.classList.contains('grid-on'));
+  if(!hasAny || !VENUES_ON || !onMap) return;
+  VENUES.forEach(v => {
+    const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
+    if(lat==null || lon==null) return;
+    const mk = L.marker([lat, lon], {icon:venueIcon(v), title:v.name, riseOnHover:true, zIndexOffset:640, keyboard:true});
+    mk.bindPopup(venuePopup(v), {className:'ppop', maxWidth:300});
+    mk.bindTooltip(v.name, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-14]});
+    venueLayer.addLayer(mk);
+  });
+  if(venueLayer.getLayers().length) map.addLayer(venueLayer);
+}
+function venuesSectionHtml(e){
+  const list = venuesForEvent(e && e.slug);
+  if(!list.length) return '';
+  const items = list.map(v => {
+    const bits = [v.type, v.address || [v.city,v.country].filter(Boolean).join(', '), venueCapacityLabel(v)].filter(Boolean).join(' · ');
+    const name = `<a href="#/venue/${esc(v.slug)}">${esc(v.name||v.slug)}</a>`;
+    return `<li>${name}${bits?`<div class="hk-meta">${esc(bits)}</div>`:''}</li>`;
+  }).join('');
+  return `<div class="dsec venues"><h4>Venue</h4><ul>${items}</ul></div>`;
+}
+function viewVenue(v){
+  const close = `<button class="close" type="button" aria-label="Close" onclick="atlasCloseDetail()">✕</button>`;
+  const type = v.type || 'Conference venue';
+  const place = [v.address, v.city, v.country].filter(Boolean).join(' · ');
+  const cap = venueCapacityLabel(v);
+  const hero = `<div class="dhero">
+    <div class="crumbs">Venue${type?` · ${esc(type)}`:''}</div>
+    <h2>${esc(v.name||v.slug)}</h2>
+    <div class="loc">${esc(place)}</div>
+  </div>`;
+  const fact = (k,val,href) => {
+    if(!val) return '';
+    const body = href ? `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(val)}</a>` : esc(val);
+    return `<dt>${esc(k)}</dt><dd>${body}</dd>`;
+  };
+  const siteLab = v.url ? String(v.url).replace(/^https?:\/\//,'').replace(/\/$/,'') : '';
+  const facts = `<div class="dsec"><h4>Facts</h4><dl class="facts">
+    ${fact('Type', type)}
+    ${fact('Location', [v.city,v.country].filter(Boolean).join(', '))}
+    ${fact('Address', v.address)}
+    ${fact('Capacity', cap)}
+    ${fact('Website', siteLab, v.url)}
+  </dl></div>`;
+  const about = v.description ? `<div class="dsec"><h4>About</h4><p>${esc(v.description)}</p></div>` : '';
+  const evItems = (v.linked_event_slugs||[]).map(slug => {
+    const ev = (typeof EV!=='undefined' ? EV : []).find(e => e.slug===slug);
+    if(!ev) return '';
+    return `<li><a href="#/event/${esc(ev.slug)}">${esc(ev.name||ev.slug)}</a></li>`;
+  }).filter(Boolean).join('');
+  const evSec = evItems ? `<div class="dsec"><h4>Upcoming events</h4><ul>${evItems}</ul></div>` : '';
+  const srcItems = (v.sources||[]).map(s => {
+    const url = (s && typeof s==='object') ? s.url : s;
+    const lab = (s && typeof s==='object') ? (s.label||url||'Source') : (s||'Source');
+    return url ? `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(lab)}</a></li>` : '';
+  }).filter(Boolean).join('');
+  const srcSec = srcItems ? `<div class="dsec"><h4>Sources</h4><ul>${srcItems}</ul></div>` : '';
+  return close + hero + facts + about + evSec + srcSec;
+}
+(function bindVenuesToggle(){
+  const btn = $('#venues-btn');
+  if(!btn) return;
+  btn.onclick = () => { VENUES_ON = !VENUES_ON; syncVenueLayer(); };
 })();
 
 /* ---------- filters ---------- */
@@ -1273,7 +1428,8 @@ function viewEvent(e){
   const views = `<div class="dsec" id="views-stub"><p class="note">A privacy-friendly view count will appear here once the backend is live. It is not active on this version.</p></div>`;
   const powered = `<p class="powered-by"><a href="https://gconf.ai" target="_blank" rel="noopener"><span class="powered-label">Powered by</span><img class="logo-on-light" src="img/brand/gconf-logo-ink.svg" alt="GConf"><img class="logo-on-dark" src="img/brand/gconf-logo-dark.svg" alt=""></a></p>`;
   const hotels = (typeof hotelsSectionHtml==='function') ? hotelsSectionHtml(e) : '';
-  return close + gal + hero + facts + about + hotels + claim + srcSec + views + powered;
+  const venues = (typeof venuesSectionHtml==='function') ? venuesSectionHtml(e) : '';
+  return close + gal + hero + facts + about + hotels + venues + claim + srcSec + views + powered;
 }
 
 function detailPane(root){
@@ -1485,7 +1641,7 @@ function parseFilterHash(hash){
   const views = {timeline:1, map:1, grid:1, swipe:1};
   let i = 0;
   if(views[tokens[0]]){ out.view = tokens[0]==='map'?'map':tokens[0]; i++; }
-  const reserved = {event:1, play:1, privacy:1, alerts:1, claim:1, country:1};
+  const reserved = {event:1, play:1, privacy:1, alerts:1, claim:1, country:1, venue:1};
   if(i>=tokens.length || reserved[tokens[i]]) {
     if(tokens[i]==='country'){ /* place only */ }
     else { out.bare = tokens.slice(i).length===0; return out; }
@@ -1572,6 +1728,7 @@ function syncHash(){
   if(/^#\/privacy/.test(h)) return;
   if(/^#\/alerts/.test(h)) return;
   if(/\/event\//.test(h)) return;
+  if(/\/venue\//.test(h)) return;
   if(/^#\/timeline\/play/.test(h)) return;
   if(/^#\/swipe\/.+/.test(h) && /event\//.test(h)) return;
   const next = filtersHash(currentView());
@@ -1662,7 +1819,7 @@ function setMainView(v){
     if(side && !GRID.min) side.classList.remove('collapsed');
   }
   if(typeof placeTimelineFilters==='function') placeTimelineFilters(v);
-  if(typeof syncHotelLayer==='function') syncHotelLayer();
+  if(typeof syncHotelLayer==='function') syncHotelLayer(); if(typeof syncVenueLayer==='function') syncVenueLayer();
   return was!==v;
 }
 let gridThumbObs = null;
@@ -3023,8 +3180,29 @@ function route(){
     const n = $('#alert-confirmed');
     if(!n) $('#alerts-soon').insertAdjacentHTML('afterend', '<p class="note" id="alert-confirmed">Your subscription is confirmed.</p>');
   }
-  const m = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?event\/([^/]+)(\/claim)?/);
+  const vm = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?venue\/([^/]+)\/?$/);
   const det = $('#detail');
+  if(vm){
+    const vslug = decodeURIComponent(vm[1]);
+    const v = (typeof venueBySlug==='function') ? venueBySlug(vslug) : null;
+    if(!v){ location.hash = viewHomeHash(); return; }
+    if(PLAY.on) playExit({silent:true, keepHash:true});
+    $('#dbody').innerHTML = viewVenue(v);
+    det.classList.add('open'); det.setAttribute('aria-hidden','false');
+    gridMarkOpen('');
+    const lat = v.lat, lon = (v.lon!=null?v.lon:v.lng);
+    if(lat!=null && lon!=null && !onTimeline && !onGrid){
+      const ll = L.latLng(lat, lon);
+      const z = Math.max(map.getZoom(), 10);
+      const dest = (typeof tourFocus==='function') ? tourFocus(ll, z) : ll;
+      map.flyTo(dest, z, {duration:.7});
+    }
+    if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
+    if(typeof syncHotelLayer==='function') syncHotelLayer();
+    if(typeof syncVenueLayer==='function') syncVenueLayer();
+    return;
+  }
+  const m = hash.match(/^#\/(?:(?:timeline|grid|swipe)\/)?event\/([^/]+)(\/claim)?/);
   if(!m){
     det.classList.remove('open'); det.setAttribute('aria-hidden','true'); det.querySelector('#dbody').innerHTML='';
     carStop();
@@ -3048,7 +3226,7 @@ function route(){
       HASH_APPLYING = false;
     }
     if(typeof syncHash==='function') syncHash();
-    if(typeof syncHotelLayer==='function') syncHotelLayer();
+    if(typeof syncHotelLayer==='function') syncHotelLayer(); if(typeof syncVenueLayer==='function') syncVenueLayer();
     return;
   }
   const slug = decodeURIComponent(m[1]);
@@ -3072,7 +3250,7 @@ function route(){
     setTimeout(panForOpenPopup, 320);
   }
   if(innerWidth<=860) $('#sidebar').classList.add('collapsed');
-  if(typeof syncHotelLayer==='function') syncHotelLayer();
+  if(typeof syncHotelLayer==='function') syncHotelLayer(); if(typeof syncVenueLayer==='function') syncVenueLayer();
 }
 
 function closePrivacy(){ $('#privacy').classList.remove('open'); $('#privacy').setAttribute('aria-hidden','true'); }
