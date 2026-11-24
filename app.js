@@ -612,27 +612,76 @@ function hotelIsPartner(h, slug){
   }
   return !!p;
 }
+function hotelMarkerTier(h){
+  // Visual five/four marker only. Never treat a private US rating as official stars.
+  if(h && h.stars===5) return 5;
+  const qt = String(h && h.quota_tier || '').toLowerCase();
+  if(qt==='five') return 5;
+  const f = String(h && h.forbes_rating || '').toLowerCase();
+  const a = String(h && h.aaa_rating || '').toLowerCase();
+  if(f.includes('five') || a.includes('five')) return 5;
+  return 4;
+}
+function hotelForbesLabel(raw){
+  const s = String(raw||'').trim();
+  if(!s) return '';
+  const low = s.toLowerCase();
+  if(low.includes('five')) return 'Forbes 5-Star';
+  if(low.includes('four')) return 'Forbes 4-Star';
+  return 'Forbes '+s;
+}
+function hotelAaaLabel(raw){
+  const s = String(raw||'').trim();
+  if(!s) return '';
+  const low = s.toLowerCase();
+  if(low.includes('five')) return 'AAA Five Diamond';
+  if(low.includes('four')) return 'AAA Four Diamond';
+  return 'AAA '+s;
+}
+function hotelRatingLabel(h){
+  // Honest published rating. US hotels must never be labelled "official 5-star" or "5★".
+  const parts = [];
+  if(h && h.forbes_rating) parts.push(hotelForbesLabel(h.forbes_rating));
+  if(h && h.aaa_rating) parts.push(hotelAaaLabel(h.aaa_rating));
+  if(parts.length) return parts.join(' / ');
+  if(h && h.stars===5) return '5★';
+  if(h && h.stars===4.5) return '4.5★';
+  if(h && h.stars===4) return '4★';
+  return '';
+}
+function hotelRatingBadge(h){
+  // Compact marker text: official star figure, or the private rating that sets the tier.
+  if(h && h.forbes_rating && h.aaa_rating){
+    return hotelMarkerTier(h)===5
+      ? (String(h.aaa_rating).toLowerCase().includes('five') ? hotelAaaLabel(h.aaa_rating) : hotelForbesLabel(h.forbes_rating))
+      : (hotelForbesLabel(h.forbes_rating) || hotelAaaLabel(h.aaa_rating));
+  }
+  return hotelRatingLabel(h);
+}
+
 function hotelIcon(h, slug){
-  const stars = h.stars===5 ? 5 : 4;
+  const tier = hotelMarkerTier(h);
+  const badge = hotelRatingBadge(h) || (tier===5 ? '5' : '4');
   const price = fmtHotelPrice(h, slug);
-  const w = Math.max(36, price ? 8+price.length*6.2 : 36);
+  const w = Math.max(36, 8+badge.length*6.2, price ? 8+price.length*6.2 : 0);
   const ht = price ? 40 : 26;
   return L.divIcon({
     className:'hk-icon',
-    html:`<div class="hk ${stars===5?'five':'four'}"><span class="hk-star">${stars}★</span>${price?`<span class="hk-price">${esc(price)}</span>`:''}</div>`,
+    html:`<div class="hk ${tier===5?'five':'four'}"><span class="hk-star">${esc(badge)}</span>${price?`<span class="hk-price">${esc(price)}</span>`:''}</div>`,
     iconSize:L.point(Math.ceil(w), ht),
     iconAnchor:L.point(Math.round(w/2), ht)
   });
 }
 function hotelPopup(h, slug){
-  const stars = h.stars===5 ? 5 : 4;
+  const tier = hotelMarkerTier(h);
+  const ratingLab = hotelRatingLabel(h);
   const distLab = hotelDistLabel(h, slug);
   const priceLab = hotelPriceLabel(h, slug);
   const partner = hotelIsPartner(h, slug) ? '<p class="hk-meta">Official partner hotel</p>' : '';
   const link = h.url ? `<p><a href="${esc(h.url)}" target="_blank" rel="noopener">View listing ↗</a></p>` : '';
   const venueLink = h.venue_slug ? `<p><a href="#/venue/${esc(h.venue_slug)}">Venue page</a></p>` : '';
   return `<div class="hk-pop"><p class="hk-name">${esc(h.name||'Hotel')}</p>
-    <p class="hk-meta">${stars}★ hotel</p>
+    <p class="hk-meta">${esc(ratingLab||((tier===5?'5':'4')+'-tier hotel'))}</p>
     ${h.address?`<p class="hk-meta">${esc(h.address)}</p>`:''}
     ${distLab?`<p class="hk-meta">${esc(distLab)}</p>`:''}
     <p class="hk-meta">${esc(priceLab)}</p>
@@ -665,7 +714,7 @@ function syncHotelLayer(){
     if(lat==null || lon==null) return;
     const mk = L.marker([lat, lon], {icon:hotelIcon(h, slug), title:h.name, riseOnHover:true, zIndexOffset:650, keyboard:true});
     mk.bindPopup(hotelPopup(h, slug), {className:'ppop', maxWidth:280});
-    const tip = [h.name, (h.stars===5?'5★':'4★'), hotelPriceLabel(h, slug)].filter(Boolean).join(' · ');
+    const tip = [h.name, hotelRatingLabel(h), hotelPriceLabel(h, slug)].filter(Boolean).join(' · ');
     mk.bindTooltip(tip, {direction:'top', opacity:0.95, className:'pin-tip', sticky:false, offset:[0,-12]});
     hotelLayer.addLayer(mk);
   });
@@ -678,14 +727,15 @@ function hotelsSectionHtml(e){
   const note = hotelDistanceNote(list, slug);
   const lead = note ? `<p class="hk-meta">${esc(note)}</p>` : '';
   const items = list.map(h => {
-    const stars = h.stars===5 ? 5 : 4;
+    const tier = hotelMarkerTier(h);
+    const ratingLab = hotelRatingLabel(h);
     const distLab = hotelDistLabel(h, slug);
     const priceLab = hotelPriceLabel(h, slug);
     const partner = hotelIsPartner(h, slug) ? 'Official partner' : '';
     const name = h.url ? `<a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name||'Hotel')}</a>` : esc(h.name||'Hotel');
     const venueLink = h.venue_slug ? ` <a href="#/venue/${esc(h.venue_slug)}">Venue page</a>` : '';
     const meta = [h.address, distLab, priceLab, partner].filter(Boolean).join(' · ');
-    return `<li><span class="hk-stars ${stars===5?'five':'four'}">${stars}★</span> ${name}${venueLink}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
+    return `<li><span class="hk-stars ${tier===5?'five':'four'}">${esc(ratingLab)}</span> ${name}${venueLink}${meta?`<div class="hk-meta">${esc(meta)}</div>`:''}</li>`;
   }).join('');
   return `<div class="dsec hotels"><h4>Hotels</h4>${lead}<ul>${items}</ul></div>`;
 }

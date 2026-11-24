@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-24",
- "generated": "2026-11-24T10:03:42Z",
+ "generated": "2026-11-24T10:41:30Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -239743,8 +239743,558 @@ window.ATLASDATA={
  ],
  "hotels": [
   {
+   "name": "Meriton Suites Campbell Street, Sydney",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "6-10 Campbell Street, Haymarket, Sydney, NSW, Australia",
+   "lat": -33.8790097,
+   "lon": 151.2058365,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 6.58,
+    "sydney-lunar-festival-2027": 0.3,
+    "field-day-sydney-2027": 1.5,
+    "laneway-festival-sydney-2027": 3.33,
+    "edutech-australia-2027": 0.71,
+    "sydney-tech-expo-2027": 0.71,
+    "sydney-contemporary-2027": 2.14,
+    "cryptocon-sydney-2026": 0.71,
+    "gartner-security-risk-management-summit-sydney-2027": 0.71,
+    "gartner-data-analytics-summit-sydney-2027": 0.71,
+    "programmable-sydney-2027": 0.89,
+    "ai-engineer-sydney-2026": 0.82,
+    "xrp-australia-2027": 1.94,
+    "digital-economy-conference-2027": 0.89,
+    "enterprise-ai-global-sydney-2027": 0.71,
+    "adapt-data-ai-edge-2027": 1.25,
+    "adapt-digital-ai-edge-2027": 0.82,
+    "cto-day-sydney-2027": 1.94,
+    "australian-international-boat-show-2027": 0.71
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "sydney-contemporary-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "programmable-sydney-2027",
+    "ai-engineer-sydney-2026",
+    "xrp-australia-2027",
+    "digital-economy-conference-2027",
+    "enterprise-ai-global-sydney-2027",
+    "adapt-data-ai-edge-2027",
+    "adapt-digital-ai-edge-2027",
+    "cto-day-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Meriton Suites Pitt Street, Sydney",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "329 Pitt Street, Sydney, NSW, Australia",
+   "lat": -33.8741669,
+   "lon": 151.2077296,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 6.56,
+    "sydney-lunar-festival-2027": 0.86,
+    "field-day-sydney-2027": 0.98,
+    "laneway-festival-sydney-2027": 3.57,
+    "edutech-australia-2027": 0.75,
+    "sydney-tech-expo-2027": 0.75,
+    "cryptocon-sydney-2026": 0.75,
+    "gartner-security-risk-management-summit-sydney-2027": 0.75,
+    "gartner-data-analytics-summit-sydney-2027": 0.75,
+    "programmable-sydney-2027": 0.34,
+    "ai-engineer-sydney-2026": 0.26,
+    "xrp-australia-2027": 1.48,
+    "digital-economy-conference-2027": 0.34,
+    "enterprise-ai-global-sydney-2027": 0.75,
+    "adapt-data-ai-edge-2027": 0.7,
+    "adapt-digital-ai-edge-2027": 0.26,
+    "cto-day-sydney-2027": 1.48,
+    "australian-international-boat-show-2027": 0.75
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "programmable-sydney-2027",
+    "ai-engineer-sydney-2026",
+    "xrp-australia-2027",
+    "digital-economy-conference-2027",
+    "enterprise-ai-global-sydney-2027",
+    "adapt-data-ai-edge-2027",
+    "adapt-digital-ai-edge-2027",
+    "cto-day-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Meriton Suites Waterloo",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "30 Danks Street, Waterloo, NSW, Australia",
+   "lat": -33.8981303,
+   "lon": 151.2150068,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 5.6,
+    "sydney-lunar-festival-2027": 2.1,
+    "field-day-sydney-2027": 3.35,
+    "laneway-festival-sydney-2027": 1.74,
+    "edutech-australia-2027": 2.92,
+    "sydney-tech-expo-2027": 2.92,
+    "sydney-contemporary-2027": 2.2,
+    "cryptocon-sydney-2026": 2.92,
+    "gartner-security-risk-management-summit-sydney-2027": 2.92,
+    "gartner-data-analytics-summit-sydney-2027": 2.92,
+    "programmable-sydney-2027": 2.97,
+    "ai-engineer-sydney-2026": 3.0,
+    "digital-economy-conference-2027": 2.97,
+    "bitcoin-alive-2027": 2.32,
+    "enterprise-ai-global-sydney-2027": 2.92,
+    "adapt-digital-ai-edge-2027": 3.0,
+    "australian-international-boat-show-2027": 2.92
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "sydney-contemporary-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "programmable-sydney-2027",
+    "ai-engineer-sydney-2026",
+    "digital-economy-conference-2027",
+    "bitcoin-alive-2027",
+    "enterprise-ai-global-sydney-2027",
+    "adapt-digital-ai-edge-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Meriton Suites Zetland",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hutchinson Walk, Zetland, NSW, Australia",
+   "lat": -33.9076277,
+   "lon": 151.2125134,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 6.04,
+    "sydney-lunar-festival-2027": 3.01,
+    "field-day-sydney-2027": 4.41,
+    "laneway-festival-sydney-2027": 2.26,
+    "edutech-australia-2027": 3.8,
+    "sydney-tech-expo-2027": 3.8,
+    "sydney-contemporary-2027": 2.44,
+    "bitcoin-alive-2027": 1.65,
+    "australian-international-boat-show-2027": 3.8
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "sydney-contemporary-2027",
+    "bitcoin-alive-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Meriton Suites North Sydney",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Arthur Street, North Sydney, NSW, Australia",
+   "lat": -33.8404764,
+   "lon": 151.2096114,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 8.37,
+    "sydney-lunar-festival-2027": 4.58,
+    "field-day-sydney-2027": 3.11,
+    "laneway-festival-sydney-2027": 6.75,
+    "edutech-australia-2027": 3.96,
+    "sydney-tech-expo-2027": 3.96,
+    "xrp-australia-2027": 2.52,
+    "adapt-data-ai-edge-2027": 3.05,
+    "cto-day-sydney-2027": 2.52,
+    "australian-international-boat-show-2027": 3.96
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "xrp-australia-2027",
+    "adapt-data-ai-edge-2027",
+    "cto-day-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Meriton Suites Mascot Central",
+   "stars": 5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "8 Jackson Drive, Mascot, NSW, Australia",
+   "lat": -33.9230202,
+   "lon": 151.1847198,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 9.03,
+    "sydney-lunar-festival-2027": 4.97,
+    "field-day-sydney-2027": 6.73,
+    "laneway-festival-sydney-2027": 5.34,
+    "edutech-australia-2027": 5.5,
+    "sydney-tech-expo-2027": 5.5,
+    "bitcoin-alive-2027": 3.96,
+    "australian-international-boat-show-2027": 5.5
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "bitcoin-alive-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Coogee Bay Hotel",
+   "stars": 4.5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Coogee Bay Road, Coogee, NSW 2034, Australia",
+   "lat": -33.921162,
+   "lon": 151.2562402,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 3.66,
+    "laneway-festival-sydney-2027": 3.32,
+    "bitcoin-alive-2027": 2.76
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "laneway-festival-sydney-2027",
+    "bitcoin-alive-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Haven Glebe",
+   "stars": 4.5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "196 Glebe Point Road, Glebe, NSW 2037, Australia",
+   "lat": -33.8773871,
+   "lon": 151.1847333,
+   "distance_km": {
+    "sydney-lunar-festival-2027": 1.88,
+    "field-day-sydney-2027": 3.01,
+    "edutech-australia-2027": 1.41,
+    "sydney-tech-expo-2027": 1.41,
+    "australian-international-boat-show-2027": 1.41
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Holiday Inn Express Sydney Airport",
+   "stars": 4.5,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Sarah Street, Mascot, NSW 2020, Australia",
+   "lat": -33.9304163,
+   "lon": 151.1859203,
+   "distance_km": {
+    "bitcoin-alive-2027": 4.09
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "bitcoin-alive-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Metro Aspire Hotel Sydney",
+   "stars": 4,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bulwara Road, Ultimo, NSW 2007, Australia",
+   "lat": -33.8804045,
+   "lon": 151.1985877,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 7.21,
+    "sydney-lunar-festival-2027": 0.55,
+    "field-day-sydney-2027": 2.07,
+    "laneway-festival-sydney-2027": 3.79,
+    "edutech-australia-2027": 0.59,
+    "sydney-tech-expo-2027": 0.59,
+    "sydney-contemporary-2027": 1.66,
+    "cryptocon-sydney-2026": 0.59,
+    "gartner-security-risk-management-summit-sydney-2027": 0.59,
+    "gartner-data-analytics-summit-sydney-2027": 0.59,
+    "programmable-sydney-2027": 1.42,
+    "ai-engineer-sydney-2026": 1.27,
+    "xrp-australia-2027": 2.06,
+    "digital-economy-conference-2027": 1.42,
+    "enterprise-ai-global-sydney-2027": 0.59,
+    "adapt-data-ai-edge-2027": 1.63,
+    "adapt-digital-ai-edge-2027": 1.27,
+    "cto-day-sydney-2027": 2.06,
+    "australian-international-boat-show-2027": 0.59
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "sydney-contemporary-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "programmable-sydney-2027",
+    "ai-engineer-sydney-2026",
+    "xrp-australia-2027",
+    "digital-economy-conference-2027",
+    "enterprise-ai-global-sydney-2027",
+    "adapt-data-ai-edge-2027",
+    "adapt-digital-ai-edge-2027",
+    "cto-day-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Metro Hotel Marlow Sydney Central",
+   "stars": 4,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "431-439 Pitt Street, Sydney, NSW 2000, Australia",
+   "lat": -33.8790384,
+   "lon": 151.2069677,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 6.48,
+    "sydney-lunar-festival-2027": 0.35,
+    "field-day-sydney-2027": 1.45,
+    "laneway-festival-sydney-2027": 3.24,
+    "edutech-australia-2027": 0.79,
+    "sydney-tech-expo-2027": 0.79,
+    "programmable-sydney-2027": 0.86,
+    "ai-engineer-sydney-2026": 0.8,
+    "xrp-australia-2027": 1.97,
+    "digital-economy-conference-2027": 0.86,
+    "adapt-data-ai-edge-2027": 1.24,
+    "adapt-digital-ai-edge-2027": 0.8,
+    "cto-day-sydney-2027": 1.97,
+    "australian-international-boat-show-2027": 0.79
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "programmable-sydney-2027",
+    "ai-engineer-sydney-2026",
+    "xrp-australia-2027",
+    "digital-economy-conference-2027",
+    "adapt-data-ai-edge-2027",
+    "adapt-digital-ai-edge-2027",
+    "cto-day-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
+   "name": "Vulcan Hotel Sydney",
+   "stars": 4,
+   "rating_system": "Star Ratings Australia",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "500 Wattle Street, Ultimo, NSW 2007, Australia",
+   "lat": -33.8818136,
+   "lon": 151.1975036,
+   "distance_km": {
+    "sculpture-by-the-sea-bondi-2027": 7.28,
+    "sydney-lunar-festival-2027": 0.64,
+    "field-day-sydney-2027": 2.25,
+    "laneway-festival-sydney-2027": 3.8,
+    "edutech-australia-2027": 0.77,
+    "sydney-tech-expo-2027": 0.77,
+    "sydney-contemporary-2027": 1.48,
+    "cryptocon-sydney-2026": 0.77,
+    "gartner-security-risk-management-summit-sydney-2027": 0.77,
+    "gartner-data-analytics-summit-sydney-2027": 0.77,
+    "enterprise-ai-global-sydney-2027": 0.77,
+    "australian-international-boat-show-2027": 0.77
+   },
+   "url": "https://www.starratings.com.au/",
+   "event_slugs": [
+    "sculpture-by-the-sea-bondi-2027",
+    "sydney-lunar-festival-2027",
+    "field-day-sydney-2027",
+    "laneway-festival-sydney-2027",
+    "edutech-australia-2027",
+    "sydney-tech-expo-2027",
+    "sydney-contemporary-2027",
+    "cryptocon-sydney-2026",
+    "gartner-security-risk-management-summit-sydney-2027",
+    "gartner-data-analytics-summit-sydney-2027",
+    "enterprise-ai-global-sydney-2027",
+    "australian-international-boat-show-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.starratings.com.au/",
+   "price": null
+  },
+  {
    "name": "SO/Berlin Das Stue",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Drakestrasse 1, 10787 Berlin, Germany",
    "lat": 52.509991,
    "lon": 13.345841,
@@ -239780,6 +240330,10 @@ window.ATLASDATA={
   {
    "name": "Grand Hyatt Berlin",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Marlene-Dietrich-Platz 2, 10785 Berlin, Germany",
    "lat": 52.5081971,
    "lon": 13.3724841,
@@ -239817,6 +240371,10 @@ window.ATLASDATA={
   {
    "name": "The Mandala Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Potsdamer Straße 3, 10785 Berlin, Germany",
    "lat": 52.5089383,
    "lon": 13.3738661,
@@ -239863,6 +240421,10 @@ window.ATLASDATA={
   {
    "name": "The Ritz-Carlton Berlin",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Potsdamer Platz 3, 10785 Berlin, Germany",
    "lat": 52.5103653,
    "lon": 13.3753306,
@@ -239896,6 +240458,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Adlon Kempinski Berlin",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Unter den Linden 77, 10117 Berlin, Germany",
    "lat": 52.516133,
    "lon": 13.380176,
@@ -239940,6 +240506,10 @@ window.ATLASDATA={
   {
    "name": "Hotel de Rome",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Behrenstraße 37, 10117 Berlin, Germany",
    "lat": 52.5157914,
    "lon": 13.3940671,
@@ -239983,6 +240553,10 @@ window.ATLASDATA={
   {
    "name": "Radisson Collection Hotel, Berlin",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Karl-Liebknecht-Straße 3, 10178 Berlin, Germany",
    "lat": 52.5195175,
    "lon": 13.4028297,
@@ -240014,6 +240588,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Seehof Berlin",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Lietzensee-Ufer 11, 14057 Berlin, Germany",
    "lat": 52.5071916,
    "lon": 13.2888182,
@@ -240045,6 +240623,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Hotel Kantstrasse Berlin",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Kantstraße 111, 10625 Berlin, Germany",
    "lat": 52.5065785,
    "lon": 13.3059069,
@@ -240076,6 +240658,10 @@ window.ATLASDATA={
   {
    "name": "Hollywood Media Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Kurfürstendamm 202, 10719 Berlin, Germany",
    "lat": 52.5016365,
    "lon": 13.3212851,
@@ -240105,6 +240691,10 @@ window.ATLASDATA={
   {
    "name": "NH Berlin Kurfürstendamm",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Grolmanstraße, 10623 Berlin, Germany",
    "lat": 52.5040782,
    "lon": 13.324197,
@@ -240134,6 +240724,10 @@ window.ATLASDATA={
   {
    "name": "H10 Berlin Ku'damm",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Joachimsthalerstraße 31-32, 10719 Berlin, Germany",
    "lat": 52.5019694,
    "lon": 13.3314215,
@@ -240155,6 +240749,10 @@ window.ATLASDATA={
   {
    "name": "NH Berlin Potsdamer Platz",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Stresemannstraße 47, 10963 Berlin, Germany",
    "lat": 52.5015937,
    "lon": 13.3856171,
@@ -240178,6 +240776,10 @@ window.ATLASDATA={
   {
    "name": "NH Collection Berlin Friedrichstrasse",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Friedrichstraße 96, 10117 Berlin, Germany",
    "lat": 52.5195761,
    "lon": 13.3888965,
@@ -240209,6 +240811,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Berlin Mitte",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Fischerinsel 12, 10179 Berlin, Germany",
    "lat": 52.512978,
    "lon": 13.405055,
@@ -240240,6 +240846,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Hotel Berlin Wittenbergplatz",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Wittenbergplatz 3, 10789 Berlin, Germany",
    "lat": 52.501029,
    "lon": 13.342554,
@@ -240265,6 +240875,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Hotel Berlin City",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Invalidenstrasse 38, 10115 Berlin, Germany",
    "lat": 52.53024,
    "lon": 13.381882,
@@ -240286,6 +240900,10 @@ window.ATLASDATA={
   {
    "name": "INNSiDE by Meliá Berlin Mitte",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Chausseestraße 33, 10115 Berlin, Germany",
    "lat": 52.5330183,
    "lon": 13.3807686,
@@ -240307,6 +240925,10 @@ window.ATLASDATA={
   {
    "name": "Hotel München Palace",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Trogerstraße 21, 81675 München, Germany",
    "lat": 48.1400488,
    "lon": 11.6012596,
@@ -240342,6 +240964,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Vier Jahreszeiten Kempinski München",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Maximilianstrasse 17, 80539 München, Germany",
    "lat": 48.1389,
    "lon": 11.5815,
@@ -240379,6 +241005,10 @@ window.ATLASDATA={
   {
    "name": "Mandarin Oriental, Munich",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Neuturmstrasse 1, 80331 München, Germany",
    "lat": 48.137148,
    "lon": 11.580885,
@@ -240416,6 +241046,10 @@ window.ATLASDATA={
   {
    "name": "Rosewood Munich",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Kardinal-Faulhaber-Straße 1, 80333 München, Germany",
    "lat": 48.1411146,
    "lon": 11.5744216,
@@ -240443,6 +241077,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Bayerischer Hof",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Promenadeplatz 6, 80333 München, Germany",
    "lat": 48.1404741,
    "lon": 11.5729285,
@@ -240470,6 +241108,10 @@ window.ATLASDATA={
   {
    "name": "The Charles Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Sophienstraße 28, 80333 München, Germany",
    "lat": 48.1428924,
    "lon": 11.5625182,
@@ -240497,6 +241139,10 @@ window.ATLASDATA={
   {
    "name": "Sofitel Munich Bayerpost",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Bayerstrasse 12, 80335 München, Germany",
    "lat": 48.139495,
    "lon": 11.55678,
@@ -240518,6 +241164,10 @@ window.ATLASDATA={
   {
    "name": "Novotel München Messe",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Willy-Brandt-Platz 1, 81829 München, Germany",
    "lat": 48.133064,
    "lon": 11.69264,
@@ -240543,6 +241193,10 @@ window.ATLASDATA={
   {
    "name": "Wyndham Garden Munich Messe",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Stahlgruberring 4, 81829 München, Germany",
    "lat": 48.1328787,
    "lon": 11.6629034,
@@ -240568,6 +241222,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Am Moosfeld",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Am Moosfeld 35, 81829 München, Germany",
    "lat": 48.1328145,
    "lon": 11.66167,
@@ -240593,6 +241251,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Hotel München Süd Messe",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Karl-Marx-Ring 87, 81735 München, Germany",
    "lat": 48.102137,
    "lon": 11.659327,
@@ -240618,6 +241280,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Hotel München City Center",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Senefelder Str. 9, 80336 München, Germany",
    "lat": 48.137948,
    "lon": 11.560171,
@@ -240639,6 +241305,10 @@ window.ATLASDATA={
   {
    "name": "Novotel München City Arnulfpark",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Arnulfstrasse 57, 80636 München, Germany",
    "lat": 48.145601,
    "lon": 11.539065,
@@ -240660,6 +241330,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Drei Löwen",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Schillerstraße 8, 80336 München, Germany",
    "lat": 48.138529,
    "lon": 11.5609351,
@@ -240681,6 +241355,10 @@ window.ATLASDATA={
   {
    "name": "NH Collection München Bavaria",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Arnulfstraße 2, 80335 München, Germany",
    "lat": 48.1416214,
    "lon": 11.5602219,
@@ -240702,6 +241380,10 @@ window.ATLASDATA={
   {
    "name": "Hilton Munich City",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Rosenheimer Straße 15, 81667 München, Germany",
    "lat": 48.1298108,
    "lon": 11.5927247,
@@ -240731,6 +241413,10 @@ window.ATLASDATA={
   {
    "name": "Novotel München City",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Hochstrasse 11, 81669 München, Germany",
    "lat": 48.129516,
    "lon": 11.58865,
@@ -240758,8 +241444,3429 @@ window.ATLASDATA={
    "price": null
   },
   {
+   "name": "KASTENS HOTEL LUISENHOF",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Luisenstraße 1 - 3, 30159 Hannover, Germany",
+   "lat": 52.3744,
+   "lon": 9.7411,
+   "distance_km": {
+    "didacta-2027": 7.06,
+    "hannover-messe-2027": 7.06,
+    "schuetzenfest-hannover-2027": 1.53
+   },
+   "url": "http://www.kastens-luisenhof.de",
+   "event_slugs": [
+    "didacta-2027",
+    "hannover-messe-2027",
+    "schuetzenfest-hannover-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/5-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Best Western Premier Parkhotel Kronsberg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Gut Kronsberg 1, 30539 Hannover, Germany",
+   "lat": 52.3239,
+   "lon": 9.815,
+   "distance_km": {
+    "didacta-2027": 0.64,
+    "hannover-messe-2027": 0.64
+   },
+   "url": "https://www.parkhotel-kronsberg.de/",
+   "event_slugs": [
+    "didacta-2027",
+    "hannover-messe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "The Radisson Blu Hotel Hannover",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Expo Plaza 5, 30539 Hannover, Germany",
+   "lat": 52.3221,
+   "lon": 9.8144,
+   "distance_km": {
+    "didacta-2027": 0.66,
+    "hannover-messe-2027": 0.66
+   },
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-hannover",
+   "event_slugs": [
+    "didacta-2027",
+    "hannover-messe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Designhotel Wienecke XI",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hildesheimer Strasse 380, 30519 Hannover, Germany",
+   "lat": 52.3275,
+   "lon": 9.7779,
+   "distance_km": {
+    "didacta-2027": 1.91,
+    "hannover-messe-2027": 1.91
+   },
+   "url": "http://www.wienecke.de",
+   "event_slugs": [
+    "didacta-2027",
+    "hannover-messe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Congress Hotel am Stadtpark",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Clausewitzstraße 6, 30175 Hannover, Germany",
+   "lat": 52.3752,
+   "lon": 9.7711,
+   "distance_km": {
+    "didacta-2027": 6.09,
+    "hannover-messe-2027": 6.09
+   },
+   "url": "http://www.congress-hotel-hannover.de",
+   "event_slugs": [
+    "didacta-2027",
+    "hannover-messe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Congress Hotel Mercure Nürnberg an der Messe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Münchener Straße 283, 90471 Nürnberg, Germany",
+   "lat": 49.424,
+   "lon": 11.1069,
+   "distance_km": {
+    "embedded-world-2027": 0.99,
+    "rock-im-park-2027": 1.68,
+    "it-sa-2027": 0.99
+   },
+   "url": "https://www.mercure-hotel-nuernberg-congress.de",
+   "event_slugs": [
+    "embedded-world-2027",
+    "rock-im-park-2027",
+    "it-sa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/nuernberg/4-sterne-hotels-nuernberg",
+   "price": null
+  },
+  {
+   "name": "Ramada by Wyndham Nürnberg Parkhotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Münchener Straße 25, 90478 Nürnberg, Germany",
+   "lat": 49.4371,
+   "lon": 11.1043,
+   "distance_km": {
+    "embedded-world-2027": 2.24,
+    "rock-im-park-2027": 2.29,
+    "it-sa-2027": 2.24
+   },
+   "url": "http://www.ramada-nuernberg.de",
+   "event_slugs": [
+    "embedded-world-2027",
+    "rock-im-park-2027",
+    "it-sa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/nuernberg/4-sterne-hotels-nuernberg",
+   "price": null
+  },
+  {
+   "name": "ARVENA PARK - Das Hotel am Franken-Center",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Görlitzer Straße 51, 90473 Nürnberg, Germany",
+   "lat": 49.4001,
+   "lon": 11.1375,
+   "distance_km": {
+    "embedded-world-2027": 2.53,
+    "rock-im-park-2027": 2.83,
+    "it-sa-2027": 2.53
+   },
+   "url": "https://www.arvena-park.de/",
+   "event_slugs": [
+    "embedded-world-2027",
+    "rock-im-park-2027",
+    "it-sa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/nuernberg/4-sterne-hotels-nuernberg",
+   "price": null
+  },
+  {
+   "name": "Novina Hotel Wöhrdersee Nürnberg City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Dürrenhofstraße 8, 90402 Nürnberg, Germany",
+   "lat": 49.4496,
+   "lon": 11.0968,
+   "distance_km": {
+    "embedded-world-2027": 3.72,
+    "rock-im-park-2027": 3.63,
+    "it-sa-2027": 3.72
+   },
+   "url": "https://www.novina-woehrdersee.de",
+   "event_slugs": [
+    "embedded-world-2027",
+    "rock-im-park-2027",
+    "it-sa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/nuernberg/4-sterne-hotels-nuernberg",
+   "price": null
+  },
+  {
+   "name": "Sachsenpark Hotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Walter-Köhn-Straße 3, 04356 Leipzig, Germany",
+   "lat": 51.4002,
+   "lon": 12.4019,
+   "distance_km": {
+    "leipziger-buchmesse-2027": 0.44
+   },
+   "url": "https://www.sachsenparkhotel.de/de",
+   "event_slugs": [
+    "leipziger-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "NH Leipzig Messe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Fuggerstraße 2, 04159 Leipzig, Germany",
+   "lat": 51.4025,
+   "lon": 12.3903,
+   "distance_km": {
+    "leipziger-buchmesse-2027": 1.14
+   },
+   "url": "https://www.nh-hotels.de/hotel/nh-leipzig-messe",
+   "event_slugs": [
+    "leipziger-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "Radisson Hotel Leipzig",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Berliner Straße 24, 04105 Leipzig, Germany",
+   "lat": 51.3497,
+   "lon": 12.3799,
+   "distance_km": {
+    "leipziger-buchmesse-2027": 5.44
+   },
+   "url": "https://www.radissonhotels.com/de-de/hotels/radisson-leipzig",
+   "event_slugs": [
+    "leipziger-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "Suite Hotel Leipzig",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Permoser Straße 50, 04328 Leipzig, Germany",
+   "lat": 51.3504,
+   "lon": 12.4412,
+   "distance_km": {
+    "leipziger-buchmesse-2027": 5.74
+   },
+   "url": "https://book-qres.qr-hotels.com/?hotel=75010",
+   "event_slugs": [
+    "leipziger-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "SIDE Design Hotel Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Drehbahn 49, 20354 Hamburg, Germany",
+   "lat": 53.5567,
+   "lon": 9.9866,
+   "distance_km": {
+    "omr-festival-2027": 0.98,
+    "hafengeburtstag-hamburg-2027": 1.64,
+    "40c3-2026": 0.66
+   },
+   "url": "https://www.side-hamburg.de",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Grand Elysée Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rothenbaumchaussee 10, 20148 Hamburg, Germany",
+   "lat": 53.5634,
+   "lon": 9.9909,
+   "distance_km": {
+    "omr-festival-2027": 1.03,
+    "hafengeburtstag-hamburg-2027": 2.4,
+    "40c3-2026": 0.9
+   },
+   "url": "https://www.grand-elysee.com",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Fairmont Hotel Vier Jahreszeiten Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Neuer Jungfernstieg 9 - 14, 20354 Hamburg, Germany",
+   "lat": 53.5557,
+   "lon": 9.9914,
+   "distance_km": {
+    "omr-festival-2027": 1.3,
+    "hafengeburtstag-hamburg-2027": 1.79,
+    "40c3-2026": 0.99
+   },
+   "url": "https://www.fairmont-hvj.de",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "The Fontenay Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Fontenay 10, 20354 Hamburg, Germany",
+   "lat": 53.5655,
+   "lon": 9.9979,
+   "distance_km": {
+    "omr-festival-2027": 1.53,
+    "hafengeburtstag-hamburg-2027": 2.87,
+    "40c3-2026": 1.42
+   },
+   "url": "https://www.thefontenay.de",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Hotel Atlantic Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "An der Alster 72 - 79, 20099 Hamburg, Germany",
+   "lat": 53.5571,
+   "lon": 10.0051,
+   "distance_km": {
+    "omr-festival-2027": 2.05,
+    "hafengeburtstag-hamburg-2027": 2.63,
+    "40c3-2026": 1.79
+   },
+   "url": "https://www.marriott.com/de/hotels/hamak-hotel-atlantic-hamburg-autograph-collection/overview/",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "CONRAD Hamburg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bugenhagenstrasse 8, 20095 Hamburg, Germany",
+   "lat": 53.551,
+   "lon": 10.003,
+   "distance_km": {
+    "omr-festival-2027": 2.23,
+    "hafengeburtstag-hamburg-2027": 2.24,
+    "40c3-2026": 1.92
+   },
+   "url": "https://www.hilton.com/de/hotels/hamshci-conrad-hamburg/",
+   "event_slugs": [
+    "omr-festival-2027",
+    "hafengeburtstag-hamburg-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/5-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Hamburg Mitte",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schröderstiftstr. 3, 20146 Hamburg, Germany",
+   "lat": 53.5647,
+   "lon": 9.9771,
+   "distance_km": {
+    "omr-festival-2027": 0.27,
+    "40c3-2026": 0.51
+   },
+   "url": "https://www.mercure.com",
+   "event_slugs": [
+    "omr-festival-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "NH Collection Hamburg City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Feldstr. 53-58, 20357 Hamburg, Germany",
+   "lat": 53.557,
+   "lon": 9.9739,
+   "distance_km": {
+    "omr-festival-2027": 0.61,
+    "40c3-2026": 0.46
+   },
+   "url": "https://www.nh-hotels.de/hotel/nh-collection-hamburg-city?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest",
+   "event_slugs": [
+    "omr-festival-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Radisson Blu Hotel Hamburg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Marseiller Straße 2, 20355 Hamburg, Germany",
+   "lat": 53.5615,
+   "lon": 9.9874,
+   "distance_km": {
+    "omr-festival-2027": 0.8,
+    "40c3-2026": 0.61
+   },
+   "url": "https://www.radissonblu.com/hotel-hamburg",
+   "event_slugs": [
+    "omr-festival-2027",
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "NH Hamburg Mitte",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schäferkampsallee 49, 20357 Hamburg, Germany",
+   "lat": 53.569,
+   "lon": 9.9654,
+   "distance_km": {
+    "omr-festival-2027": 0.98
+   },
+   "url": "https://www.nh-hotels.com",
+   "event_slugs": [
+    "omr-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Hotel Hafen Hamburg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Seewartenstr. 9, 20459 Hamburg, Germany",
+   "lat": 53.5468,
+   "lon": 9.9698,
+   "distance_km": {
+    "hafengeburtstag-hamburg-2027": 0.14
+   },
+   "url": "https://www.hotel-hafen-hamburg.de/",
+   "event_slugs": [
+    "hafengeburtstag-hamburg-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "ARCOTEL Onyx Hamburg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Reeperbahn 1 a, 20359 Hamburg, Germany",
+   "lat": 53.5496,
+   "lon": 9.9681,
+   "distance_km": {
+    "hafengeburtstag-hamburg-2027": 0.47
+   },
+   "url": "https://www.arcotelhotels.com",
+   "event_slugs": [
+    "hafengeburtstag-hamburg-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "east Hotel Hamburg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Simon-von-Utrecht-Str. 31, 20359 Hamburg, Germany",
+   "lat": 53.5512,
+   "lon": 9.9662,
+   "distance_km": {
+    "hafengeburtstag-hamburg-2027": 0.69
+   },
+   "url": "https://www.east-hamburg.de",
+   "event_slugs": [
+    "hafengeburtstag-hamburg-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Madison Hotel Hamburg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schaarsteinweg 4, 20459 Hamburg, Germany",
+   "lat": 53.5462,
+   "lon": 9.981,
+   "distance_km": {
+    "hafengeburtstag-hamburg-2027": 0.71
+   },
+   "url": "https://www.madisonhotel.de",
+   "event_slugs": [
+    "hafengeburtstag-hamburg-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Golden Tulip Kassel Hotel Reiss",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Werner-Hilpert-Straße 24, 34117 Kassel, Germany",
+   "lat": 51.3184,
+   "lon": 9.492,
+   "distance_km": {
+    "documenta-16": 0.63
+   },
+   "url": "https://www.hotelreiss.de",
+   "event_slugs": [
+    "documenta-16"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kassel/4-sterne-hotels-kassel",
+   "price": null
+  },
+  {
+   "name": "Hotel Gude",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Frankfurter Strasse 299, 34134 Kassel, Germany",
+   "lat": 51.2826,
+   "lon": 9.4685,
+   "distance_km": {
+    "documenta-16": 3.94
+   },
+   "url": "https://hotel-gude.de/",
+   "event_slugs": [
+    "documenta-16"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kassel/4-sterne-hotels-kassel",
+   "price": null
+  },
+  {
+   "name": "FischerS",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Wilhelmshöher Allee 336, 34131 Kassel, Germany",
+   "lat": 51.3143,
+   "lon": 9.4329,
+   "distance_km": {
+    "documenta-16": 4.41
+   },
+   "url": "https://www.fischers-kassel.de/de/",
+   "event_slugs": [
+    "documenta-16"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kassel/4-sterne-hotels-kassel",
+   "price": null
+  },
+  {
+   "name": "Schlosshotel Bad Wilhelmshöhe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schlosspark 8, 34131 Kassel, Germany",
+   "lat": 51.3177,
+   "lon": 9.4162,
+   "distance_km": {
+    "documenta-16": 5.59
+   },
+   "url": "http://www.schlosshotel-kassel.de",
+   "event_slugs": [
+    "documenta-16"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kassel/4-sterne-hotels-kassel",
+   "price": null
+  },
+  {
+   "name": "Courtyard by Marriott Hannover Maschsee",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Arthur-Menge-Ufer 3, 30169 Hannover, Germany",
+   "lat": 52.362,
+   "lon": 9.735,
+   "distance_km": {
+    "schuetzenfest-hannover-2027": 0.43
+   },
+   "url": "http://www.marriott.de/hotels/travel/hajcy-courtya",
+   "event_slugs": [
+    "schuetzenfest-hannover-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Hannover City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Willy-Brandt-Allee 3, 30169 Hannover, Germany",
+   "lat": 52.3668,
+   "lon": 9.7405,
+   "distance_km": {
+    "schuetzenfest-hannover-2027": 0.9
+   },
+   "url": "https://all.accor.com/hotel/1016/index.de.shtml",
+   "event_slugs": [
+    "schuetzenfest-hannover-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "InterCityHotel Hannover",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rosenstr. 1, 30159 Hannover, Germany",
+   "lat": 52.3764,
+   "lon": 9.7379,
+   "distance_km": {
+    "schuetzenfest-hannover-2027": 1.63
+   },
+   "url": "https://hrewards.com/de/intercityhotel-hannover",
+   "event_slugs": [
+    "schuetzenfest-hannover-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Central-Hotel Kaiserhof",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Ernst-August-Platz 4, 30159 Hannover, Germany",
+   "lat": 52.3763,
+   "lon": 9.7391,
+   "distance_km": {
+    "schuetzenfest-hannover-2027": 1.65
+   },
+   "url": "http://www.centralhotel.de",
+   "event_slugs": [
+    "schuetzenfest-hannover-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hannover/4-sterne-hotels-hannover",
+   "price": null
+  },
+  {
+   "name": "Excelsior Hotel Ernst",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Trankgasse 1-5, 50667 Köln, Germany",
+   "lat": 50.9419,
+   "lon": 6.9566,
+   "distance_km": {
+    "gamescom-2027": 1.68,
+    "dmexco-2027": 1.68,
+    "art-cologne-2027": 1.68,
+    "jcon-europe-2027": 1.01
+   },
+   "url": "http://www.excelsior-hotel-ernst.de",
+   "event_slugs": [
+    "gamescom-2027",
+    "dmexco-2027",
+    "art-cologne-2027",
+    "jcon-europe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/5-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Radisson Blu Hotel Cologne",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Messe Kreisel 3, 50679 Köln, Germany",
+   "lat": 50.9439,
+   "lon": 6.9849,
+   "distance_km": {
+    "gamescom-2027": 0.42,
+    "dmexco-2027": 0.42,
+    "art-cologne-2027": 0.42
+   },
+   "url": "https://www.radissonblu.com/de/hotel-koeln",
+   "event_slugs": [
+    "gamescom-2027",
+    "dmexco-2027",
+    "art-cologne-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Hotel Stadtpalais",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Deutz-Kalker-Str. 52, 50679 Köln, Germany",
+   "lat": 50.9371,
+   "lon": 6.9833,
+   "distance_km": {
+    "gamescom-2027": 1.0,
+    "dmexco-2027": 1.0,
+    "art-cologne-2027": 1.0
+   },
+   "url": "https://www.hotelstadtpalais.de",
+   "event_slugs": [
+    "gamescom-2027",
+    "dmexco-2027",
+    "art-cologne-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Hotel Viktoria",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Worringer Straße 23, 50668 Köln, Germany",
+   "lat": 50.9536,
+   "lon": 6.9689,
+   "distance_km": {
+    "gamescom-2027": 1.15,
+    "dmexco-2027": 1.15
+   },
+   "url": "https://www.hotelviktoria.com/de/index.html",
+   "event_slugs": [
+    "gamescom-2027",
+    "dmexco-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Köln Belfortstraße",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Belfortstraße 9, 50668 Köln, Germany",
+   "lat": 50.9521,
+   "lon": 6.9629,
+   "distance_km": {
+    "gamescom-2027": 1.37,
+    "dmexco-2027": 1.37
+   },
+   "url": "https://www.mercure-hotel-koeln-belfortstrasse.de",
+   "event_slugs": [
+    "gamescom-2027",
+    "dmexco-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Sofitel Frankfurt Opera",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Opernplatz 16, 60313 Frankfurt am Main, Germany",
+   "lat": 50.116,
+   "lon": 8.6736,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 2.14,
+    "world-club-dome-2027": 5.64,
+    "cloud-ai-infrastructure-frankfurt-2027": 2.14,
+    "crypto-assets-conference-2027": 1.91,
+    "frankfurt-european-banking-congress-2027": 0.12
+   },
+   "url": "https://sofitel.accorhotels.com/de/hotel-8159-sofitel-frankfurt-opera/index.shtml",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027",
+    "world-club-dome-2027",
+    "cloud-ai-infrastructure-frankfurt-2027",
+    "crypto-assets-conference-2027",
+    "frankfurt-european-banking-congress-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/5-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Steigenberger Frankfurter Hof",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Am Kaiserplatz 17, 60311 Frankfurt am Main, Germany",
+   "lat": 50.1103,
+   "lon": 8.6761,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 2.26,
+    "world-club-dome-2027": 5.13,
+    "cloud-ai-infrastructure-frankfurt-2027": 2.26,
+    "crypto-assets-conference-2027": 2.5,
+    "frankfurt-european-banking-congress-2027": 0.7
+   },
+   "url": "https://hrewards.com/de/steigenberger-icon-frankfurter-hof",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027",
+    "world-club-dome-2027",
+    "cloud-ai-infrastructure-frankfurt-2027",
+    "crypto-assets-conference-2027",
+    "frankfurt-european-banking-congress-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/5-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Atlantic Hotel Frankfurt",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Europa-Allee 68, 60486 Frankfurt, Germany",
+   "lat": 50.1089,
+   "lon": 8.6424,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 0.33,
+    "cloud-ai-infrastructure-frankfurt-2027": 0.33
+   },
+   "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027",
+    "cloud-ai-infrastructure-frankfurt-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel & Residenz Frankfurt Messe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Voltastraße 29, 60486 Frankfurt am Main, Germany",
+   "lat": 50.1167,
+   "lon": 8.639,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 0.69,
+    "cloud-ai-infrastructure-frankfurt-2027": 0.69
+   },
+   "url": "https://all.accor.com/hotel/1204/index.de.shtml",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027",
+    "cloud-ai-infrastructure-frankfurt-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Meliá Frankfurt City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Senckenberganlage 13, 60325 Frankfurt am Main, Germany",
+   "lat": 50.1166,
+   "lon": 8.6505,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 0.71
+   },
+   "url": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Villa Westend Hotel an der Messe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Westendstraße 104, 60325 Frankfurt am Main, Germany",
+   "lat": 50.1158,
+   "lon": 8.6533,
+   "distance_km": {
+    "frankfurter-buchmesse-2027": 0.79
+   },
+   "url": "https://www.hotel-an-der-messe.de/",
+   "event_slugs": [
+    "frankfurter-buchmesse-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "BurgStadt Hotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Südstraße 34, 56288 Kastellaun, Germany",
+   "lat": 50.0682,
+   "lon": 7.4535,
+   "distance_km": {
+    "nature-one-2027": 3.4
+   },
+   "url": "http://www.burgstadt.de",
+   "event_slugs": [
+    "nature-one-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kastellaun/4-sterne-hotels-kastellaun",
+   "price": null
+  },
+  {
+   "name": "Landidyll Hotel Restaurant Birkenhof OHG",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Birkenweg 1, 55469 Klosterkumbd, Germany",
+   "lat": 50.037,
+   "lon": 7.5348,
+   "distance_km": {
+    "nature-one-2027": 7.84
+   },
+   "url": "http://www.landidyll-birkenhof.de",
+   "event_slugs": [
+    "nature-one-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/klosterkumbd/4-sterne-hotels-klosterkumbd",
+   "price": null
+  },
+  {
+   "name": "Hotel & Restaurant Waldesblick",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Luhnhofweg 1, 56288 Lahr, Germany",
+   "lat": 50.1267,
+   "lon": 7.3665,
+   "distance_km": {
+    "nature-one-2027": 10.17
+   },
+   "url": "https://waldesblick.de/",
+   "event_slugs": [
+    "nature-one-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/lahr/4-sterne-hotels-lahr",
+   "price": null
+  },
+  {
+   "name": "Hotel Halfenstube und Villa Spa 1894",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Moselweinstraße 30, 56820 Senheim, Germany",
+   "lat": 50.0868,
+   "lon": 7.2038,
+   "distance_km": {
+    "nature-one-2027": 16.54
+   },
+   "url": "https://www.hotel-halfenstube.de/",
+   "event_slugs": [
+    "nature-one-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/senheim/4-sterne-hotels-senheim",
+   "price": null
+  },
+  {
+   "name": "Kleinhuis Hotel Baseler Hof",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Esplanade 11, 20354 Hamburg, Germany",
+   "lat": 53.5577,
+   "lon": 9.9912,
+   "distance_km": {
+    "40c3-2026": 0.89
+   },
+   "url": "https://www.baselerhof.de",
+   "event_slugs": [
+    "40c3-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/hamburg/4-sterne-hotels-hamburg",
+   "price": null
+  },
+  {
+   "name": "Hotel Erbprinz",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Rheinstraße 1, 76275 Ettlingen, Germany",
+   "lat": 48.9414,
+   "lon": 8.4046,
+   "distance_km": {
+    "learntec-2027": 6.97
+   },
+   "url": "http://www.erbprinz.de",
+   "event_slugs": [
+    "learntec-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/ettlingen/5-sterne-hotels-ettlingen",
+   "price": null
+  },
+  {
+   "name": "Radisson Blu Hotel Karlsruhe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Am Hardtwald 10, 76275 Ettlingen, Germany",
+   "lat": 48.9574,
+   "lon": 8.3791,
+   "distance_km": {
+    "learntec-2027": 4.41
+   },
+   "url": "https://www.radissonblu.com/en/hotel-karlsruhe",
+   "event_slugs": [
+    "learntec-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/ettlingen/4-sterne-hotels-ettlingen",
+   "price": null
+  },
+  {
+   "name": "Hotel Rio Karlsruhe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hans-Sachs-Straße 2/3, 76133 Karlsruhe, Germany",
+   "lat": 49.0096,
+   "lon": 8.3862,
+   "distance_km": {
+    "learntec-2027": 5.17
+   },
+   "url": "http://www.hotel-rio.de",
+   "event_slugs": [
+    "learntec-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/karlsruhe/4-sterne-hotels-karlsruhe",
+   "price": null
+  },
+  {
+   "name": "Hotel Santo",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Karlstraße 67-69, 76137 Karlsruhe, Germany",
+   "lat": 49.0013,
+   "lon": 8.3946,
+   "distance_km": {
+    "learntec-2027": 5.21
+   },
+   "url": "http://www.hotel-santo.de",
+   "event_slugs": [
+    "learntec-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/karlsruhe/4-sterne-hotels-karlsruhe",
+   "price": null
+  },
+  {
+   "name": "Schlosshotel Karlsruhe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bahnhofplatz 2, 76137 Karlsruhe, Germany",
+   "lat": 48.9951,
+   "lon": 8.4022,
+   "distance_km": {
+    "learntec-2027": 5.47
+   },
+   "url": "http://www.schlosshotelkarlsruhe.de/",
+   "event_slugs": [
+    "learntec-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/karlsruhe/4-sterne-hotels-karlsruhe",
+   "price": null
+  },
+  {
+   "name": "Der Europäische Hof Heidelberg",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Friedrich-Ebert-Anlage 1, 69117 Heidelberg, Germany",
+   "lat": 49.408,
+   "lon": 8.6956,
+   "distance_km": {
+    "time-warp-2027": 14.11,
+    "animagic-2027": 17.94,
+    "pycon-de-2027": 1.78,
+    "troopers-2027": 1.93,
+    "developer-week-2027": 17.94
+   },
+   "url": "http://www.europaeischerhof.com",
+   "event_slugs": [
+    "time-warp-2027",
+    "animagic-2027",
+    "pycon-de-2027",
+    "troopers-2027",
+    "developer-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/heidelberg/5-sterne-hotels-heidelberg",
+   "price": null
+  },
+  {
+   "name": "Mercure Mannheim am Friedensplatz",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Am Friedensplatz 1, 68165 Mannheim, Germany",
+   "lat": 49.4788,
+   "lon": 8.4936,
+   "distance_km": {
+    "time-warp-2027": 2.48
+   },
+   "url": "https://all.accor.com/hotel/B0R0/index.de.shtml",
+   "event_slugs": [
+    "time-warp-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Hotel NH Mannheim",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Seckenheimer Straße 146, 68165 Mannheim, Germany",
+   "lat": 49.48,
+   "lon": 8.49,
+   "distance_km": {
+    "time-warp-2027": 2.77
+   },
+   "url": "https://www.nh-hotels.de/hotel/nh-mannheim",
+   "event_slugs": [
+    "time-warp-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Best Western Plus Delta Park Hotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Keplerstraße 24, 68165 Mannheim, Germany",
+   "lat": 49.4795,
+   "lon": 8.475,
+   "distance_km": {
+    "time-warp-2027": 3.75
+   },
+   "url": "https://www.bestwestern.de/hotels/Mannheim/BEST-WESTERN-PLUS-Delta-Park-Hotel",
+   "event_slugs": [
+    "time-warp-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Lanzcarré Hotel, a member of Radisson Individuals",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Heinz-Haber-Strasse 2, 68163 Mannheim, Germany",
+   "lat": 49.4739,
+   "lon": 8.4725,
+   "distance_km": {
+    "time-warp-2027": 3.77
+   },
+   "url": "https://www.radissonhotels.com/de-de/hotels/radisson-individuals-lanzcarre-mannheim",
+   "event_slugs": [
+    "time-warp-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Mercure Dortmund Messe & Kongress Westfalenhallen",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Strobelallee 41, 44139 Dortmund, Germany",
+   "lat": 51.4954,
+   "lon": 7.4561,
+   "distance_km": {
+    "mayday-2027": 0.14,
+    "german-film-comic-con-2026": 0.14,
+    "juicy-beats-2027": 1.43
+   },
+   "url": "https://all.accor.com/hotel/9169/index.de.shtml?y_source=1_MTUzNjAyMTctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D",
+   "event_slugs": [
+    "mayday-2027",
+    "german-film-comic-con-2026",
+    "juicy-beats-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/dortmund/4-sterne-hotels-dortmund",
+   "price": {
+    "amount": 216.86,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "german-film-comic-con-2026",
+    "check_in": "2026-12-05",
+    "check_out": "2026-12-06",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Ringhotel Drees",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hohe Straße 107, 44139 Dortmund, Germany",
+   "lat": 51.5016,
+   "lon": 7.4584,
+   "distance_km": {
+    "mayday-2027": 0.57,
+    "german-film-comic-con-2026": 0.57,
+    "juicy-beats-2027": 1.45
+   },
+   "url": "https://www.ringhotels.de/de/hotel_detail/ringhotel-drees_121",
+   "event_slugs": [
+    "mayday-2027",
+    "german-film-comic-con-2026",
+    "juicy-beats-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/dortmund/4-sterne-hotels-dortmund",
+   "price": {
+    "amount": 173.86,
+    "currency": "USD",
+    "as_of": "2026-11-24",
+    "source": "HotelSearch (Duffel)",
+    "event_slug": "german-film-comic-con-2026",
+    "check_in": "2026-12-05",
+    "check_out": "2026-12-06",
+    "type": "event_dates_lowest"
+   }
+  },
+  {
+   "name": "Unique Hotel Dortmund",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hoher Wall 38, 44137 Dortmund, Germany",
+   "lat": 51.5134,
+   "lon": 7.4553,
+   "distance_km": {
+    "mayday-2027": 1.88
+   },
+   "url": "https://hdhotels.de/hd-hotel-unique-dortmund-hauptbahnhof/",
+   "event_slugs": [
+    "mayday-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/dortmund/4-sterne-hotels-dortmund",
+   "price": null
+  },
+  {
+   "name": "Courtyard by Marriott",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Emil-Figge-Straße 41, 44227 Dortmund, Germany",
+   "lat": 51.4954,
+   "lon": 7.4255,
+   "distance_km": {
+    "mayday-2027": 2.18
+   },
+   "url": "https://www.marriott.com/de/hotels/dtmcy-courtyart-dortmund/overview/",
+   "event_slugs": [
+    "mayday-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/dortmund/4-sterne-hotels-dortmund",
+   "price": null
+  },
+  {
+   "name": "Dorint Hotel Am Nürburgring Hocheifel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Grand-Prix_Strecke, 53520 Nürburg, Germany",
+   "lat": 50.3322,
+   "lon": 6.9423,
+   "distance_km": {
+    "rock-am-ring-2027": 0.18
+   },
+   "url": "https://www.dorint.com/nuerburgring",
+   "event_slugs": [
+    "rock-am-ring-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/nuerburg/4-sterne-hotels-nuerburg",
+   "price": null
+  },
+  {
+   "name": "Eifelhotel Fuchs GmbH",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hauptstraße 27, 56729 Boos, Germany",
+   "lat": 50.3138,
+   "lon": 7.0174,
+   "distance_km": {
+    "rock-am-ring-2027": 5.77
+   },
+   "url": "https://eifelhotel-fuchs.de/",
+   "event_slugs": [
+    "rock-am-ring-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/boos/4-sterne-hotels-boos",
+   "price": null
+  },
+  {
+   "name": "Kucher's Genuss- und Businesshotel OHG",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Karl-Kaufmann-Straße 2, 54552 Darscheid, Germany",
+   "lat": 50.2115,
+   "lon": 6.8829,
+   "distance_km": {
+    "rock-am-ring-2027": 13.9
+   },
+   "url": "https://www.kucherslandhotel.de/",
+   "event_slugs": [
+    "rock-am-ring-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/darscheid/4-sterne-hotels-darscheid",
+   "price": null
+  },
+  {
+   "name": "Natur- und Wohlfühlhotel Kastenholz",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hauptstraße 1, 53520 Wershofen, Germany",
+   "lat": 50.4431,
+   "lon": 6.8194,
+   "distance_km": {
+    "rock-am-ring-2027": 15.15
+   },
+   "url": "http://www.kastenholz-eifel.de",
+   "event_slugs": [
+    "rock-am-ring-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wershofen/4-sterne-hotels-wershofen",
+   "price": null
+  },
+  {
+   "name": "NH Frankfurt Niederrad",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Lyoner Straße 5, 60528 Frankfurt am Main, Germany",
+   "lat": 50.085,
+   "lon": 8.6298,
+   "distance_km": {
+    "world-club-dome-2027": 2.14
+   },
+   "url": "https://www.nh-hotels.com/de/hotel/nh-frankfurt-niederrad",
+   "event_slugs": [
+    "world-club-dome-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Vienna House by Wyndham Frankfurt South",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Ziegelhüttenweg 43, 60598 Frankfurt am Main, Germany",
+   "lat": 50.0915,
+   "lon": 8.6798,
+   "distance_km": {
+    "world-club-dome-2027": 3.54
+   },
+   "url": "https://www.theblasky.com/",
+   "event_slugs": [
+    "world-club-dome-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Pearl Hotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Gutleutstraße 173, 60327 Frankfurt am Main, Germany",
+   "lat": 50.101,
+   "lon": 8.6588,
+   "distance_km": {
+    "world-club-dome-2027": 3.73
+   },
+   "url": "https://www.pearlhotel.de",
+   "event_slugs": [
+    "world-club-dome-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Hotel Europa Style",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Baseler Straße 17, 60329 Frankfurt am Main, Germany",
+   "lat": 50.1045,
+   "lon": 8.6643,
+   "distance_km": {
+    "world-club-dome-2027": 4.21
+   },
+   "url": "https://www.hoteleuropa-frankfurt.de",
+   "event_slugs": [
+    "world-club-dome-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Landhaus Wachtelhof",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Gerberstraße 6, 27356 Rotenburg, Germany",
+   "lat": 53.105,
+   "lon": 9.3952,
+   "distance_km": {
+    "hurricane-2027": 10.41
+   },
+   "url": "http://www.wachtelhof.de",
+   "event_slugs": [
+    "hurricane-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/rotenburg/5-sterne-hotels-rotenburg",
+   "price": null
+  },
+  {
+   "name": "Erlebnisland Eurostrand Fintel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bruchweg 11, 27389 Fintel, Germany",
+   "lat": 53.1573,
+   "lon": 9.6616,
+   "distance_km": {
+    "hurricane-2027": 9.29
+   },
+   "url": "https://www.eurostrand.de/resorts/lueneburger-heide/",
+   "event_slugs": [
+    "hurricane-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/fintel/4-sterne-hotels-fintel",
+   "price": null
+  },
+  {
+   "name": "Légère Hotel Tuttlingen",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Königstraße 25, 78532 Tuttlingen, Germany",
+   "lat": 47.9853,
+   "lon": 8.8226,
+   "distance_km": {
+    "southside-2027": 6.49
+   },
+   "url": "https://www.legere-hotelgroup.com/hotels/legere-hotel-tuttlingen",
+   "event_slugs": [
+    "southside-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/tuttlingen/4-sterne-hotels-tuttlingen",
+   "price": null
+  },
+  {
+   "name": "Hotel Traube",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Untere Hauptstraße 43, 78573 Wurmlingen, Germany",
+   "lat": 48.0014,
+   "lon": 8.7803,
+   "distance_km": {
+    "southside-2027": 9.88
+   },
+   "url": "https://www.hoteltraube.de",
+   "event_slugs": [
+    "southside-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wurmlingen/4-sterne-hotels-wurmlingen",
+   "price": null
+  },
+  {
+   "name": "Hotel Aurelia",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hauptstraße 11-13, 78554 Aldingen, Germany",
+   "lat": 48.0946,
+   "lon": 8.7018,
+   "distance_km": {
+    "southside-2027": 19.96
+   },
+   "url": "https://hotel-aurelia.de/",
+   "event_slugs": [
+    "southside-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/aldingen/4-sterne-hotels-aldingen",
+   "price": null
+  },
+  {
+   "name": "Schlosshotel Hugenpoet",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "August-Thyssen-Straße 51, 45219 Essen, Germany",
+   "lat": 51.3618,
+   "lon": 6.9172,
+   "distance_km": {
+    "ruhr-in-love-2027": 15.8
+   },
+   "url": "http://www.hugenpoet.de",
+   "event_slugs": [
+    "ruhr-in-love-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/essen/5-sterne-hotels-essen",
+   "price": null
+  },
+  {
+   "name": "Hotel Oberhausen Neue Mitte affiliated by Meliá",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Centroallee 280, 46047 Oberhausen, Germany",
+   "lat": 51.4877,
+   "lon": 6.875,
+   "distance_km": {
+    "ruhr-in-love-2027": 1.52
+   },
+   "url": "https://www.melia.com/de/hotels/deutschland/oberhausen/hotel-oberhausen-neue-mitte-by-melia",
+   "event_slugs": [
+    "ruhr-in-love-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/oberhausen/4-sterne-hotels-oberhausen",
+   "price": null
+  },
+  {
+   "name": "Parkhotel Oberhausen",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Teutoburger Straße 156, 46119 Oberhausen, Germany",
+   "lat": 51.5158,
+   "lon": 6.8736,
+   "distance_km": {
+    "ruhr-in-love-2027": 1.61
+   },
+   "url": "https://parkhotel-oberhausen.de/",
+   "event_slugs": [
+    "ruhr-in-love-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/oberhausen/4-sterne-hotels-oberhausen",
+   "price": null
+  },
+  {
+   "name": "NH Oberhausen",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Düppelstraße 2, 46045 Oberhausen, Germany",
+   "lat": 51.4727,
+   "lon": 6.8604,
+   "distance_km": {
+    "ruhr-in-love-2027": 3.33
+   },
+   "url": "https://www.nh-hotels.com/de/hotel/nh-oberhausen",
+   "event_slugs": [
+    "ruhr-in-love-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/oberhausen/4-sterne-hotels-oberhausen",
+   "price": null
+  },
+  {
+   "name": "Hotel-Restaurant Haus Gimken",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schloßstraße 182, 45355 Essen, Germany",
+   "lat": 51.4697,
+   "lon": 6.936,
+   "distance_km": {
+    "ruhr-in-love-2027": 5.52
+   },
+   "url": "https://hotelgimken.de/",
+   "event_slugs": [
+    "ruhr-in-love-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/essen/4-sterne-hotels-essen",
+   "price": null
+  },
+  {
+   "name": "Hotel im See- und Waldresort Gröbern",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Alte Chausseestraße 1, 06774 Muldestausee, Germany",
+   "lat": 51.6949,
+   "lon": 12.4488,
+   "distance_km": {
+    "splash-festival-2027": 7.14
+   },
+   "url": "https://www.seeresort-groebern.de",
+   "event_slugs": [
+    "splash-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/muldestausee/4-sterne-hotels-muldestausee",
+   "price": null
+  },
+  {
+   "name": "Ringhotel Hotel Zum Stein",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Erdmannsdorffstraße 228, 06785 Oranienbaum-Wörlitz, Germany",
+   "lat": 51.8387,
+   "lon": 12.4291,
+   "distance_km": {
+    "splash-festival-2027": 8.96
+   },
+   "url": "http://www.hotel-zum-stein.de",
+   "event_slugs": [
+    "splash-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/oranienbaum-woerlitz/4-sterne-hotels-oranienbaum-woerlitz",
+   "price": null
+  },
+  {
+   "name": "Hotel Landhaus Wörlitzer Hof",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Wörlitzer Markt 96, 06785 Oranienbaum-Wörlitz, Germany",
+   "lat": 51.8445,
+   "lon": 12.4201,
+   "distance_km": {
+    "splash-festival-2027": 9.7
+   },
+   "url": "https://www.woerlitzer-hof.de",
+   "event_slugs": [
+    "splash-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/oranienbaum-woerlitz/4-sterne-hotels-oranienbaum-woerlitz",
+   "price": null
+  },
+  {
+   "name": "Heidehotel Lubast",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "An der Bundesstr. 1, 06901 Kemberg, Germany",
+   "lat": 51.7475,
+   "lon": 12.6297,
+   "distance_km": {
+    "splash-festival-2027": 12.52
+   },
+   "url": "http://www.heidehotel-lubast.de",
+   "event_slugs": [
+    "splash-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/kemberg/4-sterne-hotels-kemberg",
+   "price": null
+  },
+  {
+   "name": "Familotel Borchard's Rookhus",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Am Labus 12, 17255 Wesenberg, Germany",
+   "lat": 53.3015,
+   "lon": 12.9343,
+   "distance_km": {
+    "fusion-festival-2028": 12.68
+   },
+   "url": "https://www.rookhus.de",
+   "event_slugs": [
+    "fusion-festival-2028"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wesenberg/4-sterne-hotels-wesenberg",
+   "price": null
+  },
+  {
+   "name": "Müritz-Strandhotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Seebadstraße 44, 17207 Röbel, Germany",
+   "lat": 53.3976,
+   "lon": 12.6224,
+   "distance_km": {
+    "fusion-festival-2028": 12.78
+   },
+   "url": "https://www.mueritz-strandhotel.de/",
+   "event_slugs": [
+    "fusion-festival-2028"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/roebel/4-sterne-hotels-roebel",
+   "price": null
+  },
+  {
+   "name": "Europa-Park El Andaluz/Castillo Alcazar",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Europa-Park-Straße 4+6, 77977 Rust, Germany",
+   "lat": 48.2607,
+   "lon": 7.7212,
+   "distance_km": {
+    "javaland-2027": 0.48,
+    "cloudfest-2027": 0.48
+   },
+   "url": "https://reservation.europapark.de/V8Hotel/HotelInfo?hotelCode=CA&culture=de",
+   "event_slugs": [
+    "javaland-2027",
+    "cloudfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/rust/4-sterne-hotels-rust",
+   "price": null
+  },
+  {
+   "name": "Europa-Park Hotel Resort Santa Isabel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Europa-Park-Straße 4+6, 77977 Rust, Germany",
+   "lat": 48.2607,
+   "lon": 7.7212,
+   "distance_km": {
+    "javaland-2027": 0.48,
+    "cloudfest-2027": 0.48
+   },
+   "url": "https://www.europapark.de/de/uebernachten/hotel-4-sterne-superior-erlebnishotel-santa-isabel",
+   "event_slugs": [
+    "javaland-2027",
+    "cloudfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/rust/4-sterne-hotels-rust",
+   "price": null
+  },
+  {
+   "name": "Seenland-Oase Reppist",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Reppister Straße 1, 01968 Senftenberg, Germany",
+   "lat": 51.5204,
+   "lon": 14.005,
+   "distance_km": {
+    "feel-festival-2027": 15.86
+   },
+   "url": "https://www.seenland-oase.de",
+   "event_slugs": [
+    "feel-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/senftenberg/4-sterne-hotels-senftenberg",
+   "price": null
+  },
+  {
+   "name": "Wellnesshotel Seeschlößchen",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Buchwalderstraße 77, 01968 Senftenberg, Germany",
+   "lat": 51.51,
+   "lon": 14.02,
+   "distance_km": {
+    "feel-festival-2027": 17.26
+   },
+   "url": "http://www.ayurveda-seeschloesschen.de",
+   "event_slugs": [
+    "feel-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/senftenberg/4-sterne-hotels-senftenberg",
+   "price": null
+  },
+  {
+   "name": "Hotel Bayerischer Hof, Bayreuth",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bahnhofstraße 14, 95444 Bayreuth, Germany",
+   "lat": 49.9491,
+   "lon": 11.5793,
+   "distance_km": {
+    "bayreuth-2027": 1.2
+   },
+   "url": "https://www.bayerischer-hof.de",
+   "event_slugs": [
+    "bayreuth-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/bayreuth/4-sterne-hotels-bayreuth",
+   "price": null
+  },
+  {
+   "name": "Hotel Goldener Anker",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Opernstr. 6, 95444 Bayreuth, Germany",
+   "lat": 49.9438,
+   "lon": 11.5782,
+   "distance_km": {
+    "bayreuth-2027": 1.79
+   },
+   "url": "https://www.anker-bayreuth.de",
+   "event_slugs": [
+    "bayreuth-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/bayreuth/4-sterne-hotels-bayreuth",
+   "price": null
+  },
+  {
+   "name": "Dorint Kongresshotel Mannheim",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Friedrichsring 6, 68161 Mannheim, Germany",
+   "lat": 49.4861,
+   "lon": 8.4761,
+   "distance_km": {
+    "animagic-2027": 0.16,
+    "developer-week-2027": 0.16
+   },
+   "url": "https://hotel-mannheim.dorint.com/de/",
+   "event_slugs": [
+    "animagic-2027",
+    "developer-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Hotel Restaurant Kleiner Rosengarten",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "U 6 19, 68161 Mannheim, Germany",
+   "lat": 49.4892,
+   "lon": 8.4755,
+   "distance_km": {
+    "animagic-2027": 0.48,
+    "developer-week-2027": 0.48
+   },
+   "url": "https://www.kleiner-rosengarten.com/",
+   "event_slugs": [
+    "animagic-2027",
+    "developer-week-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/mannheim/4-sterne-hotels-mannheim",
+   "price": null
+  },
+  {
+   "name": "Santé Royale Hotel- & Gesundheitsresort Bad Langensalza",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Parkstraße 1, 99947 Bad Langensalza, Germany",
+   "lat": 51.1142,
+   "lon": 10.6454,
+   "distance_km": {
+    "party-san-open-air-2027": 17.07
+   },
+   "url": "https://www.sante-royale.de/index.cfm",
+   "event_slugs": [
+    "party-san-open-air-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/bad-langensalza/4-sterne-hotels-bad-langensalza",
+   "price": null
+  },
+  {
+   "name": "Hotel Nassauer Hof",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Kaiser-Friedrich-Platz 3-4, 65183 Wiesbaden, Germany",
+   "lat": 50.0848,
+   "lon": 8.2435,
+   "distance_km": {
+    "connichi-2027": 0.92
+   },
+   "url": "http://www.nassauer-hof.de/",
+   "event_slugs": [
+    "connichi-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wiesbaden/5-sterne-hotels-wiesbaden",
+   "price": null
+  },
+  {
+   "name": "Star-Apart Hansa Hotel",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bahnhofstraße 23, 65185 Wiesbaden, Germany",
+   "lat": 50.0776,
+   "lon": 8.242,
+   "distance_km": {
+    "connichi-2027": 0.2
+   },
+   "url": "https://www.staraparthansa.de/",
+   "event_slugs": [
+    "connichi-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wiesbaden/4-sterne-hotels-wiesbaden",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Wiesbaden City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bahnhofstraße 10-12, 65185 Wiesbaden, Germany",
+   "lat": 50.0787,
+   "lon": 8.2428,
+   "distance_km": {
+    "connichi-2027": 0.26
+   },
+   "url": "https://all.accor.com/booking/de/mercure/hotel/9753",
+   "event_slugs": [
+    "connichi-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/wiesbaden/4-sterne-hotels-wiesbaden",
+   "price": null
+  },
+  {
+   "name": "Best Western Premier IB Hotel Friedberger Warte",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Homburger Landstraße 4, 60389 Frankfurt am Main, Germany",
+   "lat": 50.1414,
+   "lon": 8.6987,
+   "distance_km": {
+    "crypto-assets-conference-2027": 1.64
+   },
+   "url": "http://www.bestwestern.de/hotels/Frankfurt-am-Main/BEST-WESTERN-PREMIER-IB-Hotel-Friedberger-Warte",
+   "event_slugs": [
+    "crypto-assets-conference-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "SAKS Urban Design Hotel Frankfurt",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Mendelssohnstraße 79, 60325 Frankfurt am Main, Germany",
+   "lat": 50.118,
+   "lon": 8.6588,
+   "distance_km": {
+    "crypto-assets-conference-2027": 2.23
+   },
+   "url": "https://saksfrankfurt.com/",
+   "event_slugs": [
+    "crypto-assets-conference-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "ATLANTIC Hotel Heidelberg",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Europaplatz 1, 69115 Heidelberg, Germany",
+   "lat": 49.3988,
+   "lon": 8.6724,
+   "distance_km": {
+    "pycon-de-2027": 0.31,
+    "troopers-2027": 0.4
+   },
+   "url": "https://www.atlantic-hotels.de/hotel-heidelberg/",
+   "event_slugs": [
+    "pycon-de-2027",
+    "troopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/heidelberg/4-sterne-hotels-heidelberg",
+   "price": null
+  },
+  {
+   "name": "Qube Hotel Bahnstadt",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Grüne Meile 21, 69115 Heidelberg, Germany",
+   "lat": 49.4037,
+   "lon": 8.6659,
+   "distance_km": {
+    "pycon-de-2027": 0.57,
+    "troopers-2027": 0.37
+   },
+   "url": "https://qube-hotel-heidelberg.de/bahnstadt",
+   "event_slugs": [
+    "pycon-de-2027",
+    "troopers-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/heidelberg/4-sterne-hotels-heidelberg",
+   "price": null
+  },
+  {
+   "name": "Hotel NH Collection Köln Mediapark",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Im MediaPark 8b, 50670 Köln, Germany",
+   "lat": 50.9479,
+   "lon": 6.9424,
+   "distance_km": {
+    "jcon-europe-2027": 0.21
+   },
+   "url": "https://www.nh-hotels.de/hotel/nh-collection-koeln-mediapark",
+   "event_slugs": [
+    "jcon-europe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Köln City Friesenstrasse",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Friesenstraße 44-48, 50670 Köln, Germany",
+   "lat": 50.9409,
+   "lon": 6.9429,
+   "distance_km": {
+    "jcon-europe-2027": 0.77
+   },
+   "url": "https://all.accor.com/hotel/5364/index.de.shtml",
+   "event_slugs": [
+    "jcon-europe-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/koeln/4-sterne-hotels-koeln",
+   "price": null
+  },
+  {
+   "name": "Hotel Michaelis",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Paul-Gruner-Straße 44, 04107 Leipzig, Germany",
+   "lat": 51.3285,
+   "lon": 12.3744,
+   "distance_km": {
+    "euroscipy-2027": 1.71
+   },
+   "url": "https://www.michaelis-leipzig.de/",
+   "event_slugs": [
+    "euroscipy-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "NH Leipzig Zentrum",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Burgplatz 5, 04109 Leipzig, Germany",
+   "lat": 51.3373,
+   "lon": 12.3738,
+   "distance_km": {
+    "euroscipy-2027": 2.69
+   },
+   "url": "https://www.nh-hotels.com/hotel/nh-leipzig-zentrum",
+   "event_slugs": [
+    "euroscipy-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/leipzig/4-sterne-hotels-leipzig",
+   "price": null
+  },
+  {
+   "name": "Hotel-Restaurant Wald-Cafe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Am Rehsprung 35, 53229 Bonn, Germany",
+   "lat": 50.7421,
+   "lon": 7.1685,
+   "distance_km": {
+    "froscon-2027": 4.27
+   },
+   "url": "https://www.waldcafe.de",
+   "event_slugs": [
+    "froscon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/bonn/4-sterne-hotels-bonn",
+   "price": null
+  },
+  {
+   "name": "Hotel-Restaurant Zur Post",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Königswinterer Straße 309, 53227 Bonn, Germany",
+   "lat": 50.7277,
+   "lon": 7.1469,
+   "distance_km": {
+    "froscon-2027": 6.28
+   },
+   "url": "https://www.hotelinbonn.com",
+   "event_slugs": [
+    "froscon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/bonn/4-sterne-hotels-bonn",
+   "price": null
+  },
+  {
+   "name": "ARCOTEL Camino",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Heilbronner Straße 21, 70191 Stuttgart, Germany",
+   "lat": 48.7883,
+   "lon": 9.1804,
+   "distance_km": {
+    "cannstatter-volksfest-2027": 2.86
+   },
+   "url": "https://camino.arcotel.com/de/",
+   "event_slugs": [
+    "cannstatter-volksfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/stuttgart/4-sterne-hotels-stuttgart",
+   "price": null
+  },
+  {
+   "name": "Radisson Blu Hotel at Porsche Design Tower",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Leitzstraße 63, 70469 Stuttgart, Germany",
+   "lat": 48.8112,
+   "lon": 9.1803,
+   "distance_km": {
+    "cannstatter-volksfest-2027": 3.12
+   },
+   "url": "https://www.radissonhotels.com/de-de/hotels/radisson-blu-at-porsche-design-tower-stuttgart",
+   "event_slugs": [
+    "cannstatter-volksfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/stuttgart/4-sterne-hotels-stuttgart",
+   "price": null
+  },
+  {
+   "name": "Hotel Ochsen Weinstube",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Ulmer Straße 323, 70327 Stuttgart, Germany",
+   "lat": 48.7737,
+   "lon": 9.2416,
+   "distance_km": {
+    "cannstatter-volksfest-2027": 3.16
+   },
+   "url": "https://www.ochsen-online.de/",
+   "event_slugs": [
+    "cannstatter-volksfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/stuttgart/4-sterne-hotels-stuttgart",
+   "price": null
+  },
+  {
+   "name": "Hetzel Hotel Stuttgart",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Ulmer Straße 331-337, 70327 Stuttgart, Germany",
+   "lat": 48.7733,
+   "lon": 9.2423,
+   "distance_km": {
+    "cannstatter-volksfest-2027": 3.23
+   },
+   "url": "https://www.hetzel-hotel-stuttgart.de/",
+   "event_slugs": [
+    "cannstatter-volksfest-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/stuttgart/4-sterne-hotels-stuttgart",
+   "price": null
+  },
+  {
+   "name": "Holiday Inn Frankfurt Alte Oper",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Mainzer Landstraße 27, 60329 Frankfurt am Main, Germany",
+   "lat": 50.1112,
+   "lon": 8.6656,
+   "distance_km": {
+    "frankfurt-european-banking-congress-2027": 0.71
+   },
+   "url": "http://www.ihg.com/holidayinn/hotels/de/de/frankfurt/fraao/hoteldetail",
+   "event_slugs": [
+    "frankfurt-european-banking-congress-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Mercure Hotel Kaiserhof Frankfurt City",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Kaiserstraße 62, 60329 Frankfurt am Main, Germany",
+   "lat": 50.1083,
+   "lon": 8.6671,
+   "distance_km": {
+    "frankfurt-european-banking-congress-2027": 0.93
+   },
+   "url": "http://www.kaiserhof-frankfurt.de",
+   "event_slugs": [
+    "frankfurt-european-banking-congress-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/frankfurt/4-sterne-hotels-frankfurt",
+   "price": null
+  },
+  {
+   "name": "Steigenberger Parkhotel",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Königsallee 1 a, 40212 Düsseldorf, Germany",
+   "lat": 51.2266,
+   "lon": 6.7783,
+   "distance_km": {
+    "boot-dusseldorf-2027": 4.48
+   },
+   "url": "http://www.duesseldorf.steigenberger.de",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/5-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "Hotel Breidenbacher Hof",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Königsallee 11, 40212 Düsseldorf, Germany",
+   "lat": 51.2254,
+   "lon": 6.7774,
+   "distance_km": {
+    "boot-dusseldorf-2027": 4.56
+   },
+   "url": "https://breidenbacherhof.com/de/",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/5-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "Tulip Inn Düsseldorf Arena",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Arena Str. 3, 40474 Düsseldorf, Germany",
+   "lat": 51.2605,
+   "lon": 6.7345,
+   "distance_km": {
+    "boot-dusseldorf-2027": 0.51
+   },
+   "url": "https://tulip-inn-duesseldorf-arena.goldentulip.com/de-de/",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/4-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "Hotel-Restaurant Ashley's Garden",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Karl-Kleppe-Straße 20, 40474 Düsseldorf, Germany",
+   "lat": 51.2537,
+   "lon": 6.7555,
+   "distance_km": {
+    "boot-dusseldorf-2027": 1.17
+   },
+   "url": "http://www.ashleysgarden.de",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/4-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "Lindner Hotel Düsseldorf Seestern",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Lütticher Str. 130, 40547 Düsseldorf, Germany",
+   "lat": 51.2446,
+   "lon": 6.7394,
+   "distance_km": {
+    "boot-dusseldorf-2027": 1.7
+   },
+   "url": "https://lindnerhotels.com/hotels/lindner-hotel-duesseldorf-seestern",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/4-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "INNSIDE by Meliã Düsseldorf Seestern",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Niederkasseler Lohweg 18 a, 40547 Düsseldorf, Germany",
+   "lat": 51.2422,
+   "lon": 6.7349,
+   "distance_km": {
+    "boot-dusseldorf-2027": 2.01
+   },
+   "url": "https://www.melia.com/de/hotels/deutschland/dusseldorf/innside-dusseldorf-seestern/index.html",
+   "event_slugs": [
+    "boot-dusseldorf-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/duesseldorf/4-sterne-hotels-duesseldorf",
+   "price": null
+  },
+  {
+   "name": "Hotel Bayerischer Hof, Lindau",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Bahnhofplatz 2 / Seepromenade, 88131 Lindau, Germany",
+   "lat": 47.5443,
+   "lon": 9.6825,
+   "distance_km": {
+    "interboot-friedrichshafen-2027": 19.91
+   },
+   "url": "https://www.bayerischerhof-lindau.de",
+   "event_slugs": [
+    "interboot-friedrichshafen-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/lindau/5-sterne-hotels-lindau",
+   "price": null
+  },
+  {
+   "name": "Landhotel Gerbehof Garni",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hagendornerweg / Gerbehof, 88048 Friedrichshafen, Germany",
+   "lat": 47.6848,
+   "lon": 9.4948,
+   "distance_km": {
+    "interboot-friedrichshafen-2027": 1.13
+   },
+   "url": "https://www.gerbehof.de",
+   "event_slugs": [
+    "interboot-friedrichshafen-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/friedrichshafen/4-sterne-hotels-friedrichshafen",
+   "price": null
+  },
+  {
+   "name": "Hotel Gerbe",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Hirschlatter Straße 14, 88048 Friedrichshafen, Germany",
+   "lat": 47.6879,
+   "lon": 9.4923,
+   "distance_km": {
+    "interboot-friedrichshafen-2027": 1.5
+   },
+   "url": "http://www.hotel-gerbe.de",
+   "event_slugs": [
+    "interboot-friedrichshafen-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/friedrichshafen/4-sterne-hotels-friedrichshafen",
+   "price": null
+  },
+  {
+   "name": "Hotel Knoblauch",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Jettenhauser Straße 32, 88045 Friedrichshafen, Germany",
+   "lat": 47.6711,
+   "lon": 9.4737,
+   "distance_km": {
+    "interboot-friedrichshafen-2027": 2.57
+   },
+   "url": "http://www.hotel-knoblauch.de",
+   "event_slugs": [
+    "interboot-friedrichshafen-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/friedrichshafen/4-sterne-hotels-friedrichshafen",
+   "price": null
+  },
+  {
+   "name": "Hotel City Krone",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Schanzstraße 7, 88045 Friedrichshafen, Germany",
+   "lat": 47.651,
+   "lon": 9.4793,
+   "distance_km": {
+    "interboot-friedrichshafen-2027": 3.64
+   },
+   "url": "http://www.hotel-city-krone.de",
+   "event_slugs": [
+    "interboot-friedrichshafen-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/friedrichshafen/4-sterne-hotels-friedrichshafen",
+   "price": null
+  },
+  {
+   "name": "Gran Hotel Belveder",
+   "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Strandallee 146, 23683 Scharbeutz, Germany",
+   "lat": 54.0099,
+   "lon": 10.7703,
+   "distance_km": {
+    "ancora-yachtfestival-2027": 9.44
+   },
+   "url": "https://www.hotel-belveder.de",
+   "event_slugs": [
+    "ancora-yachtfestival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/scharbeutz/5-sterne-hotels-scharbeutz",
+   "price": null
+  },
+  {
+   "name": "Hotel Strandkind GmbH",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Pelzerhakener Strasse 43, 23730 Neustadt in Holstein, Germany",
+   "lat": 54.0914,
+   "lon": 10.8499,
+   "distance_km": {
+    "ancora-yachtfestival-2027": 3.39
+   },
+   "url": "https://www.hotel-strandkind.de",
+   "event_slugs": [
+    "ancora-yachtfestival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/neustadt-in-holstein/4-sterne-hotels-neustadt-in-holstein",
+   "price": null
+  },
+  {
+   "name": "Bayside GmbH",
+   "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "Strandallee 130a, 23683 Scharbeutz, Germany",
+   "lat": 54.028,
+   "lon": 10.7569,
+   "distance_km": {
+    "ancora-yachtfestival-2027": 7.74
+   },
+   "url": "https://www.bayside.de/",
+   "event_slugs": [
+    "ancora-yachtfestival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.hotelstars.eu/germany/de/hotelsuche/staedte/scharbeutz/4-sterne-hotels-scharbeutz",
+   "price": null
+  },
+  {
    "name": "Domaine de la Reine Margot, MGallery",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3 cours de la Reine Margot, 92130 Issy-les-Moulineaux, France",
    "lat": 48.8228643,
    "lon": 2.2770887,
@@ -240793,6 +244900,10 @@ window.ATLASDATA={
   {
    "name": "Square Hôtel Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3 RUE DE BOULAINVILLIERS, 75016 Paris, France",
    "lat": 48.851603,
    "lon": 2.277712,
@@ -240828,6 +244939,10 @@ window.ATLASDATA={
   {
    "name": "Molitor Hôtel & Spa Paris, MGallery",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "13 rue Nungesser et Coli, 75016 Paris, France",
    "lat": 48.844985,
    "lon": 2.25248,
@@ -240863,6 +244978,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Le Cinq Codet",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "5 rue Louis Codet, 75007 Paris, France",
    "lat": 48.854988,
    "lon": 2.308367,
@@ -240886,6 +245005,10 @@ window.ATLASDATA={
   {
    "name": "Mandarin Oriental Lutetia, Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "45 boulevard Raspail, 75006 Paris, France",
    "lat": 48.85117,
    "lon": 2.327156,
@@ -240909,6 +245032,10 @@ window.ATLASDATA={
   {
    "name": "The One Alma Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10-12 rue Cognacq Jay, 75007 Paris, France",
    "lat": 48.861881,
    "lon": 2.303909,
@@ -240932,6 +245059,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Paris Porte de Versailles",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "4 avenue de la Porte de la Plaine, 75015 Paris, France",
    "lat": 48.830077,
    "lon": 2.292245,
@@ -240965,6 +245096,10 @@ window.ATLASDATA={
   {
    "name": "Oceania Paris Porte de Versailles",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "6 rue Ernest Renan, 92130 Issy-les-Moulineaux, France",
    "lat": 48.830117,
    "lon": 2.284239,
@@ -240998,6 +245133,10 @@ window.ATLASDATA={
   {
    "name": "Courtyard by Marriott Paris Porte de Versailles",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3-5-7 rue Ernest Renan, 92130 Issy-les-Moulineaux, France",
    "lat": 48.829624,
    "lon": 2.283852,
@@ -241021,6 +245160,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Paris Vaugirard Porte de Versailles",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "69 boulevard Victor, 75015 Paris, France",
    "lat": 48.833061,
    "lon": 2.287973,
@@ -241044,6 +245187,10 @@ window.ATLASDATA={
   {
    "name": "Maison Albar Hôtel Le Champs-Élysées",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3 avenue Mac-Mahon, 75017 Paris, France",
    "lat": 48.875449,
    "lon": 2.294494,
@@ -241075,6 +245222,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Étoile Park",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 avenue Mac Mahon, 75017 Paris, France",
    "lat": 48.876088,
    "lon": 2.294906,
@@ -241108,6 +245259,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel L'Aventure",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "4 AVENUE VICTOR HUGO, 75116 Paris, France",
    "lat": 48.872972,
    "lon": 2.292813,
@@ -241139,6 +245294,10 @@ window.ATLASDATA={
   {
    "name": "Renaissance Paris Arc de Triomphe",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "39 avenue de Wagram, 75017 Paris, France",
    "lat": 48.876981,
    "lon": 2.297078,
@@ -241162,6 +245321,10 @@ window.ATLASDATA={
   {
    "name": "The Peninsula Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "19 avenue Kléber, 75116 Paris, France",
    "lat": 48.871017,
    "lon": 2.293321,
@@ -241185,6 +245348,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Napoléon",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "40 avenue de Friedland, 75008 Paris, France",
    "lat": 48.874251,
    "lon": 2.298051,
@@ -241208,6 +245375,10 @@ window.ATLASDATA={
   {
    "name": "Le Méridien Paris Arc de Triomphe",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "81 boulevard Gouvion Saint Cyr, 75017 Paris, France",
    "lat": 48.879473,
    "lon": 2.284958,
@@ -241239,6 +245410,10 @@ window.ATLASDATA={
   {
    "name": "Hyatt Regency Paris Étoile",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3 place du Général Koenig, 75017 Paris, France",
    "lat": 48.880639,
    "lon": 2.284624,
@@ -241271,6 +245446,10 @@ window.ATLASDATA={
   {
    "name": "La Maison Champs Élysées",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "8 rue Jean Goujon, 75008 Paris, France",
    "lat": 48.866605,
    "lon": 2.309065,
@@ -241298,6 +245477,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel San Régis",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "12 Rue Jean Goujon, 75008 Paris, France",
    "lat": 48.866464,
    "lon": 2.308524,
@@ -241325,6 +245508,10 @@ window.ATLASDATA={
   {
    "name": "Le Damantin Hôtel & Spa",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 rue Bayard, 75008 Paris, France",
    "lat": 48.865014,
    "lon": 2.307787,
@@ -241352,6 +245539,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel La Réserve Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "42 Avenue Gabriel, 75008 Paris, France",
    "lat": 48.8697,
    "lon": 2.313271,
@@ -241377,6 +245568,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Marignan Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "12 rue de Marignan, 75008 Paris, France",
    "lat": 48.868512,
    "lon": 2.306476,
@@ -241402,6 +245597,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Plaza Athénée",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "25 avenue Montaigne, 75008 Paris, France",
    "lat": 48.866225,
    "lon": 2.304357,
@@ -241427,6 +245626,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Mathis Élysées",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3 RUE DE PONTHIEU, 75008 Paris, France",
    "lat": 48.870066,
    "lon": 2.311324,
@@ -241454,6 +245657,10 @@ window.ATLASDATA={
   {
    "name": "NH Collection Paris Champs Élysées",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "24 rue de ponthieu, 75008 Paris, France",
    "lat": 48.870854,
    "lon": 2.309252,
@@ -241481,6 +245688,10 @@ window.ATLASDATA={
   {
    "name": "Pullman Paris La Défense",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "11 avenue de l'Arche, 92400 Courbevoie, France",
    "lat": 48.89518,
    "lon": 2.238932,
@@ -241502,6 +245713,10 @@ window.ATLASDATA={
   {
    "name": "Nest Paris La Défense, MGallery",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "33 voie des Sculpteurs, 92800 Puteaux, France",
    "lat": 48.88852,
    "lon": 2.247027,
@@ -241534,6 +245749,10 @@ window.ATLASDATA={
   {
    "name": "Hilton Paris La Défense",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 Place Carpeaux, 92800 Puteaux, France",
    "lat": 48.893887,
    "lon": 2.239664,
@@ -241555,6 +245774,10 @@ window.ATLASDATA={
   {
    "name": "Meliá Paris La Défense",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 esplanade du Général de Gaulle, 92400 Courbevoie, France",
    "lat": 48.888003,
    "lon": 2.251162,
@@ -241585,6 +245808,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Paris Bastille Boutet, MGallery",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "22-24 rue Faidherbe, 75011 Paris, France",
    "lat": 48.851955,
    "lon": 2.383743,
@@ -241614,6 +245841,10 @@ window.ATLASDATA={
   {
    "name": "SO/ Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 rue Agrippa d'Aubigné, 75004 Paris, France",
    "lat": 48.849979,
    "lon": 2.362374,
@@ -241643,6 +245874,10 @@ window.ATLASDATA={
   {
    "name": "Maison Bréguet",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "8 rue Bréguet, 75011 Paris, France",
    "lat": 48.856664,
    "lon": 2.371894,
@@ -241672,6 +245907,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Paris Bercy",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "85 rue de Bercy, 75012 Paris, France",
    "lat": 48.83887,
    "lon": 2.380623,
@@ -241697,6 +245936,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Paris Bercy Bibliothèque",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "6 BOULEVARD VINCENT AURIOL, 75013 Paris, France",
    "lat": 48.837405,
    "lon": 2.372996,
@@ -241722,6 +245965,10 @@ window.ATLASDATA={
   {
    "name": "Pullman Paris Centre Bercy",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 rue de Libourne, 75012 Paris, France",
    "lat": 48.831522,
    "lon": 2.387074,
@@ -241745,6 +245992,10 @@ window.ATLASDATA={
   {
    "name": "TOO Hôtel Paris, MGallery",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "65 rue Bruneseau, 75013 Paris, France",
    "lat": 48.824926,
    "lon": 2.383665,
@@ -241766,6 +246017,10 @@ window.ATLASDATA={
   {
    "name": "citizenM Paris Gare de Lyon",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "8 Rue van Gogh, 75012 Paris, France",
    "lat": 48.843759,
    "lon": 2.371708,
@@ -241787,6 +246042,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Hôtel Saint Louis",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 bis rue Robert Giraudineau, 94300 Vincennes, France",
    "lat": 48.845247,
    "lon": 2.435223,
@@ -241808,6 +246067,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Plus Hôtel 61 Paris Nation",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "61 rue de la voûte, 75012 Paris, France",
    "lat": 48.846525,
    "lon": 2.410239,
@@ -241829,6 +246092,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Pavillon de la Reine",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "28 place des Vosges, 75003 Paris, France",
    "lat": 48.856244,
    "lon": 2.366032,
@@ -241852,6 +246119,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Cour des Vosges",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "19 place des Vosges, 75004 Paris, France",
    "lat": 48.856221,
    "lon": 2.364705,
@@ -241875,6 +246146,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Maison Colbert",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "7 Rue De L'Hôtel Colbert, 75005 Paris, France",
    "lat": 48.851596,
    "lon": 2.348592,
@@ -241898,6 +246173,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Paris Boulogne",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "20-22 rue des abondances, 92100 Boulogne-Billancourt, France",
    "lat": 48.843886,
    "lon": 2.229767,
@@ -241919,6 +246198,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Le Parchamp",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "114 ROUTE DE LA REINE, 92100 Boulogne-Billancourt, France",
    "lat": 48.840242,
    "lon": 2.235503,
@@ -241940,6 +246223,10 @@ window.ATLASDATA={
   {
    "name": "Le Dokhan's, a Tribute Portfolio Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "117 rue Lauriston, 75116 Paris, France",
    "lat": 48.866371,
    "lon": 2.286757,
@@ -241961,6 +246248,10 @@ window.ATLASDATA={
   {
    "name": "La Clef Tour Eiffel Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "83 Avenue Kléber, 75116 Paris, France",
    "lat": 48.864631,
    "lon": 2.28869,
@@ -241982,6 +246273,10 @@ window.ATLASDATA={
   {
    "name": "Sofitel Paris Baltimore Tour Eiffel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "88 bis avenue Kléber, 75116 Paris, France",
    "lat": 48.866362,
    "lon": 2.289371,
@@ -242003,6 +246298,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel du Parc Roissy Villepinte Parc des Expositions",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "53 avenue des Nations, 93420 Villepinte, France",
    "lat": 48.972618,
    "lon": 2.511924,
@@ -242026,6 +246325,10 @@ window.ATLASDATA={
   {
    "name": "Hyatt Place Paris Charles de Gaulle Airport",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "241 rue de la Belle Étoile, 95700 Roissy-en-France, France",
    "lat": 48.986117,
    "lon": 2.510245,
@@ -242049,6 +246352,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Suites Paris CDG Airport Villepinte",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "335 rue de la Belle Etoile, 95700 Roissy-en-France, France",
    "lat": 48.988875,
    "lon": 2.514175,
@@ -242072,6 +246379,10 @@ window.ATLASDATA={
   {
    "name": "L'Esprit Libre Hôtel Paris Roissy",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "4 allée des Vergers, 95700 Roissy-en-France, France",
    "lat": 49.004028,
    "lon": 2.520501,
@@ -242095,6 +246406,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Manolita Paris",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 rue Lepic, 75018 Paris, France",
    "lat": 48.884061,
    "lon": 2.332827,
@@ -242116,6 +246431,10 @@ window.ATLASDATA={
   {
    "name": "Maison Souquet",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 rue de Bruxelles, 75009 Paris, France",
    "lat": 48.883586,
    "lon": 2.331455,
@@ -242146,6 +246465,10 @@ window.ATLASDATA={
   {
    "name": "Renaissance Paris République",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "40 rue René Boulanger, 75010 Paris, France",
    "lat": 48.868428,
    "lon": 2.36094,
@@ -242167,6 +246490,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Paris Saint-Denis Stade Basilique",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 place de la Porte de Paris, 93200 Saint-Denis, France",
    "lat": 48.92996,
    "lon": 2.35717,
@@ -242188,6 +246515,10 @@ window.ATLASDATA={
   {
    "name": "The Remix Hôtel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "28 ter avenue Corentin Cariou, 75019 Paris, France",
    "lat": 48.896823,
    "lon": 2.385127,
@@ -242209,6 +246540,10 @@ window.ATLASDATA={
   {
    "name": "Five Seas Hôtel Cannes",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "22 rue du Bivouac Napoléon, 06400 Cannes, France",
    "lat": 43.551989,
    "lon": 7.018682,
@@ -242240,6 +246575,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Barrière Le Majestic",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 Boulevard de la Croisette, 06400 Cannes, France",
    "lat": 43.550861,
    "lon": 7.019947,
@@ -242271,6 +246610,10 @@ window.ATLASDATA={
   {
    "name": "Mondrian Cannes",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "45 Boulevard de La Croisette, 06400 Cannes, France",
    "lat": 43.55022,
    "lon": 7.023976,
@@ -242302,6 +246645,10 @@ window.ATLASDATA={
   {
    "name": "JW Marriott Cannes",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "50 boulevard de la Croisette, 06400 Cannes, France",
    "lat": 43.54987,
    "lon": 7.025319,
@@ -242327,6 +246674,10 @@ window.ATLASDATA={
   {
    "name": "Carlton Cannes, a Regent Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "58 boulevard de La Croisette, 06400 Cannes, France",
    "lat": 43.549285,
    "lon": 7.027109,
@@ -242352,6 +246703,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Belle Plage",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 rue Brougham, 06400 Cannes, France",
    "lat": 43.549483,
    "lon": 7.007531,
@@ -242377,6 +246732,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Splendid Cannes",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "4 rue Félix Faure, 06400 Cannes, France",
    "lat": 43.552138,
    "lon": 7.015731,
@@ -242408,6 +246767,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel America Cannes",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "16 Rue Notre Dame, 06400 Cannes, France",
    "lat": 43.551747,
    "lon": 7.020119,
@@ -242439,6 +246802,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Hôtel Univers Cannes",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 rue Maréchal Foch, 06400 Cannes, France",
    "lat": 43.552635,
    "lon": 7.018832,
@@ -242464,6 +246831,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Barrière Gray d'Albion",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "38 rue des Serbes, 06400 Cannes, France",
    "lat": 43.552024,
    "lon": 7.020773,
@@ -242489,6 +246860,10 @@ window.ATLASDATA={
   {
    "name": "InterContinental Lyon - Hôtel Dieu",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "20 quai Jules Courmont, 69002 Lyon, France",
    "lat": 45.758809,
    "lon": 4.837065,
@@ -242512,6 +246887,10 @@ window.ATLASDATA={
   {
    "name": "Sofitel Lyon Bellecour",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "20 quai Gailleton, 69002 Lyon, France",
    "lat": 45.754416,
    "lon": 4.834354,
@@ -242536,6 +246915,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Lyon Gerland Musée des Confluences",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "70 avenue Leclerc, 69007 Lyon, France",
    "lat": 45.73316,
    "lon": 4.823174,
@@ -242557,6 +246940,10 @@ window.ATLASDATA={
   {
    "name": "Mercure Lyon Centre Château Perrache",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "12 cours de Verdun Rambaud, 69002 Lyon, France",
    "lat": 45.749521,
    "lon": 4.824845,
@@ -242578,6 +246965,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Alexandra Lyon",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "49 rue Victor Hugo, 69002 Lyon, France",
    "lat": 45.752803,
    "lon": 4.829118,
@@ -242599,6 +246990,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel de l'Abbaye Lyon",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "20 rue de l'Abbaye d'Ainay, 69002 Lyon, France",
    "lat": 45.75365,
    "lon": 4.826883,
@@ -242620,6 +247015,10 @@ window.ATLASDATA={
   {
    "name": "Gatsby Hôtel & Restaurant, Chassieu",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "36 rue des Frères Lumière, 69680 Chassieu, France",
    "lat": 45.733299,
    "lon": 4.964202,
@@ -242641,6 +247040,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Plus Hôtel & Spa de Chassieu",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "82 route de Lyon, 69680 Chassieu, France",
    "lat": 45.738326,
    "lon": 4.968392,
@@ -242662,6 +247065,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Le 10Bis",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 bis rue du Débarcadère, 75017 Paris, France",
    "lat": 48.878016,
    "lon": 2.286509,
@@ -242685,6 +247092,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Les Jardins de la Villa",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "5 rue Belidor, 75017 Paris, France",
    "lat": 48.880213,
    "lon": 2.285946,
@@ -242708,6 +247119,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Élysée Secret",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "5 rue de Ponthieu, 75008 Paris, France",
    "lat": 48.870123,
    "lon": 2.311147,
@@ -242733,6 +247148,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel du Rond-Point des Champs-Élysées",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 rue de Ponthieu, 75008 Paris, France",
    "lat": 48.870392,
    "lon": 2.310681,
@@ -242758,6 +247177,10 @@ window.ATLASDATA={
   {
    "name": "Best Western Hôtel Allégro Paris Nation",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "33 AVENUE DU DOCTEUR ARNOLD NETTER, 75012 Paris, France",
    "lat": 48.843081,
    "lon": 2.405145,
@@ -242779,6 +247202,10 @@ window.ATLASDATA={
   {
    "name": "Hôtel Le 209 Paris Bercy",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "209/211 rue de Charenton, 75012 Paris, France",
    "lat": 48.839289,
    "lon": 2.389198,
@@ -242800,6 +247227,10 @@ window.ATLASDATA={
   {
    "name": "Hôbou Hôtel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "9/11 rond point Rhin et Danube, 92100 Boulogne-Billancourt, France",
    "lat": 48.840368,
    "lon": 2.228188,
@@ -242821,6 +247252,10 @@ window.ATLASDATA={
   {
    "name": "Radisson Blu Hôtel Paris Boulogne",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "33 avenue Edouard Vaillant, 92100 Boulogne-Billancourt, France",
    "lat": 48.836309,
    "lon": 2.252735,
@@ -242842,6 +247277,10 @@ window.ATLASDATA={
   {
    "name": "InterContinental London – The O2",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 Waterview Drive, Greenwich Peninsula, London SE10 0TW, United Kingdom",
    "lat": 51.503295,
    "lon": -5.77e-05,
@@ -242911,6 +247350,10 @@ window.ATLASDATA={
   {
    "name": "Canary Riverside Plaza London, Vignette Collection",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "46 Westferry Circus, Canary Wharf, London E14 8RS, United Kingdom",
    "lat": 51.5066874,
    "lon": -0.0280523,
@@ -242970,6 +247413,10 @@ window.ATLASDATA={
   {
    "name": "Pan Pacific London",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "80 Houndsditch, London EC3A, United Kingdom",
    "lat": 51.5164968,
    "lon": -0.0805192,
@@ -243055,6 +247502,10 @@ window.ATLASDATA={
   {
    "name": "Andaz London Liverpool Street",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "40 Liverpool Street, London, United Kingdom",
    "lat": 51.5173613,
    "lon": -0.0813329,
@@ -243110,6 +247561,10 @@ window.ATLASDATA={
   {
    "name": "The Westin London City",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Upper Thames Street, London EC4V 3AD, United Kingdom",
    "lat": 51.511038,
    "lon": -0.0952443,
@@ -243165,6 +247620,10 @@ window.ATLASDATA={
   {
    "name": "DoubleTree by Hilton Hotel London ExCeL",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2 Festoon Way, Royal Victoria Dock, London E16, United Kingdom",
    "lat": 51.5075816,
    "lon": 0.0381687,
@@ -243233,6 +247692,10 @@ window.ATLASDATA={
   {
    "name": "Aloft London ExCeL",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 Sandstone Lane, London E16 1FR, United Kingdom",
    "lat": 51.5084629,
    "lon": 0.0352297,
@@ -243299,6 +247762,10 @@ window.ATLASDATA={
   {
    "name": "Novotel London ExCeL",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "7 Western Gateway, London, United Kingdom",
    "lat": 51.5078956,
    "lon": 0.023296,
@@ -243337,6 +247804,10 @@ window.ATLASDATA={
   {
    "name": "Good Hotel London",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Western Gateway, Royal Victoria Dock, London E16 1FA, United Kingdom",
    "lat": 51.5075489,
    "lon": 0.0195383,
@@ -243375,6 +247846,10 @@ window.ATLASDATA={
   {
    "name": "Hilton London Canary Wharf",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Marsh Wall, Canary Wharf / Isle of Dogs, London, United Kingdom",
    "lat": 51.501016,
    "lon": -0.0195862,
@@ -243415,6 +247890,10 @@ window.ATLASDATA={
   {
    "name": "Hyatt Regency London Olympia",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "7 Olympia Way, London W14 0EY, United Kingdom",
    "lat": 51.4975034,
    "lon": -0.21109,
@@ -243456,6 +247935,10 @@ window.ATLASDATA={
   {
    "name": "Royal Garden Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "2-24 Kensington High Street, London, United Kingdom",
    "lat": 51.5027533,
    "lon": -0.1880747,
@@ -243499,6 +247982,10 @@ window.ATLASDATA={
   {
    "name": "The Kensington Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "109-113 Queen's Gate, London, United Kingdom",
    "lat": 51.4926057,
    "lon": -0.1780444,
@@ -243540,6 +248027,10 @@ window.ATLASDATA={
   {
    "name": "100 Queen's Gate Hotel London, Curio Collection by Hilton",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "100 Queen's Gate, London, United Kingdom",
    "lat": 51.4924044,
    "lon": -0.1788879,
@@ -243565,6 +248056,10 @@ window.ATLASDATA={
   {
    "name": "Novotel London West",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "1 Shortlands, Hammersmith, London, United Kingdom",
    "lat": 51.4918089,
    "lon": -0.2205702,
@@ -243608,6 +248103,10 @@ window.ATLASDATA={
   {
    "name": "Hilton London Olympia",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "380 Kensington High Street, London W14 8NL, United Kingdom",
    "lat": 51.4967347,
    "lon": -0.206734,
@@ -243649,6 +248148,10 @@ window.ATLASDATA={
   {
    "name": "Ember Locke, Kensington",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "202-220 Cromwell Road, Earl's Court, London, United Kingdom",
    "lat": 51.4949804,
    "lon": -0.1945158,
@@ -243680,6 +248183,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Indigo London – Kensington",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "34-44 Barkston Gardens, Earl's Court, London, United Kingdom",
    "lat": 51.4920785,
    "lon": -0.1917822,
@@ -243705,6 +248212,10 @@ window.ATLASDATA={
   {
    "name": "Raffles London at The OWO",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "The Old War Office, Whitehall, London SW1A, United Kingdom",
    "lat": 51.5052561,
    "lon": -0.124823,
@@ -243756,6 +248267,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Indigo London – Tower Hill",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "142 Minories, London EC3N 1LS, United Kingdom",
    "lat": 51.5127693,
    "lon": -0.0758644,
@@ -243801,6 +248316,10 @@ window.ATLASDATA={
   {
    "name": "One Hundred Shoreditch",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "100 Shoreditch High Street, London, United Kingdom",
    "lat": 51.5256536,
    "lon": -0.0772199,
@@ -243852,6 +248371,10 @@ window.ATLASDATA={
   {
    "name": "Park Plaza Victoria London",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "239-251 Vauxhall Bridge Road, London SW1V 1EQ, United Kingdom",
    "lat": 51.494175,
    "lon": -0.1417611,
@@ -243900,6 +248423,10 @@ window.ATLASDATA={
   {
    "name": "Park Plaza Westminster Bridge London",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "200 Westminster Bridge Road, London, United Kingdom",
    "lat": 51.5009188,
    "lon": -0.1165957,
@@ -243945,6 +248472,10 @@ window.ATLASDATA={
   {
    "name": "JW Marriott Grosvenor House London",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "90 Park Lane, Mayfair, London W1K 7TN, United Kingdom",
    "lat": 51.50964,
    "lon": -0.1550763,
@@ -244010,6 +248541,10 @@ window.ATLASDATA={
   {
    "name": "Hilton London Metropole",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "225 Edgware Road, London W2 1JU, United Kingdom",
    "lat": 51.5193384,
    "lon": -0.1699149,
@@ -244044,6 +248579,10 @@ window.ATLASDATA={
   {
    "name": "The Chancery Rosewood",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "24 Grosvenor Square, Mayfair, London, United Kingdom",
    "lat": 51.5110945,
    "lon": -0.1532269,
@@ -244071,6 +248610,10 @@ window.ATLASDATA={
   {
    "name": "The Landmark London",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Harewood Avenue, Marylebone, London NW1 6JQ, United Kingdom",
    "lat": 51.5217805,
    "lon": -0.1628241,
@@ -244104,6 +248647,10 @@ window.ATLASDATA={
   {
    "name": "The Standard, London",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "10 Argyle Street, King's Cross, London WC1H, United Kingdom",
    "lat": 51.5294697,
    "lon": -0.1243303,
@@ -244155,6 +248702,10 @@ window.ATLASDATA={
   {
    "name": "Grand Hotel Excelsior",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Great Siege Road, Floriana FRN 1810, Malta",
    "lat": 35.8975301,
    "lon": 14.5048998,
@@ -244204,6 +248755,10 @@ window.ATLASDATA={
   {
    "name": "The Phoenicia Malta",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "The Mall, Floriana FRN 1478, Malta",
    "lat": 35.8953842,
    "lon": 14.5070344,
@@ -244255,6 +248810,10 @@ window.ATLASDATA={
   {
    "name": "Rosselli AX Privilege",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "167 Merchants Street, Valletta VLT 1174, Malta",
    "lat": 35.898935,
    "lon": 14.5153645,
@@ -244305,6 +248864,10 @@ window.ATLASDATA={
   {
    "name": "Iniala Harbour House",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "11 St Barbara Bastion, Valletta, Malta",
    "lat": 35.896245,
    "lon": 14.5141316,
@@ -244332,6 +248895,10 @@ window.ATLASDATA={
   {
    "name": "Romègas Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "41–47 Old Bakery Street, Valletta, Malta",
    "lat": null,
    "lon": null,
@@ -244355,6 +248922,10 @@ window.ATLASDATA={
   {
    "name": "AX The Palace",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "High Street, Sliema SLM 1542, Malta",
    "lat": 35.9123827,
    "lon": 14.5035874,
@@ -244381,6 +248952,10 @@ window.ATLASDATA={
   {
    "name": "Palais Le Brun",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "101 Old Bakery Street, Valletta, Malta",
    "lat": 35.9006141,
    "lon": 14.5142167,
@@ -244437,6 +249012,10 @@ window.ATLASDATA={
   {
    "name": "Domus Zamittello",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "7 Republic Street, Valletta VLT 1111, Malta",
    "lat": 35.8968256,
    "lon": 14.5104629,
@@ -244474,6 +249053,10 @@ window.ATLASDATA={
   {
    "name": "The Embassy Valletta Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "173 Strait Street, Valletta VLT 1435, Malta",
    "lat": 35.8989488,
    "lon": 14.5125595,
@@ -244503,6 +249086,10 @@ window.ATLASDATA={
   {
    "name": "The Gomerino Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "247 St. Paul's Street, Valletta VLT 1215, Malta",
    "lat": 35.8977074,
    "lon": 14.5148916,
@@ -244530,6 +249117,10 @@ window.ATLASDATA={
   {
    "name": "Corinthia Palace Malta",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "De Paule Avenue, San Anton BZN 9023, Malta",
    "lat": 35.8940433,
    "lon": 14.4491591,
@@ -244567,6 +249158,10 @@ window.ATLASDATA={
   {
    "name": "The Xara Palace Relais & Châteaux",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Misrah il-Kunsill, Mdina MDN 1050, Malta",
    "lat": 35.8851745,
    "lon": 14.4042174,
@@ -244603,6 +249198,10 @@ window.ATLASDATA={
   {
    "name": "Verdala Wellness Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Triq ir-Rghajja, Rabat RBT 2418, Malta",
    "lat": 35.8776217,
    "lon": 14.4032523,
@@ -244639,6 +249238,10 @@ window.ATLASDATA={
   {
    "name": "AX The Victoria Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Gorg Borg Olivier Street, Sliema SLM 1807, Malta",
    "lat": 35.9125634,
    "lon": 14.5030038,
@@ -244666,6 +249269,10 @@ window.ATLASDATA={
   {
    "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Dam 9, 1012 JS Amsterdam, Netherlands",
    "lat": 52.37273125,
    "lon": 4.89438725,
@@ -244687,6 +249294,10 @@ window.ATLASDATA={
   {
    "name": "Andaz Amsterdam Prinsengracht",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Prinsengracht 587, 1016 HT Amsterdam, Netherlands",
    "lat": 52.36791034,
    "lon": 4.88288539,
@@ -244708,6 +249319,10 @@ window.ATLASDATA={
   {
    "name": "Bilderberg Garden Hotel",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Dijsselhofplantsoen 7, 1077 BJ Amsterdam, Netherlands",
    "lat": 52.35118194,
    "lon": 4.87400488,
@@ -244737,6 +249352,10 @@ window.ATLASDATA={
   {
    "name": "Conservatorium Hotel Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Van Baerlestraat 27, 1071 AN Amsterdam, Netherlands",
    "lat": 52.35860737,
    "lon": 4.87852846,
@@ -244760,6 +249379,10 @@ window.ATLASDATA={
   {
    "name": "Grand Hotel Amrâth Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Prins Hendrikkade 108-114, 1011 AK Amsterdam, Netherlands",
    "lat": 52.37464881,
    "lon": 4.90388188,
@@ -244781,6 +249404,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Okura Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Ferdinand Bolstraat 333, 1072 LH Amsterdam, Netherlands",
    "lat": 52.34858704,
    "lon": 4.89362798,
@@ -244813,6 +249440,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Twenty Seven",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Dam 27, 1012 JS Amsterdam, Netherlands",
    "lat": 52.372512,
    "lon": 4.89333834,
@@ -244836,6 +249467,10 @@ window.ATLASDATA={
   {
    "name": "InterContinental Amstel Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Professor Tulpplein 1, 1018 GX Amsterdam, Netherlands",
    "lat": 52.35998643,
    "lon": 4.90524537,
@@ -244861,6 +249496,10 @@ window.ATLASDATA={
   {
    "name": "NH Collection Amsterdam Barbizon Palace",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Prins Hendrikkade 59-72, 1012 AD Amsterdam, Netherlands",
    "lat": 52.37644038,
    "lon": 4.90031192,
@@ -244884,6 +249523,10 @@ window.ATLASDATA={
   {
    "name": "Pestana Amsterdam Riverside",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Amsteldijk 67, 1074 HZ Amsterdam, Netherlands",
    "lat": 52.35337875,
    "lon": 4.90717206,
@@ -244909,6 +249552,10 @@ window.ATLASDATA={
   {
    "name": "Pulitzer Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Prinsengracht 323, 1016 GZ Amsterdam, Netherlands",
    "lat": 52.37282533,
    "lon": 4.88340188,
@@ -244932,6 +249579,10 @@ window.ATLASDATA={
   {
    "name": "Sofitel Legend The Grand Amsterdam",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Oudezijds Voorburgwal 197, 1012 EX Amsterdam, Netherlands",
    "lat": 52.37112537,
    "lon": 4.89542387,
@@ -244954,6 +249605,10 @@ window.ATLASDATA={
   {
    "name": "The College Hotel Amsterdam, Autograph Collection",
    "stars": 5,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Roelof Hartstraat 1, 1071 VE Amsterdam, Netherlands",
    "lat": 52.35277841,
    "lon": 4.88368849,
@@ -244981,6 +249636,10 @@ window.ATLASDATA={
   {
    "name": "Apollo Hotel Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Apollolaan 2, 1077 BA Amsterdam, Netherlands",
    "lat": 52.34809127,
    "lon": 4.88473965,
@@ -245004,6 +249663,10 @@ window.ATLASDATA={
   {
    "name": "Citadines Sloterdijk Station Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Naritaweg 3, 1043 BP Amsterdam, Netherlands",
    "lat": 52.38754676812336,
    "lon": 4.835999955403622,
@@ -245025,6 +249688,10 @@ window.ATLASDATA={
   {
    "name": "Fletcher Hotel Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Schepenbergweg 50, 1105 AT Amsterdam, Netherlands",
    "lat": 52.29243025,
    "lon": 4.94447531,
@@ -245048,6 +249715,10 @@ window.ATLASDATA={
   {
    "name": "Holiday Inn Amsterdam - Arena Towers",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Hoogoorddreef 66a, 1101 BE Amsterdam, Netherlands",
    "lat": 52.30948438,
    "lon": 4.94199741,
@@ -245071,6 +249742,10 @@ window.ATLASDATA={
   {
    "name": "Hotel Artemis Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "John M. Keynesplein 2, 1066 EP Amsterdam, Netherlands",
    "lat": 52.3417829,
    "lon": 4.82502812,
@@ -245092,6 +249767,10 @@ window.ATLASDATA={
   {
    "name": "Inntel Hotels Amsterdam-Zaandam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Provincialeweg 102, 1506 MD Zaandam, Netherlands",
    "lat": 52.43803401,
    "lon": 4.81596782,
@@ -245113,6 +249792,10 @@ window.ATLASDATA={
   {
    "name": "Leonardo Royal Hotel Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Paul van Vlissingenstraat 24, 1096 BK Amsterdam, Netherlands",
    "lat": 52.33255053891712,
    "lon": 4.918716031497598,
@@ -245134,6 +249817,10 @@ window.ATLASDATA={
   {
    "name": "Met Hotel Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Marius Bauerstraat 401, 1062 AP Amsterdam, Netherlands",
    "lat": 52.362782108945225,
    "lon": 4.835291025571516,
@@ -245155,6 +249842,10 @@ window.ATLASDATA={
   {
    "name": "NH Amsterdam Noord",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Distelkade 21, 1031 XP Amsterdam, Netherlands",
    "lat": 52.39218527,
    "lon": 4.91090393,
@@ -245176,6 +249867,10 @@ window.ATLASDATA={
   {
    "name": "Nhow Amsterdam RAI",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Europaboulevard 2B, 1078 RV Amsterdam, Netherlands",
    "lat": 52.33911229653858,
    "lon": 4.891905997126145,
@@ -245203,6 +249898,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Amsterdam City",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Europaboulevard 10, 1083 AD Amsterdam, Netherlands",
    "lat": 52.3337023,
    "lon": 4.88909853,
@@ -245224,6 +249923,10 @@ window.ATLASDATA={
   {
    "name": "Room Mate Aitana",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "IJdok 6, 1013 MM Amsterdam, Netherlands",
    "lat": 52.38470097,
    "lon": 4.89408812,
@@ -245245,6 +249948,10 @@ window.ATLASDATA={
   {
    "name": "Sir Adam Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Overhoeksplein 7, 1031 KS Amsterdam, Netherlands",
    "lat": 52.38376771,
    "lon": 4.90234819,
@@ -245266,6 +249973,10 @@ window.ATLASDATA={
   {
    "name": "The Monument Hotel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Dam 7c, 1506 BC Zaandam, Netherlands",
    "lat": 52.44052053024255,
    "lon": 4.823800185210619,
@@ -245287,6 +249998,10 @@ window.ATLASDATA={
   {
    "name": "Van der Valk Hotel Amsterdam Zuidas",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Tommaso Albinonistraat 188, 1083 HM Amsterdam, Netherlands",
    "lat": 52.3363292,
    "lon": 4.8858652,
@@ -245312,6 +250027,10 @@ window.ATLASDATA={
   {
    "name": "Van der Valk Hotel Amsterdam-Amstel",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Joan Muyskenweg 20, 1096 CJ Amsterdam, Netherlands",
    "lat": 52.333805694404504,
    "lon": 4.914776916387568,
@@ -245333,6 +250052,10 @@ window.ATLASDATA={
   {
    "name": "Westcord Art Hotel Amsterdam 4-stars",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Spaarndammerdijk 304, 1013 ZX Amsterdam, Netherlands",
    "lat": 52.39278163,
    "lon": 4.86885157,
@@ -245354,6 +250077,10 @@ window.ATLASDATA={
   {
    "name": "Zaan Hotel Amsterdam",
    "stars": 4,
+   "rating_system": null,
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Ebbehout 22, 1507 EA Zaandam, Netherlands",
    "lat": 52.438204841298635,
    "lon": 4.811750367131452,
@@ -245375,6 +250102,10 @@ window.ATLASDATA={
   {
    "name": "Hilton Riyadh Hotel & Residences",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "6623 Al Shohadaa Eastern Ring Road, Riyadh, 13241-2892, Saudi Arabia",
    "lat": 24.7851909,
    "lon": 46.7281813,
@@ -245427,6 +250158,10 @@ window.ATLASDATA={
   {
    "name": "Four Seasons Hotel Riyadh at Kingdom Centre",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Kingdom Centre, Riyadh, 11321, Saudi Arabia",
    "lat": 24.711037,
    "lon": 46.6733604,
@@ -245474,6 +250209,10 @@ window.ATLASDATA={
   {
    "name": "The Ritz-Carlton, Riyadh",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "AlHada Area, Mekkah Road, Riyadh, 11493, Saudi Arabia",
    "lat": 24.665848968283527,
    "lon": 46.630880151593885,
@@ -245504,6 +250243,10 @@ window.ATLASDATA={
   {
    "name": "Mandarin Oriental Al Faisaliah, Riyadh",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "King Fahad Road, Al Olaya, Riyadh 12212, Saudi Arabia",
    "lat": 24.69054908956177,
    "lon": 46.68417281028663,
@@ -245526,6 +250269,10 @@ window.ATLASDATA={
   {
    "name": "Hyatt Regency Riyadh Olaya",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Olaya Street, Al Olaya, Riyadh 12213, Saudi Arabia",
    "lat": 24.6981993,
    "lon": 46.6821165,
@@ -245565,6 +250312,10 @@ window.ATLASDATA={
   {
    "name": "Mövenpick Hotel and Residences Riyadh",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3478 North Ring Road Exit 4, Al Ghadeer District, 13311 Riyadh, Saudi Arabia",
    "lat": 24.764139,
    "lon": 46.653389,
@@ -245612,6 +250363,10 @@ window.ATLASDATA={
   {
    "name": "Narcissus Hotel & Spa Riyadh",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "12212 Olaya Street, Al Olaya, Riyadh, Saudi Arabia",
    "lat": 24.6957498,
    "lon": 46.6835589,
@@ -245651,6 +250406,10 @@ window.ATLASDATA={
   {
    "name": "voco Riyadh",
    "stars": 5,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "King Fahad Road, Opposite of Ministry of Interior, Riyadh, 13003, Saudi Arabia",
    "lat": 24.670325,
    "lon": 46.6957058,
@@ -245683,6 +250442,10 @@ window.ATLASDATA={
   {
    "name": "Radisson Blu Hotel, Riyadh Qurtuba",
    "stars": 4,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Al Thumama Road, Riyadh, Saudi Arabia",
    "lat": null,
    "lon": null,
@@ -245720,6 +250483,10 @@ window.ATLASDATA={
   {
    "name": "Sheraton Riyadh Hotel & Towers",
    "stars": 4,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "Junction of King Fahad and King Abdullah Road, Riyadh, 11623, Saudi Arabia",
    "lat": 24.7273498,
    "lon": 46.6653935,
@@ -245765,6 +250532,10 @@ window.ATLASDATA={
   {
    "name": "Novotel Riyadh Sahafa",
    "stars": 4,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "13321 Olaya Street, As Sahafa District, Riyadh, Saudi Arabia",
    "lat": 24.80694,
    "lon": 46.6272,
@@ -245806,6 +250577,10 @@ window.ATLASDATA={
   {
    "name": "Hilton Garden Inn Riyadh Financial District",
    "stars": 4,
+   "rating_system": "Saudi Ministry of Tourism official classification",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
    "address": "3606 Northern Ring Road, Al Ghadeer District, Riyadh 13311-6488, Saudi Arabia",
    "lat": 24.7649617,
    "lon": 46.6548815,
@@ -245854,6 +250629,1330 @@ window.ATLASDATA={
     "partner_for": []
    },
    "source": "https://tourism.sa/ar/e-services/forms/licensed-activities-inquiry",
+   "price": null
+  },
+  {
+   "name": "Taipei Garden Hotel",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中正區中華路2段1號",
+   "lat": 25.0364199,
+   "lon": 121.5069159,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 4.95
+   },
+   "url": "http://www.taipeigarden.com.tw",
+   "event_slugs": [
+    "new-taipei-christmasland-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Hotel Royal Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區中山北路2段37之1號",
+   "lat": 25.0536679,
+   "lon": 121.5229126,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 7.38,
+    "fancy-frontier-48": 1.99
+   },
+   "url": "http://www.royal-taipei.com.tw",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "fancy-frontier-48"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Shangri-La Far Eastern, Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市大安區敦化南路2段201號",
+   "lat": 25.0262669,
+   "lon": 121.549593,
+   "distance_km": {
+    "taipei-new-years-eve-party-2027": 2.34,
+    "taipei-game-show-2027": 7.41,
+    "taipei-international-book-exhibition-2027": 1.57,
+    "semicon-taiwan-2027": 7.41,
+    "computex-2027": 7.41,
+    "comic-exhibition-taipei-2027": 1.57,
+    "pingxi-sky-lantern-festival-2027": 22.79,
+    "smart-city-summit-expo-2027": 7.41,
+    "edtech-taiwan-2027": 1.57,
+    "taiwan-innotech-expo-2027": 1.57
+   },
+   "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
+   "event_slugs": [
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "taipei-international-book-exhibition-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "comic-exhibition-taipei-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Sheraton Grand Taipei Hotel",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中正區忠孝東路1段12號",
+   "lat": 25.044675,
+   "lon": 121.5225553,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 6.78,
+    "taipei-new-years-eve-party-2027": 4.41,
+    "taipei-international-book-exhibition-2027": 4.14,
+    "comic-exhibition-taipei-2027": 4.14,
+    "edtech-taiwan-2027": 4.14,
+    "taiwan-innotech-expo-2027": 4.14
+   },
+   "url": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020200.jsp?hohi_id=9474",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "taipei-new-years-eve-party-2027",
+    "taipei-international-book-exhibition-2027",
+    "comic-exhibition-taipei-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Palais de Chine Hotel",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市大同區承德路1段3號",
+   "lat": 25.04914,
+   "lon": 121.5169225,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 6.59,
+    "fancy-frontier-48": 2.5
+   },
+   "url": "http://www.palaisdechinehotel.com/",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "fancy-frontier-48"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "The Regent Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區中山北路2段39巷3號",
+   "lat": 25.054121,
+   "lon": 121.5243094,
+   "distance_km": {
+    "taipei-international-book-exhibition-2027": 4.38,
+    "comic-exhibition-taipei-2027": 4.38,
+    "fancy-frontier-48": 1.97,
+    "edtech-taiwan-2027": 4.38,
+    "taiwan-innotech-expo-2027": 4.38,
+    "ai-expo-taiwan-2027": 1.97,
+    "meet-taipei-2027": 1.97,
+    "taipei-biennial-2027": 1.99
+   },
+   "url": "http://www.regenttaiwan.com",
+   "event_slugs": [
+    "taipei-international-book-exhibition-2027",
+    "comic-exhibition-taipei-2027",
+    "fancy-frontier-48",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "ai-expo-taiwan-2027",
+    "meet-taipei-2027",
+    "taipei-biennial-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Cosmos Hotel Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中正區忠孝西路1段43號",
+   "lat": 25.0463563,
+   "lon": 121.5183359,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 6.52
+   },
+   "url": "http://www.cosmos-hotel.com.tw",
+   "event_slugs": [
+    "new-taipei-christmasland-2026"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "The Landis Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區民權東路2段41號",
+   "lat": 25.0628337,
+   "lon": 121.5300007,
+   "distance_km": {
+    "taipei-new-years-eve-party-2027": 4.37,
+    "fancy-frontier-48": 1.38,
+    "ai-expo-taiwan-2027": 1.38,
+    "meet-taipei-2027": 1.38,
+    "taipei-biennial-2027": 1.16
+   },
+   "url": "http://taipei.landishotelsresorts.com/chinese-trad/",
+   "event_slugs": [
+    "taipei-new-years-eve-party-2027",
+    "fancy-frontier-48",
+    "ai-expo-taiwan-2027",
+    "meet-taipei-2027",
+    "taipei-biennial-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Taipei Marriott Hotel",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區樂群二路199號",
+   "lat": 25.080476,
+   "lon": 121.5592831,
+   "distance_km": {
+    "taipei-game-show-2027": 6.28,
+    "semicon-taiwan-2027": 6.28,
+    "computex-2027": 6.28,
+    "pingxi-sky-lantern-festival-2027": 22.19,
+    "smart-city-summit-expo-2027": 6.28
+   },
+   "url": "http://www.taipeimarriott.com.tw",
+   "event_slugs": [
+    "taipei-game-show-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Courtyard by Marriott Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市南港區忠孝東路七段359號",
+   "lat": 25.0527541,
+   "lon": 121.6058287,
+   "distance_km": {
+    "taipei-new-years-eve-party-2027": 4.21,
+    "taipei-game-show-2027": 1.03,
+    "semicon-taiwan-2027": 1.03,
+    "computex-2027": 1.03,
+    "pingxi-sky-lantern-festival-2027": 17.12,
+    "smart-city-summit-expo-2027": 1.03,
+    "new-taipei-river-ocean-music-festival-2027": 34.11,
+    "cybersec-2027": 1.03,
+    "innovex-2027": 1.03,
+    "sitcon-2027": 1.45,
+    "hitcon-2027": 1.45
+   },
+   "url": "https://www.courtyardtaipei.com.tw/",
+   "event_slugs": [
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "new-taipei-river-ocean-music-festival-2027",
+    "cybersec-2027",
+    "innovex-2027",
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "The Okura Prestige Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區南京東路1段9號",
+   "lat": 25.052519,
+   "lon": 121.5233831,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 7.34,
+    "taipei-international-book-exhibition-2027": 4.38,
+    "comic-exhibition-taipei-2027": 4.38,
+    "fancy-frontier-48": 2.13,
+    "edtech-taiwan-2027": 4.38,
+    "taiwan-innotech-expo-2027": 4.38
+   },
+   "url": "http://www.okurataipei.com.tw",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "taipei-international-book-exhibition-2027",
+    "comic-exhibition-taipei-2027",
+    "fancy-frontier-48",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Le Méridien Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市信義區松仁路38號",
+   "lat": 25.0379741,
+   "lon": 121.5679496,
+   "distance_km": {
+    "taipei-new-years-eve-party-2027": 0.39,
+    "taipei-game-show-2027": 5.18,
+    "taipei-international-book-exhibition-2027": 0.7,
+    "semicon-taiwan-2027": 5.18,
+    "computex-2027": 5.18,
+    "comic-exhibition-taipei-2027": 0.7,
+    "pingxi-sky-lantern-festival-2027": 20.89,
+    "smart-city-summit-expo-2027": 5.18,
+    "edtech-taiwan-2027": 0.7,
+    "taiwan-innotech-expo-2027": 0.7,
+    "cybersec-2027": 5.18,
+    "innovex-2027": 5.18,
+    "sitcon-2027": 4.67,
+    "hitcon-2027": 4.67
+   },
+   "url": "http://www.lemeridien-taipei.com/",
+   "event_slugs": [
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "taipei-international-book-exhibition-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "comic-exhibition-taipei-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "cybersec-2027",
+    "innovex-2027",
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Grand Hyatt Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市信義區松壽路2號",
+   "lat": 25.0353021,
+   "lon": 121.5626204,
+   "distance_km": {
+    "taipei-new-years-eve-party-2027": 0.73,
+    "taipei-game-show-2027": 5.79,
+    "taipei-international-book-exhibition-2027": 0.09,
+    "semicon-taiwan-2027": 5.79,
+    "computex-2027": 5.79,
+    "comic-exhibition-taipei-2027": 0.09,
+    "pingxi-sky-lantern-festival-2027": 21.43,
+    "smart-city-summit-expo-2027": 5.79,
+    "edtech-taiwan-2027": 0.09,
+    "taiwan-innotech-expo-2027": 0.09,
+    "cybersec-2027": 5.79,
+    "innovex-2027": 5.79,
+    "sitcon-2027": 5.24,
+    "hitcon-2027": 5.24
+   },
+   "url": "http://taipei.grand.hyatt.com",
+   "event_slugs": [
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "taipei-international-book-exhibition-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "comic-exhibition-taipei-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "cybersec-2027",
+    "innovex-2027",
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "The Grand Hotel",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區中山北路4段1巷1號",
+   "lat": 25.0787653,
+   "lon": 121.5262059,
+   "distance_km": {
+    "fancy-frontier-48": 1.02,
+    "ai-expo-taiwan-2027": 1.02,
+    "meet-taipei-2027": 1.02,
+    "taipei-biennial-2027": 0.76
+   },
+   "url": "http://www.grand-hotel.org",
+   "event_slugs": [
+    "fancy-frontier-48",
+    "ai-expo-taiwan-2027",
+    "meet-taipei-2027",
+    "taipei-biennial-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=6",
+   "price": null
+  },
+  {
+   "name": "Grand Mayfull Hotel Taipei",
+   "stars": 5,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區樂群二路55號",
+   "lat": 25.0806038,
+   "lon": 121.5537904,
+   "distance_km": {
+    "taipei-game-show-2027": 6.79,
+    "semicon-taiwan-2027": 6.79,
+    "computex-2027": 6.79,
+    "pingxi-sky-lantern-festival-2027": 22.74,
+    "smart-city-summit-expo-2027": 6.79
+   },
+   "url": "https://www.grandmayfull.com/",
+   "event_slugs": [
+    "taipei-game-show-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=7",
+   "price": null
+  },
+  {
+   "name": "Golden Tulip",
+   "stars": 4,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "新北市淡水區中正路一段2之1號",
+   "lat": 25.1770101,
+   "lon": 121.4294721,
+   "distance_km": {
+    "fancy-frontier-48": 14.87
+   },
+   "url": "https://www.goldentulip-fabhotel.com.tw/",
+   "event_slugs": [
+    "fancy-frontier-48"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=5",
+   "price": null
+  },
+  {
+   "name": "台北慕軒飯店，臻品之選",
+   "stars": 4,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市大安區敦化南路一段331號",
+   "lat": 25.0340129,
+   "lon": 121.5493832,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 8.79,
+    "taipei-new-years-eve-party-2027": 1.86,
+    "taipei-game-show-2027": 7.09,
+    "taipei-international-book-exhibition-2027": 1.28,
+    "semicon-taiwan-2027": 7.09,
+    "computex-2027": 7.09,
+    "comic-exhibition-taipei-2027": 1.28,
+    "fancy-frontier-48": 5.1,
+    "pingxi-sky-lantern-festival-2027": 22.77,
+    "smart-city-summit-expo-2027": 7.09,
+    "edtech-taiwan-2027": 1.28,
+    "taiwan-innotech-expo-2027": 1.28,
+    "ai-expo-taiwan-2027": 5.1,
+    "cybersec-2027": 7.09,
+    "innovex-2027": 7.09,
+    "meet-taipei-2027": 5.1,
+    "taipei-biennial-2027": 4.91,
+    "sitcon-2027": 6.58,
+    "hitcon-2027": 6.58
+   },
+   "url": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020200.jsp?hohi_id=20977",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "taipei-international-book-exhibition-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "comic-exhibition-taipei-2027",
+    "fancy-frontier-48",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "ai-expo-taiwan-2027",
+    "cybersec-2027",
+    "innovex-2027",
+    "meet-taipei-2027",
+    "taipei-biennial-2027",
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=5",
+   "price": null
+  },
+  {
+   "name": "Fullon Hotel Fulong",
+   "stars": 4,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "新北市貢寮區福隆里福隆街41號",
+   "lat": 25.0182516,
+   "lon": 121.944585,
+   "distance_km": {
+    "pingxi-sky-lantern-festival-2027": 17.25,
+    "new-taipei-river-ocean-music-festival-2027": 0.48
+   },
+   "url": "http://www.fullon-hotels.com.tw/fl/",
+   "event_slugs": [
+    "pingxi-sky-lantern-festival-2027",
+    "new-taipei-river-ocean-music-festival-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=5",
+   "price": null
+  },
+  {
+   "name": "Hotel Cozzi Taipei Minsheng",
+   "stars": 4,
+   "rating_system": "Taiwan Tourism Administration star-rated hotel evaluation (星級旅館評鑑)",
+   "forbes_rating": null,
+   "aaa_rating": null,
+   "quota_tier": null,
+   "address": "臺北市中山區民生東路二段178號",
+   "lat": 25.0576563,
+   "lon": 121.5362926,
+   "distance_km": {
+    "new-taipei-christmasland-2026": 8.73,
+    "taipei-new-years-eve-party-2027": 3.53,
+    "taipei-game-show-2027": 7.98,
+    "taipei-international-book-exhibition-2027": 3.65,
+    "semicon-taiwan-2027": 7.98,
+    "computex-2027": 7.98,
+    "comic-exhibition-taipei-2027": 3.65,
+    "fancy-frontier-48": 2.23,
+    "pingxi-sky-lantern-festival-2027": 24.14,
+    "smart-city-summit-expo-2027": 7.98,
+    "edtech-taiwan-2027": 3.65,
+    "taiwan-innotech-expo-2027": 3.65,
+    "ai-expo-taiwan-2027": 2.23,
+    "cybersec-2027": 7.98,
+    "innovex-2027": 7.98,
+    "meet-taipei-2027": 2.23,
+    "taipei-biennial-2027": 1.98,
+    "sitcon-2027": 8.02,
+    "hitcon-2027": 8.02
+   },
+   "url": "https://cozzi.cathayhotel.com.tw/cozzi/minsheng",
+   "event_slugs": [
+    "new-taipei-christmasland-2026",
+    "taipei-new-years-eve-party-2027",
+    "taipei-game-show-2027",
+    "taipei-international-book-exhibition-2027",
+    "semicon-taiwan-2027",
+    "computex-2027",
+    "comic-exhibition-taipei-2027",
+    "fancy-frontier-48",
+    "pingxi-sky-lantern-festival-2027",
+    "smart-city-summit-expo-2027",
+    "edtech-taiwan-2027",
+    "taiwan-innotech-expo-2027",
+    "ai-expo-taiwan-2027",
+    "cybersec-2027",
+    "innovex-2027",
+    "meet-taipei-2027",
+    "taipei-biennial-2027",
+    "sitcon-2027",
+    "hitcon-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": "https://www.taiwanstay.net.tw/TSA/web_page/TSA020100.jsp?hohl_evaluation1=5",
+   "price": null
+  },
+  {
+   "name": "ARIA Sky Suites",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "3730 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1070287,
+   "lon": -115.1779977,
+   "distance_km": {
+    "edc-las-vegas-2027": 23.71,
+    "when-we-were-young-2027": 4.13,
+    "nab-show-2027": 3.66,
+    "isc-west-2027": 1.96,
+    "money2020-usa-2027": 3.66,
+    "fintech-meetup-2027": 1.81
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/aria-sky-suites",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Encore Tower Suites",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "3131 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1289345,
+   "lon": -115.165362,
+   "distance_km": {
+    "edc-las-vegas-2027": 21.12,
+    "when-we-were-young-2027": 1.48,
+    "nab-show-2027": 1.38,
+    "isc-west-2027": 0.78,
+    "vmware-explore-2027": 0.53,
+    "automate-2027": 1.38,
+    "money2020-usa-2027": 1.38,
+    "fintech-meetup-2027": 0.88,
+    "ai4-2027": 0.88
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/encore-tower-suites",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "vmware-explore-2027",
+    "automate-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Skylofts at MGM Grand",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "3799 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1027891,
+   "lon": -115.1694006,
+   "distance_km": {
+    "edc-las-vegas-2027": 23.6,
+    "when-we-were-young-2027": 4.41,
+    "nab-show-2027": 3.58,
+    "isc-west-2027": 2.15,
+    "google-cloud-next-2027": 1.72,
+    "black-hat-usa-2027": 1.72,
+    "money2020-usa-2027": 3.58,
+    "fintech-meetup-2027": 2.1,
+    "itc-vegas-2027": 1.31
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/skylofts-at-mgm-grand",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027",
+    "itc-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Wynn Tower Suites",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Five-Star",
+   "aaa_rating": null,
+   "quota_tier": "five",
+   "address": "3131 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1266219,
+   "lon": -115.1654043,
+   "distance_km": {
+    "edc-las-vegas-2027": 21.31,
+    "when-we-were-young-2027": 1.73,
+    "nab-show-2027": 1.45,
+    "isc-west-2027": 0.53,
+    "vmware-explore-2027": 0.79,
+    "automate-2027": 1.45,
+    "money2020-usa-2027": 1.45,
+    "fintech-meetup-2027": 0.65,
+    "ai4-2027": 0.65
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/wynn-tower-suites",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "vmware-explore-2027",
+    "automate-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Four Seasons Hotel Las Vegas",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide / AAA Diamond",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": "Five Diamond",
+   "quota_tier": "five",
+   "address": "3960 South Las Vegas Boulevard, Las Vegas, NV, United States",
+   "lat": 36.0908006,
+   "lon": -115.1747491,
+   "distance_km": {
+    "google-cloud-next-2027": 0.35,
+    "black-hat-usa-2027": 0.35,
+    "itc-vegas-2027": 0.19
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/four-seasons-hotel-las-vegas",
+   "event_slugs": [
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "itc-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "THE VILLAS Caesars Palace",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide / AAA Diamond",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": "Five Diamond",
+   "quota_tier": "five",
+   "address": "3570 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1166277,
+   "lon": -115.1767568,
+   "distance_km": {
+    "edc-las-vegas-2027": 22.82,
+    "when-we-were-young-2027": 3.1,
+    "nab-show-2027": 2.87,
+    "isc-west-2027": 1.11,
+    "vmware-explore-2027": 2.12,
+    "automate-2027": 2.87,
+    "money2020-usa-2027": 2.87,
+    "fintech-meetup-2027": 0.87,
+    "ai4-2027": 0.87
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/the-villas-caesars-palace",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "vmware-explore-2027",
+    "automate-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Waldorf Astoria Las Vegas",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Five Diamond",
+   "quota_tier": "five",
+   "address": "3752 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1062074,
+   "lon": -115.1743562,
+   "distance_km": {
+    "edc-las-vegas-2027": 23.57,
+    "when-we-were-young-2027": 4.12,
+    "nab-show-2027": 3.51,
+    "isc-west-2027": 1.89,
+    "google-cloud-next-2027": 1.95,
+    "black-hat-usa-2027": 1.95,
+    "money2020-usa-2027": 3.51,
+    "fintech-meetup-2027": 1.78,
+    "itc-vegas-2027": 1.56
+   },
+   "url": "https://www.aaa.com/tripcanvas/hotel/waldorf-astoria-las-vegas-AA122293",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "isc-west-2027",
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027",
+    "itc-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Crockfords Las Vegas, LXR Hotels & Resorts",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide / AAA Diamond",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "333 West Resorts World Drive, Las Vegas, NV, United States",
+   "lat": 36.1348091,
+   "lon": -115.165916,
+   "distance_km": {
+    "edc-las-vegas-2027": 20.67,
+    "when-we-were-young-2027": 0.86,
+    "vmware-explore-2027": 0.13
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/crockfords-las-vegas-lxr-hotels-resorts",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "vmware-explore-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Encore at Wynn Las Vegas",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "3131 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1289345,
+   "lon": -115.165362,
+   "distance_km": {
+    "nab-show-2027": 1.38,
+    "isc-west-2027": 0.78,
+    "automate-2027": 1.38,
+    "money2020-usa-2027": 1.38
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/encore-at-wynn-las-vegas",
+   "event_slugs": [
+    "nab-show-2027",
+    "isc-west-2027",
+    "automate-2027",
+    "money2020-usa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "The Palazzo at The Venetian Resort Las Vegas",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": null,
+   "quota_tier": "four",
+   "address": "3325 South Las Vegas Boulevard, Las Vegas, NV, United States",
+   "lat": 36.1241843,
+   "lon": -115.168271,
+   "distance_km": {
+    "isc-west-2027": 0.31,
+    "fintech-meetup-2027": 0.29,
+    "ai4-2027": 0.29
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/the-palazzo-at-the-venetian-resort-las-vegas",
+   "event_slugs": [
+    "isc-west-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "The Venetian Resort Las Vegas",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide / AAA Diamond",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "3355 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1217073,
+   "lon": -115.1693352,
+   "distance_km": {
+    "isc-west-2027": 0.28,
+    "fintech-meetup-2027": 0.0,
+    "ai4-2027": 0.0
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/the-venetian-resort-las-vegas",
+   "event_slugs": [
+    "isc-west-2027",
+    "fintech-meetup-2027",
+    "ai4-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Wynn Las Vegas",
+   "stars": null,
+   "rating_system": "Forbes Travel Guide / AAA Diamond",
+   "forbes_rating": "Four-Star",
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "3131 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1266219,
+   "lon": -115.1654043,
+   "distance_km": {
+    "nab-show-2027": 1.45,
+    "isc-west-2027": 0.53,
+    "money2020-usa-2027": 1.45,
+    "fintech-meetup-2027": 0.65
+   },
+   "url": "https://www.forbestravelguide.com/hotels/las-vegas-nevada/wynn-las-vegas",
+   "event_slugs": [
+    "nab-show-2027",
+    "isc-west-2027",
+    "money2020-usa-2027",
+    "fintech-meetup-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Caesars Palace",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "3570 Las Vegas Boulevard South, Las Vegas, NV, United States",
+   "lat": 36.1166277,
+   "lon": -115.1767568,
+   "distance_km": {
+    "fintech-meetup-2027": 0.87
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "fintech-meetup-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Circa Resort & Casino",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "8 Fremont Street Experience, Las Vegas, NV, United States",
+   "lat": 36.172048,
+   "lon": -115.1453898,
+   "distance_km": {
+    "edc-las-vegas-2027": 16.44
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "edc-las-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Conrad Las Vegas at Resorts World",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "999 Resorts World Avenue, Las Vegas, NV, United States",
+   "lat": 36.1344816,
+   "lon": -115.1656573,
+   "distance_km": {
+    "edc-las-vegas-2027": 20.68,
+    "when-we-were-young-2027": 0.89,
+    "nab-show-2027": 1.44,
+    "vmware-explore-2027": 0.1,
+    "money2020-usa-2027": 1.44
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "vmware-explore-2027",
+    "money2020-usa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Fontainebleau Las Vegas",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "2777 South Las Vegas Boulevard, Las Vegas, NV, United States",
+   "lat": 36.1374208,
+   "lon": -115.1592284,
+   "distance_km": {
+    "edc-las-vegas-2027": 20.05,
+    "when-we-were-young-2027": 0.58,
+    "nab-show-2027": 1.08,
+    "automate-2027": 1.08,
+    "money2020-usa-2027": 1.08
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "edc-las-vegas-2027",
+    "when-we-were-young-2027",
+    "nab-show-2027",
+    "automate-2027",
+    "money2020-usa-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Las Vegas Hilton at Resorts World",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "999 Resorts World Avenue, Las Vegas, NV, United States",
+   "lat": 36.135162,
+   "lon": -115.1666672,
+   "distance_km": {
+    "when-we-were-young-2027": 0.85
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "when-we-were-young-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "Mandalay Bay Resort & Casino",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "3950 South Las Vegas Boulevard, Las Vegas, NV, United States",
+   "lat": 36.0922458,
+   "lon": -115.1758239,
+   "distance_km": {
+    "google-cloud-next-2027": 0.41,
+    "black-hat-usa-2027": 0.41,
+    "itc-vegas-2027": 0.0
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "itc-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
+   "price": null
+  },
+  {
+   "name": "NoMad Las Vegas",
+   "stars": null,
+   "rating_system": "AAA Diamond",
+   "forbes_rating": null,
+   "aaa_rating": "Four Diamond",
+   "quota_tier": "four",
+   "address": "3770 South Las Vegas Boulevard, Las Vegas, NV, United States",
+   "lat": 36.104738,
+   "lon": -115.1765179,
+   "distance_km": {
+    "google-cloud-next-2027": 1.76,
+    "black-hat-usa-2027": 1.76,
+    "itc-vegas-2027": 1.39
+   },
+   "url": "https://newsroom.aaa.com/wp-content/uploads/2024/04/AAA-Four-Diamond-Hotels-2026-16.pdf",
+   "event_slugs": [
+    "google-cloud-next-2027",
+    "black-hat-usa-2027",
+    "itc-vegas-2027"
+   ],
+   "partner": {
+    "is_partner": false,
+    "evidence_url": null,
+    "partner_for": []
+   },
+   "source": null,
    "price": null
   }
  ],
@@ -248682,6 +254781,382 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "brussels-expo",
+   "name": "Brussels Expo",
+   "type": "exhibition_grounds",
+   "country": "Belgium",
+   "cc": "BE",
+   "city": "Brussels",
+   "address": "Place de Belgique 1, 1020 Brussels",
+   "lat": 50.8998743,
+   "lon": 4.3378542,
+   "url": "https://www.brussels-expo.com/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official technical pages list Halls 1–11, Hall 12 / ING Arena, plus supporting rooms including Auditorium 2000, Astrid Hall and Patio Hall",
+   "description": "Belgium’s main exhibition park at the Heysel, officially at Place de Belgique 1, 1020 Brussels. Official technical information lists Halls 01–11 and Hall 12 (ING Arena) with downloadable documents per hall. A single official indoor exhibition campus total was not published on the retrieved official pages, so exhibition_sqm and capacity_max_delegates are left null rather than taken from secondary UFI or third-party figures. Coordinates are the atlas precise pin, matching the Nominatim events-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cybersec-europe-2027",
+    "made-in-asia-brussels-2027",
+    "brafa-2027",
+    "art-brussels-2027",
+    "busworld-europe-2027"
+   ],
+   "contact_email": "info@brussels-expo.com",
+   "sources": [
+    {
+     "url": "https://www.brussels-expo.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.brussels-expo.com/en/technical-information/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.brussels-expo.com/en/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "flanders-expo",
+   "name": "Flanders Expo",
+   "type": "exhibition_grounds",
+   "country": "Belgium",
+   "cc": "BE",
+   "city": "Ghent",
+   "address": "Maaltekouter 1, 9051 Ghent",
+   "lat": 51.0268207,
+   "lon": 3.6920246,
+   "url": "https://www.flandersexpo.be/en/",
+   "capacity": 20000,
+   "exhibition_sqm": 54000,
+   "halls": "Eight halls; official copy also refers to around 54,000 m² of event space, plus outdoor areas listed separately",
+   "description": "Ghent exhibition and events centre officially at Maaltekouter 1, 9051 Ghent. Official halls page: eight halls and 54,000 m² of space, stored as exhibition_sqm (also described as “around 54,000 m² of event space”). Official indoor hall areas: Hall 1 19,152 m² (9,000 theatre, 9,000–20,000 reception/party, stored as capacity_max_delegates 20,000); Halls 2–7 each 4,032 m² / 3,500 persons / 2,688 theatre; Hall 8 10,735 m² / 10,000 persons / 8,000 theatre. Those eight halls sum to 54,079 m², consistent with the official 54,000 headline. Official outdoor areas (PA4 5,600, Hall 3 outdoor 1,500, Hall 8 outdoor 5,000, PA1 10,000 m²) are not included in exhibition_sqm.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sett-gent-2027",
+    "facts-ghent-2027",
+    "facts-ghent-fall-2027",
+    "prowood-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.flandersexpo.be/en/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 19152,
+     "capacity_max": 20000,
+     "capacity_theatre": 9000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 20000,
+     "notes": "Official: theatre 9,000; reception/party 9,000–20,000; height 11.5 m.",
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": null,
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": null,
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": "Official: halls 4, 5 and 6 can only be booked as an extension to another hall.",
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": "Official: halls 4, 5 and 6 can only be booked as an extension to another hall.",
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": "Official: halls 4, 5 and 6 can only be booked as an extension to another hall.",
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 7 / Unit 7",
+     "type": null,
+     "area_sqm": 4032,
+     "capacity_max": 3500,
+     "capacity_theatre": 2688,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3500,
+     "notes": null,
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    },
+    {
+     "name": "Hall 8",
+     "type": null,
+     "area_sqm": 10735,
+     "capacity_max": 10000,
+     "capacity_theatre": 8000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 10000,
+     "notes": "Official: height 13 m.",
+     "source_url": "https://www.flandersexpo.be/en/organise/our-venues/our-event-halls/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "tour-and-taxis",
+   "name": "Tour & Taxis",
+   "type": "other",
+   "country": "Belgium",
+   "cc": "BE",
+   "city": "Brussels",
+   "address": "Avenue du Port 86C, 1000 Brussels",
+   "lat": 50.8665091,
+   "lon": 4.3470849,
+   "url": "https://tour-taxis.com/",
+   "capacity": 3500,
+   "exhibition_sqm": 8095,
+   "halls": "Shed 1, Shed 1 Bis, Shed 2 and Shed 2 Bis",
+   "description": "Historic Brussels events site whose official Sheds pages describe a converted events venue for exhibitions, fairs and shows, officially at Avenue du Port 86C, 1000 Brussels (deliveries Rue Picard 3). Official dimensions: Shed 1 3,787 m² / 3,500 people, stored as capacity_max_delegates; Shed 1 Bis 1,568 m²; Shed 2 2,740 m² / 3,000 people; Shed 2 Bis is published as 1,188 m³ (cubic metres), so it is not added into exhibition area. Exhibition_sqm 8,095 is the sum of the three official floor areas (Shed 1, 1 Bis and 2).",
+   "photo": null,
+   "linked_event_slugs": [
+    "ocx-2027",
+    "foire-du-livre-bruxelles-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://tour-taxis.com/event-spaces/sheds/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Shed 1",
+     "type": null,
+     "area_sqm": 3787,
+     "capacity_max": 3500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Sheds page: 3,787 m² / 3,500 people.",
+     "source_url": "https://tour-taxis.com/event-spaces/sheds/"
+    },
+    {
+     "name": "Shed 1 Bis",
+     "type": null,
+     "area_sqm": 1568,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Sheds page: 1,568 m².",
+     "source_url": "https://tour-taxis.com/event-spaces/sheds/"
+    },
+    {
+     "name": "Shed 2",
+     "type": null,
+     "area_sqm": 2740,
+     "capacity_max": 3000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Sheds page: 2,740 m² / 3,000 people.",
+     "source_url": "https://tour-taxis.com/event-spaces/sheds/"
+    },
+    {
+     "name": "Shed 2 Bis",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Sheds page publishes 1,188 m³ (cubic metres), not a floor area, so area_sqm is left null.",
+     "source_url": "https://tour-taxis.com/event-spaces/sheds/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Tour & Taxis event spaces brochure",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
+     "href": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "nekkerhal",
+   "name": "Nekkerhal Brussels-North",
+   "type": "exhibition_grounds",
+   "country": "Belgium",
+   "cc": "BE",
+   "city": "Mechelen",
+   "address": "Plattebeekstraat 1, 2800 Mechelen",
+   "lat": 51.0277835,
+   "lon": 4.4998513,
+   "url": "https://www.nekkerhalbrusselsnorth.com/en/",
+   "capacity": null,
+   "exhibition_sqm": 18454,
+   "halls": "One hall divisible into six sections, plus Nekkerbox",
+   "description": "Mechelen exhibition and events hall officially at Plattebeekstraat 1, 2800 Mechelen, also styled Nekkerhal Brussels-North. Official halls page: total 18,454 m² (60 × 300 m, height 4–13 m), stored as exhibition_sqm, divisible into six sections (5,673; 2,157; 1,729; 864; 2,160 and 5,871 m²) with seven access gates. A published maximum delegate figure was not taken from the official pages. Coordinates are the atlas precise pin for SETT Mechelen.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sett-mechelen-2028"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.nekkerhalbrusselsnorth.com/over-nekkerhal/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Section 1",
+     "type": null,
+     "area_sqm": 5673,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    },
+    {
+     "name": "Section 2",
+     "type": null,
+     "area_sqm": 2157,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    },
+    {
+     "name": "Section 3",
+     "type": null,
+     "area_sqm": 1729,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    },
+    {
+     "name": "Section 4",
+     "type": null,
+     "area_sqm": 864,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    },
+    {
+     "name": "Section 5",
+     "type": null,
+     "area_sqm": 2160,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    },
+    {
+     "name": "Section 6",
+     "type": null,
+     "area_sqm": 5871,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.nekkerhalbrusselsnorth.com/en/organize/halls-ae/"
+    }
+   ],
    "documents": []
   },
   {
@@ -252602,6 +259077,267 @@ window.ATLASDATA={
    "hotel_name": "Hotel Adlon Kempinski Berlin"
   },
   {
+   "slug": "bella-center-copenhagen",
+   "name": "Bella Center Copenhagen",
+   "type": "convention_centre",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": "Center Boulevard 5, 2300 Copenhagen",
+   "lat": 55.6380729,
+   "lon": 12.582926,
+   "url": "https://bellacenter.dk/en",
+   "capacity": 30000,
+   "exhibition_sqm": 42300,
+   "halls": "Halls A–E and 48 permanent meeting rooms (official copy also says 100 meeting rooms can be made available)",
+   "description": "Copenhagen convention and exhibition centre officially at Center Boulevard 5, 2300 Copenhagen. Official copy gives up to 30,000 guests, stored as capacity_max_delegates, and 65,000 square metres of flexible event space, which is not stored as exhibition_sqm because it is not labelled as indoor exhibition area alone. Official hall areas for Halls A–E are 3,500, 12,500, 14,000, 7,000 (Bella Arena) and 5,300 sqm; those five halls sum to 42,300 sqm, stored as exhibition_sqm. Coordinates are the atlas precise pin for TechBBQ at the centre; the BogForum atlas pin sits slightly to the west on the same campus.",
+   "photo": null,
+   "linked_event_slugs": [
+    "techbbq-2027",
+    "bogforum-2027"
+   ],
+   "contact_email": "events@bellacenter.dk",
+   "sources": [
+    {
+     "url": "https://bellacenter.dk/en",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bellacenter.dk/en/contact",
+     "label": "Official source"
+    },
+    {
+     "url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 3500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity chart / halls figures. Official copy also refers to configurations up to 4,100–4,200.",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 12500,
+     "capacity_max": 6100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall area 12,500 sqm; published associated capacity 6,100.",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 14000,
+     "capacity_max": 8000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall area 14,000 sqm; published associated capacity 8,000.",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf"
+    },
+    {
+     "name": "Hall D (Bella Arena)",
+     "type": null,
+     "area_sqm": 7000,
+     "capacity_max": 8600,
+     "capacity_theatre": 7000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity chart: 7,000 sqm, theatre 7,000, maximum persons 8,600.",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf"
+    },
+    {
+     "name": "Hall E",
+     "type": null,
+     "area_sqm": 5300,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall area 5,300 sqm; published associated capacity 2,500.",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Bella Center Copenhagen floor plan and capacity chart",
+     "doc_type": "capacity_chart",
+     "language": "en",
+     "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf",
+     "href": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "tap1",
+   "name": "TAP1",
+   "type": "other",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": null,
+   "lat": 55.6718787,
+   "lon": 12.6218572,
+   "url": "https://www.tap1.dk/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Copenhagen events venue used by GoTo Copenhagen and listed for Nordic Fintech Week. The official TAP1 site was retrieved but did not yield a published street address or capacity figures in this pass, so those fields are left null. Coordinates are the atlas precise pin, which matches the Nominatim TAP1 events-venue pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "goto-copenhagen-2027",
+    "nordic-fintech-week-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.tap1.dk/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "codenode-copenhagen",
+   "name": "CodeNode Copenhagen",
+   "type": "other",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": "Gdanskgade 2, 2150 Copenhagen",
+   "lat": 55.707569,
+   "lon": 12.599947,
+   "url": "https://codenode.dk/",
+   "capacity": 150,
+   "exhibition_sqm": null,
+   "halls": "One main conference room and three large breakout rooms, plus smaller rooms",
+   "description": "Conference and events space in Nordhavn, officially at Gdanskgade 2, 2150 Copenhagen. Official copy says the venue offers conferences for up to 150 attendees, stored as capacity_max_delegates, along with large-scale hackathons, exhibitions and meetups, and describes three large breakout rooms for multi-track events and one big conference room.",
+   "photo": null,
+   "linked_event_slugs": [
+    "global-ai-conference-copenhagen-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://codenode.dk/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "oksnehallen",
+   "name": "Øksnehallen",
+   "type": "other",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": null,
+   "lat": 55.6693333,
+   "lon": 12.5623128,
+   "url": "https://oksnehallen.dk/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Copenhagen events hall used by Digital Tech Summit and, together with DGI Byen, by J-Popcon. The official website did not return content in this pass, so a street address and capacities are left null rather than taken from secondary listings. Coordinates are the atlas precise pin, which matches the Nominatim named Øksnehallen pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "digital-tech-summit-2027",
+    "j-popcon-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://oksnehallen.dk/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "dgi-byen",
+   "name": "DGI Byen",
+   "type": "other",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Copenhagen",
+   "address": null,
+   "lat": 55.6693638,
+   "lon": 12.5648198,
+   "url": "https://www.dgi-byen.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Copenhagen sports and events complex used with Øksnehallen for J-Popcon. The official website timed out in this pass, so a street address and capacities are left null. Coordinates are the Nominatim named DGI Byen pin (sports centre), next to Øksnehallen.",
+   "photo": null,
+   "linked_event_slugs": [
+    "j-popcon-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.dgi-byen.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "mch-messecenter-herning",
+   "name": "MCH Messecenter Herning",
+   "type": "exhibition_grounds",
+   "country": "Denmark",
+   "cc": "DK",
+   "city": "Herning",
+   "address": "Vardevej 1, 7400 Herning",
+   "lat": 56.1205019,
+   "lon": 8.9551353,
+   "url": "https://www.mch.dk/om-os/lokationer/mch-messecenter-herning",
+   "capacity": null,
+   "exhibition_sqm": 110000,
+   "halls": "15 halls of 2,000–14,000 m² each, officially 110,000 m² of indoor area",
+   "description": "Herning exhibition centre officially at Vardevej 1, 7400 Herning. Official copy states 15 halls of 2,000–14,000 m² each and 110,000 m² of indoor area (indendørs arealer), stored as exhibition_sqm with the caveat that the figure is official indoor area rather than a separately labelled exhibition-hall total. A published maximum delegate figure was not taken from the retrieved official page.",
+   "photo": null,
+   "linked_event_slugs": [
+    "hi-tech-industry-scandinavia-2027"
+   ],
+   "contact_email": "mch@mch.dk",
+   "sources": [
+    {
+     "url": "https://www.mch.dk/om-os/lokationer/mch-messecenter-herning",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "fira-barcelona-gran-via",
    "name": "Fira Barcelona Gran Via",
    "type": "exhibition_grounds",
@@ -253161,6 +259897,169 @@ window.ATLASDATA={
      "local": false
     }
    ]
+  },
+  {
+   "slug": "messukeskus-helsinki",
+   "name": "Messukeskus Helsinki, Expo and Convention Centre",
+   "type": "convention_centre",
+   "country": "Finland",
+   "cc": "FI",
+   "city": "Helsinki",
+   "address": "Messuaukio 1, 00520 Helsinki",
+   "lat": 60.2029511,
+   "lon": 24.9364411,
+   "url": "https://www.messukeskus.com/en/",
+   "capacity": 7500,
+   "exhibition_sqm": 58000,
+   "halls": "7 adaptable halls, 13 seminar halls and 40 meeting rooms; Amfi Hall (Hall 1) and Hall 7 grandstand",
+   "description": "Finland’s biggest expo and convention centre, officially at Messuaukio 1, 00520 Helsinki. Official materials give a gross exhibition area of 58,000 m² (stored as exhibition_sqm) across seven halls, plus 40 meeting rooms and 13 seminar halls. The official 2026 brochure also states a total area of 114,000 m², which is not stored as exhibition space. Official seating includes the Amfi Hall (Hall 1) at 4,373 seats (also described as an auditorium for 4,400) and a Hall 7 grandstand of up to 7,500, stored as capacity_max_delegates. Individual hall floor areas in the brochure extract were not unambiguous for Halls 6 and 7, so those areas are not itemised.",
+   "photo": null,
+   "linked_event_slugs": [
+    "habitare-2027",
+    "helsinki-book-fair-2027",
+    "educa-2027",
+    "teknologia-2027",
+    "assembly-winter-2027",
+    "vene-bat-helsinki-2027"
+   ],
+   "contact_email": "customer.service@messukeskus.com",
+   "sources": [
+    {
+     "url": "https://www.messukeskus.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messukeskus.com/en/about-us/contact-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.messukeskus.com/en/news/fact-sheet-messukeskus-helsinki-expo-and-convention-centre/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Amfi Hall (Hall 1)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 4373,
+     "capacity_theatre": 4373,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: total seats 4,373. Official web copy also describes an auditorium for 4,400 people.",
+     "source_url": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 7500,
+     "capacity_theatre": 7500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official 2026 brochure: Messukeskus Arena grandstand in Hall 7 seats up to 7,500. Hall floor area was not stored because the brochure extract did not unambiguously separate Hall 6 and Hall 7 areas.",
+     "source_url": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Messukeskus brochure 2026",
+     "doc_type": "brochure",
+     "language": "en",
+     "source_url": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf",
+     "href": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "tampere-talo",
+   "name": "Tampere Hall",
+   "type": "congress_centre",
+   "country": "Finland",
+   "cc": "FI",
+   "city": "Tampere",
+   "address": "Yliopistonkatu 55, 33101 Tampere",
+   "lat": 61.4958905,
+   "lon": 23.7823561,
+   "url": "https://www.tampere-talo.fi/en/",
+   "capacity": 1800,
+   "exhibition_sqm": null,
+   "halls": "Main Auditorium and other official premises including Park Hall (exhibition spaces not fully itemised in this pass)",
+   "description": "Tampere-talo, Finland’s official congress and concert hall at Yliopistonkatu 55 (postal PL 16, 33101 Tampere). The official Main Auditorium page lists 1,800 seats, size 1,855, classroom 680, dining 480 and party 550; 1,800 is stored as capacity_max_delegates. A campus exhibition-area total was not taken from the retrieved official pages.",
+   "photo": null,
+   "linked_event_slugs": [
+    "tracon-2027",
+    "itk-2027"
+   ],
+   "contact_email": "meetings@tampere-talo.fi",
+   "sources": [
+    {
+     "url": "https://www.tampere-talo.fi/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tampere-talo.fi/en/venues/main-auditorium/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.tampere-talo.fi/en/contact/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Main Auditorium",
+     "type": null,
+     "area_sqm": 1855,
+     "capacity_max": 1800,
+     "capacity_theatre": 1800,
+     "capacity_classroom": 680,
+     "capacity_banquet": 480,
+     "capacity_reception": null,
+     "notes": "Official venue page: Size 1,855 (taken as square metres), Seats 1,800, Class room 680, For dining 480, For party 550.",
+     "source_url": "https://www.tampere-talo.fi/en/venues/main-auditorium/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "kaapelitehdas",
+   "name": "Kaapelitehdas",
+   "type": "other",
+   "country": "Finland",
+   "cc": "FI",
+   "city": "Helsinki",
+   "address": null,
+   "lat": 60.1618636,
+   "lon": 24.9051528,
+   "url": "https://www.kaapelitehdas.fi/en",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Cable Factory (Kaapelitehdas), a cultural and events complex in Helsinki used by Disobey. Official info and contact pages did not return usable content in this pass, so a street address and capacities are left null. Coordinates are the Nominatim arts-centre pin for Kaapelitehdas, not the nearby tram stop (which matches an atlas point but is not the venue building).",
+   "photo": null,
+   "linked_event_slugs": [
+    "disobey-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.kaapelitehdas.fi/en",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
   },
   {
    "slug": "palais-des-congres-de-paris",
@@ -254847,6 +261746,1238 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": []
+  },
+  {
+   "slug": "hong-kong-convention-and-exhibition-centre",
+   "name": "Hong Kong Convention and Exhibition Centre",
+   "type": "convention_centre",
+   "country": "Hong Kong",
+   "cc": "HK",
+   "city": "Hong Kong",
+   "address": null,
+   "lat": 22.2826248,
+   "lon": 114.1730688,
+   "url": "https://www.hkcec.com/en",
+   "capacity": null,
+   "exhibition_sqm": 66000,
+   "halls": "Six purpose-built exhibition halls totalling 66,000 sqm, within more than 91,500 sqm of rentable space",
+   "description": "Wan Chai convention and exhibition centre (HKCEC). Official exhibitions page: more than 91,500 sqm of rentable space, including six purpose-built exhibition halls totalling 66,000 sqm, stored as exhibition_sqm. The 91,500 sqm figure is rentable space, not stored as exhibition area. Official Hall 1 is 19,890 sqm, divisible into Halls 1A–1E. Official Hall 3B–3E is 14,982 sqm, divisible into four halls. A published campus delegate maximum and a complete official street address were not copied from the retrieved official pages (the contact page returned 403). Coordinates are the atlas precise pin, matching the Nominatim exhibition-centre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "hktdc-hong-kong-international-jewellery-show-2027",
+    "hktdc-hong-kong-watch-clock-fair-2027",
+    "hong-kong-book-fair-2027",
+    "acghk-2027",
+    "art-basel-hong-kong-2027",
+    "hktdc-education-careers-expo-2027",
+    "innoex-2027",
+    "hktdc-hong-kong-electronics-fair-spring-2027",
+    "hktdc-hong-kong-electronics-fair-autumn-2027",
+    "hong-kong-web3-festival-2027",
+    "bitcoin-asia-2027",
+    "consensus-hong-kong-2027",
+    "ai-plus-power-2027",
+    "aws-summit-hong-kong-2027",
+    "filmart-2027",
+    "learning-teaching-expo-2027",
+    "asian-financial-forum-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.hkcec.com/en/exhibitions",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hkcec.com/en/hall-1",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hkcec.com/en/hall-3b-3e",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.hkcec.com/en",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1 (Halls 1A–1E)",
+     "type": null,
+     "area_sqm": 19890,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: 19,890 sqm, 255 × 78 × 10.5 m, divisible into five halls; 1,312 stands of 3 × 3 m.",
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 1A",
+     "type": null,
+     "area_sqm": 4212,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 1B",
+     "type": null,
+     "area_sqm": 4212,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 1C",
+     "type": null,
+     "area_sqm": 4212,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 1D",
+     "type": null,
+     "area_sqm": 3042,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 1E",
+     "type": null,
+     "area_sqm": 4212,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-1"
+    },
+    {
+     "name": "Hall 3B–3E",
+     "type": null,
+     "area_sqm": 14982,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page: 14,982 sqm, 192 × 78 × 10.5 m, divisible into four halls; 983 stands of 3 × 3 m. Learning & Teaching Expo is listed at Hall 3B–E.",
+     "source_url": "https://www.hkcec.com/en/hall-3b-3e"
+    },
+    {
+     "name": "Hall 3B",
+     "type": null,
+     "area_sqm": 3510,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-3b-3e"
+    },
+    {
+     "name": "Hall 3C",
+     "type": null,
+     "area_sqm": 4218,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-3b-3e"
+    },
+    {
+     "name": "Hall 3D",
+     "type": null,
+     "area_sqm": 3042,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-3b-3e"
+    },
+    {
+     "name": "Hall 3E",
+     "type": null,
+     "area_sqm": 4212,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.hkcec.com/en/hall-3b-3e"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "asiaworld-expo",
+   "name": "AsiaWorld-Expo",
+   "type": "exhibition_grounds",
+   "country": "Hong Kong",
+   "cc": "HK",
+   "city": "Hong Kong",
+   "address": "Hong Kong International Airport, Lantau, Hong Kong",
+   "lat": 22.3212507,
+   "lon": 113.9429677,
+   "url": "https://www.asiaworld-expo.com/",
+   "capacity": 22400,
+   "exhibition_sqm": null,
+   "halls": "10 ground-level, column-free exhibition halls, including AsiaWorld-Arena (Hall 1), AsiaWorld-Summit (Hall 2) and Runway 11 (Hall 11)",
+   "description": "Exhibition, convention and events venue at Hong Kong International Airport, Lantau. Official copy offers more than 70,000 sqm of exhibition space across 10 ground-level, column-free halls; that “more than 70,000” headline is not stored as an exact exhibition_sqm. Official capacity table: AsiaWorld-Arena (Hall 1) 10,880 sqm / theatre 12,500 or 14,000 with standing zone; AsiaWorld-Summit (Hall 2) 8,200 sqm / theatre 5,000; Runway 11 4,400 sqm / theatre 3,800; Halls 6, 8 and 10 combined 17,040 sqm / theatre 8,400; typical Halls 3–11 3,500–45,440 sqm / theatre 2,800–22,400. The official 22,400 upper figure for connected typical halls is stored as capacity_max_delegates. Coordinates are the atlas precise pin, matching the Nominatim exhibition-centre pin (not the station or bus-stop pins of the same name).",
+   "photo": null,
+   "linked_event_slugs": [
+    "hktdc-hong-kong-international-diamond-gem-pearl-show-2027",
+    "complexcon-hong-kong-2027"
+   ],
+   "contact_email": "info@asiaworld-expo.com",
+   "sources": [
+    {
+     "url": "https://www.asiaworld-expo.com/en-us/planning/venues-at-a-glance/exhibitions/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.asiaworld-expo.com/en-us/planning/capacity-table/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.asiaworld-expo.com/en-us/planning/venues/typical-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.asiaworld-expo.com/en-us/about-us/contact-us/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "AsiaWorld-Arena (Hall 1)",
+     "type": null,
+     "area_sqm": 10880,
+     "capacity_max": 14000,
+     "capacity_theatre": 12500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity table: theatre 12,500, or 14,000 with standing zone; ceiling 19 m.",
+     "source_url": "https://www.asiaworld-expo.com/en-us/planning/capacity-table/"
+    },
+    {
+     "name": "AsiaWorld-Summit (Hall 2)",
+     "type": null,
+     "area_sqm": 8200,
+     "capacity_max": null,
+     "capacity_theatre": 5000,
+     "capacity_classroom": 2500,
+     "capacity_banquet": 4320,
+     "capacity_reception": 5000,
+     "notes": "Official capacity table; banquet figure is 360 round tables / 4,320 pax.",
+     "source_url": "https://www.asiaworld-expo.com/en-us/planning/capacity-table/"
+    },
+    {
+     "name": "Runway 11 (Hall 11)",
+     "type": null,
+     "area_sqm": 4400,
+     "capacity_max": null,
+     "capacity_theatre": 3800,
+     "capacity_classroom": 1500,
+     "capacity_banquet": 1512,
+     "capacity_reception": 3000,
+     "notes": null,
+     "source_url": "https://www.asiaworld-expo.com/en-us/planning/capacity-table/"
+    },
+    {
+     "name": "Halls 6, 8 and 10 combined",
+     "type": null,
+     "area_sqm": 17040,
+     "capacity_max": null,
+     "capacity_theatre": 8400,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official capacity table combined figure.",
+     "source_url": "https://www.asiaworld-expo.com/en-us/planning/capacity-table/"
+    },
+    {
+     "name": "Typical Halls 3–11 (connected range)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 22400,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official typical-halls page and capacity table: 3,500–45,440 sqm and 2,800–22,400 pax depending on how halls are connected. The 45,440 sqm upper figure is a connected range, not stored as the campus exhibition total.",
+     "source_url": "https://www.asiaworld-expo.com/en-us/planning/venues/typical-halls/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "rds-dublin",
+   "name": "RDS",
+   "type": "exhibition_grounds",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Merrion Road, Ballsbridge, Dublin 4, D04 AK80",
+   "lat": 53.3266541,
+   "lon": -6.2288627,
+   "url": "https://www.rds.ie/",
+   "capacity": 6500,
+   "exhibition_sqm": 10847,
+   "halls": "Main Hall Complex, Concert Hall Complex, Simmonscourt Complex (Halls 8A–8E) and other official event spaces including Laya Arena",
+   "description": "Royal Dublin Society campus in Ballsbridge, officially at Merrion Road, Ballsbridge, Dublin 4, D04 AK80. Official Simmonscourt pages describe Hall 8 (five halls, 8A–8E) as the largest complex, with over 10,000 sq m and 6,500 theatre-style, stored as capacity_max_delegates. Official individual areas: Hall 8A 1,990 m², 8B 2,145 m², 8C 4,754 m², 8D 864 m² and 8E 1,094 m², which sum to 10,847 m², stored as exhibition_sqm for the Simmonscourt exhibition complex (consistent with “over 10,000 sq m”). Other official halls such as Hall 1 (Main Hall) 3,503 m² are additional and are not included in that Simmonscourt total. Official Hall 8C theatre capacity is also 6,500.",
+   "photo": null,
+   "linked_event_slugs": [
+    "dublin-tech-summit-2027",
+    "catex-2027",
+    "stripe-young-scientist-2027"
+   ],
+   "contact_email": "sales@rds.ie",
+   "sources": [
+    {
+     "url": "https://www.rds.ie/venue-hire",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/main-hall-hall-1",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8a-hall-8a",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8b-hall-8b",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8c-hall-8c",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8d-hall-8d",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.rds.ie/venue-hire/floor-plans/hall-8e-simmonscourt-8e",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1 (Main Hall)",
+     "type": null,
+     "area_sqm": 3503,
+     "capacity_max": null,
+     "capacity_theatre": 3500,
+     "capacity_classroom": 1620,
+     "capacity_banquet": 1900,
+     "capacity_reception": 4500,
+     "notes": "Official technical details. Not included in the Simmonscourt exhibition_sqm total.",
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/main-hall-hall-1"
+    },
+    {
+     "name": "Hall 8A (Simmonscourt)",
+     "type": null,
+     "area_sqm": 1990,
+     "capacity_max": null,
+     "capacity_theatre": 2100,
+     "capacity_classroom": 1224,
+     "capacity_banquet": 1180,
+     "capacity_reception": 2600,
+     "notes": null,
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8a-hall-8a"
+    },
+    {
+     "name": "Hall 8B (Simmonscourt)",
+     "type": null,
+     "area_sqm": 2145,
+     "capacity_max": null,
+     "capacity_theatre": 2200,
+     "capacity_classroom": 1310,
+     "capacity_banquet": 1270,
+     "capacity_reception": 2800,
+     "notes": null,
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8b-hall-8b"
+    },
+    {
+     "name": "Hall 8C (Simmonscourt)",
+     "type": null,
+     "area_sqm": 4754,
+     "capacity_max": 6500,
+     "capacity_theatre": 6500,
+     "capacity_classroom": 2880,
+     "capacity_banquet": 2970,
+     "capacity_reception": 6300,
+     "notes": "Official: largest hall in the Simmonscourt Complex.",
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8c-hall-8c"
+    },
+    {
+     "name": "Hall 8D (Simmonscourt)",
+     "type": null,
+     "area_sqm": 864,
+     "capacity_max": null,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 620,
+     "capacity_banquet": 600,
+     "capacity_reception": 1150,
+     "notes": null,
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/simmonscourt-8d-hall-8d"
+    },
+    {
+     "name": "Hall 8E (Simmonscourt)",
+     "type": null,
+     "area_sqm": 1094,
+     "capacity_max": null,
+     "capacity_theatre": 740,
+     "capacity_classroom": 400,
+     "capacity_banquet": 450,
+     "capacity_reception": 1440,
+     "notes": null,
+     "source_url": "https://www.rds.ie/venue-hire/floor-plans/hall-8e-simmonscourt-8e"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "convention-centre-dublin",
+   "name": "The Convention Centre Dublin",
+   "type": "convention_centre",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Spencer Dock, North Wall Quay, Dublin 1, D01 T1W6",
+   "lat": 53.3474516,
+   "lon": -6.2396088,
+   "url": "https://www.theccd.ie/",
+   "capacity": 3597,
+   "exhibition_sqm": 4371,
+   "halls": "The Forum and The Liffey (divisible into Liffey A and Liffey B), plus an auditorium, meeting halls and meeting rooms",
+   "description": "Dublin’s purpose-built convention centre officially at Spencer Dock, North Wall Quay, Dublin 1, D01 T1W6. Official exhibition-space page: The Forum 2,721 m² (theatre 3,597, banquet 2,020), stored as capacity_max_delegates; The Liffey 1,650 m² (theatre 2,151, banquet 1,290), divisible into Liffey A 746 m² (710 conference delegates / theatre 750) and Liffey B 897 m² (1,002 conference delegates). Exhibition_sqm 4,371 is the sum of the official Forum and Liffey areas; no official six-hall campus total was published on the retrieved page.",
+   "photo": null,
+   "linked_event_slugs": [
+    "analytics-ai-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.theccd.ie/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "The Forum",
+     "type": null,
+     "area_sqm": 2721,
+     "capacity_max": 3597,
+     "capacity_theatre": 3597,
+     "capacity_classroom": null,
+     "capacity_banquet": 2020,
+     "capacity_reception": null,
+     "notes": "Official exhibition-space page; 7 m ceiling.",
+     "source_url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/"
+    },
+    {
+     "name": "The Liffey",
+     "type": null,
+     "area_sqm": 1650,
+     "capacity_max": null,
+     "capacity_theatre": 2151,
+     "capacity_classroom": null,
+     "capacity_banquet": 1290,
+     "capacity_reception": null,
+     "notes": "Official: divisible into Liffey A and B with a Skyfold wall.",
+     "source_url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/"
+    },
+    {
+     "name": "Liffey A",
+     "type": null,
+     "area_sqm": 746,
+     "capacity_max": null,
+     "capacity_theatre": 750,
+     "capacity_classroom": null,
+     "capacity_banquet": 540,
+     "capacity_reception": null,
+     "notes": "Official: 746 m² with the wall up (626 m² with wall down); up to 710 conference delegates.",
+     "source_url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/"
+    },
+    {
+     "name": "Liffey B",
+     "type": null,
+     "area_sqm": 897,
+     "capacity_max": null,
+     "capacity_theatre": 1002,
+     "capacity_classroom": null,
+     "capacity_banquet": 700,
+     "capacity_reception": null,
+     "notes": "Official: 1,002 delegates for a conference.",
+     "source_url": "https://www.theccd.ie/event-venue/explore/venue-spaces/exhibition-space/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "conrad-dublin",
+   "name": "Conrad Dublin",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Earlsfort Terrace, Dublin 2, D02 V562",
+   "lat": 53.3350111,
+   "lon": -6.2570003,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Conrad Dublin, 5 Star, Earlsfort Terrace, Dublin 2, D02 V562 (property HHS03811, 192 bedrooms). Used by the NextGen Payments & RegTech Forum. Official meeting-room capacities were not copied from the hotel site in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nextgen-payments-regtech-forum-dublin-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "crowne-plaza-dublin-northwood",
+   "name": "Crowne Plaza Dublin Northwood",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Northwood Avenue, Dublin 9, D09 X9X2",
+   "lat": 53.4044699,
+   "lon": -6.2455505,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Crowne Plaza Dublin Northwood, 4 Star, Northwood Avenue, Dublin 9, D09 X9X2 (property HHS04238, 209 bedrooms). This is the named property matching the atlas Crowne Plaza Dublin Airport pin. A second Crowne Plaza in Blanchardstown is also officially 4 Star and is not this venue. Used by the Cyber Security & Digital Resilience Ireland conference. Official meeting-room capacities were not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "cyber-security-digital-resilience-ireland-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 4,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "ferrycarrig-hotel",
+   "name": "Ferrycarrig Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Wexford",
+   "address": "Ferrycarrig, Wexford, Y35 Y9TA",
+   "lat": 52.3544992,
+   "lon": -6.505887,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Ferrycarrig Hotel, 4 Star, Ferrycarrig, Wexford, Y35 Y9TA (property HHS03315, 102 bedrooms). Used by the Data Leaders Summit. Official meeting-room capacities were not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "data-leaders-summit-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 4,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "green-isle-hotel",
+   "name": "Green Isle Conference & Leisure Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Naas Road, Clondalkin, Dublin 22, D22 F9F4",
+   "lat": 53.3096431,
+   "lon": -6.4035101,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Green Isle Conference & Leisure Hotel, 4 Star, Naas Road, Clondalkin, Dublin 22, D22 F9F4 (property HHS03213, 273 bedrooms). Used by the Bitcoin Ireland Conference. Official meeting-room capacities were not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "bitcoin-ireland-conference-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 4,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "intercontinental-dublin",
+   "name": "InterContinental Dublin",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Simmonscourt Road, Ballsbridge, Dublin 4, D04 A9K8",
+   "lat": 53.3267436,
+   "lon": -6.2260225,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Major Ballsbridge conference hotel next to the RDS, officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as InterContinental Dublin, 5 Star, Simmonscourt Road, Ballsbridge, Dublin 4, D04 A9K8 (property HHS04173, 215 bedrooms). Official meeting-room capacities were not copied in this pass. Coordinates are the Nominatim hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-shelbourne",
+   "name": "The Shelbourne",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "27 Saint Stephen's Green, Dublin 2, D02 H529",
+   "lat": null,
+   "lon": null,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Shelbourne, 5 Star, 27 Saint Stephen's Green, Dublin 2, D02 H529 (property HHS04430, 265 bedrooms). Included as a leading Dublin 5-star conference hotel. A Nominatim result for the hotel building itself was not confirmed (a spa POI of the same name was discarded), so coordinates are left null. Official meeting-room capacities were not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-merrion",
+   "name": "The Merrion",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "21-24 Merrion Street Upper, Dublin 2, D02 KF79",
+   "lat": null,
+   "lon": null,
+   "url": null,
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Merrion, 5 Star, 21-24 Merrion Street Upper, Dublin 2, D02 KF79 (property HHS04034, 142 bedrooms). Included as a leading Dublin 5-star conference hotel. A Nominatim hotel pin was not returned in this pass, so coordinates are left null. Official meeting-room capacities were not copied in this pass.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-westbury",
+   "name": "The Westbury",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Balfe Street, Dublin 2, D02 CH66",
+   "lat": 53.3414135,
+   "lon": -6.2615173,
+   "url": "https://www.doylecollection.com/hotels/the-westbury-hotel",
+   "capacity": 200,
+   "exhibition_sqm": null,
+   "halls": "Official fact sheet: 11 event spaces; official meetings pages name the Grafton Suite and Trinity Suite",
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Westbury Hotel, 5 Star, Balfe Street, Dublin 2, D02 CH66. Official 2026 fact sheet: 11 event spaces and a maximum capacity of 200, stored as capacity_max_delegates, with the postal address given there as Grafton Street, Dublin 2, D02 CH66; the Fáilte register street (Balfe Street) is stored, and the fact-sheet Grafton Street wording is noted. Official Grafton Suite page: up to 200 guests theatre-style or 150 for banqueting. Official emails westbury@doylecollection.com and westbury_events@doylecollection.com. Coordinates are Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "westbury@doylecollection.com",
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.doylecollection.com/hotels/the-westbury-hotel/meetings",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.doylecollection.com/hotels/the-westbury-hotel/meetings/grafton-suite",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Grafton Suite",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 200,
+     "capacity_theatre": 200,
+     "capacity_classroom": null,
+     "capacity_banquet": 150,
+     "capacity_reception": null,
+     "notes": "Official Grafton Suite page: up to 200 theatre-style or 150 banqueting; private foyer with a built-in cocktail bar.",
+     "source_url": "https://www.doylecollection.com/hotels/the-westbury-hotel/meetings/grafton-suite"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    },
+    {
+     "title": "The Westbury fact sheet 2026",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
+     "href": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "anantara-the-marker-dublin",
+   "name": "Anantara The Marker Dublin Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Grand Canal Square, Docklands, Dublin 2, D02 CK38",
+   "lat": 53.3445472,
+   "lon": -6.2390834,
+   "url": "https://www.anantara.com/en/the-marker-dublin",
+   "capacity": 350,
+   "exhibition_sqm": null,
+   "halls": "Nine official meeting rooms across 700 sqm, including The Marker Suite",
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Anantara The Marker Dublin Hotel, 5 Star, Grand Canal Square, Docklands, Dublin 2, D02 CK38. Official hotel and meetings pages: nine meeting and event spaces across 700 sqm, with capacity for up to 350 guests, stored as capacity_max_delegates. Official Marker Suite: 336 sq.m (28.0 × 12.0 × 4.7 m), theatre 300, classroom 180; divisible into Marker Suite 1 and 2 of 168 sq.m each (theatre 150 and 130). Coordinates are Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.anantara.com/en/the-marker-dublin",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.anantara.com/en/the-marker-dublin/meetings",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "The Marker Suite",
+     "type": null,
+     "area_sqm": 336,
+     "capacity_max": 350,
+     "capacity_theatre": 300,
+     "capacity_classroom": 180,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 28.0 × 12.0 × 4.7 m. Hotel page states capacity for up to 350 guests across the meeting facilities; this suite’s official theatre figure is 300.",
+     "source_url": "https://www.anantara.com/en/the-marker-dublin/meetings"
+    },
+    {
+     "name": "Marker Suite 1",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": null,
+     "capacity_theatre": 150,
+     "capacity_classroom": 102,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 14.0 × 12.0 × 4.7 m.",
+     "source_url": "https://www.anantara.com/en/the-marker-dublin/meetings"
+    },
+    {
+     "name": "Marker Suite 2",
+     "type": null,
+     "area_sqm": 168,
+     "capacity_max": null,
+     "capacity_theatre": 130,
+     "capacity_classroom": 88,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 14.0 × 12.0 × 4.7 m.",
+     "source_url": "https://www.anantara.com/en/the-marker-dublin/meetings"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "fitzwilliam-hotel-dublin",
+   "name": "Fitzwilliam Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "127/128 Saint Stephen's Green, Dublin 2, D02 HE18",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.fitzwilliamhoteldublin.com/",
+   "capacity": 74,
+   "exhibition_sqm": null,
+   "halls": "The Fitzwilliam Room, The Pembroke Room and The Emmet Room",
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Fitzwilliam Hotel, 5 Star, 127/128 Saint Stephen's Green, Dublin 2, D02 HE18, matching the official hotel site address. Official meetings page: The Fitzwilliam Room is the largest space, 82.8 m², theatre 74, classroom 20, banquet 60, stored as capacity_max_delegates 74; The Pembroke Room 57.63 m² / theatre 40; The Emmet Room 30.59 m² / boardroom 10. A Nominatim hotel pin was not returned in this pass, so coordinates are left null.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fitzwilliamhoteldublin.com/meet/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.fitzwilliamhoteldublin.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "The Fitzwilliam Room",
+     "type": null,
+     "area_sqm": 82.8,
+     "capacity_max": 74,
+     "capacity_theatre": 74,
+     "capacity_classroom": 20,
+     "capacity_banquet": 60,
+     "capacity_reception": null,
+     "notes": "Official: 12.99 × 7.29 × 2.7 m; also cabaret 42 and U-shape 26.",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/meet/"
+    },
+    {
+     "name": "The Pembroke Room",
+     "type": null,
+     "area_sqm": 57.63,
+     "capacity_max": null,
+     "capacity_theatre": 40,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 8.34 × 6.91 × 2.7 m; cabaret 26, U-shape 15, boardroom 18.",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/meet/"
+    },
+    {
+     "name": "The Emmet Room",
+     "type": null,
+     "area_sqm": 30.59,
+     "capacity_max": 10,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: 7.39 × 4.1 × 2.7 m; boardroom 10.",
+     "source_url": "https://www.fitzwilliamhoteldublin.com/meet/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "dylan-hotel",
+   "name": "Dylan Hotel",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "Eastmoreland Place, Dublin 4, D04 W521",
+   "lat": 53.3337754,
+   "lon": -6.2421633,
+   "url": "https://www.dylan.ie/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "The Library, The Eddison, The Nurserie and The Ruby Room",
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Dylan Hotel, 5 Star, Eastmoreland Place, Dublin 4, D04 W521, matching the official meetings-page address and email justask@dylan.ie. Official meetings page publishes four named event rooms (The Library, The Eddison, The Nurserie and The Ruby Room) for meetings, private dining and receptions; individual official capacities were not copied from the retrieved page. Coordinates are Nominatim’s hotel pin (Nominatim’s eircode label was D04 V210; the official Fáilte and hotel address D04 W521 is stored).",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "justask@dylan.ie",
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.dylan.ie/meeting-venue-dublin.html",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.dylan.ie/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "The Library",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page: light-flooded private room; capacities not copied from the retrieved page.",
+     "source_url": "https://www.dylan.ie/meeting-venue-dublin.html"
+    },
+    {
+     "name": "The Eddison",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.dylan.ie/meeting-venue-dublin.html"
+    },
+    {
+     "name": "The Nurserie",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official meetings page also refers to a Nurserie Terrace for cocktail receptions.",
+     "source_url": "https://www.dylan.ie/meeting-venue-dublin.html"
+    },
+    {
+     "name": "The Ruby Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.dylan.ie/meeting-venue-dublin.html"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "the-morrison-dublin",
+   "name": "The Morrison Dublin",
+   "type": "hotel_conference_venue",
+   "country": "Ireland",
+   "cc": "IE",
+   "city": "Dublin",
+   "address": "15-19 Ormond Quay Lower, Dublin 1, D01 K5X5",
+   "lat": 53.3465001,
+   "lon": -6.2659932,
+   "url": "https://www.morrisonhotel.ie/",
+   "capacity": 70,
+   "exhibition_sqm": null,
+   "halls": "The Morrison Boardroom, The Georgian Room and Halo",
+   "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Morrison Dublin, Curio Collection by Hilton, 5 Star, 15-19 Ormond Quay Lower, Dublin 1, D01 K5X5. Official meetings page: meeting and conference spaces for 2 to 40 delegates, dinners or lunches for up to 50, and receptions for up to 70 guests in Halo, stored as capacity_max_delegates; The Georgian Room holds up to 40 delegates theatre-style; The Morrison Boardroom holds up to 8 delegates. Official events email events@morrisonhotel.ie. Coordinates are Nominatim’s hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "events@morrisonhotel.ie",
+   "sources": [
+    {
+     "url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.failteireland.ie/en/quality-assured-accommodation/accommodation-registers",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.morrisonhotel.ie/meetings-events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": 5,
+   "spaces": [
+    {
+     "name": "Halo",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 70,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 50,
+     "capacity_reception": 70,
+     "notes": "Official: dinners/lunches for up to 50 or receptions for up to 70.",
+     "source_url": "https://www.morrisonhotel.ie/meetings-events/"
+    },
+    {
+     "name": "The Georgian Room",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 40,
+     "capacity_theatre": 40,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: up to 40 delegates theatre-style.",
+     "source_url": "https://www.morrisonhotel.ie/meetings-events/"
+    },
+    {
+     "name": "The Morrison Boardroom",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 8,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official: up to 8 delegates.",
+     "source_url": "https://www.morrisonhotel.ie/meetings-events/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Fáilte Ireland Q4 2026 registered hotels list",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "href": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
+     "local": false
+    }
+   ]
   },
   {
    "slug": "bangalore-international-exhibition-centre",
@@ -260181,6 +268312,283 @@ window.ATLASDATA={
    "hotel_name": "Sofitel Legend The Grand Amsterdam"
   },
   {
+   "slug": "nova-spektrum",
+   "name": "NOVA Spektrum",
+   "type": "convention_centre",
+   "country": "Norway",
+   "cc": "NO",
+   "city": "Lillestrøm",
+   "address": "Messeveien 8, 2004 Lillestrøm",
+   "lat": 59.950677,
+   "lon": 11.0543546,
+   "url": "https://novaspektrum.no/",
+   "capacity": 10000,
+   "exhibition_sqm": 39000,
+   "halls": "Seven halls totalling 39,000 sqm of exhibition space, and 55 meeting rooms (more than 25 of them for over 100 people)",
+   "description": "Norway’s largest meeting place for trade fairs, congresses, conferences, banquets and concerts, officially at Messeveien 8, 2004 Lillestrøm. Official about copy states seven halls providing 39,000 square metres of exhibition space, stored as exhibition_sqm, and congresses for up to 10,000 participants with a plenary hall of up to 6,000, stored as capacity_max_delegates. Official figures also include dinners for up to 6,000, banquets for 2,500 at round tables, standing concerts for up to 12,000, and 55 meeting rooms. Official hall areas were recorded for Halls A–E (2,125, 7,200, 7,880, 10,500 and 7,150 sqm).",
+   "photo": null,
+   "linked_event_slugs": [
+    "nor-shipping-2027",
+    "bygg-reis-deg-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://novaspektrum.no/en/norways-largest-meeting-place/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://novaspektrum.no/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://novaspektrum.no/en/halls/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 2125,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official halls figures on the NOVA Spektrum site.",
+     "source_url": "https://novaspektrum.no/en/halls/"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 7200,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official halls figures on the NOVA Spektrum site.",
+     "source_url": "https://novaspektrum.no/en/halls/"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 7880,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official halls figures on the NOVA Spektrum site.",
+     "source_url": "https://novaspektrum.no/en/halls/"
+    },
+    {
+     "name": "Hall D",
+     "type": null,
+     "area_sqm": 10500,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official halls figures on the NOVA Spektrum site.",
+     "source_url": "https://novaspektrum.no/en/halls/"
+    },
+    {
+     "name": "Hall E",
+     "type": null,
+     "area_sqm": 7150,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official halls figures on the NOVA Spektrum site. Official about copy says seven halls total 39,000 sqm; halls A–E sum to 34,855 sqm, so two further halls are included in the campus exhibition total but were not individually itemised in the extracted hall list.",
+     "source_url": "https://novaspektrum.no/en/halls/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "rebel-oslo",
+   "name": "Rebel Oslo",
+   "type": "other",
+   "country": "Norway",
+   "cc": "NO",
+   "city": "Oslo",
+   "address": "Universitetsgata 2, 0164 Oslo",
+   "lat": 59.917384,
+   "lon": 10.740199,
+   "url": "https://www.rebel.no/",
+   "capacity": 800,
+   "exhibition_sqm": null,
+   "halls": "Rebel Expo, SKRAA, Rebel Hangout, Rebel Roof and meeting rooms for 2–22 people",
+   "description": "Central Oslo offices, meeting rooms and conference venue at Universitetsgata 2, beside St. Olavs plass. Official copy says one hall holds up to 350 people and parallel sessions can reach 800 participants in total, stored as capacity_max_delegates. Official space figures include Rebel Expo up to 350, SKRAA up to 200 seated, Rebel Hangout up to 345 across two floors, and Rebel Roof up to 120.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ndc-ai-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.rebel.no/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Rebel Expo",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official site: up to 350 people.",
+     "source_url": "https://www.rebel.no/"
+    },
+    {
+     "name": "SKRAA",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 200,
+     "capacity_theatre": 200,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official site: up to 200 seated guests.",
+     "source_url": "https://www.rebel.no/"
+    },
+    {
+     "name": "Rebel Hangout",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 345,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official site: up to 345 people over two floors.",
+     "source_url": "https://www.rebel.no/"
+    },
+    {
+     "name": "Rebel Roof",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 120,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official site: up to 120 people.",
+     "source_url": "https://www.rebel.no/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "radisson-blu-scandinavia-hotel-oslo",
+   "name": "Radisson Blu Scandinavia Hotel, Oslo",
+   "type": "hotel_conference_venue",
+   "country": "Norway",
+   "cc": "NO",
+   "city": "Oslo",
+   "address": null,
+   "lat": 59.918446,
+   "lon": 10.734108,
+   "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Radisson Blu hotel in central Oslo used by NDC Security. The official hotel website returned an access error in this pass, so a published street address and meeting-room figures were not copied from it. A property-level listing on Norway’s official hotel classification scheme (Norsk Hotellklassifisering / klassifisering.no) was not retrieved (the register site did not respond), so star_rating is left null. Coordinates are the atlas precise pin, which matches the Nominatim hotel pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ndc-security-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-oslo-scandinavia",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "oslo-spektrum",
+   "name": "Oslo Spektrum",
+   "type": "other",
+   "country": "Norway",
+   "cc": "NO",
+   "city": "Oslo",
+   "address": null,
+   "lat": 59.9129638,
+   "lon": 10.7546593,
+   "url": "https://oslospektrum.no/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Oslo indoor arena and events venue used by NDC Oslo. Official about/capacity pages were not successfully retrieved in this pass, so delegate capacity and a street address are left null rather than taken from secondary listings. Coordinates are the atlas precise pin, which matches the Nominatim theatre pin for Oslo Spektrum.",
+   "photo": null,
+   "linked_event_slugs": [
+    "ndc-oslo-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://oslospektrum.no/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://oslospektrum.no/en/frontpage/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "kilden",
+   "name": "Kilden",
+   "type": "other",
+   "country": "Norway",
+   "cc": "NO",
+   "city": "Kristiansand",
+   "address": "2 Sjølystveien, 4610 Kristiansand",
+   "lat": 58.1391245,
+   "lon": 7.9969507,
+   "url": "https://kilden.com/en/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Kilden performing arts centre (Kilden Theatre and Concert Hall) in Kristiansand, officially at 2 Sjølystveien. It is one of the named sites for Techpoint, which is also listed at Kunstsilo and Knuden; those other sites are not recorded as separate venues in this pass and no combined venue was invented. Official auditorium capacities were not copied from the retrieved pages.",
+   "photo": null,
+   "linked_event_slugs": [
+    "techpoint-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://kilden.com/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://kilden.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "takina-wellington",
    "name": "Tākina Wellington Convention and Exhibition Centre",
    "type": "convention_centre",
@@ -261951,6 +270359,147 @@ window.ATLASDATA={
    ]
   },
   {
+   "slug": "qatar-national-convention-centre",
+   "name": "Qatar National Convention Centre",
+   "type": "convention_centre",
+   "country": "Qatar",
+   "cc": "QA",
+   "city": "Doha",
+   "address": "Education City, Ar-Rayyan, Doha",
+   "lat": 25.321953,
+   "lon": 51.4374803,
+   "url": "https://www.qncc.qa/",
+   "capacity": 4000,
+   "exhibition_sqm": 40000,
+   "halls": "Nine exhibition halls, a Conference Hall, Al Mayassa Theatre, three auditoria and 52 meeting rooms",
+   "description": "Qatar’s national convention centre in Education City, Ar-Rayyan, Doha (official postal P.O. Box 34195). Official exhibition halls page: nine halls providing 40,000 m² of indoor exhibition space, stored as exhibition_sqm, of which Halls 3–9 offer 35,000 m² and Halls 1–2 offer 4,100 m² (those two figures sum to 39,100 m²). A separate official 3,000 m² outdoor space is not included. The venue overview also describes “40,000 m² of indoor and outdoor column-free exhibition space” and a total venue area of 200,000 m² (the latter is not stored as exhibition area). Official Conference Hall page: up to 4,000 delegates, stored as capacity_max_delegates; the venue overview states a Conference Hall for 3,800 delegates — the dedicated hall page is preferred, with the 3,800 figure noted. Official theatre 2,300 seats; 52 meeting rooms for 20 to 150 seats.",
+   "photo": null,
+   "linked_event_slugs": [
+    "robotech-expo-2027"
+   ],
+   "contact_email": "sales@qncc.qa",
+   "sources": [
+    {
+     "url": "https://www.qncc.qa/exhibitionhalls",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qncc.qa/the-venue",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.qncc.qa/conferencehall",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition Halls 3–9",
+     "type": null,
+     "area_sqm": 35000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official exhibition halls page.",
+     "source_url": "https://www.qncc.qa/exhibitionhalls"
+    },
+    {
+     "name": "Exhibition Halls 1–2",
+     "type": null,
+     "area_sqm": 4100,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official exhibition halls page: 4,100 m² of flexible-use floor space.",
+     "source_url": "https://www.qncc.qa/exhibitionhalls"
+    },
+    {
+     "name": "Conference Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 4000,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official Conference Hall page: up to 4,000 delegates. The venue overview page states 3,800 delegates; the dedicated hall page is preferred.",
+     "source_url": "https://www.qncc.qa/conferencehall"
+    },
+    {
+     "name": "Al Mayassa Theatre",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": null,
+     "capacity_theatre": 2300,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official venue page: 2,300-seat lyric-style theatre.",
+     "source_url": "https://www.qncc.qa/the-venue"
+    },
+    {
+     "name": "Outdoor exhibition space",
+     "type": null,
+     "area_sqm": 3000,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official outdoor open space; not included in indoor exhibition_sqm.",
+     "source_url": "https://www.qncc.qa/exhibitionhalls"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "doha-exhibition-and-convention-center",
+   "name": "Doha Exhibition and Convention Center",
+   "type": "convention_centre",
+   "country": "Qatar",
+   "cc": "QA",
+   "city": "Doha",
+   "address": "West Bay, Doha",
+   "lat": null,
+   "lon": null,
+   "url": "https://www.decc.qa/",
+   "capacity": 7500,
+   "exhibition_sqm": 29035,
+   "halls": "Five flexible pillar-free halls, plus a 9,000 m² concourse/foyer",
+   "description": "Doha’s exhibition and convention centre officially described as being in West Bay. Official organizers page: arranged over 47,700 m², with a pillar-free exhibition space of 29,035 m², stored as exhibition_sqm, divisible into five halls of 5,368 m² to 7,160 m², 96 m wide, 302 m long and 18 m high, plus a 9,000 m² concourse/foyer. The 47,700 m² figure is a broader arranged area and is not stored as exhibition space. Official copy also refers to gala dinners for up to 7,500 guests, stored as capacity_max_delegates. A complete official street address was not published on the retrieved pages. The atlas Web Summit pin is not marked precise and Nominatim returned no named-venue pin, so coordinates are left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "web-summit-qatar-2027"
+   ],
+   "contact_email": "info@decc.qa",
+   "sources": [
+    {
+     "url": "https://www.decc.qa/organizers/versatile-venues/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.decc.qa/contact-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.decc.qa/getting-here/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.decc.qa/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
    "slug": "riyadh-front-exhibition-and-conference-center",
    "name": "Riyadh Front Exhibition & Conference Center",
    "type": "convention_centre",
@@ -262662,6 +271211,434 @@ window.ATLASDATA={
    "sources": [
     {
      "url": "https://saraj.sa/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "svenska-massan",
+   "name": "Svenska Mässan Gothia Towers",
+   "type": "convention_centre",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Gothenburg",
+   "address": "Mässans Gata 24, 412 94 Gothenburg",
+   "lat": 57.6982846,
+   "lon": 11.9891257,
+   "url": "https://en.svenskamassan.se/",
+   "capacity": 9000,
+   "exhibition_sqm": 41000,
+   "halls": "Official snabbfakta: 60 meeting rooms for 2 to 9,000 guests and a congress hall for 1,500; official halls page also mentions congress halls of 300–1,500 and groups from 2 to 8,800 guests",
+   "description": "The Swedish Exhibition & Congress Centre (Svenska Mässan Gothia Towers) in central Gothenburg, with official entrance and visiting address Mässans Gata 24 / Mässans Gata–Korsvägen, postal address 412 94 Gothenburg. Official snabbfakta state that the meeting place is 180,000 sqm in total, of which 41,000 sqm is exhibition and congress area (mäss- och kongressyta), stored as exhibition_sqm; the 180,000 sqm campus figure is not stored as exhibition space. Official snabbfakta also give 60 meeting rooms for 2 to 9,000 guests, stored as capacity_max_delegates, a congress hall for 1,500 and fest/banquet for up to 7,000. An English halls page refers to groups from 2 to 8,800 guests; the Swedish official fact figure of 9,000 is preferred for the headline capacity.",
+   "photo": null,
+   "linked_event_slugs": [
+    "gaia-2027",
+    "scanpack-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://en.svenskamassan.se/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://en.svenskamassan.se/explore-us/about-us/contact-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://svenskamassan.se/shared-contents/find-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://svenskamassan.se/utforska-oss/om-oss/snabbfakta/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://en.svenskamassan.se/explore-us/meetings/congress/halls-meeting-rooms/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Congress Hall",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1500,
+     "capacity_theatre": 1500,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official snabbfakta: kongresshall for 1,500 people. Official English copy also describes congress halls of 300–1,500 and a Congress Hall of up to 1,500.",
+     "source_url": "https://svenskamassan.se/utforska-oss/om-oss/snabbfakta/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "stockholmsmassan",
+   "name": "Stockholmsmässan",
+   "type": "exhibition_grounds",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Stockholm",
+   "address": "Mässvägen 1, 125 80 Älvsjö",
+   "lat": 59.2787201,
+   "lon": 18.0153846,
+   "url": "https://stockholmsmassan.se/en/",
+   "capacity": 17000,
+   "exhibition_sqm": 70000,
+   "halls": "Halls A–C and Victoria Hall, plus 78 meeting rooms",
+   "description": "Stockholm’s official exhibition and congress centre at Mässvägen 1, 125 80 Älvsjö. The official November 2025 overview gives a total exhibition area of 70,000 m², stored as exhibition_sqm, 17,000 seats, stored as capacity_max_delegates, and 78 meeting rooms. Official hall areas are Hall A 25,925 sqm, Hall B 11,330 sqm, Hall C 19,448 sqm and Victoria Hall 2,032 sqm (these four sum to 58,735 sqm; the official 70,000 m² headline includes further exhibition area). A broader “area 114,000” figure appearing in some materials is not stored as exhibition space.",
+   "photo": null,
+   "linked_event_slugs": [
+    "stockholm-furniture-fair-2027"
+   ],
+   "contact_email": "info@stockholmsmassan.se",
+   "sources": [
+    {
+     "url": "https://stockholmsmassan.se/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://stockholmsmassan.se/en/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall A",
+     "type": null,
+     "area_sqm": 25925,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official November 2025 overview.",
+     "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf"
+    },
+    {
+     "name": "Hall B",
+     "type": null,
+     "area_sqm": 11330,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official November 2025 overview.",
+     "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf"
+    },
+    {
+     "name": "Hall C",
+     "type": null,
+     "area_sqm": 19448,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official November 2025 overview.",
+     "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf"
+    },
+    {
+     "name": "Victoria Hall",
+     "type": null,
+     "area_sqm": 2032,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official November 2025 overview; theatre capacity is also listed on the chart.",
+     "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Stockholmsmässan overview (November 2025)",
+     "doc_type": "fact_sheet",
+     "language": "sv",
+     "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
+     "href": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "kistamassan",
+   "name": "Kistamässan",
+   "type": "exhibition_grounds",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Stockholm",
+   "address": "Arne Beurlings Torg 5, 164 40 Kista",
+   "lat": 59.4065939,
+   "lon": 17.9568418,
+   "url": "https://www.kistamassan.se/en/",
+   "capacity": 2500,
+   "exhibition_sqm": 9000,
+   "halls": "Two exhibition halls totalling 9,000 sqm, conference hall M12, and 18 meeting rooms",
+   "description": "Exhibition and congress venue in Kista, officially at Arne Beurlings Torg 5, 164 40 Kista, between Stockholm and Arlanda. Official copy states that the two halls have a total area of 9,000 square metres, stored as exhibition_sqm. Official facilities copy says conference hall M12 can accommodate up to 1,100 people and that the main hall can be configured for up to 2,500, stored as capacity_max_delegates, with 18 meeting rooms.",
+   "photo": null,
+   "linked_event_slugs": [
+    "sett-2027",
+    "stockholm-tech-show-2027",
+    "comic-con-stockholm-summer-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.kistamassan.se/en/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kistamassan.se/en/about-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.kistamassan.se/en/our-facilities/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Conference hall M12",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1100,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facilities page: existing conference hall M12 up to 1,100 people.",
+     "source_url": "https://www.kistamassan.se/en/our-facilities/"
+    },
+    {
+     "name": "Main hall (congress configuration)",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 2500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official facilities page: main hall can be configured to accommodate up to 2,500 people.",
+     "source_url": "https://www.kistamassan.se/en/our-facilities/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "collegium-linkoping",
+   "name": "Collegium",
+   "type": "other",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Linköping",
+   "address": null,
+   "lat": 58.3938332,
+   "lon": 15.56106,
+   "url": "https://collegium.se/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": null,
+   "description": "Collegium, a Linköping Science Park venue used by ICANN. The official Collegium site was retrieved but did not yield a published Linköping street address or room capacities in this pass (a Gothenburg contact address appears on the site and was not used as the venue address). Coordinates are the atlas precise pin, which matches the Nominatim named Collegium building.",
+   "photo": null,
+   "linked_event_slugs": [
+    "icann-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://collegium.se/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "slagthuset",
+   "name": "Slagthuset",
+   "type": "other",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Malmö",
+   "address": "Carlsgatan 12E, 211 20 Malmö",
+   "lat": 55.6112263,
+   "lon": 13.0019428,
+   "url": "https://slagthuset.se/",
+   "capacity": 1500,
+   "exhibition_sqm": null,
+   "halls": "Teatern, Restauranggatan, Södra Hallen, Norra Hallen, Saluhallen and Hantverksgången",
+   "description": "Malmö events and conference venue officially at Carlsgatan 12E, 211 20 Malmö (atlas listings also mention Jörgen Kocksgatan 7 as a second entrance, not copied as the official postal address). Official capacity figures are Teatern 921, Restauranggatan 1,020, Södra Hallen 350, Norra Hallen 250 and Saluhallen 1,500, the last of which is stored as capacity_max_delegates.",
+   "photo": null,
+   "linked_event_slugs": [
+    "nordic-game-2027",
+    "saasiest-2027"
+   ],
+   "contact_email": "meet@slagthuset.se",
+   "sources": [
+    {
+     "url": "https://slagthuset.se/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://slagthuset.se/kontakt/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Teatern",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 921,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://slagthuset.se/"
+    },
+    {
+     "name": "Restauranggatan",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1020,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://slagthuset.se/"
+    },
+    {
+     "name": "Södra Hallen",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://slagthuset.se/"
+    },
+    {
+     "name": "Norra Hallen",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 250,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://slagthuset.se/"
+    },
+    {
+     "name": "Saluhallen",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 1500,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://slagthuset.se/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "lustikulla-konferens",
+   "name": "Lustikulla Konferens & Event",
+   "type": "other",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Stockholm",
+   "address": "Liljeholmsvägen 18, Stockholm",
+   "lat": 59.3126365,
+   "lon": 18.0266539,
+   "url": "https://www.lustikulla.se/",
+   "capacity": 350,
+   "exhibition_sqm": null,
+   "halls": "Several conference rooms including Liljeholmssalen and Katrinebergssalen",
+   "description": "Conference and events house in Liljeholmen, officially at Liljeholmsvägen 18, Stockholm. Official copy gives 350 conference guests and up to 350 people for a seated dinner, stored as capacity_max_delegates, with Liljeholmssalen described as the largest conference room.",
+   "photo": null,
+   "linked_event_slugs": [
+    "swetugg-stockholm-2027"
+   ],
+   "contact_email": "info@lustikulla.se",
+   "sources": [
+    {
+     "url": "https://www.lustikulla.se/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.lustikulla.se/lokaler/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Whole venue / seated dinner",
+     "type": null,
+     "area_sqm": null,
+     "capacity_max": 350,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": 350,
+     "capacity_reception": null,
+     "notes": "Official rooms page: 350 conference guests and up to 350 people seated dinner.",
+     "source_url": "https://www.lustikulla.se/lokaler/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "sodra-teatern",
+   "name": "Södra Teatern",
+   "type": "other",
+   "country": "Sweden",
+   "cc": "SE",
+   "city": "Stockholm",
+   "address": null,
+   "lat": 59.3184208,
+   "lon": 18.0743142,
+   "url": "https://sodrateatern.com/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Stora Scen, Kägelbanan, Kristallen and other official event spaces at Mosebacke",
+   "description": "Historic theatre and events venue at Mosebacke on Södermalm, officially described as Södra Teatern at Mosebacke, in use since 1859, and used by DevSum. A complete official street address and published delegate capacities were not copied from the retrieved pages in this pass. Coordinates are the atlas precise pin, which matches the Nominatim theatre pin.",
+   "photo": null,
+   "linked_event_slugs": [
+    "devsum-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://sodrateatern.com/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://sodrateatern.com/ditt-besok/",
      "label": "Official source"
     }
    ],
@@ -265213,6 +274190,744 @@ window.ATLASDATA={
      "local": false
     }
    ]
+  },
+  {
+   "slug": "sandton-convention-centre",
+   "name": "Sandton Convention Centre",
+   "type": "convention_centre",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Johannesburg",
+   "address": "Maude Street, Sandown, 2196",
+   "lat": -26.1060581,
+   "lon": 28.0533836,
+   "url": "https://www.sandtonconventioncentre.com/",
+   "capacity": 10000,
+   "exhibition_sqm": 10480,
+   "halls": "Exhibition 1 and 2, Pavilion and Ballroom, plus meeting rooms (official 2023 capacity chart)",
+   "description": "Johannesburg convention and exhibition centre on Maude Street, Sandown. The official November 2023 capacity chart gives Exhibition 1 as 5,430 sqm (cinema 4,100, cocktail 4,200) and Exhibition 2 as 5,050 sqm (cinema 3,800, cocktail 3,900); those two halls sum to 10,480 sqm, stored as exhibition_sqm, and match the venue’s “more than 10,000 m²” exhibition wording. Official copy also refers to 22,000 m² of flexible event space, which is not stored as exhibition area. The June 2022 fact sheet says the centre can host 10,000 visitors at once (stored as capacity_max_delegates) and gives slightly different Pavilion figures; the 2023 chart is preferred for room sizes. The largest listed cinema layout on the 2023 chart is the Pavilion at 5,000.",
+   "photo": null,
+   "linked_event_slugs": [
+    "seamless-africa-2027",
+    "fnb-art-joburg-2027",
+    "itweb-security-summit-johannesburg-2027",
+    "ai-expo-africa-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.sandtonconventioncentre.com/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Exhibition 1",
+     "type": null,
+     "area_sqm": 5430,
+     "capacity_max": null,
+     "capacity_theatre": 4100,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 4200,
+     "notes": "Official November 2023 capacity chart (cinema / cocktail).",
+     "source_url": "https://www.sandtonconventioncentre.com/"
+    },
+    {
+     "name": "Exhibition 2",
+     "type": null,
+     "area_sqm": 5050,
+     "capacity_max": null,
+     "capacity_theatre": 3800,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 3900,
+     "notes": "Official November 2023 capacity chart (cinema / cocktail).",
+     "source_url": "https://www.sandtonconventioncentre.com/"
+    },
+    {
+     "name": "Pavilion",
+     "type": null,
+     "area_sqm": 4743,
+     "capacity_max": 5000,
+     "capacity_theatre": 5000,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": 4500,
+     "notes": "Official November 2023 capacity chart (cinema 5,000 / cocktail 4,500). The June 2022 fact sheet lists the Pavilion area as 4,708 sqm; the 2023 chart is preferred.",
+     "source_url": "https://www.sandtonconventioncentre.com/"
+    },
+    {
+     "name": "Ballroom",
+     "type": null,
+     "area_sqm": 2921,
+     "capacity_max": null,
+     "capacity_theatre": 2400,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official November 2023 capacity chart (cinema 2,400).",
+     "source_url": "https://www.sandtonconventioncentre.com/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "cape-town-international-convention-centre",
+   "name": "Cape Town International Convention Centre",
+   "type": "convention_centre",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Cape Town",
+   "address": "Convention Square, 1 Lower Long Street, Cape Town, 8001",
+   "lat": -33.915972,
+   "lon": 18.427357,
+   "url": "https://www.cticc.co.za/",
+   "capacity": null,
+   "exhibition_sqm": 20876,
+   "halls": "CTICC 1 halls 1–4B and CTICC 2 halls 5–10 (Hall 8 can be subdivided)",
+   "description": "Cape Town’s official convention centre, operated as CTICC 1 at Convention Square, 1 Lower Long Street, and CTICC 2 at the corner of Heerengracht and Rua Bartholomeu Dias, Foreshore. Official floor plans give CTICC 1 Hall 1 as 2,029 sqm (Halls 1A+1B), Hall 2 2,118, Hall 3 2,258, Hall 4A 2,982 and Hall 4B 1,267 (10,654 sqm without double-counting Hall 1 subdivisions) and CTICC 2 halls 5–10 as 1,533, 1,767, 1,537, 1,993, 1,933 and 1,459 sqm (10,222 sqm, excluding Hall 8.1–8.3). Those official hall areas sum to 20,876 sqm, stored as exhibition_sqm. Official marketing also refers to “over 21,000 m²” of exhibition space; the homepage “140,855 m² floor space” figure is building floor space and is not stored as exhibition area. A published campus delegate maximum was not taken from the official CTICC site in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "africa-tech-festival-2027",
+    "investec-cape-town-art-fair-2027"
+   ],
+   "contact_email": "info@cticc.co.za",
+   "sources": [
+    {
+     "url": "https://www.cticc.co.za/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf",
+     "label": "Official source"
+    },
+    {
+     "url": "https://www.cticc.co.za/wp-content/uploads/2025/01/CTICC2024IAR.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "CTICC 1 Hall 1",
+     "type": null,
+     "area_sqm": 2029,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official floor plans; Hall 1 combines Halls 1A (1,032 sqm) and 1B (997 sqm).",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 1A",
+     "type": null,
+     "area_sqm": 1032,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Subdivision of Hall 1; not added again into the campus exhibition total.",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 1B",
+     "type": null,
+     "area_sqm": 997,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Subdivision of Hall 1; not added again into the campus exhibition total.",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 2",
+     "type": null,
+     "area_sqm": 2118,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 3",
+     "type": null,
+     "area_sqm": 2258,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 4A",
+     "type": null,
+     "area_sqm": 2982,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 1 Hall 4B",
+     "type": null,
+     "area_sqm": 1267,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 5",
+     "type": null,
+     "area_sqm": 1533,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 6",
+     "type": null,
+     "area_sqm": 1767,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 7",
+     "type": null,
+     "area_sqm": 1537,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 8",
+     "type": null,
+     "area_sqm": 1993,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official floor plans also list subdivisions Hall 8.1 (307 sqm), 8.2 (316 sqm) and 8.3 (345 sqm), which are parts of Hall 8 and are not added again into the campus total.",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 9",
+     "type": null,
+     "area_sqm": 1933,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    },
+    {
+     "name": "CTICC 2 Hall 10",
+     "type": null,
+     "area_sqm": 1459,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": null,
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "CTICC venue floor plans",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf",
+     "href": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf",
+     "local": false
+    },
+    {
+     "title": "CTICC 2024 integrated annual report",
+     "doc_type": "other",
+     "language": "en",
+     "source_url": "https://www.cticc.co.za/wp-content/uploads/2025/01/CTICC2024IAR.pdf",
+     "href": "https://www.cticc.co.za/wp-content/uploads/2025/01/CTICC2024IAR.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "johannesburg-expo-centre",
+   "name": "Johannesburg Expo Centre",
+   "type": "exhibition_grounds",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Johannesburg",
+   "address": "Corner Nasrec & Randshow Roads, Johannesburg, 2091",
+   "lat": -26.241497,
+   "lon": 27.981567,
+   "url": "https://expocentre.co.za/",
+   "capacity": 20000,
+   "exhibition_sqm": null,
+   "halls": "Halls 5–10 plus Bateleur, Black Eagle, Esplanade and IBC (official venue directory)",
+   "description": "Nasrec exhibition, conference and events venue, marketed as South Africa’s largest purpose-built exhibition, conference, convention and events centre, on a site the official about page describes as stretching over 50 hectares. Official hall pages give gross areas for Hall 5 (7,362 sqm), Hall 6 (12,304), Hall 7 (4,890), Hall 8 (4,890), Hall 9 (6,532) and Hall 10 (2,420). Those six halls sum to 38,398 sqm but are not stored as exhibition_sqm because no official indoor exhibition campus total was published for the full venue (the homepage “150,000 square metres of space” is a broader campus figure). Official copy also refers to large meetings for 20,000 delegates, stored as capacity_max_delegates, and 7,500 sqm of paved outdoor festival space, which is not included in exhibition_sqm. Also known as Expo Centre Nasrec.",
+   "photo": null,
+   "linked_event_slugs": [
+    "comic-con-africa-2027",
+    "ultra-south-africa-johannesburg-2027"
+   ],
+   "contact_email": "info@expocentre.co.za",
+   "sources": [
+    {
+     "url": "https://expocentre.co.za/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/about-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/contact-us/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-5/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-6/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-7/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-8/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-9/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://expocentre.co.za/venue/hall-10/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 7362,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-5/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 12304,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-6/"
+    },
+    {
+     "name": "Hall 7",
+     "type": null,
+     "area_sqm": 4890,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-7/"
+    },
+    {
+     "name": "Hall 8",
+     "type": null,
+     "area_sqm": 4890,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-8/"
+    },
+    {
+     "name": "Hall 9",
+     "type": null,
+     "area_sqm": 6532,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-9/"
+    },
+    {
+     "name": "Hall 10",
+     "type": null,
+     "area_sqm": 2420,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official hall page, gross area.",
+     "source_url": "https://expocentre.co.za/venue/hall-10/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "century-city-conference-centre",
+   "name": "Century City Conference Centre",
+   "type": "convention_centre",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Cape Town",
+   "address": "No. 3 Energy Lane, Century City, Cape Town, 7446",
+   "lat": -33.895748,
+   "lon": 18.505127,
+   "url": "https://ccconferencecentre.co.za/",
+   "capacity": 2000,
+   "exhibition_sqm": 1029,
+   "halls": "21 versatile spaces; four large halls, three of which can be combined, plus meeting rooms and The Verve",
+   "description": "Conference and exhibition venue in the Century City precinct, officially at No. 3 Energy Lane. The official Fast Fact Guide (created February 2025) says 21 versatile spaces accommodate up to 2,000 people, stored as capacity_max_delegates, and that four large halls are available, three of which can be combined. The official combined Halls A–C layout is 1,029 sqm, stored as exhibition_sqm; Hall D is an additional official 394 sqm. No official total for all four halls together was published, so that sum is not stored.",
+   "photo": null,
+   "linked_event_slugs": [
+    "itweb-security-summit-cape-town-2027"
+   ],
+   "contact_email": "events@ccconferencecentre.co.za",
+   "sources": [
+    {
+     "url": "https://ccconferencecentre.co.za/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Halls A–C combined",
+     "type": null,
+     "area_sqm": 1029,
+     "capacity_max": null,
+     "capacity_theatre": 700,
+     "capacity_classroom": 390,
+     "capacity_banquet": 700,
+     "capacity_reception": 1160,
+     "notes": "Official Fast Fact Guide (February 2025): Hall ABC combined, landscape layout, 1,029 sqm / theatre 700 / classroom 390 / banquet 700 / cocktail 1,160. A portrait layout lists theatre 696 and banquet 1,104. Three of the four halls can be combined.",
+     "source_url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf"
+    },
+    {
+     "name": "Hall D",
+     "type": null,
+     "area_sqm": 394,
+     "capacity_max": null,
+     "capacity_theatre": 315,
+     "capacity_classroom": 159,
+     "capacity_banquet": 270,
+     "capacity_reception": 446,
+     "notes": "Official Fast Fact Guide: Hall D portrait, 394 sqm. Additional to the combinable A–C halls; no official four-hall exhibition total was published.",
+     "source_url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Century City Conference Centre Fast Fact Guide (2025)",
+     "doc_type": "fact_sheet",
+     "language": "en",
+     "source_url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
+     "href": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
+     "local": false
+    }
+   ]
+  },
+  {
+   "slug": "workshop17-watershed",
+   "name": "Workshop17 Watershed",
+   "type": "other",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Cape Town",
+   "address": "Watershed, 17 Dock Road, V&A Waterfront, Cape Town, 8002",
+   "lat": -33.907017,
+   "lon": 18.4187,
+   "url": "https://www.workshop17.co.za/va-waterfront",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Official location page lists 6 meeting rooms and 1 event space",
+   "description": "Workshop17 workspace and events location in the converted Watershed warehouse at the V&A Waterfront, officially at 17 Dock Road, above a ground-floor craft market next to the Aquarium. The official location page lists six meeting rooms and one event space; published delegate or exhibition-area figures were not taken from that page in this pass.",
+   "photo": null,
+   "linked_event_slugs": [
+    "adopting-bitcoin-cape-town-2027"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.workshop17.co.za/va-waterfront",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [],
+   "documents": []
+  },
+  {
+   "slug": "the-westin-cape-town",
+   "name": "The Westin Cape Town",
+   "type": "hotel_conference_venue",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Cape Town",
+   "address": "Convention Square, Lower Long Street, Cape Town, 8000",
+   "lat": -33.9153128,
+   "lon": 18.4260817,
+   "url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+   "capacity": null,
+   "exhibition_sqm": null,
+   "halls": "Grand Ballroom and other meeting rooms (official events page)",
+   "description": "Westin hotel on Convention Square, Lower Long Street, next to the CTICC, used by SuperReturn Africa. The official events page gives the Grand Ballroom as 5,865 square feet (545 sqm). A property-level listing on the Tourism Grading Council of South Africa register could not be retrieved in this pass (the official TGCSA site did not respond), so star_rating is left null.",
+   "photo": null,
+   "linked_event_slugs": [
+    "superreturn-africa-2026"
+   ],
+   "contact_email": null,
+   "sources": [
+    {
+     "url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Grand Ballroom",
+     "type": null,
+     "area_sqm": 545,
+     "capacity_max": null,
+     "capacity_theatre": null,
+     "capacity_classroom": null,
+     "capacity_banquet": null,
+     "capacity_reception": null,
+     "notes": "Official events page: 5,865 square feet, converted at 0.09290304 sqm per sq ft and rounded to 545 sqm.",
+     "source_url": "https://www.marriott.com/en-us/hotels/cptwi-the-westin-cape-town/events/"
+    }
+   ],
+   "documents": []
+  },
+  {
+   "slug": "durban-icc",
+   "name": "Durban ICC",
+   "type": "convention_centre",
+   "country": "South Africa",
+   "cc": "ZA",
+   "city": "Durban",
+   "address": "45 Bram Fischer Road, Durban, 4001",
+   "lat": -29.854022,
+   "lon": 31.0301289,
+   "url": "https://icc.co.za/",
+   "capacity": 12000,
+   "exhibition_sqm": null,
+   "halls": "ICC halls 1–6 (official main convention area 11,600 sqm) plus the jointly managed Durban Exhibition Centre halls across Walnut Road",
+   "description": "Durban’s official international convention centre (also identified on mapping data as the Inkosi Albert Luthuli International Convention Centre), at 45 Bram Fischer Road, jointly managed with the Durban Exhibition Centre at 11 Walnut Road immediately opposite. Official copy says the main ICC convention area is 11,600 sqm and that the full venue can accommodate 12,000 delegates for a plenary or a banquet of up to 5,000; 12,000 is stored as capacity_max_delegates. Official DEC copy gives two large halls with a combined 9,270 sqm of flexible event space and a plenary audience of over 8,000. No single official indoor exhibition total covering both buildings was published, so exhibition_sqm is left null and the official hall figures are recorded as spaces. The two centres can function independently or as one combined island site by closing Walnut Road.",
+   "photo": null,
+   "linked_event_slugs": [],
+   "contact_email": "sales@icc.co.za",
+   "sources": [
+    {
+     "url": "https://icc.co.za/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://icc.co.za/venue/icc/convention-meeting-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://icc.co.za/venue/dec/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://icc.co.za/venue/dec/convention-meeting-halls/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://icc.co.za/contact/",
+     "label": "Official source"
+    },
+    {
+     "url": "https://icc.co.za/downloads/Durban-ICC-2D-Map.pdf",
+     "label": "Official source"
+    }
+   ],
+   "star_rating": null,
+   "spaces": [
+    {
+     "name": "Hall 1",
+     "type": null,
+     "area_sqm": 1448,
+     "capacity_max": null,
+     "capacity_theatre": 1000,
+     "capacity_classroom": 750,
+     "capacity_banquet": 500,
+     "capacity_reception": 1000,
+     "notes": "Official convention hall table. Official copy also says Hall 1 can be used as an auditorium seating 1,680 delegates when tribune seating is deployed, or as a 1,448 sqm flat-floor hall.",
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "Hall 2",
+     "type": null,
+     "area_sqm": 2760,
+     "capacity_max": null,
+     "capacity_theatre": 2500,
+     "capacity_classroom": 1350,
+     "capacity_banquet": 1120,
+     "capacity_reception": 2200,
+     "notes": null,
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "Hall 3",
+     "type": null,
+     "area_sqm": 2346,
+     "capacity_max": null,
+     "capacity_theatre": 1800,
+     "capacity_classroom": 1320,
+     "capacity_banquet": 1000,
+     "capacity_reception": 2000,
+     "notes": null,
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "Hall 4",
+     "type": null,
+     "area_sqm": 1628,
+     "capacity_max": null,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 960,
+     "capacity_banquet": 640,
+     "capacity_reception": 1500,
+     "notes": null,
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "Hall 5",
+     "type": null,
+     "area_sqm": 1656,
+     "capacity_max": null,
+     "capacity_theatre": 1400,
+     "capacity_classroom": 950,
+     "capacity_banquet": 600,
+     "capacity_reception": 1500,
+     "notes": null,
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "Hall 6",
+     "type": null,
+     "area_sqm": 612,
+     "capacity_max": null,
+     "capacity_theatre": 300,
+     "capacity_classroom": 230,
+     "capacity_banquet": 160,
+     "capacity_reception": 400,
+     "notes": null,
+     "source_url": "https://icc.co.za/venue/icc/convention-meeting-halls/"
+    },
+    {
+     "name": "DEC Hall 1",
+     "type": null,
+     "area_sqm": 6000,
+     "capacity_max": null,
+     "capacity_theatre": 5500,
+     "capacity_classroom": 3430,
+     "capacity_banquet": 3390,
+     "capacity_reception": 4500,
+     "notes": "Durban Exhibition Centre, 11 Walnut Road, jointly managed with the ICC and able to operate independently or as a combined island site.",
+     "source_url": "https://icc.co.za/venue/dec/convention-meeting-halls/"
+    },
+    {
+     "name": "DEC Hall 2",
+     "type": null,
+     "area_sqm": 3270,
+     "capacity_max": null,
+     "capacity_theatre": 2950,
+     "capacity_classroom": 2050,
+     "capacity_banquet": 1390,
+     "capacity_reception": 2800,
+     "notes": "Official hall table; official copy also describes Hall 2 as over 3,000 sqm of column-free exhibition space.",
+     "source_url": "https://icc.co.za/venue/dec/convention-meeting-halls/"
+    },
+    {
+     "name": "DEC Halls 1 & 2 combined",
+     "type": null,
+     "area_sqm": 9270,
+     "capacity_max": 8450,
+     "capacity_theatre": 8450,
+     "capacity_classroom": 5480,
+     "capacity_banquet": 4780,
+     "capacity_reception": 7300,
+     "notes": "Official combined DEC halls 1 and 2. Official copy also gives 9,270 sqm of flexible event space and a plenary audience of over 8,000, or a banquet for over 4,000.",
+     "source_url": "https://icc.co.za/venue/dec/convention-meeting-halls/"
+    }
+   ],
+   "documents": [
+    {
+     "title": "Durban ICC 2D map",
+     "doc_type": "floor_plan",
+     "language": "en",
+     "source_url": "https://icc.co.za/downloads/Durban-ICC-2D-Map.pdf",
+     "href": "https://icc.co.za/downloads/Durban-ICC-2D-Map.pdf",
+     "local": false
+    }
+   ]
   }
  ],
  "sourceMissing": [],
@@ -265235,8 +274950,8 @@ window.ATLASDATA={
    "south_america": 214
   },
   "expo": 187,
-  "hotels": 203,
-  "venues": 338,
+  "hotels": 384,
+  "venues": 388,
   "europe": 1352,
   "middle_east": 157,
   "asia": 510,
