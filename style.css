@@ -2845,10 +2845,15 @@ html,body{overflow:hidden}
   }
   #mapwrap.timeline-on .viewbar{
     left:max(10px, env(safe-area-inset-left, 0px));
-    z-index:730;
+    z-index:740;
   }
+  /* Theme chips share the top row with the viewbar. Shrink-wrap to the
+     right so the empty left of this full-width flex box cannot intercept
+     taps on Timeline/Map/Grid/Swipe. */
   #mapwrap.timeline-on .chrome-right{
     top:max(10px, env(safe-area-inset-top, 0px));
+    left:auto;
+    width:auto;
     z-index:730;
   }
   #mapwrap.timeline-on .tl-top{
