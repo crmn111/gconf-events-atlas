@@ -4144,6 +4144,11 @@ const PANEL_KEY_L = 'gconf-atlas-left-width';
 const PANEL_KEY_R = 'gconf-atlas-right-width';
 const PANEL_MIN = 320;
 const MAP_MIN = 280;
+/* Below this width, the three desktop panes (list/timeline, map, detail)
+   share the inner width equally. 1720px is where a third of (100vw - 2*inset)
+   meets the 560px side-panel cap used on large monitors, so the layout can
+   switch without a jump. Must stay in sync with the CSS max-width:1719px query. */
+const PANEL_EQUAL_MAX = 1720;
 
 function panelInset(){
   const v = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--inset'));
@@ -4152,8 +4157,15 @@ function panelInset(){
 function panelDefault(){
   const vw = innerWidth;
   const inset = panelInset();
+  const inner = vw - inset*2;
+  const maxBoth = Math.floor((inner - MAP_MIN) / 2);
+  /* Laptop-class desktops: equal thirds so the map is not squeezed. */
+  if(vw < PANEL_EQUAL_MAX){
+    const third = Math.floor(inner / 3);
+    return Math.round(Math.max(200, Math.min(third, maxBoth)));
+  }
+  /* Large monitors: keep the existing narrower side panels, map stays dominant. */
   const raw = Math.min(560, Math.max(320, vw * 0.36));
-  const maxBoth = Math.floor((vw - inset*2 - MAP_MIN) / 2);
   return Math.round(Math.max(200, Math.min(raw, maxBoth)));
 }
 function panelMaxFor(otherW){

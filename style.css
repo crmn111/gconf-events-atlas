@@ -1,7 +1,7 @@
 /* GConf Events Atlas
    Light is the default theme. Dark is opt-in and stored in localStorage.
    Visual tokens follow GConf brand style guide v1.4 and the 4/8 spacing scale.
-   Layout and breakpoints are unchanged; see _build/research/design/DESIGN_NOTES.md. */
+   Desktop pane widths: equal thirds below 1720px, existing 560px-capped sides at 1720px and up. Mobile/tablet (<=860px) unchanged. See _build/research/design/DESIGN_NOTES.md. */
 :root, html[data-theme="light"]{
   /* Spacing (4/8 scale) */
   --s-1:4px;
@@ -649,6 +649,28 @@ body.lbopen,body.swiping{overflow:hidden}
 .sheetbody h2{margin:0 40px 12px 0;font-size:22px;letter-spacing:-.02em}
 .sheetbody p{color:var(--muted)}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+/* Laptop / small-desktop (861–1719px): three equal panes.
+   1720px is where a third of the inner width (100vw - 2*inset) meets the
+   560px side-panel cap, so large-monitor layout can take over without a jump.
+   Must stay in sync with PANEL_EQUAL_MAX in app.js. */
+@media (min-width:861px) and (max-width:1719px){
+  :root,
+  html[data-theme="light"],
+  html[data-theme="dark"],
+  #app{
+    --panelw:min(
+      calc((100vw - var(--inset)*2) / 3),
+      calc((100vw - var(--inset)*2 - var(--map-min)) / 2)
+    );
+    --leftw:var(--panelw);
+    --rightw:var(--panelw);
+    --sbw:var(--leftw);
+    --tourstrip:var(--leftw);
+    --playdw:var(--rightw);
+    --dw:var(--rightw);
+  }
+}
+
 @media (min-width:1800px){:root{--dw:clamp(720px,42vw,880px)}}
 @media (min-width:861px){
   .gal .gi.lead{aspect-ratio:16/9}
@@ -943,8 +965,13 @@ html[data-theme="dark"] .play-progress{background:rgba(255,255,255,.14)}
 #app.play-on .tl-card.tl-now{box-shadow:var(--shadow-strong),0 0 0 3px var(--lime),0 0 0 8px rgba(207,245,90,.28);border-color:var(--lime);transform:translateY(-3px)}
 #app.play-on .tl-item.tl-now .tl-dot{box-shadow:0 0 0 4px var(--bg),0 0 22px rgba(207,245,90,.95)}
 
-@media (min-width:861px){
+@media (min-width:861px) and (max-width:1719px){
+  #app.play-on{--playdw:var(--rightw)}
+}
+@media (min-width:1720px){
   #app.play-on{--playdw:clamp(420px,36vw,560px)}
+}
+@media (min-width:861px){
   #app.play-on #detail{width:var(--playdw);left:var(--sbw)}
   #app.play-on #timeline{padding-left:var(--playdw)}
   #app.play-on .viewbar{left:calc(var(--inset) + var(--sbw) + 10px);transform:none}
