@@ -17,6 +17,7 @@ const CAT_FEST = {music:'Music', arts:'Arts', film:'Film', food:'Food', culture:
 const CAT_SPORTS = {motorsport:'Motorsport', tennis:'Tennis', football:'Football', golf:'Golf', other:'Other Sports'};
 const CAT_EXPO = {expo:'Expos'};
 const CAT = Object.assign({}, CAT_CONF, CAT_FEST);
+/* Visitor-local calendar day. Live/ended/happening-now all use this, never a build stamp. */
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 
 function parseDay(s){
@@ -60,7 +61,40 @@ function fmtEventDates(e){
 function statusBadge(e){
   if(isPostponed(e)) return `<span class="tag postponed">Postponed</span>`;
   if(datesTba(e)) return `<span class="tag tba">Dates TBA</span>`;
+  if(hasEnded(e)) return `<span class="tag past">Past event</span>`;
   return '';
+}
+function currentMonthKey(){
+  return TODAY.getFullYear()+'-'+String(TODAY.getMonth()+1).padStart(2,'0');
+}
+function eventStartDay(e){
+  return parseDay(e && e.start_date) || parseDay(e && e.end_date);
+}
+function eventEndDay(e){
+  return parseDay(e && e.end_date) || parseDay(e && e.start_date);
+}
+/* Started in a previous month with no published end date (e.g. an open season). */
+function isOpenEnded(e){
+  if(parseDay(e && e.end_date)) return false;
+  const a = parseDay(e && e.start_date);
+  if(!a) return false;
+  return (a.getFullYear()*12 + a.getMonth()) < (TODAY.getFullYear()*12 + TODAY.getMonth());
+}
+/* Visitor-local today, not a build stamp. TBA and postponed are not treated as ended. */
+function hasEnded(e){
+  if(!e || datesTba(e) || isPostponed(e) || isOpenEnded(e)) return false;
+  const b = eventEndDay(e);
+  return !!(b && b.getTime() < TODAY.getTime());
+}
+function isHappeningNow(e){
+  if(!e || hasEnded(e) || datesTba(e) || isPostponed(e)) return false;
+  const a = eventStartDay(e);
+  if(!a) return false;
+  return (a.getFullYear()*12 + a.getMonth()) < (TODAY.getFullYear()*12 + TODAY.getMonth());
+}
+function untilLabel(e){
+  const d = parseDay(e && e.end_date);
+  return d ? 'until '+fmtDay(e.end_date) : 'Still running';
 }
 function fmtPrice(e){
   if(e.ticket_price_text) return e.ticket_price_text;
@@ -1561,6 +1595,7 @@ function visibleEvents(){
   const q = st.q;
   return EV.filter(e => {
     if(!inKindView(e, st.kind)) return false;
+    if(hasEnded(e)) return false;
     if(st.region!=='all' && evRegion(e)!==st.region) return false;
     if(st.country && placeSlug(e.country)!==placeSlug(st.country)) return false;
     if(!matchesCatChip(e, st.kind, st.cats)) return false;
@@ -2375,6 +2410,7 @@ function monthKey(e){
   return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');
 }
 function monthParts(key){
+  if(key==='now') return {name:'Happening now', year:'', short:'Now', kicker:'Now'};
   if(key==='tbc') return {name:'Dates TBA', year:'', short:'TBA', kicker:'Schedule'};
   const [y,m] = key.split('-').map(Number);
   const d = new Date(y, m-1, 1);
@@ -2439,6 +2475,7 @@ function eventCardHtml(e, side, imgPri){
     : `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
   const chips = [
     tba ? `<span class="tl-chip tba">Dates TBA</span>` : '',
+    isHappeningNow(e) ? `<span class="tl-chip until">${esc(untilLabel(e))}</span>` : '',
     `<span class="tl-chip price ${hasPrice(e)?'':'unk'}">${esc(pillText(e))}</span>`,
     attend ? `<span class="tl-chip attend">${esc(attend)}</span>` : ''
   ].filter(Boolean).join('');
@@ -2511,46 +2548,79 @@ function renderTimeline(){
   const scrub = $('#tlscrub');
   if(!body) return;
   tlDisconnect();
-  const list = visibleEvents().filter(e => !isPostponed(e)).slice().sort(dateSoonest);
-  if(!list.length){
+  const raw = visibleEvents().filter(e => !isPostponed(e));
+  if(!raw.length){
     body.innerHTML = `<div class="tl-empty">${emptyMessage()}</div>`;
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
     return;
   }
+  const happening = raw.filter(isHappeningNow).slice().sort((a,b) => {
+    const ae = parseDay(a.end_date), be = parseDay(b.end_date);
+    const at = ae ? ae.getTime() : Infinity;
+    const bt = be ? be.getTime() : Infinity;
+    if(at!==bt) return at-bt;
+    return dateSoonest(a,b);
+  });
+  const rest = raw.filter(e => !isHappeningNow(e)).slice().sort(dateSoonest);
+  const todayMonth = currentMonthKey();
   const months = [];
   const gmap = new Map();
-  list.forEach(e => {
+  if(happening.length){
+    const g={key:'now', items:happening};
+    gmap.set('now', g);
+    months.push(g);
+  }
+  rest.forEach(e => {
     const k = monthKey(e);
+    if(k!=='tbc' && k < todayMonth) return;
     if(!gmap.has(k)){ const g={key:k, items:[]}; gmap.set(k,g); months.push(g); }
     gmap.get(k).items.push(e);
   });
+  if(!gmap.has(todayMonth)){
+    const g={key:todayMonth, items:[]};
+    gmap.set(todayMonth, g);
+    months.push(g);
+  }
+  months.sort((a,b) => {
+    if(a.key===b.key) return 0;
+    if(a.key==='now') return -1;
+    if(b.key==='now') return 1;
+    if(a.key==='tbc') return 1;
+    if(b.key==='tbc') return -1;
+    return a.key.localeCompare(b.key);
+  });
   let todayPlaced = false;
-  const todayMonth = TODAY.getFullYear()+'-'+String(TODAY.getMonth()+1).padStart(2,'0');
   let side = 'l';
   let imgLeft = 4;
   const html = months.map(m => {
     const n = m.items.length;
     const parts = monthParts(m.key);
     let items = '';
-    if(!todayPlaced && m.key==='tbc'){
-      items += todayMarkerHtml();
-      todayPlaced = true;
-    }
-    if(!todayPlaced && m.key!=='tbc' && m.key > todayMonth){
-      items += todayMarkerHtml();
-      todayPlaced = true;
-    }
-    m.items.forEach(e => {
-      if(!todayPlaced && m.key!=='tbc' && (eventCoversToday(e) || startsOnOrAfterToday(e))){
+    if(m.key===todayMonth){
+      m.items.forEach(e => {
+        const start = parseDay(e.start_date);
+        if(!todayPlaced && start && start.getTime() >= TODAY.getTime()){
+          items += todayMarkerHtml();
+          todayPlaced = true;
+        }
+        items += eventCardHtml(e, side, imgLeft>0);
+        if(imgLeft>0) imgLeft--;
+        side = side==='l' ? 'r' : 'l';
+      });
+      if(!todayPlaced){
         items += todayMarkerHtml();
         todayPlaced = true;
       }
-      items += eventCardHtml(e, side, imgLeft>0);
-      if(imgLeft>0) imgLeft--;
-      side = side==='l' ? 'r' : 'l';
-    });
+    }else{
+      m.items.forEach(e => {
+        items += eventCardHtml(e, side, imgLeft>0);
+        if(imgLeft>0) imgLeft--;
+        side = side==='l' ? 'r' : 'l';
+      });
+    }
     const year = parts.year ? `<div class="tl-year">${esc(parts.year)}</div>` : '';
-    return `<section class="tl-month" id="tl-m-${esc(m.key)}" data-m="${esc(m.key)}">
+    const extra = m.key==='now' ? ' tl-happening' : '';
+    return `<section class="tl-month${extra}" id="tl-m-${esc(m.key)}" data-m="${esc(m.key)}">
       <header class="tl-month-h">
         <div><div class="tl-kicker">${esc(parts.kicker)}</div><h2 class="tl-name">${esc(parts.name)}</h2>${year}</div>
         <div class="tl-count"><b>${n}</b> ${n===1?'event':'events'}</div>

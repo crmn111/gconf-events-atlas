@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-26T08:07:01Z",
+ "generated": "2026-11-26T10:02:49Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -3051,6 +3051,126 @@ window.ATLASDATA={
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.daviscup.com/",
      "accessed_at": "2026-11-24T11:59:33+01:00"
+    }
+   ]
+  },
+  {
+   "event_id": "GCE-gaming-pulse-2026",
+   "slug": "gaming-pulse-2026",
+   "name": "Gaming Pulse Conference 2026",
+   "website_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+   "start_date": "2026-11-24",
+   "end_date": "2026-11-24",
+   "city": "Valletta",
+   "country": "Malta",
+   "region": "europe",
+   "venue": "Casino Maltese, Valletta",
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "Deloitte Malta",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": null,
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+   "last_scraped_at": "2026-11-23T18:30:00+01:00",
+   "notes": null,
+   "lat": 35.8986524,
+   "lng": 14.513084,
+   "precise": true,
+   "category": "tech",
+   "topics": [
+    "iGaming",
+    "technology",
+    "regulation"
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-1-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pcb-gi3-alert-1920x880-4:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": null,
+     "caption": null
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-2-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-bmc-1920x880:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": null,
+     "caption": null
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-3.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-3-t.jpg",
+     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-gaming-pulse-1920x880-1:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
+     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "credit": null,
+     "caption": null
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "field": "official"
+    }
+   ],
+   "status": "past",
+   "kind": "conference",
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Casino Maltese, 247, Triq ir-Repubblika, Il-Kamrata, Il-Belt Valletta, Reġjun Port, VLT 1113, Malta (query: Casino Maltese, Valletta).",
+   "source_accessed_at": "2026-11-23T18:30:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-26",
+   "id": "gaming-pulse-2026",
+   "also_categories": [],
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": null,
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/deloitte",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/user/deloittevideo",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/deloittemalta/",
+     "verified_via": "linked_from_official_site",
+     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
+     "accessed_at": "2026-11-24T11:59:34+01:00"
     }
    ]
   },
@@ -423143,15 +423263,15 @@ window.ATLASDATA={
  ],
  "sourceMissing": [],
  "counts": {
-  "conference": 1344,
+  "conference": 1345,
   "festival": 1499,
   "sports": 203,
-  "dated": 2508,
+  "dated": 2509,
   "dates_tba": 535,
   "postponed": 3,
   "duplicates_merged": 268,
   "regions": {
-   "europe": 1352,
+   "europe": 1353,
    "middle_east": 157,
    "asia": 510,
    "africa": 155,
@@ -423163,7 +423283,7 @@ window.ATLASDATA={
   "expo": 188,
   "hotels": 1087,
   "venues": 570,
-  "europe": 1352,
+  "europe": 1353,
   "middle_east": 157,
   "asia": 510,
   "africa": 155,
