@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-26T11:56:44Z",
+ "generated": "2026-11-26T20:08:06Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -72960,7 +72960,16 @@ window.ATLASDATA={
     "live music",
     "community concerts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-international-jazz-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-international-jazz-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_International_Jazz_Festival.jpg",
+     "credit": "Photo: Discott / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The packed crowd at the free pre-concert on Greenmarket Square during the 2018 Cape Town International Jazz Festival."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -72996,7 +73005,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Discott / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "youtube",
@@ -73778,7 +73787,16 @@ window.ATLASDATA={
     "music",
     "visual arts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/auckland-arts-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/auckland-arts-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Evanescent_PA01.jpg",
+     "credit": "Photo: Paora / Wikimedia Commons / CC0",
+     "caption": "The ‘Evanescent’ installation by Atelier Sisu in Aotea Square, with Auckland’s Sky Tower behind, at the 2026 Auckland Arts Festival, 9 March 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -73809,7 +73827,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Paora / Wikimedia Commons / CC0",
    "socials": [
     {
      "platform": "facebook",
@@ -85734,7 +85752,16 @@ window.ATLASDATA={
     "IMSA",
     "sports cars"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/12-hours-of-sebring-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/12-hours-of-sebring-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2018_12_Hours_of_Sebring,_Race_Impression.jpg",
+     "credit": "Photo: Patrick Smith / Wikimedia Commons / CC BY 2.0",
+     "caption": "A GT car on the pit straight, under the Michelin bridge and a Sebring sign, during the 2018 12 Hours of Sebring."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -85760,7 +85787,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Patrick Smith / Wikimedia Commons / CC BY 2.0",
    "socials": [
     {
      "platform": "youtube",
@@ -87525,7 +87552,16 @@ window.ATLASDATA={
     "World Rally Championship",
     "rally"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-safari-kenya-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-safari-kenya-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:WRC_Safari_Rally.jpg",
+     "credit": "Photo: Joelm69 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A Rally1 car, with a helicopter overhead, on a dusty stage at the 2021 WRC Safari Rally Kenya."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -87556,7 +87592,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Joelm69 / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "x",
@@ -92856,7 +92892,16 @@ window.ATLASDATA={
     "dance",
     "camping festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-folk-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-folk-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:National_Folk_Festival_(NFF)_Canberra_2019.jpg",
+     "credit": "Photo: Mattplaysthedrums / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Festival-goers among tents and bunting at the National Folk Festival in Canberra, 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -92892,7 +92937,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Mattplaysthedrums / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -117817,7 +117862,16 @@ window.ATLASDATA={
     "gaming",
     "pop culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-cape-town-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-cape-town-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Comic_Con_Cape_Town_General_12.jpg",
+     "credit": "Photo: EGilham / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors in the outdoor plaza at the Cape Town International Convention Centre during Comic Con Cape Town 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -117848,7 +117902,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: EGilham / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -149081,7 +149135,16 @@ window.ATLASDATA={
     "techno",
     "electronic music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/movement-detroit-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/movement-detroit-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Movement_Music_Festival_at_Hart_Plaza,_Detroit,_Michigan,_2026-05-25.jpg",
+     "credit": "Photo: Chris Woodrich / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Waterfront stage and crowd at Hart Plaza, seen from the Detroit River, during Movement Music Festival, 25 May 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -149107,7 +149170,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Chris Woodrich / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -149603,7 +149666,16 @@ window.ATLASDATA={
     "Coca-Cola 600",
     "stock cars"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/coca-cola-600-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/coca-cola-600-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2026_Coca-Cola_600_prerace.jpg",
+     "credit": "Photo: PCN02WPS / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The packed Turn 1 grandstands and the oval at Charlotte Motor Speedway before the 2026 Coca-Cola 600, 24 May 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -149639,7 +149711,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: PCN02WPS / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -154211,7 +154283,16 @@ window.ATLASDATA={
     "World Rally Championship",
     "rally"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-japan-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-japan-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2025_Rally_Japan_Hiroki_Arai.jpg",
+     "credit": "Photo: TTTNIS / Wikimedia Commons / CC0",
+     "caption": "Hiroki Arai’s Škoda Fabia, with FORUM8 Rally Japan branding, on a liaison through Iwamura-cho Hondori, with spectators lining the street, at the 2025 Rally Japan."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -154242,7 +154323,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: TTTNIS / Wikimedia Commons / CC0",
    "socials": [
     {
      "platform": "x",
@@ -174190,7 +174271,16 @@ window.ATLASDATA={
     "World Rally Championship",
     "rally"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-acropolis-greece-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-acropolis-greece-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:I20N_Rally_2_SSS_Run_Rally_Acropolis_2026.jpg",
+     "credit": "Photo: Geonich / Wikimedia Commons / CC BY 4.0",
+     "caption": "A Hyundai i20 N Rally2 car on the super special stage, in front of a packed grandstand with EKO barriers, at the 2026 Acropolis Rally."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -174226,7 +174316,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null
+   "photoCredit": "Photo: Geonich / Wikimedia Commons / CC BY 4.0"
   },
   {
    "event_id": "GCE-comicon-bergamo-2027",
@@ -190894,7 +190984,16 @@ window.ATLASDATA={
     "folk music",
     "world music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kaustinen-folk-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kaustinen-folk-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Keskipohjanmaa_Arena_at_the_Kaustinen_Folk_Music_Festival_2019-07-12_(48332776937).jpg",
+     "credit": "Photo: Ninara / Wikimedia Commons / CC BY 2.0",
+     "caption": "The packed Keskipohjanmaa Arena at the 2019 Kaustinen Folk Music Festival, 12 July 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -190925,7 +191024,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Ninara / Wikimedia Commons / CC BY 2.0",
    "socials": [
     {
      "platform": "facebook",
@@ -196099,7 +196198,16 @@ window.ATLASDATA={
     "jazz",
     "live music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/moldejazz-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/moldejazz-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Audience_at_2025_Molde_Jazz_Festival_2.jpg",
+     "credit": "Photo: John Sears / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The seated audience during a Jason Moran performance at the 2025 Moldejazz festival."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -196130,7 +196238,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: John Sears / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -198493,7 +198601,16 @@ window.ATLASDATA={
     "Brickyard 400",
     "stock cars"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/brickyard-400-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/brickyard-400-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Racing_at_the_2026_Brickyard_400.jpg",
+     "credit": "Photo: Brycenrichter / Wikimedia Commons / CC0",
+     "caption": "A restart on the frontstretch, with the pagoda and NASCAR Cup Series branding, at the 2026 Brickyard 400, Indianapolis Motor Speedway."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -198524,7 +198641,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Brycenrichter / Wikimedia Commons / CC0",
    "socials": [
     {
      "platform": "youtube",
@@ -201876,7 +201993,16 @@ window.ATLASDATA={
     "World Rally Championship",
     "rally"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-finland-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/wrc-finland-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Neste_Rally_Finland_2019_-_Lutakko.jpg",
+     "credit": "Photo: Tiia Monto / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "The Lutakko service-park and spectator area, with Neste Rally Finland banners, during Rally Finland in Jyväskylä, 3 August 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -201907,7 +202033,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null
+   "photoCredit": "Photo: Tiia Monto / Wikimedia Commons / CC BY-SA 3.0"
   },
   {
    "event_id": "GCE-thjodhatid-2027",
@@ -206076,7 +206202,16 @@ window.ATLASDATA={
     "metal",
     "rock"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bloodstock-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bloodstock-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Fit_For_An_Autopsy_Bloodstock_2023.jpg",
+     "credit": "Photo: Douglas86 / Wikimedia Commons / CC BY 4.0",
+     "caption": "Fit For An Autopsy on the main stage, with the crowd in front, at Bloodstock Open Air 2023, Catton Park."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -206101,7 +206236,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Douglas86 / Wikimedia Commons / CC BY 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -208759,7 +208894,16 @@ window.ATLASDATA={
     "music",
     "free stages"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/musikfest-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/musikfest-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:White_Reaper_Bethlehem_PA.jpg",
+     "credit": "Photo: Hunter Kahn / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "White Reaper on stage, with a seated audience and the Bethlehem Steel stacks behind, at Musikfest in Bethlehem, Pennsylvania, 5 August 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -208785,7 +208929,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Hunter Kahn / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -224456,7 +224600,16 @@ window.ATLASDATA={
     "tabletop",
     "indie games"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pax-west-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pax-west-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:PAX_West_attendees_(30547668518).jpg",
+     "credit": "Photo: Gage Skidmore / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Attendees in a crowded hall of the Washington State Convention Center at PAX West 2018 in Seattle."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -224482,7 +224635,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Gage Skidmore / Wikimedia Commons / CC BY-SA 2.0",
    "socials": [
     {
      "platform": "youtube",
@@ -246067,7 +246220,16 @@ window.ATLASDATA={
     "IMSA",
     "sports cars"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/petit-le-mans-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/petit-le-mans-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2019_Petit_Le_Mans_starting_grid.jpg",
+     "credit": "Photo: Osajus Photography / Wikimedia Commons / CC BY 2.0",
+     "caption": "The starting grid and pit lane at Road Atlanta before the 2019 Motul Petit Le Mans, 12 October 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -246093,7 +246255,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Osajus Photography / Wikimedia Commons / CC BY 2.0",
    "socials": [
     {
      "platform": "youtube",
@@ -257461,7 +257623,16 @@ window.ATLASDATA={
     "yachting",
     "marine"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fort-lauderdale-international-boat-show-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fort-lauderdale-international-boat-show-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2018_Fort_Lauderdale_International_Boat_Show_(2).jpg",
+     "credit": "Photo: Tamanoeconomico / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Boats in the water and exhibition tents at the 59th Fort Lauderdale International Boat Show, 2018."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -257487,7 +257658,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Tamanoeconomico / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -269422,7 +269593,30 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null
+   "photoCredit": null,
+   "socials": [
+    {
+     "platform": "x",
+     "url": "https://x.com/SlushHQ",
+     "verified_via": "website_in_account_bio (X profile url = slush.org via X API lookup; Instagram and LinkedIn bios say slush.org)",
+     "source_url": "https://slush.org/",
+     "accessed_at": "2026-11-26T21:10:00+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/slushhq/",
+     "verified_via": "website_in_account_bio (X profile url = slush.org via X API lookup; Instagram and LinkedIn bios say slush.org)",
+     "source_url": "https://slush.org/",
+     "accessed_at": "2026-11-26T21:10:00+01:00"
+    },
+    {
+     "platform": "linkedin",
+     "url": "https://www.linkedin.com/company/slush",
+     "verified_via": "website_in_account_bio (X profile url = slush.org via X API lookup; Instagram and LinkedIn bios say slush.org)",
+     "source_url": "https://slush.org/",
+     "accessed_at": "2026-11-26T21:10:00+01:00"
+    }
+   ]
   },
   {
    "event_id": "GCE-f1-qatar-grand-prix-2027",
@@ -270927,30 +271121,30 @@ window.ATLASDATA={
     {
      "platform": "facebook",
      "url": "https://www.facebook.com/rockenseine",
-     "verified_via": "linked from official site (browser pass)",
+     "verified_via": "linked_from_official_site (migrated from rock-en-seine-2027; re-checked 2026-11-26: brand accounts linked in rockenseine.com HTML)",
      "source_url": "https://www.rockenseine.com/",
-     "accessed_at": "2026-11-24"
+     "accessed_at": "2026-11-26T21:10:00+01:00"
     },
     {
      "platform": "x",
      "url": "https://x.com/rockenseine",
-     "verified_via": "linked from official site (browser pass)",
+     "verified_via": "linked_from_official_site (migrated from rock-en-seine-2027; re-checked 2026-11-26: brand accounts linked in rockenseine.com HTML)",
      "source_url": "https://www.rockenseine.com/",
-     "accessed_at": "2026-11-24"
+     "accessed_at": "2026-11-26T21:10:00+01:00"
     },
     {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@rockenseine",
-     "verified_via": "linked from official site (browser pass)",
+     "verified_via": "linked_from_official_site (migrated from rock-en-seine-2027; re-checked 2026-11-26: brand accounts linked in rockenseine.com HTML)",
      "source_url": "https://www.rockenseine.com/",
-     "accessed_at": "2026-11-24"
+     "accessed_at": "2026-11-26T21:10:00+01:00"
     },
     {
      "platform": "instagram",
      "url": "https://www.instagram.com/rockenseine",
-     "verified_via": "linked from official site (browser pass)",
+     "verified_via": "linked_from_official_site (migrated from rock-en-seine-2027; re-checked 2026-11-26: brand accounts linked in rockenseine.com HTML)",
      "source_url": "https://www.rockenseine.com/",
-     "accessed_at": "2026-11-24"
+     "accessed_at": "2026-11-26T21:10:00+01:00"
     }
    ]
   },
@@ -363625,32 +363819,32 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://media.dwtc.com/Exhibition-Halls-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-world-trade-centre/exhibition-halls-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-world-trade-centre/exhibition-halls-2026.pdf",
+     "local": false
     },
     {
      "title": "DWTC Za’abeel Halls (2026)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://media.dwtc.com/Za'abeel-Halls-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-world-trade-centre/zaabeel-halls-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-world-trade-centre/zaabeel-halls-2026.pdf",
+     "local": false
     },
     {
      "title": "DWTC Sheikh Saeed Halls (2026)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://media.dwtc.com/Sheikh-Saeed-Halls-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-world-trade-centre/sheikh-saeed-halls-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-world-trade-centre/sheikh-saeed-halls-2026.pdf",
+     "local": false
     },
     {
      "title": "DWTC Trade Centre Arena (2026)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://media.dwtc.com/Trade-Centre-Arena-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-world-trade-centre/trade-centre-arena-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-world-trade-centre/trade-centre-arena-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -363810,16 +364004,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-exhibition-centre-expo-city/dec-north-halls-factsheet-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-exhibition-centre-expo-city/dec-north-halls-factsheet-2026.pdf",
+     "local": false
     },
     {
      "title": "Dubai Exhibition Centre South Halls factsheet (January 2026)",
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf",
-     "href": "pdfs/venues/ae/dubai-exhibition-centre-expo-city/dec-south-halls-factsheet-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/dubai-exhibition-centre-expo-city/dec-south-halls-factsheet-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -364717,8 +364911,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://damstatic.kerzner.com/v1/static/ATR-MICE-BROCHURE-02OCT2025",
-     "href": "pdfs/venues/ae/atlantis-the-royal/mice-brochure-02oct2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/atlantis-the-royal/mice-brochure-02oct2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -364802,8 +364996,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://press.mandarinoriental.com/wp-content/uploads/2024/10/64dc27a851d52a0632f657180d0e3651.pdf",
-     "href": "pdfs/venues/ae/emirates-palace-mandarin-oriental/press-kit-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/emirates-palace-mandarin-oriental/press-kit-2024.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -364887,8 +365081,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://hiltoncontenthub.com/uploads/2025/10/Hotel-Fact-Sheet-230425.pdf",
-     "href": "pdfs/venues/ae/conrad-abu-dhabi-etihad-towers/hotel-fact-sheet-230425.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ae/conrad-abu-dhabi-etihad-towers/hotel-fact-sheet-230425.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -365409,8 +365603,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://larural.com.ar/wp-content/uploads/2026/07/LaRuralSA-CCE-2026-Presentation.pdf",
-     "href": "pdfs/venues/ar/la-rural-predio-ferial-buenos-aires/la-rural-cce-2026-presentation.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ar/la-rural-predio-ferial-buenos-aires/la-rural-cce-2026-presentation.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -365712,8 +365906,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "de",
      "source_url": "https://vieconcenter.at/assets/Presse/Press-Factsheet-VIECON.pdf",
-     "href": "pdfs/venues/at/viecon-messe-wien/viecon-press-factsheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/at/viecon-messe-wien/viecon-press-factsheet.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -366455,8 +366649,8 @@ window.ATLASDATA={
      "doc_type": "factsheet",
      "language": "en",
      "source_url": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
-     "href": "pdfs/venues/at/anantara-palais-hansen-vienna/anantara-palais-hansen-vienna-factsheet-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/at/anantara-palais-hansen-vienna/anantara-palais-hansen-vienna-factsheet-en.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -366721,24 +366915,24 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_exhibitors-Integrated-Exhibitions.pdf",
-     "href": "pdfs/venues/au/icc-sydney/icc-sydney-integrated-exhibitions-fact-sheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/icc-sydney/icc-sydney-integrated-exhibitions-fact-sheet.pdf",
+     "local": false
     },
     {
      "title": "ICC Sydney general fact sheet (January 2026)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/iccs_fact-sheets_general_1_v1g.pdf",
-     "href": "pdfs/venues/au/icc-sydney/icc-sydney-general-fact-sheet-january-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/icc-sydney/icc-sydney-general-fact-sheet-january-2026.pdf",
+     "local": false
     },
     {
      "title": "ICC Sydney venue capacity summary",
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://iccsydney.com.au/wp-content/uploads/2023/05/ICCS_fact-sheets_capacity_1_v1d.pdf",
-     "href": "pdfs/venues/au/icc-sydney/icc-sydney-venue-capacity-summary.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/icc-sydney/icc-sydney-venue-capacity-summary.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -366904,8 +367098,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.mcec.com.au/event-planning-resources/floor-plans-and-space-capacities",
-     "href": "pdfs/venues/au/melbourne-convention-and-exhibition-centre/mcec-floor-plans-and-space-capacities-guide-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/melbourne-convention-and-exhibition-centre/mcec-floor-plans-and-space-capacities-guide-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -367079,8 +367273,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://bcec.com.au/wp-content/uploads/BCEC-Floor-plan-brochure.pdf",
-     "href": "pdfs/venues/au/brisbane-convention-and-exhibition-centre/bcec-floor-plan-brochure-september-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/brisbane-convention-and-exhibition-centre/bcec-floor-plan-brochure-september-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -367167,8 +367361,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://nccc.com.au/wp-content/uploads/2025/Capacity-2025.pdf",
-     "href": "pdfs/venues/au/national-convention-centre-canberra/nccc-capacity-chart-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/national-convention-centre-canberra/nccc-capacity-chart-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -367441,8 +367635,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://www.adelaidecc.com.au/wp-content/uploads/2025/07/Exhibition-Handbook-2025-2026.pdf",
-     "href": "pdfs/venues/au/adelaide-convention-centre/adelaide-convention-centre-exhibition-handbook-2025-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/adelaide-convention-centre/adelaide-convention-centre-exhibition-handbook-2025-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -367829,8 +368023,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
-     "href": "pdfs/venues/au/the-fullerton-hotel-sydney/fullerton-hotel-sydney-meetings-and-events-guide.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/the-fullerton-hotel-sydney/fullerton-hotel-sydney-meetings-and-events-guide.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -368541,8 +368735,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
-     "href": "pdfs/venues/be/tour-and-taxis/tour-and-taxis-event-spaces.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/be/tour-and-taxis/tour-and-taxis-event-spaces.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -368822,8 +369016,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.ndk.bg/data/uploads/gallery/NDK_A%20brief%20presentation.pdf",
-     "href": "pdfs/venues/bg/national-palace-of-culture-sofia/ndk-brief-presentation.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/bg/national-palace-of-culture-sofia/ndk-brief-presentation.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -369036,16 +369230,16 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/6a3461b9b4cc4746b1707e0e_b%20FEXPOCRUZ%20Centro%20de%20Convenciones%20-%20Brochure_compressed%20(1).pdf",
-     "href": "pdfs/venues/bo/fexpocruz-centro-de-convenciones/fexpocruz-centro-de-convenciones-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/bo/fexpocruz-centro-de-convenciones/fexpocruz-centro-de-convenciones-brochure.pdf",
+     "local": false
     },
     {
      "title": "Fexpocruz official space-dimensions plan",
      "doc_type": "floorplan",
      "language": "es",
      "source_url": "https://cdn.prod.website-files.com/6690a19e0f5a04cb6cbb90c0/66d24b1b7350d056ccd9360f_PLANO%20FEXPO%20-%20DIMENSIONES.pdf",
-     "href": "pdfs/venues/bo/fexpocruz-centro-de-convenciones/fexpocruz-plano-dimensiones.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/bo/fexpocruz-centro-de-convenciones/fexpocruz-plano-dimensiones.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -369230,8 +369424,8 @@ window.ATLASDATA={
      "doc_type": "tech_spec",
      "language": "en",
      "source_url": "https://www.saopauloexpo.com.br/en/wp-content/uploads/2025/09/Tabelas_Infos-Tecnicas-SPE_EXHIBITION-CENTER.pdf",
-     "href": "pdfs/venues/br/sao-paulo-expo/sao-paulo-expo-technical-information-exhibition-center.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/br/sao-paulo-expo/sao-paulo-expo-technical-information-exhibition-center.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -369386,8 +369580,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "pt",
      "source_url": "https://distritoanhembi.com.br/wp-content/uploads/2024/08/ANH-planta-ilustrada-tecnica-2024-A3.pdf",
-     "href": "pdfs/venues/br/distrito-anhembi/distrito-anhembi-planta-tecnica-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/br/distrito-anhembi/distrito-anhembi-planta-tecnica-2024.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -370678,8 +370872,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.mtccc.com/wp-content/uploads/2025/10/MTCC-At-a-Glance_2025_re-aoda.pdf",
-     "href": "pdfs/venues/ca/metro-toronto-convention-centre/mtcc-at-a-glance-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ca/metro-toronto-convention-centre/mtcc-at-a-glance-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -370790,8 +370984,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://congresmtl.com/pdf/PCM_Floor_Plans_Capacities.pdf",
-     "href": "pdfs/venues/ca/palais-des-congres-de-montreal/palais-des-congres-montreal-floor-plans-capacities.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ca/palais-des-congres-de-montreal/palais-des-congres-montreal-floor-plans-capacities.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -371813,8 +372007,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.messe-basel.com/assets/mccb-venue-overview-en.pdf",
-     "href": "pdfs/venues/ch/messe-and-congress-center-basel/mccb-venue-overview-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ch/messe-and-congress-center-basel/mccb-venue-overview-en.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -371983,8 +372177,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.stcc.ch/wp-content/uploads/2021/06/SwissTech-Convention-Center-Brochure-May-2021-1.pdf",
-     "href": "pdfs/venues/ch/swisstech-convention-center/stcc-brochure-may-2021.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ch/swisstech-convention-center/stcc-brochure-may-2021.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -372727,8 +372921,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://stage-one.ch/wp-content/uploads/2026/04/StageOne-Dokumentation-04.26-eng.pdf",
-     "href": "pdfs/venues/ch/stageone-zurich/stageone-documentation-04-2026-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ch/stageone-zurich/stageone-documentation-04-2026-en.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -374426,8 +374620,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "es",
      "source_url": "https://www.corferias.com/pdf/relevant/2026/comunicado-corferias-2030-12-marzo-2026.pdf",
-     "href": "pdfs/venues/co/corferias/corferias-modernizacion-comunicado-12-marzo-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/co/corferias/corferias-modernizacion-comunicado-12-marzo-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -374589,8 +374783,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://plazamayor.com.co/wp-content/uploads/docs/portafolio-de-servicios.pdf",
-     "href": "pdfs/venues/co/plaza-mayor-medellin/plaza-mayor-portafolio-de-servicios.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/co/plaza-mayor-medellin/plaza-mayor-portafolio-de-servicios.pdf",
+     "local": false
     }
    ]
   },
@@ -374631,8 +374825,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://valledelpacifico.co/wp-content/uploads/2026/02/PRESENTACION-Ferial.pdf",
-     "href": "pdfs/venues/co/centro-de-eventos-valle-del-pacifico/valle-del-pacifico-presentacion-ferial.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/co/centro-de-eventos-valle-del-pacifico/valle-del-pacifico-presentacion-ferial.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -374701,8 +374895,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "es",
      "source_url": "https://agora-bogota.com/pdf/tabla-capacidades-2023.pdf",
-     "href": "pdfs/venues/co/agora-bogota/agora-bogota-tabla-capacidades-2023.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/co/agora-bogota/agora-bogota-tabla-capacidades-2023.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -375004,8 +375198,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://costaricacc.com/wp-content/uploads/2025/03/Capacity-Chart.pdf",
-     "href": "pdfs/venues/cr/costa-rica-convention-center/crcc-capacity-chart-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/cr/costa-rica-convention-center/crcc-capacity-chart-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -375537,8 +375731,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.o2universum.cz/Brozura_O2universum_2024.pdf",
-     "href": "pdfs/venues/cz/o2-universum/o2-universum-brochure-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/cz/o2-universum/o2-universum-brochure-2024.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -376079,8 +376273,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "de",
      "source_url": "https://d2n1n6byqxibyi.cloudfront.net/asset/933560888063/document_btj2i01d9d5a57i0foevb9u34b/1877052_DE_hallenuebersicht.pdf",
-     "href": "pdfs/venues/de/messe-muenchen/hallenuebersicht.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/messe-muenchen/hallenuebersicht.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -376182,16 +376376,16 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.messe.de/files/files/000/media/downloads/locations/factsheet-hallen-pavillons.pdf",
-     "href": "pdfs/venues/de/messegelande-hannover/factsheet-halls-pavilions-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/messegelande-hannover/factsheet-halls-pavilions-en.pdf",
+     "local": false
     },
     {
      "title": "Hannover location guide (Visit Hannover)",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.visit-hannover.com/en/content/download/914069/file/_Location_Guide_16_06_26_Digital_Gesamt_ES.pdf",
-     "href": "pdfs/venues/de/messegelande-hannover/hannover-location-guide.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/messegelande-hannover/hannover-location-guide.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -377963,16 +378157,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.estrel.com/files/downloads/congress/20260126_Kapazit%C3%A4ten%20Raummieten_Capacities%20and%20Room%20Rental%20Prices.pdf",
-     "href": "pdfs/venues/de/estrel-berlin/estrel-congress-capacities-2026-01-26.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/estrel-berlin/estrel-congress-capacities-2026-01-26.pdf",
+     "local": false
     },
     {
      "title": "Estrel official press kit (Pressemappe)",
      "doc_type": "brochure",
      "language": "de",
      "source_url": "https://www.estrel.com/files/downloads/hotel/pressemappe_estrel.pdf",
-     "href": "pdfs/venues/de/estrel-berlin/estrel-pressemappe.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/estrel-berlin/estrel-pressemappe.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -378069,8 +378263,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.kempinski.com/en/content/download/86060/file/Press%20Kit%20-%20Hotel%20Adlon%20Kempinski%20Berlin.pdf",
-     "href": "pdfs/venues/de/hotel-adlon-kempinski-berlin/press-kit-hotel-adlon-kempinski-berlin.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/hotel-adlon-kempinski-berlin/press-kit-hotel-adlon-kempinski-berlin.pdf",
+     "local": false
     }
    ],
    "hotel_name": "Hotel Adlon Kempinski Berlin",
@@ -378191,8 +378385,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.bayerischerhof.de/media/Hotel_Bayerischer_Hof/Downloads/Veranstaltungen/HBH_Konferenzbroschuere_EN_2025.pdf",
-     "href": "pdfs/venues/de/hotel-bayerischer-hof/hotel-bayerischer-hof-konferenzbroschuere-en-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/hotel-bayerischer-hof/hotel-bayerischer-hof-konferenzbroschuere-en-2025.pdf",
+     "local": false
     }
    ],
    "hotel_name": "Hotel Bayerischer Hof",
@@ -378547,8 +378741,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://bellacenter.dk/media/0jwfcitg/bcc_capacitychart_web_1905_2025.pdf",
-     "href": "pdfs/venues/dk/bella-center-copenhagen/bella-center-copenhagen-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/dk/bella-center-copenhagen/bella-center-copenhagen-capacity-chart.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -379267,8 +379461,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://kultuurikatel.ee/static/KATEL_ruumid_ENG_2025-2.pdf",
-     "href": "pdfs/venues/ee/kultuurikatel/kultuurikatel-capacity-of-all-rooms.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ee/kultuurikatel/kultuurikatel-capacity-of-all-rooms.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -379758,8 +379952,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://guestevents.firabarcelona.com/app/uploads/2021/12/fira_granvia.pdf",
-     "href": "pdfs/venues/es/fira-barcelona-gran-via/fira-gran-via-venue-overview.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/fira-barcelona-gran-via/fira-gran-via-venue-overview.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -379997,8 +380191,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://fycma.com/wp-content/uploads/2018/10/Folleto-FYCMA.pdf",
-     "href": "pdfs/venues/es/fycma-malaga/folleto-fycma.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/fycma-malaga/folleto-fycma.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -380479,8 +380673,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "es",
      "source_url": "https://www.feriavalencia.com/wp-content/uploads/2015/11/FORO-CENTRO-FERIA-VALENCIA.pdf",
-     "href": "pdfs/venues/es/feria-valencia/foro-centro-2015.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/feria-valencia/foro-centro-2015.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -380599,8 +380793,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "es",
      "source_url": "https://bilbaoexhibitioncentre.com/wp-content/uploads/2021/06/dossier.pdf",
-     "href": "pdfs/venues/es/bilbao-exhibition-centre/bec-dossier.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/bilbao-exhibition-centre/bec-dossier.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -380785,8 +380979,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://madrid.intercontinental.com/wp-content/uploads/2023/05/InterContinental-Madrid_Factsheet_EN.pdf",
-     "href": "pdfs/venues/es/intercontinental-madrid/intercontinental-madrid-factsheet-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/intercontinental-madrid/intercontinental-madrid-factsheet-en.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -381262,8 +381456,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.messukeskus.com/wp-content/uploads/messukeskus-brochure-2026.pdf",
-     "href": "pdfs/venues/fi/messukeskus-helsinki/messukeskus-brochure-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fi/messukeskus-helsinki/messukeskus-brochure-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -381851,8 +382045,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "fr",
      "source_url": "https://www.gl-lyonevents.com/sites/default/files/2024-06/EurexpoLyon_PlanGeneralEurexpo.pdf",
-     "href": "pdfs/venues/fr/eurexpo-lyon/plan-general-eurexpo.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fr/eurexpo-lyon/plan-general-eurexpo.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -382382,16 +382576,16 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "fr",
      "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2022/03/21/1233/Hyatt-Regency-Paris-Etoile-Fact-Sheet-English.pdf",
-     "href": "pdfs/venues/fr/hyatt-regency-paris-etoile/hyatt-regency-paris-etoile-fact-sheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fr/hyatt-regency-paris-etoile/hyatt-regency-paris-etoile-fact-sheet.pdf",
+     "local": false
     },
     {
      "title": "Hyatt Regency Paris Étoile official capacity chart",
      "doc_type": "capacity_chart",
      "language": "fr",
      "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2019/08/15/1026/Hyatt-Regency-Paris-Etoile-Capacity-Chart-French.pdf",
-     "href": "pdfs/venues/fr/hyatt-regency-paris-etoile/hyatt-regency-paris-etoile-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fr/hyatt-regency-paris-etoile/hyatt-regency-paris-etoile-capacity-chart.pdf",
+     "local": false
     }
    ],
    "hotel_name": "Hyatt Regency Paris Étoile",
@@ -382595,8 +382789,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "fr",
      "source_url": "https://parislegrand.intercontinental.com/assets/uploads/2025/05/Meeting-Brochure-DL-FR-digital-1.pdf",
-     "href": "pdfs/venues/fr/intercontinental-paris-le-grand/meeting-brochure-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fr/intercontinental-paris-le-grand/meeting-brochure-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -382843,8 +383037,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.peninsula.com/-/media/the-peninsula-paris/final_the-peninsula-paris-_-meeting-_-event-fact-sheet-_-may-2022_acc.pdf",
-     "href": "pdfs/venues/fr/the-peninsula-paris/the-peninsula-paris-meetings-events-fact-sheet-may-2022.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/fr/the-peninsula-paris/the-peninsula-paris-meetings-events-fact-sheet-may-2022.pdf",
+     "local": false
     }
    ],
    "hotel_name": "The Peninsula Paris",
@@ -383021,16 +383215,16 @@ window.ATLASDATA={
      "doc_type": "tech_spec",
      "language": "en",
      "source_url": "https://www.excel.london/uploads/excel-london-vital-stats---metric---may-2025.pdf",
-     "href": "pdfs/venues/gb/excel-london/vital-stats-metric-may-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/excel-london/vital-stats-metric-may-2025.pdf",
+     "local": false
     },
     {
      "title": "ExCeL London vital statistics — event halls (April 2026)",
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.excel.london/uploads/excel_vital_stats-event-halls_uk_april-2026.pdf",
-     "href": "pdfs/venues/gb/excel-london/vital-stats-event-halls-april-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/excel-london/vital-stats-event-halls-april-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -384688,8 +384882,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.marriott.com/content/dam/marriott-digital/jw/emea/hws/l/longh/en_us/document/assets/jw-longh-meeting-brochure-28851.pdf",
-     "href": "pdfs/venues/gb/jw-marriott-grosvenor-house-london/jw-grosvenor-house-meeting-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/jw-marriott-grosvenor-house-london/jw-grosvenor-house-meeting-brochure.pdf",
+     "local": false
     }
    ],
    "hotel_name": "JW Marriott Grosvenor House London",
@@ -384762,8 +384956,8 @@ window.ATLASDATA={
      "doc_type": "factsheet",
      "language": "en",
      "source_url": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
-     "href": "pdfs/venues/gb/park-plaza-westminster-bridge/ppwb-meetings-events-factsheet-june-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/park-plaza-westminster-bridge/ppwb-meetings-events-factsheet-june-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -384861,8 +385055,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.landmarklondon.co.uk/wp-content/uploads/2025/09/Events-Rooms-Capacity-Chart-2025.pdf",
-     "href": "pdfs/venues/gb/the-landmark-london/landmark-london-events-rooms-capacity-chart-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/the-landmark-london/landmark-london-events-rooms-capacity-chart-2025.pdf",
+     "local": false
     }
    ],
    "hotel_name": "The Landmark London",
@@ -384952,8 +385146,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf",
-     "href": "pdfs/venues/gb/intercontinental-london-park-lane/ic-london-park-lane-meetings-events-brochure-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/intercontinental-london-park-lane/ic-london-park-lane-meetings-events-brochure-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387330,8 +387524,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387381,8 +387575,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387439,8 +387633,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387511,8 +387705,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387567,8 +387761,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387644,8 +387838,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387707,8 +387901,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387802,16 +387996,16 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     },
     {
      "title": "The Westbury fact sheet 2026",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
-     "href": "pdfs/venues/ie/the-westbury/the-westbury-fact-sheet-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/the-westbury/the-westbury-fact-sheet-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -387918,8 +388112,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -388019,8 +388213,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -388146,8 +388340,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -388257,8 +388451,8 @@ window.ATLASDATA={
      "doc_type": "other",
      "language": "en",
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
-     "href": "pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -388577,8 +388771,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.villagaiety.com/media/1746/useful-information-for-visiting-companies.pdf",
-     "href": "pdfs/venues/im/villa-marina-douglas/villagaiety-useful-information-for-visiting-companies.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/im/villa-marina-douglas/villagaiety-useful-information-for-visiting-companies.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -388715,8 +388909,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.biec.in/pdf/BIEC-BROCHURE.pdf",
-     "href": "pdfs/venues/in/bangalore-international-exhibition-centre/biec-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/in/bangalore-international-exhibition-centre/biec-brochure.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -389353,16 +389547,16 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://theleelaassets.com/static/factsheet/the-leela-mumbai-factsheet-july-2024-1-00bb38ac.pdf",
-     "href": "pdfs/venues/in/the-leela-mumbai/the-leela-mumbai-factsheet-july-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/in/the-leela-mumbai/the-leela-mumbai-factsheet-july-2024.pdf",
+     "local": false
     },
     {
      "title": "The Leela Mumbai capacity chart",
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://theleelaassets.com/static/2026-04/the-leela-mumbai-capacity-chart.pdf",
-     "href": "pdfs/venues/in/the-leela-mumbai/the-leela-mumbai-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/in/the-leela-mumbai/the-leela-mumbai-capacity-chart.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -390291,8 +390485,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.dorchestercollection.com/media/bsfnvlq4/hotel-principe-di-savoia-groups-brochure-eng.pdf",
-     "href": "pdfs/venues/it/hotel-principe-di-savoia/hotel-principe-di-savoia-groups-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/it/hotel-principe-di-savoia/hotel-principe-di-savoia-groups-brochure.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -390957,16 +391151,16 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.bigsight.jp/english/organizer/download/pdf/facility_information.pdf",
-     "href": "pdfs/venues/jp/tokyo-big-sight/tokyo-big-sight-facility-information-guide.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/jp/tokyo-big-sight/tokyo-big-sight-facility-information-guide.pdf",
+     "local": false
     },
     {
      "title": "Tokyo Big Sight Annual Report 2024 (English)",
      "doc_type": "other",
      "language": "en",
      "source_url": "https://www.bigsight.jp/english/visitor/company/pdf/tokyobigsight_annualreport_2024_en.pdf",
-     "href": "pdfs/venues/jp/tokyo-big-sight/tokyo-big-sight-annual-report-2024-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/jp/tokyo-big-sight/tokyo-big-sight-annual-report-2024-en.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -391187,8 +391381,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://lp.pacifico.co.jp/hubfs/exhi/guide/english/Exhibition_Hall_en.pdf",
-     "href": "pdfs/venues/jp/pacifico-yokohama/pacifico-yokohama-exhibition-hall-guide-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/jp/pacifico-yokohama/pacifico-yokohama-exhibition-hall-guide-en.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -391980,8 +392174,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
-     "href": "pdfs/venues/jp/hotel-new-otani-tokyo/hotel-new-otani-tokyo-mice-brochure-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/jp/hotel-new-otani-tokyo/hotel-new-otani-tokyo-mice-brochure-en.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -394301,8 +394495,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "fr",
      "source_url": "https://mamounia.com/media/original/631337da31dab/e-brochure-version-fr-2025.pdf",
-     "href": "pdfs/venues/ma/la-mamounia/e-brochure-version-fr-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ma/la-mamounia/e-brochure-version-fr-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -394755,8 +394949,8 @@ window.ATLASDATA={
      "doc_type": "factsheet",
      "language": "en",
      "source_url": "https://assets.sandsresortsmacao.cn/content/dam/macao/venetianmacao/master/main/home/pdfs/venetian-macao-mice-factsheet-en.pdf",
-     "href": "pdfs/venues/mo/venetian-macao-cotai-expo/venetian-macao-mice-factsheet-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mo/venetian-macao-cotai-expo/venetian-macao-mice-factsheet-en.pdf",
+     "local": false
     }
    ]
   },
@@ -395229,16 +395423,16 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://assets.hiltonstatic.com/images/v1649843084/dx/wp/mlahitw-hilton-malta/media-library/Meetings__Events_Brochure_2_FINAL-ua-1/Meetings__Events_Brochure_2_FINAL-ua-1.pdf?_i=AA",
-     "href": "pdfs/venues/mt/hilton-malta/meetings-events-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/hilton-malta/meetings-events-brochure.pdf",
+     "local": false
     },
     {
      "title": "Hilton Malta Making Moments events brochure",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://assets.hiltonstatic.com/images/v1692196617/dx/wp/mlahitw-hilton-malta/media-library/Making-Moments-Events-Brochure-FINAL-ua/Making-Moments-Events-Brochure-FINAL-ua.pdf?_i=AA",
-     "href": "pdfs/venues/mt/hilton-malta/making-moments-events-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/hilton-malta/making-moments-events-brochure.pdf",
+     "local": false
     }
    ]
   },
@@ -395350,16 +395544,16 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://malta.intercontinental.com/wp-content/uploads/2022/05/InterContinental-Malta-MICE-factsheet-2019-Interactive.pdf",
-     "href": "pdfs/venues/mt/intercontinental-malta/mice-factsheet-2019.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/intercontinental-malta/mice-factsheet-2019.pdf",
+     "local": false
     },
     {
      "title": "InterContinental Malta events and conferences brochure",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://digital.ihg.com/is/content/ihg/intercontinental-st.-julians-10722946809-original?fmt=pdf",
-     "href": "pdfs/venues/mt/intercontinental-malta/events-conferences-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/intercontinental-malta/events-conferences-brochure.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -395494,16 +395688,16 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/st-georges-bay-brochure-event.pdf",
-     "href": "pdfs/venues/mt/corinthia-st-georges-bay/events-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/corinthia-st-georges-bay/events-brochure.pdf",
+     "local": false
     },
     {
      "title": "Corinthia St George’s Bay MICE brochure (Feb 2024)",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.corinthia.com/globalassets/hotel-st-georges-bay-malta/documents/brochures/mice-brochure-022024.pdf",
-     "href": "pdfs/venues/mt/corinthia-st-georges-bay/mice-brochure-022024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/corinthia-st-georges-bay/mice-brochure-022024.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -396315,8 +396509,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://hotel.hardrock.com/malta/files/7484/Breakout_Brochure.pdf",
-     "href": "pdfs/venues/mt/hard-rock-hotel-malta/breakout-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/hard-rock-hotel-malta/breakout-brochure.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -396399,8 +396593,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/03/10/1120/Hyatt-Regency-Malta-Floor-Plans-English.pdf",
-     "href": "pdfs/venues/mt/hyatt-regency-malta/floor-plans-english.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mt/hyatt-regency-malta/floor-plans-english.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -397344,8 +397538,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "es",
      "source_url": "https://centrobanamex.mx/wp-content/themes/cititheme/img/CENTRO_CITIBANAMEX_TABLA_DE_CAPACIDADES_SALAS_SALONES.pdf",
-     "href": "pdfs/venues/mx/centro-citibanamex/centro-citibanamex-tabla-de-capacidades-salas-salones.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/mx/centro-citibanamex/centro-citibanamex-tabla-de-capacidades-salas-salones.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -398928,8 +399122,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://wiccnamibia.com/wp-content/uploads/2025/01/WICC-Factsheet-2025.pdf",
-     "href": "pdfs/venues/na/windhoek-international-conference-centre/wicc-factsheet-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/na/windhoek-international-conference-centre/wicc-factsheet-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -399135,32 +399329,32 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall01-en.pdf",
-     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-01-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rai-amsterdam/factsheet-hall-01-en.pdf",
+     "local": false
     },
     {
      "title": "RAI Amsterdam Hall 3 factsheet (EN)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall03-en.pdf",
-     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-03-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rai-amsterdam/factsheet-hall-03-en.pdf",
+     "local": false
     },
     {
      "title": "RAI Amsterdam Hall 12 factsheet (EN)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://edge.sitecorecloud.io/raiamsterda13f7-raidigitalpdb6c-productionf3f5-ef30/media/project/rai-amsterdam-xmc/rai/rai/organiser/documenten/factsheets/hallen/hall12-en.pdf",
-     "href": "pdfs/venues/nl/rai-amsterdam/factsheet-hall-12-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rai-amsterdam/factsheet-hall-12-en.pdf",
+     "local": false
     },
     {
      "title": "RAI Amsterdam annual report 2025",
      "doc_type": "other",
      "language": "en",
      "source_url": "https://annualreports.rai.nl/annual-report-2025/pdf-download/$13143/$13144/RAI%20Annual%20report%202025.pdf",
-     "href": "pdfs/venues/nl/rai-amsterdam/annual-report-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rai-amsterdam/annual-report-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -399270,8 +399464,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.jaarbeurs.nl/wp-content/uploads/2025/10/Royal-Jaarbeurs-Brochure-2025.pdf",
-     "href": "pdfs/venues/nl/jaarbeurs-utrecht/royal-jaarbeurs-brochure-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/jaarbeurs-utrecht/royal-jaarbeurs-brochure-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -399365,8 +399559,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "nl",
      "source_url": "https://www.expohouten.nl/wp-content/uploads/2025/12/Expo-Houten-Eventbrochure-2026.pdf",
-     "href": "pdfs/venues/nl/expo-houten/eventbrochure-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/expo-houten/eventbrochure-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -399680,8 +399874,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "nl",
      "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
-     "href": "pdfs/venues/nl/meervaart-amsterdam/meetings-events-informatiemap-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/meervaart-amsterdam/meetings-events-informatiemap-2026.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -399820,16 +400014,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.ahoy.nl/files/files/documenten/rotterdam_ahoy_racc-capacity-overview-2026-03.pdf",
-     "href": "pdfs/venues/nl/rotterdam-ahoy/racc-capacity-overview-2026-03.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rotterdam-ahoy/racc-capacity-overview-2026-03.pdf",
+     "local": false
     },
     {
      "title": "Rotterdam Ahoy RACC venue guide (June 2026)",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://portal.ahoy.nl/files/files/venueguides/rotterdam_ahoy_venue-guide-en-racc-a4-june.pdf",
-     "href": "pdfs/venues/nl/rotterdam-ahoy/racc-venue-guide-june-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/rotterdam-ahoy/racc-venue-guide-june-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -400238,8 +400432,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.amstelhotel.com/wp-content/uploads/2026/09/Amstel-Events-Brochure-2026-EN_08.09.26_compressed.pdf",
-     "href": "pdfs/venues/nl/intercontinental-amstel-amsterdam/amstel-hotel-events-brochure-2026-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/intercontinental-amstel-amsterdam/amstel-hotel-events-brochure-2026-en.pdf",
+     "local": false
     }
    ],
    "hotel_name": "InterContinental Amstel Amsterdam",
@@ -400800,8 +400994,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.takina.co.nz/assets/Planning-guides/Capacity-/Takina-Venues-Room-Capacity-2024_v3.pdf",
-     "href": "pdfs/venues/nz/takina-wellington/takina-room-capacity-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nz/takina-wellington/takina-room-capacity-2024.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -400933,16 +401127,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.tepae.co.nz/assets/documents/Capacity-table.pdf",
-     "href": "pdfs/venues/nz/te-pae-christchurch/te-pae-capacity-table.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nz/te-pae-christchurch/te-pae-capacity-table.pdf",
+     "local": false
     },
     {
      "title": "Te Pae venue guide",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.tepae.co.nz/assets/documents/Venue-Guide.pdf",
-     "href": "pdfs/venues/nz/te-pae-christchurch/te-pae-venue-guide.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nz/te-pae-christchurch/te-pae-venue-guide.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -401224,8 +401418,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://cdn.aucklandunlimited.com/conventions/assets/media/2025-acve-vec-web.pdf",
-     "href": "pdfs/venues/nz/viaduct-events-centre/viaduct-events-centre-factsheet-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nz/viaduct-events-centre/viaduct-events-centre-factsheet-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -401382,8 +401576,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://ocec.om/storage/2025/03/ocec-space-inclusions-all-spaces.pdf",
-     "href": "pdfs/venues/om/oman-convention-exhibition-centre/ocec-event-space-inclusions.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/om/oman-convention-exhibition-centre/ocec-event-space-inclusions.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -401595,8 +401789,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "es",
      "source_url": "https://panamaconventions.com/wp-content/uploads/2022/06/Ficha-Informativa-Panama-Convention-Center-2.pdf",
-     "href": "pdfs/venues/pa/panama-convention-center/panama-convention-center-factsheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pa/panama-convention-center/panama-convention-center-factsheet.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -401942,8 +402136,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2021/08/10/0900/Grand-Hyatt-Manila-Capacity-Chart-English.pdf",
-     "href": "pdfs/venues/ph/grand-hyatt-manila/grand-hyatt-manila-capacity-chart-2021.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ph/grand-hyatt-manila/grand-hyatt-manila-capacity-chart-2021.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -402077,8 +402271,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf",
-     "href": "pdfs/venues/ph/smx-convention-center-manila/smx-manila-capacity-2019.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ph/smx-convention-center-manila/smx-manila-capacity-2019.pdf",
+     "local": false
     }
    ]
   },
@@ -403197,40 +403391,40 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://fil.lisbonvenues.pt/wp-content/uploads/sites/16/2023/02/FIL_FLOORPLAN.pdf",
-     "href": "pdfs/venues/pt/fil-lisbon/fil-general-floorplan.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/fil-lisbon/fil-general-floorplan.pdf",
+     "local": false
     },
     {
      "title": "FIL Lisbon Pavilion 1 floor plan",
      "doc_type": "floor_plan",
      "language": "pt",
      "source_url": "https://fil.lisbonvenues.pt/wp-content/uploads/sites/16/2023/02/FIL_PLANTA-P1.pdf",
-     "href": "pdfs/venues/pt/fil-lisbon/fil-pavilion-1-floorplan.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/fil-lisbon/fil-pavilion-1-floorplan.pdf",
+     "local": false
     },
     {
      "title": "FIL Lisbon Pavilion 2 floor plan",
      "doc_type": "floor_plan",
      "language": "pt",
      "source_url": "https://fil.lisbonvenues.pt/wp-content/uploads/sites/16/2023/02/FIL_PLANTA-P2.pdf",
-     "href": "pdfs/venues/pt/fil-lisbon/fil-pavilion-2-floorplan.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/fil-lisbon/fil-pavilion-2-floorplan.pdf",
+     "local": false
     },
     {
      "title": "FIL Lisbon Pavilion 3 floor plan",
      "doc_type": "floor_plan",
      "language": "pt",
      "source_url": "https://fil.lisbonvenues.pt/wp-content/uploads/sites/16/2023/02/FIL_PLANTA-P3.pdf",
-     "href": "pdfs/venues/pt/fil-lisbon/fil-pavilion-3-floorplan.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/fil-lisbon/fil-pavilion-3-floorplan.pdf",
+     "local": false
     },
     {
      "title": "FIL Lisbon Pavilion 4 floor plan",
      "doc_type": "floor_plan",
      "language": "pt",
      "source_url": "https://fil.lisbonvenues.pt/wp-content/uploads/sites/16/2023/02/FIL_PLANTA-P4.pdf",
-     "href": "pdfs/venues/pt/fil-lisbon/fil-pavilion-4-floorplan.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/fil-lisbon/fil-pavilion-4-floorplan.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -404244,8 +404438,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.the-yeatman-hotel.com/fotos/editor2/FS_The_Yeatman_MICE_ING.pdf",
-     "href": "pdfs/venues/pt/the-yeatman/mice-fact-sheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/the-yeatman/mice-fact-sheet.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -404433,16 +404627,16 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.sanahotels.com/media/cmqf1n0n/portfolio-comercial-epic-sana-marques-en.pdf",
-     "href": "pdfs/venues/pt/epic-sana-marques-lisbon/portfolio-comercial-epic-sana-marques-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/epic-sana-marques-lisbon/portfolio-comercial-epic-sana-marques-en.pdf",
+     "local": false
     },
     {
      "title": "EPIC SANA Marquês factsheet (EN)",
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.sanahotels.com/media/e05lv0aa/factsheet-epic-sana-marques-en.pdf",
-     "href": "pdfs/venues/pt/epic-sana-marques-lisbon/factsheet-epic-sana-marques-en.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/pt/epic-sana-marques-lisbon/factsheet-epic-sana-marques-en.pdf",
+     "local": false
     }
    ],
    "hotel_name": "EPIC SANA Marquês",
@@ -405157,8 +405351,8 @@ window.ATLASDATA={
      "doc_type": "factsheet",
      "language": "en",
      "source_url": "https://www.qatartourism.com/content/dam/visitqatar/img/venue-finder/5-star-hotels/sheraton-grand-doha-resort/Sheraton-Grand-Doha-FactSheet.pdf",
-     "href": "pdfs/venues/qa/sheraton-grand-doha-resort-and-convention-hotel/sheraton-grand-doha-qatartourism-factsheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/qa/sheraton-grand-doha-resort-and-convention-hotel/sheraton-grand-doha-qatartourism-factsheet.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -405789,8 +405983,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://sajam.rs/wp-content/uploads/prezentacija_bgsajam_corpo_eng_2025.pdf",
-     "href": "pdfs/venues/rs/belgrade-fair/belgrade-fair-corporate-presentation-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/rs/belgrade-fair/belgrade-fair-corporate-presentation-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -407326,8 +407520,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "sv",
      "source_url": "https://stockholmsmassan.se/wp-content/uploads/2025/11/SM_KGE_Oversikt2025_nov_FINAL_low.pdf",
-     "href": "pdfs/venues/se/stockholmsmassan/stockholmsmassan-overview-nov-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/se/stockholmsmassan/stockholmsmassan-overview-nov-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -407919,16 +408113,16 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/Singapore-EXPO-Sales-Brochure.pdf",
-     "href": "pdfs/venues/sg/singapore-expo/sales-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/sg/singapore-expo/sales-brochure.pdf",
+     "local": false
     },
     {
      "title": "Apex @ EXPO brochure",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.singaporeexpo.com.sg/wp-content/uploads/2026/07/",
-     "href": "pdfs/venues/sg/singapore-expo/apex-at-expo-brochure.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/sg/singapore-expo/apex-at-expo-brochure.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -409684,8 +409878,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.centarahotelsresorts.com/centaragrand/sites/centara-centaragrand/files/2025-02/CGCW_BCC%20Brochure%202025.pdf",
-     "href": "pdfs/venues/th/centara-grand-and-bangkok-convention-centre-at-centralworld/cgcw-bcc-brochure-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/th/centara-grand-and-bangkok-convention-centre-at-centralworld/cgcw-bcc-brochure-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -410081,8 +410275,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-en-2025-05.pdf",
-     "href": "pdfs/venues/tr/istanbul-expo-center/ifm-technical-information-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/tr/istanbul-expo-center/ifm-technical-information-2025.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -411582,16 +411776,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.spekeresort.com/wp-content/uploads/2026/09/Capacity-Chart.pdf",
-     "href": "pdfs/venues/ug/speke-resort-convention-centre/speke-resort-convention-centre-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ug/speke-resort-convention-centre/speke-resort-convention-centre-capacity-chart.pdf",
+     "local": false
     },
     {
      "title": "SRCC brochure, May 2025",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://srcc-ug.com/wp-content/uploads/2025/05/SRCC%20BROCHURE%202025%20MAY.pdf",
-     "href": "pdfs/venues/ug/speke-resort-convention-centre/srcc-brochure-2025-may.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ug/speke-resort-convention-centre/srcc-brochure-2025-may.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -411676,8 +411870,8 @@ window.ATLASDATA={
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://res.cloudinary.com/simpleview/image/upload/v1724280629/clients/lasvegas/LVCC_Brochure_July2024_db66b844_b86a_477a_b3ad_9e68621cf531_pages_56557153-0397-43b7-b83e-20e5f11cc4be.pdf",
-     "href": "pdfs/venues/us/las-vegas-convention-center/lvcc-brochure-july-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/las-vegas-convention-center/lvcc-brochure-july-2024.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -412210,8 +412404,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://www.gwcc.com/docs/GWCC-Floor-Plan-Booklet-10.22.25.pdf",
-     "href": "pdfs/venues/us/georgia-world-congress-center/floor-plan-booklet-2025-10.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/georgia-world-congress-center/floor-plan-booklet-2025-10.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -412387,8 +412581,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.visitsandiego.com/media/acfupload/Exhibit_G_-_Exhibit_and_Meeting_Space_Measurements_copy_1.pdf",
-     "href": "pdfs/venues/us/san-diego-convention-center/exhibit-and-meeting-space-measurements.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/san-diego-convention-center/exhibit-and-meeting-space-measurements.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -412607,8 +412801,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://assets.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blte9788bb27f9e0529/mandalay-bay-meetings-capacities-and-dimensions-new-version-two.pdf",
-     "href": "pdfs/venues/us/mandalay-bay-convention-center/capacities-and-dimensions.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/mandalay-bay-convention-center/capacities-and-dimensions.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -413162,16 +413356,16 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://www.laconventioncenter.com/assets/doc/LACC.2024-Floor-Plans-9ae0be744b.pdf",
-     "href": "pdfs/venues/us/los-angeles-convention-center/lacc-2024-floor-plans.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/los-angeles-convention-center/lacc-2024-floor-plans.pdf",
+     "local": false
     },
     {
      "title": "LACC Level 1 exhibit halls brochure (2026)",
      "doc_type": "brochure",
      "language": "en",
      "source_url": "https://www.laconventioncenter.com/assets/doc/Level1-ExhibitHalls-2026-0332fea215.pdf",
-     "href": "pdfs/venues/us/los-angeles-convention-center/level1-exhibit-halls-2026.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/los-angeles-convention-center/level1-exhibit-halls-2026.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -413639,8 +413833,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.phoenixconventioncenter.com/pdf/Facility%20Guide.pdf",
-     "href": "pdfs/venues/us/phoenix-convention-center/facility-guide.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/phoenix-convention-center/facility-guide.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -414208,8 +414402,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://s202.q4cdn.com/508919455/files/doc_downloads/factsheets/caesars_forum/CAESARS-FORUM-fact-sheet-2022-UPDATED.pdf",
-     "href": "pdfs/venues/us/caesars-forum/fact-sheet-2022.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/caesars-forum/fact-sheet-2022.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -414328,8 +414522,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://www.sanjose.org/pdf/san-jose-convention-center-at-a-glance",
-     "href": "pdfs/venues/us/san-jose-mcenery-convention-center/at-a-glance.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/san-jose-mcenery-convention-center/at-a-glance.pdf",
+     "local": false
     }
    ],
    "photos": [
@@ -414468,16 +414662,16 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.hiltonchicagomeetings.com/images/2024/06/111423_HC_CapacityChart_SecondFloor.pdf",
-     "href": "pdfs/venues/us/hilton-chicago/hilton-chicago-capacity-chart-second-floor-2024.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/hilton-chicago/hilton-chicago-capacity-chart-second-floor-2024.pdf",
+     "local": false
     },
     {
      "title": "Hilton Chicago fact sheet",
      "doc_type": "factsheet",
      "language": "en",
      "source_url": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
-     "href": "pdfs/venues/us/hilton-chicago/hilton-chicago-fact-sheet.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/hilton-chicago/hilton-chicago-fact-sheet.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -421005,8 +421199,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.visitwynn.com/documents/Wynn_Metric_Capacity_Chart.pdf",
-     "href": "pdfs/venues/us/wynn-las-vegas/wynn-las-vegas-metric-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/wynn-las-vegas/wynn-las-vegas-metric-capacity-chart.pdf",
+     "local": false
     }
    ],
    "hotel_name": "Wynn Las Vegas",
@@ -421758,8 +421952,8 @@ window.ATLASDATA={
      "doc_type": "capacity_chart",
      "language": "en",
      "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
-     "href": "pdfs/venues/us/encore-las-vegas/encore-las-vegas-metric-capacity-chart.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/encore-las-vegas/encore-las-vegas-metric-capacity-chart.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -422504,8 +422698,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://www.cticc.co.za/wp-content/uploads/2026/01/CTICC-Venue-Floor-Plans.pdf",
-     "href": "pdfs/venues/za/cape-town-international-convention-centre/cticc-floor-plans.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/za/cape-town-international-convention-centre/cticc-floor-plans.pdf",
+     "local": false
     },
     {
      "title": "CTICC 2024 integrated annual report",
@@ -422798,8 +422992,8 @@ window.ATLASDATA={
      "doc_type": "fact_sheet",
      "language": "en",
      "source_url": "https://ccconferencecentre.co.za/wp-content/uploads/2025/03/CCCCH_Fast-Fact-Guide.pdf",
-     "href": "pdfs/venues/za/century-city-conference-centre/century-city-conference-centre-fast-fact-guide-2025.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/za/century-city-conference-centre/century-city-conference-centre-fast-fact-guide-2025.pdf",
+     "local": false
     }
    ],
    "socials": [
@@ -423117,8 +423311,8 @@ window.ATLASDATA={
      "doc_type": "floor_plan",
      "language": "en",
      "source_url": "https://icc.co.za/downloads/Durban-ICC-2D-Map.pdf",
-     "href": "pdfs/venues/za/durban-icc/durban-icc-2d-map.pdf",
-     "local": true
+     "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/za/durban-icc/durban-icc-2d-map.pdf",
+     "local": false
     }
    ],
    "photos": [
