@@ -87,16 +87,29 @@ function hasEnded(e){
   return !!(b && b.getTime() < TODAY.getTime());
 }
 function isHappeningNow(e){
+  /* Started before the visitor's local today and has not ended. */
   if(!e || hasEnded(e) || datesTba(e) || isPostponed(e)) return false;
   const a = eventStartDay(e);
   if(!a) return false;
-  return (a.getFullYear()*12 + a.getMonth()) < (TODAY.getFullYear()*12 + TODAY.getMonth());
+  return a.getTime() < TODAY.getTime();
+}
+function happeningSort(a,b){
+  const ae = parseDay(a.end_date), be = parseDay(b.end_date);
+  const at = ae ? ae.getTime() : Infinity;
+  const bt = be ? be.getTime() : Infinity;
+  if(at!==bt) return at-bt;
+  return dateSoonest(a,b);
+}
+function sortHappeningThenUpcoming(list){
+  const now = list.filter(isHappeningNow).sort(happeningSort);
+  const rest = list.filter(e => !isHappeningNow(e)).sort(dateSoonest);
+  return now.concat(rest);
 }
 function untilLabel(e){
   const d = parseDay(e && e.end_date);
   return d ? 'until '+fmtDay(e.end_date) : 'Still running';
 }
-/* Short status for events that started in a previous month and are still on. */
+/* Short status for events that started before today and are still on. */
 function happeningStatusLabel(e){
   if(!isHappeningNow(e)) return '';
   const end = parseDay(e && e.end_date);
@@ -1682,6 +1695,7 @@ function sortEvents(a){
     if(s==='date-desc') return (y.start_date||'0000').localeCompare(x.start_date||'0000') || verifiedTie(x,y) || (x.name||'').localeCompare(y.name||'');
     return dateSoonest(x,y);
   });
+  if(s==='date' || !s) return sortHappeningThenUpcoming(copy);
   return copy;
 }
 
@@ -2424,7 +2438,20 @@ function renderGrid(){
   const box = $('#gridbody');
   if(!box) return;
   const vis = sortEvents(visibleEvents());
-  box.innerHTML = vis.length ? vis.map(gridCardHtml).join('') : `<div class="empty">${emptyMessage()}</div>`;
+  let html = '';
+  if(!vis.length){
+    html = `<div class="empty">${emptyMessage()}</div>`;
+  }else if((st.sort==='date' || !st.sort) && vis.some(isHappeningNow)){
+    const now = vis.filter(isHappeningNow);
+    const rest = vis.filter(e => !isHappeningNow(e));
+    const sec = (title, items) => items.length
+      ? `<section class="g-section"><header class="g-section-h"><h2>${esc(title)}</h2><span>${items.length}</span></header><div class="g-section-body">${items.map(gridCardHtml).join('')}</div></section>`
+      : '';
+    html = sec('Happening now', now) + sec('Upcoming', rest);
+  }else{
+    html = vis.map(gridCardHtml).join('');
+  }
+  box.innerHTML = html;
   $$('#gridbody .gcard[data-slug]').forEach(c => {
     const go = () => { location.hash = eventHash(c.dataset.slug, 'grid'); };
     c.onclick = ev => { if(!ev.target.closest('a')) go(); };
@@ -2568,6 +2595,8 @@ addEventListener('resize', () => {
   }
 });
 
+const TL_NOW_PREVIEW = 6;
+let tlNowExpanded = false;
 function renderTimeline(){
   const body = $('#tlbody');
   const scrub = $('#tlscrub');
@@ -2579,13 +2608,7 @@ function renderTimeline(){
     if(scrub){ scrub.hidden=true; scrub.innerHTML=''; }
     return;
   }
-  const happening = raw.filter(isHappeningNow).slice().sort((a,b) => {
-    const ae = parseDay(a.end_date), be = parseDay(b.end_date);
-    const at = ae ? ae.getTime() : Infinity;
-    const bt = be ? be.getTime() : Infinity;
-    if(at!==bt) return at-bt;
-    return dateSoonest(a,b);
-  });
+  const happening = raw.filter(isHappeningNow).slice().sort(happeningSort);
   const rest = raw.filter(e => !isHappeningNow(e)).slice().sort(dateSoonest);
   const todayMonth = currentMonthKey();
   const months = [];
@@ -2598,6 +2621,8 @@ function renderTimeline(){
   rest.forEach(e => {
     const k = monthKey(e);
     if(k!=='tbc' && k < todayMonth) return;
+    const start = parseDay(e.start_date);
+    if(start && start.getTime() < TODAY.getTime()) return;
     if(!gmap.has(k)){ const g={key:k, items:[]}; gmap.set(k,g); months.push(g); }
     gmap.get(k).items.push(e);
   });
@@ -2621,27 +2646,28 @@ function renderTimeline(){
     const n = m.items.length;
     const parts = monthParts(m.key);
     let items = '';
+    const addCard = e => {
+      items += eventCardHtml(e, side, imgLeft>0);
+      if(imgLeft>0) imgLeft--;
+      side = side==='l' ? 'r' : 'l';
+    };
     if(m.key===todayMonth){
-      m.items.forEach(e => {
-        const start = parseDay(e.start_date);
-        if(!todayPlaced && start && start.getTime() >= TODAY.getTime()){
-          items += todayMarkerHtml();
-          todayPlaced = true;
-        }
-        items += eventCardHtml(e, side, imgLeft>0);
-        if(imgLeft>0) imgLeft--;
-        side = side==='l' ? 'r' : 'l';
-      });
-      if(!todayPlaced){
-        items += todayMarkerHtml();
-        todayPlaced = true;
+      items += todayMarkerHtml();
+      todayPlaced = true;
+      m.items.forEach(addCard);
+    }else if(m.key==='now'){
+      const preview = TL_NOW_PREVIEW;
+      const collapsed = m.items.length>preview && !tlNowExpanded;
+      const shown = collapsed ? m.items.slice(0, preview) : m.items;
+      shown.forEach(addCard);
+      if(m.items.length>preview){
+        const label = collapsed
+          ? `Show all ${m.items.length} events`
+          : 'Show fewer';
+        items += `<li class="tl-item tl-more"><button type="button" class="tl-showall" data-expand="${collapsed?'1':'0'}">${esc(label)}</button></li>`;
       }
     }else{
-      m.items.forEach(e => {
-        items += eventCardHtml(e, side, imgLeft>0);
-        if(imgLeft>0) imgLeft--;
-        side = side==='l' ? 'r' : 'l';
-      });
+      m.items.forEach(addCard);
     }
     const year = parts.year ? `<div class="tl-year">${esc(parts.year)}</div>` : '';
     const extra = m.key==='now' ? ' tl-happening' : '';
@@ -2720,6 +2746,12 @@ function renderTimeline(){
     c.onkeydown = ev => { if(ev.key==='Enter' || (ev.key===' ' && !PLAY.on)){ ev.preventDefault(); go(); } };
   });
   if(PLAY.on) playMarkCard();
+  const more = body.querySelector('.tl-showall');
+  if(more) more.onclick = () => {
+    tlNowExpanded = more.dataset.expand==='1';
+    renderTimeline();
+    bindMediaFallback('#tlbody img');
+  };
   tlSpineUpdate({tween:false});
 }
 $$('#viewbar button').forEach(b => b.onclick = () => {
@@ -2747,7 +2779,7 @@ function playReduced(){
   return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
 }
 function playEvents(){
-  return visibleEvents().filter(hasDates).slice().sort(dateSoonest);
+  return sortHappeningThenUpcoming(visibleEvents().filter(hasDates));
 }
 function playMapVisible(){
   return !!(PLAY.on && $('#map'));
@@ -3930,7 +3962,7 @@ function swList(){
   const a = visibleEvents().slice();
   if(SW.sort==='price') a.sort((x,y)=>(x.price_eur_min!=null?x.price_eur_min:9e12)-(y.price_eur_min!=null?y.price_eur_min:9e12));
   else if(SW.sort==='price-desc') a.sort((x,y)=>(y.price_eur_max||0)-(x.price_eur_max||0));
-  else a.sort(dateSoonest);
+  else return sortHappeningThenUpcoming(a);
   return a;
 }
 function swCard(e,k){

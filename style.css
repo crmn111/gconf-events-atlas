@@ -828,6 +828,16 @@ html[data-theme="dark"] .tl-chip.attend{color:var(--cyan2);background:rgba(31,16
 .tl-chip.until{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--ink);border-color:transparent;letter-spacing:.02em}
 html[data-theme="dark"] .tl-chip.until{background:color-mix(in srgb,var(--accent) 22%,transparent);color:var(--ink)}
 .tl-month.tl-happening .tl-name{letter-spacing:-.05em}
+.tl-item.tl-more{list-style:none;display:flex;justify-content:center;padding:8px 0 18px;position:relative;z-index:2}
+.tl-showall{appearance:none;cursor:pointer;border:1px solid var(--line);background:var(--overlay);color:var(--ink);border-radius:999px;padding:10px 16px;font:600 13px var(--sans);backdrop-filter:blur(8px)}
+.tl-showall:hover{border-color:var(--ink)}
+.tl-showall:focus-visible{outline:var(--focus-ring);outline-offset:3px}
+.g-section{display:contents}
+.g-section-h{grid-column:1/-1;display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:10px 0 6px}
+.g-section + .g-section .g-section-h{margin-top:22px}
+.g-section-h h2{margin:0;font:700 22px/1.1 var(--sans);letter-spacing:-.03em}
+.g-section-h span{font:600 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.g-section-body{display:contents}
 /* Happening now is current, not a past-month track. Do not paint the spine as elapsed. */
 .tl-month.tl-happening .tl-list > .tl-spine{background:color-mix(in srgb,var(--accent) 42%, var(--tl-spine-upcoming))}
 .tl-month.tl-happening .tl-list > .tl-spine .tl-spine-fill{height:0 !important;background:transparent}
@@ -848,6 +858,8 @@ html[data-theme="dark"] .tl-chip.until{background:color-mix(in srgb,var(--accent
   .tl-item.side-l .tl-card{grid-column:1;grid-row:1}
   .tl-item.side-r .tl-card{grid-column:3;grid-row:1}
   .tl-item.tl-card-item .tl-dot{position:relative;left:auto;top:86px;grid-column:2;grid-row:1;justify-self:center}
+  .tl-item.tl-more{display:grid;grid-template-columns:1fr 48px 1fr;justify-content:stretch;padding:8px 0 24px}
+  .tl-item.tl-more .tl-showall{grid-column:1/-1;justify-self:center}
   .tl-item.tl-today{display:grid;grid-template-columns:1fr 48px 1fr;align-items:center;justify-content:stretch;padding-left:0}
   .tl-item.tl-today .tl-dot{position:relative;left:auto;top:auto;margin:0;grid-column:2;justify-self:center}
   .tl-item.tl-today .tl-today-label{grid-column:3;justify-self:start;margin-left:10px}
