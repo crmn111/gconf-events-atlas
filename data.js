@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-26T20:26:58Z",
+ "generated": "2026-11-26T20:31:51Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -855,7 +855,16 @@ window.ATLASDATA={
     "family",
     "markets"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/new-taipei-christmasland-2026-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/new-taipei-christmasland-2026-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E6%AD%A1%E6%A8%82%E8%80%B6%E8%AA%95%E5%9F%8E_01_20251203.jpg",
+     "credit": "Photo: 阿道 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
+     "caption": "The carnival centrepiece at New Taipei Christmasland, Civic Square, New Taipei City, Taiwan, in daylight on 3 December 2025."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -886,7 +895,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: 阿道 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
    "socials": [
     {
      "platform": "facebook",
@@ -1211,7 +1220,16 @@ window.ATLASDATA={
     "markets",
     "harbour"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/hong-kong-winterfest-2026-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/hong-kong-winterfest-2026-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_WinterFest_2025_16-11-2025(2).jpg",
+     "credit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
+     "caption": "The Christmas tree and visitors at Hong Kong WinterFest, Central, Hong Kong, on 16 November 2025."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -1242,7 +1260,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
    "socials": [
     {
      "platform": "facebook",
@@ -35147,7 +35165,16 @@ window.ATLASDATA={
     "ideas",
     "music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jaipur-literature-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jaipur-literature-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Jaipur_literature_festival_2019.jpg",
+     "credit": "Photo: Ds saini2000 / Wikimedia Commons / CC BY-SA 4.0 (2019)",
+     "caption": "Visitors walking under hanging pots at the Jaipur Literature Festival, Jaipur, India, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -35173,7 +35200,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Ds saini2000 / Wikimedia Commons / CC BY-SA 4.0 (2019)",
    "socials": [
     {
      "platform": "x",
@@ -41259,7 +41286,16 @@ window.ATLASDATA={
     "indie games",
     "board games"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taipei-game-show-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taipei-game-show-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Taipei_Game_Show_visitors_in_front_of_Entrance_4,_TWTC_Hall_1_20180127.jpg",
+     "credit": "Photo: Solomon203 / Wikimedia Commons / CC BY-SA 4.0 (2018)",
+     "caption": "Visitors queueing at Entrance 4 of Taipei World Trade Center Hall 1 during the 2018 Taipei Game Show."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -41285,7 +41321,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Solomon203 / Wikimedia Commons / CC BY-SA 4.0 (2018)",
    "socials": [
     {
      "platform": "facebook",
