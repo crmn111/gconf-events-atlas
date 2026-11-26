@@ -1,6 +1,6 @@
 window.ATLASDATA={
- "updated": "2026-11-24",
- "generated": "2026-11-25T21:39:18Z",
+ "updated": "2026-11-26",
+ "generated": "2026-11-26T08:07:01Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -3051,126 +3051,6 @@ window.ATLASDATA={
      "verified_via": "linked_from_official_site",
      "source_url": "https://www.daviscup.com/",
      "accessed_at": "2026-11-24T11:59:33+01:00"
-    }
-   ]
-  },
-  {
-   "event_id": "GCE-gaming-pulse-2026",
-   "slug": "gaming-pulse-2026",
-   "name": "Gaming Pulse Conference 2026",
-   "website_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-   "start_date": "2026-11-24",
-   "end_date": "2026-11-24",
-   "city": "Valletta",
-   "country": "Malta",
-   "region": "europe",
-   "venue": "Casino Maltese, Valletta",
-   "industry": "Tech",
-   "format": "In-person",
-   "organizer": "Deloitte Malta",
-   "expected_attendance": null,
-   "ticket_price_min": null,
-   "ticket_price_max": null,
-   "currency": null,
-   "ticket_price_text": null,
-   "ticket_url": null,
-   "price_source_url": null,
-   "sponsor_page_url": null,
-   "sponsorship_prospectus_url": null,
-   "year": 2026,
-   "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-   "last_scraped_at": "2026-11-23T18:30:00+01:00",
-   "notes": null,
-   "lat": 35.8986524,
-   "lng": 14.513084,
-   "precise": true,
-   "category": "tech",
-   "topics": [
-    "iGaming",
-    "technology",
-    "regulation"
-   ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-1-t.jpg",
-     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pcb-gi3-alert-1920x880-4:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
-     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-2-t.jpg",
-     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-bmc-1920x880:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
-     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gaming-pulse-2026-3-t.jpg",
-     "orig": "https://media.deloitte.com/is/image/deloitte/mt-pfb-gaming-pulse-1920x880-1:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off",
-     "page": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "credit": null,
-     "caption": null
-    }
-   ],
-   "sources": [
-    {
-     "label": "Official",
-     "url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "field": "official"
-    }
-   ],
-   "status": "upcoming",
-   "kind": "conference",
-   "price_checked_at": null,
-   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: Casino Maltese, 247, Triq ir-Repubblika, Il-Kamrata, Il-Belt Valletta, Reġjun Port, VLT 1113, Malta (query: Casino Maltese, Valletta).",
-   "source_accessed_at": "2026-11-23T18:30:00+01:00",
-   "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "id": "gaming-pulse-2026",
-   "also_categories": [],
-   "price_eur_min": null,
-   "price_eur_max": null,
-   "has_price": false,
-   "photoCredit": null,
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T11:59:34+01:00"
-    },
-    {
-     "platform": "linkedin",
-     "url": "https://www.linkedin.com/company/deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T11:59:34+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/deloitte",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T11:59:34+01:00"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/user/deloittevideo",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T11:59:34+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/deloittemalta/",
-     "verified_via": "linked_from_official_site",
-     "source_url": "https://www.deloitte.com/mt/en/mt-events/gaming-pulse-conference.html",
-     "accessed_at": "2026-11-24T11:59:34+01:00"
     }
    ]
   },
@@ -15253,6 +15133,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.fetedeslumieres.lyon.fr/en",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.fetedeslumieres.lyon.fr/fr/page/horaires-et-dates-fete-des-lumieres-2026",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -26166,6 +26051,101 @@ window.ATLASDATA={
      "verified_via": "official_site_checked",
      "source_url": "https://www.comiket.co.jp/",
      "accessed_at": "2026-11-24T12:55:00+01:00"
+    }
+   ]
+  },
+  {
+   "event_id": "GCE-edinburgh-hogmanay-2026",
+   "slug": "edinburgh-hogmanay-2026",
+   "name": "Edinburgh's Hogmanay 2026/27",
+   "website_url": "https://www.edinburghshogmanay.com/",
+   "start_date": "2026-12-29",
+   "end_date": "2027-01-01",
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "region": "europe",
+   "venue": null,
+   "industry": "Culture",
+   "format": "In-person",
+   "organizer": "Unique Assembly / Edinburgh's Hogmanay",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": null,
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2026,
+   "source_url": "https://edwinterfest.com/hogmanay",
+   "last_scraped_at": "2026-11-26T09:30:00+01:00",
+   "notes": "Official pages mention events on 29, 30 and 31 December 2026, but a single official festival start/end was not stored as a clean range from the fetched text alone. Re-check the official programme page before publishing dates.",
+   "lat": 55.9533456,
+   "lng": -3.1883749,
+   "precise": false,
+   "category": "culture",
+   "topics": [
+    "New Year",
+    "street party"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official",
+     "url": "https://edwinterfest.com/hogmanay",
+     "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.edinburghshogmanay.com/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "festival",
+   "lineup_url": null,
+   "attendance_note": null,
+   "attendance_source_url": null,
+   "price_checked_at": null,
+   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: City of Edinburgh, Alba / Scotland, United Kingdom (query: Edinburgh, United Kingdom).",
+   "source_accessed_at": "2026-11-26T09:30:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-26",
+   "id": "edinburgh-hogmanay-2026",
+   "also_categories": [],
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": null,
+   "socials": [
+    {
+     "platform": "facebook",
+     "url": "https://www.facebook.com/edinburghshogmanay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.edinburghshogmanay.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "instagram",
+     "url": "https://www.instagram.com/edhogmanay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.edinburghshogmanay.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/edhogmanay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.edinburghshogmanay.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@edinburghhogmanay",
+     "verified_via": "official_site_checked",
+     "source_url": "https://www.edinburghshogmanay.com/",
+     "accessed_at": "2026-11-24T14:43:53+01:00"
     }
    ]
   },
@@ -152273,6 +152253,11 @@ window.ATLASDATA={
      "label": "Official",
      "url": "https://www.primaverasound.com/en/tickets",
      "field": "official"
+    },
+    {
+     "label": "Official",
+     "url": "https://www.primaverasound.com/en/barcelona/early-bird-barcelona",
+     "field": "official"
     }
    ],
    "status": "upcoming",
@@ -269257,6 +269242,69 @@ window.ATLASDATA={
    ]
   },
   {
+   "event_id": "GCE-slush-2027",
+   "slug": "slush-2027",
+   "name": "Slush 2027",
+   "website_url": "https://slush.org/",
+   "start_date": "2027-12-01",
+   "end_date": "2027-12-02",
+   "city": "Helsinki",
+   "country": "Finland",
+   "region": "europe",
+   "venue": null,
+   "industry": "Tech",
+   "format": "In-person",
+   "organizer": "Slush",
+   "expected_attendance": null,
+   "ticket_price_min": null,
+   "ticket_price_max": null,
+   "currency": null,
+   "ticket_price_text": null,
+   "ticket_url": null,
+   "price_source_url": null,
+   "sponsor_page_url": null,
+   "sponsorship_prospectus_url": null,
+   "year": 2027,
+   "source_url": "https://x.com/SlushHQ",
+   "last_scraped_at": "2026-11-26T09:30:00+01:00",
+   "notes": null,
+   "lat": 60.1699,
+   "lng": 24.9384,
+   "precise": false,
+   "category": "tech",
+   "topics": [
+    "startups",
+    "venture capital",
+    "technology"
+   ],
+   "photos": [],
+   "sources": [
+    {
+     "label": "Official (Slush account post, 24 Nov 2026: \"Slush takes over Helsinki again on Dec 1–2, 2027\")",
+     "url": "https://x.com/SlushHQ",
+     "field": "official (Slush account post, 24 Nov 2026: \"Slush takes over Helsinki again on Dec 1–2, 2027\")"
+    },
+    {
+     "label": "Official",
+     "url": "https://slush.org/",
+     "field": "official"
+    }
+   ],
+   "status": "upcoming",
+   "kind": "conference",
+   "price_checked_at": null,
+   "geo_note": "City-centre pin for Helsinki (venue not announced for 2027).",
+   "source_accessed_at": "2026-11-26T09:30:00+01:00",
+   "x_handle": null,
+   "last_verified_at": "2026-11-26",
+   "id": "slush-2027",
+   "also_categories": [],
+   "price_eur_min": null,
+   "price_eur_max": null,
+   "has_price": false,
+   "photoCredit": null
+  },
+  {
    "event_id": "GCE-f1-qatar-grand-prix-2027",
    "slug": "f1-qatar-grand-prix-2027",
    "name": "Formula 1 Qatar Airways Qatar Grand Prix 2027",
@@ -287782,96 +287830,6 @@ window.ATLASDATA={
      "url": "https://www.linkedin.com/company/edintfest",
      "verified_via": "official_site_checked",
      "source_url": "https://www.eif.co.uk/",
-     "accessed_at": "2026-11-24T14:43:53+01:00"
-    }
-   ]
-  },
-  {
-   "event_id": "GCE-edinburgh-hogmanay-2026",
-   "slug": "edinburgh-hogmanay-2026",
-   "name": "Edinburgh's Hogmanay 2026/27",
-   "website_url": "https://www.edinburghshogmanay.com/",
-   "start_date": null,
-   "end_date": null,
-   "city": "Edinburgh",
-   "country": "United Kingdom",
-   "region": "europe",
-   "venue": null,
-   "industry": "Culture",
-   "format": "In-person",
-   "organizer": "Unique Assembly / Edinburgh's Hogmanay",
-   "expected_attendance": null,
-   "ticket_price_min": null,
-   "ticket_price_max": null,
-   "currency": null,
-   "ticket_price_text": null,
-   "ticket_url": null,
-   "price_source_url": null,
-   "sponsor_page_url": null,
-   "sponsorship_prospectus_url": null,
-   "year": 2026,
-   "source_url": "https://www.edinburghshogmanay.com/",
-   "last_scraped_at": "2026-11-23T18:45:00+01:00",
-   "notes": "Official pages mention events on 29, 30 and 31 December 2026, but a single official festival start/end was not stored as a clean range from the fetched text alone. Re-check the official programme page before publishing dates.",
-   "lat": 55.9533456,
-   "lng": -3.1883749,
-   "precise": false,
-   "category": "culture",
-   "topics": [
-    "New Year",
-    "street party"
-   ],
-   "photos": [],
-   "sources": [
-    {
-     "label": "Official",
-     "url": "https://www.edinburghshogmanay.com/",
-     "field": "official"
-    }
-   ],
-   "status": "dates TBA",
-   "kind": "festival",
-   "lineup_url": null,
-   "attendance_note": null,
-   "attendance_source_url": null,
-   "price_checked_at": null,
-   "geo_note": "Geocoded via OpenStreetMap Nominatim on 2026-11-23: City of Edinburgh, Alba / Scotland, United Kingdom (query: Edinburgh, United Kingdom).",
-   "source_accessed_at": "2026-11-23T18:45:00+01:00",
-   "x_handle": null,
-   "last_verified_at": "2026-11-23",
-   "id": "edinburgh-hogmanay-2026",
-   "also_categories": [],
-   "price_eur_min": null,
-   "price_eur_max": null,
-   "has_price": false,
-   "photoCredit": null,
-   "socials": [
-    {
-     "platform": "facebook",
-     "url": "https://www.facebook.com/edinburghshogmanay",
-     "verified_via": "official_site_checked",
-     "source_url": "https://www.edinburghshogmanay.com/",
-     "accessed_at": "2026-11-24T14:43:53+01:00"
-    },
-    {
-     "platform": "instagram",
-     "url": "https://www.instagram.com/edhogmanay",
-     "verified_via": "official_site_checked",
-     "source_url": "https://www.edinburghshogmanay.com/",
-     "accessed_at": "2026-11-24T14:43:53+01:00"
-    },
-    {
-     "platform": "x",
-     "url": "https://x.com/edhogmanay",
-     "verified_via": "official_site_checked",
-     "source_url": "https://www.edinburghshogmanay.com/",
-     "accessed_at": "2026-11-24T14:43:53+01:00"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@edinburghhogmanay",
-     "verified_via": "official_site_checked",
-     "source_url": "https://www.edinburghshogmanay.com/",
      "accessed_at": "2026-11-24T14:43:53+01:00"
     }
    ]
@@ -423188,8 +423146,8 @@ window.ATLASDATA={
   "conference": 1344,
   "festival": 1499,
   "sports": 203,
-  "dated": 2507,
-  "dates_tba": 536,
+  "dated": 2508,
+  "dates_tba": 535,
   "postponed": 3,
   "duplicates_merged": 268,
   "regions": {
