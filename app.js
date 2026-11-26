@@ -96,6 +96,36 @@ function untilLabel(e){
   const d = parseDay(e && e.end_date);
   return d ? 'until '+fmtDay(e.end_date) : 'Still running';
 }
+/* Short status for events that started in a previous month and are still on. */
+function happeningStatusLabel(e){
+  if(!isHappeningNow(e)) return '';
+  const end = parseDay(e && e.end_date);
+  if(!end) return 'ON NOW';
+  const day = String(end.getDate());
+  const mon = end.toLocaleDateString('en-GB', {month:'short'}).toUpperCase();
+  return 'ENDS '+day+' '+mon;
+}
+function dateBlockHtml(e){
+  if(datesTba(e)) return `<div class="tl-dateblock tba"><b>TBA</b><span>Dates</span></div>`;
+  if(isHappeningNow(e)){
+    const end = parseDay(e.end_date);
+    if(!end) return `<div class="tl-dateblock now"><b>NOW</b><span>ON NOW</span></div>`;
+    const day = String(end.getDate());
+    const mon = end.toLocaleDateString('en-GB', {month:'short'}).toUpperCase();
+    return `<div class="tl-dateblock ends"><b>ENDS</b><span>${esc(day)} ${esc(mon)}</span></div>`;
+  }
+  const d = parseDay(e.start_date);
+  const day = d ? String(d.getDate()) : '—';
+  const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
+  const mon = d ? d.toLocaleDateString('en-GB', {month:'short'}) : '';
+  return `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
+}
+function whenLineHtml(e){
+  const range = fmtEventDates(e);
+  const badge = happeningStatusLabel(e);
+  if(!badge) return esc(range);
+  return `<span class="when-badge">${esc(badge)}</span><span class="when-range">${esc(range)}</span>`;
+}
 function fmtPrice(e){
   if(e.ticket_price_text) return e.ticket_price_text;
   return 'Price not published';
@@ -503,7 +533,7 @@ map.addLayer(clusters);
 const markers = {};
 function popEvent(e){
   const ph = e.photos && e.photos[0];
-  return `<div class="pop">${ph?`<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
+  return `<div class="pop">${ph?`<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="">`:`<div class="ph-ph sm">${esc(catLabel(e))}</div>`}<div class="pb"><div class="pk">${esc(catLabel(e))} · ${happeningStatusLabel(e)?esc(happeningStatusLabel(e)+' · '):''}${esc(fmtEventDates(e))}</div><h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="pa">${esc(where(e))}</div><div class="pr">${esc(fmtPrice(e))}</div>${ph?`<div class="credit">Photo: ${esc(e.photoCredit||ph.credit||'see event page')}</div>`:''}</div></div>`;
 }
 function mapChromePad(){
   const desk = innerWidth>860;
@@ -1671,7 +1701,7 @@ function cardThumbHtml(e){
   return `<div class="th ${cat}"><img data-src="${esc(ph.thumb)}" data-full="${esc(ph.full)}" alt="" decoding="async"></div>`;
 }
 function cardHtml(e){
-  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${statusBadge(e)}<h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="where">${esc(fmtEventDates(e))} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
+  return `<article class="card" data-r="event/${esc(e.slug)}">${cardThumbHtml(e)}<div class="meta"><span class="tag ${esc(e.category||'')}">${esc(catLabel(e))}</span>${statusBadge(e)}<h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3><div class="where">${whenLineHtml(e)} · ${esc(where(e))}</div><div class="row"><span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>${isApprox(e)?'<span class="tag">◌ approx.</span>':''}</div></div></article>`;
 }
 
 let listThumbObs = null;
@@ -2374,7 +2404,7 @@ function gridCardHtml(e){
         ${statusBadge(e)}
       </div>
       <h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3>
-      <div class="gcard-when">${esc(fmtEventDates(e))}</div>
+      <div class="gcard-when">${whenLineHtml(e)}</div>
       <div class="gcard-where">${esc(place)}</div>
       <div class="gcard-foot">
         <span class="price ${hasPrice(e)?'':'unk'}">${esc(fmtPrice(e))}</span>
@@ -2458,10 +2488,6 @@ function todayMarkerHtml(){
 }
 function eventCardHtml(e, side, imgPri){
   const tba = datesTba(e);
-  const d = parseDay(e.start_date);
-  const day = d ? String(d.getDate()) : (tba ? 'TBA' : '—');
-  const wd = d ? d.toLocaleDateString('en-GB', {weekday:'short'}) : '';
-  const mon = d ? d.toLocaleDateString('en-GB', {month:'short'}) : '';
   const ph = e.photos && e.photos[0];
   const cat = e.category||'tech';
   const flag = flagOf(e.country);
@@ -2470,16 +2496,14 @@ function eventCardHtml(e, side, imgPri){
   const img = ph
     ? `<img src="${esc(imgUrl(ph.thumb||ph.src))}" alt="" loading="${imgPri?'eager':'lazy'}" decoding="async">`
     : tlIcon(cat);
-  const dateBlock = tba
-    ? `<div class="tl-dateblock tba"><b>TBA</b><span>Dates</span></div>`
-    : `<div class="tl-dateblock"><b>${esc(day)}</b><span>${esc(wd)}${mon?' '+mon:''}</span></div>`;
+  const dateBlock = dateBlockHtml(e);
   const chips = [
     tba ? `<span class="tl-chip tba">Dates TBA</span>` : '',
-    isHappeningNow(e) ? `<span class="tl-chip until">${esc(untilLabel(e))}</span>` : '',
     `<span class="tl-chip price ${hasPrice(e)?'':'unk'}">${esc(pillText(e))}</span>`,
     attend ? `<span class="tl-chip attend">${esc(attend)}</span>` : ''
   ].filter(Boolean).join('');
-  return `<li class="tl-item tl-card-item ${esc(cat)} side-${side}">
+  const happening = isHappeningNow(e) ? ' happening' : '';
+  return `<li class="tl-item tl-card-item ${esc(cat)} side-${side}${happening}">
     <span class="tl-dot" aria-hidden="true"></span>
     <article class="tl-card" data-slug="${esc(e.slug)}" tabindex="0" role="link" aria-label="${esc(e.name)}">
       <div class="tl-hero ${ph?'hasphoto':'ph'} ${esc(cat)}">${img}${ph?'<div class="tl-hero-shade"></div>':''}${dateBlock}<span class="tl-cat ${esc(cat)}">${esc(catLabel(e))}</span></div>
@@ -2534,6 +2558,7 @@ function tlSpineUpdate(opts){
       if(y <= 0) h = 0;
       else h = Math.min(lr.height, y + TL_SPINE_BLEND/2);
     }
+    if(list.closest('.tl-happening')) h = 0;
     fill.style.height = Math.max(0, Math.round(h)) + 'px';
   });
 }
@@ -2852,7 +2877,16 @@ function tourCaption(e){
   const k = $('#tourkicker'), c = $('#tourcity'), d = $('#tourdate'), n = $('#tourname');
   if(k) k.textContent = kicker + (e.lat==null ? ' · Pin not published' : '');
   if(c) c.textContent = (flag ? flag+' ' : '') + loc;
-  if(d) d.textContent = e ? fmtEventDates(e) : '';
+  if(d){
+    if(!e) d.textContent = '';
+    else {
+      const badge = happeningStatusLabel(e);
+      const range = fmtEventDates(e);
+      d.innerHTML = badge
+        ? `<span class="tour-date-badge">${esc(badge)}</span><span class="tour-date-range">${esc(range)}</span>`
+        : esc(range);
+    }
+  }
   if(n) n.textContent = e.name || '';
   cap.hidden = false;
   cap.setAttribute('aria-hidden','false');
@@ -3908,7 +3942,7 @@ function swCard(e,k){
     </div>
     <div class="swb">
       <h3>${esc(e.name)}${(typeof GCONFCLAIM!=="undefined"?GCONFCLAIM.badgeHtml("event",e):"")}</h3>
-      <div class="swa">${esc(fmtEventDates(e))} · ${esc(where(e))} ${statusBadge(e)}</div>
+      <div class="swa">${whenLineHtml(e)} · ${esc(where(e))} ${statusBadge(e)}</div>
       <div class="swp">${esc(fmtPrice(e))}</div>
       <dl>
         <div><dt>Organiser</dt><dd>${esc(e.organizer||'—')}</dd></div>
