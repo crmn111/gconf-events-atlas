@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-27T09:24:16Z",
+ "generated": "2026-11-27T09:43:44Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -855,16 +855,7 @@ window.ATLASDATA={
     "family",
     "markets"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/new-taipei-christmasland-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/new-taipei-christmasland-2026-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E6%AD%A1%E6%A8%82%E8%80%B6%E8%AA%95%E5%9F%8E_01_20251203.jpg",
-     "credit": "Photo: 阿道 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
-     "caption": "The carnival centrepiece at New Taipei Christmasland, Civic Square, New Taipei City, Taiwan, in daylight on 3 December 2025."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -895,7 +886,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: 阿道 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -1048,16 +1039,7 @@ window.ATLASDATA={
     "street festival",
     "carnival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-on-a-great-street-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-on-a-great-street-2026-1-t.jpg",
-     "orig": "https://christmas.orchardroad.org/_next/static/media/outdoor-multimedia.2b24ca58.jpg",
-     "page": "https://christmas.orchardroad.org/event-highlights/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -1220,16 +1202,7 @@ window.ATLASDATA={
     "markets",
     "harbour"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/hong-kong-winterfest-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/hong-kong-winterfest-2026-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_WinterFest_2025_16-11-2025(2).jpg",
-     "credit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
-     "caption": "The Christmas tree and visitors at Hong Kong WinterFest, Central, Hong Kong, on 16 November 2025."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -1260,7 +1233,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: LN9267 / Wikimedia Commons / CC BY-SA 4.0 (2025)",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -6816,32 +6789,7 @@ window.ATLASDATA={
     "light installations",
     "family festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-1-t.jpg",
-     "orig": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/events/christmas-wonderland/Blizzard_Time.jpg.transform/lowres/image.jpg",
-     "page": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/christmas-wonderland-2026.html",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-2-t.jpg",
-     "orig": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/events/christmas-wonderland/Flying_Santa.jpg.transform/lowres/image.jpg",
-     "page": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/christmas-wonderland-2026.html",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/christmas-wonderland-2026-3-t.jpg",
-     "orig": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/events/christmas-wonderland/Festive_Light_Displays.jpg.transform/lowres/image.jpg",
-     "page": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/christmas-wonderland-2026.html",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -20946,24 +20894,7 @@ window.ATLASDATA={
     "parade",
     "Old Town"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fete-escalade-geneve-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fete-escalade-geneve-2026-1-t.jpg",
-     "orig": "https://www.1602.ch/wp-content/uploads/2026/10/HOMEPAGE_2026-3.jpg",
-     "page": "https://www.1602.ch/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fete-escalade-geneve-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/fete-escalade-geneve-2026-2-t.jpg",
-     "orig": "https://www.geneve.ch/sites/default/files/styles/1_70_646x379/public/2024-05/decouvrir-geneve-traditions-ville-geneve-mise-avant.jpg?itok=3LuonUsD",
-     "page": "https://www.geneve.ch/actualites/fete-escalade-2026-12-idees-activites",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -24831,24 +24762,7 @@ window.ATLASDATA={
     "fireworks",
     "New Year"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dalat-flower-festival-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dalat-flower-festival-2026-1-t.jpg",
-     "orig": "https://bvhttdl.gov.vn/uploads/images/2026/10/21/external-1792574306419-crop-1792574332000.png",
-     "page": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dalat-flower-festival-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dalat-flower-festival-2026-2-t.jpg",
-     "orig": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2026-10/festival-hoa-da-lat-2.jpg",
-     "page": "https://bvhttdl.gov.vn/festival-hoa-da-lat-2026-mo-rong-khong-gian-hoa-va-am-nhac-20260228171220519.htm",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -25686,32 +25600,7 @@ window.ATLASDATA={
     "cultural heritage",
     "music"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-1-t.jpg",
-     "orig": "https://www.carnival.crossriverstate.gov.ng/assets/1-new-images/_MG_0938.JPG",
-     "page": "https://www.carnival.crossriverstate.gov.ng/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-2-t.jpg",
-     "orig": "https://www.carnival.crossriverstate.gov.ng/assets/others/calas-vegas-band/calas-vegas1.jpg",
-     "page": "https://www.carnival.crossriverstate.gov.ng/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/calabar-carnival-2026-3-t.jpg",
-     "orig": "https://www.carnival.crossriverstate.gov.ng/assets/others/diamond-band/diamond1.jpg",
-     "page": "https://www.carnival.crossriverstate.gov.ng/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -28659,16 +28548,7 @@ window.ATLASDATA={
     "music",
     "literature"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-riosucio-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-riosucio-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnaval_de_Riosucio_(2013).jpg",
-     "credit": "Photo: Gabriel Cruz / Wikimedia Commons / CC BY-SA 3.0",
-     "caption": "A large devil figure at the Carnaval de Riosucio, Caldas, Colombia, 2013."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -28699,7 +28579,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Gabriel Cruz / Wikimedia Commons / CC BY-SA 3.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -29072,24 +28952,7 @@ window.ATLASDATA={
     "music",
     "crafts"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-negros-y-blancos-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-negros-y-blancos-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Desfile_Magno_2024_-_Carnaval_de_Negros_y_Blancos_2024_(Pasto).jpg",
-     "credit": "Photo: Jhonsca / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Musicians in tiger costumes in the Desfile Magno at the Carnaval de Negros y Blancos 2024, Pasto, Nariño."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-negros-y-blancos-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-negros-y-blancos-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Canto_a_la_Tierra_2024_-_Carnaval_de_Negros_y_Blancos_2024.jpg",
-     "credit": "Photo: Jhonsca / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Panpipe musicians in the Canto a la Tierra parade at the Carnaval de Negros y Blancos 2024, Pasto, Nariño."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -29125,7 +28988,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Jhonsca / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-tweede-nuwe-jaar-kaapse-klopse-2027",
@@ -29164,24 +29027,7 @@ window.ATLASDATA={
     "minstrel parade",
     "heritage"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tweede-nuwe-jaar-kaapse-klopse-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tweede-nuwe-jaar-kaapse-klopse-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Kaapse_Klopse_in_Cape_Town_(2017).jpg",
-     "credit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Kaapse Klopse troupes in Cape Town on Tweede Nuwe Jaar, 2 January 2017."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tweede-nuwe-jaar-kaapse-klopse-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tweede-nuwe-jaar-kaapse-klopse-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Kaapse_Klopse_marching_through_Cape_Town_(2017).jpg",
-     "credit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Kaapse Klopse marching through Cape Town on Tweede Nuwe Jaar, 2 January 2017."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -29207,7 +29053,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Olga Ernst / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-wildlands-perth-2027",
@@ -30265,16 +30111,7 @@ window.ATLASDATA={
     "Carnival",
     "parades"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-new-orleans-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-new-orleans-2027-1-t.jpg",
-     "orig": "https://www.mardigrasneworleans.com/templates/client/imagesNew/xhome-header1.jpg.pagespeed.ic.HRr9R2LRz4.jpg",
-     "page": "https://www.mardigrasneworleans.com/parades/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -32139,16 +31976,7 @@ window.ATLASDATA={
     "grand parade",
     "festival queen"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/sinulog-festival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/sinulog-festival-2027-1-t.jpg",
-     "orig": "https://imagedelivery.net/Yydb3DPAEbdJ0YMfZh1l8A/30be8523-c029-4121-cf01-bf54d007af00/w=1200",
-     "page": "https://www.sinulogfoundationinc.com/festival/2027/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -36725,24 +36553,7 @@ window.ATLASDATA={
     "folk music",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-las-mil-polleras-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-las-mil-polleras-2027-1-t.jpg",
-     "orig": "https://www.atp.gob.pa/wp-content/uploads/2025/01/MIL_POLLERA_2024-7672-copiar.jpg",
-     "page": "https://www.atp.gob.pa/atp-anuncia-apertura-de-inscripciones-para-el-desfile-de-las-mil-polleras-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-las-mil-polleras-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-las-mil-polleras-2027-2-t.jpg",
-     "orig": "https://www.atp.gob.pa/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-17-at-18.13.01.jpeg",
-     "page": "https://www.atp.gob.pa/atp-anuncia-apertura-de-inscripciones-para-el-desfile-de-las-mil-polleras-2027/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -37533,24 +37344,7 @@ window.ATLASDATA={
     "parade",
     "folklore"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rijeka-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rijeka-carnival-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:RijekaCarnival18x.jpg",
-     "credit": "Photo: Antonio199cro / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A night-time street during the Rijeka Carnival 2018, with festival lighting and a carnival banner."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rijeka-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rijeka-carnival-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Rijeka_Carnival_2023.jpg",
-     "credit": "Photo: Sundancer8 / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Costumed participants at the Rijeka Carnival, 19 February 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -37581,7 +37375,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Antonio199cro / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -40430,16 +40224,7 @@ window.ATLASDATA={
     "parade",
     "floats"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-inaugural-carnaval-montevideo-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-inaugural-carnaval-montevideo-2027-1-t.jpg",
-     "orig": "https://www.museodelcarnaval.org/wp-content/uploads/2026/09/inaugural.jpg",
-     "page": "https://www.museodelcarnaval.org/propuestas-turisticas/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -41972,32 +41757,7 @@ window.ATLASDATA={
     "brass bands",
     "indigenous culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-1-t.jpg",
-     "orig": "https://docs.muniarica.cl/web/Noticias/ImagenFullText/16498-16:50:36.webp",
-     "page": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-2-t.jpg",
-     "orig": "https://docs.muniarica.cl/web/media/otros/2026/08/55078185911-3865a90083-c.jpeg",
-     "page": "https://www.muniarica.cl/noticias/publicacion/municipio-y-dirigentes-preparan-calendario-de-eventos-para-darle-una-bienvenida-en-grande-el-carnaval-2027",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-andino-arica-2027-3-t.jpg",
-     "orig": "https://docs.muniarica.cl/web/Noticias/ImagenFullText/16063-11:02:51.webp",
-     "page": "https://www.muniarica.cl/noticias/publicacion/arica-ya-es-carnaval-con-pawa-ancestral-y-la-fuerza-del-tata-inti-parte-el-carnaval-de-arica-con-la-fuerza-del-sol-2026",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -42666,16 +42426,7 @@ window.ATLASDATA={
     "kavadi procession",
     "heritage"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/thaipusam-batu-caves-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/thaipusam-batu-caves-2027-1-t.jpg",
-     "orig": "https://www.malaysia.travel/storage/14951/conversions/736ccc4dc2f9c03c93079bd0cd453518-large.jpg",
-     "page": "https://www.malaysia.travel/events/thaipusam-no-image",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -43200,16 +42951,7 @@ window.ATLASDATA={
     "street blocos",
     "music"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-belo-horizonte-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-belo-horizonte-2027-1-t.jpg",
-     "orig": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/comunicacao/20260214-entaobrilha-matheussantos-061.jpg",
-     "page": "https://prefeitura.pbh.gov.br/noticias/cadastramento-de-blocos-para-o-carnaval-de-bh-2027-comeca-nesta-terca-feira-18",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -43273,56 +43015,7 @@ window.ATLASDATA={
     "masks",
     "costume"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-1-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2025/03/Scoppio-pantegana-1024x576.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-2-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2024/01/13.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-3-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/11/terra-bridgerton-san-marco-low-46-1024x684.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-4-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/02/Carnevale-01-1024x683.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-5-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/02/Dinner-Show-09-1024x683.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/venice-carnival-2027-6-t.jpg",
-     "orig": "https://carnevale.venezia.it/wp-content/uploads/2026/03/carri-marghera-01-2025-1024x684.jpg",
-     "page": "https://www.carnevale.venezia.it/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -50245,24 +49938,7 @@ window.ATLASDATA={
     "floats",
     "Tuscan culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnevale-viareggio-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnevale-viareggio-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnevale_di_viareggio_2008,_carro.JPG",
-     "credit": "Photo: sailko / Wikimedia Commons / CC BY 2.5",
-     "caption": "A papier-mâché parade float at the Carnevale di Viareggio 2008."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnevale-viareggio-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnevale-viareggio-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnevale_di_viareggio_2014,_Voodoo_di_Carlo_Lombardi.JPG",
-     "credit": "Photo: Sailko / Wikimedia Commons / CC BY 3.0",
-     "caption": "The ‘Voodoo’ float by Carlo Lombardi at the Carnevale di Viareggio 2014, 23 February 2014."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -50288,7 +49964,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: sailko / Wikimedia Commons / CC BY 2.5",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -50467,24 +50143,7 @@ window.ATLASDATA={
     "pirate invasion",
     "street festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gasparilla-pirate-fest-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gasparilla-pirate-fest-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Gasparilla_Pirate_Fest_2003_-_Pirate_Flagship_Invading_Tampa.jpg",
-     "credit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain",
-     "caption": "The pirate ship José Gasparilla during the Gasparilla Pirate Fest invasion of Tampa, 1 February 2003."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gasparilla-pirate-fest-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gasparilla-pirate-fest-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Gasparilla_Pirate_Boat_Float_(Tampa).jpg",
-     "credit": "Photo: Dbroadwell / Wikimedia Commons / CC BY-SA 2.5",
-     "caption": "A pirate-ship parade float at Gasparilla in Tampa."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -50510,7 +50169,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Christopher Hollis / Wikimedia Commons / Public domain",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -53127,24 +52786,7 @@ window.ATLASDATA={
     "parades",
     "music"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-veracruz-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-veracruz-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnaval_de_Veracruz_T%C3%A4nzerinnen.JPG",
-     "credit": "Photo: Chivista / Wikimedia Commons / CC BY-SA 3.0",
-     "caption": "A parade float (Motivwagen) at the Carnaval de Veracruz, photographed in 2011."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-veracruz-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-veracruz-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carro_aleg%C3%B3rico_del_rey_del_Carnaval_de_Veracruz_2023.jpg",
-     "credit": "Photo: Ehécatl Cabrera / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "The allegorical float of the carnival king at the Carnaval de Veracruz 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Veracruz municipality)",
@@ -53170,7 +52812,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Chivista / Wikimedia Commons / CC BY-SA 3.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-france-digitale-ai-day-2027",
@@ -54381,48 +54023,7 @@ window.ATLASDATA={
     "UNESCO heritage",
     "Kurent"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-1-t.jpg",
-     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/kurentiprogram-scaled.jpg",
-     "page": "https://kurentovanje.net/eng/program/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-2-t.jpg",
-     "orig": "https://kurentovanje.net/wp-content/uploads/2021/11/Mednarodna-karnevalska-povorka_Stanko-Kozel-2026-29.jpg",
-     "page": "https://kurentovanje.net/eng/program/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-4-t.jpg",
-     "orig": "https://kurentovanje.net/wp-content/uploads/2025/03/Izbor_Etno-povorka-20205_Stanko-kozel-35.jpg",
-     "page": "https://kurentovanje.net/eng/program/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-5-t.jpg",
-     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/kurentovanje_mkp_markopigac_13-705x376-1.jpg",
-     "page": "https://kurentovanje.net/eng/program/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kurentovanje-2027-6-t.jpg",
-     "orig": "https://kurentovanje.net/wp-content/uploads/2021/10/liki_babanosideda.jpg",
-     "page": "https://kurentovanje.net/eng/program/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -54935,56 +54536,7 @@ window.ATLASDATA={
     "folklore",
     "UNESCO"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-1-t.jpg",
-     "orig": "https://mohacs.smartonkormanyzat.hu/data-files/userfiles/files/87428289_1422482594598912_5415039954424168448_n.jpg",
-     "page": "https://www.mohacs.hu/busojaras",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-2-t.jpg",
-     "orig": "https://www.mohacsibusojaras.hu/wp-content/uploads/2022/02/buso_02-1.jpg",
-     "page": "https://www.mohacsibusojaras.hu/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-3-t.jpg",
-     "orig": "https://www.mohacsibusojaras.hu/wp-content/uploads/2022/02/01_2-1024x675.jpg",
-     "page": "https://www.mohacsibusojaras.hu/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-4-t.jpg",
-     "orig": "https://www.mohacsibusojaras.hu/wp-content/uploads/2022/02/01-1024x828.jpg",
-     "page": "https://www.mohacsibusojaras.hu/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-5-t.jpg",
-     "orig": "https://www.mohacsibusojaras.hu/wp-content/uploads/2022/02/03-1024x683.jpg",
-     "page": "https://www.mohacsibusojaras.hu/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/busojaras-mohacs-2027-6-t.jpg",
-     "orig": "https://www.mohacsibusojaras.hu/wp-content/uploads/2022/02/5C4A1158-1024x683.jpg",
-     "page": "https://www.mohacsibusojaras.hu/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -55054,24 +54606,7 @@ window.ATLASDATA={
     "music",
     "tradition"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-mazatlan-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-mazatlan-2027-1-t.jpg",
-     "orig": "https://carnavalmazatlan.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-2.22.31-PM-2.jpeg",
-     "page": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-mazatlan-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-mazatlan-2027-2-t.jpg",
-     "orig": "https://carnavalmazatlan.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-2.22.31-PM-1.jpeg",
-     "page": "https://carnavalmazatlan.com/prensa/2026/08/anuncian-vision-fechas-y-convocatorias-para-el-carnaval-internacional-mazatlan-2027-amamos-nuestras-tradiciones/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -55190,24 +54725,7 @@ window.ATLASDATA={
     "trios elétricos",
     "street festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-salvador-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-salvador-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Bloco_da_camisinha_circuito_Campo_Grande_Salvador.jpg",
-     "credit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0",
-     "caption": "Bloco da Camisinha on the Campo Grande circuit at the Carnaval de Salvador, Bahia, 14 February 2008."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-salvador-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-salvador-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnival_in_Salvador_-_Aerial_view_from_Ondina_at_night.jpg",
-     "credit": "Photo: Pcgomes / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Night aerial view of Avenida Oceânica, Ondina, during the Carnaval de Salvador, 12 February 2010."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -55238,7 +54756,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Antônio Cruz / Agência Brasil / Wikimedia Commons / CC BY 3.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -55285,24 +54803,7 @@ window.ATLASDATA={
     "parade",
     "Portuguese traditions"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-torres-vedras-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-torres-vedras-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Torres_Vedras_2007_Carnaval_(25356144537).jpg",
-     "credit": "Photo: _morgado / Wikimedia Commons / CC BY 2.0",
-     "caption": "A carnival float in the street during the Carnaval de Torres Vedras, Portugal, 2007."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-torres-vedras-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-torres-vedras-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:The_King_Of_Our_Mardi_Gr%C3%A0s_(131339539).jpeg",
-     "credit": "Photo: José Martinho / Wikimedia Commons / CC0",
-     "caption": "The carnival king float and spectators at the Carnaval de Torres Vedras, Portugal, 2015."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -55338,7 +54839,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: _morgado / Wikimedia Commons / CC BY 2.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -56455,40 +55956,7 @@ window.ATLASDATA={
     "parades",
     "Bonhomme"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-1-t.jpg",
-     "orig": "https://carnaval.qc.ca/wp-content/uploads/2026/02/IO_9407-2-2.jpg",
-     "page": "https://carnaval.qc.ca/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-2-t.jpg",
-     "orig": "https://carnaval.qc.ca/wp-content/uploads/2025/02/IO_9183-scaled.jpg",
-     "page": "https://carnaval.qc.ca/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-3-t.jpg",
-     "orig": "https://carnaval.qc.ca/wp-content/uploads/2025/02/WEB_20250207_carnaval_audetphoto_r5-696.jpg",
-     "page": "https://carnaval.qc.ca/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-quebec-2027-4-t.jpg",
-     "orig": "https://carnaval.qc.ca/wp-content/uploads/2021/05/carrousel-1.jpg",
-     "page": "https://carnaval.qc.ca/en/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -56590,16 +56058,7 @@ window.ATLASDATA={
     "Afro-Uruguayan culture",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-llamadas-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/desfile-de-llamadas-2027-1-t.jpg",
-     "orig": "https://www.museodelcarnaval.org/wp-content/uploads/2026/09/llamadas.jpg",
-     "page": "https://www.museodelcarnaval.org/propuestas-turisticas/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -57558,24 +57017,7 @@ window.ATLASDATA={
     "music",
     "dance"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-barranquilla-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-barranquilla-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnaval_de_Barranquilla_2012_-_6964130855.jpg",
-     "credit": "Photo: Michele Mariani / Wikimedia Commons / CC BY-SA 2.0",
-     "caption": "Costumed dancers in the parade at the Carnaval de Barranquilla 2012."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-barranquilla-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-barranquilla-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Carnaval_de_Barranquilla_2016_-GOPR4108_1465093426925_high.jpg",
-     "credit": "Photo: Eddy Milfort / Wikimedia Commons / CC BY-SA 2.0",
-     "caption": "Costumed participants and spectators along the route at the Carnaval de Barranquilla 2016."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -57606,7 +57048,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Michele Mariani / Wikimedia Commons / CC BY-SA 2.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-cosquin-rock-2027",
@@ -57774,24 +57216,7 @@ window.ATLASDATA={
     "performances",
     "Lunar New Year"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/international-chinese-new-year-night-parade-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/international-chinese-new-year-night-parade-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:HK_Tourism_Board_Roses_Parade_-_Feel_the_Beat_of_the_World%27s_Happiest_Party_01-2009.JPG",
-     "credit": "Photo: OShatin127 / Wikimedia Commons / CC BY-SA 3.0",
-     "caption": "A Hong Kong Tourism Board floral float in the 2009 International Chinese New Year Night Parade, Salisbury Road, Tsim Sha Tsui."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/international-chinese-new-year-night-parade-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/international-chinese-new-year-night-parade-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Night_Parade_(6822321477).jpg",
-     "credit": "Photo: Michael Elleray / Wikimedia Commons / CC BY 2.0",
-     "caption": "A float in Hong Kong’s 17th International Chinese New Year Night Parade, themed ‘World City. World Party’, January 2012, organised by the Hong Kong Tourism Board."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -57827,7 +57252,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: OShatin127 / Wikimedia Commons / CC BY-SA 3.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-comic-con-india-pune-2027",
@@ -58194,32 +57619,7 @@ window.ATLASDATA={
     "folklore",
     "UNESCO"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-1-t.jpg",
-     "orig": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027/@@images/db542130-e763-46ac-95f7-aa6162e7b736.jpeg",
-     "page": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-2-t.jpg",
-     "orig": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/banner/carnaval2017-09.jpg/@@images/9eedc768-62b4-4c16-a32a-ffbdaf2c48a4.jpeg",
-     "page": "https://www.binche.be/fr/que-faire/carnavals/carnaval-de-binche/actualites/carnaval-2027",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-binche-2027-3-t.jpg",
-     "orig": "https://www.carnavaldebinche.be/actualites/banner/carnaval2017-25.jpg/@@images/5ddd1b74-68bd-422b-9c98-653ba38332f5.jpeg",
-     "page": "https://www.carnavaldebinche.be/actualites/carnaval-2027",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -58913,56 +58313,7 @@ window.ATLASDATA={
    "topics": [
     "carnival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-1-t.jpg",
-     "orig": "https://koelnerkarneval.de/fileadmin/_processed_/3/1/csm_2027_FK-Mottologo_181ce20072.png",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-2-t.jpg",
-     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/f/8/csm_FK_Karnevalsmarkt_1_f6a38f7183.png",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-3-t.jpg",
-     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/6/4/csm_PM_WGKAMPAGNE_2_3cb5bb8609.png",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-4-t.jpg",
-     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/9/9/csm_FK_PM-Podcast_8badac304c.png",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-5-t.jpg",
-     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/f/2/csm_WEBSITE-Men%C3%BC-Inhalte-LK_f9b1fb316d.png",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cologne-carnival-2027-6-t.jpg",
-     "orig": "https://www.koelnerkarneval.de/fileadmin/_processed_/6/b/csm_FK_Thumbnail_DG_f6b38fe058.jpg",
-     "page": "https://www.koelnerkarneval.de/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -59577,40 +58928,7 @@ window.ATLASDATA={
     "carnival",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-3-t.jpg",
-     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2026/01/01-REINE-CONCEPT-EVENEMENTIEL-500x500.png",
-     "page": "https://www.nicecarnaval.com/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-4-t.jpg",
-     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2025/01/fragonard-500x500.jpg",
-     "page": "https://www.nicecarnaval.com/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-5-t.jpg",
-     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2024/01/carnaval-illustration-500x500.jpg",
-     "page": "https://www.nicecarnaval.com/en/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/nice-carnival-2027-6-t.jpg",
-     "orig": "https://www.nicecarnaval.com/wp-content/uploads/2026/01/01-REINE-CONCEPT-EVENEMENTIEL.png",
-     "page": "https://www.nicecarnaval.com/en/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -63248,48 +62566,7 @@ window.ATLASDATA={
     "carnival",
     "Fasnacht"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-2-t.jpg",
-     "orig": "https://fasnacht.ch/wp-content/uploads/2026/01/DSC_3016-1200x630.jpg",
-     "page": "https://www.fasnacht.ch/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-3-t.jpg",
-     "orig": "https://fasnacht.ch/wp-content/uploads/2026/02/DSC_6547-600x300.jpg",
-     "page": "https://www.fasnacht.ch/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-4-t.jpg",
-     "orig": "https://fasnacht.ch/wp-content/uploads/2026/11/glaeggs-3-600x300.jpeg",
-     "page": "https://www.fasnacht.ch/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-5-t.jpg",
-     "orig": "https://fasnacht.ch/wp-content/uploads/2011/11/kellergut.jpg",
-     "page": "https://www.fasnacht.ch/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/basel-fasnacht-2027-6-t.jpg",
-     "orig": "https://fasnacht.ch/wp-content/uploads/2025/11/DSC_1147-600x300.jpg",
-     "page": "https://www.fasnacht.ch/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -75038,32 +74315,7 @@ window.ATLASDATA={
     "street festival",
     "popular culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-1-t.jpg",
-     "orig": "https://limassolcarnival.com/storage/gallery/_v/1600/Carnival_in_Limassol_2014_12887388795_.webp",
-     "page": "https://limassolcarnival.com/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-2-t.jpg",
-     "orig": "https://limassolcarnival.com/storage/gallery/_v/960/05-drones.webp",
-     "page": "https://limassolcarnival.com/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/limassol-carnival-2027-3-t.jpg",
-     "orig": "https://limassolcarnival.com/storage/gallery/_v/1600/Carnival_in_Limassol_2014_12888019003_.webp",
-     "page": "https://limassolcarnival.com/en",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -91550,16 +90802,7 @@ window.ATLASDATA={
     "religious culture",
     "Andalusia"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/semana-santa-sevilla-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/semana-santa-sevilla-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Misterio_de_la_Exaltaci%C3%B3n_Semana_Santa_2025.jpg",
-     "credit": "Photo: Cofrades 2020 sevilla / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "The paso of the Misterio de la Exaltación and the street crowd during Semana Santa in Seville, 2025."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -91590,7 +90833,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Cofrades 2020 sevilla / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -95907,7 +95150,16 @@ window.ATLASDATA={
     "Latin",
     "electronic"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tecate-pal-norte-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tecate-pal-norte-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:PLNT2018_0420_175038-8769_JMM.jpg",
+     "credit": "Photo: Joo Murga / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A packed daytime crowd under the Pa'l Norte sign at Tecate Pa'l Norte, Monterrey, Mexico, in 2018."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -95933,7 +95185,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Joo Murga / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "tiktok",
@@ -98358,56 +97610,7 @@ window.ATLASDATA={
     "J’ouvert",
     "masquerade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-1-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/jamaica/JTB_Music_Kingston_Carnival_f7372191-641b-4e09-8d3f-3a4c8910279b.jpg",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-2-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_427,q_65,w_640/v1/clients/jamaica/DACX_365_c731f7d7-1367-453c-a291-c6c2cedd1b64.jpg",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-3-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_402,q_65,w_640/v1/clients/jamaica/Events_c11b75e3-2649-441d-a1e3-bc6d44e38b29.png",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-4-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_402,q_65,w_640,x_359,y_371/v1/clients/jamaica/GenXs_2025_8c369f5b-8e0f-4d62-9e29-7730c5f30e1f.png",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-5-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_450,q_65,w_640,x_606,y_558/v1/clients/jamaica/MOONLIT_ORCHID_1_36e35aeb-056c-45c0-a38b-8aad70347dbb.jpg",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/jamaica-carnival-2027-6-t.jpg",
-     "orig": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_450,q_65,w_640/v1/clients/jamaica/IMG_6717_74c0c2e7-d0c0-4451-82f2-aced65365efa.jpg",
-     "page": "https://www.visitjamaica.com/carnival-in-jamaica/events-calendar/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Jamaica Tourist Board, government)",
@@ -124107,56 +123310,7 @@ window.ATLASDATA={
     "parade",
     "Madeira culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-1-t.jpg",
-     "orig": "https://visitmadeira.com/media/gpnccya0/festa-da-flor-2026-desfil-1705-153-francisco-correia.jpg?width=1920&height=1080&rnd=134266233487830000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-2-t.jpg",
-     "orig": "https://visitmadeira.com/media/vbtfnzm1/festa-da-flor-2026-madeira-auto-parade-231-francisco-correia.jpg?width=1920&height=1080&rnd=134266234764130000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-3-t.jpg",
-     "orig": "https://visitmadeira.com/media/u1lpndze/festa-da-flor-2026-131-francisco-correia.jpg?rxy=0.7503251408943876,0.5187593253164432&width=1920&height=1080&rnd=134266242805500000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-4-t.jpg",
-     "orig": "https://visitmadeira.com/media/40ki5030/festa-da-flor-2026-madeira-auto-parade-038-francisco-correia.jpg?width=1920&height=1080&rnd=134266234435730000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-5-t.jpg",
-     "orig": "https://visitmadeira.com/media/ozjllthm/festa-da-flor-2026-madeira-auto-parade-217-francisco-correia.jpg?width=1920&height=1080&rnd=134266234634170000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festa-da-flor-madeira-2027-6-t.jpg",
-     "orig": "https://visitmadeira.com/media/4lblh3ee/festa-da-flor-2026-100-francisco-correia.jpg?width=1920&height=1080&rnd=134266233186570000",
-     "page": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -138025,16 +137179,7 @@ window.ATLASDATA={
     "Shimogamo Shrine",
     "Kamigamo Shrine"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aoi-matsuri-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aoi-matsuri-2027-1-t.jpg",
-     "orig": "https://ja.kyoto.travel/img/ogp/ogp_major_aoi.jpg",
-     "page": "https://ja.kyoto.travel/event/major/aoi/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -148341,16 +147486,7 @@ window.ATLASDATA={
     "publishing",
     "literature"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feira-do-livro-lisboa-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feira-do-livro-lisboa-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Feira_do_Livro_de_Lisboa,_2023_01.jpg",
-     "credit": "Photo: GualdimG / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Visitors walking between book stalls at the Feira do Livro de Lisboa, Lisbon, Portugal, in 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -148381,7 +147517,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: GualdimG / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -151427,24 +150563,7 @@ window.ATLASDATA={
     "parade",
     "street festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aalborg-karneval-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aalborg-karneval-2027-1-t.jpg",
-     "orig": "https://aalborgkarneval.dk/wp-content/uploads/2026/08/IMG_0395-2-scaled.jpg",
-     "page": "https://aalborgkarneval.dk/aalborg_karneval/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aalborg-karneval-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/aalborg-karneval-2027-2-t.jpg",
-     "orig": "https://aalborgkarneval.dk/wp-content/uploads/2026/05/cAktionsgemeinschaftSanktWendel-2-scaled.jpg",
-     "page": "https://aalborgkarneval.dk/aalborg_karneval/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -177961,7 +177080,16 @@ window.ATLASDATA={
     "Amazonian culture",
     "music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-de-parintins-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-de-parintins-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_de_Parintins_no_Amazonas.jpg",
+     "credit": "Photo: Kelly Farias de Moraes / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A wide view of the arena, allegory and audience at the Festival Folclórico de Parintins, Amazonas, Brazil, in 2022."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -177992,7 +177120,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": null,
+   "photoCredit": "Photo: Kelly Farias de Moraes / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -182756,16 +181884,7 @@ window.ATLASDATA={
     "Yasaka Shrine",
     "tradition"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gion-matsuri-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/gion-matsuri-2027-1-t.jpg",
-     "orig": "https://ja.kyoto.travel/img/ogp/ogp_major_gion.jpg",
-     "page": "https://ja.kyoto.travel/event/major/gion/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -213420,7 +212539,16 @@ window.ATLASDATA={
     "coastal festival",
     "traditional music"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/viru-folk-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/viru-folk-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Viru_folk_2019.jpg",
+     "credit": "Photo: Heikokr / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An aerial view of the stage, crowd and grounds at Viru Folk, Käsmu, Estonia, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -213446,7 +212574,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Heikokr / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -217625,32 +216753,7 @@ window.ATLASDATA={
     "techno",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-1-t.jpg",
-     "orig": "https://www.streetparade.com/media/pages/infos/cd61fe4aac-1750754088/sp24-by-julian-quirchmair-1693-kopie.jpg",
-     "page": "https://www.streetparade.com/en/infos",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-2-t.jpg",
-     "orig": "https://www.streetparade.com/media/pages/home/4d906a6c75-1752219179/streetparade-video-teaser_optim.jpg",
-     "page": "https://www.streetparade.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/street-parade-zurich-2027-3-t.jpg",
-     "orig": "https://www.streetparade.com/media/pages/love-mobiles/friends-of-street-parade/23d5981163-1751017427/love_mobiles_sp_2022.jpg",
-     "page": "https://www.streetparade.com/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -227530,7 +226633,24 @@ window.ATLASDATA={
     "publishing",
     "reading"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bienal-do-livro-rio-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bienal-do-livro-rio-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Bienal_do_Livro_do_Rio_de_Janeiro_2025_03.jpg",
+     "credit": "Photo: JCunha (WMB) / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The ferris wheel, tents and visitors outside the Bienal do Livro Rio, Rio de Janeiro, Brazil, in 2025."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bienal-do-livro-rio-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/bienal-do-livro-rio-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Bienal_do_Livro_do_Rio_de_Janeiro_2025_02.jpg",
+     "credit": "Photo: JCunha (WMB) / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors in an indoor aisle at the Bienal do Livro Rio, Rio de Janeiro, Brazil, in 2025."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -227561,7 +226681,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: JCunha (WMB) / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -232885,16 +232005,7 @@ window.ATLASDATA={
     "flowers",
     "40th anniversary"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/floriade-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/floriade-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:2023-09-27_Floriade_(Canberra).jpg",
-     "credit": "Photo: Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Flower beds, tents and visitors at Floriade in Commonwealth Park, Canberra, Australia, on 27 September 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -232920,7 +232031,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -237861,56 +236972,7 @@ window.ATLASDATA={
     "beer",
     "Bavaria"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-1-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/facebook/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg?h=0f8e848e",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-2-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/intro_full_width/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg.webp",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-3-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/aspect_ratio_1_1_w1008/public/2024-05/2022_09_ger_muc_oktoberfest_03_general_135-2048x1365_mr.jpeg?h=0f8e848e",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-4-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w520/public/2023-10/wiesnhero_1200x900.jpg?h=e8e56e48",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-5-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w1216/public/2023-10/wiesnhero_1200x900.jpg?h=e8e56e48",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oktoberfest-munich-2027-6-t.jpg",
-     "orig": "https://www.oktoberfest.de/sites/default/files/styles/3_2_w520/public/2026-10/mr_b3a8930.jpg?h=9855f42d",
-     "page": "https://www.oktoberfest.de/en",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -287087,24 +286149,7 @@ window.ATLASDATA={
     "music",
     "dance"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-cajamarca-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-cajamarca-2027-1-t.jpg",
-     "orig": "https://www.peru.travel/proxy?u=https%3A%2F%2Fwww.peru.travel%2FContenido%2FEvento%2FImagen%2Fes%2F755%2F1.1%2FEvento%2Fcarnaval-de-cajamarca-desktop.jpg",
-     "page": "https://www.peru.travel/es/eventos/carnaval-de-cajamarca",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-cajamarca-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-de-cajamarca-2027-2-t.jpg",
-     "orig": "https://www.peru.travel/Contenido/Uploads/foto-interna-carnaval-de-cajamarca_638409175528235279.jpg",
-     "page": "https://www.peru.travel/es/eventos/carnaval-de-cajamarca",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Peruvian government)",
@@ -287185,16 +286230,7 @@ window.ATLASDATA={
     "COAC",
     "Andalusian culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-cadiz-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-cadiz-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Coro_carnaval_cadiz_2023.jpg",
-     "credit": "Photo: NACLE / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A carnival choir performing to a street crowd during the Carnival of Cádiz, Spain, in 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -287220,7 +286256,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: NACLE / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -287574,56 +286610,7 @@ window.ATLASDATA={
    "topics": [
     "carnival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-1-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2025/01/N3A3825-scaled-uai-2064x1377_11zon.webp",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-2-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2025/02/Cuadra-del-Palmero.jpg",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-3-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-comienza-las-visitas-institucionales-a-los-grupos-y-colectivos-del-carnaval-uai-1280x1280.jpg",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-4-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-ya-tiene-cartel-del-carnaval-2027-el-legado-de-un-imperio-de-nareme-melian-uai-1280x1280.jpg",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-5-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-dara-a-conocer-este-viernes-el-cartel-del-carnaval-2027-en-la-plaza-del-principe-uai-853x853.jpg",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tenerife-carnival-2027-6-t.jpg",
-     "orig": "https://carnavaldetenerife.com/wp-content/uploads/2026/10/santa-cruz-comienza-las-visitas-institucionales-a-los-grupos-y-colectivos-del-carnaval.jpg",
-     "page": "https://www.carnavaldetenerife.com/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -294939,16 +293926,7 @@ window.ATLASDATA={
     "folklore",
     "parades"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-las-flores-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-las-flores-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Primer_Auto_en_Medell%C3%ADn.png",
-     "credit": "Photo: Bermdmkio / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A 1900 De Dion-Bouton leading the Desfile de Autos Clásicos y Antiguos of the Feria de las Flores 2017 in Medellín, with spectators behind barriers."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Alcaldía de Medellín, festival organiser)",
@@ -294979,7 +293957,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Bermdmkio / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-feria-del-libro-madrid-2027",
@@ -305458,24 +304436,7 @@ window.ATLASDATA={
     "mikoshi",
     "Kanda Myojin"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Kanda_Matsuri_20230514a.jpg",
-     "credit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A packed crowd around a festival float at Kanda Matsuri, Tokyo, Japan, on 14 May 2023."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Kanda_Matsuri_20230514c.jpg",
-     "credit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A festival float and procession in the street during Kanda Matsuri, Tokyo, Japan, on 14 May 2023."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -305501,7 +304462,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "x",
@@ -305571,24 +304532,7 @@ window.ATLASDATA={
     "drumming",
     "elephants"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kandy-esala-perahera-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kandy-esala-perahera-2027-1-t.jpg",
-     "orig": "https://sridaladamaligawa.lk/wp-content/uploads/2026/11/926128444_984265091009303_6227485698995644788_n-768x512.jpg",
-     "page": "https://sridaladamaligawa.lk/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kandy-esala-perahera-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kandy-esala-perahera-2027-2-t.jpg",
-     "orig": "https://sridaladamaligawa.lk/wp-content/uploads/2020/09/Octagan-Thumbnail-1.jpg",
-     "page": "https://sridaladamaligawa.lk/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -313127,16 +312071,7 @@ window.ATLASDATA={
     "fireworks",
     "local culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/noche-valdiviana-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/noche-valdiviana-2027-1-t.jpg",
-     "orig": "https://munivaldivia.cl/wp-content/uploads/2026/03/fuegos_artificiales_28_2_2026-18.jpg",
-     "page": "https://munivaldivia.cl/2026/03/02/una-jornada-epica-noche-valdiviana-2026-encanto-a-miles-de-personas-en-una-postal-que-quedara-en-la-memoria/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -323934,48 +322869,7 @@ window.ATLASDATA={
     "food festival",
     "restaurants"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-2-t.jpg",
-     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2024/01/Home-Bring-Your-Brand-desktop.jpg?fit=515%2C515&ssl=1",
-     "page": "https://london.tastefestivals.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-3-t.jpg",
-     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2021/04/Home-The-Taste-Manifeasto-desktop.jpg?fit=515%2C515&ssl=1",
-     "page": "https://london.tastefestivals.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-4-t.jpg",
-     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2022/02/Home-About-Taste-of-London-desktop.jpg?fit=515%2C515&ssl=1",
-     "page": "https://london.tastefestivals.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-5-t.jpg",
-     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2026/05/20250618204849_JAMES-BRIDLE_FANATIC_TOL25_DSC_5613-aspect-ratio-515-515.jpg?fit=1280%2C1280&ssl=1",
-     "page": "https://london.tastefestivals.com/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/taste-of-london-2027-6-t.jpg",
-     "orig": "https://i0.wp.com/cms.london.tastefestivals.com/wp-content/uploads/2026/02/Home-All-About-The-Feasting-desktop.jpg?fit=960%2C795&ssl=1",
-     "page": "https://london.tastefestivals.com/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -325284,16 +324178,7 @@ window.ATLASDATA={
     "Grand Parade",
     "Caribbean culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/toronto-caribbean-carnival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/toronto-caribbean-carnival-2027-1-t.jpg",
-     "orig": "https://torontocarnival.ca/wp-content/uploads/2026/06/S4.webp",
-     "page": "https://www.torontocaribbeancarnival.com/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
