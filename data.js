@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-27T08:41:45Z",
+ "generated": "2026-11-27T09:00:24Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -374300,7 +374300,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "South Bank hotel named for ASCILITE 2026. Official meetings pages returned an access restriction in this pass, so a street address and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rydges-south-bank-1.jpg",
    "linked_event_slugs": [
     "ascilite-2026"
    ],
@@ -374313,7 +374313,17 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
-   "hotel_name": "Rydges South Bank"
+   "hotel_name": "Rydges South Bank",
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rydges-south-bank-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rydges-south-bank-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Rydges_South_Bank_Hotel_Brisbane.jpg",
+     "credit": "Photo: Kgbo / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Rydges South Bank, Brisbane, Australia, in 2020."
+    }
+   ]
   },
   {
    "slug": "baku-expo-center",
@@ -377585,7 +377595,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Downtown Montréal Sheraton hotel named for the IEEE Symposium on Security and Privacy 2027. Official meeting capacities were not confirmed from a successfully fetched official events page in this pass. Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/le-centre-sheraton-montreal-1.jpg",
    "linked_event_slugs": [
     "ieee-symposium-security-privacy-2027"
    ],
@@ -377598,6 +377608,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/le-centre-sheraton-montreal-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/le-centre-sheraton-montreal-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:MJK46785_Le_Centre_Sheraton_Montreal_Hotel.jpg",
+     "credit": "Photo: Martin Kraft / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Le Centre Sheraton Montreal, Montreal, Canada, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -382269,7 +382289,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Faculty of Information Technology, Brno University of Technology campus, used by DevConf.CZ, with official site fit.vut.cz and public email. Official conference-hall totals and a complete street address were not copied from the retrieved faculty homepage. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fit-but-brno-1.jpg",
    "linked_event_slugs": [
     "devconf-cz-2027"
    ],
@@ -382282,6 +382302,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fit-but-brno-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fit-but-brno-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:FIT_VUT_Brno,_Kr%C3%A1lovo_pole-32.jpg",
+     "credit": "Photo: Hugo / Wikimedia Commons / CC BY 4.0",
+     "caption": "FIT BUT, Brno, Czechia, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -385374,7 +385404,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Copenhagen sports and events complex used with Øksnehallen for J-Popcon. The official website timed out in this pass, so a street address and capacities are left null. Coordinates are the Nominatim named DGI Byen pin (sports centre), next to Øksnehallen.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/dgi-byen-1.jpg",
    "linked_event_slugs": [
     "j-popcon-2027"
    ],
@@ -385386,7 +385416,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/dgi-byen-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/dgi-byen-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:DGI-byen.jpg",
+     "credit": "Photo: Leif Jørgensen / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "DGI Byen, Copenhagen, Denmark, in 2017."
+    }
+   ]
   },
   {
    "slug": "mch-messecenter-herning",
@@ -393019,7 +393059,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official hall page: a circular multi-purpose city hall (diameter 135.12 m, dome 26.2 m) with a central hall, four smaller versatile halls, and auxiliary spaces. First level usable area is described as approximately 14,300 m² (not stored as exact exhibition_sqm).",
    "description": "Multi-purpose indoor hall at Športski Centar Višnjik, officially at Splitska 3, 23000 Zadar, with public email. Official English hall page: 6,503 fixed seats in the central hall and a published total capacity of 8,500 seats (stored as capacity_max_delegates), plus VIP/press and family sections. Auxiliary hall 3 has a 300-seat auditorium. The first level is described as approximately 14,300 m², which is not stored as exact exhibition_sqm. Used by Infobip Shift. Coordinates are the atlas precise pin. Official Croatian ministry hotel registers were not applied (this is not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kresimir-cosic-hall-zadar-1.jpg",
    "linked_event_slugs": [
     "infobip-shift-2027"
    ],
@@ -393065,6 +393105,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kresimir-cosic-hall-zadar-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kresimir-cosic-hall-zadar-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Dvorana_%27Kre%C5%A1imir_%C4%86osi%C4%87%27_na_Vi%C5%A1njiku,_Zadar_-_grede.jpg",
+     "credit": "Photo: Silverije / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Dvorana Krešimira Ćosića, Zadar, Croatia, in 2018."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -394409,7 +394459,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Green Isle Conference & Leisure Hotel, 4 Star, Naas Road, Clondalkin, Dublin 22, D22 F9F4 (property HHS03213, 273 bedrooms). Used by the Bitcoin Ireland Conference. Official meeting-room capacities were not copied in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/green-isle-hotel-1.jpg",
    "linked_event_slugs": [
     "bitcoin-ireland-conference-2027"
    ],
@@ -394433,6 +394483,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/green-isle-hotel-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/green-isle-hotel-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:GreenIsle_Hotel_-_geograph.org.uk_-_6000149.jpg",
+     "credit": "Photo: N Chadwick / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Green Isle Hotel, Dublin, Ireland, in 2018."
     }
    ],
    "socials": [
@@ -394467,7 +394527,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Major Ballsbridge conference hotel next to the RDS, officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as InterContinental Dublin, 5 Star, Simmonscourt Road, Ballsbridge, Dublin 4, D04 A9K8 (property HHS04173, 215 bedrooms). Official meeting-room capacities were not copied in this pass. Coordinates are the Nominatim hotel pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-dublin-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -394489,6 +394549,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-dublin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-dublin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:InterContinental_Dublin_(formerly_Four_Seasons_Hotel)_in_Ballsbridge.jpg",
+     "credit": "Photo: Gillian de Lacy / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "InterContinental Dublin, Ballsbridge, Ireland, in 2016."
     }
    ],
    "socials": [
@@ -394687,7 +394757,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official fact sheet: 11 event spaces; official meetings pages name the Grafton Suite and Trinity Suite",
    "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Westbury Hotel, 5 Star, Balfe Street, Dublin 2, D02 CH66. Official 2026 fact sheet: 11 event spaces and a maximum capacity of 200, stored as capacity_max_delegates, with the postal address given there as Grafton Street, Dublin 2, D02 CH66; the Fáilte register street (Balfe Street) is stored, and the fact-sheet Grafton Street wording is noted. Official Grafton Suite page: up to 200 guests theatre-style or 150 for banqueting. Official emails and. Coordinates are Nominatim’s hotel pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-westbury-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -394742,6 +394812,16 @@ window.ATLASDATA={
      "source_url": "https://www.doylecollection.com/content/download/948/10001/version/11/file/The+Westbury+Fact+Sheet+2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/the-westbury/the-westbury-fact-sheet-2026.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-westbury-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-westbury-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Westbury_Hotel,_Dublin.jpg",
+     "credit": "Photo: Conoronmaps / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Westbury, Dublin, Ireland, in 2023."
     }
    ],
    "socials": [
@@ -394894,7 +394974,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "The Fitzwilliam Room, The Pembroke Room and The Emmet Room",
    "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Fitzwilliam Hotel, 5 Star, 127/128 Saint Stephen's Green, Dublin 2, D02 HE18, matching the official hotel site address. Official meetings page: The Fitzwilliam Room is the largest space, 82.8 m², theatre 74, classroom 20, banquet 60, stored as capacity_max_delegates 74; The Pembroke Room 57.63 m² / theatre 40; The Emmet Room 30.59 m² / boardroom 10. A Nominatim hotel pin was not returned in this pass, so coordinates are left null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fitzwilliam-hotel-dublin-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -394961,6 +395041,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fitzwilliam-hotel-dublin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fitzwilliam-hotel-dublin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Dublin,_The_Fitzwilliam_Hotel.jpg",
+     "credit": "Photo: GilPe / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Fitzwilliam Hotel, Dublin, Ireland, in 2024."
     }
    ],
    "socials": [
@@ -398686,7 +398776,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Hall and conference facility in Ariake Central Tower, named for Developers Summit 2027. Official room capacities were not confirmed from a successfully fetched official page in this pass, so capacity fields are null. Coordinates are the atlas precise pin, which matches the Nominatim named building pin for 有明セントラルタワー. The website is a commonly cited official hotel-conference page for the tower; if that URL is later found to be stale it should be replaced from the operator’s current official site.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/ariake-central-tower-hall-and-conference-1.jpg",
    "linked_event_slugs": [
     "developers-summit-2027"
    ],
@@ -398698,7 +398788,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/ariake-central-tower-hall-and-conference-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/ariake-central-tower-hall-and-conference-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Ariake_Central_Tower,_at_Ariake,_Koto,_Tokyo_(2019-01-01)_01.jpg",
+     "credit": "Photo: Lombroso / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Ariake Central Tower, Tokyo, Japan, in 2019."
+    }
+   ]
   },
   {
    "slug": "miyazaki-prefectural-arts-theater",
@@ -398715,7 +398815,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Prefectural arts theatre (Medikit Kenmin Bunka Center), named for RubyKaigi 2027. Official seating capacities were not confirmed from an official theatre page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/miyazaki-prefectural-arts-theater-1.jpg",
    "linked_event_slugs": [
     "rubykaigi-2027"
    ],
@@ -398727,7 +398827,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/miyazaki-prefectural-arts-theater-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/miyazaki-prefectural-arts-theater-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Miyazaki_Prefectural_Art_Theater_from_Miyazaki_Prefecture_General_Culture_Park.jpg",
+     "credit": "Photo: そらみみ / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Miyazaki Prefectural Arts Theater, Miyazaki, Japan, in 2017."
+    }
+   ]
   },
   {
    "slug": "ana-intercontinental-tokyo",
@@ -402565,7 +402675,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official events page: recently refurbished conference centre with 17 meeting rooms and 1,400 m² of meeting space on one floor (the page header also lists 15 event rooms and 2,001 m² total event space, including outdoor venues)",
    "description": "Peninsula resort in St Julian’s with a conference centre. The official Marriott events page gives the Dragonara Point Ballroom 600 theatre, 400 seated or 1,000 standing, divisible into St Julian's Bay, Spinola Bay and St George's Bay. The same page’s summary statistics list 1,500 as the capacity of the largest space, identified in the FAQ as the outdoor Reef Club Sun Deck; headline capacity_max_delegates is the largest indoor theatre figure (600). The page also refers both to 17 meeting rooms / 1,400 m² and to 15 event rooms / 2,001 m² total event space. Classified 5-star on the MTA hotels licence CSV (HTL-04354 / H/0002, Westin Dragonara Hotel, 2026 licence year). Coordinates are a Nominatim result for the named hotel.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/westin-dragonara-resort-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -402669,6 +402779,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/westin-dragonara-resort-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/westin-dragonara-resort-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Malta_-_St._Julian%27s_-_Triq_id-Dragunara_-_The_Westin_Dragonara_Resort_03_-_View_on_Dragonara_Palace.jpg",
+     "credit": "Photo: Txllxt TxllxT / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Westin Dragonara Resort, St Julian's, Malta, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -403908,7 +404028,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings page lists four venues. Il-Kappella is 265 m² (400 reception / 220 banquet / 300 theatre). Il-Kappella Terrace is 500 m² (400 reception / 250 banquet). Id-Dwejra 89 m² / 60 theatre; L-Għorfa 55 m² / 30 theatre. MTA licence HTL-04456, 117 bedrooms, official 5-star.",
    "description": "MTA official 5-star hotel in San Lawrenz, Gozo (licence HTL-04456 / H/0329, 117 bedrooms). Official meetings page: largest published room capacities are 300 theatre and 400 reception in Il-Kappella, with the adjoining terrace also listed at 400 reception. Sales contact on the official site:.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kempinski-hotel-san-lawrenz-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -403980,6 +404100,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kempinski-hotel-san-lawrenz-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kempinski-hotel-san-lawrenz-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Haupttrakt_Kempinski_Malta.JPG",
+     "credit": "Photo: Simplex2 / Wikimedia Commons / CC BY-SA 3.0 (2014)",
+     "caption": "Kempinski Hotel San Lawrenz, San Lawrenz, Gozo, Malta, in 2014."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -407597,7 +407727,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Rebel Expo, SKRAA, Rebel Hangout, Rebel Roof and meeting rooms for 2–22 people",
    "description": "Central Oslo offices, meeting rooms and conference venue at Universitetsgata 2, beside St. Olavs plass. Official copy says one hall holds up to 350 people and parallel sessions can reach 800 participants in total, stored as capacity_max_delegates. Official space figures include Rebel Expo up to 350, SKRAA up to 200 seated, Rebel Hangout up to 345 across two floors, and Rebel Roof up to 120.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rebel-oslo-1.jpg",
    "linked_event_slugs": [
     "ndc-ai-2026"
    ],
@@ -407659,6 +407789,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rebel-oslo-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/rebel-oslo-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Rebel-exterior-2025.jpg",
+     "credit": "Photo: Dkpedersen / Wikimedia Commons / CC BY 4.0",
+     "caption": "Rebel Oslo, Oslo, Norway, in 2025."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -414810,7 +414950,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Collegium, a Linköping Science Park venue used by ICANN. The official Collegium site was retrieved but did not yield a published Linköping street address or room capacities in this pass (a Gothenburg contact address appears on the site and was not used as the venue address). Coordinates are the atlas precise pin, which matches the Nominatim named Collegium building.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/collegium-linkoping-1.jpg",
    "linked_event_slugs": [
     "icann-2027"
    ],
@@ -414822,7 +414962,25 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/collegium-linkoping-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/collegium-linkoping-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Collegium,_Mj%C3%A4rdevi_02.jpg",
+     "credit": "Photo: Bene Riobó / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Collegium, Linköping, Sweden, in 2026."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/collegium-linkoping-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/collegium-linkoping-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Collegium,_Mj%C3%A4rdevi_01.jpg",
+     "credit": "Photo: Bene Riobó / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Collegium, Linköping, Sweden, in 2026."
+    }
+   ]
   },
   {
    "slug": "slagthuset",
@@ -416051,7 +416209,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official IHG hotel pages returned HTTP 403 on retrieval, so meeting-room figures and the official street address were not taken from the hotel site this pass. The atlas lists Hodžovo námestie 2; that address is not stored because it was not confirmed on a retrieved official hotel page.",
    "description": "Atlas-hosting hotel for Autumn ITAPA 2026. Coordinates are the named Nominatim hotel pin, which matches the atlas precise pin. The official IHG property page returned HTTP 403, so address and capacities are null pending an official page retrieve. No Hotelstars Union property-level listing was retrieved in this pass (the Slovakia directory path returned 404), so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crowne-plaza-bratislava-1.jpg",
    "linked_event_slugs": [
     "autumn-itapa-2026"
    ],
@@ -416064,6 +416222,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crowne-plaza-bratislava-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crowne-plaza-bratislava-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Crowne_Plaza_Bratislava_(20160110-IMG_3637).jpg",
+     "credit": "Photo: Matti Blume / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Crowne Plaza Bratislava, Bratislava, Slovakia, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "linkedin",
@@ -421442,7 +421610,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Beachfront convention resort in Hollywood, Florida, listed in the atlas as the venue for SuperReturn North America 2027. Address and coordinates are a Nominatim result for the named hotel. Official meeting-room capacities were not recorded from the Hilton events page in this pass, so numeric fields are left null. star_rating is null; the US has no official government hotel classification.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/signia-hilton-diplomat-beach-resort-1.jpg",
    "linked_event_slugs": [
     "superreturn-north-america-2027"
    ],
@@ -421455,6 +421623,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/signia-hilton-diplomat-beach-resort-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/signia-hilton-diplomat-beach-resort-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Diplomat_Hotel_in_2015.jpg",
+     "credit": "Photo: Mk17b / Wikimedia Commons / CC BY-SA 4.0 (2015)",
+     "caption": "Signia Hilton Diplomat Beach Resort (then the Diplomat Hotel), Hollywood, Florida, United States, in 2015."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
