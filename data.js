@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-27T08:25:44Z",
+ "generated": "2026-11-27T08:41:45Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -372341,7 +372341,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings-page schema lists 13 named event spaces; the Theophil Ballroom is divisible into two.",
    "description": "Official WKO Hotelsterne directory (stand 17.08.2026 on the fetched page) lists Anantara Palais Hansen Vienna Hotel at Schottenring 24, 1010 Wien as a 5 Sterne Superior hotel. Superior is an add-on within the five-star category, not a sixth star. Official meetings page max capacity 265; Theophil Ballroom 277.45 sq.m., theatre 265, classroom 160, banquet 220, cocktail 265. Official factsheet says 'up to 265 guests combined' for Theophil I and II.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-palais-hansen-vienna-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -372528,6 +372528,16 @@ window.ATLASDATA={
      "source_url": "https://www.anantara.com.cn/uploads/minor/anantara/documents/anantara-palais-hansen-vienna-hotel/factsheet/anantara_palais_hansen_vienna_hotel_factsheet_en.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/at/anantara-palais-hansen-vienna/anantara-palais-hansen-vienna-factsheet-en.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-palais-hansen-vienna-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-palais-hansen-vienna-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Wien_01_Palais_Hansen_a.jpg",
+     "credit": "Photo: Gugerell / Wikimedia Commons / CC0 (2014)",
+     "caption": "Palais Hansen (now Anantara Palais Hansen) on the Schottenring, Vienna, Austria, in 2014."
     }
    ],
    "socials": [
@@ -373758,7 +373768,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Campus venue at UNSW Kensington, named for Bitcoin Alive 2027. Official published conference capacities were not confirmed in this pass, so capacity fields are null. Coordinates are the atlas precise pin for the named Roundhouse. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/unsw-roundhouse-1.jpg",
    "linked_event_slugs": [
     "bitcoin-alive-2027"
    ],
@@ -373771,6 +373781,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/unsw-roundhouse-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/unsw-roundhouse-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:UNSW_Roundhouse_002.jpg",
+     "credit": "Photo: Sardaka / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The UNSW Roundhouse, University of New South Wales, Sydney, Australia, in 2021."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -373803,7 +373823,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Queensland University of Technology Gardens Point campus, named as the venue for Everything Open 2027. The atlas pin for this event is not marked precise, so coordinates are left null rather than storing an imprecise campus or city pin. Official room-level conference capacities were not confirmed in this pass. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/qut-gardens-point-1.jpg",
    "linked_event_slugs": [
     "everything-open-2027"
    ],
@@ -373816,6 +373836,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/qut-gardens-point-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/qut-gardens-point-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Queensland_University_of_Technology,_Gardens_Point_campus.jpg",
+     "credit": "Photo: Chris Olszewski / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Queensland University of Technology, Gardens Point campus, Brisbane, Australia, in 2020."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -374176,7 +374206,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Barangaroo hotel-casino named in atlas strings as ‘Crown Sydney, Barangaroo’ and ‘Crown Sydney’ (XRP Australia 2027 and CTO Day Sydney 2027), recorded as one venue. Official meetings URL variants returned 404 in this pass, so a street number and meeting capacities are not recorded. Australia has no current official government hotel star classification scheme, so star_rating is null. Official meeting-room capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crown-sydney-1.jpg",
    "linked_event_slugs": [
     "xrp-australia-2027",
     "cto-day-sydney-2027"
@@ -374190,6 +374220,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crown-sydney-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/crown-sydney-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Sydney_Crown_Sydney_seen_from_the_observatory.jpg",
+     "credit": "Photo: Ymblanter / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Crown Sydney at Barangaroo, seen from the Sydney Observatory, Sydney, Australia, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -377619,7 +377659,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Downtown Toronto hotel named together with Metro Toronto Convention Centre for PDAC 2027 (atlas/official venue string: Fairmont Royal York Hotel, 100 Front St W). Official meeting capacities were not confirmed from a successfully fetched official events page in this pass, so they are null. Coordinates are the Nominatim named hotel pin for Fairmont Royal York Hotel at 100 Front Street West (the PDAC atlas pin is the MTCC pin, not this hotel). Canada no longer has a current national official hotel star classification (Canada Select was discontinued), and no current official provincial hotel-level star list was tied to this property in this pass, so star_rating is null. Official meeting capacities were not confirmed from a successfully fetched official page or PDF in this pass, so capacity fields are null rather than taken from competitor directories.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fairmont-royal-york-1.jpg",
    "linked_event_slugs": [
     "pdac-2027"
    ],
@@ -377632,6 +377672,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fairmont-royal-york-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/fairmont-royal-york-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Toronto%27s_Royal_York_Hotel_(52715696801).jpg",
+     "credit": "Photo: apasciuto / Wikimedia Commons / CC BY 2.0",
+     "caption": "Fairmont Royal York, Front Street, Toronto, Canada, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -377671,7 +377721,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Toronto urban-innovation campus named for Canadian AI 2027. Official auditorium or conference-room capacities were not confirmed from an official MaRS page in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/mars-discovery-district-1.jpg",
    "linked_event_slugs": [
     "canadian-ai-2027"
    ],
@@ -377684,6 +377734,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/mars-discovery-district-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/mars-discovery-district-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:MaRS_Toronto_2023_jeh.jpg",
+     "credit": "Photo: Jim.henderson / Wikimedia Commons / CC BY 4.0",
+     "caption": "MaRS Discovery District, Toronto, Canada, in 2023, showing the heritage wing and later tower."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -377737,7 +377797,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "SFU Burnaby campus, named for the Congress of the Humanities and Social Sciences 2027. Official individual-hall conference capacities were not confirmed in this pass, so capacity fields are null. Coordinates are the atlas precise pin for the named Burnaby campus. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/simon-fraser-university-burnaby-1.jpg",
    "linked_event_slugs": [
     "congress-humanities-social-sciences-2027"
    ],
@@ -377750,6 +377810,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/simon-fraser-university-burnaby-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/simon-fraser-university-burnaby-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Academic-Quadrangle-SFU-Burnaby-British-Columbia-Canada-06-A.jpg",
+     "credit": "Photo: WinterforceMedia / Wikimedia Commons / CC0 (2012)",
+     "caption": "Academic Quadrangle of Simon Fraser University, Burnaby campus, Burnaby, British Columbia, Canada, in 2012."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -377803,7 +377873,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Port of Montreal waterfront quay named for Startupfest 2027. Official event-space capacities were not confirmed from an official Port of Montreal page in this pass, so capacity fields are null. This is a named official waterfront venue, not a marine-show mix of stadium and marina. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/grand-quay-port-of-montreal-1.jpg",
    "linked_event_slugs": [
     "startupfest-2027"
    ],
@@ -377816,6 +377886,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/grand-quay-port-of-montreal-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/grand-quay-port-of-montreal-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Grand_Quai_du_Port_de_Montreal_-_005.jpg",
+     "credit": "Photo: Jeangagnon / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The signed Grand Quay (Grand Quai) of the Port of Montreal, Montreal, Canada, in 2019."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/grand-quay-port-of-montreal-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/grand-quay-port-of-montreal-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Grand_Quai_du_Port_de_Montreal_-_001.jpg",
+     "credit": "Photo: Jeangagnon / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Grand Quay of the Port of Montreal, Montreal, Canada, in 2019."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -379424,7 +379512,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Zurich hillside hotel at the official HotellerieSuisse directory address Kurhausstrasse 65, 8032 Zürich. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. Official meeting-capacity figures were not captured from a live hotel meetings page in this pass, so capacity fields are null. Coordinates are the Nominatim hotel pin for the official address.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-dolder-grand-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -379435,6 +379523,16 @@ window.ATLASDATA={
    "star_rating": 5,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-dolder-grand-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-dolder-grand-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Dolder_Grand_Z%C3%BCrich_2019.jpg",
+     "credit": "Photo: Whgler / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Dolder Grand, Zurich, Switzerland, in 2019."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -379495,7 +379593,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Lausanne lakefront hotel. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. The stored address Place du Port 17-19, 1006 Lausanne is published on the official hotel meetings-and-events page (alongside related on-site outlets). Official numeric meeting-room capacities were not extracted as a clear table from that page, so capacity fields are null. Official general contact. Coordinates are the Nominatim hotel pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/beau-rivage-palace-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -379510,6 +379608,16 @@ window.ATLASDATA={
    "star_rating": 5,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/beau-rivage-palace-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/beau-rivage-palace-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Beau-Rivage_Palace,_Lausanne.jpg",
+     "credit": "Photo: Gregor Julien Straube / Wikimedia Commons / CC BY-SA 4.0 (2015)",
+     "caption": "Beau-Rivage Palace, Lausanne, Switzerland, in 2015."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -379549,7 +379657,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Geneva lakeside hotel at the official HotellerieSuisse directory address Quai des Bergues 33, 1201 Genève. Official HotellerieSuisse classification for this property: 5 Star Superior Hotel. star_rating is 5; the Superior add-on is noted here only. The official Four Seasons meetings page requested in this pass returned HTTP 403, so meeting capacities are null. Coordinates are the Nominatim hotel pin for the official address.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-des-bergues-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -379560,6 +379668,16 @@ window.ATLASDATA={
    "star_rating": 5,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-des-bergues-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-des-bergues-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_des_Bergues_Geneva.jpg",
+     "credit": "Photo: Cd-MaN83 / Wikimedia Commons / CC0",
+     "caption": "Four Seasons Hotel des Bergues, Geneva, Switzerland, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -382217,7 +382335,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events schema lists 21 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
    "description": "Prague Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (400). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/prague-marriott-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -382481,6 +382599,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/prague-marriott-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/prague-marriott-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Praha_Nove_Mesto_V_celnici_8_Hotel_Marriott.jpg",
+     "credit": "Photo: JiriMatejicek / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Prague Marriott Hotel on V Celnici, New Town, Prague, Czechia, in 2019."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -383543,7 +383671,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Hilton hotel in central Berlin used as the venue for the atlas event OffensiveCon. A street address and published meeting capacities were not confirmed from the official hotel page in this pass, so those fields are null; coordinates come from the atlas's precise geocode for this venue name.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-berlin-1.jpg",
    "linked_event_slugs": [
     "offensivecon-2027"
    ],
@@ -383556,6 +383684,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-berlin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-berlin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Hilton_Berlin_south_of_Deutscher_Dom_9106.jpg",
+     "credit": "Photo: Dosseman / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hilton Berlin, south of the Deutscher Dom on the Gendarmenmarkt, Berlin, Germany, in 2021."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -383602,7 +383740,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "InterContinental hotel in Berlin listed as the venue for SuperReturn International in the atlas. The atlas pin for this event is not a verified venue-level coordinate, and an official street address and conference capacities were not confirmed in this pass, so those fields are null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-berlin-1.jpg",
    "linked_event_slugs": [
     "superreturn-international-2027"
    ],
@@ -383615,6 +383753,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-berlin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-berlin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Intercontinental-Berlin-2023.jpg",
+     "credit": "Photo: Tuxyso / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "InterContinental Berlin, Budapester Straße, Berlin, Germany, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -383822,7 +383970,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Theme park and resort in Rust, Baden-Württemberg, which also hosts large professional conferences. The atlas lists both CloudFest and JavaLand here. Conference-room capacities specific to congress use were not verified from an official meetings factsheet in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/europa-park-rust-1.jpg",
    "linked_event_slugs": [
     "cloudfest-2027",
     "javaland-2027"
@@ -383836,6 +383984,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/europa-park-rust-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/europa-park-rust-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Eingang_Europa_Park.jpeg",
+     "credit": "Photo: Neulandkrieger / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The named main entrance of Europa-Park, Rust, Germany, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -384725,7 +384883,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings-events page: Ballroom Maximilian 510 m², up to 600 guests, 500 theatre; Maximilian I 170 m², 140 reception / 150 theatre; Maximilian II 220 m², 220 reception / 200 theatre.",
    "description": "Official Deutsche Hotelklassifizierung 5-star hotel (Hotelstars Union Munich 5-star list). Official address Maximilianstrasse 17, Munich; official hotel geo on the official site 48.1389, 11.5815. Official Ballroom Maximilian up to 600 guests (stored as capacity_max_delegates) and 510 m² / 500 theatre. The site’s “five-star luxury hotel” wording is a self-description; the stored star_rating is the official Hotelstars listing, not that marketing line. Hotelstars Superior, if used, is not a sixth star.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-vier-jahreszeiten-kempinski-munich-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -384781,6 +384939,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-vier-jahreszeiten-kempinski-munich-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-vier-jahreszeiten-kempinski-munich-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Hotel_Vier_Jahreszeiten_Kempinski_M%C3%BCnchen_2026_3243.jpg",
+     "credit": "Photo: H-stt / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hotel Vier Jahreszeiten Kempinski, Maximilianstraße, Munich, Germany, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -385166,7 +385334,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Copenhagen events hall used by Digital Tech Summit and, together with DGI Byen, by J-Popcon. The official website did not return content in this pass, so a street address and capacities are left null rather than taken from secondary listings. Coordinates are the atlas precise pin, which matches the Nominatim named Øksnehallen pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oksnehallen-1.jpg",
    "linked_event_slugs": [
     "digital-tech-summit-2027",
     "j-popcon-2027"
@@ -385179,7 +385347,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oksnehallen-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oksnehallen-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:%C3%98ksnehallen.jpg",
+     "credit": "Photo: Orf3us / Wikimedia Commons / CC BY 4.0",
+     "caption": "Øksnehallen, Copenhagen, Denmark, in 2016."
+    }
+   ]
   },
   {
    "slug": "dgi-byen",
@@ -385264,7 +385442,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events schema lists 15 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
    "description": "Copenhagen Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (520). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copenhagen-marriott-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -385456,6 +385634,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copenhagen-marriott-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copenhagen-marriott-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Copenhagen_Marriott_from_across_harbor.jpg",
+     "credit": "Photo: RL0919 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Copenhagen Marriott, seen across the harbour at Kalvebod Brygge, Copenhagen, Denmark, in 2018."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -385863,7 +386051,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "National Library of Estonia (RaRa / Eesti Rahvusraamatukogu), used by the Nordic EdTech Summit, with official site rara.ee. The retrieved official homepage states that the main building is closed for reconstruction and lists other service locations, including an Embassy in Solaris; a conference-room table and a complete street address for the summit venue were not copied. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/national-library-of-estonia-1.jpg",
    "linked_event_slugs": [
     "nordic-edtech-summit-2027"
    ],
@@ -385876,6 +386064,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/national-library-of-estonia-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/national-library-of-estonia-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:National_Library_of_Estonia_(in_Tallinn).jpg",
+     "credit": "Photo: Pauloleong2002 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "National Library of Estonia (Eesti Rahvusraamatukogu / RaRa) on Tõnismägi, Tallinn, Estonia, in 2019."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/national-library-of-estonia-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/national-library-of-estonia-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Eesti_Rahvusraamatukogu_T%C3%B5nism%C3%A4e_hoone_aastal_2018.jpg",
+     "credit": "Photo: Kaupo Kalda / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Tõnismägi building of the National Library of Estonia, Tallinn, in 2018."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -387266,7 +387472,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official fact sheet: 16 meeting rooms with daylight, including a garden terrace; main ballroom Plata 608 m², divisible into Albéniz and Granados",
    "description": "Classic Paseo de la Castellana conference hotel. The official Comunidad de Madrid tourist-accommodation register lists it as a 5-star hotel (categoria 5-HOTEL) at Paseo de la Castellana 49, 28046 Madrid. The official hotel fact sheet describes 16 meeting rooms and the Plata ballroom of 608 m² (table 608.8 m²), theatre 600, cocktail 630 and banquet 600, divisible into Albéniz and Granados. Coordinates are left null: a Nominatim query for the official street and postcode returned only a street-level pin on a different stretch of Paseo de la Castellana, which was not used.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-madrid-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -387305,6 +387511,16 @@ window.ATLASDATA={
      "source_url": "https://madrid.intercontinental.com/wp-content/uploads/2023/05/InterContinental-Madrid_Factsheet_EN.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/es/intercontinental-madrid/intercontinental-madrid-factsheet-en.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-madrid-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-madrid-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Hotel_InterContinental_1.jpg",
+     "credit": "Photo: Zarateman / Wikimedia Commons / CC0",
+     "caption": "Entrance of the InterContinental Madrid, Paseo de la Castellana, Madrid, Spain, in 2023."
     }
    ],
    "socials": [
@@ -387353,7 +387569,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings page: 1,700 m² total event space across 9 venues (combined event-space total, not stored as exhibition_sqm). Official Sol Ballroom 512 m², banquet 350, classroom 258, reception 350; Canalejas Ballroom 247 m², banquet 150, classroom 151, reception 165.",
    "description": "Official Four Seasons Hotel Madrid at Calle de Sevilla, 3, 28014 Madrid, with two official ballrooms on the meetings page. Official Sol Ballroom 512 m² and 350 banquet/reception (stored as capacity_max_delegates). The official homepage describes a luxury 5-star hotel, but that is a self-description, not a retrieved property-level listing on the Comunidad de Madrid tourist-accommodation register, so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-madrid-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -387417,6 +387633,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-madrid-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-madrid-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_Madrid_(52109215600).jpg",
+     "credit": "Photo: ajay_suresh / Wikimedia Commons / CC BY 2.0",
+     "caption": "Four Seasons Hotel Madrid at Centro Canalejas, Madrid, Spain, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -390331,7 +390557,7 @@ window.ATLASDATA={
   },
   {
    "slug": "hilton-brighton-metropole",
-   "name": "Hilton Brighton Metropole",
+   "name": "DoubleTree by Hilton Brighton Metropole",
    "type": "hotel_conference_venue",
    "country": "United Kingdom",
    "cc": "GB",
@@ -390339,24 +390565,34 @@ window.ATLASDATA={
    "address": null,
    "lat": 50.821886,
    "lon": -0.149018,
-   "url": "https://www.hilton.com/en/hotels/bshmetw-hilton-brighton-metropole/",
+   "url": "https://www.hilton.com/en/hotels/bshmedi-doubletree-brighton-metropole/",
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
-   "description": "Seafront Hilton hotel in Brighton, listed in the atlas as the venue for Develop Brighton. Street address and official meeting capacities were not confirmed from the hotel page in this pass; coordinates are the atlas's precise geocode.",
-   "photo": null,
+   "description": "Seafront DoubleTree by Hilton hotel in Brighton, listed in the atlas as the venue for Develop Brighton. Street address and official meeting capacities were not confirmed from the hotel page in this pass; coordinates are the atlas's precise geocode. Official name on Hilton's own site (www.hilton.com/en/hotels/bshmedi-doubletree-brighton-metropole/ and the official Hilton Brighton locations listing, both retrieved 27 Nov 2026) is DoubleTree by Hilton Brighton Metropole (schema.org Hotel name, page heading, and official hotel URL; brand code DT, property code BSHMEDI). The previous official Hilton URL for Hilton Brighton Metropole (bshmetw-hilton-brighton-metropole) now returns 404. Hilton Brighton Metropole is the former atlas display name for the same historic Metropole.",
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-brighton-metropole-1.jpg",
    "linked_event_slugs": [
     "develop-brighton-2027"
    ],
    "sources": [
     {
-     "url": "https://www.hilton.com/en/hotels/bshmetw-hilton-brighton-metropole/",
+     "url": "https://www.hilton.com/en/hotels/bshmedi-doubletree-brighton-metropole/",
      "label": "Official source"
     }
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-brighton-metropole-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-brighton-metropole-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:DoubleTree_by_Hilton_Brighton_Metropole_2023-08-27.jpg",
+     "credit": "Photo: Andy Li / Wikimedia Commons / CC0",
+     "caption": "Hilton Brighton Metropole (then signed as DoubleTree by Hilton Brighton Metropole), King's Road, Brighton, United Kingdom, in 2023."
+    }
+   ]
   },
   {
    "slug": "intercontinental-london-the-o2",
@@ -390670,7 +390906,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Grade I listed former tobacco warehouse in Wapping, used as an events venue. The atlas lists AI Summit London here. Official capacities were not verified from the venue factsheet in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tobacco-dock-london-1.jpg",
    "linked_event_slugs": [
     "ai-summit-london-2027"
    ],
@@ -390683,6 +390919,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tobacco-dock-london-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tobacco-dock-london-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Replica_pirate_ships_at_Tobacco_Dock.jpg",
+     "credit": "Photo: Matt Brown / Wikimedia Commons / CC BY 2.0",
+     "caption": "Replica ships in the dock at Tobacco Dock, Wapping, London, United Kingdom, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -390729,7 +390975,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Shoreditch/Brick Lane event and workspace complex in the former Truman Brewery, listed in the atlas for DTX London and ContainerDays London (venue strings 'The Old Truman Brewery' and 'The Truman Brewery' are treated as one site). Official hall capacities and a full street address were not confirmed from the venue site in this pass; coordinates are the atlas's precise geocode.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-truman-brewery-london-1.jpg",
    "linked_event_slugs": [
     "dtx-london-2027",
     "containerdays-london-2027"
@@ -390743,6 +390989,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-truman-brewery-london-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-truman-brewery-london-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Truman_Brewery_London_01.jpg",
+     "credit": "Photo: M R Karim Reza / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Old Truman Brewery on Brick Lane, London, United Kingdom, in 2024, with the Truman chimney."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -390852,7 +391108,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Chiswell Street events venue in the former Whitbread Brewery. The atlas lists PG Connects London jointly at The Brewery and the Barbican Centre, so the event slug is linked to both records. Official capacities were not confirmed in this pass; coordinates follow the atlas's precise geocode for this dual-venue listing.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-brewery-london-1.jpg",
    "linked_event_slugs": [
     "pg-connects-london-2027"
    ],
@@ -390865,6 +391121,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-brewery-london-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-brewery-london-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:The_Brewery_-_geograph.org.uk_-_6531406.jpg",
+     "credit": "Photo: N Chadwick / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The Brewery, Chiswell Street, London, United Kingdom, in 2019."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -391080,7 +391346,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Historic events rooms in Covent Garden / Holborn, listed in the atlas for CBC Summit Europe. The atlas coordinate for that event is not a precise venue pin, and official capacities were not confirmed in this pass, so those fields are null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/de-vere-grand-connaught-rooms-1.jpg",
    "linked_event_slugs": [
     "cbc-summit-europe-2027"
    ],
@@ -391093,6 +391359,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/de-vere-grand-connaught-rooms-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/de-vere-grand-connaught-rooms-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Grand_Connaught_Rooms,_Great_Queen_Street,_Covent_Garden,_December_2022.jpg",
+     "credit": "Photo: No Swan So Fine / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Entrance of the Grand Connaught Rooms, Great Queen Street, Covent Garden, London, United Kingdom, in December 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -393942,7 +394218,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Conrad Dublin, 5 Star, Earlsfort Terrace, Dublin 2, D02 V562 (property HHS03811, 192 bedrooms). Used by the NextGen Payments & RegTech Forum. Official meeting-room capacities were not copied from the hotel site in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/conrad-dublin-1.jpg",
    "linked_event_slugs": [
     "nextgen-payments-regtech-forum-dublin-2027"
    ],
@@ -393966,6 +394242,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/conrad-dublin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/conrad-dublin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Dublin-Earlsfort_Terrace-Conrad_Hotel_-_geograph.org.uk_-_3965343.jpg",
+     "credit": "Photo: Suzanne Mischyshyn / Wikimedia Commons / CC BY-SA 2.0 (2013)",
+     "caption": "Conrad Dublin on Earlsfort Terrace, Dublin, Ireland, in 2013."
     }
    ],
    "socials": [
@@ -394258,7 +394544,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as The Shelbourne, 5 Star, 27 Saint Stephen's Green, Dublin 2, D02 H529 (property HHS04430, 265 bedrooms). Included as a leading Dublin 5-star conference hotel. A Nominatim result for the hotel building itself was not confirmed (a spa POI of the same name was discarded), so coordinates are left null. Official meeting-room capacities were not copied in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-shelbourne-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -394280,6 +394566,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-shelbourne-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-shelbourne-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Shelbourne_Hotel_entrance.jpg",
+     "credit": "Photo: Sharonlflynn / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Shelbourne Hotel entrance on St Stephen's Green, Dublin, Ireland, in 2017."
     }
    ],
    "socials": [
@@ -394487,7 +394783,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Nine official meeting rooms across 700 sqm, including The Marker Suite",
    "description": "Dublin conference hotel officially listed on Fáilte Ireland’s Q4 2026 registered hotels register as Anantara The Marker Dublin Hotel, 5 Star, Grand Canal Square, Docklands, Dublin 2, D02 CK38. Official hotel and meetings pages: nine meeting and event spaces across 700 sqm, with capacity for up to 350 guests, stored as capacity_max_delegates. Official Marker Suite: 336 sq.m (28.0 × 12.0 × 4.7 m), theatre 300, classroom 180; divisible into Marker Suite 1 and 2 of 168 sq.m each (theatre 150 and 130). Coordinates are Nominatim’s hotel pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-the-marker-dublin-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -394554,6 +394850,16 @@ window.ATLASDATA={
      "source_url": "https://assets.failteireland.ie/5608854e-b2c7-0144-a5f6-88a7e629b0a4/d12ce37c-51f1-4ee4-b306-5ce2282dec97/quality-assured-registers-lists-Q4-registered-hotel-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/ie/_failte-ireland/failte-ireland-q4-2026-registered-hotels.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-the-marker-dublin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/anantara-the-marker-dublin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Marker_Hotel.jpg",
+     "credit": "Photo: William Murphy / Wikimedia Commons / CC BY-SA 2.0 (2013)",
+     "caption": "The Marker Hotel (now Anantara The Marker), Grand Canal Square, Dublin, Ireland, in 2013."
     }
    ],
    "socials": [
@@ -406492,7 +406798,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "2 theatre halls plus 10 meeting rooms (official 2026 meetings information pack)",
    "description": "Theatre and meetings venue in Amsterdam Nieuw-West. The official 2026 meetings and events information pack lists the Rode zaal for 800 people (523 in the stalls and 277 on the balcony) and the Blauwe zaal for 265 people, plus ten meeting rooms. The venue publishes as its events contact.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meervaart-amsterdam-1.jpg",
    "linked_event_slugs": [
     "ddd-europe-2027"
    ],
@@ -406541,6 +406847,16 @@ window.ATLASDATA={
      "source_url": "https://media.meervaart.nl/01982d76-6e1a-7e8b-a73a-373c1a1f948d/meervaart-meetings-events-informatiemap-2026.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/nl/meervaart-amsterdam/meetings-events-informatiemap-2026.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meervaart-amsterdam-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meervaart-amsterdam-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:De_meervaart_vanaf_het_zuiden.jpg",
+     "credit": "Photo: BonstraGeert / Wikimedia Commons / CC BY-SA 4.0 (2015)",
+     "caption": "Theater De Meervaart, Amsterdam, the Netherlands, in 2015."
     }
    ],
    "socials": [
@@ -407396,7 +407712,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Radisson Blu hotel in central Oslo used by NDC Security. The official hotel website returned an access error in this pass, so a published street address and meeting-room figures were not copied from it. A property-level listing on Norway’s official hotel classification scheme (Norsk Hotellklassifisering / klassifisering.no) was not retrieved (the register site did not respond), so star_rating is left null. Coordinates are the atlas precise pin, which matches the Nominatim hotel pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/radisson-blu-scandinavia-hotel-oslo-1.jpg",
    "linked_event_slugs": [
     "ndc-security-2027"
    ],
@@ -407409,6 +407725,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/radisson-blu-scandinavia-hotel-oslo-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/radisson-blu-scandinavia-hotel-oslo-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Radisson_Blu_Scandinavia_Hotel,_Oslo_(2024).jpg",
+     "credit": "Photo: Ssu / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Radisson Blu Scandinavia Hotel, Oslo, Norway, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "tiktok",
@@ -410600,7 +410926,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official events header: 8 event rooms, 1,630 m² total event space, 11 breakout rooms; largest space (Apollo) 850 people. The same official page also mentions 1,750 m² of meeting rooms plus 4,000 m² of garden event space.",
    "description": "Hotel in Porto with a substantial official meetings offer, published as the venue for Linux Storage Summit 2027. Official Marriott events pages list 8 event rooms, 1,630 m² of event space and a largest-space capacity of 850 in the Apollo room (the same page also mentions 1,750 m² of meeting rooms, which is noted as a discrepancy). The official capacity chart gives Apollo 10,172 sq ft (about 945 m²), theatre 850, classroom 530, reception 830 and banquet 630. An official Turismo de Portugal RNET star classification was not confirmed in this pass, so star_rating is null. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sheraton-porto-hotel-spa-1.jpg",
    "linked_event_slugs": [
     "linux-storage-summit-2027"
    ],
@@ -410630,7 +410956,17 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
-   "hotel_name": "Sheraton Porto Hotel & Spa"
+   "hotel_name": "Sheraton Porto Hotel & Spa",
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sheraton-porto-hotel-spa-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sheraton-porto-hotel-spa-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Sheraton_Porto_Hotel_%5E_Spa_-_panoramio.jpg",
+     "credit": "Photo: Mister No / Wikimedia Commons / CC BY 3.0 (2014)",
+     "caption": "Sheraton Porto Hotel & Spa, Porto, Portugal, in 2014."
+    }
+   ]
   },
   {
    "slug": "pavilhao-carlos-lopes",
@@ -411029,7 +411365,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Pestana Palace Lisboa site confirms the hotel hosts meetings and conferences and publishes an events contact. A current official room-by-room capacity chart was not present on the official hotel page retrieved in this pass, so capacities are left null rather than taken from non-official directories. RNET star rating not confirmed in a public listing in this pass, so star_rating is null (the official marketing site describes the hotel as 5-star, which is not used as classification).",
    "description": "Historic palace hotel in Lisbon (official address Rua Jau, 54, 1300-314 Lisbon). Official site events contact:. Meeting-room capacities are left null because an official capacity chart was not retrieved from the hotel's own pages in this pass. No public RNET confirmation was recorded, so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pestana-palace-lisboa-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -411040,6 +411376,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pestana-palace-lisboa-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pestana-palace-lisboa-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Vale_Flor_(_Pestana_Palace_Hotel_)_-_Lisboa_-_Portugal_(52340698569).jpg",
+     "credit": "Photo: Vitor Oliveira / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Pestana Palace Lisboa (Palácio Vale Flor), Lisbon, Portugal, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -414493,7 +414839,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Teatern, Restauranggatan, Södra Hallen, Norra Hallen, Saluhallen and Hantverksgången",
    "description": "Malmö events and conference venue officially at Carlsgatan 12E, 211 20 Malmö (atlas listings also mention Jörgen Kocksgatan 7 as a second entrance, not copied as the official postal address). Official capacity figures are Teatern 921, Restauranggatan 1,020, Södra Hallen 350, Norra Hallen 250 and Saluhallen 1,500, the last of which is stored as capacity_max_delegates.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/slagthuset-1.jpg",
    "linked_event_slugs": [
     "nordic-game-2027",
     "saasiest-2027"
@@ -414572,6 +414918,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/slagthuset-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/slagthuset-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Slagthuset,_Malm%C3%B6,_2016.jpg",
+     "credit": "Photo: Jorchr / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Slagthuset, Malmö, Sweden, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -419787,7 +420143,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings page: over 50 multi-functional meeting rooms, six ballrooms, and 250,000 square feet for social and corporate groups; The Complex is a multi-purpose venue given as 72,000 sq ft in the heading and 70,000 sq ft of indoor event space in the body text",
    "description": "Strip resort with a large meetings campus, including the Rose, Lily, Blossom, Jasmine, Orchid, Lotus and Perdana spaces, Resorts World Theatre and The Complex. Official pages give 250,000 square feet of meeting and event space and a theatre for 5,000 guests in 65,000 square feet; headline capacity_max_delegates is that official theatre figure. The Complex is described both as 72,000 sq ft and as 70,000 sq ft of indoor space plus an outdoor plaza, so it is not stored as a single exhibition_sqm total. The atlas event Money20/20 USA 2027 is listed at the Las Vegas Convention Center and Resorts World and is linked on both records. Coordinates are the atlas precise pin, which matches a Nominatim result for the named resort. star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/resorts-world-las-vegas-1.jpg",
    "linked_event_slugs": [
     "money2020-usa-2027",
     "vmware-explore-2027"
@@ -419910,6 +420266,24 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/resorts-world-las-vegas-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/resorts-world-las-vegas-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Resorts_World_Las_Vegas_May_2022.jpg",
+     "credit": "Photo: Logan Frick / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Resorts World Las Vegas on the Las Vegas Strip, Nevada, United States, in May 2022."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/resorts-world-las-vegas-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/resorts-world-las-vegas-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Resorts_World_Las_Vegas_exterior_and_LED_screen.jpg",
+     "credit": "Photo: Ken Lund / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The LED media façade of Resorts World Las Vegas, Nevada, United States, in 2021."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -421422,7 +421796,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings microsite and fact sheet: over 234,000 sq. ft. of flexible meeting and event space (“over”, not stored as exhibition_sqm); official fact sheet: ballrooms range between 10,080 and 21,996 sq. ft. Official second-floor capacity chart (square-metres column clearly labelled): Grand Ballroom 1,174.29 m² (12,640 sq ft); International Ballroom 2,043.50 m² (21,996 sq ft). Capacity-column labels on the extracted chart were not unambiguous enough to store theatre/reception figures without guessing, so those numeric capacities are left null and the official chart is stored as a document.",
    "description": "Major Chicago convention-city hotel at 720 South Michigan Avenue. Official International Ballroom 2,043.50 m² and Grand Ballroom 1,174.29 m² are stored from the official second-floor capacity chart’s square-metres column. No official US government hotel-classification listing applies in the same way as Hotelstars, so star_rating is null. Official sales email.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-chicago-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -421505,6 +421879,16 @@ window.ATLASDATA={
      "source_url": "https://www.hiltonchicagomeetings.com/images/2023/05/HC-Fact-Sheet-UA.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/hilton-chicago/hilton-chicago-fact-sheet.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-chicago-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-chicago-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Stevens_Hotel--Hilton_Chicago_2020-0444.jpg",
+     "credit": "Photo: Paul R. Burley / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hilton Chicago (the former Stevens Hotel), Michigan Avenue, Chicago, United States, in 2020."
     }
    ],
    "socials": [
@@ -428116,7 +428500,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Encore metric capacity chart lists the Encore Ballroom (and sections) plus named rooms including Beethoven, Brahms, Chopin and others.",
    "description": "Official Encore Las Vegas metric capacity chart (linked from official wynnlasvegas.com/meetings/resort-maps): Encore Ballroom 1,908 m², theatre 1,845, classroom 1,260, banquet rounds (10) 1,040, reception 1,377. Official resort-maps page gives a combined 'Wynn and Encore Las Vegas' address of 3131 Las Vegas Blvd, Las Vegas, NV 89109, which is stored for this adjacent official property. star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/encore-las-vegas-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -428827,6 +429211,16 @@ window.ATLASDATA={
      "source_url": "https://www.visitwynn.com/documents/Encore_Metric_Capacity_Chart.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/us/encore-las-vegas/encore-las-vegas-metric-capacity-chart.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/encore-las-vegas-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/encore-las-vegas-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Desert_Inn_Road_and_the_Encore_in_Las_Vegas,_Nevada,_September_2026.jpg",
+     "credit": "Photo: TheYearbookTeacher / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Encore Las Vegas, seen from Desert Inn Road, Las Vegas, Nevada, United States, in September 2026."
     }
    ],
    "socials": [
