@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-26T20:31:51Z",
+ "generated": "2026-11-27T08:25:44Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -371317,7 +371317,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Tirana municipality POI text: one main hall of 2,100 seats and three smaller halls of 150, 280 and 300 seats.",
    "description": "Palace of Congresses in Tirana, published as an official point of interest by Bashkia Tiranë (tirana.al). Official POI record: address Bulevardi Dëshmorët e Kombit; main hall capacity 2,100 seats (stored as capacity_max_delegates); three smaller halls of 150, 280 and 300 seats; the building is 70 m long and 18–23 m high. Official POI latitude 41.31916507777535, longitude 19.82151632661834 are stored as the official municipal pin. The site footer address Sheshi Skënderbej, Nd. 2 is the municipality headquarters, not the palace, and is not used. No official exhibition-hall total was published (exhibition_sqm null).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pallati-i-kongreseve-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -371376,7 +371376,17 @@ window.ATLASDATA={
      "source_url": "https://tirana.al/pika-interesi/pallati-i-kongreseve"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pallati-i-kongreseve-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pallati-i-kongreseve-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Congresses,_Tirana,_Albania_(49601764613).jpg",
+     "credit": "Photo: Andrew Milligan sumo / Wikimedia Commons / CC BY 2.0",
+     "caption": "Pallati i Kongreseve (Palace of Congresses), Tirana, Albania, in 2019."
+    }
+   ]
   },
   {
    "slug": "karen-demirchyan-sports-concerts-complex",
@@ -373617,7 +373627,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "City of Melbourne civic hall, hosting atlas conferences including Open Summit AI Melbourne and DDD Melbourne. Official room-capacity figures were not confirmed from City of Melbourne official pages in this pass, so capacity fields are null. Official pages locate the Town Hall on Swanston Street; a street number was not captured from an official page in this pass. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/melbourne-town-hall-1.jpg",
    "linked_event_slugs": [
     "open-summit-ai-melbourne-2027",
     "ddd-melbourne-2027"
@@ -373630,7 +373640,17 @@ window.ATLASDATA={
    ],
    "star_rating": null,
    "spaces": [],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/melbourne-town-hall-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/melbourne-town-hall-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Town_Hall_October_2023.jpg",
+     "credit": "Photo: Argmae / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Melbourne Town Hall portico on Swanston Street, Melbourne, Australia, in October 2023."
+    }
+   ]
   },
   {
    "slug": "federation-square",
@@ -373647,7 +373667,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Civic and cultural precinct in central Melbourne, named as the venue for AI Engineer Melbourne 2027. Official conference-room or hall capacities were not confirmed from the official Federation Square site in this pass, so capacity fields are null. Coordinates are the atlas precise pin. star_rating is null (not a hotel).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/federation-square-1.jpg",
    "linked_event_slugs": [
     "ai-engineer-melbourne-2027"
    ],
@@ -373660,6 +373680,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/federation-square-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/federation-square-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Fed_Square,_Melbourne,_west_view_20230219_1.jpg",
+     "credit": "Photo: DXR / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Federation Square from the west, Melbourne, Australia, in 2023."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/federation-square-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/federation-square-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Fed_Square,_Melbourne,_north_view_20230219_1.jpg",
+     "credit": "Photo: DXR / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Federation Square from the north, Melbourne, Australia, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "tiktok",
@@ -373831,7 +373869,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings page and official meetings-and-events PDF: The Grand Ballroom is described as the largest pillarless hotel ballroom in Sydney, banquet up to 1,000 and theatre 1,400, divisible into four; Heritage Ballroom and Heritage Conference Centre also published on the official capacity chart.",
    "description": "Hotel in Sydney’s former General Post Office building. Official address on the meetings-and-events PDF: No. 1 Martin Place, Sydney, New South Wales 2000. Official page and PDF: The Grand Ballroom banquet capacity up to 1,000; official PDF chart also gives theatre 1,400, classroom 660, cocktail 1,200, cabaret 800, and 1,058 m². capacity_max_delegates is the official Grand Ballroom theatre figure of 1,400. Public enquiries address on the official PDF is. Australia has no current official government hotel star classification scheme, so star_rating is null. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-fullerton-hotel-sydney-1.jpg",
    "linked_event_slugs": [
     "adapt-data-ai-edge-2027"
    ],
@@ -373892,6 +373930,24 @@ window.ATLASDATA={
      "source_url": "https://document-tc.galaxy.tf/wdpdf-1byo8xe160y16szv9uha7gdgq/meetings-events_cms-document.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/au/the-fullerton-hotel-sydney/fullerton-hotel-sydney-meetings-and-events-guide.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-fullerton-hotel-sydney-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-fullerton-hotel-sydney-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_George_Street,_The_Fullerton_Hotel_Sydney_--_2019_--_3574.jpg",
+     "credit": "Photo: Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Fullerton Hotel Sydney (the former General Post Office) on George Street, Sydney, Australia, in 2019."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-fullerton-hotel-sydney-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-fullerton-hotel-sydney-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_George_Street,_General_Post_Office_--_2019_--_3576.jpg",
+     "credit": "Photo: Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Sandstone façade and clock tower of the former Sydney General Post Office, now The Fullerton Hotel Sydney, Australia, in 2019."
     }
    ],
    "socials": [
@@ -374569,7 +374625,7 @@ window.ATLASDATA={
    "exhibition_sqm": 8095,
    "halls": "Shed 1, Shed 1 Bis, Shed 2 and Shed 2 Bis",
    "description": "Historic Brussels events site whose official Sheds pages describe a converted events venue for exhibitions, fairs and shows, officially at Avenue du Port 86C, 1000 Brussels (deliveries Rue Picard 3). Official dimensions: Shed 1 3,787 m² / 3,500 people, stored as capacity_max_delegates; Shed 1 Bis 1,568 m²; Shed 2 2,740 m² / 3,000 people; Shed 2 Bis is published as 1,188 m³ (cubic metres), so it is not added into exhibition area. Exhibition_sqm 8,095 is the sum of the three official floor areas (Shed 1, 1 Bis and 2).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tour-and-taxis-1.jpg",
    "linked_event_slugs": [
     "ocx-2027",
     "foire-du-livre-bruxelles-2027"
@@ -374643,6 +374699,16 @@ window.ATLASDATA={
      "source_url": "https://tour-taxis.com/wp-content/uploads/2025/10/TT_EVENT_UK-1.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/be/tour-and-taxis/tour-and-taxis-event-spaces.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tour-and-taxis-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/tour-and-taxis-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Thurn_en_Taxis,_Het_Koninklijk_Pakhuis,_buitenaanzicht.jpg",
+     "credit": "Photo: Davidh820 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Royal Warehouse (Het Koninklijk Pakhuis / Entrepôt Royal) at Tour & Taxis, Brussels, Belgium, in 2016."
     }
    ],
    "socials": [
@@ -379134,7 +379200,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official CERN page: the Science Gateway Auditorium and the Globe of Science and Innovation are available for events (co-)organised by CERN as well as private events, subject to the published booking rules. Named-room capacities were not confirmed from the official pages successfully retrieved in this pass (the previously cited venues-hire PDF URL returned HTTP 404).",
    "description": "CERN's public science centre and event venue in Meyrin, recorded as type other because it is not a purpose-built city convention centre. Official CERN guidance confirms that the Science Gateway Auditorium can be used for events, including Voxxed Days CERN, which is linked here. Official hire-capacity figures could not be confirmed from a live official document in this pass, so capacity and area fields are null. Coordinates are the atlas precise pin. A street address was not copied from the retrieved official pages, so address is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/cern-science-gateway-1.jpg",
    "linked_event_slugs": [
     "voxxed-days-cern-2027"
    ],
@@ -379151,6 +379217,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/cern-science-gateway-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/cern-science-gateway-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:At_Geneva_2024_207.jpg",
+     "credit": "Photo: Mike Peel / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "CERN Science Gateway, Meyrin, Switzerland, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -379523,7 +379599,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events-page schema.org lists 17 named meeting rooms; the largest is the WILSON Room.",
    "description": "Official HotellerieSuisse member directory classifies Hôtel President Wilson, Quai Wilson 47, 1201 Genève, as a 5 Star Superior Hotel. Superior is an add-on within the five-star category, not a sixth star. Official Marriott events schema: WILSON Room maximumAttendeeCapacity 1,000 and 9,676.8 sq ft (899 m²). Official Marriott address block uses postal code 1211; the official classification listing uses 1201 Genève, which is stored.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-president-wilson-geneva-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -379743,6 +379819,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-president-wilson-geneva-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-president-wilson-geneva-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:The_President_Wilson_Hotel_Geneva,_Switzerland.jpg",
+     "credit": "Photo: uggboy / Wikimedia Commons / CC BY 2.0 (2010)",
+     "caption": "Hôtel President Wilson, Geneva, Switzerland, in 2010."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -383674,7 +383760,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Frankfurt's historic concert and congress house, listed in the atlas as the venue for the Frankfurt European Banking Congress. The atlas coordinate for that event is not a precise venue pin, and official room capacities were not confirmed in this pass, so those fields are null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/alte-oper-frankfurt-1.jpg",
    "linked_event_slugs": [
     "frankfurt-european-banking-congress-2027"
    ],
@@ -383687,6 +383773,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/alte-oper-frankfurt-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/alte-oper-frankfurt-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Alte_Oper_front_facade_-_Frankfurt_am_Main_-_2026-10-17.jpg",
+     "credit": "Photo: Norbert Nagel / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Front façade of the Alte Oper, Frankfurt am Main, Germany, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -384258,7 +384354,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official press kit: ECC Berlin 25,000 m² of event space, 75 meeting rooms, Convention Hall I 4,700 m² and Convention Hall II 4,600 m²",
    "description": "Europe's largest hotel, congress and entertainment complex, according to the venue's official press kit, with a 1,125-room hotel and the Estrel Congress Center (ECC Berlin). The official press kit lists First Class Superior (4+) stars for the hotel, and Estrel Hotel Berlin appears on the Deutsche Hotelklassifizierung 4-star list for Berlin, so star_rating is stored as 4 (Superior add-on noted). Official figures: 25,000 m² of congress event space, 75 rooms, Convention Hall I and II each up to 5,000 in row seating, banquet 3,500 and reception 6,000. The official capacity chart dated 26 January 2026 gives Convention Hall I 4,700 m² (theatre 5,000, classroom 2,700, banquet 3,500) and Convention Hall II 4,600 m² (theatre 5,000, classroom 3,000, banquet 3,000). Coordinates are the Nominatim pin for Estrel Berlin at the official Sonnenallee 225 address.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/estrel-berlin-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -384357,6 +384453,16 @@ window.ATLASDATA={
      "source_url": "https://www.estrel.com/files/downloads/hotel/pressemappe_estrel.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/de/estrel-berlin/estrel-pressemappe.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/estrel-berlin-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/estrel-berlin-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Estrel_hotel_Berlin_2025-09-27_01.jpg",
+     "credit": "Photo: Leonhard Lenz / Wikimedia Commons / CC0",
+     "caption": "Estrel Berlin hotel and congress centre, seen across the Neukölln ship canal, Berlin, Germany, in 2025."
     }
    ],
    "socials": [
@@ -386539,7 +386645,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Valencia cultural complex used as the published venue for VDS 2027. Included as a distinctive named site rather than a purpose-built trade-fair centre. Official campus-wide conference totals were not stored in this pass. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/city-of-arts-and-sciences-valencia-1.jpg",
    "linked_event_slugs": [
     "vds-2027"
    ],
@@ -386552,6 +386658,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/city-of-arts-and-sciences-valencia-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/city-of-arts-and-sciences-valencia-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:City_of_Arts_and_Sciences,_Valencia,_July_2015.jpg",
+     "credit": "Photo: Sunnya343 / Wikimedia Commons / CC BY-SA 4.0 (2015)",
+     "caption": "L'Hemisfèric at the City of Arts and Sciences, Valencia, Spain, in July 2015."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/city-of-arts-and-sciences-valencia-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/city-of-arts-and-sciences-valencia-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Ciutat_de_les_Arts_i_les_Ci%C3%A8ncies_01.jpg",
+     "credit": "Photo: Dorieo / Wikimedia Commons / CC BY-SA 3.0",
+     "caption": "Palau de les Arts Reina Sofía at the City of Arts and Sciences, Valencia, Spain, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -387332,7 +387456,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official events page: more than 3,500 square metres of venues for meetings, conferences, banquets and events (an “over” figure, not stored as exhibition_sqm); a visible total event-space figure of 7,718 m² on the same page is a combined event-space total and is not stored as exhibition_sqm. Official schema.org meeting-room data on the same official page: Gran Saló Gaudí (Main Ballroom) maximum 1,410 attendees, 14,456.1 sq ft; Pau Casals (Junior Ballroom) maximum 378, 3,466 sq ft.",
    "description": "Ritz-Carlton Hotel Arts Barcelona at Carrer de Ramon Trias Fargas, 10, 08005 Barcelona. Official main ballroom Gran Saló Gaudí has a published maximum of 1,410 attendees (stored as capacity_max_delegates); official square-foot areas are stored as converted square metres. No official Generalitat property-level star listing was retrieved, so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-arts-barcelona-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -387380,6 +387504,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-arts-barcelona-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-arts-barcelona-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Hotel_Arts_Barcelona_(12652).jpg",
+     "credit": "Photo: Hetemacaba / Wikimedia Commons / CC0",
+     "caption": "Hotel Arts Barcelona, Vila Olímpica, Barcelona, Spain, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -387837,7 +387971,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Cable Factory (Kaapelitehdas), a cultural and events complex in Helsinki used by Disobey. Official info and contact pages did not return usable content in this pass, so a street address and capacities are left null. Coordinates are the Nominatim arts-centre pin for Kaapelitehdas, not the nearby tram stop (which matches an atlas point but is not the venue building).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kaapelitehdas-1.jpg",
    "linked_event_slugs": [
     "disobey-2027"
    ],
@@ -387850,6 +387984,24 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kaapelitehdas-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kaapelitehdas-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Kaapelitehdas_1.jpg",
+     "credit": "Photo: Ypsilon / Wikimedia Commons / CC0",
+     "caption": "Kaapelitehdas (Cable Factory), Helsinki, Finland, in 2016."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kaapelitehdas-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kaapelitehdas-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Cable_Factory_Museums_and_Dance_House_joint_entrance_01.jpg",
+     "credit": "Photo: Sinikka Halme / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Joint entrance of the Cable Factory museums and Dance House, Kaapelitehdas, Helsinki, Finland, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -390101,7 +390253,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Hilton events page: 5,357 m² of event space and 35 meeting rooms; largest setups Richmond Suite 1,117 m² and Kensington Suite 1,096 m²",
    "description": "Large Hilton conference hotel in London, listed in the atlas for the Digital Asset Summit and IAPP UK events. A street address and official meeting capacities were not confirmed from the hotel page in this pass; coordinates are the atlas's precise geocode for this venue name. Official Hilton events pages (retrieved 24 November 2026) state 5,357 m² of event space, 35 meeting rooms, and largest suites hosting up to 1,350 guests (Richmond Suite 1,117 m² and Kensington Suite 1,096 m² on the official capacity table; page prose also describes both as 1,062 m²).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-london-metropole-1.jpg",
    "linked_event_slugs": [
     "digital-asset-summit-london-2027",
     "iapp-uk-intensive-aigg-2027"
@@ -390157,6 +390309,16 @@ window.ATLASDATA={
    ],
    "documents": [],
    "hotel_name": "Hilton London Metropole",
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-london-metropole-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hilton-london-metropole-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Hilton_london_metropole.jpg",
+     "credit": "Photo: SunDawn / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hilton London Metropole on Edgware Road, London, United Kingdom, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -390627,7 +390789,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "The City of London's arts and conference centre. The atlas lists State of the Browser here, and PG Connects London is listed jointly at The Brewery and the Barbican. Official conference capacities were not confirmed in this pass; coordinates are the atlas's precise geocode for the Barbican Centre.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/barbican-centre-1.jpg",
    "linked_event_slugs": [
     "state-of-the-browser-2027",
     "pg-connects-london-2027"
@@ -390641,6 +390803,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/barbican-centre-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/barbican-centre-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:The_Barbican_Centre_(geograph_5053201).jpg",
+     "credit": "Photo: Michael Dibb / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "The Barbican Centre, City of London, United Kingdom, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "tiktok",
@@ -390846,7 +391018,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Events venue in the former Billingsgate Fish Market on the Thames. The atlas lists Top Founders Summit London here. Official capacities and a full street address were not confirmed from the venue site in this pass; coordinates are the atlas's precise geocode.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-billingsgate-london-1.jpg",
    "linked_event_slugs": [
     "top-founders-summit-london-2027"
    ],
@@ -390859,6 +391031,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-billingsgate-london-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/old-billingsgate-london-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:City_of_London,_Old_Billingsgate_Market_-_geograph.org.uk_-_7908396.jpg",
+     "credit": "Photo: Michael Garlick / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Old Billingsgate, City of London, United Kingdom, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -390964,7 +391146,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Fairmont meetings page: maximum capacity 700 guests, not including the Grill rooms. Official venues page: Lancaster Ballroom 476 sqm, max capacity 700; River Room 252 sqm, max 300; Abraham Lincoln 282 sqm, max 200. The same venues page also prints a capacity-chart figure of 800 for the Lancaster Ballroom, which disagrees with the 700 figure used on both official pages’ headlines; 800 is noted and not stored.",
    "description": "Fairmont-managed London hotel on the Strand with a major official events offer. Official Fairmont meetings page: maximum capacity 700 guests; official Lancaster Ballroom 476 m² (theatre 450, classroom 240, banquet 380). No official property-level UK star listing was retrieved, so star_rating is null. No atlas events are linked in this pass.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-savoy-london-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -391016,6 +391198,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-savoy-london-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/the-savoy-london-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Savoy_Hotel,_London_-_geograph.org.uk_-_2281522.jpg",
+     "credit": "Photo: Anthony O'Neil / Wikimedia Commons / CC BY-SA 2.0 (2011)",
+     "caption": "The Savoy's Strand entrance canopy, London, United Kingdom, in 2011."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -391137,7 +391329,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official meetings-events page: 32 meeting rooms, 3,400 m² of flexible meeting space, and a 1,200-sqm pillarless ballroom; official meetings page: Westminster Ballroom, Plaza Suites and Park Suites accommodate 8 to 1,400 people. A June 2025 official factsheet lists the Westminster Ballroom at 1,166.90 m² with theatre and reception 1,500, which disagrees with the current website’s 1,200 m² / 1,400 figures; the current official webpages are preferred for capacity_max and the conflicting area and 1,500 figures are not stored as exact fields.",
    "description": "Large South Bank conference hotel opposite the Houses of Parliament. Official current meetings pages: pillarless ballroom described as 1,200 m², spaces for 8 to 1,400 people (stored as capacity_max_delegates), 32 rooms and 3,400 m² of meeting space (combined meeting-space total, not exhibition_sqm). The June 2025 official factsheet’s 1,166.90 m² and 1,500 theatre/reception figures are noted and not stored because they disagree with the current official webpages. star_rating null (no official UK property-level listing retrieved).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/park-plaza-westminster-bridge-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -391176,6 +391368,16 @@ window.ATLASDATA={
      "source_url": "https://www.parkplazawestminsterbridge.com/wp-content/uploads/2025/06/PPWL-ME-Factsheet-Update-PUK-6990_low-res-June-2025.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/park-plaza-westminster-bridge/ppwb-meetings-events-factsheet-june-2025.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/park-plaza-westminster-bridge-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/park-plaza-westminster-bridge-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2017_Park_Plaza_Hotel_Westminster_Bridge.jpg",
+     "credit": "Photo: Jordiferrer / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Park Plaza Westminster Bridge, London, United Kingdom, in 2017."
     }
    ],
    "socials": [
@@ -391331,7 +391533,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official 2026 meetings-and-events brochure: a banquet in the ballroom can seat 600 people or host 1,000 for drinks. The retrieved brochure text did not yield a usable official ballroom area in square metres, so area is left null.",
    "description": "Park Lane InterContinental whose official 2026 brochure gives the ballroom as 600 banquet or 1,000 for drinks (stored as capacity_max_delegates). Official address 1 Park Lane, London W1J 7QY;. star_rating null (no official UK property-level listing retrieved).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-london-park-lane-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -391366,6 +391568,16 @@ window.ATLASDATA={
      "source_url": "https://parklane.intercontinental.com/wp-content/uploads/2026/07/meetings-and-events-brochure_26.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/gb/intercontinental-london-park-lane/ic-london-park-lane-meetings-events-brochure-2026.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-london-park-lane-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-london-park-lane-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:InterContinental_Hotel_-_geograph.org.uk_-_4323063.jpg",
+     "credit": "Photo: Peter McDermott / Wikimedia Commons / CC BY-SA 2.0 (2015)",
+     "caption": "InterContinental London Park Lane, London, United Kingdom, in 2015."
     }
    ],
    "socials": [
@@ -392833,7 +393045,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events schema lists 25 MeetingRoom objects, including combined rooms and pre-function/foyer spaces where published.",
    "description": "Budapest Marriott Hotel official events page (Marriott schema.org MeetingRoom objects retrieved 2026-11-24). Campus capacity_max_delegates is the largest official maximumAttendeeCapacity (650). Those schema capacities are not labelled as theatre and are stored as capacity_max only; largest_space_capacity_theatre in the index will therefore be null unless a labelled theatre chart is added later. Areas converted from official floorSize values in FTK. No official national star classification listing was retrieved for this property in this pass, so star_rating is null. Coordinates are left null: the official events schema provided a postal address but no geo pin on the retrieved page.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/budapest-marriott-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -393145,6 +393357,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/budapest-marriott-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/budapest-marriott-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Budapest_Marriott_Hotel,_2.jpg",
+     "credit": "Photo: Christo / Wikimedia Commons / CC0",
+     "caption": "Budapest Marriott Hotel on the Danube embankment, Budapest, Hungary, in 2020."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -398275,7 +398497,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Peacock Room page: Peacock Room (East & West) 1,965 m², dinner 1,320, standing buffet 2,000, cocktail buffet 700, theatre 1,800, classroom 1,200; East 1,073 m² / theatre 1,000; West 868 m² / theatre 750; South 435 m² / theatre 250.",
    "description": "Imperial Hotel Tokyo at official address 1-1, Uchisaiwai-cho 1-chome, Chiyoda-ku, Tokyo 100-8558. Official Peacock Room (East & West) 1,965 m², standing buffet 2,000 (stored as capacity_max_delegates) and theatre 1,800. star_rating null (no official Japanese property-level star listing retrieved).",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/imperial-hotel-tokyo-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -398328,6 +398550,16 @@ window.ATLASDATA={
    ],
    "documents": [],
    "hotel_name": "Imperial Hotel, Tokyo",
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/imperial-hotel-tokyo-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/imperial-hotel-tokyo-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Imperial_Hotel_Tokyo.JPG",
+     "credit": "Photo: Kakidai / Wikimedia Commons / CC BY-SA 3.0 (2012)",
+     "caption": "Imperial Hotel Tokyo, Hibiya, Tokyo, Japan, in 2012."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -398367,7 +398599,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Tsuru page: running text describes a grand space of 2,452 square metres; the official capacity table lists Square Meters 1,992, seated dinner 1,150, standing buffet 2,500, classroom 1,200, theatre 2,184. The table area 1,992 m² is stored and 2,452 is noted as a disagreement.",
    "description": "Hotel New Otani Tokyo at official address 4-1, Kioi-cho, Chiyoda-ku, Tokyo 102-8578. Official Tsuru hall standing buffet 2,500 (stored as capacity_max_delegates) and theatre 2,184. Official table area 1,992 m² is stored; the same page’s 2,452 m² prose figure is noted and not stored. star_rating null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-new-otani-tokyo-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -398414,6 +398646,24 @@ window.ATLASDATA={
      "source_url": "https://www.newotani.co.jp/fileadmin/res/en/tokyo/banquet/mice/brochure-en.pdf",
      "href": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/pdfs/venues/jp/hotel-new-otani-tokyo/hotel-new-otani-tokyo-mice-brochure-en.pdf",
      "local": false
+    }
+   ],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-new-otani-tokyo-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-new-otani-tokyo-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%8B_%E5%A4%96%E8%A6%B3.jpg",
+     "credit": "Photo: 松倉傑 / Wikimedia Commons / CC0",
+     "caption": "Hotel New Otani Tokyo, seen from the Yotsuya side, Tokyo, Japan, in 2026."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-new-otani-tokyo-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/hotel-new-otani-tokyo-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2019_Hotel_New_Otani_Tokyo_02.jpg",
+     "credit": "Photo: Kakidai / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Hotel New Otani Tokyo across its Japanese garden, Tokyo, Japan, in 2019."
     }
    ],
    "socials": [
@@ -407219,7 +407469,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Oslo indoor arena and events venue used by NDC Oslo. Official about/capacity pages were not successfully retrieved in this pass, so delegate capacity and a street address are left null rather than taken from secondary listings. Coordinates are the atlas precise pin, which matches the Nominatim theatre pin for Oslo Spektrum.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oslo-spektrum-1.jpg",
    "linked_event_slugs": [
     "ndc-oslo-2027"
    ],
@@ -407236,6 +407486,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oslo-spektrum-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/oslo-spektrum-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Oslo_Spektrum,_2023.jpg",
+     "credit": "Photo: Ssu / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Oslo Spektrum, Oslo, Norway, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -407282,7 +407542,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Kilden performing arts centre (Kilden Theatre and Concert Hall) in Kristiansand, officially at 2 Sjølystveien. It is one of the named sites for Techpoint, which is also listed at Kunstsilo and Knuden; those other sites are not recorded as separate venues in this pass and no combined venue was invented. Official auditorium capacities were not copied from the retrieved pages.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kilden-1.jpg",
    "linked_event_slugs": [
     "techpoint-2027"
    ],
@@ -407299,6 +407559,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kilden-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/kilden-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Kilden_Performing_Arts_Centre_1.jpg",
+     "credit": "Photo: kallerna / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Kilden Performing Arts Centre, Kristiansand, Norway, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -409437,7 +409707,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official ballroom page: Opera Ballroom 438 m² (41 × 12 m), up to 500 guests",
    "description": "High-rise hotel in central Warsaw with a published official ballroom and meetings offer. Official IHG Poland ballroom pages describe the Opera Ballroom as 438 m² (41 by 12 metres) and able to accommodate up to 500 guests for large-scale events, galas and congresses. The published hotel enquiry address is. An official Centralny Wykaz Obiektów Hotelarskich star listing was not confirmed in this pass, so star_rating is null. Coordinates are the Nominatim pin for the named InterContinental building at the official Emilii Plater 49 address.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-warsaw-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -409465,6 +409735,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-warsaw-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/intercontinental-warsaw-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:InterContinental,_49_Emilii_Plater_street,_Warsaw,_Poland.jpg",
+     "credit": "Photo: Igor123121 / Wikimedia Commons / CC BY 4.0",
+     "caption": "InterContinental Warsaw, 49 Emilii Plater Street, Warsaw, Poland, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -409585,7 +409865,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": null,
    "description": "Warsaw science centre, published as the venue for ML in PL 2027. Included as a distinctive named cultural venue. Official conference-capacity totals were not stored. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copernicus-science-centre-1.jpg",
    "linked_event_slugs": [
     "ml-in-pl-2027"
    ],
@@ -409598,6 +409878,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copernicus-science-centre-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/copernicus-science-centre-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Barka_wynurzenie_i_centrum_nauki_kopernik.jpg",
+     "credit": "Photo: Panek / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Copernicus Science Centre (Centrum Nauki Kopernik) on the Vistula, Warsaw, Poland, in 2022."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -409631,7 +409921,7 @@ window.ATLASDATA={
   },
   {
    "slug": "pge-narodowy",
-   "name": "PGE Narodowy",
+   "name": "Stadion Narodowy im. Kazimierza Górskiego",
    "type": "other",
    "country": "Poland",
    "cc": "PL",
@@ -409643,8 +409933,8 @@ window.ATLASDATA={
    "capacity": null,
    "exhibition_sqm": null,
    "halls": null,
-   "description": "Warsaw's national stadium, published as the in-person venue for Data Science Summit 2026 (the atlas notes the previous day as online). Stadium match-day capacity is not stored as a conference delegate figure. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "description": "Warsaw's national stadium, published as the in-person venue for Data Science Summit 2026 (the atlas notes the previous day as online). Stadium match-day capacity is not stored as a conference delegate figure. Coordinates are the atlas precise pin. Official name on the operator's site (www.pgenarodowy.pl and /o-arenie/historia-i-informacje, retrieved 27 Nov 2026) is Stadion Narodowy im. Kazimierza Górskiego (Kazimierz Górski National Stadium). The history page title, the body text introducing the stadium, and the site copyright all use that name; the arena was named after Kazimierz Górski in January 2022. PGE Narodowy is the former atlas display name; the official domain and many event listings on the same site still use it as a sponsorship-style name.",
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pge-narodowy-1.jpg",
    "linked_event_slugs": [
     "data-science-summit-2026"
    ],
@@ -409657,6 +409947,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pge-narodowy-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pge-narodowy-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Kazimierz_G%C3%B3rski_National_Stadium,_2026,_Warsaw,_Poland.jpg",
+     "credit": "Photo: Igor123121 / Wikimedia Commons / CC BY 4.0",
+     "caption": "Kazimierz Górski National Stadium (PGE Narodowy), Warsaw, Poland, in 2026."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -410070,7 +410370,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official: Atlântico room arena 5,200 m² / 12,500 seated; Tagus Room 2,200 m²; Business Centre auditorium 100 seats and 11 rooms; Arena Box 2,000 m² for 500–4,000 people",
    "description": "Lisbon's main indoor arena in Parque das Nações, published as the venue for Web Summit 2027. Official MEO Arena pages describe the Atlântico room as a 5,200 m² arena with capacity for 12,500 people seated, the Tagus Room as 2,200 m², a Business Centre with a 100-seat auditorium and 11 rooms, and the Arena Box as 2,000 m² for 500 to 4,000 people. The official address is Rossio dos Olivais, Lote 2.13.01A, 1990-231 Lisbon. Coordinates are the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meo-arena-lisbon-1.jpg",
    "linked_event_slugs": [
     "web-summit-2027"
    ],
@@ -410136,6 +410436,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meo-arena-lisbon-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/meo-arena-lisbon-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Pavilh%C3%A3o_Atl%C3%A2ntico_in_2016.JPG",
+     "credit": "Photo: Threeohsix / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "MEO Arena (then still often called Pavilhão Atlântico; later also Altice Arena), Lisbon, Portugal, in 2016."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -410337,7 +410647,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Visit Lisboa / Associação Turismo de Lisboa venue page: Sala Multiusos of about 1,900 m² (cerca de — not stored as exact exhibition_sqm); central atrium 180 m²; two foyers 280 m²; Salão Nobre 180 m²; Sala dos Azulejos 123 m²; support pantry 113 m².",
    "description": "Historic multi-use pavilion in Lisbon, published as the venue for Building the Future 2027. Official Visit Lisboa venues page describes a multipurpose hall of about 1,900 m² and several smaller official rooms (atrium 180 m², two foyers 280 m², Salão Nobre 180 m², Sala dos Azulejos 123 m²). The “cerca de 1,900 m²” wording is not stored as exact exhibition_sqm. No official street address was published on the retrieved information page, so address is null. Coordinates are the named exhibition-centre Nominatim pin, matching the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pavilhao-carlos-lopes-1.jpg",
    "linked_event_slugs": [
     "building-the-future-2027"
    ],
@@ -410398,7 +410708,17 @@ window.ATLASDATA={
      "source_url": "https://venues.visitlisboa.com/pav_c_lopes_informacoes.html"
     }
    ],
-   "documents": []
+   "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pavilhao-carlos-lopes-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/pavilhao-carlos-lopes-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Pavilh%C3%A3o_Carlos_Lopes_(42890683960).jpg",
+     "credit": "Photo: Julien Chatelain / Wikimedia Commons / CC BY-SA 2.0",
+     "caption": "Pavilhão Carlos Lopes in Parque Eduardo VII, Lisbon, Portugal, in 2018."
+    }
+   ]
   },
   {
    "slug": "convento-sao-francisco-coimbra",
@@ -410415,7 +410735,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official municipal Coimbra Cultura e Congressos pages: Grande Auditório 1,093 seats (stage area 650 m²). Other named rooms include Antiga Igreja, Sala Aeminium, Sala Almedina and further breakout rooms.",
    "description": "Official Coimbra municipal culture and congress centre in the Convento São Francisco, published as the venue for JNation 2027. Official contact page: Avenida da Guarda Inglesa, n.º 1A, 3040-193 Santa Clara, Coimbra;. Official Grande Auditório page: capacity 1,093 seats (stored as capacity_max_delegates); stage area 650 m². Coordinates are the named Nominatim pin for Convento de São Francisco - Centro de Cultura e Congressos, matching the atlas precise pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/convento-sao-francisco-coimbra-1.jpg",
    "linked_event_slugs": [
     "jnation-2027"
    ],
@@ -410449,6 +410769,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/convento-sao-francisco-coimbra-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/convento-sao-francisco-coimbra-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Convento_de_S%C3%A3o_Francisco_em_Coimbra_-_Foto_04.jpg",
+     "credit": "Photo: Threeohsix / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Convento de São Francisco, Santa Clara, Coimbra, Portugal, in 2025."
+    }
+   ],
    "socials": [
     {
      "platform": "instagram",
@@ -410614,7 +410944,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official press facts: 282 rooms (242 guest rooms and 40 suites); meeting rooms total size 1,838 m²; largest ballroom 456 m²; 16 breakout spaces; press-facts banquet / meet-and-feed capacity 320. Official Pedro Leitão Ballroom page: 456 m², max occupancy 750, theatre 450, reception 750, banquet rounds 360, classroom 288. RNET star rating not confirmed in a public listing in this pass, so star_rating is null.",
    "description": "Lisbon hotel facing Eduardo VII Park (official press-kit address Rua Rodrigo da Fonseca, 88, 1099-039 Lisbon). Official ballroom page: Pedro Leitão Ballroom 456 m², maximum occupancy 750 (reception 750 / theatre 450 / banquet rounds 360). Official press facts give a meeting-room total of 1,838 m² and a banquet / meet-and-feed capacity of 320, which differs from the ballroom page's 360 banquet figure; headline capacity follows the official ballroom max occupancy of 750. No public Turismo de Portugal RNET confirmation was recorded, so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-ritz-lisbon-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -410650,6 +410980,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-ritz-lisbon-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/four-seasons-hotel-ritz-lisbon-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Four_Seasons_Hotel_Lisboa,_2024.jpg",
+     "credit": "Photo: JnpoJuwan / Wikimedia Commons / CC0",
+     "caption": "Four Seasons Hotel Ritz Lisbon, Lisbon, Portugal, in 2024."
+    }
+   ],
    "socials": [
     {
      "platform": "x",
@@ -414317,7 +414657,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Stora Scen, Kägelbanan, Kristallen and other official event spaces at Mosebacke",
    "description": "Historic theatre and events venue at Mosebacke on Södermalm, officially described as Södra Teatern at Mosebacke, in use since 1859, and used by DevSum. A complete official street address and published delegate capacities were not copied from the retrieved pages in this pass. Coordinates are the atlas precise pin, which matches the Nominatim theatre pin.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sodra-teatern-1.jpg",
    "linked_event_slugs": [
     "devsum-2027"
    ],
@@ -414334,6 +414674,16 @@ window.ATLASDATA={
    "star_rating": null,
    "spaces": [],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sodra-teatern-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/sodra-teatern-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:S%C3%B6dra_teatern.jpg",
+     "credit": "Photo: Bambie666999 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Södra Teatern, Mosebacke, Stockholm, Sweden, in 2018."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -421189,7 +421539,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events-page schema.org lists 84 named meeting-room entries, including combined layouts. The largest is Broadway Ballroom Entire w/Balcony, Stage, Majestic & Shubert Complex.",
    "description": "Official Marriott events schema: Broadway Ballroom Entire w/Balcony, Stage, Majestic & Shubert Complex maximumAttendeeCapacity 2,800 and 28,258 sq ft (2,626 m²). Westside Ballroom Entire maximumAttendeeCapacity 2,401 and 21,550 sq ft (2,002 m²). Schema maximumAttendeeCapacity is not labelled as theatre. No official US property-level star classification was retrieved, so star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/new-york-marriott-marquis-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -422209,6 +422559,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/new-york-marriott-marquis-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/new-york-marriott-marquis-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:New_York_Marriott_Marquis_1_2023-05-17.jpeg",
+     "credit": "Photo: FASTILY / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Street entrance of the New York Marriott Marquis on Broadway, Times Square, New York, United States, in 2023."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -422241,7 +422601,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events-page schema.org lists 108 named meeting-room entries, including combined layouts. The largest is Yerba Buena Ballroom.",
    "description": "Official Marriott events schema: Yerba Buena Ballroom maximumAttendeeCapacity 5,500 and 39,621 sq ft (3,681 m²). Golden Gate Ballroom maximumAttendeeCapacity 2,375 and 22,563 sq ft (2,096 m²). Schema maximumAttendeeCapacity is not labelled as theatre. star_rating is null; no official US property-level classification was retrieved.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/san-francisco-marriott-marquis-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -423549,6 +423909,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/san-francisco-marriott-marquis-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/san-francisco-marriott-marquis-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2017_San_Francisco_Marriott_Marquis_Hotel_from_Yerba_Buena_Gardens.jpg",
+     "credit": "Photo: Beyond My Ken / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "San Francisco Marriott Marquis, seen from Yerba Buena Gardens, San Francisco, California, United States, in 2017."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -423581,7 +423951,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official Marriott events-page schema.org lists 168 named meeting-room entries, including combined layouts. The largest is Cypress Ballroom.",
    "description": "Official Marriott events schema: Cypress Ballroom maximumAttendeeCapacity 10,000 and 105,000 sq ft (9,755 m²). Palms Ballroom 5,000 / 49,215 sq ft (4,572 m²); Crystal Ballroom 4,500 / 39,500 sq ft (3,669 m²); Grand Ballroom 4,200 / 37,369 sq ft (3,472 m²). Schema maximumAttendeeCapacity is not labelled as theatre. Official events schema telephone +1 407-239-4200. star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/orlando-world-center-marriott-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -425609,6 +425979,16 @@ window.ATLASDATA={
     }
    ],
    "documents": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/orlando-world-center-marriott-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/orlando-world-center-marriott-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Orlando_World_Center_Marriott_02.jpg",
+     "credit": "Photo: Bernard Gagnon / Wikimedia Commons / CC BY-SA 3.0 (2012)",
+     "caption": "Orlando World Center Marriott, seen across the Hawk's Landing golf course, Orlando, Florida, United States, in 2012."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
@@ -425641,7 +426021,7 @@ window.ATLASDATA={
    "exhibition_sqm": null,
    "halls": "Official metric capacity chart linked from the official Wynn meetings resort-maps page tabulates Cristal, Lafite and Latour ballrooms and a full meeting-room schedule, plus premium and pre-function spaces.",
    "description": "Official Wynn Las Vegas metric capacity chart (linked from official wynnlasvegas.com/meetings/resort-maps): Cristal Ballroom 7,728 m², theatre 10,962, classroom 6,512, banquet rounds (10) 5,040, reception 5,546. Official meetings page marketing copy describing '300,000 square feet of event venues, including outdoor areas' and 'nearly 84,000 square feet' for the Cristal Ballroom is not stored as an exact campus total (combined indoor/outdoor and 'nearly'). Official address on the resort-maps page: 3131 Las Vegas Blvd, Las Vegas, NV 89109; telephone +1 (702) 770-7000. star_rating is null.",
-   "photo": null,
+   "photo": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/wynn-las-vegas-1.jpg",
    "linked_event_slugs": [],
    "sources": [
     {
@@ -427687,6 +428067,16 @@ window.ATLASDATA={
     }
    ],
    "hotel_name": "Wynn Las Vegas",
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/wynn-las-vegas-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/venues/wynn-las-vegas-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Wynn_P4220706.jpg",
+     "credit": "Photo: Alexander Migl / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The Wynn Las Vegas hotel and casino on the Las Vegas Strip, Nevada, United States, in 2018."
+    }
+   ],
    "socials": [
     {
      "platform": "facebook",
