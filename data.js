@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-27T09:00:24Z",
+ "generated": "2026-11-27T09:24:16Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -66823,7 +66823,16 @@ window.ATLASDATA={
     "alternative",
     "touring festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/laneway-festival-melbourne-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/laneway-festival-melbourne-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Laneway_(32038226327).jpg",
+     "credit": "Photo: Bruce / Wikimedia Commons / CC BY 2.0",
+     "caption": "The stage and a packed audience at St Jerome’s Laneway Festival, Melbourne, Australia, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -66849,7 +66858,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Bruce / Wikimedia Commons / CC BY 2.0",
    "socials": [
     {
      "platform": "instagram",
@@ -131666,7 +131675,24 @@ window.ATLASDATA={
     "popular culture",
     "cosplay"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-stockholm-summer-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-stockholm-summer-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Comic_Con_Stockholm_2024,_-_2.jpg",
+     "credit": "Photo: AleWi / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An elevated view of the crowded convention hall at Comic Con Stockholm, Sweden, in 2024."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-stockholm-summer-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/comic-con-stockholm-summer-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Comic_Con_Stockholm_2024_-_1.jpg",
+     "credit": "Photo: AleWi / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An aisle of the convention hall at Comic Con Stockholm, Sweden, in 2024."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -131697,7 +131723,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: AleWi / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -148315,7 +148341,16 @@ window.ATLASDATA={
     "publishing",
     "literature"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feira-do-livro-lisboa-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feira-do-livro-lisboa-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Feira_do_Livro_de_Lisboa,_2023_01.jpg",
+     "credit": "Photo: GualdimG / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors walking between book stalls at the Feira do Livro de Lisboa, Lisbon, Portugal, in 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -148346,7 +148381,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: GualdimG / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -154660,7 +154695,16 @@ window.ATLASDATA={
     "street festival",
     "club"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/distortion-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/distortion-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Copenhagen_Distortion_2016_IMG_9823_(27354529422).jpg",
+     "credit": "Photo: Krists Luhaers / Wikimedia Commons / CC BY 2.0",
+     "caption": "A packed street crowd during Copenhagen Distortion, Denmark, in 2016."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -154691,7 +154735,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Krists Luhaers / Wikimedia Commons / CC BY 2.0",
    "socials": [
     {
      "platform": "instagram",
@@ -157811,7 +157855,16 @@ window.ATLASDATA={
     "rock",
     "metal"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rock-im-park-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/rock-im-park-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2023_Rock_im_Park_-_Foo_Fighters_-_by_2eight_-_9SC1310.jpg",
+     "credit": "Photo: Stefan Brending (2eight) / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Foo Fighters on the main stage, with the crowd in the foreground, at Rock im Park, Nuremberg, Germany, in 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -157837,7 +157890,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Stefan Brending (2eight) / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -165527,7 +165580,16 @@ window.ATLASDATA={
     "francophone music",
     "free outdoor concerts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/francos-de-montreal-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/francos-de-montreal-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Francos_de_Montreal_2026_Stage.jpg",
+     "credit": "Photo: Lutarchitecture / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The stage, seen from the crowd, at Francos de Montréal, Montreal, Canada, in 2026."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -165553,7 +165615,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Lutarchitecture / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "x",
@@ -172230,7 +172292,16 @@ window.ATLASDATA={
     "popular culture",
     "cosplay"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pyrkon-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pyrkon-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Pyrkon_2024_kolejki_Pozna%C5%84.jpg",
+     "credit": "Photo: Klapi / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors queueing at the signed Pyrkon entrance in Poznań, Poland, in 2024."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -172261,7 +172332,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Klapi / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -177656,7 +177727,16 @@ window.ATLASDATA={
     "pop",
     "rock"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/donauinselfest-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/donauinselfest-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Donauinselfest_Wien_2018.jpg",
+     "credit": "Photo: Jer.re10542ce / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A stage and audience on the Danube island during Donauinselfest, Vienna, Austria, in 2018."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -177687,7 +177767,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": true,
-   "photoCredit": null,
+   "photoCredit": "Photo: Jer.re10542ce / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -183916,7 +183996,16 @@ window.ATLASDATA={
     "live music",
     "festival"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/down-the-rabbit-hole-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/down-the-rabbit-hole-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Crowd_at_Down_The_Rabbit_Hole_2019.jpg",
+     "credit": "Photo: FakirNL / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The daytime festival crowd at Down The Rabbit Hole, Beuningen, the Netherlands, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -183942,7 +184031,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: FakirNL / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -185837,7 +185926,24 @@ window.ATLASDATA={
    "topics": [
     "metal"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tuska-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tuska-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Crowd_Tuska_2019_(2).jpg",
+     "credit": "Photo: WanderingTrad / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The main-stage crowd at Tuska Open Air in Suvilahti, Helsinki, Finland, in 2019."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tuska-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/tuska-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Tuska_2019_crowd.jpg",
+     "credit": "Photo: WanderingTrad / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The festival crowd at Tuska Open Air in front of the Suvilahti gasholder, Helsinki, Finland, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -185873,7 +185979,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: WanderingTrad / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -189423,7 +189529,24 @@ window.ATLASDATA={
     "music",
     "outdoor concerts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-d-ete-de-quebec-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-d-ete-de-quebec-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_d%27%C3%A9t%C3%A9_de_Qu%C3%A9bec,_Quebec_City_(00123_01_23423_03).jpg",
+     "credit": "Photo: Wilfredor / Wikimedia Commons / CC0",
+     "caption": "A packed festival crowd at the Festival d'été de Québec, Quebec City, Canada, in 2024."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-d-ete-de-quebec-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/festival-d-ete-de-quebec-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Festival_d%27%C3%A9t%C3%A9_de_Qu%C3%A9bec,_Quebec_City_(0234234_03).jpg",
+     "credit": "Photo: Wilfredor / Wikimedia Commons / CC0",
+     "caption": "The hillside audience at the Festival d'été de Québec, Quebec City, Canada, in 2024."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -189449,7 +189572,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Wilfredor / Wikimedia Commons / CC0",
    "socials": [
     {
      "platform": "facebook",
@@ -189946,7 +190069,16 @@ window.ATLASDATA={
     "electronic music",
     "concerts"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/musilac-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/musilac-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_du_festival_Musilac_2017_-_Site_de_l%27esplanade_-_Aix-les-Bains.jpg",
+     "credit": "Photo: Mathis73 B. / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The signed entrance, tents and visitors at Musilac on the Esplanade, Aix-les-Bains, France, in 2017."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -189972,7 +190104,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Mathis73 B. / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -201487,7 +201619,16 @@ window.ATLASDATA={
     "gaming",
     "anime convention"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/narcon-sommar-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/narcon-sommar-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:N%C3%A4rCon_2024_-_ambient_01.jpg",
+     "credit": "Photo: Rose Abrams / Wikimedia Commons / CC BY 4.0",
+     "caption": "Outdoor festival grounds and visitors at NärCon Sommar, Linköping, Sweden, in 2024."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -201518,7 +201659,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Rose Abrams / Wikimedia Commons / CC BY 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -206584,7 +206725,16 @@ window.ATLASDATA={
     "rock",
     "urban"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/lokerse-feesten-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/lokerse-feesten-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Alestorm_at_Lokerse_Feesten,_Belgium,_2019.jpg",
+     "credit": "Photo: Haggis MacHaggis / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The main stage and audience during a concert at Lokerse Feesten, Lokeren, Belgium, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -206615,7 +206765,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Haggis MacHaggis / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -208292,7 +208442,24 @@ window.ATLASDATA={
     "music",
     "literature"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-eisteddfod-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-eisteddfod-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Eisteddfod_Genedlaethol_Cymru_Ll%C5%B7n_ac_Eifionydd_2023_o%27r_awyr_15.jpg",
+     "credit": "Photo: Llywelyn2000 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An aerial view of the festival field, tents and crowds at the National Eisteddfod of Wales in Llŷn and Eifionydd, Wales, in 2023."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-eisteddfod-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/national-eisteddfod-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Eisteddfod_Genedlaethol_Cymru_Ll%C5%B7n_ac_Eifionydd_2023_o%27r_awyr_01.jpg",
+     "credit": "Photo: Llywelyn2000 / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "An aerial view of the tent village at the National Eisteddfod of Wales in Llŷn and Eifionydd, Wales, in 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -208317,7 +208484,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Llywelyn2000 / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -212265,7 +212432,16 @@ window.ATLASDATA={
     "folk music",
     "traditional"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/guca-trumpet-festival-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/guca-trumpet-festival-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Trumpet_Festival_in_Guca_Serbia_Defile.jpg",
+     "credit": "Photo: Gumenjak / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A trumpet procession through the street during the Guča Trumpet Festival, Guča, Serbia, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -212301,7 +212477,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Gumenjak / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -232709,7 +232885,16 @@ window.ATLASDATA={
     "flowers",
     "40th anniversary"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/floriade-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/floriade-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:2023-09-27_Floriade_(Canberra).jpg",
+     "credit": "Photo: Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Flower beds, tents and visitors at Floriade in Commonwealth Park, Canberra, Australia, on 27 September 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -232735,7 +232920,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -258028,7 +258213,24 @@ window.ATLASDATA={
     "literature",
     "publishing"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/krakow-book-fair-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/krakow-book-fair-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:02024_1269_International_Book_Fair_in_Krak%C3%B3w_2024.jpg",
+     "credit": "Photo: Silar / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A crowded aisle on the exhibition floor of the International Book Fair in Kraków, Poland, in 2024."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/krakow-book-fair-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/krakow-book-fair-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:02024_1268_International_Book_Fair_in_Krak%C3%B3w_2024.jpg",
+     "credit": "Photo: Silar / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "Visitors in an aisle of stands at the International Book Fair in Kraków, Poland, in 2024."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -258064,7 +258266,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Silar / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -286983,7 +287185,16 @@ window.ATLASDATA={
     "COAC",
     "Andalusian culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-cadiz-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-cadiz-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Coro_carnaval_cadiz_2023.jpg",
+     "credit": "Photo: NACLE / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A carnival choir performing to a street crowd during the Carnival of Cádiz, Spain, in 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -287009,7 +287220,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: NACLE / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "facebook",
@@ -297949,7 +298160,16 @@ window.ATLASDATA={
     "folk music",
     "traditional culture"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vychodna-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vychodna-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Are%C3%A1l_Folkl%C3%B3rneho_festivalu_V%C3%BDchodn%C3%A1.jpg",
+     "credit": "Photo: Nockaba / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "The audience on the grass at the Východná folklore festival grounds, Slovakia, in 2019."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -297980,7 +298200,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: Nockaba / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "instagram",
@@ -305238,7 +305458,24 @@ window.ATLASDATA={
     "mikoshi",
     "Kanda Myojin"
    ],
-   "photos": [],
+   "photos": [
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-1.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-1-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Kanda_Matsuri_20230514a.jpg",
+     "credit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A packed crowd around a festival float at Kanda Matsuri, Tokyo, Japan, on 14 May 2023."
+    },
+    {
+     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-2.jpg",
+     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/kanda-matsuri-2027-2-t.jpg",
+     "orig": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Kanda_Matsuri_20230514c.jpg",
+     "credit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
+     "caption": "A festival float and procession in the street during Kanda Matsuri, Tokyo, Japan, on 14 May 2023."
+    }
+   ],
    "sources": [
     {
      "label": "Official",
@@ -305264,7 +305501,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": null,
+   "photoCredit": "Photo: 江戸村のとくぞう / Wikimedia Commons / CC BY-SA 4.0",
    "socials": [
     {
      "platform": "x",
