@@ -1,6 +1,6 @@
 window.ATLASDATA={
  "updated": "2026-11-26",
- "generated": "2026-11-27T09:43:44Z",
+ "generated": "2026-11-27T10:44:07Z",
  "scope": "Conferences, festivals and sports in Europe, the UAE, the Middle East, North America, South America, Oceania, Asia, and Africa",
  "regions": [
   "europe",
@@ -25191,24 +25191,7 @@ window.ATLASDATA={
     "dance",
     "parades"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-cali-2026-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-cali-2026-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:CARNAVAL_DEL_CALI_VIEJO,_FERIA_DE_CALI_2015.JPG",
-     "credit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "Comparsas in the Carnaval del Cali Viejo parade during the Feria de Cali 2015."
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-cali-2026-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/feria-de-cali-2026-2-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Sals%C3%B3dromo,_Feria_de_Cali,_Colombia.JPG",
-     "credit": "Photo: Jyon / Wikimedia Commons / CC BY-SA 3.0",
-     "caption": "The inaugural Salsódromo parade of the 56th Feria de Cali, 25 December 2012."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Alcaldía de Cali, city government)",
@@ -25244,7 +25227,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Hectorangelazul / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -36354,40 +36337,7 @@ window.ATLASDATA={
     "parades",
     "music"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-1-t.jpg",
-     "orig": "https://www.carnavalencarnaceno.com.py/images/thumbnails/mod_minifrontpage/38_155.jpg",
-     "page": "https://www.carnavalencarnaceno.com.py/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-2-t.jpg",
-     "orig": "https://www.carnavalencarnaceno.com.py/images/thumbnails/mod_minifrontpage/37_155.jpg",
-     "page": "https://www.carnavalencarnaceno.com.py/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-3-t.jpg",
-     "orig": "https://www.carnavalencarnaceno.com.py/images/thumbnails/mod_minifrontpage/39_155.jpg",
-     "page": "https://www.carnavalencarnaceno.com.py/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-encarnaceno-2027-4-t.jpg",
-     "orig": "https://www.carnavalencarnaceno.com.py/images/thumbnails/mod_minifrontpage/34_155.jpg",
-     "page": "https://www.carnavalencarnaceno.com.py/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official (Carnaval Encarnaceno, organiser)",
@@ -37200,40 +37150,7 @@ window.ATLASDATA={
     "Pride March",
     "LGBTQIA+"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-1-t.jpg",
-     "orig": "https://www.midsumma.org.au/media/fpyjcxgl/09-08-2022-031504-7979.jpg?mode=crop&width=1200&height=630",
-     "page": "https://www.midsumma.org.au/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-2-t.jpg",
-     "orig": "https://www.midsumma.org.au/media/4jpodesq/mainimage1-pride-march-2019-flower-power-by-suzanne-balding.jpg?anchor=center&mode=crop&width=1280&height=600&rnd=132531144513700000",
-     "page": "https://www.midsumma.org.au/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-3-t.jpg",
-     "orig": "https://www.midsumma.org.au/media/wxvbjbj3/09-14-2023-065055-8454.jpg",
-     "page": "https://www.midsumma.org.au/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/midsumma-festival-2027-4-t.jpg",
-     "orig": "https://www.midsumma.org.au/media/oqsfrvob/kinfolk-imagery_-2026_out-loud-on-the-ninch_festival-fg-web_-79.jpg",
-     "page": "https://www.midsumma.org.au/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -49813,32 +49730,7 @@ window.ATLASDATA={
     "samba schools",
     "parades"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-1-t.jpg",
-     "orig": "https://ligasp.com.br/wp-content/uploads/2026/07/55066372226_71b3f7d6c7_o-1024x693.jpg",
-     "page": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-2-t.jpg",
-     "orig": "https://ligasp.com.br/wp-content/uploads/2026/09/55159489751_3160649098_o-02-e1789409563543-1024x591.jpg",
-     "page": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-sao-paulo-2027-3-t.jpg",
-     "orig": "https://ligasp.com.br/wp-content/uploads/2026/02/55095485132_6cd7c92f3a_o-1024x683.jpg",
-     "page": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -51034,16 +50926,7 @@ window.ATLASDATA={
     "arts",
     "community events"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/auckland-pride-festival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/auckland-pride-festival-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Auckland_pride_parade_2016_14.jpg",
-     "credit": "Photo: Ле Лой / Wikimedia Commons / CC0",
-     "caption": "Marchers carrying a “Year 30” banner at the Auckland Pride Parade, 2016."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -51074,7 +50957,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Ле Лой / Wikimedia Commons / CC0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "facebook",
@@ -55831,40 +55714,7 @@ window.ATLASDATA={
     "parade",
     "Mardi Gras"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-1-t.jpg",
-     "orig": "https://cptpride.org/wp-content/uploads/2023/03/330590273_439870034979668_4233259380609284528_n-600x400.jpg",
-     "page": "https://cptpride.org/pride-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-2-t.jpg",
-     "orig": "https://cptpride.org/wp-content/uploads/2023/03/334936645_1557311071416490_3821779523755810194_n-600x400.jpg",
-     "page": "https://cptpride.org/pride-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-3-t.jpg",
-     "orig": "https://cptpride.org/wp-content/uploads/2023/03/334937953_3043538852615421_7399123942822660901_n-600x400.jpg",
-     "page": "https://cptpride.org/pride-2027/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/cape-town-pride-2027-4-t.jpg",
-     "orig": "https://cptpride.org/wp-content/uploads/2023/03/330397999_170893942390729_1410738003017115974_n-600x400.jpg",
-     "page": "https://cptpride.org/pride-2027/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -56654,16 +56504,7 @@ window.ATLASDATA={
     "samba schools",
     "parades"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-rio-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/carnaval-rio-2027-1-t.jpg",
-     "orig": "https://riotur.rio/wp-content/uploads/2026/09/55109148885_de5155ecde_o-scaled.jpg",
-     "page": "https://riotur.rio/editorial/carnaval-2027-confira-os-sambas-enredo-das-escolas-do-grupo-especial/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -61241,32 +61082,7 @@ window.ATLASDATA={
     "pride",
     "arts"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-1-t.jpg",
-     "orig": "https://www.mardigras.org.au/wp-content/uploads/2026/11/listing-396110084542-1024x683.jpg",
-     "page": "https://www.mardigras.org.au/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-2-t.jpg",
-     "orig": "https://www.mardigras.org.au/wp-content/uploads/2026/11/listing-397980683712-1-1024x768.jpg",
-     "page": "https://www.mardigras.org.au/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/mardi-gras-2027-3-t.jpg",
-     "orig": "https://www.mardigras.org.au/wp-content/uploads/2026/10/DSC03141-1024x683.jpg",
-     "page": "https://www.mardigras.org.au/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -159791,24 +159607,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "city festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/west-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/west-pride-2027-1-t.jpg",
-     "orig": "https://cdn.prod.website-files.com/6762ea24edf8506d92b8f932/6936229008d2c90e13a9cc5a_Ebba-Johansson-Lund%20(85).png",
-     "page": "https://www.westpride.se/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/west-pride-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/west-pride-2027-2-t.jpg",
-     "orig": "https://cdn.prod.website-files.com/6762ea24edf8506d92b8f932/6762ea24edf8506d92b8fa70_4L6A0611%20Foto.%20Robert%20Nyquist.png",
-     "page": "https://www.westpride.se/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -162949,16 +162748,7 @@ window.ATLASDATA={
     "dance",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-soran-matsuri-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-soran-matsuri-2027-1-t.jpg",
-     "orig": "https://www.yosakoi-soran.jp/wp-content/themes/YOSAKOI/assets/img/index/main/honbanSP.jpg",
-     "page": "https://www.yosakoi-soran.jp/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -169430,40 +169220,7 @@ window.ATLASDATA={
     "parade",
     "culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-1-t.jpg",
-     "orig": "https://www.oslopride.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fqzmxemyn%2Fproduction%2F77df26057e63d2b56eb1d6a36513ca19fec51f1c-1000x667.jpg%3Fauto%3Dformat&w=640&q=75",
-     "page": "https://www.oslopride.no/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-2-t.jpg",
-     "orig": "https://www.oslopride.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fqzmxemyn%2Fproduction%2F6e9e0acee60b285e66da5e7e090b7efca898ce89-8256x5504.jpg%3Fauto%3Dformat&w=640&q=75",
-     "page": "https://www.oslopride.no/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-3-t.jpg",
-     "orig": "https://www.oslopride.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fqzmxemyn%2Fproduction%2F2122f7843f96cad58f145b0db7770cb3d2fd1bc0-1634x1122.png%3Fauto%3Dformat&w=640&q=75",
-     "page": "https://www.oslopride.no/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/oslo-pride-2027-4-t.jpg",
-     "orig": "https://www.oslopride.no/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fqzmxemyn%2Fproduction%2F0d0b6292636f08c550862b28d7db75c1eb2e225f-1280x853.jpg%3Fauto%3Dformat&w=640&q=75",
-     "page": "https://www.oslopride.no/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -174427,16 +174184,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dublin-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/dublin-pride-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Dublin_Pride_Parade_2018_28.jpg",
-     "credit": "Photo: Smirkybec / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A rainbow-arched float and the accompanying crowd at the Dublin Pride Parade 2018."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -174461,7 +174209,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Smirkybec / Wikimedia Commons / CC BY-SA 4.0"
+   "photoCredit": null
   },
   {
    "event_id": "GCE-food-taipei-mega-shows-2027",
@@ -178260,16 +178008,7 @@ window.ATLASDATA={
     "parade",
     "street festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-toronto-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-toronto-2027-1-t.jpg",
-     "orig": "https://www.pridetoronto.com/wp-content/uploads/2023/10/53086590326_1563e0048a_o-scaled.jpg",
-     "page": "https://www.pridetoronto.com/take-part-2/parade-participation/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -178863,16 +178602,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/san-francisco-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/san-francisco-pride-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_Pride_2019_-_June_2019_(6516).jpg",
-     "credit": "Photo: Gregory Varnum / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "The crowd on Market Street at Taylor during San Francisco Pride 2019, beneath ‘Happy Pride!’ and ‘Love is Love’ signs, 30 June 2019."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -178898,7 +178628,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Gregory Varnum / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -179482,16 +179212,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "city festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/helsinki-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/helsinki-pride-2027-1-t.jpg",
-     "orig": "https://pride.fi/wp-content/uploads/2021/05/Alejandro-Lorenzo_kulkue15-scaled-1.jpg",
-     "page": "https://pride.fi/en/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -185347,24 +185068,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-in-london-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-in-london-2027-1-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/68375435c1c7d332b2622bae/1a186ba5-47e9-471b-ad40-1a1c7316a490/Parade_TrafSql_South_HomePg?format=2500w",
-     "page": "https://prideinlondon.org/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-in-london-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-in-london-2027-2-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/68375435c1c7d332b2622bae/e1fb449b-39a7-43c0-8042-f786c586c50b/FrontParade_2025_HomePg?format=2500w",
-     "page": "https://prideinlondon.org/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -202654,40 +202358,7 @@ window.ATLASDATA={
     "demonstration",
     "culture"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-1-t.jpg",
-     "orig": "https://csd-berlin.de/bilder/news/01_SarahConor_WN2026_JacobPhilipp.jpg.jpeg",
-     "page": "https://csd-berlin.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-2-t.jpg",
-     "orig": "https://csd-berlin.de/bilder/statement/demo-masse-flaggen-2400.jpg",
-     "page": "https://csd-berlin.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-3-t.jpg",
-     "orig": "https://csd-berlin.de/bilder/statement/demo-menge-2400.jpg",
-     "page": "https://csd-berlin.de/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/csd-berlin-2027-4-t.jpg",
-     "orig": "https://csd-berlin.de/bilder/statement/buehne-brandenburger-tor-2400.jpg",
-     "page": "https://csd-berlin.de/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -207679,40 +207350,7 @@ window.ATLASDATA={
     "LGBTQ",
     "civic festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-3-t.jpg",
-     "orig": "https://pride.amsterdam/wp-content/uploads/2026/03/Foto-scaled-1-1024x683.jpg",
-     "page": "https://pride.amsterdam/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-4-t.jpg",
-     "orig": "https://pride.amsterdam/wp-content/uploads/2026/03/July_31_SeniorPride_JonHaywood-1680-Pano-scaled-1-1024x439.jpg",
-     "page": "https://pride.amsterdam/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-5.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-5-t.jpg",
-     "orig": "https://pride.amsterdam/wp-content/uploads/2026/03/38928976_850909208449666_80577181360586752_n-720x720-1.jpg",
-     "page": "https://pride.amsterdam/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-6.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/pride-amsterdam-2027-6-t.jpg",
-     "orig": "https://pride.amsterdam/wp-content/uploads/2026/10/images.jpeg",
-     "page": "https://pride.amsterdam/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -208625,32 +208263,7 @@ window.ATLASDATA={
     "LGBTQ+",
     "city festival"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-1-t.jpg",
-     "orig": "https://www.stockholmpride.org/wp-content/uploads/2023/04/Stockholm_Pride-22XXXX-Parad-Hampus_Haara-2267-1536x1024.jpg",
-     "page": "https://www.stockholmpride.org/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-2-t.jpg",
-     "orig": "https://www.stockholmpride.org/wp-content/uploads/2022/08/TorsdagNils-Carmel-3044-1-1536x1073.jpg",
-     "page": "https://www.stockholmpride.org/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/stockholm-pride-2027-3-t.jpg",
-     "orig": "https://www.stockholmpride.org/wp-content/uploads/2023/04/Stockholm_Pride-XXXXXX-House-Julius_Lindblom-1.jpg",
-     "page": "https://www.stockholmpride.org/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -210680,32 +210293,7 @@ window.ATLASDATA={
     "parade",
     "tradition"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-1-t.jpg",
-     "orig": "https://www.hanagasa.jp/resources/img_top/slider/slider_buyou_s.webp",
-     "page": "https://www.hanagasa.jp/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-2-t.jpg",
-     "orig": "https://www.hanagasa.jp/resources/img_top/slider/slider_yomoyama_s.webp",
-     "page": "https://www.hanagasa.jp/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yamagata-hanagasa-matsuri-2027-3-t.jpg",
-     "orig": "https://www.hanagasa.jp/resources/img_top/slider/slider_yomoyama.webp",
-     "page": "https://www.hanagasa.jp/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -211551,16 +211139,7 @@ window.ATLASDATA={
     "folk music",
     "traditional"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/guca-trumpet-festival-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/guca-trumpet-festival-2027-1-t.jpg",
-     "orig": null,
-     "page": "https://commons.wikimedia.org/wiki/File:Trumpet_Festival_in_Guca_Serbia_Defile.jpg",
-     "credit": "Photo: Gumenjak / Wikimedia Commons / CC BY-SA 4.0",
-     "caption": "A trumpet procession through the street during the Guča Trumpet Festival, Guča, Serbia, in 2019."
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -211596,7 +211175,7 @@ window.ATLASDATA={
    "price_eur_min": null,
    "price_eur_max": null,
    "has_price": false,
-   "photoCredit": "Photo: Gumenjak / Wikimedia Commons / CC BY-SA 4.0",
+   "photoCredit": null,
    "socials": [
     {
      "platform": "instagram",
@@ -324095,16 +323674,7 @@ window.ATLASDATA={
     "dance",
     "matsuri"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/awa-odori-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/awa-odori-2027-1-t.jpg",
-     "orig": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.images/2024awaodori_souodori-cleaned.jpg",
-     "page": "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.html",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -325122,40 +324692,7 @@ window.ATLASDATA={
     "Pride",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-1-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/63c5e13b1b441a413e249c09/b23dea53-000b-4254-9ef8-a97a29984917/pride-2026-1.jpg",
-     "page": "https://www.vancouverpride.ca/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-2-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/63c5e13b1b441a413e249c09/120221f6-1cde-4a2c-a3d7-2dd11bc30cde/hp-vps-7.jpg",
-     "page": "https://www.vancouverpride.ca/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-3.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-3-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/63c5e13b1b441a413e249c09/ea360933-6a03-478d-9bd4-5ec782624144/hp-vps-4.jpg",
-     "page": "https://www.vancouverpride.ca/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-4.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/vancouver-pride-2027-4-t.jpg",
-     "orig": "https://images.squarespace-cdn.com/content/v1/63c5e13b1b441a413e249c09/eff1798b-90a1-4830-931f-c0000ccdbca3/hp-vps-11.jpg",
-     "page": "https://www.vancouverpride.ca/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
@@ -327199,24 +326736,7 @@ window.ATLASDATA={
     "dance",
     "parade"
    ],
-   "photos": [
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-matsuri-kochi-2027-1.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-matsuri-kochi-2027-1-t.jpg",
-     "orig": "https://www.yosakoi.com/jp/2026/0P8A2219s.JPG",
-     "page": "https://www.yosakoi.com/jp/",
-     "credit": null,
-     "caption": null
-    },
-    {
-     "src": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-matsuri-kochi-2027-2.jpg",
-     "thumb": "https://pub-e858463479f64cd7bcc799a8cb8dd93c.r2.dev/img/events/yosakoi-matsuri-kochi-2027-2-t.jpg",
-     "orig": "https://www.yosakoi.com/jp/2026/0P8A1532s.JPG",
-     "page": "https://www.yosakoi.com/jp/",
-     "credit": null,
-     "caption": null
-    }
-   ],
+   "photos": [],
    "sources": [
     {
      "label": "Official",
